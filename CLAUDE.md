@@ -454,6 +454,21 @@ python3 tools/vault_find.py "data centre" --days 30
 - **THE PRINCIPLE:** *organise storage by IDEA, retrieve by ENTITY. Folders are exclusive; the questions
   are not.*
 
+### 📱 THE PHONE URL — THE ONE THING THAT WAS NOWHERE IN THIS VAULT UNTIL JAKE ASKED FOR IT (2026-08-23)
+**FRAGILITY LADDER (Artifact — this is the link to open on the iPhone):**
+**`https://claude.ai/code/artifact/6594cb4c-2970-496d-893c-d8ea041f0c11`**
+- ⛔ **IT IS NOT GITHUB PAGES AND MUST NOT BECOME PAGES ON `INMA-`.** Pages there serves
+  **inmagent.com** off `main`/(root); changing the source takes down the live business site.
+  `Wiki-Brain` is PRIVATE, so Pages there needs a paid plan — deliberately not done.
+- ⚠️ **IT IS A STATIC SNAPSHOT, NOT A LIVE PAGE.** The numbers are baked in at BUILD time (a
+  JS-fetching page renders empty to WebFetch, which is why it is built this way). ⇒ **It shows
+  whatever was true when it was last published, and it does NOT refresh itself.**
+- **TO REFRESH IT:** `python3 tools/fragility_feed.py` → `python3 tools/fragility.py` →
+  `python3 tools/fragility_html.py` → **re-publish to the SAME URL** (Artifact with the same
+  file path, `research-vault/docs/index.html`). **A different path claims a NEW url — don't.**
+- ⭐ **RECORD ANY FUTURE HOSTED URL HERE.** It took a retrieval failure to notice the vault had
+  no record of its own published page — 130-note recall on refinery data, zero on its own link.
+
 ### DAILY: THE FRAGILITY LADDER (run it before answering any "is credit cracking" question)
 `python3 tools/fragility.py`  — scores 24 public credit/funding series against their own
 3-year history and prints which of the 7 transmission stages are lit. Refresh first with
