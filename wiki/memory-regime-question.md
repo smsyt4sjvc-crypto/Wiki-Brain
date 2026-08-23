@@ -1188,3 +1188,49 @@ branch those two entries left open.**
   contract print.** **The Sep-end HBM contract update is the measurement; this is the anticipation.**
 - ⬜ **And it says nothing about the F3 fork's OTHER leg — CXMT and the commodity-DRAM floor
   (`:L550`). Hard HBM pricing and a collapsing commodity floor can coexist.**
+
+## 2026-08-23 ~8:50am PDT — ⛔ **JAKE: "WE ALREADY KNOW ABOUT THE 15% NVIDIA INCREASE." CORRECT — THIS NOTE FILED IT 2026-08-22 ~1:00pm PDT (`:L1109`), EIGHTEEN HOURS BEFORE THE SCAN CALLED IT THE "HIGHEST-IMPACT NEW DEVELOPMENT."** ★★★★★ **AND THE MORE USEFUL FINDING IS THAT THE SCAN'S READ IS *WEAKER* THAN THIS NOTE'S IN THREE SPECIFIC PLACES — INCLUDING ONE WHERE IT POINTS THE OPPOSITE WAY**
+Source: Jake's DAILY HOLDINGS SCAN, 2026-08-23 AM, plus his one-line verdict on it. **The underlying
+story is the same Bloomberg report this note already holds; Reuters "could not independently verify" it.**
+⇒ **"N outlets, one origin" — a second outlet restating an unverified first outlet does not raise the rung.**
+
+#### ⛔ WHERE THE SCAN IS WEAKER THAN THE VAULT, ITEM BY ITEM
+- **(1) ⭐ THE SIGN OF THE DEMAND READ IS INVERTED — the most important one.** **Scan: bullish for ASPs
+  "but raises the risk that memory inflation eventually constrains total AI-system demand."**
+  **This note (`:L1109`): NVDA choosing PASS-THROUGH over content cuts IS A REVEALED STATEMENT ABOUT
+  DEMAND INELASTICITY.** ⇒ **The scan reads the hike as evidence of a demand risk. The vault reads the
+  DECISION TO HIKE as evidence the seller believes demand absorbs it.** ⇒ **The F3 fork was set in
+  advance precisely so this would not be read backwards: content cuts = demand fragile; price =
+  demand firm. NVDA picked price.** *(Analysis.)*
+- **(2) THE SCAN HAS NO TRADEABLE NUMBER FOR MU AND THIS NOTE DOES.** **With memory ≈ 62% of the Vera
+  Rubin BOM (`:L850`), a >15% system hike implies a ~24% MEMORY INPUT COST INCREASE** (derived,
+  constant-margin case) — **and the registered end-September HBM contract print is already waiting to
+  test it.** ⇒ **"Bullish for DRAM/HBM ASP durability" is a direction. ~24% with a dated test is a
+  position.** ⚠️ **The 62% is REPORTED-class (a GS figure via a ZH tweet) and the derivation inherits
+  that weakness.**
+- **(3) THE SCAN IMPLIES A MACRO READ-THROUGH THIS NOTE ALREADY KILLED.** `:L1164` — **servers are
+  INVESTMENT goods, so this lands in PPI, NOT the Fed's target index; and it is an EARLY-2027 shipment
+  event that CANNOT APPEAR IN ANY 2026 PRINT.** ⇒ **"AI-flation continues" is true as a price event and
+  false as an inflation-print event.** ⇒ **Anyone trading the September or October CPI off this is
+  trading a number that structurally cannot contain it.** *(Analysis.)*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ WHAT IS GENUINELY NEW IN THE SCAN'S VERSION IS ONE WORD, AND IT IS WORTH KEEPING: "BUILDERS."**
+  The scan attributes the increase to **the ODM/OEM system builders telling customers**, not to NVIDIA
+  raising its own component price. **This note's 8/22 entry recorded it as "NVIDIA is raising prices on
+  many servers."** ⇒ **Those are different economic events: NVDA lifting its chip price is margin
+  capture; system builders lifting finished-system prices on memory cost is BOM pass-through by a
+  third party.** ⇒ **The second is more consistent with the memory-shortage mechanism and LESS
+  informative about NVDA's own pricing power.** 🚩 **REGISTERED: which is it? The distinction changes
+  who captures the 15% and is not resolved by either report.** *(Analysis.)*
+- **⚠️ AND THE SCAN'S OWN CAVEAT IS THE RIGHT ONE AND SHOULD BE CARRIED: Reuters could not
+  independently verify Bloomberg.** ⇒ **Rung stays REPORTED. Eighteen hours and a second outlet have
+  not moved it.**
+
+#### 📌 REGISTERED
+1. 🚩🚩 **NVDA CHIP PRICE vs SYSTEM-BUILDER BOM PASS-THROUGH — who is actually raising the price?**
+   ⬜ Unresolved in both reports. **It decides whether this is NVDA margin capture or memory-cost
+   transmission, and the vault has been reading it as the first.**
+2. 🚩🚩🚩 **END-SEPTEMBER HBM CONTRACT PRINT vs the derived ~24%** — carried, unchanged, and now the
+   only thing that grades the derivation.
+**Links:** [[ai-capex-cycle]] · [[financing-fragility-gauge]] · [[ai-infra-allocation-map]] · [[compression-thesis]]

@@ -3172,3 +3172,62 @@ data is 8/21-22, the page is stamped 8/23.**
 5. 🚩 **THE OMAN COASTAL ROUTE'S SHARE OF TRANSITS** — the whole "Iran is losing its grip" claim rests
    on it and no source has quantified it. ⬜ Not in either document.
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[europe-energy-crunch]] · [[market-fragility]]
+
+### 2026-08-23 ~8:40am PDT — ⛔⛔ **"IRAN RAISED THE POSSIBILITY OF TARGETING ALTERNATIVE GULF OIL ROUTES" IS NOT A NEW THREAT — IT IS A THREAT TO REPEAT SOMETHING THIS BOARD ALREADY RECORDED AS DONE, ON A NAMED TARGET, WITH A MEASURED EFFECT.** ★★★★★ **The East-West/Petroline pumping station was struck 2026-07-27 (VIIRS-confirmed, `war-confirmed:L449`) and Petroline loadings ran −40% under missile threat (`war-confirmed:L194`).** ⇒ **The scan files this as "risk remains elevated." The vault can price it: ~6.5-7 mb/d of total bypass against ~17-20 mb/d of normal Hormuz flow, both routes already under fire**
+Source: Jake's DAILY HOLDINGS SCAN, window through Sunday 2026-08-23 AM, ingested line by line per his
+standing instruction. Items: **Iran's president — the US memorandum "remains the best route out," no
+breakthrough on reopening Hormuz; Iran's security chief — retaliation threatened against neighbouring
+countries supporting economic measures, and the possibility of targeting ALTERNATIVE GULF OIL ROUTES.**
+⚠️ **Press summary, not a primary text. ⬜ Neither statement traced to an original transcript or wire.**
+
+#### DATA — WHAT THE BOARD ALREADY HOLDS ON THE OBJECT BEING THREATENED
+- **`:L1080` — the capacity ceiling: Petroline ~5 mb/d + ADCOP/Habshan-Fujairah ~1.5-1.8 mb/d ≈ 6.5-7
+  mb/d, against ~17-20 mb/d normally through Hormuz = under 40% at FULL utilisation.** ⚠️ **That line
+  carries its own health warning — "pre-2026 figures from recollection, not vault data." It is a
+  magnitude, not a measurement.**
+- **`war-confirmed:L422 / L449 / L455` (2026-07-27) — THE EAST-WEST (PETROLINE) PUMPING STATION WAS
+  NAMED AS A SECOND FIRE SITE AND CONFIRMED BY SATELLITE: a FIRMS cluster at ~24.04°N, 49.19°E, ~200km
+  SW of Abqaiq on the ~24°N lane, overnight persistence, footprint-wide pixel cluster.**
+- **`war-confirmed:L194` — East-West loadings −40% under missile threat.** ⇒ **The measured effect of
+  the last attempt on this exact target.**
+- **`:L1076` — the geography that compounds it: Petroline terminates at YANBU, ON THE RED SEA — the
+  second warzone. A bypass whose OUTLET is also blockaded is not a bypass.**
+- **`war-confirmed:L489` (2026-07-28) — JAZAN REFINERY CONFIRMED SHUT, 400k bpd.** **`:L1016` — the
+  14-country Red Sea maritime coalition, HQ'd in Riyadh.**
+- **⭐ AND THE PIECE WITH NO BYPASS AT ALL, from `:L1082`: QATARI LNG. No pipeline exists; ~1/5 of
+  global LNG, every cargo through Hormuz.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE SCAN'S CATEGORY IS WRONG AND THE CORRECTION IS THE WHOLE VALUE OF THE ITEM. It files
+  this under "RISK REMAINS ELEVATED" — a STATE, which by this vault's own law shades odds and times
+  nothing.** ⇒ **But a threat against a target that has ALREADY BEEN STRUCK, with a demonstrated
+  capability and a measured −40% effect, is not a state. It is a repeat of a dated, executed action.**
+  ⇒ **The right frame is not "will Iran escalate" — it is "the escalation rung was climbed on 7/27,
+  the effect was measured, and the actor is signalling a return to it."** *(Analysis.)*
+- **⇒ ★★★★★ AND IT LANDS ON THIS MORNING'S CRACK WORK IMMEDIATELY, WHICH IS WHY THE SCAN'S SILO IS
+  EXPENSIVE.** `oil-value-chain:L1885` set the discriminator: **whether the crack widens or narrows
+  depends entirely on WHICH MOLECULE the shock moves.** ⇒ **A strike on the bypass hits the CRUDE leg
+  (Petroline moves crude to Yanbu) — crude up, and per the measured +0.405 beta the crack rises WITH
+  it, mildly.** ⇒ **But Yanbu and Jazan are REFINERIES on the same coast, and Jazan is already shut.
+  A Red Sea strike that hits refining hits the PRODUCT leg — and that widens the crack hard.**
+  ⇒ **Both branches are crack-POSITIVE. This is the first item in a week that is unambiguously
+  favourable to the refiner position, and the scan did not connect it to the position at all.**
+  *(Analysis.)*
+- **⛔ AND THE ONE THING THAT CUTS THE OTHER WAY, NAMED SO THIS IS NOT ONE-SIDED: the president's
+  statement is CONCILIATORY** — the memorandum "remains the best route out." ⇒ **Two Iranian officials
+  saying opposite things on the same weekend is the pattern this board logged on 7/30 (`:L2578`, the
+  IRGC "reopen" wording) and again on 8/06 (`:L1532`, the FARS text disentangling two objects).**
+  ⇒ **⛔ DO NOT read the security chief's line as policy and the president's as noise, or the reverse.
+  The board's standing treatment is that Iran speaks with two voices ON PURPOSE and the ARTIFACT — a
+  circular, an order, a strike — is what resolves them.** *(Analysis.)*
+- **⚠️ AND THE HONEST LIMIT ON ALL OF IT: this is a press summary of two statements.** ⬜ **No wire, no
+  transcript, no named outlet in the scan.** ⇒ **Rung: REPORTED. Do not promote it by repetition.**
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **PETROLINE / YANBU LOADINGS — the instrument that grades the threat, and the board already
+   has a baseline: −40% under missile threat (`war-confirmed:L194`).** ⬜ **Not re-read since July.**
+2. 🚩🚩 **VERIFY THE 6.5-7 mb/d BYPASS CEILING.** `:L1080` flags itself as recollection. **It is now
+   load-bearing in two threads and should not stay unverified.**
+3. 🚩 **TRACE BOTH IRANIAN STATEMENTS TO PRIMARY** (IRNA/Fars/Tasnim for the security chief; the
+   president's remarks to a transcript). ⬜ Neither traced.
+**Links:** [[oil-value-chain]] · [[demand-destruction]] · [[war/war-confirmed]] · [[europe-energy-crunch]]

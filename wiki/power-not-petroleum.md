@@ -405,3 +405,51 @@ been saying for 3 years? (Elon for a decade)"* **Testable in the same Census C30
   side still accelerating.** ⇒ **Not a 2026 problem. A 2027-2029 problem, arriving in the same window
   as the fab-supply thinning.** *(Analysis.)* [[buildout-bottleneck-map]] · [[market-fragility]]
 **Links:** [[ai-capex-cycle]] · [[buildout-bottleneck-map]] · [[memory-regime-question]] · [[nuclear]]
+
+## 2026-08-23 ~9:00am PDT — 🕳️ **MAP GAP #19, OPENED NOT CLOSED: THIS VAULT HAS NEVER PRICED THE COAL OPTION — IN EITHER DIRECTION.** ⛔ **`grep -rn "coal" wiki/` returns hits on the word "COALITION" and nothing else. The router returned NO MATCH on a data-centre fuel-politics item, which by rule 4 is a map defect, fixed this turn**
+Source: Jake's DAILY HOLDINGS SCAN, 2026-08-23 — **"Nearly 200 MAHA-aligned activists urged the Trump
+administration not to use AI/data-center growth as justification for expanded coal generation."**
+⚠️ **Lobbying, not a regulatory action. ⬜ No rule, docket, order or agency notice named. Rung: REPORTED.**
+
+#### ⛔ THE GAP, STATED AS A DEFECT RATHER THAN AS NEWS
+- **THE THESIS THIS NOTE CARRIES IS A SCARCITY THESIS: power is the binding constraint on AI buildout,
+  and the equities that own dispatchable generation capture the rent.** ⇒ **A scarcity thesis is only
+  as good as the list of things that could RELIEVE the scarcity.**
+- **THE VAULT'S RELIEF LIST HAS BEEN: gas turbines (with the multi-year Tier-A queue), nuclear/SMR
+  (with ANNOUNCED ≠ PERMITTED ≠ ENERGIZED), renewables + storage, the interconnection queue, and
+  behind-the-meter siting.** ⛔ **COAL — specifically, DEFERRING THE RETIREMENT OF EXISTING COAL PLANTS
+  — has never been on it.** ⇒ **That is not a small omission: it is the single fastest source of
+  incremental dispatchable megawatts in the United States, because the plant is already built,
+  already interconnected, and already sited. It requires a policy decision, not a construction cycle.**
+- ⇒ **★★★ THE VAULT HAS THEREFORE BEEN CARRYING A ONE-SIDED SUPPLY PICTURE. Every "no new capacity
+  before 2029" line in this thread implicitly assumes the coal fleet keeps retiring on schedule.**
+  ⬜ **That assumption has NEVER BEEN STATED, let alone tested.** *(Analysis.)*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE INBOUND ITSELF IS LOW-VALUE AND THE GAP IT EXPOSED IS HIGH-VALUE, AND THOSE SHOULD NOT BE
+  CONFLATED.** **200 activists writing a letter is not a policy change and does not shade odds on
+  anything.** ⇒ **What is worth the entry is that a two-line item walked straight through a thread map
+  built over seven weeks and hit nothing.** *(Analysis.)*
+- **⚠️ AND THE DIRECTION OF THE MISSING RISK IS NOT OBVIOUS, WHICH IS WHY IT NEEDS MEASURING RATHER
+  THAN ASSERTING.** **(a) If retirement deferrals proceed, incremental supply arrives faster than the
+  vault's model allows — BEARISH for the scarcity rent the power basket trades.** **(b) If the
+  political fight the scan describes gains traction and coal stays foreclosed, the constraint is
+  TIGHTER than the vault has modelled and nuclear/gas capture more of it.** ⇒ **Both are live; the
+  vault currently prices NEITHER because it has not registered that the fork exists.** *(Analysis.)*
+- **⭐ AND THE COALITION ITSELF IS THE ODD DATUM WORTH ONE LINE: the pressure here is coming from a
+  HEALTH-ALIGNED constituency inside the administration's own coalition, not from the environmental
+  left.** ⇒ **Opposition from an out-group is priced. Opposition from an in-group is the kind that
+  changes policy, and it is the kind a market-focused scan is least likely to weight.** *(Analysis.
+  Thin evidence — one lobbying letter — and stated as a hypothesis, not a finding.)*
+
+#### 📌 REGISTERED — all four are ⬜ NOT FETCHED
+1. 🚩🚩🚩 **THE US COAL RETIREMENT SCHEDULE, GW BY YEAR (EIA-860M is the primary).** **This is the
+   number that decides whether the vault's supply picture is right, and it is one public fetch.**
+2. 🚩🚩 **HOW MANY GW OF SCHEDULED COAL RETIREMENTS HAVE ALREADY BEEN DEFERRED SINCE 2025, and under
+   what authority (DOE 202(c) emergency orders are the mechanism).**
+3. 🚩🚩 **DOES ANY ANNOUNCED DATA-CENTRE DEAL NAME COAL AS ITS GENERATION SOURCE?** ⇒ **If the answer
+   is none, the political fight is about a thing that is not happening and the gap is theoretical.**
+4. 🚩 **MAP FIXED THIS TURN** — `tools/acute_scanner_cell.py` POWER concepts now carry
+   `coal · lignite · retirement deferral · coal plant · fuel source · maha · clean air · emissions
+   rule · epa · sierra club · air permit`. **Re-tested: the same paste now routes POWER(2).**
+**Links:** [[power-scarcity-equities]] · [[nuclear]] · [[buildout-bottleneck-map]] · [[ai-capex-cycle]]

@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **56 dated entries across 3 notes · 2026-06-30 → 2026-08-22 · refreshed 2026-08-23 07:23 PDT**
+> **58 dated entries across 3 notes · 2026-06-30 → 2026-08-23 · refreshed 2026-08-23 08:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -75,3 +75,5 @@
 - `2026-08-22` [buildout-bottleneck-map.md:L1125](../buildout-bottleneck-map.md) — 2026-08-22 ~9:30am PDT — ⛔⛔⛔ **THE SANHUA RMB 5bn / $685M / 180,000-ROBOT ORDER IS A RUMOUR THE COMPANY PUBLICLY DENIED ON 2025-10-15. THE VAULT FILED
 - `2026-08-22` [buildout-bottleneck-map.md:L1195](../buildout-bottleneck-map.md) — ★★★ 2026-08-22 — **STANDING POSITION: THE OPTIMUS / MAGNET / PHYSICAL-AI THREAD.** ⛔ **THIS ENTRY IS CANONICAL. IT SUPERSEDES `:L1057` AND `:L1066` AS
 - `2026-08-22` [nuclear.md:L377](../nuclear.md) — 2026-08-22 ~12:55pm PDT — ⭐⭐⭐ **RADIANT/KALEIDOS ADDRESSES EXACTLY ONE OF THE THREE CONSTRAINTS THIS NOTE NAMED — FUEL — AND THE ARTICLE ITSELF CONCED
+- `2026-08-23` [buildout-bottleneck-map.md:L1301](../buildout-bottleneck-map.md) — 2026-08-23 ~9:10am PDT — 📌 **FT'S ~$40B US CRITICAL-MINERALS AGGREGATE IS NEW TO THE VAULT; MP'S $400M IS NOT — AND THE FT PIECE DOES NOT CLOSE THE FL
+- `2026-08-23` [power-not-petroleum.md:L391](../power-not-petroleum.md) — 2026-08-23 ~9:00am PDT — 🕳️ **MAP GAP #19, OPENED NOT CLOSED: THIS VAULT HAS NEVER PRICED THE COAL OPTION — IN EITHER DIRECTION.** ⛔ **`grep -rn "coal

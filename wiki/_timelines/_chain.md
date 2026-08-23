@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **595 dated entries · 2026-05-22 → 2026-08-22 · refreshed 2026-08-23 07:23 PDT**
+> **596 dated entries · 2026-05-22 → 2026-08-23 · refreshed 2026-08-23 08:45 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -624,3 +624,4 @@
 - `2026-08-22` **[4]** ai-capex-cycle.md:L3379 — 2026-08-22 ~9:00am PDT — **ON/SYNAPTICS S-4: THE HEADLINE IS 12% DILUTION, BUT THE NUMBER THE FILING ACTUALLY DISCLOSES IS THAT *ON'S OWN STOCK FELL 3
 - `2026-08-22` **[5]** memory-regime-question.md:L1069 — 2026-08-22 ~1:00pm PDT — ★★★★★★ **THE F3 FORK RESOLVES: NVDA CHOSE PASS-THROUGH, NOT CONTENT CUTS. AND BECAUSE THE VAULT HOLDS MEMORY AT 62% OF THE VE
 - `2026-08-22` **[5]** compression-thesis.md:L2382 — 2026-08-22 ~1:15pm PDT — ⛔ **NO, IT DID NOT COME OUT OF THE BLUE — THE VAULT NAMED THE *STRATEGY* IN JULY AND HELD THE VEHICLES. ★★★ WHAT IS ACTUALLY 
+- `2026-08-23` **[5]** memory-regime-question.md:L1152 — 2026-08-23 ~8:50am PDT — ⛔ **JAKE: "WE ALREADY KNOW ABOUT THE 15% NVIDIA INCREASE." CORRECT — THIS NOTE FILED IT 2026-08-22 ~1:00pm PDT (`:L1109`), EI

@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **171 dated entries across 2 notes · 2026-05-22 → 2026-08-23 · refreshed 2026-08-23 07:23 PDT**
+> **172 dated entries across 2 notes · 2026-05-22 → 2026-08-23 · refreshed 2026-08-23 08:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -193,3 +193,4 @@
 - `2026-08-20` [ai-capex-cycle.md:L3299](../ai-capex-cycle.md) — 2026-08-20 ~10:05am PDT — ⛔⛔⛔ **MY OWN CONTRA-REVENUE SIZING FROM YESTERDAY WAS WRONG BY ~12× AND THE CONCLUSION FLIPS: the real tranche count is 240,
 - `2026-08-22` [ai-capex-cycle.md:L3379](../ai-capex-cycle.md) — 2026-08-22 ~9:00am PDT — **ON/SYNAPTICS S-4: THE HEADLINE IS 12% DILUTION, BUT THE NUMBER THE FILING ACTUALLY DISCLOSES IS THAT *ON'S OWN STOCK FELL 3
 - `2026-08-23` [war-board.md:L2941](../war/war-board.md) — 2026-08-23 ~7:20am PDT — ✅✅✅ **THE HORMUZ TRAFFIC FLAG (`:L2897`, open since 8/19) IS CLOSED: EVERY VESSEL-COUNT SERIES RECONCILES ONCE THE ~140/DAY B
+- `2026-08-23` [war-board.md:L3095](../war/war-board.md) — 2026-08-23 ~8:40am PDT — ⛔⛔ **"IRAN RAISED THE POSSIBILITY OF TARGETING ALTERNATIVE GULF OIL ROUTES" IS NOT A NEW THREAT — IT IS A THREAT TO REPEAT SO

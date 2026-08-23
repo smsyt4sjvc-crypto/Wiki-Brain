@@ -288,7 +288,16 @@ THREADS = {
                'grid operator','transmission','substation','ratepayer','moratorium',
                'nuclear','reactor','criticality','part 57','nrc',
                'avista','spokane','oklo','westinghouse','vistra','constellation','nextera',
-               'ge vernova','ercot','caiso','datacenter power','megawatt','gigawatt'],
+               'ge vernova','ercot','caiso','datacenter power','megawatt','gigawatt',
+               # gap #19 (2026-08-23): THE FUEL-SOURCE POLITICS LAYER. A daily scan carried
+               # "~200 MAHA-aligned activists urged the administration not to use AI/data-centre
+               # growth to justify expanded COAL generation" and the map returned NOTHING --
+               # `grep -rn coal wiki/` hits only the word "coalition". The vault's power thesis
+               # has priced gas, nuclear, renewables and the interconnection queue and has NEVER
+               # priced the COAL option, in either direction: as competing supply that would
+               # relieve the scarcity the thesis trades, or as the political fight over it.
+               'coal','lignite','retirement deferral','coal plant','fuel source',
+               'maha','clean air','emissions rule','epa','sierra club','air permit'],
  # gap #18 (2026-08-09): Western-hemisphere replacement-barrel vocabulary — a Venezuela-imports
  # paste weak-matched ALLIANCE(1)* while demand-destruction held the +1.6M b/d offset line and the
  # China-routing prior. The oil map covered the DISRUPTED side, never the REPLACEMENT side.

@@ -1345,3 +1345,42 @@ Source: Jake's docx "Optimus Supply-Chain, Magnets & Physical-AI Investability M
 - **Harmonic Drive Systems is investable on ITS OWN FILED AI-ROBOT BOOKINGS — not on a claimed Tesla
   award.** ⇒ **⭐ THE RIGHT TEMPLATE FOR THIS ENTIRE THREAD: buy the disclosed backlog, not the
   rumoured customer.**
+
+### 2026-08-23 ~9:10am PDT — 📌 **FT'S ~$40B US CRITICAL-MINERALS AGGREGATE IS NEW TO THE VAULT; MP'S $400M IS NOT — AND THE FT PIECE DOES NOT CLOSE THE FLAG REGISTERED AGAINST IT YESTERDAY**
+Source: Jake's DAILY HOLDINGS SCAN, 2026-08-23, citing an FT review: **"the U.S. has committed roughly
+$40B to critical-mineral projects while Europe has moved much more slowly," with MP's $400M government
+investment cited as a flagship example.** ⚠️ **A newspaper review, not an agency document.**
+
+#### DATA
+- **⭐ NEW: ~$40B as the AGGREGATE US commitment to critical-mineral projects.** ⇒ **The vault has held
+  the INDIVIDUAL awards (`:L1331`, 8/22) but never a total, and never a US-vs-Europe comparison.**
+  **A denominator for a thesis that has been running on line items.**
+- **⛔ NOT NEW: MP ~$400M.** `:L1331` recorded it 2026-08-22 — **"MP ~$400M preferred equity + ~$150M
+  HREE-separation loan · USAR up to ~$277M direct + ~$1.3B CHIPS senior-secured loan · UUUU ~$725M
+  conditional OSC loan · Phoenix Tailings ~$500M."** ✅ **The magnitude-collision gate caught this
+  correctly on ingest — the fix committed this morning is already earning.**
+- **⛔⛔ AND THE FLAG FILED WITH THAT LINE IS STILL OPEN AND THE FT PIECE DOES NOT CLOSE IT:** *"⚠️ All
+  'reported/described in thread' — ⬜ none traced to a primary award document. 🚩 REGISTERED: trace each
+  to its awarding agency notice."* ⇒ **An FT review restating the same figure is a SECOND OUTLET, not a
+  PRIMARY SOURCE. "N outlets, one origin."** ⇒ **The rung does not move.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ THE SCAN'S OWN FRAMING IS RIGHT AND WORTH ENDORSING EXPLICITLY, BECAUSE IT IS THE DISCIPLINE
+  THIS VAULT ASKS FOR: it labels the item "POLICY THESIS CONFIRMED, NO NEW HOLDING AWARD."** ⇒ **That is
+  exactly the ANNOUNCED-vs-CONTRACTED distinction, applied unprompted. Confirmation of a moat is not a
+  cash flow to a holding.** *(Analysis.)*
+- **⚠️ AND THE ONE THING TO DO WITH THE ~$40B, WHICH IS NOT WHAT IT LOOKS LIKE: use it as a
+  DENOMINATOR, not as a bullish datum.** **The named awards in `:L1331` sum to roughly $3.4B across
+  four names.** ⇒ **If the aggregate is ~$40B, the vault's four holdings hold under a tenth of the
+  committed pool.** ⇒ **The interesting question is therefore not "is policy support real" — the vault
+  settled that — but **WHO HOLDS THE OTHER ~$36B, and does any of it fund a COMPETITOR to these four?**
+  **Industrial policy at $40B scale is as likely to create rivals as to protect incumbents, and the
+  vault's "policy moat" language has never tested that.** *(Analysis. ⚠️ The $3.4B sum is arithmetic on
+  reported figures, and the $40B is a newspaper aggregate — the ratio is indicative, not measured.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **DECOMPOSE THE ~$40B: how much went to the vault's four names vs to everyone else?**
+   ⬜ Not fetched. **This is the test of "policy moat" vs "policy-funded competition."**
+2. 🚩🚩 **CARRIED UNCHANGED from `:L1331` — trace each award to its awarding agency notice.** **Six
+   days, two outlets, still zero primary documents.**
+**Links:** [[power-not-petroleum]] · [[ai-capex-cycle]] · [[portfolio-state]]
