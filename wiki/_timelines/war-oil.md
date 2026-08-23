@@ -1,6 +1,6 @@
 # ⏱ WAR/OIL — merged timeline (the gate)
 
-> **243 dated entries across 3 notes · 2026-03-13 → 2026-08-23 · refreshed 2026-08-23 06:57 PDT**
+> **245 dated entries across 3 notes · 2026-03-13 → 2026-08-23 · refreshed 2026-08-23 07:19 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -263,5 +263,7 @@
 - `2026-08-19` [oil-value-chain.md:L1665](../oil-value-chain.md) — 2026-08-19 ~8:20am PDT — ★★★★★★ **BOTH DECISIVE SERIES RESOLVED IN ONE PRINT AND BOTH LAND ON THE POSITION'S SIDE: refinery utilisation 97.2% (no supp
 - `2026-08-19` [war-board.md:L2757](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 
 - `2026-08-23` [oil-value-chain.md:L1745](../oil-value-chain.md) — 2026-08-23 ~7:05am PDT — ⛔⛔⛔ **JAKE'S Q: "IF BRENT TANKS, CRACKS JUMP RIGHT? DENOMINATOR DOWN?" — THERE IS NO DENOMINATOR. THE CRACK IS A SUBTRACTION.
-- `2026-08-23` [oil-value-chain.md:L1780](../oil-value-chain.md) — ★★★★★★ THE BASE RATE, WITH ITS n AND ITS WINDOW (2026-08-23 pull; 486 matched sessions, 2024-08-23 → 2026-08-21; roll-day artefacts dropped at |ΔWTI| 
+- `2026-08-23` [oil-value-chain.md:L1786](../oil-value-chain.md) — ★★★★★★ THE BASE RATE, WITH ITS n AND ITS WINDOW (2026-08-23 pull; 486 matched sessions, 2024-08-23 → 2026-08-21; roll-day artefacts dropped at |ΔWTI| 
+- `2026-08-23` [oil-value-chain.md:L1875](../oil-value-chain.md) — 2026-08-23 ~7:35am PDT — ✅✅✅ **THE 12-MONTH DEFERRED STRIP LANDS AND CLOSES THE #1 REGISTERED ITEM (open since 8/17).** ★★★★★★ **AND IT ANSWERS JAKE'S
+- `2026-08-23` [oil-value-chain.md:L1983](../oil-value-chain.md) — 2026-08-23 ~7:40am PDT — 🔧 **TOOL DEFECT FOUND AND FIXED: `librarian.py`'s MAGNITUDE-COLLISION CHECK WAS BLIND TO EVERY $/bbl FIGURE IN THIS VAULT** —
 - `2026-08-23` [war-board.md:L2941](../war/war-board.md) — 2026-08-23 ~7:20am PDT — ✅✅✅ **THE HORMUZ TRAFFIC FLAG (`:L2897`, open since 8/19) IS CLOSED: EVERY VESSEL-COUNT SERIES RECONCILES ONCE THE ~140/DAY B

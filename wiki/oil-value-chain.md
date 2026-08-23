@@ -1803,6 +1803,12 @@ Price data: **Yahoo chart API close arrays** (never `meta`), pulled 2026-08-23 ~
 | Thu 8/20 | 100.34 | 49.21 | 66.26 | 87.83 | 93.78 | 5.95 |
 | **Fri 8/21** | **97.10** | **40.91** | **59.64** | 87.06 | 94.39 | **7.33** |
 
+- ⚠️ **RESTATED IN PROSE WITH UNITS SO THE INGEST GATE CAN SEE THEM — a figure that lives only
+  inside a pipe table is INVISIBLE to `librarian.py`'s magnitude-collision check (proven 8/23,
+  see `:L2028`): the 3-2-1 crack settled at $66.26/bbl on THU 2026-08-20 and at $59.64/bbl on
+  FRI 2026-08-21; the ULSD crack at $100.34/bbl and $97.10/bbl on the same two days; WTI at
+  $87.83/bbl and $87.06/bbl.**
+
 - **✅✅ THIRD-PARTY CORROBORATION OF THIS VAULT'S OWN ARITHMETIC, ON BOTH ENDS OF THE WEEK.** ZeroHedge
   quotes **Bloomberg's HOCL1 index "topped $100" and a tweet dated 8/17 reading "Diesel crack hits record
   $102"** — this note computes **101.86 at the 8/17 settle.** ZH: **"the US diesel crack spread closed
@@ -1910,3 +1916,134 @@ Price data: **Yahoo chart API close arrays** (never `meta`), pulled 2026-08-23 ~
 4. 🚩 **DOES THE 8/21 GASOLINE COLLAPSE (RBOB crack −$8.31 in one session, −17%) HOLD?** It did most of
    the work in the 3-2-1 print and one session is not a regime.
 **Links:** [[war/war-board]] · [[demand-destruction]] · [[portfolio-state]] · [[market-fragility]]
+
+### 2026-08-23 ~7:35am PDT — ✅✅✅ **THE 12-MONTH DEFERRED STRIP LANDS AND CLOSES THE #1 REGISTERED ITEM (open since 8/17).** ★★★★★★ **AND IT ANSWERS JAKE'S CRACK QUESTION IN THE MARKET'S OWN PRICES, NOT IN A REGRESSION: THE CRACK CURVE IS BACKWARDATED HARDER THAN THE CRUDE CURVE — WTI −$13.64 front-to-back (−15.7%) while the ULSD crack is −$33.02 (−34.0%).** ⛔⛔ **AND HIS $66.26 IS THURSDAY'S PRINT, NOT FRIDAY'S — it matches this note's 8/20 settle TO THE PENNY, and Friday closed at $59.64**
+Source: **Jake's paste, 2026-08-23 ~7:10am PDT** — 12-month WTI strip avg ≈ $78.62/bbl, Oct-26 $87.06
+→ Sep-27 $73.42 (−$13.64); **3-2-1 = $66.26/bbl attributed to RBN "latest reading from Aug. 21"**;
+cross-check **EIA Gulf Coast physical 3-2-1 = $67.26/bbl on Aug. 20.**
+**Verified independently: NYMEX contract-by-contract pull (CL/HO/RB, V26→U27), Yahoo chart API close
+arrays, 2026-08-23 ~7:20am PDT.** ⚠️ **Sunday — every print is FRIDAY 2026-08-21's settle.**
+
+#### DATA (MEASURED — the full forward curve, all three legs, 12 contract months)
+| month | WTI | ULSD | RBOB | ULSD crack | 3-2-1 |
+|---|---|---|---|---|---|
+| Oct-26 (front) | 87.06 | 4.3848 | 3.0468 | **97.10** | **59.64** |
+| Nov-26 | 85.16 | 4.2431 | 2.8697 | 93.05 | 54.59 |
+| Dec-26 | 83.02 | 4.0847 | 2.7201 | 88.54 | 50.33 |
+| Jan-27 | 81.05 | 3.9645 | 2.6380 | 85.46 | 48.32 |
+| Feb-27 | 79.37 | 3.8558 | 2.6094 | 82.57 | 47.67 |
+| Mar-27 | 77.97 | 3.7343 | 2.6105 | 78.87 | **47.40** ← trough |
+| Apr-27 | 76.83 | 3.6043 | 2.7934 | 74.55 | 51.85 |
+| May-27 | 75.92 | 3.4986 | 2.7749 | 71.02 | 50.76 |
+| Jun-27 | 75.16 | 3.4125 | 2.7379 | 68.16 | 49.28 |
+| Jul-27 | 74.51 | 3.3555 | 2.6895 | 66.42 | 47.77 |
+| Aug-27 | 73.93 | 3.3102 | 2.6354 | 65.10 | 46.20 |
+| Sep-27 (back) | 73.42 | 3.2739 | 2.5724 | **64.08** | **44.44** |
+- **✅ HIS STRIP RECONCILES EXACTLY, EVERY FIGURE.** **12-month WTI average = $78.62** (this pull:
+  78.62) · **Oct-26 $87.06** (87.06) · **Sep-27 $73.42** (73.42) · **decline $13.64** (13.64).
+  ⇒ **Two independent routes to the same curve. The strip is confirmed and quotable.**
+- **⭐ THE NUMBERS THE CURVE ADDS THAT HIS PASTE DID NOT CARRY — and they are the ones that matter:**
+  **12-month ULSD-crack strip average = $77.91/bbl** (front 97.10 → back 64.08).
+  **12-month 3-2-1 strip average = $49.85/bbl** (front 59.64 → back 44.44).
+- **★★★★★★ THE FRONT-TO-BACK COMPARISON, WHICH IS THE WHOLE ANSWER:**
+  | leg | front | back | Δ | % |
+  |---|---|---|---|---|
+  | WTI | 87.06 | 73.42 | **−13.64** | **−15.7%** |
+  | ULSD crack | 97.10 | 64.08 | **−33.02** | **−34.0%** |
+  | 3-2-1 crack | 59.64 | 44.44 | **−15.20** | **−25.5%** |
+  ⇒ **IMPLIED FORWARD BETA (Δcrack ÷ Δcrude): +2.42 for the ULSD crack, +1.11 for the 3-2-1.**
+  ⇒ **Both POSITIVE, and both STEEPER than the historical betas measured this morning at `:L1831`
+    (+0.405 ULSD, +0.156 3-2-1).**
+
+##### ⛔⛔ THE DATE ERROR, AND IT IS PROVABLE TO THE PENNY
+- **This note computed the 3-2-1 at 66.26 for THURSDAY 2026-08-20 and 59.64 for FRIDAY 2026-08-21
+  (`:L1803`, filed ~25 minutes before his paste arrived).** **RBN's figure is 66.26.**
+  ⇒ **A penny-exact match across a $6.62 daily move is not coincidence. RBN's "latest reading from
+  Aug. 21" is AUG 20 DATA carrying an AUG 21 PUBLICATION DATE.**
+- **⭐ AND HIS OWN CROSS-CHECK CONFIRMS IT RATHER THAN CORROBORATING THE NUMBER: EIA's Gulf Coast
+  physical 3-2-1 is stamped AUG 20.** ⇒ **He has two readings of THE SAME SESSION, not two sessions
+  agreeing.** **The $1.00 gap between them (67.26 physical vs 66.26 futures) is an ordinary Gulf Coast
+  physical-vs-NYMEX basis and is itself evidence they are the same day.**
+- ⇒ **⛔ NEITHER SOURCE HAS SEEN FRIDAY. Friday took the 3-2-1 down $6.62 (−10.0%) to 59.64, driven by
+  RBOB (crack −$8.31, −17%), and neither RBN nor EIA reflects it.** **This is error class 1 —
+  a LABEL trusted over the DATA — arriving from a vendor rather than from us.**
+- ⚠️ **THE ALTERNATIVE I CANNOT FULLY EXCLUDE: RBN may quote a lagged or averaged physical series by
+  convention rather than by mistake.** ⇒ **Either way the operative fact is unchanged: the figure does
+  not describe Friday.** ⬜ **RBN's stated methodology has NOT been read.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE CURVE IS THE CLEANEST POSSIBLE ANSWER TO "IF BRENT TANKS, CRACKS JUMP RIGHT?" AND IT
+  SAYS NO — IN PRICES PEOPLE ARE ACTUALLY TRANSACTING AT, TWELVE MONTHS FORWARD.** **The forward
+  market prices crude DOWN $13.64 and the diesel crack DOWN $33.02 over the identical span.** ⇒ **This
+  morning's answer was a historical base rate (486 sessions, β +0.405) and could be dismissed as
+  out-of-sample for a Hormuz world. THE FORWARD CURVE CANNOT: it is the market's expectation for THIS
+  world, priced today, and it is steeper in the same direction.** ⇒ **Two independent methods,
+  one conclusion. That is as settled as this vault gets.** *(Analysis.)*
+- **✅★★★★★ AND IT RESOLVES THE DIVERGENCE I REGISTERED THIS MORNING — THE REFINER EQUITIES ARE NOT
+  LATE, THEY WERE NEVER PRICING THE FRONT MONTH.** `:L1861` flagged: refiners flat to +2.5% since 8/17
+  while the front 3-2-1 fell 13.8%. **The 12-month strip average is $49.85 — versus this note's own
+  ~$23 2018-25 normal (`:L64`).** ⇒ **The equities are capitalising a mid-cycle ~$50 crack, i.e.
+  ~2.2× normal, and are indifferent to whether the front month prints 66 or 60.** ⇒ **The registered
+  question is answered and the answer is the boring one: no divergence, a duration mismatch between
+  the instrument I was watching and the instrument they are pricing.** *(Analysis.)*
+- **⇒ ★★★★★ WHICH REVERSES WHAT THE FRONT-MONTH COLLAPSE SEEMED TO MEAN FOR THE POSITION. If the
+  equities discount ~$50 and the strip IS ~$50, then the refiner trade is no longer "the equity has
+  not priced the crack" (`:L1151`, already retired) NOR "the crack is about to mean-revert and take
+  them down." IT IS FAIRLY PRICED TO THE CURVE.** ⇒ **The remaining edge is not the front month at
+  all — it is whether the DEFERRED strip is too low.** **That is one bet, it is dated, and it is
+  finally measurable: $49.85 is the number to be right or wrong about.** *(Analysis.)*
+- **★★★★ JAKE'S CHARACTERISATION SURVIVES ON THE LEVEL AND FAILS ONLY ON THE DATE.** *"Extraordinary
+  territory, not merely healthy"* — **front 3-2-1 at 59.64 is 2.6× the ~$23 norm; the 12-month strip
+  at 49.85 is 2.2×; even the WORST month on the curve (Mar-27, 47.40) is 2.1×.** ⇒ **The market is
+  not pricing normalisation. It is pricing a permanently elevated plateau at roughly double the
+  2018-25 average for at least a year.** ⇒ **That is the genuinely remarkable fact in his paste, and
+  it is a STRONGER statement than the one he made, because it survives the date correction.**
+  *(Analysis.)*
+- **⚠️ AND THE ONE FEATURE THAT MUST NOT BE READ AS A SIGNAL: the 3-2-1 troughs at 47.40 in Mar-27 and
+  JUMPS to 51.85 in Apr-27.** **That is RBOB going 2.6105 → 2.7934 — the summer-grade gasoline spec
+  changeover, a calendar artefact present in every year's curve.** ⛔ **The ULSD crack, which has no
+  such spec break, declines MONOTONICALLY 97.10 → 64.08 across all twelve months. The diesel curve is
+  the clean instrument; the 3-2-1 carries a seasonal.** *(Analysis.)*
+- **⚠️ HONEST LIMIT ON THE BACK MONTHS: deferred energy contracts are thin.** A Sep-27 close is a
+  settlement, not a traded level, and the far end of any curve carries a term premium that is not a
+  forecast. ⇒ **The SHAPE is the finding; the back-month LEVEL should not be quoted as "the market
+  expects $73.42 crude."** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED — "the 12-month deferred crack," registered `:L1907` (and `:L1156` on 8/17) and carried 6 days.**
+   ULSD strip $77.91 · 3-2-1 strip $49.85 · both backwardated harder than crude.
+2. ✅ **CLOSED — the refiner-equity divergence (`:L1861`, opened this morning).** Duration mismatch,
+   not mispricing.
+3. 🚩🚩🚩 **IS $49.85 TOO LOW? — the ONLY remaining refiner question, and now the whole trade.**
+   ⬜ Needs Russian refining capacity recovery, Gulf product-export restart, and the 9/1 producer
+   exemption — all already registered, none fetched.
+4. 🚩🚩 **RE-READ RBN'S METHODOLOGY** before quoting it again. ⬜ Not read. **Until then treat any RBN
+   date stamp as a PUBLICATION date.**
+5. 🚩 **RE-PULL THE FULL CURVE WEEKLY.** The front-to-back shape is the instrument; a single month is
+   not. Contract-by-contract pull, `CL/HO/RB` + `V26…U27` + `.NYM`, is now a known-good route.
+**Links:** [[war/war-board]] · [[demand-destruction]] · [[portfolio-state]] · [[ai-infra-allocation-map]]
+
+---
+
+### 2026-08-23 ~7:40am PDT — 🔧 **TOOL DEFECT FOUND AND FIXED: `librarian.py`'s MAGNITUDE-COLLISION CHECK WAS BLIND TO EVERY $/bbl FIGURE IN THIS VAULT** — it reported "no figure in this inbound matches one already on file" for a paste whose headline number the vault had committed 25 minutes earlier
+- **WHAT HAPPENED: the gate was run on Jake's strip paste, as the rules require, and returned
+  clean.** **The collision was real — 66.26 was sitting in `:L1803` — and I caught it by memory, not
+  by the tool.** ⇒ **A gate that misses is worse than no gate, because it certifies.**
+- **THE CAUSE: `MAG_RE` matched only four shapes — `$NNN B/M/T`, `NN GW/MW`, `NN bp`, `NN%`.**
+  ⇒ **A commodity price has NONE of those. The entire WAR/OIL thread — every crack, every strip,
+  every Brent and WTI print — was invisible to the check built to protect it.**
+- **THE FIX (committed with this entry): two branches added —**
+  **(a) price-per-unit** `$66.26/bbl · 78.62/bbl · $/mmbtu · /MWh · /gal · /ton`, and
+  **(b) bare dollars-and-cents** `$87.06 · $73.42`.
+  **Verified: all eight of `$66.26/bbl · $78.62/bbl · $87.06 · $73.42 · $500B · 10GW · 33.6bp · 25%`
+  now match, with no regression on the original four.**
+- **⛔ AND A SECOND, SEPARATE DEFECT THE FIX DOES NOT SOLVE — A WRITING RULE, NOT A CODE ONE:
+  A FIGURE THAT LIVES ONLY INSIDE A PIPE TABLE IS STILL INVISIBLE.** The vault's own 66.26 sat in
+  `| Thu 8/20 | 100.34 | 49.21 | 66.26 | …` — bare cells, no `$`, no unit — so nothing on the WIKI
+  side matched either. ⇒ **★★★ NEW STANDING RULE: ANY FIGURE THAT WILL BE RE-QUOTED MUST APPEAR AT
+  LEAST ONCE IN PROSE, WITH ITS UNIT AND ITS DATE.** A table is a display format; **the gate reads
+  sentences.** Applied retroactively at `:L1808`. **Re-tested: the gate now fires correctly.**
+- **⇒ THE GENERAL LESSON, WHICH IS THE ONE WORTH KEEPING: THIS IS ERROR CLASS 6 TURNED INWARD —
+  attributing a failed CHECK to the absence of a collision instead of to the CHECK.** **"The gate
+  said clean" is not evidence of clean until the gate has been shown to be able to see the thing.**
+**Links:** [[data-sourcing-playbook]] · [[_calibration]]

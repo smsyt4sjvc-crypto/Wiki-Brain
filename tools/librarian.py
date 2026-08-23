@@ -108,7 +108,18 @@ MAG_RE = re.compile(r"""(?xi)
   | (?:\b\d[\d,]*(?:\.\d+)?\s*(?:gw|mw|gigawatt|megawatt)s?\b)              # 10GW, 800MW
   | (?:\b\d+(?:\.\d+)?\s*(?:bp|bps|basis points?)\b)                        # 33.6bp
   | (?:\b\d+(?:\.\d+)?\s?%)                                                 # 25%, 19.2%
+  | (?:\$?\s?\d[\d,]*(?:\.\d+)?\s*(?:/|\s?per\s?)                             # ⭐ PRICE PER UNIT --
+       (?:bbl|barrel|gal|gallon|mmbtu|mwh|kwh|therm|ton|tonne|mt|lb|oz)s?\b)   #   $66.26/bbl, 78.62/bbl
+  | (?:\$\s?\d[\d,]*\.\d{2}\b)                                              # ⭐ BARE DOLLARS+CENTS: $87.06
 """)
+# ⛔ ADDED 2026-08-23 AFTER THE GATE MISSED A COLLISION IT EXISTED TO CATCH.
+# Jake pasted "3-2-1 crack spread: $66.26/bbl, RBN's latest reading from Aug. 21."
+# The vault had committed 66.26 as the AUG 20 3-2-1 twenty minutes earlier
+# (oil-value-chain:L1803). The gate reported "no figure in this inbound matches one
+# already on file" -- because the ORIGINAL MAG_RE only saw $NNN B/M/T, GW/MW, bp and %.
+# ⇒ THE ENTIRE COMMODITY THREAD TRADES IN $/bbl AND WAS INVISIBLE TO THE COLLISION CHECK.
+# That is the exact miss the check was built to prevent (error class 1: a LABEL -- "Aug 21" --
+# trusted over the DATA). Caught by hand this time. It should not need to be.
 DATE_RE = re.compile(r'(20\d\d-\d\d-\d\d)')
 MAX_ANCHOR_HITS = 60   # above this a token is vocabulary, not an entity (calibrated 8/17)
 # Generic market/status vocabulary that arrives CAPITALISED and therefore looks like an entity.
