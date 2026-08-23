@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **173 dated entries across 2 notes · 2026-03-13 → 2026-08-23 · refreshed 2026-08-23 07:19 PDT**
+> **174 dated entries across 2 notes · 2026-03-13 → 2026-08-23 · refreshed 2026-08-23 07:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -194,4 +194,5 @@
 - `2026-08-23` [oil-value-chain.md:L1745](../oil-value-chain.md) — 2026-08-23 ~7:05am PDT — ⛔⛔⛔ **JAKE'S Q: "IF BRENT TANKS, CRACKS JUMP RIGHT? DENOMINATOR DOWN?" — THERE IS NO DENOMINATOR. THE CRACK IS A SUBTRACTION.
 - `2026-08-23` [oil-value-chain.md:L1786](../oil-value-chain.md) — ★★★★★★ THE BASE RATE, WITH ITS n AND ITS WINDOW (2026-08-23 pull; 486 matched sessions, 2024-08-23 → 2026-08-21; roll-day artefacts dropped at |ΔWTI| 
 - `2026-08-23` [oil-value-chain.md:L1875](../oil-value-chain.md) — 2026-08-23 ~7:35am PDT — ✅✅✅ **THE 12-MONTH DEFERRED STRIP LANDS AND CLOSES THE #1 REGISTERED ITEM (open since 8/17).** ★★★★★★ **AND IT ANSWERS JAKE'S
-- `2026-08-23` [oil-value-chain.md:L1983](../oil-value-chain.md) — 2026-08-23 ~7:40am PDT — 🔧 **TOOL DEFECT FOUND AND FIXED: `librarian.py`'s MAGNITUDE-COLLISION CHECK WAS BLIND TO EVERY $/bbl FIGURE IN THIS VAULT** —
+- `2026-08-23` [oil-value-chain.md:L1985](../oil-value-chain.md) — 2026-08-23 ~7:40am PDT — 🔧 **TOOL DEFECT FOUND AND FIXED: `librarian.py`'s MAGNITUDE-COLLISION CHECK WAS BLIND TO EVERY $/bbl FIGURE IN THIS VAULT** —
+- `2026-08-23` [oil-value-chain.md:L2008](../oil-value-chain.md) — 2026-08-23 ~8:05am PDT — ⛔⛔⛔ **JAKE: "AND YOU DO HAVE OUR FULL REFINERY BRANCH RIGHT? WE WENT OVER THIS EXTENSIVELY LAST WEEK." — HE IS RIGHT TO ASK. 

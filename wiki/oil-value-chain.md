@@ -1980,6 +1980,7 @@ arrays, 2026-08-23 ~7:20am PDT.** ⚠️ **Sunday — every print is FRIDAY 2026
   world, priced today, and it is steeper in the same direction.** ⇒ **Two independent methods,
   one conclusion. That is as settled as this vault gets.** *(Analysis.)*
 - **✅★★★★★ AND IT RESOLVES THE DIVERGENCE I REGISTERED THIS MORNING — THE REFINER EQUITIES ARE NOT
+  ⟲ SUPERSEDED 2026-08-23 → oil-value-chain.md:L2091 — FALSIFIED BY THE REGISTERED MEASUREMENT I DID NOT RUN: refiner equity vs crack r = 0.41-0.48 on 90 days -- they DO price the crack. The equities held because the DEFERRED crack rose (Nov-26 +1.09, Dec-26 +1.96) while the front fell -4.58, not because of a duration mismatch
   LATE, THEY WERE NEVER PRICING THE FRONT MONTH.** `:L1861` flagged: refiners flat to +2.5% since 8/17
   while the front 3-2-1 fell 13.8%. **The 12-month strip average is $49.85 — versus this note's own
   ~$23 2018-25 normal (`:L64`).** ⇒ **The equities are capitalising a mid-cycle ~$50 crack, i.e.
@@ -2010,6 +2011,7 @@ arrays, 2026-08-23 ~7:20am PDT.** ⚠️ **Sunday — every print is FRIDAY 2026
   expects $73.42 crude."** *(Analysis.)*
 
 #### 📌 REGISTERED
+  ⟲ SUPERSEDED 2026-08-23 → oil-value-chain.md:L2064 — MIS-STATED THE VAULT'S OWN STATE: the deferred crack was NOT unfetched -- :L1262 recorded Nov-26 91.96 and Dec-26 86.58 on 8/17. Closing it as a fresh level lost the CHANGE, which is the finding
 1. ✅ **CLOSED — "the 12-month deferred crack," registered `:L1907` (and `:L1156` on 8/17) and carried 6 days.**
    ULSD strip $77.91 · 3-2-1 strip $49.85 · both backwardated harder than crude.
 2. ✅ **CLOSED — the refiner-equity divergence (`:L1861`, opened this morning).** Duration mismatch,
@@ -2047,3 +2049,108 @@ arrays, 2026-08-23 ~7:20am PDT.** ⚠️ **Sunday — every print is FRIDAY 2026
   attributing a failed CHECK to the absence of a collision instead of to the CHECK.** **"The gate
   said clean" is not evidence of clean until the gate has been shown to be able to see the thing.**
 **Links:** [[data-sourcing-playbook]] · [[_calibration]]
+
+### 2026-08-23 ~8:05am PDT — ⛔⛔⛔ **JAKE: "AND YOU DO HAVE OUR FULL REFINERY BRANCH RIGHT? WE WENT OVER THIS EXTENSIVELY LAST WEEK." — HE IS RIGHT TO ASK. THE BRANCH IS 130 MENTIONS ACROSS 16 NOTES AND I BUILT THIS MORNING'S TWO ENTRIES WITHOUT CITING IT ONCE.** ★★★★★★ **AND IT CUTS *FOR* HIM: the vault's own 8/19 EIA print says the two conditions that make the historical β inapplicable are BOTH measured — utilisation 97.2% with capacity SHRINKING, and distillate demand FLAT y/y.** ⛔ **PLUS THREE CORRECTIONS TO MY OWN 7:35am ENTRY, ALL FROM THE BRANCH I SKIPPED**
+Source: Jake's challenge, 2026-08-23 ~7:55am PDT. Retrieval run: `tools/vault_find.py refinery`
+→ **130 mentions across 16 notes** (demand-destruction 39 · oil-value-chain 30 · war-board 19 ·
+war-confirmed 19). Measurements below: Yahoo chart API close arrays + NYMEX contract pull,
+2026-08-23 ~8:00am PDT. ⚠️ **Sunday — all prints are FRIDAY 2026-08-21's settle.**
+
+#### ⛔ CORRECTION 1 — THE DEFERRED CRACK WAS NOT "UNFETCHED." THE VAULT PULLED IT ON 8/17.
+- **`:L1262` (2026-08-17) records: *"JAKE'S 60-90 DAYS MAPS TO Nov-26 AND Dec-26, AND THE MARKET PRICES
+  THOSE AT 91.96 AND 86.58 AGAINST A 101.68 FRONT."*** ⇒ **The deferred ULSD crack HAD been fetched, in
+  the same construction, six days ago.**
+- **⇒ MY 7:35am ENTRY CALLED IT "registered 8/17 and carried 6 days" AND CLOSED IT WITH A FRESH LEVEL.**
+  **That is error class 6 turned inward AGAIN, on the same morning I named it: I attributed the vault's
+  silence to the vault instead of to my retrieval.** ⛔ **And it cost the finding, because a level is not
+    ⟲ SUPERSEDES oil-value-chain.md:L2013 — MIS-STATED THE VAULT'S OWN STATE: the deferred crack was NOT unfetched -- :L1262 recorded Nov-26 91.96 and Dec-26 86.58 on 8/17. Closing it as a fresh level lost the CHANGE, which is the finding
+  the product — the CHANGE is:**
+  | ULSD crack | 2026-08-17 | 2026-08-21 | Δ |
+  |---|---|---|---|
+  | **FRONT (Oct-26)** | **101.68** | **97.10** | **−4.58** |
+  | **Nov-26** | **91.96** | **93.05** | **+1.09** |
+  | **Dec-26** | **86.58** | **88.54** | **+1.96** |
+- **★★★★★★ THE DEFERRED CRACK ROSE WHILE THE FRONT FELL. THE CURVE FLATTENED FROM THE FRONT END.**
+  ⇒ **Stating it in prose with units and dates, per the rule set at `:L2028`: the Nov-26 ULSD crack went
+  from $91.96/bbl on 2026-08-17 to $93.05/bbl on 2026-08-21; Dec-26 from $86.58/bbl to $88.54/bbl; the
+  front month from $101.68/bbl to $97.10/bbl.**
+
+#### ⛔ CORRECTION 2 — "THE EQUITIES WERE NEVER PRICING THE FRONT MONTH" IS WRONG, AND A REGISTERED MEASUREMENT SAYS SO
+- **`rates-board:L343` (2026-08-19) ALREADY established that the crack and refiner equity are DIFFERENT
+  INSTRUMENTS — and registered the exact fix: *"🚩 REFINER EQUITY vs THE CRACK, ROLLING CORRELATION —
+  carried from `oil-value-chain`, still unfetched."*** ⇒ **I closed a divergence by INFERENCE at 7:35am
+  when the MEASUREMENT that settles it had been registered four days earlier and is a 60-second pull.**
+- **RUN NOW — daily equity RETURN vs daily $ change in the ULSD crack, 499 matched sessions:**
+  | ticker | 2y r | 90d r | 30d r |
+  |---|---|---|---|
+  | VLO | 0.33 | **0.47** | 0.32 |
+  | MPC | 0.26 | **0.46** | 0.40 |
+  | PSX | 0.25 | **0.48** | 0.42 |
+  | PBF | 0.35 | 0.41 | 0.18 |
+  | XLE | 0.24 | 0.35 | 0.31 |
+- ⇒ **THE EQUITIES DO TRACK THE CRACK, AND THE LINK HAS TIGHTENED: r ≈ 0.45-0.48 on 90 days against
+  0.25-0.35 over two years.** ⇒ **⛔ "A duration mismatch — they were never pricing the front month" is
+  FALSIFIED. They price it; r just is not 1.**
+- **★★★★★ THE CORRECT EXPLANATION IS CORRECTION 1, AND IT IS SIMPLER: the refiners held because the part
+  ⟲ SUPERSEDES oil-value-chain.md:L1982 — FALSIFIED BY THE REGISTERED MEASUREMENT I DID NOT RUN: refiner equity vs crack r = 0.41-0.48 on 90 days -- they DO price the crack. The equities held because the DEFERRED crack rose (Nov-26 +1.09, Dec-26 +1.96) while the front fell -4.58, not because of a duration mismatch
+  of the curve they capitalise WENT UP.** Nov-26 +1.09 and Dec-26 +1.96 against a front −4.58. ⇒ **There
+  was never a divergence to explain. I was watching one month; they were discounting twelve, and those
+  twelve improved.** *(Analysis.)*
+
+#### ⛔ CORRECTION 3 — THE BRANCH CONTAINS THE STRONGEST ARGUMENT *FOR* JAKE'S MECHANISM AND I ARGUED AGAINST HIM WITHOUT IT
+**`:L1710` (2026-08-19, EIA WPSR w/e 2026-08-14, fetched from the primary) — the two named
+discriminators, both resolved:**
+- **REFINERY UTILISATION 97.2%** (4-wk 96.8%) against a practical ceiling near 98% ⇒ **~0.8pp ≈ 145 kb/d
+  of headroom.** **OPERABLE CAPACITY 18,027 kb/d — 133 kb/d SMALLER THAN A YEAR AGO.**
+- **DISTILLATE PRODUCT SUPPLIED 3,953 kb/d, −0.4% y/y (4-wk −0.8%) at a $5.45 national retail diesel.**
+- **PADD-1 ULSD — the NYH delivery point that actually prices the HO contract — 21.2 MMbbl, −1.7 on the
+  week, −19.7% y/y, −35.9% vs two years ago.** **The regional draw EXCEEDED the entire national draw.**
+- **DISTILLATE STOCKS 105.6 MMbbl vs a computed 5-yr comparable floor of 112.3 ⇒ −5.91% BELOW THE FLOOR,
+  and the gap WIDENED from −4.55% the prior week.**
+- **US PRODUCT EXPORTS +19.5% y/y on the 4-week average.**
+- **⇒ ★★★★★★ THIS IS WHY THE β I QUOTED AT HIM DOES NOT BIND HERE, AND I SHOULD HAVE SAID SO MYSELF.**
+  **The +0.405 historical beta (`:L1831`) has a MECHANISM: crude falls on demand destruction, and
+  products fall harder because products are where the consumer is.** ⇒ **THAT MECHANISM REQUIRES A DEMAND
+  CHANNEL THAT THIS VAULT HAS MEASURED AS NOT OPERATING** — distillate demand is flat y/y at $5.45.
+  ⇒ **And the supply channel that would otherwise arbitrage a wide crack is CLOSED: 97.2% utilisation
+  with capacity shrinking is not a market that can respond to margin.** ⇒ **A base rate estimated across
+  486 ordinary sessions is being applied to a configuration the vault has explicitly documented as
+  extraordinary.** *(Analysis.)*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE NET OF ALL THREE CORRECTIONS IS THAT JAKE'S POSITION IS STRONGER THAN MY 7:35am ENTRY
+  LEFT IT, AND THE EVIDENCE FOR THAT WAS ON DISK BEFORE HE ASKED.** **The forward curve still prices the
+  crack down (that stands, and it is the market's view). But the deferred months are being marked UP week
+  over week, the equities that track them held, and the two physical discriminators the vault itself
+  nominated both read for a sustained crack.** ⇒ **The honest statement is: the CURVE disagrees with him
+  and the PHYSICAL DATA agrees with him, and that disagreement IS the trade.** *(Analysis.)*
+- **⛔⛔ WHAT SURVIVES AGAINST HIM, RESTATED SO THIS IS NOT A CAPITULATION: the Gulf product-export
+  disconfirmer (`:L1878`, 157 product tankers vs 42 crude) is UNTOUCHED by the refinery branch, and the
+  branch arguably SHARPENS it.** **US refiners run 97.2% and export +19.5% y/y — that export flow is the
+  channel carrying European and Russian tightness into the US margin.** ⇒ **Gulf product returning
+  through Hormuz competes with US product exports into the SAME destination markets.** ⇒ **The one
+  disconfirmer I found this morning is the one the branch makes WORSE, not better.** *(Analysis.)*
+- **⚠️ AND THE VAULT'S OWN LAW STILL APPLIES TO ALL OF IT, from `:L1267`: *"the evidence supports the GAP.
+  It does not support the CLOCK."*** **97.2% utilisation and flat demand are STATES. They shade odds and
+  time nothing.** ⇒ **The dated, falsifiable items are the 2026-09-01 Russian producer exemption and
+  late-October Q3 guidance — both already registered, both still the only things that settle it.**
+  *(Analysis.)*
+- **⚠️ HONEST LIMIT ON THE CORRELATION: r ≈ 0.45 on 90 days is a co-movement measurement, not a
+  causal or a lead-lag one.** ⬜ **No lag structure was tested. "The equities track the crack" is not the
+  same claim as "the crack leads the equities," and only the second would be tradeable.**
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED — "refiner equity vs the crack, rolling correlation" (`rates-board:L343` #3, registered
+   8/19).** r = 0.24-0.35 (2y), 0.41-0.48 (90d). **Closed with a measurement, not an inference.**
+2. 🚩🚩🚩 **THE DEFERRED CRACK, RE-READ WEEKLY AS A CHANGE — Nov-26 and Dec-26 specifically, because
+   those are the months Jake's registered proposition (`:L1262`) settles in.** **Baseline now dated:
+   8/17 → 8/21 both UP while the front fell.** ⛔ **Never quote a level again without the prior week's.**
+3. 🚩🚩 **LEAD-LAG: does the crack LEAD refiner equity, or move with it?** ⬜ Untested; the r above
+   cannot distinguish them.
+4. 🚩🚩 **NEXT EIA WPSR (w/e 2026-08-21, released ~2026-08-26): utilisation, distillate product supplied,
+   PADD-1 ULSD.** **These are the three that decide whether the physical case holds, and they are the
+   ONLY series that can overturn the branch's current read.**
+5. 🚩 **`vault_find.py` ON THE THREAD NOUN BEFORE ANSWERING A THREAD QUESTION — not just `librarian.py`
+   on the paste.** The gate reads the INBOUND; it does not ask what the vault knows about the SUBJECT.
+   **Both of today's misses are that gap, and Jake found it before I did.**
+**Links:** [[rates-board]] · [[demand-destruction]] · [[war/war-board]] · [[portfolio-state]]

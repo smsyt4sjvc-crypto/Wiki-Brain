@@ -1,6 +1,6 @@
 # ⏱ POWER — merged timeline (the gate)
 
-> **56 dated entries across 3 notes · 2026-06-30 → 2026-08-22 · refreshed 2026-08-23 07:19 PDT**
+> **56 dated entries across 3 notes · 2026-06-30 → 2026-08-22 · refreshed 2026-08-23 07:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
