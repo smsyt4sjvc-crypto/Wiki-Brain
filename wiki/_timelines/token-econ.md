@@ -1,6 +1,6 @@
 # ⏱ TOKEN-ECON — merged timeline (the gate)
 
-> **143 dated entries across 3 notes · 2026-07-16 → 2026-08-22 · refreshed 2026-08-23 08:45 PDT**
+> **144 dated entries across 3 notes · 2026-07-16 → 2026-08-23 · refreshed 2026-08-23 16:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -159,3 +159,4 @@
 - `2026-08-18` [compression-thesis.md:L2323](../compression-thesis.md) — 2026-08-18 ~2:30pm PDT (source 2026-08-13 11:11pm) — ⚠️★★★★ **A 57× PRICE SPREAD ACROSS A 7.2-POINT PERFORMANCE SPREAD — THE COMPRESSION THESIS AS ONE
 - `2026-08-19` [metered-compute.md:L2388](../metered-compute.md) — 2026-08-19 ~8:00am PDT — ⭐⭐⭐⭐⭐ **THE BEST DATA THIS NOTE HAS EVER HAD ON ITS OWN REGISTERED TEST: VERCEL JULY-2026 — TOKEN VOLUME +59%, REALIZED $/TOK
 - `2026-08-22` [compression-thesis.md:L2382](../compression-thesis.md) — 2026-08-22 ~1:15pm PDT — ⛔ **NO, IT DID NOT COME OUT OF THE BLUE — THE VAULT NAMED THE *STRATEGY* IN JULY AND HELD THE VEHICLES. ★★★ WHAT IS ACTUALLY 
+- `2026-08-23` [compression-thesis.md:L2461](../compression-thesis.md) — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A

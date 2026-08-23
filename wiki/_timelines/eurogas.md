@@ -1,6 +1,6 @@
 # ⏱ EUROGAS — merged timeline (the gate)
 
-> **119 dated entries across 3 notes · 2026-07-23 → 2026-08-23 · refreshed 2026-08-23 08:45 PDT**
+> **120 dated entries across 3 notes · 2026-07-23 → 2026-08-23 · refreshed 2026-08-23 16:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -135,3 +135,4 @@
 - `2026-08-23` [oil-value-chain.md:L2008](../oil-value-chain.md) — 2026-08-23 ~8:05am PDT — ⛔⛔⛔ **JAKE: "AND YOU DO HAVE OUR FULL REFINERY BRANCH RIGHT? WE WENT OVER THIS EXTENSIVELY LAST WEEK." — HE IS RIGHT TO ASK. 
 - `2026-08-23` [war-board.md:L2941](../war/war-board.md) — 2026-08-23 ~7:20am PDT — ✅✅✅ **THE HORMUZ TRAFFIC FLAG (`:L2897`, open since 8/19) IS CLOSED: EVERY VESSEL-COUNT SERIES RECONCILES ONCE THE ~140/DAY B
 - `2026-08-23` [war-board.md:L3095](../war/war-board.md) — 2026-08-23 ~8:40am PDT — ⛔⛔ **"IRAN RAISED THE POSSIBILITY OF TARGETING ALTERNATIVE GULF OIL ROUTES" IS NOT A NEW THREAT — IT IS A THREAT TO REPEAT SO
+- `2026-08-23` [war-board.md:L3155](../war/war-board.md) — 2026-08-23 ~4:45pm PDT — ✅ **THE PRIMARY LANDS EIGHT HOURS AFTER I REGISTERED IT AND IT CLOSES FLAG `:L3231` #3 — AND THE PARAPHRASE WAS WEAKER THAN T

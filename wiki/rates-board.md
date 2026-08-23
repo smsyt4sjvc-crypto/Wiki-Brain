@@ -953,3 +953,93 @@ table supplies three of the four legs.**
   **The 30Y sits at 5.28 having round-tripped the last intervention. ⬜ The test: does a second
   announcement move it further than the first, or less? A DECAYING response to successive
   interventions would be the single most informative thing the long end could print.**
+
+### 2026-08-23 ~4:35pm PDT — ✅✅✅ **TCHIR'S HEADLINE VERIFIED AGAINST THE PRIMARY AND IT IS EXACT: THE FED OWNS 52.5% OF EVERYTHING MATURING 2036-2041.** ⛔⛔⛔ **AND THE PRIMARY ALSO KILLS HIS INTERPRETATION, ON TWO COUNTS HE COULD NOT SEE FROM THE AGGREGATE: (a) THE 52.5% IS A SMALL-DENOMINATOR ARTEFACT — the Fed holds ~$510-540B in EACH long bucket, and 10-15y is simply the smallest sector; (b) 15 OF THE 23 CUSIPs ARE HELD AT EXACTLY 70.0%, WHICH IS THE FED'S OWN PER-ISSUE CAP.** ★★★★★★ **⇒ THE FED CANNOT BUY ANOTHER BOND THERE. WHICH MEANS HIS OWN POLICY RECOMMENDATION — A NEW OPERATION TWIST — CANNOT BE EXECUTED IN THE SECTOR HE IS POINTING AT**
+Source: Jake's upload — **ZeroHedge, "The Fed Owns Over 50% Of All Bonds Maturing Between 10 And 15
+Years From Now," SUNDAY AUG 23 2026 09:50 AM, submitted by PETER TCHIR of Academy Securities**
+(8 pages) → `raw/2026-08-23-fed-duration-ownership/zh-fed-duration.txt`.
+**VERIFICATION: NEW YORK FED SOMA HOLDINGS, PRIMARY API, as of 2026-08-19** —
+`markets.newyorkfed.org/api/soma/tsy/get/all/asof/2026-08-19.json`, 3.898T par across all coupon
+CUSIPs, `percentOutstanding` used as reported. ⚠️ **SOMA is 8/19; Tchir wrote 8/23 citing Bloomberg.
+Four days and a different vendor — small gaps below are expected and are not errors.**
+
+#### DATA (MEASURED — SOMA per-CUSIP, bucketed by years to maturity from 2026-08-19)
+| bucket | SOMA par $B | est. outstanding $B | **FED % OWNED** | CUSIPs |
+|---|---|---|---|---|
+| <1y (coupons only) | 464.7 | 3,209.5 | 14.5% | 58 |
+| 1-3y | 861.3 | 5,786.1 | 14.9% | 95 |
+| 3-5y | 524.2 | 3,858.7 | 13.6% | 57 |
+| 5-7y | 278.4 | 2,337.2 | 11.9% | 37 |
+| 7-10y | 189.3 | 1,849.9 | 10.2% | 19 |
+| **10-15y** | **539.7** | **1,027.8** | **52.5%** | **23** |
+| 15-20y | 512.1 | 1,813.0 | 28.2% | 44 |
+| 20y+ | 528.2 | 2,821.3 | 18.7% | 49 |
+- **✅ "OVER 50% OF ALL BONDS MATURING BETWEEN 10 AND 15 YEARS FROM NOW" → 52.5%. CONFIRMED.**
+- **✅ "longer-dated holdings nearing 20%" → 20y+ = 18.7%. CONFIRMED.** (15y+ combined = 22.4%.)
+- **✅ "almost half a trillion of COUPON bonds maturing within the next year" → $464.7B.** Tchir says
+  $426B; the measured figure is HIGHER and closer to his own adjective.
+- **⚠️ "the average coupon is 2.9%" → MEASURED par-weighted 2.21%, simple 2.66%. HIS FIGURE IS HIGH ON
+  BOTH.** ⇒ **The carry bleed he describes is therefore WORSE than he states: 2.21% earned against
+  3.63% Fed Funds Effective = −142bp, not −73bp.** **His conclusion strengthens; his number does not.**
+- **✅ AND HIS HYPOTHETICAL'S ARITHMETIC CHECKS EXACTLY.** *"Over 15% of the total 20+ and over 20% of
+  the float the Fed doesn't already own"*: **$464.7B ÷ $2,821.3B = 16.5%** ✓ · **$464.7B ÷ ($2,821.3 −
+  $528.2) = 20.3%** ✓.
+- **⭐⭐ THE 10-15y BUCKET, CUSIP BY CUSIP — 23 securities, and the pattern is the finding:**
+  **FIFTEEN of them are held at EXACTLY 70.0% of outstanding** — the 4.75s of 2037, 5s of 2037, 4.375s
+  of 2038, 4.5s of 2038, 4.25s of 2039, 4.5s of 2039, 4.375s of 2039, 4.625s of 2040, 4.375s of 2040,
+  3.875s of 2040, 4.25s of 2040, 4.75s of 2041 (68.3%), 4.375s of 2041, 3.75s of 2041.
+  **The eight LOW-coupon lines (1.125%-2.25%, maturing 2040-2041) are held at 11-39%.**
+  ⇒ **$376.3B of the bucket sits in ≥3%-coupon paper; $163.4B in <3%.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ 70.0% ON FIFTEEN CONSECUTIVE CUSIPs IS NOT A MARKET OUTCOME, IT IS A BINDING CONSTRAINT.**
+  **The FOMC operates a per-issue SOMA ownership limit, and 70% is where these sit — to the tenth of a
+  percent, across fourteen different securities.** ⇒ **The Fed is AT ITS OWN CEILING in this sector.**
+  ⇒ **⛔ THIS INVERTS THE PIECE'S POLICY CONCLUSION. Tchir's ask is a Fed-driven Operation Twist into
+  the long end. The sector he uses to prove Fed dominance is the one sector where the Fed HAS NO ROOM
+  LEFT TO BUY.** ⇒ **A twist has to go into 20y+ (18.7% owned) or 15-20y (28.2%) — which is, to be
+  fair to him, exactly where his own $426B hypothetical sends it. The headline and the recommendation
+  point at different sectors and the piece never notices.** *(Analysis. ⚠️ The 70% cap is inferred from
+  the data pattern, not read off an FOMC document. ⬜ NOT verified against a Desk statement.)*
+- **★★★★★ AND THE HEADLINE ITSELF IS A DENOMINATOR ARTEFACT, WHICH IS THIS BOARD'S OWN STANDING
+  DISCIPLINE APPLIED TO A SOURCE.** **The Fed holds $539.7B in 10-15y, $512.1B in 15-20y and $528.2B
+  in 20y+ — within 5% of each other.** **The SHARES are 52.5% / 28.2% / 18.7% because OUTSTANDING is
+  $1,028B / $1,813B / $2,821B.** ⇒ **The Fed is not concentrated in 10-15y. 10-15y IS A SMALL SECTOR.**
+  ⇒ **AND STRUCTURALLY SO: Treasury has never issued a 10-15 year tenor. That window can only be
+  filled by aged 30y bonds and aged 20y bonds, so its float is thin by construction and any large
+  holder's share looks extreme there.** ⇒ **"That seems a long way from free markets" is reading a
+  ratio whose denominator is an artefact of the issuance calendar.** *(Analysis. Same failure class as
+  `war-board:L3119` — a percentage quoted without asking what is underneath it. Third instance today.)*
+- **⭐ AND THE COUPON SPLIT DATES THE POSITION, WHICH IS THE PART THAT MAKES IT NOT A CURRENT STANCE.**
+  **The 70%-held lines all carry 3.5%-5.0% coupons and mature 2037-2041 — i.e. long bonds issued
+  roughly 2007-2011.** ⇒ **That is the vintage the ORIGINAL Operation Twist (2011-12) was designed to
+  buy.** ⇒ **The 52.5% is most plausibly the FOSSIL OF THE LAST TWIST, aged fifteen years into the
+  10-15y window — not a live policy posture toward that sector.** **The low-coupon 2040-41 lines held
+  at 11-39% are the 2020-21 20-year issuance, and the Fed's share of THOSE is unremarkable.**
+  ⇒ **A reader who takes 52.5% as evidence of what the Fed is doing NOW has mistaken a legacy holding
+  for an intention.** *(Analysis. ⚠️ The vintage is INFERRED from coupon and maturity; ⬜ original
+  issue dates were not pulled.)*
+- **✅★★★★ WHERE TCHIR AND THIS BOARD AGREE INDEPENDENTLY, AND IT IS WORTH SAYING BECAUSE THE BOARD GOT
+  THERE FIRST: "THIS IS NOT QE."** His words, 8/23. **`:L204` filed it as CASH-NEUTRAL on 8/19 — a
+  duration swap, not new demand — and `:L331` recorded the shape confirmation.** ⇒ **Two origins, one
+  conclusion, four days apart.** ⇒ **And his framing sharpens the board's: Warsh's Fed can run a twist
+  precisely BECAUSE notional is unchanged, so the "not QE" property is not a caveat on the policy — it
+  is the political permission structure that makes the policy available.** *(Analysis.)*
+- **⚠️ AND THE PIECE'S SECOND HALF IS OPINION AND MUST NOT BE INGESTED AS DATA.** The Canada/Saudi/
+  Board-of-Peace/Korea/Iran-MOU/UK list is Tchir's own read on negotiating patterns, self-labelled
+  *"I haven't done a deep dive on any of the following (so I could be wrong)."* ⇒ **Rung: OPINION,
+  flagged by the author. It is not evidence and it is not filed as any.**
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **VERIFY THE 70% PER-ISSUE CAP AGAINST AN FOMC/DESK DOCUMENT.** ⬜ Inferred from fifteen
+   CUSIPs reading 70.0%. **It is now load-bearing on the policy conclusion and must not stay inferred.**
+2. 🚩🚩 **JACKSON HOLE IS THE DATED EVENT.** Tchir: *"we really need to see something from Warsh and
+   the Fed at or before Jackson Hole."* ⇒ **A falsifiable trigger, not a state. Watch for any Desk
+   language on maturity composition.**
+3. 🚩🚩 **RE-RUN THIS BUCKETING WEEKLY — the SOMA API is free, keyless, and returns per-CUSIP
+   `percentOutstanding`.** ⇒ **A new twist would appear here FIRST, as rising shares in 20y+, before
+   any announcement.** **Route proven: `/api/soma/asofdates/latest.json` then
+   `/api/soma/tsy/get/all/asof/<date>.json`.**
+4. 🚩 **TREASURY'S 10-15y ISSUANCE HOLE — is it truly structural?** ⬜ Not verified against Treasury's
+   tenor schedule; the claim above is reasoning from the bucket, not from the calendar.
+**Links:** [[new-economy-regime]] · [[market-fragility]] · [[transmission-chain]] · [[gold-flows]]

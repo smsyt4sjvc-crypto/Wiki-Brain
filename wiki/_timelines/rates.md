@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **254 dated entries across 3 notes · 2026-06-30 → 2026-08-22 · refreshed 2026-08-23 08:45 PDT**
+> **256 dated entries across 3 notes · 2026-06-30 → 2026-08-23 · refreshed 2026-08-23 16:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -267,9 +267,11 @@
 - `2026-08-19` [rates-board.md:L561](../rates-board.md) — 2026-08-19 ~3:20pm PDT — ⛔⭐⭐⭐⭐⭐ **IT IS THE OTHER WAY ROUND ON BOTH LEGS: TREASURY PAYS A *DISCOUNT* IN CASH (old low-coupon bonds trade far below par
 - `2026-08-19` [rates-board.md:L623](../rates-board.md) — 2026-08-19 ~3:40pm PDT — ⛔✅★★★★★★ **THE CAUSAL DIRECTION IS INVERTED — CROWDING OUT RUNS GOVERNMENT→CORPORATE, AND THE TAPE SAYS CORPORATES ARE *LOSIN
 - `2026-08-19` [rates-board.md:L696](../rates-board.md) — 2026-08-19 ~4:45pm PDT — ★★★★★★ **YES, AND IT ALREADY HAPPENS — BUT IT SHOWS UP IN *SWAPS*, NOT IN CORPORATE SPREADS, AND THE MECHANISM IS BALANCE SHE
+- `2026-08-19` [rates-board.md:L944](../rates-board.md) — DATA (MEASURED — SOMA per-CUSIP, bucketed by years to maturity from 2026-08-19)
 - `2026-08-20` [new-economy-regime.md:L4075](../new-economy-regime.md) — 2026-08-20 ~8:10am PDT — ✅⭐⭐⭐⭐ **THE CLAIMS DATA INDEPENDENTLY CONFIRMS THE FOMC MINUTES LINE I FILED YESTERDAY, ONE DAY LATER AND FROM A COMPLETELY D
 - `2026-08-20` [rates-board.md:L755](../rates-board.md) — 2026-08-20 ~7:40am PDT — ⛔✅ **THE BRIEF SAYS THE BUYBACK MOVE WAS "LARGELY ERASED." PRIMARY SAYS *HALF*, AND THE SHAPE OF THE GIVE-BACK IS THE FINDING
 - `2026-08-20` [rates-board.md:L817](../rates-board.md) — 2026-08-20 ~12:25pm PDT — ★★★★★★ **TODAY'S OPERATION IS ROUTINE AND SAYS NOTHING — BUT PULLING THE FULL HISTORY TO PROVE THAT FOUND THE REAL STORY: ⭐ 
 - `2026-08-21` [market-fragility.md:L4311](../market-fragility.md) — 2026-08-21 ~10:45am PDT — ⭐⭐⭐⭐⭐ **THE FMS CASH LEVEL IS THE LOAD-BEARING NUMBER, NOT THE 8.0 SENTIMENT READING — AND IT IS A *CLEANER* INSTRUMENT THAN
 - `2026-08-22` [new-economy-regime.md:L4135](../new-economy-regime.md) — 2026-08-22 ~1:50pm PDT — ★★★★★★ **THE VAULT'S #1 REGISTERED ITEM IS CLOSED, AND THE ANSWER IS THE WRONG SHAPE: US PRODUCTIVITY TURNED UP IN Q1-2023 — 
 - `2026-08-22` [rates-board.md:L893](../rates-board.md) — 2026-08-22 ~9:00am PDT — ⭐⭐⭐ **THE 30Y ROUND-TRIPPED IN THREE SESSIONS AND THE VAULT HAS EVERY LEG: 5.28 (8/18) → 5.19 (8/19 buyback) → 5.23 (8/20) → 
+- `2026-08-23` [rates-board.md:L935](../rates-board.md) — 2026-08-23 ~4:35pm PDT — ✅✅✅ **TCHIR'S HEADLINE VERIFIED AGAINST THE PRIMARY AND IT IS EXACT: THE FED OWNS 52.5% OF EVERYTHING MATURING 2036-2041.** ⛔

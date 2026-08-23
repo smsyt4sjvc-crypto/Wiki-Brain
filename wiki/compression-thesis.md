@@ -2543,3 +2543,39 @@ Newcomer. **⟲ EXTENDS `:L446`, `:L469`, `:L2360` and [[metered-compute]]`:L716
 - **⚠️ THE COUNTER, KEPT VISIBLE: the article notes most large labs are designing CUSTOM SILICON, so
   they already compete with NVDA.** ⇒ **The sandwich cuts both ways — NVDA commoditizing models
   accelerates the labs' incentive to escape NVDA hardware.**
+
+### 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS AS CHEAPER TOOLS THRIVE."** ⛔ **AND THE COMMENTARY ATTACHED TO IT IS AN INSINUATION WITH NOTHING BEHIND IT — filed as such, not as a finding**
+Source: Jake's upload — **FT (@FT), "Anthropic's best AI model struggles to attract users as cheaper
+tools thrive," ~14h before capture**, quote-posted by **@zerohedge (~19m): *"The real question is how
+did they adjust revenue to hide the recent growth cliff."*** ⚠️ **HEADLINE ONLY — ⬜ the FT article
+body was NOT read. No user numbers, no revenue figures, no time window, no definition of "best model."**
+
+#### THESIS (interpretation — NOT fact)
+- **✅★★★★ IT IS CONFIRMATORY OF THE STANDING THESIS AND SHOULD BE COUNTED AS EXACTLY THAT AND NO
+  MORE.** **This note's core claim is that capability at the frontier is decoupling from USAGE, and
+  that the price-performance tier captures the volume.** ⇒ **"Best model struggles as cheaper tools
+  thrive" is that sentence in a newspaper.** ⚠️ **CONFIRMATION IS THE WEAKEST EVIDENCE THIS VAULT
+  ACCEPTS — `_calibration` says push hardest on monotone-confirmed claims, and this thread is now
+  monotone-confirmed across OpenRouter data, pricing moves, and press.** ⇒ **The value of a headline
+  that agrees with you is near zero; the question worth asking is what would DISCONFIRM it, and the
+  vault's answer is unchanged: a frontier model whose usage share RISES after a price increase.**
+  *(Analysis.)*
+- **⛔⛔ THE ZH COMMENT IS NOT EVIDENCE AND MUST NOT AGE INTO A FACT.** *"How did they adjust revenue to
+  hide the recent growth cliff"* **asserts (a) a growth cliff and (b) a revenue adjustment to conceal
+  it, with a source for neither.** ⇒ **Anthropic is PRIVATE — there is no filing, no audited revenue,
+  no disclosure obligation, and therefore no artefact to adjust or to check.** ⇒ **⛔ ARTIFACT TEST
+  FAILED: name the document being interpreted. There is none.** ⇒ **Rung: SPECULATION. It is filed
+  here so that a future session finds the claim WITH its rung attached, which is the whole point of
+  writing it down.** *(Analysis.)*
+- **⚠️ AND THE ONE PIECE OF DISCIPLINE THE HEADLINE ITSELF NEEDS: "STRUGGLES TO ATTRACT USERS" IS AN
+  ADVERB, NOT A NUMBER.** ⇒ **Evidence ladder: numbers over adverbs.** **The vault already holds a
+  numeric instrument for exactly this question — OpenRouter usage share (`:L2244` region) — and a
+  headline does not update it.** ⇒ **⬜ Read the FT body or leave the thread's numbers where they are.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **READ THE FT ARTICLE BODY** — specifically whether it carries a usage/share NUMBER or is
+   sourced to the same third-party estimates the vault already tracks. ⬜ Not read.
+2. 🚩 **THE STANDING DISCONFIRMER, RESTATED: a frontier model whose usage share RISES after a price
+   increase.** Nothing in this inbound touches it.
+**Links:** [[metered-compute]] · [[ai-capex-cycle]] · [[reflection-ai]] · [[_calibration]]

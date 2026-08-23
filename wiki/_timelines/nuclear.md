@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **58 dated entries across 3 notes · 2026-06-30 → 2026-08-23 · refreshed 2026-08-23 08:45 PDT**
+> **59 dated entries across 3 notes · 2026-06-30 → 2026-08-23 · refreshed 2026-08-23 16:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -77,3 +77,4 @@
 - `2026-08-22` [nuclear.md:L377](../nuclear.md) — 2026-08-22 ~12:55pm PDT — ⭐⭐⭐ **RADIANT/KALEIDOS ADDRESSES EXACTLY ONE OF THE THREE CONSTRAINTS THIS NOTE NAMED — FUEL — AND THE ARTICLE ITSELF CONCED
 - `2026-08-23` [buildout-bottleneck-map.md:L1301](../buildout-bottleneck-map.md) — 2026-08-23 ~9:10am PDT — 📌 **FT'S ~$40B US CRITICAL-MINERALS AGGREGATE IS NEW TO THE VAULT; MP'S $400M IS NOT — AND THE FT PIECE DOES NOT CLOSE THE FL
 - `2026-08-23` [power-not-petroleum.md:L391](../power-not-petroleum.md) — 2026-08-23 ~9:00am PDT — 🕳️ **MAP GAP #19, OPENED NOT CLOSED: THIS VAULT HAS NEVER PRICED THE COAL OPTION — IN EITHER DIRECTION.** ⛔ **`grep -rn "coal
+- `2026-08-23` [power-not-petroleum.md:L439](../power-not-petroleum.md) — 2026-08-23 ~5:05pm PDT — ⚖️ **BOTH SIDES OF THE DATA-CENTRE PERMISSION FIGHT LANDED ON THE SAME DAY, AND THE VAULT SHOULD FILE THEM AS ONE OBJECT.** ★

@@ -453,3 +453,49 @@ administration not to use AI/data-center growth as justification for expanded co
    `coal · lignite · retirement deferral · coal plant · fuel source · maha · clean air · emissions
    rule · epa · sierra club · air permit`. **Re-tested: the same paste now routes POWER(2).**
 **Links:** [[power-scarcity-equities]] · [[nuclear]] · [[buildout-bottleneck-map]] · [[ai-capex-cycle]]
+
+## 2026-08-23 ~5:05pm PDT — ⚖️ **BOTH SIDES OF THE DATA-CENTRE PERMISSION FIGHT LANDED ON THE SAME DAY, AND THE VAULT SHOULD FILE THEM AS ONE OBJECT.** ★★★★★ **THIS MORNING: ~200 MAHA-aligned activists against coal-for-AI. THIS AFTERNOON: "TRUMP: COMMUNITIES NOT TAKING DATA CENTERS ARE MAKING MISTAKES."** ⇒ **Stage 4c of the transmission chain — POLITICAL PERMISSION — is now a two-sided contest with the President on one side and part of his own coalition on the other**
+Source: Jake's upload — ZeroHedge headline wire: ***"TRUMP: COMMUNITIES NOT TAKING DATA CENTERS ARE
+MAKING MISTAKES" · "TRUMP: DATA CENTERS PROVIDE TREMENDOUS AMOUNT OF JOBS, MONEY" · "TRUMP: WHEN XI
+COMES TO WHITE HOUSE, WE'LL BE USING EAST ROOM."** ⚠️ **Headline wire, no transcript. ⬜ Venue and full
+context not established. Rung: REPORTED.**
+
+#### DATA
+- **The remarks are ADDRESSED TO LOCAL SITING DECISIONS** — "communities not taking data centers."
+  ⇒ **Not federal policy, not a permit, not an order: PRESIDENTIAL PRESSURE ON MUNICIPAL AND COUNTY
+  REFUSALS.**
+- **Paired, same day, opposite direction:** `:L409` (this morning) — **~200 MAHA-aligned activists
+  urging the administration NOT to use AI/data-centre growth to justify expanded coal generation.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE PAIRING IS THE FINDING AND NEITHER ITEM IS WORTH MUCH ALONE.** **A lobbying letter is
+  not policy; a presidential quip is not a permit.** ⇒ **But TWO OPPOSING PRESSURES ON THE SAME OBJECT
+  IN ONE DAY establishes that stage 4c is CONTESTED, which is different from what the vault has been
+  carrying — an implicit assumption that political permission trends one way (toward the buildout)
+  and only the physical constraints bind.** *(Analysis.)*
+- **⭐ AND THEY ARE FIGHTING ABOUT DIFFERENT THINGS, WHICH IS WHY BOTH CAN WIN.** **Trump's object is
+  SITING — where the building goes.** **The MAHA letter's object is FUEL — what generates the
+  electricity.** ⇒ **A world where data centres are sited freely AND coal stays foreclosed is fully
+  consistent, and it is the WORST case for the power constraint: demand permitted, cheap supply
+  denied.** ⇒ **★★★ That configuration is the vault's power-scarcity thesis at its strongest, and it
+  arrived by accident out of two items that individually looked like noise.** *(Analysis.)*
+- **⚠️ THE DISCIPLINE ON THE PRESIDENTIAL LINE, STATED ONCE: "communities are making mistakes" is
+  RHETORIC WITH NO INSTRUMENT ATTACHED.** **Local siting authority is municipal and state; a federal
+  preference does not override a county moratorium.** ⇒ **The vault's ANNOUNCED ≠ PERMITTED ≠
+  ENERGIZED ladder applies to political statements exactly as it does to gigawatts.** ⇒ **What would
+  make this real: a federal preemption mechanism, a DOE/FERC action, or a siting provision attached to
+  legislation. ⬜ None present.** *(Analysis.)*
+- **⚠️ AND THE THIRD HEADLINE IN THE SAME WIRE IS NOT ABOUT DATA CENTRES AND SHOULD NOT BE READ AS
+  THOUGH IT WERE: "when Xi comes to White House, we'll be using East Room."** ⇒ **A scheduled
+  US-China summit is a live macro object for the critical-minerals and export-control threads, and it
+  is being carried here only as a POINTER.** 🚩 **Date and agenda ⬜ unknown.**
+
+#### 📌 REGISTERED
+1. 🚩🚩 **HOW MANY US COUNTIES/MUNICIPALITIES CURRENTLY HAVE DATA-CENTRE MORATORIA OR REFUSALS?**
+   ⬜ Not fetched. **It is the denominator for "communities not taking data centers" and the vault has
+   no count. Without it, both this item and the buildout timeline are being read without a base.**
+2. 🚩🚩 **A XI WHITE HOUSE VISIT — DATE AND AGENDA.** ⬜ Unknown. **Rare-earth export controls and the
+   critical-minerals thread both settle at a summit; `buildout-bottleneck-map:L749` carries the
+   "end reliance by 2027-01-01" policy target that such a meeting would test.**
+3. 🚩 **CARRIED from `:L449`: the coal retirement schedule (EIA-860M).** Still the load-bearing fetch.
+**Links:** [[power-scarcity-equities]] · [[buildout-bottleneck-map]] · [[transmission-chain]] · [[nuclear]]

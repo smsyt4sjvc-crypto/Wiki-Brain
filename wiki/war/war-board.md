@@ -3174,6 +3174,7 @@ data is 8/21-22, the page is stamped 8/23.**
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[europe-energy-crunch]] · [[market-fragility]]
 
 ### 2026-08-23 ~8:40am PDT — ⛔⛔ **"IRAN RAISED THE POSSIBILITY OF TARGETING ALTERNATIVE GULF OIL ROUTES" IS NOT A NEW THREAT — IT IS A THREAT TO REPEAT SOMETHING THIS BOARD ALREADY RECORDED AS DONE, ON A NAMED TARGET, WITH A MEASURED EFFECT.** ★★★★★ **The East-West/Petroline pumping station was struck 2026-07-27 (VIIRS-confirmed, `war-confirmed:L449`) and Petroline loadings ran −40% under missile threat (`war-confirmed:L194`).** ⇒ **The scan files this as "risk remains elevated." The vault can price it: ~6.5-7 mb/d of total bypass against ~17-20 mb/d of normal Hormuz flow, both routes already under fire**
+  ⟲ SUPERSEDED 2026-08-23 → war-board.md:L3235 — REASONED FROM A PARAPHRASE: the primary (Rezaee, X, 8/23 12:00pm) names NO route and NO pipeline -- it is a total-Gulf export threat plus an act-of-war doctrine. The Petroline analysis stands as background but is no longer anchored to this statement
 Source: Jake's DAILY HOLDINGS SCAN, window through Sunday 2026-08-23 AM, ingested line by line per his
 standing instruction. Items: **Iran's president — the US memorandum "remains the best route out," no
 breakthrough on reopening Hormuz; Iran's security chief — retaliation threatened against neighbouring
@@ -3231,3 +3232,64 @@ countries supporting economic measures, and the possibility of targeting ALTERNA
 3. 🚩 **TRACE BOTH IRANIAN STATEMENTS TO PRIMARY** (IRNA/Fars/Tasnim for the security chief; the
    president's remarks to a transcript). ⬜ Neither traced.
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[war/war-confirmed]] · [[europe-energy-crunch]]
+
+### 2026-08-23 ~4:45pm PDT — ✅ **THE PRIMARY LANDS EIGHT HOURS AFTER I REGISTERED IT AND IT CLOSES FLAG `:L3231` #3 — AND THE PARAPHRASE WAS WEAKER THAN THE ORIGINAL IN THE ONE PLACE THAT MATTERS.** ⛔ **The scan said "raised the possibility of targeting alternative Gulf oil routes." The actual text is a TOTAL-GULF EXPORT THREAT — "not a single drop of oil will be exported, neither through the Strait of Hormuz NOR FROM ANYWHERE IN THE PERSIAN GULF" — plus an ACT-OF-WAR doctrine aimed at any country supporting the economic campaign**
+  ⟲ SUPERSEDES war-board.md:L3176 — REASONED FROM A PARAPHRASE: the primary (Rezaee, X, 8/23 12:00pm) names NO route and NO pipeline -- it is a total-Gulf export threat plus an act-of-war doctrine. The Petroline analysis stands as background but is no longer anchored to this statement
+Source: **@ir_rezaee (رضایی), X, 12:00 PM 8/23/26, 230K views** — Jake's screenshot. **Verbatim:**
+*"If the economic war continues, not a single drop of oil will be exported, neither through the Strait
+of Hormuz nor from anywhere in the Persian Gulf. Iran will regard any country's participation in or
+support for America's economic war against the Iranian people as an act of war."*
+⚠️ **⬜ IDENTITY NOT VERIFIED. The scan attributed this to "Iran's security chief." The handle reads
+Rezaee, which is NOT the SNSC secretary.** ⛔ **Do not attribute an office to this account until the
+handle is confirmed — the difference between an Expediency Council figure and the SNSC secretary is
+the difference between commentary and policy.**
+
+#### DATA — WHAT THE PRIMARY ADDS OVER THE PARAPHRASE
+- **⭐ SCOPE: "nor from ANYWHERE IN THE PERSIAN GULF."** ⇒ **This is not a threat to the bypass routes
+  as the scan rendered it. It is a threat to ALL Gulf export, which necessarily includes Saudi, UAE,
+  Kuwaiti, Qatari and Iraqi loadings — i.e. the counterparties, not the chokepoint.**
+- **⭐ CONDITIONALITY: "IF the economic war continues."** ⇒ **The paraphrase dropped the conditional
+  entirely. It is a stated price for a stated behaviour, not an announced intention.**
+- **⭐ THE ACT-OF-WAR DOCTRINE, WHICH THE SCAN UNDER-RENDERED AS "retaliation": any country's
+  PARTICIPATION IN OR SUPPORT FOR the economic campaign is framed as an act of war.**
+- ⚠️ **AND WHAT IT DOES NOT CONTAIN: the word "pipeline," the word "Petroline," any named target, any
+  timeline, and any reference to the alternative routes at all.** ⇒ **⛔ THE SCAN'S "ALTERNATIVE GULF
+  OIL ROUTES" FRAMING IS NOT IN THE SOURCE TEXT. My 8:40am entry built on that framing and must be
+  read with this correction attached.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ FIRST, AGAINST MYSELF: MY 8:40am ENTRY (`:L3176`) REASONED FROM A PARAPHRASE AND THE PARAPHRASE
+  WAS WRONG ABOUT THE OBJECT.** I mapped "alternative Gulf oil routes" onto Petroline/ADCOP and priced
+  it against the 7/27 pumping-station strike. **The primary names no route and no pipeline.**
+  ⇒ **The Petroline analysis in that entry remains CORRECT AS BACKGROUND — the target was struck, the
+  −40% is measured — but it is no longer anchored to this statement.** ⟲ **Amended, not deleted.**
+  ⇒ **★★★ THE LESSON IS THE SAME ONE AS THE RBN DATE AND THE 15% NVDA ITEM: A SCAN IS A POINTER, NOT A
+  SOURCE. Three times today the paraphrase differed from the artefact in a way that changed the read.**
+- **★★★★★ AND THE ACTUAL STATEMENT IS *BIGGER* THAN THE ONE I ANALYSED, NOT SMALLER.** *"Nor from
+  anywhere in the Persian Gulf"* **is a threat against the EXPORTS OF IRAN'S NEIGHBOURS, not against a
+  waterway.** ⇒ **It is the maximalist version of the toll-gate doctrine this board confirmed as policy
+  on 8/13 (`:L2064`): not "you pay to pass" but "nobody ships if we cannot."** ⇒ **Rhetorically total,
+  and this board has repeatedly logged that Iran's declared scope exceeds its demonstrated capability
+  — see `:L2578` (the IRGC "reopen" wording) and `:L1532` (the FARS text). **⛔ Register the escalation
+  in LANGUAGE; do not upgrade the capability estimate on a sentence.** *(Analysis.)*
+- **★★★★★★ THE ACT-OF-WAR CLAUSE IS THE OPERATIVE PART, AND IT HAS A NAMED ADDRESSEE THIS BOARD IS
+  ALREADY TRACKING: THE UAE.** `:L2838` recorded the UAE halting ALL trade, commercial exchange and
+  financial dealing on 8/19 — **the exact "participation in or support for America's economic war" the
+  statement describes.** ⇒ **This converts an abstract doctrine into a live bilateral case with a
+  measurement already attached: `:L3133` graded UAE-flagged Gulf tonnage at 108 → 114 four days after
+  the halt.** ⇒ **🚩 THE TEST SHARPENS: if the act-of-war framing is operational rather than
+  rhetorical, the tell is not tonnage — it is an incident involving a UAE-flagged or ADNOC-linked hull.
+  This board has already logged 16 Iranian strikes on ADNOC shipping (`:L2673` region).** *(Analysis.)*
+- **⚠️ AND THE SAME-DAY CONTRADICTION STANDS AND IS NOW SHARPER: Iran's PRESIDENT called the US
+  memorandum "the best route out" on the same weekend.** ⇒ **Two voices, one day, opposite directions —
+  the pattern logged 7/30 and 8/06.** **⛔ The board's standing treatment holds: the ARTIFACT resolves
+  them, not the volume of the statement.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED — `:L3231` #3, "trace both Iranian statements to primary."** **One of two: the Rezaee
+   text is now verbatim on file.** 🚩 **The president's remark is still a paraphrase — ⬜ untraced.**
+2. 🚩🚩🚩 **CONFIRM WHOSE ACCOUNT @ir_rezaee IS.** ⬜ Not verified. **The scan's "security chief" label
+   does not match the handle, and the office determines whether this is policy or commentary.**
+3. 🚩🚩 **ANY INCIDENT INVOLVING A UAE-FLAGGED OR ADNOC-LINKED HULL is now the act-of-war clause's
+   falsification test** — sharper than the flag-count test at `:L3133`, and on the same object.
+**Links:** [[oil-value-chain]] · [[demand-destruction]] · [[war/war-confirmed]]
