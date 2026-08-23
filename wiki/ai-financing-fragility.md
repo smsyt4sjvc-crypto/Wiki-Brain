@@ -7264,7 +7264,80 @@ REPORTED, and weakly.**
    not a missing datapoint.**
 2. 🚩🚩 **THE FALSIFIABLE VERSION OF THE CLAIM: lead-lag between a TRS funding proxy and SOXX/SMH,
    with n and window.** ⬜ **TRS funding rates are dealer-quoted and NOT public — this may be
+     ⟲ EXTENDS ai-financing-fragility.md:L7212 (2026-08-23) — The chart arrived legible: axis labels, levels and phase structure now readable, and the funding leg is confirmed as S&P500 TRS rather than a TMT funding rate [old entry stays LIVE]
    unfetchable, in which case say so rather than proxying badly.**
 3. 🚩 **WHAT IS THE "as noted back in June" REFERENCE?** ⬜ Unidentified. **If a June call exists it is
    gradeable, and a graded call is worth more than the chart.**
 **Links:** [[memory-regime-question]] · [[concentration]] · [[market-fragility]] · [[fragility-engine]] · [[transmission-chain]]
+
+### 2026-08-23 ~5:40pm PDT — ⛔⛔⛔ **THE CHART ARRIVES LEGIBLE AND IT FALSIFIES ITS OWN CAPTION AT BOTH ENDS.** ★★★★★★ **PHASE 1 (Mar 25 → mid-May): FUNDING FLAT-TO-DOWN ~56→51→57bp WHILE THE TRADE RAN ~350→~500. PHASE 3 (Jul → Aug): FUNDING HALVED, 101→~51bp, AND THE TRADE KEPT FALLING TO 296.62.** ⇒ **"The entire trade was all just leverage" requires leverage cost to explain the move. It explains ONE of the three phases** ⛔ **AND "PEAKED THE DAY" CANNOT BE READ OFF THIS CHART AT ALL: the funding top is a ~WEEK-LONG PLATEAU on a series that visibly STEPS**
+Source: Jake's upload, the actual Bloomberg chart → `raw/2026-08-23-trs-funding/gs-tmt-winners-losers-vs-sp500-trs-funding.png`.
+**⟲ EXTENDS `:L7212`, which registered this claim with "⬜ no axis values legible." They are now legible.**
+**Legend as printed: Start 03/25 08:30 · End 08/25 10:10 · x-axis labelled 2026, running Mar 31 → Aug 24.**
+⚠️ **THE END STAMP IS AHEAD OF THE CLOCK: today is 2026-08-23 and the chart says it ends 08/25.
+⬜ Unresolved — a rendering artefact, a different date convention, or a stale screenshot. Do not treat
+the right-hand edge as "now."**
+
+#### DATA (READ OFF THE CHART — eyeballed from the plot, NOT a data pull. Treat every level as ±3.)
+- **RED (R1, right axis 250-600): "GS TMT Winners vs Losers" — last 296.62, −46.04, −13.44%.**
+- **BLUE (L1, left axis ~50-100): "Adj S&P500 TR BTI Dec26" — last 65.5.** ⇒ **⭐ THIS IS THE IMPLIED
+  FUNDING SPREAD ON A DEC-26 *S&P 500* TOTAL-RETURN SWAP, IN BASIS POINTS.**
+- **PHASE 1 — 2026-03-25 → ~2026-05-15.** Blue **~56 → 51 (early Apr) → ~57**, with visibly FLAT and
+  STEPPED segments through April. Red **~350 → ~500.** ⇒ **The trade's largest up-leg happened while
+  the cost of synthetic leverage went NOWHERE.**
+- **PHASE 2 — ~2026-05-15 → ~2026-06-29.** Blue **~57 → ~101**, then a PLATEAU at ~101 spanning
+  roughly 22-29 June. Red **~500 → ~575 peak** in the same late-June window. ⇒ **Co-moving. This is
+  the phase the caption describes, and it is one phase of three.**
+- **PHASE 3 — ~2026-06-30 → 2026-08-24.** Blue **~101 → ~64 (mid-Jul) → ~74 (~22 Jul) → ~51 (late
+  Jul) → 62-66 through August, last 65.5.** Red **~575 → ~350 → 296.62, making its LOWEST reading of
+  the entire window in the final days.** ⇒ **⭐⭐ FUNDING COST FELL BY HALF AND THE TRADE KEPT LOSING.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE BACK END IS THE DISCONFIRMER AND IT IS DECISIVE. If the move was "all just leverage,"
+  the collapse in the cost of that leverage should have RELIEVED it.** **Blue went 101 → ~51, a 50%
+  reduction in carry on every synthetic long, and red went to its lowest print of the window.**
+  ⇒ **A causal story that predicts the opposite of what the same chart shows is not a causal story.**
+  *(Analysis.)*
+- **★★★★★ AND THE FRONT END IS THE SECOND ONE, INDEPENDENTLY. Through the biggest rally leg — March
+  to mid-May, roughly +43% on the red basket — the funding line was FLAT.** ⇒ **Leverage cost cannot
+  have been driving a move it did not accompany.** ⇒ **Two of three phases contradict the caption;
+  the caption is built on the third.** *(Analysis.)*
+- **⛔⛔ "PEAKED THE DAY" IS NOT A CLAIM THIS CHART CAN CARRY, AND THE REASON IS IN THE LINE'S OWN
+  SHAPE.** **The funding series has a FLAT TOP of roughly a week at ~101 and visible STEP FUNCTIONS in
+  April — the signature of a dealer-quoted, thinly-marked instrument that does not print continuously.**
+  ⇒ **You cannot identify a DAY off a plateau, and you cannot date a record on a series that holds the
+  same mark for days at a time.** ⇒ **This is the QUOTE-HEADER discipline applied to a line rather than
+  a header: the geometry is the datum, and the geometry here refuses the precision the caption
+  asserts.** *(Analysis.)*
+- **⛔ AND THE INSTRUMENT MISMATCH I REGISTERED AT `:L7212` IS NOW CONFIRMED AND SPECIFIC: THE FUNDING
+  LEG IS *S&P 500* TRS, NOT TMT AND NOT SEMICONDUCTORS.** ⇒ **It prices the cost of levered exposure to
+  the INDEX.** ⇒ **The caption uses an index-level funding cost to explain "the chip/memory trade,"
+  and the equity leg it is plotted against is not the chip complex either — it is a TMT LONG/SHORT
+  dispersion basket, which can move because the SHORTS rallied.** ⇒ **Neither axis is the thing the
+  caption is about.** *(Analysis.)*
+- **⭐⭐⭐ THE READING THAT FITS ALL THREE PHASES, OFFERED AS THE BETTER HYPOTHESIS: TRS FUNDING IS A
+  CROWDING GAUGE, NOT A DRIVER.** **Dealer funding spreads widen when demand for synthetic exposure is
+  highest — i.e. at maximum crowding — which is also when a trade is most extended.** ⇒ **Both lines
+  then respond to the same latent variable (appetite for levered exposure) rather than one causing the
+  other, and that explains the co-peak WITHOUT requiring the front-end and back-end behaviour to be
+  ignored.** ⇒ **★★★ IT ALSO SURVIVES THE VAULT'S OWN LAW: a crowding gauge is a STATE. It shades odds
+  and times nothing — which is exactly why "peaked THE DAY" was the wrong shape of claim for it.**
+  *(Analysis. ⚠️ HYPOTHESIS. It fits the chart; it has not been tested against any other episode.)*
+- **★★★★★ AND THE ONE TRADEABLE NUMBER ON THE PAGE IS THE LEVEL, NOT THE PEAK: 65.5bp NOW vs ~101 AT
+  THE JUNE TOP vs ~51-57 THROUGH MARCH-APRIL.** ⇒ **Synthetic demand has given back most of the June
+  extreme but has NOT returned to the pre-rally base — it sits roughly 10-15bp above it.**
+  ⇒ **On the crowding reading, positioning is substantially unwound and NOT clean.** ⇒ **That is the
+  series to watch, and the falsifiable level is ~55: a return there would say the levered leg is fully
+  out.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE EQUITY-FINANCING LADDER ROW — PROMOTED, because the chart proves the series EXISTS and
+   is charted daily by desks.** ⬜ **Still unfetched and probably unfetchable free (dealer-quoted).**
+   **Fallback proxies, none fetched: FINRA margin debt (monthly, public) · CME equity-index basis ·
+   the futures roll/calendar spread, which is the listed analogue of TRS funding and IS public.**
+   ⇒ **⭐ THE FUTURES ROLL IS THE ACCESSIBLE VERSION OF THIS CHART AND THE VAULT SHOULD BUILD IT.**
+2. 🚩🚩 **RESOLVE THE 08/25 END STAMP** against a live quote before this chart is cited as current.
+3. 🚩 **CARRIED from `:L7212`: what is the "as noted back in June" reference?** ⬜ Still unidentified.
+   **June is exactly where phase 2 tops, so a real June call would be well-timed and gradeable — and
+   that would be the strongest thing in this claim's favour.**
+**Links:** [[memory-regime-question]] · [[concentration]] · [[market-fragility]] · [[fragility-engine]]
