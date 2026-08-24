@@ -471,6 +471,23 @@ python3 tools/vault_find.py "data centre" --days 30
 - **THE PRINCIPLE:** *organise storage by IDEA, retrieve by ENTITY. Folders are exclusive; the questions
   are not.*
 
+### ⛔ THE PUSH CREDENTIAL DIES WHEN JAKE CLOSES THE PHONE (diagnosed by him, 2026-08-24)
+**Symptom: `git push` → `fatal: could not read Username for 'https://github.com'` on EVERY remote,
+after working all session. Reads still succeed. No credential helper is configured and there is no
+token in the environment — the write credential is ambient and it goes with the app.**
+⇒ **IT IS NOT A REPO PROBLEM, NOT A BRANCH PROBLEM, AND NOT WORTH DIAGNOSING AGAIN. It comes back
+when he reopens.**
+- **⚠️ THE REAL RISK IS NOT THE ERROR, IT IS THE WINDOW: the container is EPHEMERAL and the repo is
+  the persistence layer. Work committed while he is away is STRANDED until he returns.**
+- **✅ THE FALLBACK THAT WORKS, PROVEN 2026-08-24: the GitHub MCP API still authenticates when git
+  does not.** `mcp__github__create_or_update_file` — push the SUBSTANTIVE file(s) to a
+  `handoffs/*-RECOVERY.md`, with the recovery steps in the file header. **Auto-generated timelines do
+  NOT need pushing; `timeline_header.py --all --threads --chain` regenerates them.**
+- **⇒ ON RECOVERY: `git pull --rebase`, delete the recovery file, regenerate timelines, push.**
+  ⚠️ **Expect a NON-FAST-FORWARD on `Wiki-Brain` too — the weekday fragility Action commits to its
+  default branch while you are blocked. Rebase onto it; the runner touches only `data/fragility/*`
+  and `docs/index.html`, so vault edits do not conflict.**
+
 ### 📱 THE PHONE URL — THE ONE THING THAT WAS NOWHERE IN THIS VAULT UNTIL JAKE ASKED FOR IT (2026-08-23)
 **FRAGILITY LADDER (Artifact — this is the link to open on the iPhone):**
 **`https://claude.ai/code/artifact/6594cb4c-2970-496d-893c-d8ea041f0c11`**
