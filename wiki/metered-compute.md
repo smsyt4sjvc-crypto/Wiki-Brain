@@ -2894,6 +2894,7 @@ architecture under test.**
 | **output generated** | **2,771,296** |
 | input (uncached) | 3,600 |
 | cache WRITE | 58,537,925 |
+  ⟲ SUPERSEDED 2026-08-24 → metered-compute.md:L2979 — THE CUT WAS WRONG, NOT THE TOTALS: 'vault retrieval' merged SEARCHING with VERIFYING. Re-bucketed by intent, Jake's two categories -- reading source docs (23.2%) and verifying (42.1%) -- are 65.3% of all material
 | **cache READ (carried context)** | **623,291,120** |
 | **total input surface** | **681,832,645** |
 - **⭐ CARRIED-CONTEXT MULTIPLIER = 246.0×. For every 1 token GENERATED, 246 were SUBMITTED.**
@@ -2975,3 +2976,71 @@ architecture under test.**
 4. 🚩 **VERIFY THE CACHE MULTIPLIERS** against Anthropic's published pricing before the dollar
    figures are quoted anywhere.
 **Links:** [[compression-thesis]] · [[data-sourcing-playbook]] · [[fragility-engine]] · [[_calibration]]
+
+## 2026-08-23 ~8:55pm PDT — ⛔⛔ **"READING PDFs AND VERIFYING." HE NAMED IT IN FOUR WORDS AND THE RE-CUT SAYS 65.3%.** ★★★★★★ **MY 8:30pm BUCKETING HID THE ANSWER: I CALLED THE BIGGEST BUCKET "VAULT RETRIEVAL," WHICH LUMPED *SEARCHING* (finding what I did not know) TOGETHER WITH *VERIFYING* (checking what I was about to assert). THOSE ARE DIFFERENT TASKS WITH DIFFERENT DELEGABILITY — AND VERIFICATION IS THE LARGER HALF** ⭐ **AND THE MOST EXPENSIVE ACTIVITY PER CALL IN THE ENTIRE SESSION IS RE-READING A CITED LINE RANGE: 805 TOKENS A CALL, 19.3% OF ALL MATERIAL — WHICH IS PURE TIER-0 WORK**
+  ⟲ SUPERSEDES metered-compute.md:L2896 — THE CUT WAS WRONG, NOT THE TOTALS: 'vault retrieval' merged SEARCHING with VERIFYING. Re-bucketed by intent, Jake's two categories -- reading source docs (23.2%) and verifying (42.1%) -- are 65.3% of all material
+Source: **Jake, 2026-08-23 ~8:50pm PDT — "Reading PDFs and verifying."** Re-cut of the same transcript
+(873 tool results, 336,203 est. tokens), bucketed by INTENT rather than by tool.
+**⟲ AMENDS `:L2885` — the totals are unchanged; the CUT was wrong.**
+
+#### DATA (MEASURED — same session, re-bucketed by what the call was FOR)
+| bucket | calls | est. tok | % material | **mean/call** |
+|---|---|---|---|---|
+| **READ SOURCE DOCS** (PDFs, uploads, `raw/`) | 159 | 78,206 | **23.2%** | 492 |
+| shell / other | 147 | 71,442 | 21.2% | 486 |
+| **VERIFY: re-read a cited line range** | 81 | 65,216 | **19.3%** | **805 ← highest** |
+| VERIFY: does the vault already say this? | 99 | 31,627 | 9.4% | 319 |
+| VERIFY: gate / collision check | 71 | 29,035 | 8.6% | 409 |
+| WRITE | 105 | 23,578 | 7.0% | 225 |
+| VERIFY: arithmetic / recompute | 63 | 16,102 | 4.8% | 256 |
+| FETCH (Tier 0) | 73 | 11,561 | 3.4% | 158 |
+| GIT | 76 | 10,287 | 3.1% | 135 |
+| **ALL VERIFICATION** | **314** | **141,979** | **42.1%** | 452 |
+| **⇒ HIS TWO CATEGORIES COMBINED** | | **220,186** | **65.3%** | |
+- **⛔ AND THE DISTRIBUTION IS FLAT — THERE IS NO WHALE TO KILL: top 10 injections = 12.9% of material ·
+  top 25 = 23.4% · top 100 = 51.3%, across 873 results averaging ~385 tokens.** ⇒ **This is death by a
+  thousand medium reads, not one runaway document.**
+- **⭐ AND PDFs ARE NOT UNUSUALLY EXPENSIVE PER CALL: mean per source-document call 492 tokens vs mean
+  per librarian call 698.** ⇒ **There are simply a lot of both. Volume, not size.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ FIRST, AGAINST MYSELF: "VAULT RETRIEVAL IS THE SINK" WAS A TRUE STATEMENT THAT CONCEALED THE
+  USEFUL ONE.** **Search and verification are not the same task.** **Search is open-ended and needs
+  judgment about what to look for. VERIFICATION IS A CLOSED QUESTION WITH A CHECKABLE ANSWER.**
+  ⇒ **Bucketing by TOOL merged them; bucketing by INTENT separates them — and the separation is the
+  whole point, because only one of the two is safely delegable.** *(Analysis. The same failure as
+  every denominator artefact today: the aggregate was right and the cut was wrong.)*
+- **★★★★★★ THE SINGLE CLEAREST GOPHER TARGET IN THE PROFILE IS THE MOST EXPENSIVE ONE PER CALL, AND
+  IT NEEDS NO MODEL AT ALL: RE-READING A CITED LINE RANGE — 805 tokens/call, 19.3% of material.**
+  **That is `sed -n '795,830p' wiki/oil-value-chain.md` to confirm a `:L` anchor before citing it,
+  done 81 times today because LINE NUMBERS DRIFT.** ⇒ **A citation check is a DETERMINISTIC FUNCTION:
+  given `file:L123` and an expected anchor string, confirm or report drift. Zero judgment. Zero
+  hallucination risk. Tier 0.** *(Analysis.)*
+- **⇒ ★★★★★★ AND THE VAULT ALREADY DIAGNOSED THE ROOT CAUSE WITHOUT DRAWING THE COST CONCLUSION.
+  `CLAUDE.md` STEP ZERO-B: *"⚠️ LINE NUMBERS DRIFT when a file is appended to… the marker TEXT is the
+  durable part."*** ⇒ **The vault knows line numbers are unreliable AND cites by line number anyway —
+  which forces an 805-token re-read every single time.** ⇒ **★★★ FIX THE CITATION FORMAT AND THE
+  BUCKET LARGELY DISAPPEARS: cite by unique ANCHOR TEXT, and verification becomes a grep returning ONE
+  line instead of a 35-line range.** **That is a ~19% cut to context growth with no second model, no
+  summariser, and no new failure mode.** *(Analysis.)*
+- **★★★★ ON HIS FIRST CATEGORY, HE IS RIGHT AND MY EARLIER NUMBER UNDERSTATED IT: SOURCE DOCUMENTS ARE
+  23.2%, NOT 8.6%.** **The 8.6% figure came from a classifier that sent `tail -c 7400 raw/…` and the
+  scratchpad extractions to other buckets.** ⇒ **A PDF's cost is not one Read call; it is the
+  extraction, the chunked re-reads, and every later `sed` back into it.** ⇒ **And THAT part is
+  genuinely Tier-1 delegable — extract verbatim, return with provenance, never characterise (design rule 1, `:L2818`).** *(Analysis.)*
+- **⚠️ AND THE LIMIT ON THE OTHER 21.2%: `shell / other` IS STILL THE SECOND-LARGEST BUCKET AND IT IS
+  MOSTLY WASTE — `git status` dumps, `ls` listings, greps that returned more than was read.**
+  ⇒ **Nothing in it was ever an input to a conclusion, and it is fixed by narrower commands, not by
+  architecture.** ⇒ **Source docs 23.2% + verification 42.1% + shell waste 21.2% = 86.5%, and only the
+  first requires a model to address.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **CHANGE THE CITATION FORMAT — cite by ANCHOR TEXT, not `:Lnnn`.** **Highest-value change in
+   the profile: 19.3% of material, 805 tok/call, and the vault already documents why line numbers are
+   unreliable.** ⬜ Not done. **Needs a `tools/cite.py` that resolves anchor→line and back.**
+2. 🚩🚩 **BUILD THE TIER-1 DOCUMENT EXTRACTOR AGAINST THE 23.2% BUCKET, held to design rule 1**, with
+   today's three gopher failures as the regression suite (`:L2812`).
+3. 🚩 **NARROW THE HOUSEKEEPING COMMANDS — 21.2% of material for zero analytical input.** No
+   architecture required; `--porcelain`, `head`, explicit field selection.
+4. ⛔ **STILL n=1 AND STILL A VAULT-HEAVY DAY.** Carried from `:L2954`.
+**Links:** [[compression-thesis]] · [[data-sourcing-playbook]] · [[_calibration]]
