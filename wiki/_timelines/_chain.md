@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **610 dated entries · 2026-05-22 → 2026-08-23 · refreshed 2026-08-23 22:58 PDT**
+> **611 dated entries · 2026-05-22 → 2026-08-24 · refreshed 2026-08-24 11:36 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -639,3 +639,4 @@
 - `2026-08-23` **[5]** memory-regime-question.md:L1198 — 2026-08-23 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐ **TWO THREADS THIS VAULT HAS RUN SEPARATELY ARE ONE SHORTAGE, AND THE PROOF IS AN ASYMMETRY NOBODY IN THE SOURCE MATER
 - `2026-08-23` **[5]** compression-thesis.md:L2461 — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A
 - `2026-08-23` **[5]** compression-thesis.md:L2497 — 2026-08-23 ~9:20pm PDT — ✅ **PERPLEXITY WAS ALREADY ON FILE BY NAME, IN THE EXACT LINE THAT EXPLAINED THE POOLSIDE DEAL 30 HOURS AGO: `:L2485` — "the 
+- `2026-08-24` **[1]** rates-board.md:L1025 — 2026-08-24 ~12:15am PDT — ⛔⛔⛔ **THE TGA REVELATION BREAKS THIS BOARD'S OWN LOAD-BEARING CONCLUSION, WRITTEN 8/19 AT `:L223`: *"TREASURY BUYBACKS ARE C

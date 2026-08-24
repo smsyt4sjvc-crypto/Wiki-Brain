@@ -1,6 +1,6 @@
 # ⏱ PORTFOLIO — merged timeline (the gate)
 
-> **44 dated entries across 2 notes · 2026-07-01 → 2026-08-16 · refreshed 2026-08-23 22:58 PDT**
+> **44 dated entries across 2 notes · 2026-07-01 → 2026-08-16 · refreshed 2026-08-24 11:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
