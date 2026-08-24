@@ -150,6 +150,12 @@ duplicate note) · the **🔴 open items** the inbound might close.
     rumors."* **Carry every inbound DOWN THE CHAIN: macro → sector → earnings → tape.** Name the
     transmission path or say plainly it has none. Never file a war/politics/policy/rumor inbound as
     background colour.
+19. ⭐ **MEASURED 2026-08-23 — `python3 tools/token_profile.py` profiles a session's own transcript
+    by task type. FIRST RUN, 1,813 turns: carried-context multiplier 246× · input = 91% of the bill ·
+    the steady-state context IS the accumulated tool output (97%) · ⛔ THE SINK IS *VAULT RETRIEVAL*
+    (49.6% of material), NOT document reading (8.6%) · 55.2% of output came from turns with NO tool
+    call, which is the hard ceiling on any delegation.** ⇒ **Fix retrieval WIDTH before adding a
+    cheaper model.** Full: [[metered-compute]] 8/23 ~8:30pm.
 19. **DELEGATION TIERS (Jake, 8/10 — "sonnet fetches, fable interprets"): all fetch/chew work runs at
     the CHEAPEST capable tier.** Tier 0 = scripts/cells, ZERO tokens (EDGAR, FRED, CBOE, OpenRouter —
     any structured API; the sheets/CEPI/backtest pattern). Tier 1 = **Sonnet/Haiku SUBAGENTS spawned

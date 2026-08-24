@@ -2881,3 +2881,97 @@ wrong three times in ways that changed the read:**
 4. 🚩 **GRADE `:L653` — has any routing seat held a take-rate?** ⬜ Open since 7/22. **It is the whole
    difference between "run the arbitrage" and "own the arbitrageur."**
 **Links:** [[compression-thesis]] · [[ai-capex-cycle]] · [[_calibration]] · [[data-sourcing-playbook]]
+
+## 2026-08-23 ~8:30pm PDT — ✅✅✅ **THE PROFILING RUN IS DONE AND IT CLOSES THE SERIES `:L2265` HAS CARRIED AS "THE SINGLE MOST VALUABLE MISSING" SINCE 8/12.** ★★★★★★ **AND IT INVERTS THE DESIGN'S OWN INTUITION: THE TOKEN SINK IS NOT DOCUMENT READING (8.6% of material). IT IS THE VAULT'S OWN RETRIEVAL — 49.6%.** ⭐ **CARRIED-CONTEXT MULTIPLIER = 246×; INPUT IS 91% OF THE BILL; AND THE STEADY-STATE CONTEXT *IS* THE ACCUMULATED TOOL OUTPUT (97% of it)**
+Source: **`tools/token_profile.py` (built this turn), run over this session's own transcript —
+1,813 assistant turns, 27.4 MB.** ⭐ **THE VAULT IS ITS OWN DATASET, and the profiler read the
+transcript in Python without a model touching it — Tier 0, zero model tokens, which is itself the
+architecture under test.**
+
+#### DATA (MEASURED — exact from the transcript's own `usage` records)
+| | tokens |
+|---|---|
+| **output generated** | **2,771,296** |
+| input (uncached) | 3,600 |
+| cache WRITE | 58,537,925 |
+| **cache READ (carried context)** | **623,291,120** |
+| **total input surface** | **681,832,645** |
+- **⭐ CARRIED-CONTEXT MULTIPLIER = 246.0×. For every 1 token GENERATED, 246 were SUBMITTED.**
+  **91.4% of the input surface is CACHE READ — re-sent conversation, not new material.**
+- **AVERAGE CONTEXT CARRIED PER TURN: 343,790 tokens** (623.3M ÷ 1,813).
+- **TOTAL TOOL MATERIAL THAT EVER ENTERED CONTEXT: 335,043 tokens.**
+  ⇒ **⭐⭐ THOSE TWO NUMBERS ARE THE SAME TO 97%. THE STEADY-STATE CONTEXT *IS* THE ACCUMULATED TOOL
+  OUTPUT — the conversation prose is a rounding error beside it.**
+
+| task type | calls | output tok | % out | material IN | % mat |
+|---|---|---|---|---|---|
+| **vault retrieval** | 312 | 453,167 | **36.5%** | **166,049** | **49.6%** |
+| writing (vault) | 88 | 236,604 | 19.1% | 9,260 | 2.8% |
+| commit + push | 100 | 187,921 | 15.1% | 7,280 | 2.2% |
+| arithmetic / verification | 70 | 95,147 | 7.7% | 17,849 | 5.3% |
+| data fetch (Tier 0) | 79 | 94,827 | 7.6% | 17,371 | 5.2% |
+| **shell / housekeeping** | 116 | 78,969 | 6.4% | **68,916** | **20.6%** |
+| **document reading** | 46 | 64,085 | **5.2%** | **28,760** | **8.6%** |
+| other tools | 52 | 27,286 | 2.2% | 18,700 | 5.6% |
+| **REASONING (no tool call)** | — | **1,530,855** | **55.2% of ALL output** | — | — |
+
+- **COST DECOMPOSITION** ⚠️ **(assumption, labelled: cache write 1.25× base input, cache read 0.10×.
+  If those multipliers are wrong the LEVELS move; the SHARES do not.)**
+  **Cache-adjusted input-equivalents: 135,505,118** (54.0% from cache WRITE, 46.0% from cache READ).
+  | run at | input | output | total | input share |
+  |---|---|---|---|---|
+  | **Fable 5** | $1,355.05 | $138.56 | **$1,493.62** | **91%** |
+  | Opus 5 | $677.53 | $69.28 | $746.81 | 91% |
+  | GPT-5.6 Luna | $27.10 | $3.33 | $30.43 | 89% |
+  | DeepSeek V4 Flash | $18.97 | $0.78 | $19.75 | 96% |
+- **DELEGABLE UNDER RULE 19** (extract / fetch / verify / housekeep — NOT judgment):
+  **306,257 tokens of material = 91.4% of all material · 975,909 output tokens = 78.7% of
+  tool-attributed output.**
+- **MODELLED SAVING ⚠️ (the 10:1 extract ratio is ASSUMED, not measured): if delegable material came
+  back as 10% extracts — 275,631 tokens removed — average context per turn falls 343,790 → ~68,159
+  (−80%), avoiding ~499.7M cache-read tokens ≈ $500 of a ~$1,494 session at Fable input.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE FINDING THAT CHANGES THE DESIGN: THE GOPHER-FOR-DOCUMENTS INTUITION IS AIMED AT THE
+  FOURTH-BIGGEST BUCKET. DOCUMENT READING IS 8.6% OF MATERIAL AND 5.2% OF OUTPUT.** **VAULT
+  RETRIEVAL IS 49.6% AND 36.5% — six times larger on material.** ⇒ **The librarian brief, the router
+  output, `vault_find`, the greps: the vault's own memory system is the largest consumer of the
+  vault's own context budget.** ⇒ **★★★ AND THAT IS NOT A MODEL-TIER PROBLEM. IT IS A RETRIEVAL-WIDTH
+  PROBLEM, FIXABLE AT TIER 0, FOR FREE, WITH NO SECOND MODEL INVOLVED.** *(Analysis.)*
+- **⇒ ★★★★★ WHICH RE-SEQUENCES HIS BUILD ORDER. The cheapest large win is not "specialise gophers" —
+  it is "make `librarian.py` return less."** **Its brief runs 150+ lines on every ingest and today it
+  ran on every inbound.** ⇒ **A `--brief` mode that returns the ⛔/★★★/🚩 lines with `file:line` and
+  NOTHING ELSE would cut the single biggest bucket without introducing a summariser — and therefore
+  without introducing the failure mode that broke three times today.** *(Analysis.)*
+- **★★★★★ AND THE SECOND-BIGGEST MATERIAL BUCKET IS PURE WASTE: `shell / housekeeping` AT 20.6%.**
+  `git status` dumps, `ls` listings, greps that returned more than was read. ⇒ **Nothing in that 20.6%
+  was ever an input to a conclusion.** ⇒ **Together with retrieval that is 70.2% of all material
+  entering context, and neither bucket requires a model to fix.** *(Analysis.)*
+- **⛔⛔ AND THE HARD CEILING ON THE WHOLE ARBITRAGE, MEASURED: 55.2% OF ALL OUTPUT TOKENS CAME FROM
+  TURNS WITH NO TOOL CALL AT ALL.** **That is pure reasoning and prose — cross-document
+  reconciliation, the corrections, the entries, the replies.** ⇒ **It is exactly the work design rule
+  3 says cannot be pushed down, and it is the majority of generation.** ⇒ **★★★ SO THE HONEST CEILING
+  IS: THE ARBITRAGE COMPRESSES THE *INPUT* SIDE HARD AND THE *OUTPUT* SIDE BARELY AT ALL — WHICH IS
+  FINE, BECAUSE INPUT IS 91% OF THE BILL.** *(Analysis.)*
+- **⭐ AND THE PROOF-OF-CONCEPT IS ALREADY IN THE TABLE, VISIBLE AS AN ABSENCE: `data fetch (Tier 0)`
+  IS 79 CALLS AND ONLY 5.2% OF MATERIAL.** **The 136 KB SOMA file, the 2-year price histories, the
+  full NYMEX curve — none of it was read by a model.** ⇒ **The one place the Tier-0 discipline WAS
+  followed today is the one place the token cost is near zero relative to the value produced, and it
+  produced the day's best finding.** *(Analysis.)*
+- **⚠️ THE LIMITS, STATED BEFORE ANYONE QUOTES THIS: (1) 3.6 chars/token is an ESTIMATE for material
+  sizing — the `usage` numbers are exact, the material column is not. (2) The cache multipliers are
+  an assumption. (3) Classification is FIRST-MATCH-WINS on command strings and will mis-bucket some
+  compound commands. (4) ⛔ THIS IS ONE SESSION AND IT WAS A VAULT-HEAVY DAY — nine ingests, three
+  amendments, thirteen commits. A trading-execution day or a coding day would profile completely
+  differently, and n=1 is n=1.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED — "tokens per task," open since 2026-08-12 (`:L2265`) as "the single most valuable
+   missing series."** **Closed with a tool, not a fetch: `tools/token_profile.py`.**
+2. 🚩🚩🚩 **`librarian.py --brief` — the highest-leverage change the profile identifies, and it is
+   Tier 0.** ⬜ Not built. **Target: the ⛔/★★★/🚩 lines with `file:line`, nothing else.**
+3. 🚩🚩 **RE-RUN THE PROFILER ON A NON-VAULT DAY** (a screen, a backtest, a coding session) before
+   any of these shares are treated as general. **n=1.**
+4. 🚩 **VERIFY THE CACHE MULTIPLIERS** against Anthropic's published pricing before the dollar
+   figures are quoted anywhere.
+**Links:** [[compression-thesis]] · [[data-sourcing-playbook]] · [[fragility-engine]] · [[_calibration]]

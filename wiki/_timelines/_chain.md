@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **605 dated entries · 2026-05-22 → 2026-08-23 · refreshed 2026-08-23 20:55 PDT**
+> **606 dated entries · 2026-05-22 → 2026-08-23 · refreshed 2026-08-23 21:05 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -631,6 +631,7 @@
 - `2026-08-23` **[5]** metered-compute.md:L2474 — 2026-08-23 ~6:20pm PDT — ✅✅✅ **THE DEFINITIONAL FORK REGISTERED 8/04 AT `:L1712` IS RESOLVED, AND IT RESOLVES TO (a) — THE READING THIS NOTE ASSUMED A
 - `2026-08-23` **[5]** metered-compute.md:L2614 — 2026-08-23 ~7:10pm PDT — ⛔⛔⛔ **JAKE IS RIGHT AND THE VAULT HAD ALREADY WRITTEN THE CORRECTION DOWN — TWICE — BEFORE I IGNORED IT.** ★★★★★★ **`:L2264`:
 - `2026-08-23` **[5]** metered-compute.md:L2709 — 2026-08-23 ~7:45pm PDT — ★★★★★★ **JAKE SPECIFIES THE ARBITRAGE, AND IT FUSES THREE THINGS THIS VAULT HAS HELD SEPARATELY SINCE JULY: the 7/25 "moat mi
+- `2026-08-23` **[5]** metered-compute.md:L2812 — 2026-08-23 ~8:30pm PDT — ✅✅✅ **THE PROFILING RUN IS DONE AND IT CLOSES THE SERIES `:L2265` HAS CARRIED AS "THE SINGLE MOST VALUABLE MISSING" SINCE 8/1
 - `2026-08-23` **[5]** memory-regime-question.md:L1152 — 2026-08-23 ~8:50am PDT — ⛔ **JAKE: "WE ALREADY KNOW ABOUT THE 15% NVIDIA INCREASE." CORRECT — THIS NOTE FILED IT 2026-08-22 ~1:00pm PDT (`:L1109`), EI
 - `2026-08-23` **[5]** memory-regime-question.md:L1198 — 2026-08-23 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐ **TWO THREADS THIS VAULT HAS RUN SEPARATELY ARE ONE SHORTAGE, AND THE PROOF IS AN ASYMMETRY NOBODY IN THE SOURCE MATER
 - `2026-08-23` **[5]** compression-thesis.md:L2461 — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A
