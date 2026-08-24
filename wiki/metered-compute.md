@@ -2543,3 +2543,142 @@ high-stakes work · inference gross margin & accelerator utilisation.**
 - **⇒ THE FALSIFIER WITH A NUMBER: tokens/task falling faster than task count rises. The 38% harness
   study is the first measured instance of that force.** 🚩 **If a second independent harness result
   lands in the 30-40% range, the intensive-margin leg is in trouble.**
+
+## 2026-08-23 ~6:20pm PDT — ✅✅✅ **THE DEFINITIONAL FORK REGISTERED 8/04 AT `:L1712` IS RESOLVED, AND IT RESOLVES TO (a) — THE READING THIS NOTE ASSUMED AND LABELLED.** ★★★★★★ **WHICH MEANS THE REGISTERED ELASTICITY TEST FINALLY HAS BOTH LEGS, AND IT READS JEVONS: the index is −49.8% from its May peak, so elasticity-1 requires volume to have ~DOUBLED — and Anthropic's own revenue implies it roughly did.** ⛔ **AND THE PASTE'S BOTTOM LINE UNDERWEIGHTS ITS OWN MOST IMPORTANT DATUM: DEEPSEEK RAISED PRICES 4.7×, WHICH IS THE COMPRESSION THESIS RUNNING BACKWARDS AT THE CHEAP END**
+Source: Jake's AI TOKEN ECONOMICS brief, 2026-08-23, with links — Silicon Data · Fortune (DeepSeek,
+8/13) · OpenAI (GPT-5.6 pricing) · Anthropic docs · Ramp (~70,000 US companies) · Vercel AI Gateway
+Production Index (July 2026 + leaderboards) · Huawei keynotes (2025/9) · Investing.com/FT (Ascend).
+**Jake: *"Token volume is exploding and customers are learning to route work according to economics.
+Called this verbatim weeks ago."*** ⇒ **CHECKED BELOW RATHER THAN AGREED WITH.**
+
+#### ✅ FIRST — GRADING HIS CLAIM, WITH THE DATED LINES
+- **2026-07-19 (`compression-thesis:L389`)** — *"the commodity-inference tier going open-weight/Chinese —
+  exactly the segment the compression thesis says commoditizes FIRST… The low end is already ~50%
+  Chinese."*
+- **2026-07-29 (`:L1459`)** — the chain, stated in full: ***"capability converging → prudence-over-
+  capability release sequencing → CFOs hitting a cost wall → a routing layer that makes model choice
+  fungible → per-token pricing becomes a commodity auction."*** **And, in the same entry: *"Every link
+  now has a citation EXCEPT THE LAST, WHICH IS THE TRADEABLE ONE."***
+- **The same entry already graded HIM, not the thesis:** *"He named a product category before it had a
+  name, from first principles about CFO behaviour. That is the highest-quality call type in the vault —
+  not a direction, a STRUCTURE."*
+- ⇒ **✅ THE CLAIM IS ACCURATE AND UNDERSTATED. Five weeks, and the vault had already marked the LAST
+  LINK as the open one. Today's inbound is that link's evidence: the commodity auction is now
+  measured.**
+
+#### DATA (arithmetic verified line by line; ⚠️ every figure is Jake's source, none independently pulled)
+- **SILICON DATA LLM TOKEN EXPENDITURE INDEX — the vault's own series, extended:**
+  | date | level | source |
+  |---|---|---|
+  | Dec-2025 base | ~1.00 | `:L1701` chart read |
+  | mid-Jan peak | ~1.80 | `:L1701` |
+  | Feb trough | ~1.28 | `:L1701` |
+  | **May peak** | **~2.05 (vault) / ~2.07 (today)** | ✅ **the 8/04 chart read was right within 1%** |
+  | early-Aug print | **1.2901** | `:L1692` |
+  | **2026-08-22** | **~1.04** | today |
+  ⇒ **−49.8% from May (2.07 → 1.04 = ×0.5024) ✓ his "~49.8%" checks. AND A FURTHER −19.4% since the
+  vault's own 8/04 print of 1.2901, in under three weeks.**
+- **✅⭐ THE FORK IS CLOSED BY THE INDEX'S OWN DESCRIPTION: *"It reflects both PRICE CUTS and USERS
+  SHIFTING TOWARD CHEAPER MODELS."*** ⇒ **PRICE + MIX. NOT volume.** ⇒ **That is reading (a) — a
+  CPI-style cost-of-a-basket index — which `:L1712` named as "the likely reading" and assumed
+  explicitly.** ⇒ **⛔ FALLING = DEFLATION, NOT DEMAND CONTRACTION. The anti-thesis reading (b) is dead.**
+- **DEEPSEEK V4 FLASH, per 1M output: $0.28 → $0.66 off-peak (+135.7% ✓) → $1.32 peak (+371.4% ✓,
+  4.714× ✓).** **INPUT: $0.14 → $0.22 → $0.44 (3.14× at peak).**
+  **V4-Pro output: $0.87 → $1.98 → $3.96 (+355.2% ✓, 4.55×).**
+  ⇒ **⭐ AN ASYMMETRY THE BRIEF DOES NOT COMPUTE: OUTPUT ROSE 4.71× WHILE INPUT ROSE 3.14×.**
+- **OPENAI: GPT-5.6 Luna $1/$6 → $0.20/$1.20 (−80% on BOTH legs ✓). Terra $2.50/$15 → $2/$12 (−20% ✓).
+  Sol $5/$30.**
+- **ANTHROPIC LIST: Fable 5 $10/$50 · Opus 5 $5/$25 — EXACTLY 2× on both legs.**
+- **RAMP (~70,000 US companies, July): Fable 5 = ~6% of token volume, ~11.4% of spend.**
+- **ANTHROPIC ANNUALISED REVENUE: ~$47B (May) → ~$65B (July) = +38.3% ✓.** ⚠️ **RUN-RATE, not revenue.**
+- **VERCEL AI GATEWAY, through mid-Aug — tokens vs dollars:**
+  | | token share | dollar share | implied $/token, relative |
+  |---|---|---|---|
+  | **DeepSeek** | **28.3%** | **2.1%** | 0.074 |
+  | **Anthropic** | **25.8%** | **68.0%** | 2.636 |
+  | OpenAI | 16.8% | 11.8% | 0.702 |
+  ⇒ **AN ANTHROPIC TOKEN COSTS ~35.5× A DEEPSEEK TOKEN ON THIS RAIL** (2.636 ÷ 0.074). ✅ **Sanity-
+  checks against list price: Opus 5 output $25 vs DeepSeek Flash old $0.28 = 89×; blended with input
+  and mix, ~35× is the right order.**
+  **June: open-weight 29% of tokens (11% in April), <4% of spend; DeepSeek alone 22.6% → 28.3% by mid-Aug.**
+- **HUAWEI (⚠️ sources are huawei.com KEYNOTES dated 2025/9 — ANNOUNCEMENTS, not shipments):**
+  **Atlas 950 SuperPoD, Q4-2026: 8,192 Ascend 950DT · 8 EFLOPS FP8 · 16 EFLOPS FP4 · 1,152 TB memory ·
+  ~16 PB/s interconnect** ⇒ **~1.0 PFLOPS FP8/chip (derived).**
+  **Atlas 960 SuperPoD, Q4-2027: 15,488 processors · ~30 EFLOPS FP8** ⇒ **~1.94 PFLOPS/chip ⇒ ~2×
+  per-chip generation-over-generation (derived, and internally consistent).**
+  **Atlas 950 SuperCluster: >520,000 Ascend 950DT.**
+- **ASCEND 950PR: ~¥50,000 DDR (~$6,900) · ~¥70,000 HBM (~$9,700).** ✅ **FX check: 7.246 and 7.216
+  CNY/USD — consistent.** **~750,000 chips planned 2026. Huawei AI-processor revenue ~$7.5B (2025) →
+  ~$12B (2026), +60% ✓.** ✅ **CROSS-CHECK: 750k × $6,900-9,700 = $5.2-7.3B ≈ HALF the $12B, leaving
+  the balance to 910C/other. Internally consistent.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE REGISTERED ELASTICITY TEST NOW HAS BOTH LEGS FOR THE FIRST TIME, AND IT READS JEVONS.**
+  Set as `:L1498` and now carried at `:L1572` / `:L1682`: ***"−80% needs >5× volume to break even;
+  −20% needs >1.25×"*** — the elasticity-1 boundary. **Restated at today's
+  actual move: the index fell to ×0.5024, so HOLDING TOTAL SPEND FLAT REQUIRES VOLUME ×1.99 SINCE MAY.**
+  ⇒ **DERIVED ESTIMATE OF THE VOLUME LEG, ASSUMPTIONS NAMED: Anthropic run-rate ×1.383 (May→July);
+  interpolating the index over the same window gives roughly ×0.68 on realised price; ⇒ implied volume
+  ≈ ×2.05 IN TWO MONTHS, arc elasticity ≈ 3.** ⇒ **ELASTICITY WELL ABOVE 1 ⇒ JEVONS REGIME ⇒ TOTAL
+  SPEND IS GROWING, NOT SHRINKING.** ⚠️⚠️ **THIS IS A DERIVATION, NOT A MEASUREMENT, AND ITS WEAKEST
+  JOINT IS THAT THE MARKET-BASKET INDEX IS BEING USED AS A PROXY FOR ONE FIRM'S REALISED PRICE. The
+  July index level is INTERPOLATED, not read.** ⇒ 🚩 **A single Vercel or OpenRouter total-token series
+  replaces the whole derivation and is the fetch that matters.** *(Analysis.)*
+- **⛔⛔⛔ THE BRIEF'S BOTTOM LINE BURIES ITS OWN BIGGEST DATUM: DEEPSEEK RAISED PRICES 4.7×. THAT IS
+  THIS NOTE'S THESIS RUNNING BACKWARDS AT THE CHEAP END, AND IT IS NOT A CURIOSITY.** **If the
+  cheapest at-scale provider is congested enough to charge 371% more at peak, then the "commodity
+  auction" has a SUPPLY FLOOR and price compression at the model layer is bounded by COMPUTE
+  AVAILABILITY, not by willingness to cut.** ⇒ **★★★ The compression thesis has always been argued as
+  a demand-side/competition story. This is the first hard evidence of a SUPPLY-SIDE FLOOR under it.**
+  *(Analysis.)*
+- **★★★★★★ AND THE INPUT/OUTPUT ASYMMETRY NAMES THE CONSTRAINT, WHICH IS THE MOST VALUABLE DERIVED
+  LINE HERE: OUTPUT +4.71× vs INPUT +3.14×.** **Prefill (input) is compute-bound and parallelises;
+  decode (output) is SEQUENTIAL and MEMORY-BANDWIDTH-BOUND.** ⇒ **Pricing the bandwidth-bound leg
+  disproportionately is what a provider does when BANDWIDTH, not FLOPs, is the binding constraint.**
+  ⇒ **⭐⭐ THAT IS THE SAME CONSTRAINT AS THE MEMORY THESIS, OBSERVED TWO LAYERS UP THE STACK. NVDA
+  raising system prices >15% on memory cost and DeepSeek raising decode prices 4.7× on congestion are
+  the SAME SHORTAGE priced at the hardware layer and at the token layer.** ⇒ **The vault has been
+  running those as two threads. They are one.** *(Analysis. ⚠️ The prefill/decode mechanism is
+  standard inference engineering, but DeepSeek has NOT stated bandwidth as the reason — ⬜ inferred
+  from the price structure alone.)*
+- **★★★★★ THE INVERSION THE BRIEF SPOTS AND THEN DOES NOT FOLLOW THROUGH ON: DEEPSEEK V4 FLASH AT PEAK
+  ($1.32) IS MORE EXPENSIVE THAN GPT-5.6 LUNA ($1.20).** ⇒ **The open/cheap model costs MORE than the
+  closed/cheap model.** ⇒ **★★★ WHICH MEANS THE MOAT AT THE COMMODITY TIER IS NOT THE WEIGHTS — IT IS
+  COMPUTE ACCESS. OpenAI can cut 80% because it has the capacity; DeepSeek must ration by price
+  because it does not.** ⇒ **This cuts directly against the open-vs-closed framing this thread has
+  carried since July, and it is the strongest single disconfirmer on file for it.** *(Analysis.)*
+- **⛔ AND A DERIVATION CATCH: "FABLE = 6% OF TOKENS BUT 11.4% OF SPEND" IS ONE FACT STATED TWICE, NOT
+  TWO FACTS.** **Fable is priced at EXACTLY 2× Opus on both legs. So (0.06 × 2) ÷ ((0.06 × 2) +
+  (0.94 × 1)) = 0.12 ÷ 1.06 = 11.32%.** **Observed: 11.4%.** ⇒ **The spend share is FULLY explained by
+  the price ratio and the token share, with ~0.1pp left over.** ⇒ **⛔ There is NO premium-mix effect
+  in the Ramp data beyond price. "Fable has stalled at ~11% of spending" contains no information that
+  "Fable is ~6% of tokens" did not already contain.** *(Analysis. Fifth denominator/derivation
+  artefact today, after Hormuz's +400%, the FT's $40B, the Fed's 52.5%, and the RBN date.)*
+- **⚠️ THE HUAWEI SECTIONS ARE REAL AND SMALL, AND THE BRIEF SUPPLIES NO DENOMINATOR FOR EITHER.**
+  **~$12B of 2026 AI-processor revenue and ~750,000 chips are the numbers to hold — against an
+  incumbent whose data-centre segment this vault DOES NOT CARRY AS A LINE.** ⇒ **⛔ "China is massively
+  expanding domestic AI compute capacity" cannot be sized without it, and the vault cannot size it
+  today.** **Also: every Atlas figure traces to SEPTEMBER-2025 KEYNOTES for Q4-2026 and Q4-2027
+  delivery.** ⇒ **ANNOUNCED ≠ SHIPPED. A 520,000-chip SuperCluster is a slide.** ✅ **Credit where due:
+  the brief itself corrects the viral "15,000-chip SuperPoD soon" claim by separating the two
+  generations — that is the right discipline applied to a rumour.** *(Analysis.)*
+- **⚠️ AND THE "INVESTMENT IMPLICATION" IS NOT AN IMPLICATION, IT IS A DESCRIPTION OF THE BOOK.**
+  Accelerators · HBM/DRAM · networking · optical · switches · power · transformers · cooling · DC
+  construction **IS the 2nd-order capex basket already held (`ai-infra-allocation-map:L182`).**
+  ⇒ **A brief that concludes with the portfolio you already own is confirming, not informing. Its
+  value is in the DeepSeek reversal and the elasticity number, which point at things the book does
+  NOT currently express.** *(Analysis. `_calibration`: push hardest on monotone-confirmed claims.)*
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED — `:L1712`, the definitional fork, open since 8/04.** Price+mix, not volume. Reading (a).
+2. 🚩🚩🚩 **TOTAL TOKEN VOLUME, A LEVEL SERIES — the one fetch that replaces the whole elasticity
+   derivation above.** ⬜ **Vercel publishes shares, not totals; OpenRouter publishes volume.**
+   **Without it, "spend is growing" stays DERIVED.**
+3. 🚩🚩🚩 **NVDA DATA-CENTRE SEGMENT REVENUE, AS A VAULT LINE.** ⬜ **NOT HELD — checked. It is the
+   denominator for every "China is catching up" claim and the vault has been reading them without one.**
+4. 🚩🚩 **DOES DEEPSEEK'S PEAK/OFF-PEAK SPREAD PERSIST OR NARROW?** **A congestion price should decay as
+   capacity lands. If it holds past Q4, the supply floor is structural, not transient — and that
+   changes the compression thesis rather than qualifying it.**
+5. 🚩 **SILICON DATA METHODOLOGY PAGE — still worth one pull to confirm the basket construction**, now
+   that the direction is settled by the vendor's own description.
+**Links:** [[compression-thesis]] · [[memory-regime-question]] · [[ai-capex-cycle]] · [[ai-infra-allocation-map]] · [[transmission-chain]]

@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **413 dated entries across 4 notes · 2026-05-22 → 2026-08-23 · refreshed 2026-08-23 16:49 PDT**
+> **414 dated entries across 4 notes · 2026-05-22 → 2026-08-23 · refreshed 2026-08-23 20:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -435,3 +435,4 @@
 - `2026-08-23` [ai-financing-fragility.md:L7031](../ai-financing-fragility.md) — 2026-08-23 ~4:55pm PDT — 🚩🚩🚩 **A CLAIM THAT WOULD RE-EXPLAIN THE WHOLE AI EQUITY MOVE, REGISTERED AND NOT ENDORSED: "THE CHIP/MEMORY TRADE PEAKED THE 
 - `2026-08-23` [ai-financing-fragility.md:L7092](../ai-financing-fragility.md) — 2026-08-23 ~5:40pm PDT — ⛔⛔⛔ **THE CHART ARRIVES LEGIBLE AND IT FALSIFIES ITS OWN CAPTION AT BOTH ENDS.** ★★★★★★ **PHASE 1 (Mar 25 → mid-May): FUNDING
 - `2026-08-23` [compression-thesis.md:L2461](../compression-thesis.md) — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A
+- `2026-08-23` [metered-compute.md:L2474](../metered-compute.md) — 2026-08-23 ~6:20pm PDT — ✅✅✅ **THE DEFINITIONAL FORK REGISTERED 8/04 AT `:L1712` IS RESOLVED, AND IT RESOLVES TO (a) — THE READING THIS NOTE ASSUMED A

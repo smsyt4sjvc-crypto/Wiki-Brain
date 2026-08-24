@@ -1234,3 +1234,48 @@ story is the same Bloomberg report this note already holds; Reuters "could not i
 2. 🚩🚩🚩 **END-SEPTEMBER HBM CONTRACT PRINT vs the derived ~24%** — carried, unchanged, and now the
    only thing that grades the derivation.
 **Links:** [[ai-capex-cycle]] · [[financing-fragility-gauge]] · [[ai-infra-allocation-map]] · [[compression-thesis]]
+
+## 2026-08-23 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐ **TWO THREADS THIS VAULT HAS RUN SEPARATELY ARE ONE SHORTAGE, AND THE PROOF IS AN ASYMMETRY NOBODY IN THE SOURCE MATERIAL COMPUTED: DEEPSEEK RAISED *OUTPUT* TOKENS 4.71× BUT *INPUT* TOKENS ONLY 3.14×**
+Source: DeepSeek V4 pricing via Fortune 2026-08-13, in Jake's token-economics brief 2026-08-23 →
+filed in full at `metered-compute:L2547`. **Prices per 1M tokens: OUTPUT $0.28 → $0.66 off-peak →
+$1.32 peak (4.714×). INPUT $0.14 → $0.22 → $0.44 (3.143×).**
+⚠️ **The ratio is arithmetic on published prices. The MECHANISM below is inferred and DeepSeek has
+stated only "capacity/congestion" — ⬜ it has NOT named bandwidth.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ PREFILL AND DECODE HAVE DIFFERENT BOTTLENECKS, AND THE PRICE STRUCTURE PICKS ONE.**
+  **INPUT (prefill) processes the whole prompt in parallel — it is COMPUTE-bound and scales with
+  FLOPs. OUTPUT (decode) generates one token at a time, re-reading the model weights and the KV cache
+  every step — it is SEQUENTIAL and MEMORY-BANDWIDTH-bound.**
+  ⇒ **A provider that raises the DECODE leg 50% harder than the PREFILL leg is rationing BANDWIDTH,
+  not FLOPs.** *(Analysis.)*
+- **⇒ ★★★★★★ WHICH MAKES THIS THE SAME SHORTAGE AS `:L1109`, PRICED TWO LAYERS UP THE STACK.**
+  **NVDA raising finished-system prices >15% on memory cost is the shortage at the HARDWARE layer.
+  DeepSeek raising decode prices 4.71× on congestion is the shortage at the TOKEN layer.** ⇒ **This
+  note and [[metered-compute]] have been running them as separate threads with separate evidence
+  ladders. They are one constraint observed at two prices.** *(Analysis.)*
+- **★★★★★ AND IT UPGRADES THE MEMORY THESIS FROM A SUPPLY-CHAIN CLAIM TO A DEMAND-SIDE ONE, WHICH IS
+  THE STRONGER FORM.** **Everything this note holds — SKH contract prices, Micron "booked solid,"
+  the 62% Vera Rubin BOM, the derived ~24% input-cost increase — is evidence from the SELLERS of
+  memory.** ⇒ **DeepSeek's price sheet is evidence from a BUYER OF BANDWIDTH, revealed through what
+  it charges its own customers.** ⇒ **An independent origin, and one that cannot be explained by
+  memory vendors talking their book.** *(Analysis.)*
+- **⛔ AND THE HONEST COUNTER, WHICH IS REAL: DEEPSEEK IS EXPORT-CONTROL CONSTRAINED, SO ITS
+  BOTTLENECK MAY BE *CHIPS IT CANNOT BUY* RATHER THAN *BANDWIDTH THAT DOES NOT EXIST*.** ⇒ **If the
+  constraint is sanctions rather than physics, the read-through to global HBM demand is WEAKER than
+  the paragraph above implies — it becomes a China-specific rationing story.** ⇒ **🚩 THE
+  DISCRIMINATOR: does any UNCONSTRAINED provider show the same input/output asymmetry?** **OpenAI cut
+  GPT-5.6 Luna by EXACTLY 80% on BOTH legs and Terra by exactly 20% on both — NO asymmetry at all.**
+  ⇒ **⚠️ THAT CUTS AGAINST THE BANDWIDTH READ AND TOWARD THE SANCTIONS READ, and it is in the same
+  brief.** ⇒ **Register the link; do NOT promote it to a standing conclusion on one provider.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **DO ANY WESTERN PROVIDERS PRICE INPUT AND OUTPUT ASYMMETRICALLY, AND HAS THE RATIO WIDENED
+   IN 2026?** ⬜ **Not fetched, and it is the whole test.** **Anthropic is 5:1 output:input on both
+   Fable and Opus; OpenAI 6:1 on Luna and Terra — the LEVELS are asymmetric by convention. The
+   question is whether the RATIO has MOVED.** ⇒ **A ratio that widens across unconstrained providers
+   is bandwidth. One that widens only at DeepSeek is export controls.**
+2. 🚩🚩 **DOES DEEPSEEK'S PEAK/OFF-PEAK SPREAD DECAY?** Carried from `metered-compute`. A congestion
+   price should fade as capacity lands; one that holds past Q4 is structural.
+**Links:** [[metered-compute]] · [[compression-thesis]] · [[ai-capex-cycle]] · [[buildout-bottleneck-map]]
