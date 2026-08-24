@@ -3295,6 +3295,7 @@ the difference between commentary and policy.**
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[war/war-confirmed]]
 
 ### 2026-08-23 ~9:50pm PDT — 🕳️🕳️ **MAP GAP #20, AND IT IS THE MOST IMPORTANT ONE THIS BOARD HAS OPENED: 131 DAYS OF BLOCKADE TRACKED ENTIRELY FROM THE OUTSIDE, AND NOTHING AT ALL ON WHETHER IRAN CAN *ENDURE* IT.** ⛔ **A paste on Iran importing FROZEN MEAT to cap meat prices routed `WAR/OIL(1)*` — one weak keyword — and `grep -rn "rial\|inflation\|subsid\|food price" wiki/` returns NOTHING on Iran's domestic economy.** ★★★★★ **ENDURANCE IS THE VARIABLE THAT SETS THE BLOCKADE'S DURATION, AND THE BOARD HAS NO INSTRUMENT FOR IT**
+  ⟲ SUPERSEDED 2026-08-24 → war-board.md:L3367 — DIRECTION INVERTED: Ghalibaf is mocking TRUMP -- the frozen meat is US policy (Trump's 8/21 beef import waiver), not Iranian. The MAP GAP and its fetches survive; the domestic-distress thesis is WITHDRAWN
 Source: Jake's paste, 2026-08-23 ~9:40pm PDT — a satirical post naming **محمدباقر قالیباف
 (Mohammad Bagher Ghalibaf, Speaker of Iran's Majlis)**: *"Importing frozen meat to fix meat prices…
 What's the plan for bonds, import frozen yields? Frozen homebuyers for housing? Frozen paychecks for
@@ -3363,3 +3364,94 @@ is Ghalibaf's or is merely being pinned on him is NOT established.**
 4. 🚩 **WHOSE POST IS THIS?** ⬜ Unidentified. **Same discipline as `@ir_rezaee` twelve hours ago —
    and that one is STILL unverified.**
 **Links:** [[demand-destruction]] · [[oil-value-chain]] · [[war/war-confirmed]] · [[new-economy-regime]]
+
+### 2026-08-23 ~10:20pm PDT — ⛔⛔⛔ **I HAD THE DIRECTION EXACTLY BACKWARDS AND THE TELL WAS IN THE ATTRIBUTION I ALREADY HAD. GHALIBAF IS MOCKING *TRUMP*. THE FROZEN MEAT IS *US* POLICY.** ★★★★★ **AND "THE IRAN BOOMERANG" IS RESOLVED BY THE IMAGE I DID NOT HAVE: a four-panel boomerang meme — "THE MOST / CRUSHING / ECONOMIC OPERATION / EVER" — the throw returning to hit the thrower in the head. Iran's claim is that the US economic war has boomeranged into US inflation** ⟲ **SUPERSEDES `:L3297` ENTIRELY — that entry's central premise was wrong**
+  ⟲ SUPERSEDES war-board.md:L3297 — DIRECTION INVERTED: Ghalibaf is mocking TRUMP -- the frozen meat is US policy (Trump's 8/21 beef import waiver), not Iranian. The MAP GAP and its fetches survive; the domestic-distress thesis is WITHDRAWN
+Source: **Jake's correction + the screenshot** → `raw/2026-08-23-ghalibaf-boomerang.jpg`.
+**@MB Ghalibaf | محمدباقر قالیباف, Speaker of Iran's Majlis, posted ~4m before capture: 191 replies ·
+378 reposts · 3.6K likes.** **The referent: Trump's 2026-08-21 announcement — up to 300,000 metric
+tons of GROUND beef importable over 90 days without the normal out-of-quota tariff; participating
+suppliers committed to sell 25% below current market; ~2% of annual US beef consumption; intended as
+a bridge while the US rebuilds a cattle herd near its smallest since the 1950s; US cattle groups
+object that it depresses domestic prices and discourages the rebuild.**
+
+#### ⛔ THE ERROR, NAMED PROPERLY, BECAUSE IT IS A NEW CLASS FOR THE LEDGER
+- **I read "Ghalibaf: importing frozen meat to fix meat prices" as IRAN importing frozen meat, and
+  built an entire entry — plus a map patch, plus three registered fetches — on Iranian domestic
+  distress.** ⇒ **The satire is aimed at WASHINGTON.**
+- **⭐⭐ AND THE TELL WAS ALREADY IN MY HANDS, IN THE ATTRIBUTION LINE: A SITTING SPEAKER OF PARLIAMENT
+  DOES NOT POST FOUR-LINE SATIRE ATTACKING HIS OWN GOVERNMENT'S ECONOMIC POLICY.** ⇒ **I read the
+  CONTENT and ignored the SPEAKER'S POSITION.** ⇒ **★★★ ERROR CLASS 8, NEW: READING A QUOTE WITHOUT
+  ASKING WHO BENEFITS FROM IT. Every other class in this vault is about the DATUM; this one is about
+  the SPEAKER. "Who gains if this is believed" is a question the vault has never had as a gate.**
+- **⚠️ AND THE IMAGE WOULD HAVE RESOLVED IT INSTANTLY. I had the text and not the meme, and I did not
+  say so — I reasoned to a conclusion from a partial artefact instead of naming the missing half.**
+  ⇒ **That is the same failure I catalogued in three OTHER parties' summaries tonight
+  (`:L3235`, and the RBN date), committed by me, on the same day, with the lesson already written
+  down.** *(Analysis.)*
+- **✅ WHAT SURVIVES FROM `:L3297`: the MAP GAP IS REAL AND THE PATCH STANDS.** The board genuinely
+  holds nothing on Iranian domestic endurance — no rial, no inflation, no staples, no snapback — and
+  that is true independently of what this post was about. ⇒ **The gap keeps its three registered
+  fetches. The THESIS built on top of it does not.** ⛔ **In particular: "escalation abroad and
+  subsidy at home are two halves of one constraint" HAS NO EVIDENCE BEHIND IT AND IS WITHDRAWN.**
+
+#### DATA — THE US POLICY, AND ONE WINDOW ERROR IN THE FRAMING
+- **300,000 t · 90 days · out-of-quota tariff waived · suppliers committed to −25% vs current market ·
+  "~2% of annual US beef consumption" ⇒ implies annual consumption ~15,000,000 t.**
+- **⛔ "ONLY 2%" IS AN ANNUAL DENOMINATOR ON A 90-DAY INTERVENTION. One quarter of ~15,000,000 t is
+  ~3,750,000 t, so 300,000 t is 8.0% OF THE QUARTER IT LANDS IN — the framing understates the
+  near-term supply effect by 4×.** ⇒ **Mechanical arithmetic if 8.0% of quarterly supply prices 25%
+  below and DISPLACES rather than adds: ~2.0% off the quarterly average price.**
+  ⚠️⚠️ **THREE THINGS BREAK THAT NUMBER AND IT MUST NOT BE QUOTED AS AN ESTIMATE: (1) it is GROUND
+  beef, a SUBSET — the effect on ground beef is LARGER and on aggregate beef SMALLER, and ⬜ the
+  vault does not know ground beef's share; (2) "committed to sell 25% below" is a COMMITMENT, not a
+  clearing price; (3) displacement vs addition is unknown.** ⇒ **The 8.0% window correction is solid.
+  The 2.0% price effect is an upper-bound sketch.**
+- **Sixth denominator/window artefact of the day**, after Hormuz's +400%, the FT's $40B, the Fed's
+  52.5%, the RBN date, and Fable's 6%/11.4%.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THIS IS THE SPR PLAY APPLIED TO PROTEIN, AND THE VAULT HAS ALREADY WORKED OUT THE FAILURE
+  MODE.** `demand-destruction`'s SPR thread established the mechanism and its limit — ***"an income can
+  be defended indefinitely; an inventory cannot"*** — plus the refill bid: **315M bbl = the hole that
+  must eventually be bought back.** ⇒ **A 90-day tariff waiver against a herd at 1950s lows is the
+  same instrument: release a buffer to cap a price, and defer the supply response that would fix it.**
+  ⇒ **★★★ AND THE CATTLE GROUPS' OBJECTION IS THE SPR OBJECTION VERBATIM: suppressing the price signal
+  removes the incentive to rebuild the very inventory you are drawing down.** ⇒ **The difference cuts
+  AGAINST the beef version: the SPR refills by purchase in months; a cattle herd rebuilds over YEARS
+  because the unit of inventory is a biological cycle.** *(Analysis.)*
+- **★★★★★ AND IT IS THE FIRST INSTANCE OF THE TARIFF LEVER RUNNING IN REVERSE, WHICH IS A POLICY
+  ADMISSION.** **`new-economy-regime:L56` (7/23) filed tariffs as *"a SECOND inflation input stacking
+  on oil into a boxed Fed"*; the June FOMC minutes attribute core-goods inflation "largely" to
+  "tariffs and AI-related" costs (`:L269`).** ⇒ **Waiving a tariff to cut a consumer price concedes
+  the vault's own causal chain from the other end.** ⇒ **⭐ Fiscal/trade policy is now doing
+  disinflation because monetary policy will not — which is the Fed-Trap structure this vault named,
+  observed from the fiscal side for the first time.** *(Analysis.)*
+- **⭐⭐ AND JAKE'S ONE-LINE ADDITION IS THE THIRD INSTANCE OF ONE PATTERN IN A SINGLE DAY: "US Farmers
+  are… not thrilled."** **Today the board also logged ~200 MAHA-aligned activists against coal-for-AI
+  and Trump telling communities that refusing data centres is a mistake.** ⇒ **★★★ THREE SEPARATE
+  FRONTS IN ONE DAY WHERE ADMINISTRATION POLICY RUNS AGAINST PART OF ITS OWN COALITION — health
+  constituency on fuel, local government on siting, farm constituency on food imports.**
+  ⇒ **Stage 4c (political permission) is not trending one way; it is CONTESTED FROM INSIDE, and that
+  is a different regime from the one the vault has been assuming.** *(Analysis.)*
+- **⚠️ AND THE THING THE VAULT SHOULD NOT DO WITH THIS: treat an Iranian official's meme as evidence
+  about the US economy.** **It is an INFORMATION-WARFARE artefact — a belligerent using the
+  adversary's food inflation as a narrative instrument, with 3.6K likes as its only metric.**
+  ⇒ **It is evidence of IRANIAN MESSAGING STRATEGY, which the board does not track at all, and
+  evidence of NOTHING about US beef.** ⇒ **The US policy is the datum; the post is the pointer.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED — "the Iran boomerang" (`:L3297` #2 asked what it meant).** **The meme resolves it: the
+   US economic campaign rebounding on the US. NOT the UN snapback.** ⛔ **Which means the snapback /
+   UNSCR 2231 gap is STILL a real gap — it just is not what this post was about.**
+2. 🚩🚩🚩 **ERROR CLASS 8 GOES IN THE RULEBOOK: BEFORE READING A QUOTE, ASK WHO GAINS IF IT IS
+   BELIEVED.** **The vault has seven error classes and all seven interrogate the DATUM. None
+   interrogates the SPEAKER'S INTEREST.** ⬜ Not yet added to `CLAUDE.md`.
+3. 🚩🚩 **GROUND BEEF'S SHARE OF US BEEF CONSUMPTION** — the denominator that turns the 8.0% window
+   figure into a real price estimate. ⬜ Not fetched.
+4. 🚩🚩 **DOES THE 300,000 t ACTUALLY ARRIVE, AND AT WHAT PRICE?** **"Committed to sell 25% below" is a
+   commitment. 90 days from 2026-08-21 = ~2026-11-19.** **Dated and falsifiable.**
+5. 🚩 **IRANIAN STATE MESSAGING AS A TRACKED SERIES** — the board tracks Iran's kinetic and economic
+   instruments and not its narrative one. ⬜ Nothing on file. **Low priority, named for completeness.**
+**Links:** [[demand-destruction]] · [[new-economy-regime]] · [[power-not-petroleum]] · [[consumption-vs-investment-crux]]

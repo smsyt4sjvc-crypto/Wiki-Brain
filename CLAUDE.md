@@ -80,6 +80,17 @@ duplicate note) · the **🔴 open items** the inbound might close.
    usually a different period or definition — and sometimes it is the fresh pull being wrong.**
    ⚠️ Its extracted-value column is noisy; **the LINE TEXT is the product, not the number.**
 
+### ⛔ ERROR CLASS 8 — BEFORE READING A QUOTE, ASK WHO GAINS IF IT IS BELIEVED (added 2026-08-23)
+**Classes 1-7 all interrogate the DATUM — the label, the reference value, the window, the instrument,
+the arithmetic, the failed call, the exhausted tool. NONE interrogates the SPEAKER'S INTEREST.**
+⛔ **On 8/23 a satirical post by the SPEAKER OF IRAN'S PARLIAMENT was read as a critique of IRAN. It
+was mocking Trump. The tell was in the attribution line I already had: a sitting Speaker does not post
+four-line satire attacking his own government's economic policy.** ⇒ **I read the CONTENT and ignored
+the POSITION.** **⇒ THE GATE: name the speaker's office, name who is embarrassed if the claim lands,
+and only then read the content.** **And when the artefact is partial — text without the image, a
+paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past the missing half.**
+→ [[war/war-board]] 2026-08-23 ~10:20pm.
+
 ### WRITING RULES
 5. **Firewall**: DATA (observed, sourced) and THESIS (interpretation, attributed) never blend. When in
    doubt, it is thesis. Wrong calls stay VISIBLE (strike/falsify, never delete).
