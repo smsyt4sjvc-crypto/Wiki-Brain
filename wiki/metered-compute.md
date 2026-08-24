@@ -2778,3 +2778,106 @@ work it can result in Fable's task output INCREASING while token usage DECREASES
    on two published snapshots. A third reading either confirms that expensive dollar share holds while
    cheap token share rises, or breaks it.**
 **Links:** [[compression-thesis]] · [[memory-regime-question]] · [[ai-capex-cycle]] · [[_calibration]]
+
+## 2026-08-23 ~7:45pm PDT — ★★★★★★ **JAKE SPECIFIES THE ARBITRAGE, AND IT FUSES THREE THINGS THIS VAULT HAS HELD SEPARATELY SINCE JULY: the 7/25 "moat migrates from WEIGHTS to MEMORY" thesis (`:L656`), the 8/10 DELEGATION TIERS rule (`CLAUDE.md` rule 19), and today's measured 20-70× price spread.** ⛔ **AND TODAY IS THE CONTROLLED EXPERIMENT ON BOTH SIDES: the day's single best finding came from a ZERO-TOKEN gopher, and the day's three worst errors ALL came from a gopher that SUMMARISED instead of EXTRACTING**
+Source: **Jake, 2026-08-23 ~7:35pm PDT** — *"Token arbitrage. Knowing what tasks consume the most
+tokens and creating individual vaults like this, projects etc trained on ~that specific~ task with
+errors logged etc. Specialise gophers for retrieving data, creating summaries from verified input and
+preparing them for Fable or Opus. I mean, that's what I would do."*
+
+#### THE SPREAD, PRICED (list prices from today's brief, per 1M tokens)
+| leg | Fable 5 | GPT-5.6 Luna | DeepSeek V4 Flash (old / peak) | ratio |
+|---|---|---|---|---|
+| **input** | $10 | $0.20 | $0.14 / $0.44 | **50× / 71× / 22.7×** |
+| **output** | $50 | $1.20 | $0.28 / $1.32 | **41.7× / 178× / 37.9×** |
+- ⇒ **THE ARBITRAGE IS 20-70× AND IT IS WIDEST ON *INPUT*, WHICH IS EXACTLY WHERE RETRIEVAL LIVES.**
+- **⭐ AND THE COMPOUNDING IS THE PART THE RATIO UNDERSTATES: the cost of a document is not paid once.
+  Carried context is re-submitted on EVERY subsequent turn.** ⇒ **A gopher that returns a 500-token
+  verified extract instead of a 45,000-token document does not save 44,500 tokens — it saves 44,500
+  tokens × EVERY REMAINING TURN IN THE SESSION.** ⇒ **★★★ THAT is the real sink, and it is why
+  "individual vaults per task" is the load-bearing half of his design and "cheap gophers" is the
+  cheaper half.** *(Analysis.)*
+
+#### ✅ TODAY PROVED THE UPSIDE, IN THIS SESSION, BY ACCIDENT
+- **THE SOMA HOLDINGS FILE WAS 136 KB OF JSON. IT WAS NEVER READ BY A MODEL.** It was fetched by curl
+  and bucketed in Python — **Tier 0, zero model tokens** — and it produced **the highest-value finding
+  of the day: fifteen CUSIPs sitting at exactly 70.0%, which inverted a published piece's policy
+  conclusion** (`rates-board:L957`). ⇒ **The best output of the day cost nothing at the model layer.**
+- ⇒ **⛔ AND THE HONEST GRADE ON RULE 19, WHICH HAS EXISTED SINCE 8/10: I HAVE NOT SPAWNED A SINGLE
+  TIER-1 SUBAGENT TODAY.** I read the Windward daily, the ZeroHedge Hormuz piece and the 32-page Tchir
+  PDF at frontier rates myself. **The rule names that exact work as Tier-1.** ⇒ **The arbitrage he is
+  describing has been sitting unclaimed in this session all day, in a vault that already has the rule
+  written down.** *(Analysis.)*
+
+#### ⛔⛔ AND TODAY ALSO PROVED THE FAILURE MODE — THREE TIMES, ALL THE SAME FAILURE
+**The DAILY HOLDINGS SCAN *is* a gopher output. It is precisely the architecture he proposes: a
+cheaper process retrieving, summarising and preparing material for the expensive model. Today it was
+wrong three times in ways that changed the read:**
+1. **RBN's "$66.26, latest reading from Aug. 21"** — a PUBLICATION label passed through as a DATA
+   date. The figure was Thursday's. (`oil-value-chain:L1920`)
+2. **"Iran raised the possibility of targeting alternative Gulf oil routes"** — **that object is NOT
+   IN THE SOURCE TEXT.** The primary names no route and no pipeline. (`war-board:L3235`)
+3. **The NVDA price-hike demand read, sign inverted** — the scan called the hike a demand RISK; the
+   vault reads the choice to hike as revealed demand INELASTICITY. (`memory-regime-question:L1198`)
+- ⇒ **★★★★★★ ALL THREE ARE ONE FAILURE: THE GOPHER SUMMARISED THE *CLAIM* INSTEAD OF EXTRACTING THE
+  *ARTEFACT*.** ⇒ **And the loss is UNRECOVERABLE UPSTREAM — a frontier model cannot detect a
+  distortion in a document it never saw.** ⇒ **⛔ THIS IS THE BINDING DESIGN CONSTRAINT AND TODAY
+  SPECIFIED IT EMPIRICALLY, NOT THEORETICALLY.** *(Analysis.)*
+
+#### ★★★ THE DESIGN RULES THAT FALL OUT — stated as constraints because that is what they are
+- **1. A GOPHER MAY LOCATE, EXTRACT VERBATIM, AND STAMP PROVENANCE. IT MAY NOT CHARACTERISE.** The
+  moment it writes *"Iran raised the possibility of…"* instead of pasting the sentence, the artefact
+  is gone. **Verbatim + `file:line` + source timestamp is lossless; a characterisation is not.**
+- **2. VERIFICATION MUST BE DETERMINISTIC, NOT DELEGATED TO THE SAME TIER THAT SUMMARISED.** Jake's
+  phrase is *"summaries from VERIFIED input"* — and the verifier is the expensive part. **The vault's
+  answer already exists and is free: `librarian.py`'s magnitude-collision check, the arithmetic
+  reconciliation, the QUOTE-HEADER test, `crosscheck.py`.** ⇒ **A deterministic checker cannot
+  hallucinate, and today's fixed regex caught the $66.26 collision that a model summariser had
+  already lost.** ⇒ **★ TIER 0 IS NOT JUST THE CHEAPEST TIER — IT IS THE ONLY TIER THAT CANNOT LIE.**
+- **3. CROSS-DOCUMENT RECONCILIATION IS IRREDUCIBLY FRONTIER WORK AND MUST NOT BE PUSHED DOWN.**
+  **Every high-value output today was a CONFLICT between two sources**: ZH's "Iran is losing its grip"
+  against Windward's record dark-transit count · Tchir's headline against the SOMA bucketing · the
+  brief's substitution read against the complement signature. ⇒ **Gophers extract PER DOCUMENT. Only
+  the frontier model sees ACROSS them, and that is where the alpha was.** *(Analysis.)*
+- **4. THE ERROR LOG IS THE ASSET, AND IT IS THE ONLY PART THAT IS NOT FUNGIBLE.** `:L662` already
+  proved model-portability: *"the context survives every swap BECAUSE the memory was never inside the
+  model."* ⇒ **Weights are swappable. Task-specific accumulated error corrections are not.**
+  ⇒ **★★★ A per-task vault's value is not its summaries — it is its `⛔ CORRECTIONS` section. That is
+  a compounding private asset with no vendor equivalent, and it is what Jake has actually built.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE STRATEGIC ANSWER TO "THAT'S WHAT I WOULD DO": HE SHOULD DO IT AS AN OPERATOR, AND THE
+  VAULT CANNOT YET TELL HIM TO BUY IT AS A TRADE.** **`:L653` registered the falsifiable line a month
+  ago: does ANY routing seat HOLD a take-rate as volume explodes? Take-rate holding = exchange
+  economics; take-rate → 0 = switchboard economics.** ⬜ **Still ungraded.** **And
+  `compression-thesis:L2392` adds the structural reason it may never resolve in a vendor's favour:
+  aggregation/routing requires NEUTRALITY as its product, so a model provider cannot own it.**
+  ⇒ **The spread is 20-70× and REAL. Who KEEPS it is unresolved.** ⇒ **An operator running his own
+  pipeline captures it directly and does not need the vendor question answered at all.**
+  *(Analysis.)*
+- **⚠️ THE COUNTER HE IS UNDER-WEIGHTING, AND IT IS THE ENGINEERING ONE: THE SPREAD IS ON PRICE, THE
+  COST IS ON ERROR.** **Three gopher failures today, each of which would have produced a wrong vault
+  entry had it not been caught by re-reading the primary.** ⇒ **A 50× price saving is worth nothing
+  against one filed error that propagates for weeks — and this vault has a documented case of exactly
+  that (the Sanhua order, built into a "27× the whole industry" claim before Jake killed it).**
+  ⇒ **⇒ THE ARBITRAGE IS ONLY REAL IF RULE 1 ABOVE HOLDS ABSOLUTELY. Extraction arbitrages; judgment
+  does not.** *(Analysis.)*
+- **⭐ AND THE SEQUENCING POINT, BECAUSE HIS FIRST CLAUSE IS THE ONE THAT IS ACTUALLY BLOCKED: "KNOWING
+  WHAT TASKS CONSUME THE MOST TOKENS" IS THE PREREQUISITE AND THE VAULT CANNOT MEASURE IT.**
+  ⇒ **`:L2265` has flagged tokens-per-task as "the single most valuable missing series" for a month
+  and it is still ⬜ unfetched.** ⇒ **You cannot arbitrage a cost you have not profiled. The design is
+  right and its FIRST step is the one nobody has taken.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **PROFILE THIS SESSION'S OWN TOKEN CONSUMPTION BY TASK TYPE — the cheapest possible version
+   of his first clause, and the vault is its own dataset.** ⬜ **Not done.** **Candidate buckets:
+   document reading · vault retrieval · arithmetic/verification · cross-document reconciliation ·
+   writing. Rule 19 predicts only the last two are frontier work.**
+2. 🚩🚩 **BUILD ONE TIER-1 EXTRACTOR AND HOLD IT TO RULE 1 (verbatim + provenance, NO
+   characterisation), then A/B it against today's three failures as the regression suite.**
+   ⬜ **Not built. Today supplied the test cases; that is the rare part.**
+3. 🚩🚩 **CARRIED and now blocking: tokens-per-task (`:L2265`, open one month) and spend-per-completed-
+   task via Artificial Analysis (`:L2767`).**
+4. 🚩 **GRADE `:L653` — has any routing seat held a take-rate?** ⬜ Open since 7/22. **It is the whole
+   difference between "run the arbitrage" and "own the arbitrageur."**
+**Links:** [[compression-thesis]] · [[ai-capex-cycle]] · [[_calibration]] · [[data-sourcing-playbook]]
