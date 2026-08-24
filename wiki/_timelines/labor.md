@@ -1,6 +1,6 @@
 # ⏱ LABOR — merged timeline (the gate)
 
-> **118 dated entries across 1 notes · 2026-06-30 → 2026-08-23 · refreshed 2026-08-23 22:45 PDT**
+> **119 dated entries across 1 notes · 2026-06-30 → 2026-08-23 · refreshed 2026-08-23 22:58 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -137,3 +137,4 @@
 - `2026-08-20` [new-economy-regime.md:L4075](../new-economy-regime.md) — 2026-08-20 ~8:10am PDT — ✅⭐⭐⭐⭐ **THE CLAIMS DATA INDEPENDENTLY CONFIRMS THE FOMC MINUTES LINE I FILED YESTERDAY, ONE DAY LATER AND FROM A COMPLETELY D
 - `2026-08-22` [new-economy-regime.md:L4135](../new-economy-regime.md) — 2026-08-22 ~1:50pm PDT — ★★★★★★ **THE VAULT'S #1 REGISTERED ITEM IS CLOSED, AND THE ANSWER IS THE WRONG SHAPE: US PRODUCTIVITY TURNED UP IN Q1-2023 — 
 - `2026-08-23` [new-economy-regime.md:L4204](../new-economy-regime.md) — 2026-08-23 ~11:05pm PDT — 🕳️🕳️🕳️ **MAP GAP #21, AND IT IS LARGER THAN #20: JAKE NAMES SIX LIVE US PRICE INTERVENTIONS AND THE VAULT HOLDS *NONE* OF TH
+- `2026-08-23` [new-economy-regime.md:L4294](../new-economy-regime.md) — 2026-08-23 ~11:45pm PDT — ⛔⛔ **HE ADDS INTEL AND MP AND THAT CONCEDES MY OWN PUSHBACK: STATE EQUITY *IS* THE OWNERSHIP TRANSFER I SAID WAS ABSENT.** ★

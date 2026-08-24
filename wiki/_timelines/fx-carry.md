@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **413 dated entries across 3 notes · 2026-05-22 → 2026-08-23 · refreshed 2026-08-23 22:45 PDT**
+> **414 dated entries across 3 notes · 2026-05-22 → 2026-08-23 · refreshed 2026-08-23 22:58 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -435,3 +435,4 @@
 - `2026-08-23` [ai-financing-fragility.md:L7031](../ai-financing-fragility.md) — 2026-08-23 ~4:55pm PDT — 🚩🚩🚩 **A CLAIM THAT WOULD RE-EXPLAIN THE WHOLE AI EQUITY MOVE, REGISTERED AND NOT ENDORSED: "THE CHIP/MEMORY TRADE PEAKED THE 
 - `2026-08-23` [ai-financing-fragility.md:L7092](../ai-financing-fragility.md) — 2026-08-23 ~5:40pm PDT — ⛔⛔⛔ **THE CHART ARRIVES LEGIBLE AND IT FALSIFIES ITS OWN CAPTION AT BOTH ENDS.** ★★★★★★ **PHASE 1 (Mar 25 → mid-May): FUNDING
 - `2026-08-23` [new-economy-regime.md:L4204](../new-economy-regime.md) — 2026-08-23 ~11:05pm PDT — 🕳️🕳️🕳️ **MAP GAP #21, AND IT IS LARGER THAN #20: JAKE NAMES SIX LIVE US PRICE INTERVENTIONS AND THE VAULT HOLDS *NONE* OF TH
+- `2026-08-23` [new-economy-regime.md:L4294](../new-economy-regime.md) — 2026-08-23 ~11:45pm PDT — ⛔⛔ **HE ADDS INTEL AND MP AND THAT CONCEDES MY OWN PUSHBACK: STATE EQUITY *IS* THE OWNERSHIP TRANSFER I SAID WAS ABSENT.** ★

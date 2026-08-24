@@ -4417,3 +4417,82 @@ appears only as an apparel retailer in the GLP-1 thread.
 4. 🚩 **ADD THE TARIFFS TO THE SAME LEDGER** so the instrument is visible in both directions. ⬜ The
    vault has tariffs as an INFLATION INPUT and never as the same lever as a price cap.
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[rates-board]] · [[consumption-vs-investment-crux]] · [[market-fragility]]
+
+## 2026-08-23 ~11:45pm PDT — ⛔⛔ **HE ADDS INTEL AND MP AND THAT CONCEDES MY OWN PUSHBACK: STATE EQUITY *IS* THE OWNERSHIP TRANSFER I SAID WAS ABSENT.** ★★★★★★ **AND A WORSE SELF-CORRECTION: I CLAIMED THE VAULT HAS NO DOMESTIC ADMINISTERED PRICE. IT HAS ONE AND HAS CARRIED IT FOR WEEKS — `buildout-bottleneck-map:L836`, THE MP/DoD *$110/kg NdPr FLOOR FOR TEN YEARS*, FILED AS A "SUBSIDY" AND NEVER ONCE CALLED A PRICE CONTROL** ⇒ ★★★ **THE PROGRAM IS NOT "BUSINESSES TAKE LESS PROFIT." IT IS A REALLOCATION *BETWEEN* SECTORS — CONSUMER-FACING MARGIN COMPRESSED, STRATEGIC-INDUSTRIAL MARGIN GUARANTEED**
+Source: Jake, 2026-08-23 ~11:35pm PDT — adds **Intel and MP** to the list, concedes the tariff point
+(*"You're right I glossed the price raising policy"*), and holds the core claim: *"forcing businesses
+to take less profit isn't exactly a Republican talking point. It's DSA and Dems."*
+**⟲ EXTENDS `:L4331` and CORRECTS two of its claims.**
+
+#### ⛔ TWO CORRECTIONS TO MY OWN ENTRY, THE SECOND WORSE THAN THE FIRST
+1. **"NONE of the six transfers ownership" was true of the SIX and false of the PROGRAM.** **State
+   equity in Intel and MP is exactly the transfer of the residual claim I said was missing.**
+   ⇒ **On those two instruments "socialism" is the literally correct word, and my dirigisme label
+   applies only to the price items.** ⬜ **And the Intel stake is NOT in this vault at all — searched;
+   the only Intel/equity hits are its capex and its 2026 equity ASK.**
+2. **⛔⛔ "The vault knows price caps only as a sanctions weapon against Russia" IS WRONG AND I HAD THE
+   COUNTEREXAMPLE ON FILE.** **`buildout-bottleneck-map:L836`: *"MP Materials/DoD: USD 110/kg NdPr
+   floor, 10 YEARS."*** ⇒ **A price FLOOR is a price control with the sign reversed — the state
+   guaranteeing a producer a minimum.** ⇒ **The vault has carried a domestic US administered price for
+   weeks, analysed it closely (`:L862`: "the MP/DoD floor is about to stop being a subsidy"), and
+   never once named the instrument.** ⇒ **★★★ THAT IS THE FRAME GAP PROVEN FROM THE INSIDE: not
+   missing data — MISSING VOCABULARY. The vault could see the floor and could not see that a floor
+   and a cap are the same tool.** *(Analysis.)*
+
+#### ★★★★★★ THE TAXONOMY, NOW THAT ALL THREE INSTRUMENTS ARE ON THE TABLE
+| instrument | examples | who holds the residual claim | **failure mode** |
+|---|---|---|---|
+| **administered price (cap)** | beef waiver · drug pricing · Walmart pressure · $2.50 gasoline + DOJ | private | **supply withdrawal** |
+| **administered price (floor)** | **MP/DoD $110/kg NdPr, 10y** | private | **over-supply / stranded capacity if demand fails** |
+| **balance sheet** | securities bought to lower mortgage rates | private | **asset inflation · term premium** |
+| **state equity** | **Intel · MP preferred · USAR · UUUU** | **THE STATE** | **allocation follows politics; regulator owns the regulated** |
+- ⇒ **Four instruments, four failure modes, and the vault had a name for none of them.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE CORE CLAIM IS HALF RIGHT AND THE OTHER HALF IS THE USEFUL PART. "Forcing businesses to
+  take less profit" DESCRIBES THE CONSUMER-FACING LEG AND IS THE OPPOSITE OF WHAT IS HAPPENING ON THE
+  STRATEGIC-INDUSTRIAL LEG.** **MP is being guaranteed $110/kg for a decade against a domestic
+  ~$104/kg equivalent (`:L901`) — the state is PAYING A PRODUCER ABOVE MARKET. USAR ~$277M direct +
+  ~$1.3B CHIPS loan · UUUU ~$725M · Intel equity · ~$40B of critical-minerals commitments.**
+  ⇒ **Those are transfers TO capital, not FROM it.** ⇒ **★★★ THE PROGRAM COMPRESSES MARGIN WHERE THE
+  VOTER SEES THE PRICE (beef, drugs, groceries, gasoline) AND GUARANTEES MARGIN WHERE THE STATE WANTS
+  CAPACITY (magnets, uranium, fabs). It is a sectoral reallocation, not a squeeze on business.**
+  *(Analysis.)*
+- **⛔⛔ AND ON "IT'S DSA AND DEMS" — THE POLICY CONTENT IS NOT LEFT-CODED, AND THE DISCRIMINATING TEST
+  IS WHO GETS THE SURPLUS.** **Left/DSA: the surplus goes to workers, consumers, public provision.
+  Nationalist-developmental: the surplus goes to STRATEGIC CAPACITY.** ⇒ **DSA does not guarantee a
+  mining company ten years of above-market prices.** ⇒ **The lineage here is Hamilton's *Report on
+  Manufactures*, Clay's American System (Whig), MITI, Korea's chaebol policy, Taiwan's ITRI → TSMC —
+  and the closest US precedent is TARP equity in banks and autos, executed by a REPUBLICAN Treasury in
+  2008-09. Nixon's 1971 wage-price controls: also Republican.** ⇒ **★★★ SO HE IS RIGHT THAT IT IS NOT
+  A REPUBLICAN *TALKING POINT* AND WRONG THAT IT IS DSA. IT IS THE DEVELOPMENTAL STATE — historically
+  a Whig/Republican instrument that was simply out of fashion for forty years.** **The gap he has
+  correctly identified is between RHETORIC and INSTRUMENT, not between parties.** *(Analysis.)*
+- **✅★★★★★ AND THE PORTFOLIO READ INVERTS WHAT I SAID THREE HOURS AGO, WHICH MATTERS MORE THAN THE
+  taxonomy.** **`portfolio-state:L914-924`: INTC ~5% · MP 3.37% · plus USAR, UUUU, ALOY.** **The book
+  is LONG THE SUBSIDISED SIDE.** ⇒ **And checking the holdings against the compressed side: THERE ARE
+  NO REFINERS IN THE BOOK. VLO/MPC/PSX/PBF appear in this vault as a THESIS, analysed at length, and
+  not as positions.** ⇒ **⛔ SO MY 11:15pm ALARM WAS AIMED AT A THESIS, NOT A POSITION, AND I OVERSTATED
+  IT. The political kill-switch on the crack is a reason not to PUT ON that trade; it is not a risk to
+  anything currently owned.** ⇒ **★★★ ON THE BOOK AS ACTUALLY HELD, THIS POLICY REGIME IS NET
+  FAVOURABLE: it guarantees the price of what he owns and compresses the price of what he does not.**
+  *(Analysis.)*
+- **⚠️ AND THE RISK THAT COMES WITH BEING ON THE SUBSIDISED SIDE, because it is not free: A GUARANTEED
+  PRICE IS A POLITICAL ASSET WITH POLITICAL DURATION.** **`:L862` already saw the first half — "the
+  MP/DoD floor is about to stop being a subsidy" as the domestic price approaches $110.** ⇒ **The
+  second half is that a floor which becomes valuable again in a downturn is the moment it becomes
+  politically expensive and therefore reviewable.** ⇒ **🚩 The exposure is not commodity price. It is
+  ADMINISTRATION RISK — a ten-year floor set by one administration is an instrument, not a contract,
+  and the vault has never asked what happens to it in 2029.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE INTEL STATE EQUITY STAKE — size, structure, terms, date. ⬜ NOT IN THIS VAULT AT ALL**,
+   and INTC is ~5% of the book. **That is the single largest unheld fact surfaced tonight.**
+2. 🚩🚩🚩 **THE ADMINISTERED-PRICE LEDGER, BUILT PROPERLY: every US floor, cap, quota waiver, directed
+   price and state equity stake in one table, with its statutory basis and its EXPIRY.** ⬜ Not built.
+   **The MP floor's 10-year term is the model — an instrument with a clock.**
+3. 🚩🚩 **WHAT HAPPENS TO THE MP/DoD FLOOR UNDER A DIFFERENT ADMINISTRATION?** ⬜ Never asked. **It is
+   the durability question for 3.37% of the book plus the USAR/UUUU/ALOY leg.**
+4. ⛔ **CORRECT THE CHAT LOG: my 8:30pm line "the refiner names are in the 2nd-order basket" is WRONG.**
+   No refiners are held. **Fixed this turn.**
+**Links:** [[buildout-bottleneck-map]] · [[oil-value-chain]] · [[portfolio-state]] · [[ai-infra-allocation-map]]
