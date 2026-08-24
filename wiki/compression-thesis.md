@@ -2579,3 +2579,95 @@ body was NOT read. No user numbers, no revenue figures, no time window, no defin
 2. 🚩 **THE STANDING DISCONFIRMER, RESTATED: a frontier model whose usage share RISES after a price
    increase.** Nothing in this inbound touches it.
 **Links:** [[metered-compute]] · [[ai-capex-cycle]] · [[reflection-ai]] · [[_calibration]]
+
+## 2026-08-23 ~9:20pm PDT — ✅ **PERPLEXITY WAS ALREADY ON FILE BY NAME, IN THE EXACT LINE THAT EXPLAINED THE POOLSIDE DEAL 30 HOURS AGO: `:L2485` — "the NEMOTRON COALITION (Mistral, Thinking Machines, PERPLEXITY) in March."** ⛔⛔ **AND THE PASTE REPEATS AN ERROR THIS VAULT FIXED YESTERDAY: NVDA's $1B AT $12B IN POOLSIDE IS *OCTOBER 2025* MONEY (`ai-financing-fragility:L7152`), NOT A SEPARATE CURRENT INVESTMENT** ⭐ **AND THE OBSERVATION THE PASTE MISSES IS THE ONE THAT MATTERS: 50M QUERIES/DAY ACROSS *15 AI MODELS* MEANS PERPLEXITY IS A ROUTER — AND `:L2392` SAYS ROUTING REQUIRES NEUTRALITY AS ITS PRODUCT**
+Source: Jake's brief, 2026-08-23 ~9:10pm PDT, on **The Information's exclusive published 8:06pm PT
+tonight**; Reuters has followed and **explicitly says it could not independently verify**; neither
+NVDA nor Perplexity has confirmed. ⚠️ **Rung: REPORTED, single origin, one outlet plus an
+unverified relay. "N outlets, one origin."**
+
+#### ✅ FIRST — THE PASTE'S OWN CORRECTION IS RIGHT AND IS THE SAME DISCIPLINE THIS VAULT SPENT TODAY ON
+- ***"Nvidia is not discussing paying $30+ billion for Perplexity. The $30+ billion figure is the
+  proposed VALUATION… The size of Nvidia's individual investment has not been disclosed."***
+  ⇒ **A valuation read as a cheque size is a denominator error of exactly the class that produced
+  Hormuz's "+400%", the FT's $40B and the Fed's 52.5% today.** ✅ **Credit: it caught its own.**
+
+#### DATA (as reported — arithmetic checked, none independently sourced)
+- **Proposed valuation >$30B · round "billions" · >50% up from the last financing** ⇒ **implies the
+  prior mark was ≤$20B** (30 ÷ 1.5). **Total raised to date >$1.7B.**
+- **Annualised revenue <$250M (start of 2026) → >$750M now** ⇒ **≥3× in ~7.8 months.**
+- **~40× annualised revenue** ⚠️ **— that is TWO FLOORS DIVIDED (">$30B" ÷ ">$750M"). The true multiple
+  could be materially higher or lower and 40× should be quoted as an approximation, not a mark.**
+- **Gross margin ~60%,** with The Information's own caveat that **some costs of nonpaying/trial users
+  are historically excluded.**
+- **Nvidia had previously considered paying billions to LICENSE Perplexity technology and HIRE staff;
+  those talks became the equity discussion.**
+- **Operational, not merely financial: Nemotron Coalition since March · engineers meeting multiple
+  times weekly · Vera CPUs planned for agentic workloads · compute already via CoreWeave ·
+  50M+ queries/day across 15 AI models.**
+
+#### ⛔ TWO DATE ERRORS IN THE PASTE, BOTH OF THEM THE STALE-FACT-AS-CURRENT PATTERN
+1. **"Separately, Nvidia is investing $1 billion in Poolside at a $12 billion pre-money valuation."**
+   ⇒ **`ai-financing-fragility:L7152` (filed 2026-08-22 ~1:35pm PDT): *"NVDA ANNOUNCED A $1B
+   INVESTMENT IN IT AT A $12B VALUATION IN OCTOBER 2025… WHICH ALSO MEANS THE WSJ'S '$1B AT $12B
+   PRE-MONEY' IS NOT NEW MONEY."*** ⇒ **⛔ It is ten-month-old money, and presenting it beside the
+   $6B licensing deal double-counts NVDA's commitment to Poolside.**
+2. **"Just last week Nvidia agreed to pay $6 billion to license…"** ⇒ **`:L2470` records the source as
+   Robbie Whelan, WSJ, 2026-08-22 — YESTERDAY, not last week.** ⚠️ **The agreement may pre-date the
+   report; the REPORT does not.**
+
+#### THESIS (interpretation — NOT fact)
+- **✅★★★★★ THE STRATEGIC READ IN THE PASTE IS THIS VAULT'S OWN, AND THE VAULT SHOULD APPLY ITS OWN
+  DISCIPLINE TO ITSELF HERE.** `metered-compute:L716` named the **sandwich topology** — *"NVDA (open
+  Nemotron + commoditized inference BELOW)… NVDA wants models FREE (sells compute)"* — and
+  `ai-financing-fragility:L3597` named the deal form — ***"don't acquire — license and hire; risk
+  distributed, not extinguished. The circularity playbook is now the standard M&A form."***
+  ⇒ **⛔ BUT `:L2481` ALREADY SET THE HONEST LIMIT AND IT APPLIES AGAIN: *"THE VAULT DID NOT PREDICT
+  THE POOLSIDE DEAL, BUT IT NAMED THE STRATEGY THE DEAL EXECUTES."* Same here. Direction on file;
+  counterparty, price and timing were not.** *(Analysis.)*
+- **⭐ AND THE INSTANCE COUNT IS NOW THE STORY. `:L3597` called Google-Mechanize "the structure a THIRD
+  time." The paste adds GROQ and ENFABRICA to the licence-and-hire ledger, plus Poolside and now
+  Perplexity.** ⇒ **Five-plus instances in one year is not a playbook, it is a POLICY — and the vault
+  should stop treating each one as news and start treating a DEVIATION from it as news.**
+  *(Analysis.)*
+- **★★★★★★ THE OBSERVATION THE PASTE MISSES, AND IT IS THE SHARPEST THING HERE: "50M QUERIES/DAY
+  ACROSS 15 AI MODELS" MEANS PERPLEXITY IS A ROUTER, AND `:L2392` SAYS THE ROUTING LAYER *"REQUIRES
+  NEUTRALITY AS ITS PRODUCT, SO A MODEL PROVIDER STRUCTURALLY CANNOT HOLD IT."*** ⇒ **NVDA is not a
+  model provider — it is the hardware seller UNDER all fifteen models, which is the one position from
+  which routing neutrality is not compromised by ownership.** ⇒ **★★★ THAT IS A GENUINE EXTENSION OF
+  `:L2392`, WHICH ASSUMED THE ONLY INTERESTED PARTIES WERE MODEL LABS. The vault's "unownable layer"
+  conclusion has an exception and NVDA is standing in it.** ⚠️ **The exception holds ONLY while NVDA
+  stays neutral across models. The moment the stake steers Perplexity toward Nemotron, Perplexity
+  loses the neutrality that makes it worth owning.** 🚩 **THAT IS THE FALSIFIABLE TEST: Nemotron's
+  share of Perplexity's 15-model mix, before and after.** *(Analysis.)*
+- **★★★★★ AND IT REFRAMES WHY TODAY'S TOKEN DATA MATTERS TO NVDA, WHICH THE "CHINA" ARGUMENT GETS
+  HALF RIGHT.** **`metered-compute` measured it tonight: DeepSeek is 28.3% of Vercel token volume and
+  2.1% of dollars.** ⇒ **NVDA'S REVENUE IS A FUNCTION OF TOKENS GENERATED, NOT OF MODEL-LAYER
+  DOLLARS.** ⇒ **So DeepSeek capturing only 2.1% of spend is IRRELEVANT to NVDA; DeepSeek generating
+  28.3% of tokens is the entire point — and NVDA's interest is in where those tokens are COMPUTED,
+  not who bills for them.** ⇒ **That is a cleaner statement of the strategy than "Nvidia needs Western
+  open models": NVDA needs the world's token generation to happen on its silicon, and open weights are
+  the cheapest way to make that true.** *(Analysis.)*
+- **⚠️ THE 60% GROSS MARGIN IS THE SOFTEST NUMBER IN THE BRIEF AND ITS CAVEAT IS LOAD-BEARING.**
+  **Perplexity is an inference reseller: its COGS *is* tokens.** ⇒ **Excluding the serving cost of
+  nonpaying/trial users is precisely where an inference reseller's margin hides.** ⇒ **⛔ Do not carry
+  60% as a gross margin. Carry it as "a 60% figure that excludes an unquantified share of serving
+  cost."** *(Analysis.)*
+- **⚠️ AND THE VALUATION DISCIPLINE: 40× ANNUALISED REVENUE ON A COMPANY WHOSE INPUT COST IS FALLING
+  ~50% A QUARTER IS TWO BETS, NOT ONE** — that revenue compounds AND that the token deflation
+  measured today (the Silicon Data index, −49.8% since May) accrues to Perplexity's margin
+  rather than to its price. ⇒ **In a router, competitive pressure pushes deflation THROUGH to the
+  customer.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **NEMOTRON'S SHARE OF PERPLEXITY'S 15-MODEL MIX, BEFORE AND AFTER ANY CLOSE.** **The single
+   falsifiable test of whether this is a financial stake or a distribution capture — and it decides
+   whether `:L2392`'s "unownable layer" conclusion survives.** ⬜ Not fetched; may not be public.
+2. 🚩🚩 **NVDA'S ACTUAL CHEQUE SIZE, WHEN DISCLOSED.** ⬜ Undisclosed. **Until then this deal cannot
+   enter the "NVDA as funder" ledger with a number** — the hole `ai-financing-fragility:L7152`
+   registered stays open.
+3. 🚩🚩 **ADD GROQ AND ENFABRICA TO THE LICENCE-AND-HIRE LEDGER at `ai-financing-fragility:L3597`,
+   with dates and sizes.** ⬜ Neither is dated in the paste.
+4. 🚩 **DOES IT SIGN, AND DOES EITHER PARTY CONFIRM?** Reuters could not verify; NVDA and Perplexity
+   are both silent. **Single-origin until one of those changes.**
+**Links:** [[ai-financing-fragility]] · [[metered-compute]] · [[reflection-ai]] · [[ai-capex-cycle]]

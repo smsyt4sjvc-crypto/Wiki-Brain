@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **146 dated entries across 3 notes · 2026-07-01 → 2026-08-23 · refreshed 2026-08-23 21:08 PDT**
+> **147 dated entries across 3 notes · 2026-07-01 → 2026-08-23 · refreshed 2026-08-23 21:32 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -157,6 +157,7 @@
 - `2026-08-19` [metered-compute.md:L2388](../metered-compute.md) — 2026-08-19 ~8:00am PDT — ⭐⭐⭐⭐⭐ **THE BEST DATA THIS NOTE HAS EVER HAD ON ITS OWN REGISTERED TEST: VERCEL JULY-2026 — TOKEN VOLUME +59%, REALIZED $/TOK
 - `2026-08-22` [compression-thesis.md:L2382](../compression-thesis.md) — 2026-08-22 ~1:15pm PDT — ⛔ **NO, IT DID NOT COME OUT OF THE BLUE — THE VAULT NAMED THE *STRATEGY* IN JULY AND HELD THE VEHICLES. ★★★ WHAT IS ACTUALLY 
 - `2026-08-23` [compression-thesis.md:L2461](../compression-thesis.md) — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A
+- `2026-08-23` [compression-thesis.md:L2497](../compression-thesis.md) — 2026-08-23 ~9:20pm PDT — ✅ **PERPLEXITY WAS ALREADY ON FILE BY NAME, IN THE EXACT LINE THAT EXPLAINED THE POOLSIDE DEAL 30 HOURS AGO: `:L2485` — "the 
 - `2026-08-23` [metered-compute.md:L2474](../metered-compute.md) — 2026-08-23 ~6:20pm PDT — ✅✅✅ **THE DEFINITIONAL FORK REGISTERED 8/04 AT `:L1712` IS RESOLVED, AND IT RESOLVES TO (a) — THE READING THIS NOTE ASSUMED A
 - `2026-08-23` [metered-compute.md:L2614](../metered-compute.md) — 2026-08-23 ~7:10pm PDT — ⛔⛔⛔ **JAKE IS RIGHT AND THE VAULT HAD ALREADY WRITTEN THE CORRECTION DOWN — TWICE — BEFORE I IGNORED IT.** ★★★★★★ **`:L2264`:
 - `2026-08-23` [metered-compute.md:L2709](../metered-compute.md) — 2026-08-23 ~7:45pm PDT — ★★★★★★ **JAKE SPECIFIES THE ARBITRAGE, AND IT FUSES THREE THINGS THIS VAULT HAS HELD SEPARATELY SINCE JULY: the 7/25 "moat mi

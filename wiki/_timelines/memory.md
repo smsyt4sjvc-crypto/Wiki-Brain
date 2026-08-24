@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **106 dated entries across 2 notes · 2026-07-16 → 2026-08-23 · refreshed 2026-08-23 21:08 PDT**
+> **107 dated entries across 2 notes · 2026-07-16 → 2026-08-23 · refreshed 2026-08-23 21:32 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -120,5 +120,6 @@
 - `2026-08-22` [compression-thesis.md:L2382](../compression-thesis.md) — 2026-08-22 ~1:15pm PDT — ⛔ **NO, IT DID NOT COME OUT OF THE BLUE — THE VAULT NAMED THE *STRATEGY* IN JULY AND HELD THE VEHICLES. ★★★ WHAT IS ACTUALLY 
 - `2026-08-22` [memory-regime-question.md:L1069](../memory-regime-question.md) — 2026-08-22 ~1:00pm PDT — ★★★★★★ **THE F3 FORK RESOLVES: NVDA CHOSE PASS-THROUGH, NOT CONTENT CUTS. AND BECAUSE THE VAULT HOLDS MEMORY AT 62% OF THE VE
 - `2026-08-23` [compression-thesis.md:L2461](../compression-thesis.md) — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A
+- `2026-08-23` [compression-thesis.md:L2497](../compression-thesis.md) — 2026-08-23 ~9:20pm PDT — ✅ **PERPLEXITY WAS ALREADY ON FILE BY NAME, IN THE EXACT LINE THAT EXPLAINED THE POOLSIDE DEAL 30 HOURS AGO: `:L2485` — "the 
 - `2026-08-23` [memory-regime-question.md:L1152](../memory-regime-question.md) — 2026-08-23 ~8:50am PDT — ⛔ **JAKE: "WE ALREADY KNOW ABOUT THE 15% NVIDIA INCREASE." CORRECT — THIS NOTE FILED IT 2026-08-22 ~1:00pm PDT (`:L1109`), EI
 - `2026-08-23` [memory-regime-question.md:L1198](../memory-regime-question.md) — 2026-08-23 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐ **TWO THREADS THIS VAULT HAS RUN SEPARATELY ARE ONE SHORTAGE, AND THE PROOF IS AN ASYMMETRY NOBODY IN THE SOURCE MATER

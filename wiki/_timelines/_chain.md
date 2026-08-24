@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **607 dated entries · 2026-05-22 → 2026-08-23 · refreshed 2026-08-23 21:08 PDT**
+> **608 dated entries · 2026-05-22 → 2026-08-23 · refreshed 2026-08-23 21:32 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -636,3 +636,4 @@
 - `2026-08-23` **[5]** memory-regime-question.md:L1152 — 2026-08-23 ~8:50am PDT — ⛔ **JAKE: "WE ALREADY KNOW ABOUT THE 15% NVIDIA INCREASE." CORRECT — THIS NOTE FILED IT 2026-08-22 ~1:00pm PDT (`:L1109`), EI
 - `2026-08-23` **[5]** memory-regime-question.md:L1198 — 2026-08-23 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐ **TWO THREADS THIS VAULT HAS RUN SEPARATELY ARE ONE SHORTAGE, AND THE PROOF IS AN ASYMMETRY NOBODY IN THE SOURCE MATER
 - `2026-08-23` **[5]** compression-thesis.md:L2461 — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A
+- `2026-08-23` **[5]** compression-thesis.md:L2497 — 2026-08-23 ~9:20pm PDT — ✅ **PERPLEXITY WAS ALREADY ON FILE BY NAME, IN THE EXACT LINE THAT EXPLAINED THE POOLSIDE DEAL 30 HOURS AGO: `:L2485` — "the 
