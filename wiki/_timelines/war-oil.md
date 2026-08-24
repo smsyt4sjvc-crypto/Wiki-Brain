@@ -1,6 +1,6 @@
 # ⏱ WAR/OIL — merged timeline (the gate)
 
-> **248 dated entries across 3 notes · 2026-03-13 → 2026-08-23 · refreshed 2026-08-23 20:28 PDT**
+> **248 dated entries across 3 notes · 2026-03-13 → 2026-08-23 · refreshed 2026-08-23 20:46 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before

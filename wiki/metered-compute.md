@@ -2620,6 +2620,7 @@ Called this verbatim weeks ago."*** ⇒ **CHECKED BELOW RATHER THAN AGREED WITH.
   ⇒ **DERIVED ESTIMATE OF THE VOLUME LEG, ASSUMPTIONS NAMED: Anthropic run-rate ×1.383 (May→July);
   interpolating the index over the same window gives roughly ×0.68 on realised price; ⇒ implied volume
   ≈ ×2.05 IN TWO MONTHS, arc elasticity ≈ 3.** ⇒ **ELASTICITY WELL ABOVE 1 ⇒ JEVONS REGIME ⇒ TOTAL
+    ⟲ SUPERSEDED 2026-08-24 → metered-compute.md:L2686 — THE DERIVATION IS IN TOKENS, NOT WORK: tokens-per-task is rising (agents), so token-volume growth overstates demand growth. The Jevons conclusion survives for SPEND but NOT as a statement about how much work is being bought
   SPEND IS GROWING, NOT SHRINKING.** ⚠️⚠️ **THIS IS A DERIVATION, NOT A MEASUREMENT, AND ITS WEAKEST
   JOINT IS THAT THE MARKET-BASKET INDEX IS BEING USED AS A PROXY FOR ONE FIRM'S REALISED PRICE. The
   July index level is INTERPOLATED, not read.** ⇒ 🚩 **A single Vercel or OpenRouter total-token series
@@ -2682,3 +2683,98 @@ Called this verbatim weeks ago."*** ⇒ **CHECKED BELOW RATHER THAN AGREED WITH.
 5. 🚩 **SILICON DATA METHODOLOGY PAGE — still worth one pull to confirm the basket construction**, now
    that the direction is settled by the vendor's own description.
 **Links:** [[compression-thesis]] · [[memory-regime-question]] · [[ai-capex-cycle]] · [[ai-infra-allocation-map]] · [[transmission-chain]]
+
+## 2026-08-23 ~7:10pm PDT — ⛔⛔⛔ **JAKE IS RIGHT AND THE VAULT HAD ALREADY WRITTEN THE CORRECTION DOWN — TWICE — BEFORE I IGNORED IT.** ★★★★★★ **`:L2264`: *"THE DEFLATOR NOBODY APPLIES: TOKENS PER TASK IS RISING… 10× token growth is NOT 10× demand growth… ⬜ the single most valuable missing series."* AND `:L2529`: *"⛔ 'Revenue per token' is becoming the WRONG unit… 🚩 TRACK SPEND PER COMPLETED TASK INSTEAD."*** ⛔ **I then read an entire Ramp/Vercel dataset in token units and drew conclusions from it. His objection is error class 4 — instrument mismatch — which I flagged TWICE today on other people's charts and missed on this one**
+  ⟲ SUPERSEDES metered-compute.md:L2622 — THE DERIVATION IS IN TOKENS, NOT WORK: tokens-per-task is rising (agents), so token-volume growth overstates demand growth. The Jevons conclusion survives for SPEND but NOT as a statement about how much work is being bought
+Source: **Jake, 2026-08-23 ~7:00pm PDT** — *"What if Anthropic just uses less tokens to get the same
+results? … it's included in the max plan and we don't know how many tasks per token are being
+completed… when you have an open model, or even Sonnet, or Haiku supplementing the high token, gopher
+work it can result in Fable's task output INCREASING while token usage DECREASES."*
+**⟲ AMENDS `:L2547` (my 6:20pm entry) — see the supersession at the end.**
+
+#### ⛔ HIS ARGUMENT IS THREE SEPARATE MECHANISMS AND THEY HAVE DIFFERENT EVIDENCE. SPLIT THEM.
+**(A) EFFICIENCY — same task, fewer tokens.**
+- **⚠️ THE ONE PER-TASK NUMBER THIS VAULT HOLDS DOES NOT FLATTER FABLE, AND I AM NOT GOING TO OMIT IT:
+  `:L498` — *"independent (Barron's/AA): Sol $1.04 vs Fable $2.75 PER TASK = 62% less."*** ⇒ **On the
+  only per-task measurement on file, Fable is the EXPENSIVE one.** ⇒ **His FRAMEWORK is right — per-task
+  and per-token rankings diverge — and the single datapoint runs against the specific application.**
+  ⚠️ **It is also a cross-vendor comparison (OpenAI vs Anthropic), not the within-workflow comparison
+  he is making. It constrains the claim; it does not kill it.**
+
+**(B) SUBSCRIPTION BUNDLING — THIS IS THE STRONGEST LEG, AND THE VAULT HAS THE DATED RECEIPT.**
+- **`:L505`: *"Jun 30 = included-Fable access to end Jul 7 → Jul 7 extended to Jul 12 → Jul 12 extended
+  to Jul 19 → **JUL 20 = PERMANENTLY UP TO 50% FABLE ON MAX/PREMIUM SEATS.**"***
+- **RAMP MEASURES CORPORATE CARD SPEND. A MAX SEAT IS A FLAT FEE. THE TOKENS CONSUMED INSIDE IT ARE
+  STRUCTURALLY INVISIBLE TO RAMP** — they generate no marginal charge to attribute to a model.
+- ⇒ **★★★★★★ AND THE DATES COLLIDE EXACTLY: THE RAMP READING IS JULY. ANTHROPIC MOVED FABLE INTO THE
+  BUNDLE ON JULY 20.** ⇒ **"Fable = 6% of token volume and ~11.4% of spend, stalled at ~11%" was
+  measured across the very weeks Anthropic was migrating Fable consumption OFF the metered rail and
+  INTO a flat fee.** ⇒ **⛔ A FALLING METERED SHARE IS THE EXPECTED CONSEQUENCE OF ANTHROPIC'S OWN
+  PRICING DECISION. It is at least partly an artefact of the measurement boundary, not a finding
+  about corporate preference.** *(Analysis. This is the same failure class as the RBN date and the
+  Hormuz denominator — a number that does not describe what it appears to describe.)*
+
+**(C) ORCHESTRATION — the expensive model directs, cheap models do the gopher work.**
+- **The vault documented the ARCHITECTURE and then read the data as if it did not exist: `:L1464` —
+  *"a harness routing across MULTIPLE MODELS — its own cheap Flash model plus a frontier model —
+  coordinating…"*, plus Fireworks Nexus and AT&T in the same entry.**
+- **And `:L2264` states the consequence outright: *"agents burn multiples of the tokens per unit of
+  work."***
+- ⇒ **★★★★★★ IN AN ORCHESTRATED SYSTEM THE CHEAP MODEL'S TOKENS ARE *DOWNSTREAM OF* THE EXPENSIVE
+  MODEL'S DECISION. Counting them as the cheap model "winning volume" is a causal error — it is
+  crediting the trucks for the building.** *(Analysis.)*
+
+#### ★★★★★★ THE TEST THAT SETTLES (C) IS ALREADY IN THE DATA ON THE TABLE, AND IT READS COMPLEMENT
+- **SUBSTITUTES:** cheap token share ↑ ⇒ expensive DOLLAR share ↓. Work moves; money follows.
+- **COMPLEMENTS:** cheap token share ↑ ⇒ expensive dollar share **HOLDS OR RISES**. Cheap tokens are
+  the exhaust of expensive decisions.
+- **OBSERVED (Vercel): open-weight tokens 11% (April) → 29% (June) → DeepSeek alone 28.3% (mid-Aug).
+  ANTHROPIC'S DOLLAR SHARE OVER THE SAME PERIOD: 68.0%.** **Open-weight spend share: under 4%.**
+- ⇒ **⭐⭐ CHEAP TOKEN SHARE NEARLY TRIPLED AND THE EXPENSIVE DOLLAR SHARE DID NOT MOVE. THAT IS THE
+  COMPLEMENT SIGNATURE, NOT THE SUBSTITUTE SIGNATURE.** ⇒ **"Cheap/open AI is eating token volume"
+  describes the arithmetic correctly and the ECONOMICS backwards.** ⇒ **⛔ THIS IS THE STRONGEST
+  DISCONFIRMER ON FILE FOR THIS NOTE'S OWN SUBSTITUTION READING, AND IT COMES OUT OF THE BRIEF THAT
+  WAS SUPPOSED TO CONFIRM IT.** *(Analysis.)*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ WHAT HIS OBJECTION PROVES IS NOT THAT FABLE IS WINNING. IT IS THAT THE INSTRUMENT CANNOT
+  ANSWER THE QUESTION, AND I STATED CONCLUSIONS IT DOES NOT SUPPORT.** **Token share measures tokens.
+  The question — are corporations using Fable less? — is about WORK, and nothing in Ramp, Vercel or
+  OpenRouter measures work.** ⇒ **The correct landing is agnostic, not reversed: the data is
+  consistent with corporations demoting Fable AND with corporations using Fable more efficiently
+  inside orchestrated workflows, and it cannot separate them.** *(Analysis.)*
+- **⛔⛔ AND IT CONTAMINATES MY OWN ELASTICITY DERIVATION FROM 6:20pm, WHICH I AM NOT GOING TO LEAVE
+  STANDING UNQUALIFIED.** **`:L2547` derived volume ×2.05 and arc elasticity ≈3 ⇒ "JEVONS ⇒ total
+  spend growing."** ⇒ **That derivation is in TOKENS. If tokens-per-task is rising (agents) then
+  token-volume growth OVERSTATES demand growth, and the elasticity I computed is a TOKEN elasticity,
+  not a DEMAND elasticity.** ⇒ **The Jevons conclusion survives for SPEND — revenue is revenue — but
+  NOT as a statement about how much work is being bought.** ⟲ **Amended below.** *(Analysis.)*
+- **⚠️ THE STEELMAN AGAINST HIM, BECAUSE HE IS OWED IT: SPEND IS STILL A FACT.** **A CFO's Anthropic
+  bill being 11% Fable is a real allocation of real dollars, whatever the task count.** **And if Fable
+  genuinely delivered more work per dollar, the commercial move would be to PRICE PER TASK or
+  advertise task economics — Anthropic prices per token and pitches on COST (`:L499`).** ⇒ **The
+  bundling leg (B) is the one that survives this counter, because it removes the spend from the
+  measurement entirely rather than reinterpreting it.** *(Analysis.)*
+- **⇒ ★★★★★ THE STRATEGIC READ THAT FALLS OUT, AND IT IS THE PART THAT MATTERS FOR THE BOOK: IF (B)
+  AND (C) ARE BOTH OPERATING, THEN FRONTIER-MODEL ECONOMICS ARE MIGRATING FROM A METERED RAIL TO A
+  SUBSCRIPTION RAIL WHILE CHEAP TOKENS SCALE UNDERNEATH THEM.** ⇒ **Every public instrument this
+  thread relies on — OpenRouter, Vercel, Ramp — watches the METERED rail. All three go progressively
+  blind to the frontier exactly as the frontier's economics move.** ⇒ **⛔ THAT IS A DEGRADING
+  INSTRUMENT, NOT A STABLE ONE, AND THE THREAD HAS BEEN TREATING IT AS STABLE SINCE JULY.**
+  *(Analysis. ⬜ Anthropic's subscription-vs-API revenue split is NOT disclosed and would settle it.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **SPEND PER COMPLETED TASK — PROMOTED TO THE THREAD'S PRIMARY METRIC, and it is FETCHABLE:
+   ARTIFICIAL ANALYSIS publishes cost-per-task, and is the source behind `:L498`'s Sol-$1.04-vs-
+   Fable-$2.75.** ⬜ **Never pulled directly.** ⇒ **The vault has been citing AA second-hand through
+   Barron's while the primary is public. Fix that.**
+2. 🚩🚩🚩 **ANTHROPIC SUBSCRIPTION vs API REVENUE SPLIT.** ⬜ Not disclosed. **Without it, every Ramp
+   and Vercel reading of Anthropic is measuring an unknown fraction of the business — and the
+   fraction is shrinking by design since Jul 20.**
+3. 🚩🚩 **TOKENS PER TASK, AS A TIME SERIES — carried from `:L2265` where it was already called "the
+   single most valuable missing series," and still ⬜ unfetched a month later.** **It is the deflator
+   that converts every token number in this note into a demand number.**
+4. 🚩 **RE-RUN THE COMPLEMENT/SUBSTITUTE TEST ON THE NEXT VERCEL INDEX.** **The signature above rests
+   on two published snapshots. A third reading either confirms that expensive dollar share holds while
+   cheap token share rises, or breaks it.**
+**Links:** [[compression-thesis]] · [[memory-regime-question]] · [[ai-capex-cycle]] · [[_calibration]]

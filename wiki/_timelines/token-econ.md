@@ -1,6 +1,6 @@
 # ⏱ TOKEN-ECON — merged timeline (the gate)
 
-> **145 dated entries across 3 notes · 2026-07-16 → 2026-08-23 · refreshed 2026-08-23 20:28 PDT**
+> **146 dated entries across 3 notes · 2026-07-16 → 2026-08-23 · refreshed 2026-08-23 20:46 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -161,3 +161,4 @@
 - `2026-08-22` [compression-thesis.md:L2382](../compression-thesis.md) — 2026-08-22 ~1:15pm PDT — ⛔ **NO, IT DID NOT COME OUT OF THE BLUE — THE VAULT NAMED THE *STRATEGY* IN JULY AND HELD THE VEHICLES. ★★★ WHAT IS ACTUALLY 
 - `2026-08-23` [compression-thesis.md:L2461](../compression-thesis.md) — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A
 - `2026-08-23` [metered-compute.md:L2474](../metered-compute.md) — 2026-08-23 ~6:20pm PDT — ✅✅✅ **THE DEFINITIONAL FORK REGISTERED 8/04 AT `:L1712` IS RESOLVED, AND IT RESOLVES TO (a) — THE READING THIS NOTE ASSUMED A
+- `2026-08-23` [metered-compute.md:L2614](../metered-compute.md) — 2026-08-23 ~7:10pm PDT — ⛔⛔⛔ **JAKE IS RIGHT AND THE VAULT HAD ALREADY WRITTEN THE CORRECTION DOWN — TWICE — BEFORE I IGNORED IT.** ★★★★★★ **`:L2264`:
