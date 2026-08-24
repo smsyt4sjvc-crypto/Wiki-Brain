@@ -1279,3 +1279,87 @@ stated only "capacity/congestion" — ⬜ it has NOT named bandwidth.**
 2. 🚩🚩 **DOES DEEPSEEK'S PEAK/OFF-PEAK SPREAD DECAY?** Carried from `metered-compute`. A congestion
    price should fade as capacity lands; one that holds past Q4 is structural.
 **Links:** [[metered-compute]] · [[compression-thesis]] · [[ai-capex-cycle]] · [[buildout-bottleneck-map]]
+
+## 2026-08-24 ~1:10am PDT — ★★★★★★ **A *THIRD* RESPONSE TO THE MEMORY SHORTAGE, AND THE VAULT HAS PRICED NEITHER IT NOR ITS OFFSET: NVDA IS DESIGNING THE INPUT OUT.** ⛔ **Rubin Ultra under evaluation at ~192 GB against an original 1 TB roadmap — −81.25% of HBM CAPACITY PER GPU** ⭐ **BUT IT IS NOT AN 81% CUT TO HBM DEMAND, AND THE REASON IS THE WHOLE POINT: 64 DRAM DIES PER GPU INSTEAD OF 256 IS 4× AS MANY GPUs FROM A FIXED WAFER SUPPLY** ⭐⭐ **AND THE SPLIT IT PRESERVES TIES DIRECTLY TO LAST NIGHT'S DEEPSEEK FINDING — CAPACITY FALLS 33% WHILE BANDWIDTH FALLS 4.5%**
+Source: Jake's verified brief, 2026-08-24, on TrendForce + The Information/SemiAnalysis reporting.
+⚠️⚠️ **RUNG DISCIPLINE, ADOPTED FROM HIS OWN VERDICT TABLE BECAUSE IT IS EXACTLY RIGHT:**
+**original 1 TB spec = CONFIRMED (NVDA's own GTC roadmap) · regular Rubin 288 GB = CONFIRMED
+(NVDA-specified, 12-Hi HBM4, up to 22 TB/s) · a 192 GB 8-Hi HBM4 design EXISTS = STRONGLY SUPPORTED ·
+four-die design abandoned = STRONGLY REPORTED, NOT NVDA-CONFIRMED · "Rubin Ultra WILL ship at
+192 GB" = NOT CONFIRMED.** **TrendForce says explicitly the final configuration is UNDETERMINED.**
+⇒ **⛔ This is a roadmap under evaluation, not a shipping spec. File it as a live fork.**
+
+#### DATA (arithmetic verified independently — all four check)
+| configuration | stacks × dies × GB/die | capacity | DRAM dies/GPU |
+|---|---|---|---|
+| original Rubin Ultra (GTC roadmap) | 16 × 16 × 4 GB | **1,024 GB** | **256** |
+| regular Rubin (NVDA-specified) | 8 × 12 × 3 GB (12-Hi HBM4) | **288 GB** | 96 |
+| Rubin Ultra, low config under evaluation | 8 × 8 × 3 GB (8-Hi HBM4) | **192 GB** | **64** |
+- **192 ÷ 1,024 = 18.75% ⇒ −81.25% ✓ "roughly one-fifth" is accurate.**
+- **256 ÷ 64 = 4.0× as many GPUs per fixed quantity of DRAM dies ✓** — before any stacking-yield gain.
+- **⭐ AND THE BANDWIDTH NUMBER IS THE ONE THAT MATTERS AND IT IS NOT PROPORTIONAL: ~21 TB/s at
+  192 GB vs 22 TB/s at 288 GB (2,048-bit interfaces either way).** ⇒ **CAPACITY −33.3%, BANDWIDTH
+  −4.5%.**
+- **THE THREE STACKED CUTS: (1) four GPU dies → two, taking 16 stacks → 8; (2) 12-Hi → 8-Hi on
+  qualification/yield uncertainty; (3) HBM4E → HBM4, i.e. 4 GB/die → 3 GB/die.** ⇒ **No single step is
+  as violent as the headline; the product of three is.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THIS IS THE THIRD DISTINCT RESPONSE TO ONE SHORTAGE AND THE VAULT HAS ONLY EVER HELD TWO.**
+  **(1) PASS THE COST THROUGH — NVDA lifting system prices >15% (`:L1109`). (2) RATION BY PRICE —
+  DeepSeek lifting decode 4.71× (`:L1237` region). (3) ⭐ NEW: DESIGN THE INPUT OUT — cut content per
+  unit and ship more units.** ⇒ **Responses (1) and (2) are both BULLISH memory: they concede the
+  shortage and pay for it. Response (3) is the one that ENGINEERS THE DEMAND AWAY, and it is the only
+  one that threatens the thesis rather than confirming it.** ⇒ **⛔ THE VAULT HAS BEEN COLLECTING
+  CONFIRMATIONS AND MISSED THE CATEGORY THAT DISCONFIRMS.** *(Analysis. `_calibration`: push hardest
+  on monotone-confirmed threads — this thread is one.)*
+- **⛔ AND THE OFFSET IS WHY IT IS NOT SIMPLY BEARISH, WHICH THE HEADLINE ARITHMETIC HIDES: NVDA'S
+  STATED MOTIVE IS TO BUILD MORE GPUs FROM A FIXED HBM SUPPLY.** ⇒ **Per-GPU content −75% (256 → 64
+  dies) against ~4× the GPU count is TOTAL BIT DEMAND ROUGHLY UNCHANGED.** ⇒ **TrendForce still
+  forecasts HBM bit shipments +50-60% y/y in 2027 with supply possibly still short.** ⇒ **★★★ SO THE
+  CORRECT STATEMENT IS NARROW AND IT MATTERS FOR HOW THE POSITION IS EXPRESSED: BEARISH HBM CONTENT
+  PER ACCELERATOR, NEUTRAL-TO-INTACT ON HBM BITS.** **Anyone trading MU/SKH off "−81%" is trading a
+  per-unit number as if it were a demand number — a denominator error of the same family as the six
+  logged yesterday.** *(Analysis.)*
+- **⭐⭐⭐ AND THE SPLIT NVDA CHOSE TO PRESERVE IS THE REAL SIGNAL, BECAUSE IT MATCHES LAST NIGHT'S
+  INDEPENDENT FINDING FROM A COMPLETELY DIFFERENT SOURCE.** **`:L1237` region, from DeepSeek's price
+  sheet: output/decode tokens repriced 4.71× vs input/prefill 3.14×, because DECODE IS
+  MEMORY-BANDWIDTH-BOUND and prefill is compute-bound.** ⇒ **Rubin Ultra cuts CAPACITY 33% and holds
+  BANDWIDTH within 4.5%.** ⇒ **★★★ CAPACITY SERVES CONTEXT LENGTH AND MODEL SIZE. BANDWIDTH SERVES
+  TOKEN THROUGHPUT. NVDA IS PRESERVING THE RESOURCE THAT BINDS INFERENCE AND SACRIFICING THE ONE THAT
+  BINDS BIG MODELS.** ⇒ **That is the compression thesis expressed in silicon: a hardware bet on
+  inference VOLUME over model SIZE, made by the company with the best view of the order book.**
+  ⇒ **Two independent sources — a Chinese inference provider's price sheet and NVDA's 2027 roadmap —
+  pointing at the same constraint and the same trade-off.** *(Analysis. ⚠️ The bandwidth figure is
+  SemiAnalysis-related supply-chain reporting, not an NVDA specification.)*
+- **⚠️ AND A NAMING TRAP WORTH FLAGGING BEFORE IT CAUSES AN ERROR: "ULTRA" WOULD HAVE *LESS* MEMORY
+  THAN REGULAR RUBIN — 192 GB vs 288 GB.** ⇒ **Any model that reads product tier as a proxy for
+  memory content breaks here.** ⇒ **⛔ And do NOT conflate this with `:L842`'s "memory ≈ 62% of the
+  VERA RUBIN BOM." That figure is a DIFFERENT PART, and the derived ~24% memory-input-cost increase
+  built on it (`:L1109`) concerns early-2027 Vera Rubin / Grace Blackwell shipments, not Ultra.**
+  **What DOES carry across: BOM composition is now a MOVING TARGET, so any share-of-BOM figure has a
+  denominator NVDA is actively redesigning.** *(Analysis.)*
+- **⭐ AND THE ARCHITECTURAL SUBSTITUTION IS NAMED IN THE BRIEF AND SHOULD BE TRACKED: NVL576/KYBER —
+  eight 72-GPU racks joined into ONE 576-GPU NVLink scale-up domain via copper and direct optical.**
+  ⇒ **Memory-per-GPU is being traded for INTERCONNECT.** ⇒ **If capacity moves from the package to
+  the rack, the beneficiary shifts from HBM vendors toward optics, switching and copper — which is
+  the `ai-infra-allocation-map` 2nd-order basket, and the book already owns COHR, LITE, CRDO, ALAB.**
+  ⇒ **🚩 A per-GPU HBM downgrade paired with a 576-GPU domain is, mechanically, a transfer from the
+  memory leg to the interconnect leg of the same basket.** *(Analysis. ⬜ NVL576 is not in this vault
+  at all — first mention.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE FINAL RUBIN ULTRA CONFIGURATION — the fork itself.** **192 GB · ~256 GB · or the
+   original HBM4E design. TrendForce says undetermined.** ⇒ **Watch GTC and NVDA's own spec page, not
+   supply-chain reporting.** **This is the single highest-value dated item on the memory thread.**
+2. 🚩🚩🚩 **HBM BIT SHIPMENTS, NOT CONTENT-PER-GPU — the metric that actually prices MU/SKH.**
+   ⬜ **The vault has NO TrendForce coverage and no bit-shipment series at all.** ⇒ **The +50-60% y/y
+   2027 forecast is the number to track and to grade.**
+3. 🚩🚩 **DOES THE END-SEPTEMBER HBM CONTRACT PRINT (carried since 8/22) STILL TEST WHAT IT WAS
+   REGISTERED TO TEST?** **It was set up to grade a derived ~24% memory input cost. If NVDA is
+   simultaneously cutting content per unit, price and volume are moving in opposite directions and
+   the print alone will not separate them.**
+4. 🚩 **NVL576 / KYBER — not in this vault.** ⬜ First mention. **The interconnect-for-memory
+   substitution is the mechanism that decides whether this is bearish memory or merely a transfer
+   inside the basket the book already owns.**
+**Links:** [[metered-compute]] · [[ai-capex-cycle]] · [[ai-infra-allocation-map]] · [[compression-thesis]] · [[buildout-bottleneck-map]]
