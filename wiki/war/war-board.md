@@ -3293,3 +3293,73 @@ the difference between commentary and policy.**
 3. 🚩🚩 **ANY INCIDENT INVOLVING A UAE-FLAGGED OR ADNOC-LINKED HULL is now the act-of-war clause's
    falsification test** — sharper than the flag-count test at `:L3133`, and on the same object.
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[war/war-confirmed]]
+
+### 2026-08-23 ~9:50pm PDT — 🕳️🕳️ **MAP GAP #20, AND IT IS THE MOST IMPORTANT ONE THIS BOARD HAS OPENED: 131 DAYS OF BLOCKADE TRACKED ENTIRELY FROM THE OUTSIDE, AND NOTHING AT ALL ON WHETHER IRAN CAN *ENDURE* IT.** ⛔ **A paste on Iran importing FROZEN MEAT to cap meat prices routed `WAR/OIL(1)*` — one weak keyword — and `grep -rn "rial\|inflation\|subsid\|food price" wiki/` returns NOTHING on Iran's domestic economy.** ★★★★★ **ENDURANCE IS THE VARIABLE THAT SETS THE BLOCKADE'S DURATION, AND THE BOARD HAS NO INSTRUMENT FOR IT**
+Source: Jake's paste, 2026-08-23 ~9:40pm PDT — a satirical post naming **محمدباقر قالیباف
+(Mohammad Bagher Ghalibaf, Speaker of Iran's Majlis)**: *"Importing frozen meat to fix meat prices…
+What's the plan for bonds, import frozen yields? Frozen homebuyers for housing? Frozen paychecks for
+wages? A frozen foreign policy delivers a frozen economy. The only thing still moving? The Iran
+boomerang."*
+⚠️⚠️ **THIS IS COMMENTARY, NOT DATA, AND THE EVIDENTIAL CONTENT IS ONE CLAUSE.** The only assertion of
+fact is that **Iran is importing frozen meat to control meat prices** — and it arrives inside a
+satire, from an unidentified account, with ⬜ no outlet, no date and no volume. ⛔ **Rung: SPECULATION
+on everything except that one policy claim, which is REPORTED at best.** ⬜ **And whether the policy
+is Ghalibaf's or is merely being pinned on him is NOT established.**
+
+#### ⛔ WHAT THE BOARD ACTUALLY HAS, AND WHAT IT DOES NOT
+- **HAS (all EXTERNAL):** transits vs a ~140/day baseline · dark-transit share · Kharg terminal
+  occupancy · ~20.7 mmbbl floating · Gulf fleet composition and flag counts · GPS jamming · strike
+  and seizure logs · the UAE trade halt · 131D 23H on the counter.
+- **DOES NOT HAVE, ANY OF IT:** the rial · domestic inflation · food and staple prices · the subsidy
+  bill · fuel rationing inside Iran · Tehran bourse · FX reserves · non-oil trade · **and no coverage
+  whatsoever of SNAPBACK / the trigger mechanism / UNSCR 2231.**
+- ⇒ **★★★ THE BOARD CAN SAY WITH PRECISION HOW MUCH OIL IS NOT MOVING AND CANNOT SAY ANYTHING ABOUT
+  HOW LONG THAT CAN CONTINUE.** **Every "how does this end" question routes through Iranian domestic
+  endurance, and that is the one input with no series behind it.** *(Analysis.)*
+- **🔧 MAP FIXED THIS TURN** — `tools/acute_scanner_cell.py` WAR/OIL now carries
+  `ghalibaf · qalibaf · pezeshkian · khamenei · rial · toman · tehran bourse · subsidy · food price ·
+  frozen meat · bread price · staple · devaluation · capital flight · domestic inflation · snapback ·
+  trigger mechanism · boomerang · unsc resolution · 2231`. **Re-tested: `WAR/OIL(1)*` → `WAR/OIL(4)`.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE ONE FACT IN THE PASTE IS WORTH KEEPING AND IT POINTS THE SAME WAY AS TONIGHT'S OTHER
+  IRAN ITEM: IMPORTING FOOD TO CAP PRICES IS A COUNTRY SPENDING SCARCE FX ON CONSUMPTION WHILE ITS
+  EXPORT REVENUE IS ~ZERO.** **`:L2915` region has Kharg's three terminals vacant; the board's own
+  reading is Iranian crude exports at ~zero.** ⇒ **Reserves out, nothing in, and the intervention is
+  on the CONSUMPTION side.** ⇒ **That is what economic-war pressure looks like from the inside, and it
+  is the first such datum this board has held.** *(Analysis. ⚠️ ONE datum, satirically framed.)*
+- **⇒ ★★★★★★ AND IT PAIRS WITH THE REZAEE STATEMENT FROM TWELVE HOURS EARLIER (`:L3235`) INTO ONE
+  READING, WHICH IS THE ONLY REAL ANALYTICAL CONTENT HERE. Rezaee: *"IF THE ECONOMIC WAR CONTINUES,
+  not a single drop of oil will be exported…"*** ⇒ **The threat is explicitly CONDITIONED on economic
+  pressure — and the frozen-meat policy is evidence that pressure is biting domestically.**
+  ⇒ **⭐ ESCALATION ABROAD AND SUBSIDY AT HOME ARE THE TWO HALVES OF THE SAME CONSTRAINT: a government
+  that cannot deliver prices to its own population raises the external price of the campaign against
+  it.** ⇒ **⛔ WHICH MEANS THE ESCALATION RHETORIC SHOULD BE READ AS A FUNCTION OF DOMESTIC DISTRESS,
+  NOT INDEPENDENTLY OF IT — and the board has been reading it independently of it all month because
+  it had no domestic series.** *(Analysis.)*
+- **⚠️ AND THE DISCIPLINE ON THE SATIRE ITSELF, because it is persuasive and that is the risk: the
+  bonds/housing/wages lines are RHETORICAL EXTENSIONS, not policies.** **Nobody proposed importing
+  frozen yields.** ⇒ **The construction works by making a real policy sound absurd through invented
+  parallels, and a reader who ingests the rhythm ingests three fictional policies alongside one real
+  one.** ⇒ **⛔ Only the meat clause enters the vault.** *(Analysis.)*
+- **⬜ "THE IRAN BOOMERANG" IS NOT RESOLVED AND I AM NOT GOING TO GUESS IT.** **It could be (a) the
+  UN snapback mechanism returning, (b) Iran's own foreign policy rebounding on it, or (c) a
+  publication or slogan.** ⇒ **In Persian political usage the snapback is normally *مکانیسم ماشه*
+  ("trigger mechanism"), not "boomerang," which weakens (a) — but the sentence structure ("the only
+  thing still moving") reads as a CONSEQUENCE returning, which is where (a) and (b) converge.**
+  🚩 **Registered as unresolved. The distinction matters because (a) is a DATED, MECHANICAL,
+  FALSIFIABLE event and (b) is a metaphor.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **AN IRANIAN DOMESTIC-ENDURANCE SERIES — the gap this inbound exposed, and the board's
+   largest.** ⬜ **Candidates, none fetched: the free-market rial rate (bonbast-type trackers) ·
+   CBI/SCI official inflation · Tehran bourse index · staple-price reporting.** ⇒ **The rial is the
+   single best proxy and is publicly quoted daily.**
+2. 🚩🚩🚩 **SNAPBACK / UNSCR 2231 STATUS — the board carries NOTHING and it is a dated mechanism with
+   hard deadlines.** ⬜ Not covered. **If "boomerang" means snapback, the board cannot currently place
+   the reference at all.**
+3. 🚩🚩 **VERIFY THE FROZEN-MEAT POLICY against an Iranian outlet (IRNA/ISNA/Tasnim) with a volume
+   and a date.** ⬜ **One satirical post is not a policy record.**
+4. 🚩 **WHOSE POST IS THIS?** ⬜ Unidentified. **Same discipline as `@ir_rezaee` twelve hours ago —
+   and that one is STILL unverified.**
+**Links:** [[demand-destruction]] · [[oil-value-chain]] · [[war/war-confirmed]] · [[new-economy-regime]]

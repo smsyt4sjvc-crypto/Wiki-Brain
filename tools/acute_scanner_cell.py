@@ -306,7 +306,17 @@ THREADS = {
                'iran','oman','majlis','fars','aramco','opec','brent','wti','kharg',
                'corridor','flag state','insurance premium',
                'venezuela','pdvsa','chevron','merey','heavy sour','heavy crude','guyana',
-               'gulf coast','official selling price','crude import','import license'],
+               'gulf coast','official selling price','crude import','import license',
+               # gap #20 (2026-08-23): THE ADVERSARY'S DOMESTIC ECONOMY. A paste on Iran importing
+               # FROZEN MEAT to cap meat prices routed WAR/OIL(1)* -- a single weak keyword -- and
+               # the sweep flagged a vocabulary gap. The board has tracked 131 days of blockade from
+               # the OUTSIDE (tankers, terminals, transits, strikes) and holds NOTHING on whether
+               # Iran can ENDURE it: no rial, no inflation, no food prices, no subsidy, no snapback.
+               # Endurance is the variable that sets the blockade's duration, and it was unmapped.
+               'ghalibaf','qalibaf','pezeshkian','khamenei','rial','toman','tehran bourse',
+               'subsidy','subsidies','food price','frozen meat','bread price','staple',
+               'currency peg','devaluation','capital flight','domestic inflation',
+               'snapback','trigger mechanism','boomerang','unsc resolution','2231'],
  'BLACK SEA': ['cpc','caspian pipeline','novorossiysk','tengiz','kashagan','karachaganak',
                'kazakh','kazakhstan','black sea','primorsk','ust-luga','druzhba','ceyhan'],
  'INVENTORY': ['spr','cushing','strategic petroleum','crude draw','crude build','tank bottoms',
