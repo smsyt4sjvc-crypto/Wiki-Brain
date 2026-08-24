@@ -357,6 +357,16 @@ THREADS = {
                'jgb','gilt','bund','oat','btp','boj','yield curve control','ycc'],
  'FED':       ['ppi','producer price','cpi','pce','core pce','deflator','headline cpi',
                'bls','bea','import price','ism prices','prices paid','unit labor cost',
+               # gap #21 (2026-08-23): PRICE ADMINISTRATION AS A POLICY INSTRUMENT. Jake listed six
+               # live US interventions that set or coerce a price -- beef import waiver, directed
+               # drug pricing, pressure on Walmart, securities purchases to lower mortgage rates,
+               # housing participation limits, a $2.50 gasoline target with a DOJ pass-through
+               # probe -- and the vault held NONE of them. It tracks the Fed and tariffs as policy
+               # levers and has no concept of administered prices. Worse: it knows "price cap" ONLY
+               # as a sanctions tool against Russian crude. Same instrument, one direction only.
+               'price cap','price ceiling','price control','administered price','windfall tax',
+               'price gouging','most favored nation','drug pricing','pass-through','doj probe',
+               'antitrust','jawbone','moral suasion','export restriction','margin cap',
                'month-over-month','year-over-year','mom','yoy','annualised','annualized',
                'trade services','ex-food and energy','core inflation','disinflation',
                'sticky','supercore','breakeven','tips','2y','2-year','two-year','front end',

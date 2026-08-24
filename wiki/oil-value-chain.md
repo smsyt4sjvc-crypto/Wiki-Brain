@@ -2154,3 +2154,54 @@ discriminators, both resolved:**
    on the paste.** The gate reads the INBOUND; it does not ask what the vault knows about the SUBJECT.
    **Both of today's misses are that gap, and Jake found it before I did.**
 **Links:** [[rates-board]] · [[demand-destruction]] · [[war/war-board]] · [[portfolio-state]]
+
+### 2026-08-23 ~11:15pm PDT — 🚩🚩🚩 **THE REFINER THESIS HAS THREE PHYSICAL DISCRIMINATORS AND ZERO POLITICAL ONES — AND A POLITICAL ONE IS NOW LIVE: A ~$2.50/GAL PRESIDENTIAL TARGET PLUS A DOJ INVESTIGATION INTO WHETHER PRODUCERS PASS FALLING CRUDE THROUGH FAST ENOUGH.** ⛔ **A PASS-THROUGH INVESTIGATION *IS* AN INVESTIGATION INTO THE CRACK. THE CRACK IS THE WEDGE BETWEEN FALLING CRUDE AND STICKY PRODUCT — THAT IS ITS DEFINITION**
+Source: Jake's list of six US price interventions, 2026-08-23 ~10:55pm PDT. Full framework and the
+map gap it exposed → `new-economy-regime` 2026-08-23 ~11:05pm.
+⚠️ **⬜ UNVERIFIED IN THIS VAULT: no DOJ docket, no statute, no consent decree, no dated statement on
+file. This is registered as a RISK CHANNEL, not as an event.**
+
+#### ⛔ THE HOLE, STATED PLAINLY
+- **Every regulatory item in this note is RUSSIAN**: the diesel export ban in force since 2026-07-08
+  and extended to 2027-01-31, the September producer exemption, Orsk. ⇒ **Searched this note for
+  `windfall|price goug|antitrust|DOJ|political risk`: US political risk to the refining margin appears
+  NOWHERE.**
+- ⇒ **The thesis as it stands rests on three PHYSICAL discriminators, all resolved for it on 8/19:
+  utilisation 97.2% with operable capacity 133 kb/d smaller y/y · distillate product supplied FLAT y/y
+  at $5.45 retail · PADD-1 ULSD 21.2 MMbbl, −19.7% y/y.** ⇒ **And today's conclusion was that the
+  remaining edge is entirely whether the ~$49.85 twelve-month strip is too low.**
+- ⇒ **★★★ SO THERE IS A WAY FOR THIS TRADE TO BE RIGHT ON EVERY PHYSICAL SERIES AND STILL LOSE: THE
+  MARGIN GETS CAPPED POLITICALLY RATHER THAN ARBITRAGED AWAY ECONOMICALLY.** **The vault has priced
+  the supply path closing (utilisation) and the demand path not opening (product supplied). It has not
+  priced the POLITICAL path.** *(Analysis.)*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE COLLISION IS ARITHMETIC AND IT IS LARGE. A ~$2.50/gal gasoline target sits against this
+  note's own $5.45 national retail diesel and a 3-2-1 crack running 2.1-2.6× its ~$23 2018-25
+  average.** ⇒ **The distance between the political target and the tape IS the pressure, and on these
+  numbers it is enormous.** ⚠️ **Gasoline and diesel are different products — the target names
+  gasoline, and RBOB's crack collapsed $8.31 on 8/21 while ULSD's fell $3.24. The pressure lands
+  hardest on the leg that has already given the most back.** *(Analysis.)*
+- **⭐ AND THE MECHANISM CUTS *WITH* THE DAY'S OTHER FINDING RATHER THAN AGAINST IT.** This morning's
+  base rate showed **140% pass-through on crude down-days — diesel falls MORE than crude in dollars.**
+  ⇒ **An investigation premised on producers NOT passing crude declines through is asserting the
+  opposite of what 486 sessions measure.** ⇒ **★★★ THE VAULT HAS THE MEASUREMENT THAT ANSWERS THE
+  ALLEGATION, and it answers it in the refiners' favour on the AVERAGE — while conceding the specific
+  window that provoked it: since 7/15 crude rose 9.4% and the 3-2-1 crack FELL, which is refiners
+  NOT capturing, not gouging.** *(Analysis. ⚠️ An average is not a defence of any single firm's
+  conduct in any single week.)*
+- **⚠️ AND THE HONEST BEAR CASE FOR THE POSITION: A MARGIN DOES NOT NEED A STATUTE TO COMPRESS. Public
+  pressure alone changes discretionary behaviour** — retail pricing lags, guidance language,
+  discretionary throughput, buyback pacing. ⇒ **The measurable tell is therefore NOT the rhetoric and
+  NOT a docket; it is whether refiner GUIDANCE or realised capture rates move.** 🚩 **Q3 earnings,
+  late October — already inside the window this thread registered on 8/17 as the settlement date for
+  the whole thesis.** ⇒ **The same print now carries two tests instead of one.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **A US REFINING-MARGIN ACTION, ANY FORM — DOJ civil action · state price-gouging suit ·
+   FTC 6(b) · a product export restriction.** ⬜ **None on file.** **This is the kill-switch this
+   thesis has been missing, and it was missing because the note only ever looked at Russia.**
+2. 🚩🚩 **REFINER CAPTURE RATE AND GUIDANCE LANGUAGE AT Q3 (late Oct)** — the tell that works whether
+   or not anything is ever filed.
+3. 🚩 **PRIMARY-SOURCE THE $2.50 TARGET AND THE DOJ PROBE.** ⬜ Neither held; both are Jake's report.
+**Links:** [[new-economy-regime]] · [[demand-destruction]] · [[portfolio-state]] · [[war/war-board]]

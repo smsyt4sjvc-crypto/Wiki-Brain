@@ -4327,3 +4327,93 @@ Gambacorta, Kharroubi, Rottner) → `raw/2026-08-22-bis-bulletin-130/`.
   effects of AI vary considerably, and both their MAGNITUDE and PERSISTENCE remain uncertain."***
   **The +0.48 is a MEDIAN ACROSS STUDIES spanning Acemoglu (low) to Briggs/Kodnani (high) — it is a
   survey of opinion, not a measurement.**
+
+## 2026-08-23 ~11:05pm PDT — 🕳️🕳️🕳️ **MAP GAP #21, AND IT IS LARGER THAN #20: JAKE NAMES SIX LIVE US PRICE INTERVENTIONS AND THE VAULT HOLDS *NONE* OF THEM.** ⛔ **WORSE — IT KNOWS "PRICE CAP" ONLY AS A SANCTIONS WEAPON AGAINST RUSSIAN CRUDE (`war/war-confirmed:L259`, $44.10). SAME INSTRUMENT, ONE DIRECTION ONLY.** ★★★★★★ **AND ONE OF THE SIX IS A POLITICAL KILL-SWITCH ON A POSITION THE VAULT SPENT ALL DAY ANALYSING: A $2.50 GASOLINE TARGET PLUS A DOJ PASS-THROUGH PROBE IS AN ATTACK ON THE CRACK SPREAD, AND `oil-value-chain` CARRIES ZERO US POLITICAL RISK**
+Source: **Jake, 2026-08-23 ~10:55pm PDT.** His list, verbatim in substance: **(1) beef imports ·
+(2) government-directed prescription-drug pricing · (3) directly leaning on Walmart to cut grocery
+prices · (4) mortgage rates — government buying securities specifically to lower the market price of
+credit · (5) housing — government deciding who may participate in the market · (6) gasoline —
+publicly threatening private retailers with government action unless they cut toward a presidential
+target of ~$2.50/gallon, while DOJ investigates producers for allegedly failing to pass falling crude
+prices through quickly enough.** His read: *"These all grind against more capitalist / free-market
+rhetoric."*
+⚠️⚠️ **⬜ FIVE OF THE SIX ARE UNVERIFIED IN THIS VAULT. Only the beef waiver has a source on file
+(`war/war-board` 8/23, from his own brief). Items 2-6 are HIS ASSERTIONS and each needs a primary —
+especially (4) and (5), which would be major, dateable policy events.** ⛔ **Filed as a FRAMEWORK
+with an unverified evidence list, not as six facts.**
+
+#### ⛔ THE RETRIEVAL RESULT, BECAUSE IT IS THE FINDING
+`grep -rniE "drug pric|prescription|Walmart|MBS|mortgage rate|Fannie|homebuyer|2\.50|DOJ.*investigat|
+price control|administered price|financial repression" wiki/` **→ NOTHING on any of it.** Walmart
+appears only as an apparel retailer in the GLP-1 thread.
+- **AND THE ASYMMETRY IS THE SHARPEST PART: the vault DOES hold price caps — `war/war-confirmed:L259`,
+  the G7 Russian crude cap frozen at $44.10 to Jul-2027.** ⇒ **The vault understands administered
+  prices perfectly well when they are pointed at an adversary and has no concept of them pointed
+  domestically.** ⇒ **That is not a coverage gap, it is a FRAME gap.** *(Analysis.)*
+- **🔧 MAP FIXED THIS TURN** — FED thread now carries `price cap · price ceiling · price control ·
+  administered price · windfall tax · price gouging · most favored nation · drug pricing ·
+  pass-through · doj probe · antitrust · jawbone · moral suasion · export restriction · margin cap`.
+  **Retested: NO MATCH → `FED(5), CONSUMER(2)`.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ THE LABEL IS WRONG AND THE CORRECTION IS NOT PEDANTIC — IT CHANGES WHAT THE POLICY PREDICTS.**
+  **"Socialistic" implies transfer of OWNERSHIP or of the residual claim. NONE of the six does that.**
+  **Every one leaves ownership and profit private and makes the PRICE politically determined.**
+  ⇒ **The precise term is ADMINISTERED PRICES WITH PRIVATE OWNERSHIP** — Nixon 1971, the OPA, the
+  Diocletian edict. **Not socialism: DIRIGISME.**
+  ⇒ **★★★ AND THE DISTINCTION MATTERS BECAUSE THE FAILURE MODES DIFFER. Socialism's failure is
+  ALLOCATION (the planner cannot compute). Administered pricing's failure is SUPPLY WITHDRAWAL — the
+  private owner keeps the downside, loses the upside, and responds by producing less.**
+  ⇒ **⭐⭐ WHICH IS THE MECHANISM THIS VAULT ALREADY HOLDS, TWICE: the SPR ("an income can be defended
+  indefinitely; an inventory cannot") and the cattle herd (suppress the price signal, discourage the
+  rebuild).** ⇒ **So each of the six carries the SAME testable prediction: supply withdraws in the
+  administered good.** *(Analysis.)*
+- **⛔⛔⛔ AND THE HARDER PUSHBACK, WHICH IS THAT THIS IS NOT A DEVIATION AT ALL — IT IS THE SAME
+  INSTRUMENT POINTED THE OTHER WAY.** **This note filed on 2026-07-23 (`:L56`): *"tariffs = a SECOND
+  inflation input stacking on oil into a boxed Fed."* A tariff RAISES a price by state fiat.**
+  ⇒ **Items 1-6 LOWER prices by state fiat.** ⇒ **★★★★★ SAME TOOL, OPPOSITE SIGN. The throughline is
+  not free-market rhetoric interrupted by socialism; it is AN ADMINISTRATION THAT SETS PRICES BY
+  DIRECTIVE, in whichever direction the political need points.**
+  ⇒ **His list is one-sided BY SELECTION — it collects the price-LOWERING interventions. Add the
+  tariffs and the pattern stops being an ideological contradiction and becomes a CONSISTENT
+  INSTRUMENT, which is far more predictive: it says the next intervention lands wherever a price is
+  politically salient, and its direction is unforecastable from ideology.** *(Analysis. This is the
+  side he is under-weighting, and it strengthens his observation rather than weakening it.)*
+- **★★★★★★ THE BOOK CONSEQUENCE, AND IT IS THE MOST ACTIONABLE THING HERE: ITEM (6) IS A POLITICAL
+  ATTACK ON THE CRACK SPREAD.** **A DOJ investigation into whether producers "pass falling crude
+  through quickly enough" is, mechanically, an investigation into the REFINING MARGIN — the crack is
+  precisely the wedge between falling crude and sticky product.** ⇒ **⛔ AND `oil-value-chain` CARRIES
+  NO US POLITICAL RISK AT ALL: every regulatory item in that note is RUSSIAN (the diesel export ban,
+  the September producer exemption). Zero windfall tax, zero gouging statute, zero DOJ, zero
+  antitrust.** ⇒ **★★★ SO THE REFINER THESIS HAS THREE PHYSICAL DISCRIMINATORS (utilisation 97.2%,
+  distillate demand flat, PADD-1 ULSD −19.7% y/y) AND NOT ONE POLITICAL ONE — and today's own
+  conclusion was that the remaining edge is entirely "is the ~$49.85 deferred strip too low."**
+  ⇒ **A politically capped margin is a way for that trade to be right on the physics and lose.**
+  *(Analysis.)*
+- **⭐ AND THE COLLISION IS ARITHMETIC, NOT RHETORICAL: A ~$2.50/GALLON GASOLINE TARGET AGAINST THE
+  VAULT'S OWN $5.45 NATIONAL RETAIL DIESEL AND A 3-2-1 CRACK AT 2.1-2.6× ITS 2018-25 NORM.**
+  ⇒ **The gap between the target and the tape is the size of the political pressure, and it is
+  enormous.** ⇒ **🚩 The measurable tell is not rhetoric — it is whether refiner GUIDANCE or capture
+  rates change, or whether any statute/consent decree actually lands.** *(Analysis.)*
+- **⚠️ AND ITEM (4) IS THE ONE THAT DOES NOT BELONG WITH THE OTHER FIVE, AND SORTING IT MATTERS.**
+  **Buying securities to lower the price of credit is not coercion of a private seller — it is the
+  state as BUYER, which is FINANCIAL REPRESSION, and this note already runs that thread (Fed Trap,
+  debasement, `:L1252` "financial gravity").** ⇒ **Five of the six are DIRECTIVE (do this or else);
+  one is BALANCE-SHEET (we will bid until the price moves).** ⇒ **Directive interventions produce
+  shortage. Balance-sheet interventions produce ASSET INFLATION and a term-premium problem — which is
+  the 30Y thread, not the supply thread.** ⇒ **⛔ Do not file (4) with the other five.** *(Analysis.)*
+
+#### 📌 REGISTERED — all six need primaries; five have none
+1. 🚩🚩🚩 **DOES A US REFINING-MARGIN ACTION ACTUALLY LAND?** **The one item with position
+   consequences. Watch for: a DOJ civil action, a state gouging suit, an FTC 6(b), or an export
+   restriction on products.** ⬜ **Nothing on file. This is the refiner thesis's missing kill-switch.**
+2. 🚩🚩 **PRIMARY-SOURCE EACH OF (2) THROUGH (6)** — a rule, an EO, a filing, a docket, a transcript.
+   ⬜ **None held. Items (4) and (5) especially: "government buying securities to lower mortgage
+   rates" and "deciding who may participate in the housing market" are large claims.**
+3. 🚩🚩 **THE SUPPLY-WITHDRAWAL TEST, RUN ON EACH ADMINISTERED GOOD** — cattle herd rebuild rate ·
+   US drug-launch delays and withdrawals · Walmart supplier margins · refinery utilisation and
+   discretionary throughput. **The framework's own falsification: if supply does NOT withdraw, the
+   dirigisme read is wrong and these are just transfers.**
+4. 🚩 **ADD THE TARIFFS TO THE SAME LEDGER** so the instrument is visible in both directions. ⬜ The
+   vault has tariffs as an INFLATION INPUT and never as the same lever as a price cap.
+**Links:** [[oil-value-chain]] · [[demand-destruction]] · [[rates-board]] · [[consumption-vs-investment-crux]] · [[market-fragility]]
