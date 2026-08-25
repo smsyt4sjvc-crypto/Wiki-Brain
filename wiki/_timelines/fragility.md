@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **225 dated entries across 6 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-24 22:42 PDT**
+> **226 dated entries across 6 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-24 22:51 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -246,4 +246,5 @@
 - `2026-08-24` [ai-financing-fragility.md:L7164](../ai-financing-fragility.md) — 2026-08-24 ~11:20pm PDT — 🕳️ **JAKE ASKS THE POLICY-PUT QUESTION AND THE VAULT HAS NO ENTRY FOR IT: WHAT IF TREASURY/THE FED PAID AN SPV TO LEVER CORP
 - `2026-08-24` [hyperscaler-credit.md:L517](../hyperscaler-credit.md) — DATA — THE FULL PANEL THE TWO-NAME CHART CANNOT SHOW (ICE, clearing 2026-08-24)
 - `2026-08-24` [rates-board.md:L1025](../rates-board.md) — 2026-08-24 ~12:15am PDT — ⛔⛔⛔ **THE TGA REVELATION BREAKS THIS BOARD'S OWN LOAD-BEARING CONCLUSION, WRITTEN 8/19 AT `:L223`: *"TREASURY BUYBACKS ARE C
+- `2026-08-24` [rates-board.md:L1101](../rates-board.md) — 2026-08-24 ~11:45pm PDT — ★★★★★★ **JAKE'S WEARY-ROTATION THESIS, FILED AS HIS AND SHARPENED: AT 82bp OVER, THE EXIT FROM AI CREDIT INTO TREASURIES IS 
 - `2026-08-25` [hyperscaler-credit.md:L497](../hyperscaler-credit.md) — 2026-08-25 ~01:50 UTC (2026-08-24 ~6:50pm PDT) — ✅✅✅ **JAKE'S OWN TEST, RUN AGAINST THE INSTRUMENT INSTEAD OF ASSERTED — AND IT IS SATISFIED ON ALL FO

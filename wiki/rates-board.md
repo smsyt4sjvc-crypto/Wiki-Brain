@@ -1119,3 +1119,70 @@ CNBC piece has been fetched. Every figure is from Jake's brief.**
 4. 🚩 **VERIFY ALL OF IT AGAINST PRIMARIES** — the 8/19 Treasury release, the 8/5 refunding statement,
    the CNBC piece. ⬜ **None fetched.**
 **Links:** [[new-economy-regime]] · [[market-fragility]] · [[gold-flows]] · [[transmission-chain]]
+
+### 2026-08-24 ~11:45pm PDT — ★★★★★★ **JAKE'S WEARY-ROTATION THESIS, FILED AS HIS AND SHARPENED: AT 82bp OVER, THE EXIT FROM AI CREDIT INTO TREASURIES IS PRICED AT NEAR-ZERO COST — the compensation for underwriting the entire uncertainty catalogue is at its 40th percentile while the catalogue is at its maximum.** ⛔ **ONE MECHANICAL CORRECTION: THE ROTATION ITSELF WIDENS THE SPREAD — "compressed spread" is the ENTRY CONDITION for his flow, not its result. His scenario IS the ladder's stage 2 lighting, viewed from the buy side** ⚠️ **AND THE FLOW IS NOT IN THE DATA YET: the 30Y at 5.23% near its highs is the market saying the rotation has NOT begun**
+Source: **Jake, 2026-08-24 (his thesis, verbatim in substance):** *"Investors are growing weary of the
+capex environment and earnings. If they can compress the spread, it might actually raise demand for
+Treasuries — just to avoid an increasing grind of SPVs, off-sheet debt, circular financing, crashing
+token economics, open models, and a lot of uncertainty surrounding HOW that money is actually going
+to be made."*
+
+#### DATA (all in-vault, measured)
+- **THE COMPENSATION: IG OAS 82bp (40th pct) · tech ~89bp, ~9bp over broad IG · AVGO 127 · ORCL 226 ·
+  30Y UST 5.23%.** ⇒ **The all-in pickup for holding IG-grade AI-complex paper over matched
+  Treasuries is ~82-89bp, at the 40th percentile of its own history.**
+- **THE UNCERTAINTY INVENTORY THAT 82-89bp IS PAID TO UNDERWRITE — every line already measured in
+  this vault: the $100B AVGO SPV and the Meta/BlackRock JV (off-sheet) · NVDA's $42.3B of customer
+  equity + $3.5B lease guarantees + "asked to offer financing arrangements" (circularity, from the
+  10-Q) · token price index −49.8% since May · open weights at 28.3% of gateway tokens and 2.1% of
+  dollars · hyperscaler fwd FCF ~$300B → ~$10-15B with two positive names · and the registered core
+  question, verbatim: "REVENUE JEVONS IS NOT THE SAME AS CAPEX SOLVENCY."**
+- **THE FLOW CHECK, AGAINST HIS PREMISE: the rotation is NOT visible. 30Y 5.23% within its 14bp
+  monthly band near two-decade highs · IG at the 40th pct = credit demand fine · dealer UST net
+  position FALLING · the only funding wobble is A2/P2 CP at the 75th.** ⇒ **"Investors are growing
+  weary" is currently a POSITIONING/SENTIMENT claim (TRS funding 65.5bp vs 101 peak — unwound but
+  not clean), not a flows fact.**
+
+#### THESIS (interpretation — Jake's thesis · the board's sharpening labelled)
+- **★★★★★ THE ASYMMETRY IS THE ARGUMENT, STATED CLEANLY (board's sharpening): at 82bp, leaving costs
+  almost nothing and staying underwrites everything.** The seller of that exit option is receiving
+  the 40th percentile of historical compensation to bear the largest catalogue of structural
+  uncertainty this vault has ever itemised. ⇒ **The trade is asymmetric in a way LEVEL-percentile
+  scoring cannot see — the level is calm precisely because the rotation has not started.** *(Analysis.)*
+- **⛔ THE MECHANICAL CORRECTION: his causality runs "compress the spread → raise Treasury demand,"
+  but a credit→UST rotation IS spread widening — the flow decompresses the very spread that invited
+  it, and self-limits when compensation is adequate again.** ⇒ **Correctly ordered: TIGHT SPREAD is
+  the entry condition → weariness triggers the rotation → Treasury demand rises AND the spread
+  widens together.** ⇒ **★★★ WHICH MEANS HIS SCENARIO AND THE LADDER'S STAGE 2 ARE THE SAME EVENT
+  SEEN FROM OPPOSITE SIDES — and the board must not read every stage-2 lighting as a crack. The
+  discriminator ALREADY EXISTS in the ladder's own columns: a weary rotation lights stage 2 SLOWLY
+  (rate% climbing, level% grinding, uncorroborated); a crack lights it FAST with stages 4-6
+  corroborating.** *(Analysis.)*
+- **★★★★★ THE POLICY SYNTHESIS, AND IT IS THE BEST PART OF HIS IDEA: THE WEARY ROTATION DELIVERS
+  BESSENT'S LONG-END BID FOR FREE.** The buyback/TGA program is trying to MANUFACTURE demand for
+  duration; a capex-weariness rotation out of AI credit SUPPLIES it organically. ⇒ **The
+  administration needs Treasury demand and is simultaneously running the fiscal machinery (SPV
+  culture, state equity) that deepens the uncertainty investors are fleeing. The two hands feed each
+  other — the more cynical the financing environment, the better the sovereign bid.** ⇒ **That is
+  the Fed-Trap/debasement thread acquiring a private-sector flow mechanism.** *(Analysis.)*
+- **⚠️ THE HONEST STATE OF HIS PREMISE: "growing weary" is observable in POSITIONING (TRS unwind,
+  compute −30.6% off highs, CDS at wides) and NOT YET in credit FLOWS (IG 40th pct, 30Y at highs).**
+  ⇒ **The vault's rule: a state, not a trigger. It shades odds and times nothing.** **The dated tells
+  that would convert it: (1) IG OAS rate% climbing while level% grinds — the ladder already computes
+  both; (2) auction internals — indirects/bid-to-cover on the 10Y/30Y; (3) IG fund outflows; (4) the
+  first big AI issuer paying a NEW-ISSUE CONCESSION above secondary.** ⬜ **(2)-(4) are not vault
+  series.** *(Analysis.)*
+- **📌 BOOK EXPRESSION (descriptive): the rotation scenario is LONG DURATION / prefer-UST-over-IG —
+  the [[detachment-bid]] family — and inside the equity basket it favours the two positive-FCF names
+  (MSFT, GOOGL) over the SPV-adjacent leg (AVGO, ORCL) — which is how the basket is already built.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **AUCTION INTERNALS AS A VAULT SERIES (bid-to-cover, indirects, tail) — the first place a
+   weary rotation would print, and the vault holds auction results only episodically.** ⬜
+2. 🚩🚩 **THE STAGE-2 DISCRIMINATOR, WRITTEN INTO THE LADDER'S READING RULES: slow/uncorroborated
+   stage-2 = rotation (UST-bullish); fast/corroborated = crack (everything-bearish).** ⬜ Not yet in
+   `fragility.py`'s output notes.
+3. 🚩 **IG FUND FLOWS (ICI/EPFR weekly)** — the direct measurement of his mechanism. ⬜ No source
+   route established.
+**Links:** [[hyperscaler-credit]] · [[ai-financing-fragility]] · [[detachment-bid]] · [[new-economy-regime]] · [[market-fragility]] · [[fragility-engine]]
