@@ -68,7 +68,7 @@ so a March entry lands on an August paste. The router prints the path on every m
 - [[power-scarcity-equities]] — the three tiers (and the bottleneck≠hedge correction)
 - [[nuclear]] — the AI-power sleeve
 - [[demand-destruction]] — oil / war THESIS + marker framework (the reasoning; war EVENTS moved to `wiki/war/`)
-- [[high-confidence-basket]] — ⭐ THE AUDITED ≤10 BASKET (2026-08-24): 9 names, tenth slot deliberately empty, every exclusion on a vault-filed finding
+- [[high-confidence-basket]] — ⭐ THE AUDITED ≤10 BASKET (2026-08-24): 10 names (VLO filled slot 10 on Jake's catch, 8/24 ~9:10pm), every exclusion on a vault-filed finding
 - [[oil-value-chain]] — where the oil money goes by layer (own the crack + the toll, not the barrel)
 - [[civilian-infra-strike-log]] — dated ledger, both sides: non-military / civilian-impact strikes (power/water/telecom)
 

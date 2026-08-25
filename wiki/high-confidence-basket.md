@@ -1,6 +1,7 @@
 # High-confidence basket — the vault audited into ≤10 names
 
 ## 2026-08-24 ~8:40pm PDT — ★★★★★★ **THE FULL-VAULT AUDIT, RANKED BY THE VAULT'S OWN EVIDENCE LADDER: 9 NAMES, AND THE TENTH SLOT IS DELIBERATELY EMPTY** — every candidate for it carries a disconfirmer this vault itself filed
+  ⟲ SUPERSEDED 2026-08-25 → high-confidence-basket.md:L131 — Jake caught a method error: the refiner exclusion applied valuation and an unverified political risk -- criteria applied to no other name -- while CRDO was included on a one-day-old roadmap. Slot 10 = VLO
 Source: Jake, 2026-08-24 — *"Audit the vault. Pull whatever else you need. Give me the highest
 confidence basket. ≤10 companies."* Audit base: **71 notes · 614 dated chain entries · 35 thread
 timelines**, plus fresh tape (Yahoo close arrays, 2026-08-24) and this week's measured additions
@@ -129,3 +130,51 @@ call. Sizing stays Jake's.**
 5. **Nemotron share of Perplexity's mix** — the NVDA router-neutrality test.
 
 **Links:** [[ai-infra-allocation-map]] · [[portfolio-state]] · [[memory-regime-question]] · [[power-scarcity-equities]] · [[buildout-bottleneck-map]] · [[hyperscaler-credit]] · [[new-economy-regime]] · [[compression-thesis]]
+  ⟲ SUPERSEDES high-confidence-basket.md:L3 — Jake caught a method error: the refiner exclusion applied valuation and an unverified political risk -- criteria applied to no other name -- while CRDO was included on a one-day-old roadmap. Slot 10 = VLO
+
+## 2026-08-24 ~9:10pm PDT — ⛔⛔ **JAKE: "NO REFINERIES? IT DIDN'T HAVE TO BE IN MY BOOK." HE CAUGHT A METHOD ERROR, NOT A PREFERENCE: THE EXCLUSION APPLIED TWO CRITERIA THE BASKET DID NOT APPLY TO ANYONE ELSE.** ★★★★★ **On the vault's own evidence ladder the refiners outrank CRDO and at least equal MU. SLOT 10 = VLO.** ⟲ **SUPERSEDES the "tenth slot deliberately empty" construction above**
+
+#### ⛔ THE INCONSISTENCY, CONCEDED IN FULL
+- **The basket's stated method was EVIDENCE RANK: corroboration count, origin independence, measured
+  over reported.** By that method the refiners are the vault's best physical thread — **8/13 ranked
+  them #1 "by a wide margin"; the 8/19 EIA print resolved BOTH registered discriminators FOR the
+  thesis (utilisation 97.2% with capacity −133 kb/d y/y · distillate demand FLAT at $5.45 · PADD-1
+  ULSD −19.7% y/y, stocks −5.9% below the 5-yr floor and widening) · exports +19.5% y/y · no supply
+  relief in window (Dangote end-2028, "sparse additions from 2027") · and the DEFERRED crack was
+  marked UP week-over-week (Nov-26 +1.09, Dec-26 +1.96) while the front fell.**
+- **I excluded them on (1) VALUATION — "fairly priced to the curve" — a criterion not applied to
+  MSFT (−10.1% off its high) or ETN (−11.2%); and (2) the POLITICAL KILL-SWITCH — which is
+  ⬜ UNVERIFIED, five of its six items having no primary — while INCLUDING CRDO on a ONE-DAY-OLD
+  unconfirmed roadmap.** ⇒ **Held to the same standard the basket held everyone else to, the
+  exclusion fails. And "every candidate carries a vault-filed disconfirmer" was no criterion at all —
+  every INCLUDED name carries one too (MU's Rubin fork, NVDA's $42.3B, MP's administration risk).**
+
+#### THE FILLED SLOT
+| # | name | vs 52w hi / 3mo (8/13 basis) | the call, one line |
+|---|---|---|---|
+| 10 | **VLO** | ~at high / +34.4% (8/17 read) | **The strip-is-too-low bet, with three physical discriminators resolved for it and a dated settlement window** |
+- **The honest structure of the bet, from the vault's own 8/23 work: the equities are priced to the
+  ~$49.85 twelve-month strip (2.2× the ~$23 norm), so the long is a bet that a MARKET-CLEARED price
+  is too low — unlike every other basket name, this thesis has a liquid instrument directly pricing
+  its decay, and that instrument moved TOWARD the physical case last week (deferred months up, front
+  down).** **"The curve disagrees with him and the physical data agrees with him, and that
+  disagreement IS the trade" — already filed 8/23.**
+- **DISCONFIRMERS, all three named: (1) the curve itself — being long ≈ fading a cleared forward;
+  (2) the political channel — $2.50 target + DOJ pass-through probe, ⬜ unverified, tell = Q3 capture
+  rates and guidance language, late October; (3) the demand-destruction branch — the ~2-in-3
+  base-rate case if crude falls for demand reasons rather than supply ones.**
+- **DATED TESTS, nearer than any other basket name's: 2026-09-01 Russian producer exemption · the
+  WEEKLY WPSR (utilisation, distillate supplied, PADD-1 ULSD — the only three series that can
+  overturn it) · Q3 earnings late October, which Jake's own registered 60-90d proposition settles
+  into.**
+- **⬜ SINGLE-NAME SELECTION IS THE THIN PART, SAID PLAINLY: the vault has never fetched per-name
+  crack-capture rates (registered 8/23, open). VLO is the scale/liquidity pure-play default, not a
+  ranked pick. MPC is the alternative on the same evidence.** **And the cleaner expression of "the
+  strip is too low" is the deferred crack itself; in an equity book VLO is the proxy.**
+
+#### ⇒ THE METHOD NOTE, FILED SO THE NEXT AUDIT DOES NOT REPEAT IT
+**"In the price" is a VALUATION judgment and "politically at risk" is an UNVERIFIED risk channel.
+Neither is an evidence rank. An audit that ranks by evidence must either apply valuation and
+political screens to EVERY name or to NONE — applying them selectively to the best-evidenced thread
+is how the best-evidenced thread gets excluded.** *(Error class: the audit's own, now named.)*
+**Links:** [[oil-value-chain]] · [[demand-destruction]] · [[portfolio-state]]

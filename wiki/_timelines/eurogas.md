@@ -1,6 +1,6 @@
 # ⏱ EUROGAS — merged timeline (the gate)
 
-> **123 dated entries across 3 notes · 2026-07-23 → 2026-08-23 · refreshed 2026-08-24 19:07 PDT**
+> **123 dated entries across 3 notes · 2026-07-23 → 2026-08-23 · refreshed 2026-08-24 19:33 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
