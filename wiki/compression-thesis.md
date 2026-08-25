@@ -2671,3 +2671,46 @@ unverified relay. "N outlets, one origin."**
 4. 🚩 **DOES IT SIGN, AND DOES EITHER PARTY CONFIRM?** Reuters could not verify; NVDA and Perplexity
    are both silent. **Single-origin until one of those changes.**
 **Links:** [[ai-financing-fragility]] · [[metered-compute]] · [[reflection-ai]] · [[ai-capex-cycle]]
+
+## 2026-08-25 ~7:40am PDT — ⭐⭐⭐ **THE NEMOTRON-NEUTRALITY TEST REGISTERED 36 HOURS AGO TAKES ITS FIRST TICK, AND THE MECHANISM IS SHARPER THAN THE ONE I REGISTERED: NVDA DOES NOT NEED TO *OWN* PERPLEXITY TO STEER IT — THE PRODUCT PARTNERSHIP IS DOING IT BEFORE ANY EQUITY CLOSES.** ★★★★★★ **Perplexity "Portable Computer" (launched 8/25, "in close partnership with Nvidia"): the agent platform runs LOCALLY on DGX Spark / RTX PCs, 24 GB VRAM practical minimum, ZERO cloud credits for local work — and NEMOTRON 3.5 LIGHTNING is planned as a supported local model** ⛔ **AND IT IS THE THIRD INSTANCE OF WORK MIGRATING OFF EVERY RAIL THE VAULT CAN MEASURE**
+Source: Jake's update, 2026-08-25 — joint executive briefing reported; **investment status UNCHANGED:
+no confirmed amount, no closed round, no licence/hire agreement, no filing; the >$30B valuation
+remains discussion-stage.** ✅ **The update's own rung discipline is right and is adopted.**
+
+#### THESIS (interpretation — NOT fact)
+- **⭐⭐⭐ FIRST TICK ON THE REGISTERED TEST (`8/23 ~9:20pm`, "Nemotron's share of Perplexity's
+  15-model mix"): Nemotron is being installed at the LOCAL tier — the default-cheap tier — with the
+  frontier cloud as the user-approved fallback.** ⇒ **The steering channel is PRODUCT ARCHITECTURE,
+  not board control: make Nemotron the zero-marginal-cost option and mix share follows without
+  anyone directing it.** ⇒ **⛔ The neutrality-exception thesis needs its caveat promoted: the
+  erosion began BEFORE the equity, which means watching the equity close is watching the wrong
+  event.** *(Analysis.)*
+- **★★★★★★ THIS IS THE SANDWICH STRATEGY AT ITS LOGICAL END-STATE: TOKENS GENERATED ON NVDA SILICON
+  WITH THE MODEL-LAYER REVENUE AT LITERALLY ZERO.** Local work bills nobody — no API, no credits, no
+  gateway. **The hardware is sold once, up front, at retail margin; the model layer's take on that
+  work is $0.** ⇒ **"NVDA needs the world's token generation to happen on its silicon" now extends
+  to the EDGE, in shipped product.** *(Analysis.)*
+- **★★★★★ AND IT ANSWERS "HOW IS THE MONEY ACTUALLY GOING TO BE MADE" FOR A ROUTER, IN THE UGLIEST
+  POSSIBLE WAY FOR THE METERED MODEL: PUSH THE SERVING COST ONTO THE CUSTOMER'S CAPEX.** Perplexity's
+  COGS is tokens (the 60%-margin caveat); local execution moves the gopher-tier serving bill onto
+  the user's own GPU — improving Perplexity's unit economics by NOT serving the traffic — and
+  reduces its CoreWeave dependence. ⇒ **Jake's token-arbitrage architecture (cheap local gophers,
+  user-approved frontier escalation) SHIPPED AS A PRODUCT, three days after he described it.**
+  *(Analysis.)*
+- **⛔⛔ MEASUREMENT BLINDNESS, INSTANCE #3: local inference is invisible to Vercel, OpenRouter, Ramp
+  AND Perplexity's own books.** The vault's token instruments watched the metered rail (instance 1:
+  Max-plan bundling; instance 2: subscription migration). **Edge execution is a third rail-exit, and
+  this one leaves NO counterparty record at all.** ⇒ **Every "token volume" series the vault tracks
+  is now a floor, not a level.** *(Analysis.)*
+- **⭐ AND THE SPEC LINE WORTH KEEPING FOR THE MEMORY THREAD: THE PRACTICAL MINIMUM IS STATED IN
+  VRAM — 24 GB — NOT IN FLOPs.** Memory as the gating spec again, this time at the EDGE. ⇒ **A
+  cross-current for MU: edge content per unit RISES (agent PCs need big VRAM) while Rubin Ultra cuts
+  DC content per GPU. Same shortage, opposite content responses by tier.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE TEST, UPGRADED: not "Nemotron's share of the mix" but "WHAT IS THE DEFAULT LOCAL
+   MODEL AT FIRST RUN?"** Defaults decide share. ⬜ Unknown at launch.
+2. 🚩🚩 **DGX Spark / RTX-workstation sell-through attributable to agent workloads** — the hardware
+   leg of the loop. ⬜ No instrument.
+3. 🚩 **Deal status unchanged and carried: no amount, no close, no filing.**
+**Links:** [[metered-compute]] · [[memory-regime-question]] · [[ai-financing-fragility]] · [[ai-capex-cycle]]
