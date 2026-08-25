@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **224 dated entries across 6 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-24 18:52 PDT**
+> **224 dated entries across 6 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-24 18:56 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before

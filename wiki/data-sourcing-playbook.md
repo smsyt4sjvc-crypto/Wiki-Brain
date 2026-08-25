@@ -725,3 +725,80 @@ it never saw.** ⇒ **Extraction arbitrages; judgment does not.**
 2. 🚩 **IF v1 SURVIVES, THE SAME BLOCK BECOMES THE STANDING PREAMBLE for every offloaded retrieval**
    (rule 19 Tier-1). ⬜ Not yet standing — one trial first.
 **Links:** [[metered-compute]] · [[_calibration]] · [[ai-infra-allocation-map]]
+
+## 2026-08-24 ~7:45pm PDT — ✅✅✅ **GOPHER BRIEF v1 GRADED AGAINST THE REGRESSION SUITE FIRST, AS REGISTERED — AND IT PASSES ALL THREE, PLUS TWO IT WAS NOT ASKED FOR.** ★★★★★ **THE VALUE CAME FROM THE `NOT FOUND`s, NOT THE FINDS: nobody — CRWV, NBIS, IREN, ORCL — DISCLOSES CAPEX/MW OR COST-PER-GPU, AND ORACLE DISCLOSES NOTHING AT ALL, SIX FOR SIX**
+Source: gopher return on asks 1-3 (DELL · neocloud $/MW · Taiwan operational), 2026-08-24.
+**⟲ EXTENDS the v1 brief filed ~2:00am and closes its registered item #1.**
+
+#### ✅ THE GRADE — run BEFORE reading for content, which was the whole point
+| failure it was built against | result |
+|---|---|
+| **1. RBN's publication date read as a data date** | ✅ **PASSED, better than asked.** Two dates on every item, and on IREN it split THREE — SEC filing date, SEC acceptance date, and the 2026-05-07 data date — then flagged *"1,210 MW: 2027 target, exact 2027 date unknown."* |
+| **2. an object not in the source text** | ✅ **PASSED.** Everything quoted. **And the sharpest moment in the return: *"ENERGIZED MW — NOT FOUND. Source uses 'active power'; it does not use 'energized' for the 1.5 GW figure."*** ⇒ **It refused to map MY vocabulary onto the source's.** |
+| **3. interpretation / sign inverted** | ✅ **PASSED.** Zero "suggests," zero bullish/bearish, no reading offered anywhere. |
+| *(unasked)* rung discrimination | ✅ **It separated CONFIRMED-BY-COMPANY / IN-A-FILING / ANNOUNCED / REPORTED–STATEMENT ONLY, and flagged the IREN exhibit as "furnished rather than deemed filed under Section 18" — a real securities-law distinction that changes liability.** |
+| *(unasked)* origin vs relay | ✅ **"origin: CoreWeave Q2 2026 earnings call; transcript relay: EarningsCall.ai"** and the same for the TSMC/Reuters statement. |
+⇒ **★★★ v1 SURVIVES. Promote the constraint block to the standing Tier-1 preamble (registered item #2, now closable).**
+
+#### ★★★★★★ THE FINDING IS THE ABSENCE — and a summariser would have buried it
+- **CAPEX PER MW: NOT FOUND at CoreWeave, Nebius, IREN and Oracle. COST PER GPU DEPLOYED: NOT FOUND
+  at all four.** ⇒ **The metric the 8/23 scan reasoned from — "higher AI-server costs raise the dollar
+  cost of every incremental MW" — IS NOT DISCLOSED BY ANYONE.** ⇒ **⛔ That read was not wrong; it was
+  UNVERIFIABLE, and now the vault knows which.**
+- **⭐⭐ ORACLE RETURNED SIX `NOT FOUND`s — capex/MW, cost/GPU, contracted MW, under-construction MW,
+  energized MW, committed capex.** ⇒ **The only one of the four that discloses NOTHING about capacity
+  — while carrying the second-widest CDS in tonight's ICE panel at 226.3bp.** ⇒ **★★★ A company
+  borrowing heavily to build AI capacity and publishing no capacity metric is itself the datum.**
+
+#### ⭐⭐ DATA — AND THE ONE NUMBER THE VAULT HAS BEEN ASKING FOR ALL ALONG
+- **COREWEAVE, from its own Q2 call: contracted power 3.7 GW at 2026-06-30, 4.2 GW at 2026-08-11 ·
+  ACTIVE power 1.5 GW at 2026-06-30.**
+  ⇒ **★★★★★★ ACTIVE ÷ CONTRACTED = 40.5% at quarter-end and 35.7% by 11 August. A GAP OF 2.7 GW.**
+  ⇒ **THAT IS `ANNOUNCED ≠ PERMITTED ≠ ENERGIZED` WITH AN ACTUAL NUMBER, FROM A COMPANY'S OWN
+  DISCLOSURE — and the vault has been asserting the rule for months without one.**
+  ⚠️ **And the ratio is DETERIORATING: contracted added 0.5 GW after quarter-end with no stated active
+  addition.**
+- **✅ AND NEBIUS PUBLISHED THE VOCABULARY, IN A FILING: *"(1) contracted power… (2) connected power,
+  or power connected into fully built and equipped data centers; (3) active power, or power being
+  consumed by installed, operational IT equipment and available for revenue generation."*** ⇒ **A
+  THREE-stage ladder, not two. The vault's own rule has been missing the middle rung.**
+  **NBIS: >3.5 GW contracted, >75% owned (2026-05-13); 5 GW contracted targeted at YE2026, raised from
+  >4 GW.** **IREN: 730 MW under construction; 1,210 MW a 2027 target; $3.1B ARR under contract of
+  which ~$700M relates to a $3.4B five-year NVIDIA Blackwell contract across 60 MW at Childress.**
+- **DELL, Q1 FY2027 (quarter ended 2026-05-01): orders $24.4B · revenue $16.1B · backlog $51.3B.**
+  ⇒ **book-to-bill 1.52× · backlog cover 3.19 quarters.** **Clarke: *"we're repricing, it feels like
+  every day"* and *"an inflationary environment… whether that's DRAM, whether that's NAND, CPUs…
+  changing at a rate that, obviously, we've never seen before."*** **10-Q: increased component
+  purchases, *"increased inventory levels, higher purchase obligations, and new working capital
+  dynamics."***
+  ⇒ **⛔ AI-SERVER GROSS MARGIN AND ASPs: NOT FOUND — which answers the scan's margin question by
+  telling us it is not answerable from disclosure.**
+  ⚠️⚠️ **AND THE DATE RULE EARNS ITS KEEP HERE: the data date is 2026-05-01, 115 DAYS STALE. Dell's
+  "repricing every day" PRE-DATES the August memory spike the 8/23 scan was about.** ⇒ **Without the
+  two-date rule this would have read as commentary on the current shortage. It is not.**
+- **TSMC: NT$416.98B (May) → 442.68B (Jun) → 467.58B (Jul); y/y +30.1% → +67.9% → +44.7%.
+  FY2026 capex raised to $60-64B, 70-80% advanced process, 10-20% advanced packaging/test/mask.**
+  ⚠️ **THE y/y PATH IS NOT ACCELERATION — June's +67.9% is a BASE EFFECT.** **Implied 2025 bases:
+  Jun 263.7 vs May 320.5 and Jul 323.1** ⇒ **June 2025 was the weak month; sequential m/m is a steady
+  +6.2% then +5.6%.** ⇒ **⛔ Quoting "+67.9% y/y" as momentum would be the eighth denominator artefact
+  of this run.**
+- **✅ TAIWAN OPERATIONAL DISRUPTION: NOT FOUND. EXPORT-CONTROL RULE CHANGE: NOT FOUND. OVERSEAS
+  CAPACITY SHARE: NOT FOUND.** **The only disruption found is JASM/KUMAMOTO, JAPAN — post-earthquake,
+  "operations are gradually resuming," and correctly labelled REPORTED–STATEMENT ONLY with no
+  wafer-loss quantity.** ⇒ **★★★ THE 8/23 SCAN'S READ IS CONFIRMED BY MEASUREMENT: Taiwan exposure is
+  HEADLINE, NOT OPERATIONAL — and TSMC revenue compounding +6.2%/+5.6% m/m is the opposite of
+  disruption.**
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED — "grade v1 against the suite."** Passed 3/3 plus two unasked.
+2. ✅ **CLOSED — promote the constraint block to the standing Tier-1 preamble.** **It is now the
+   default for every offloaded retrieval.**
+3. 🚩🚩🚩 **ADOPT NEBIUS'S THREE-STAGE POWER VOCABULARY — CONTRACTED / CONNECTED / ACTIVE — ACROSS THE
+   VAULT.** **The `ANNOUNCED ≠ PERMITTED ≠ ENERGIZED` rule has been running on two rungs and the
+   industry uses three.** ⬜ Not yet applied to `buildout-bottleneck-map` or `power-scarcity-equities`.
+4. 🚩🚩 **CRWV ACTIVE/CONTRACTED, TRACKED QUARTERLY — 40.5% → 35.7% and deteriorating.** **This is the
+   single best public proxy for the gap between the announced buildout and the energised one, and it
+   pairs with CRWV's 817.3bp CDS as the same company's two tells.**
+5. 🚩 **ORACLE DISCLOSES NO CAPACITY METRIC.** ⬜ **Registered as an absence to re-test each quarter —
+   if ORCL starts disclosing MW, that is itself news.**
+**Links:** [[buildout-bottleneck-map]] · [[power-scarcity-equities]] · [[hyperscaler-credit]] · [[ai-capex-cycle]] · [[metered-compute]]
