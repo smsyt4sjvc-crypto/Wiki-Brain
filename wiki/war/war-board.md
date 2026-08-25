@@ -2668,6 +2668,7 @@ the highest MEASURED class this board has had on the strait.**
   products tanker, 5 Aug, off Yanbu) = THE 8TH SAUDI-LINKED TANKER HIT SINCE THE BLOCKADE BEGAN.**
   **ADNOC-linked vessel (8 Aug, Hormuz) = IRAN'S 16TH STRIKE ON ADNOC SHIPPING.** **TIHAMAH (11 Aug, Bab
   el-Mandeb): THREE CREW KILLED** — Houthis claim military cargo, Yemen's government says food.
+    ⟲ SUPERSEDED 2026-08-25 → war-board.md:L3496 — TIHAMAH toll STALE: final reporting is 4 crew + 2 rescuers = 6 dead, 10 wounded, with a reported second strike during rescue -- not 3 killed
 - **⚠️ TIMELINE CONFLICT, THREE SOURCES, THREE ANSWERS: Windward's counter reads "BLOCKADE · 123D 19H" and
   its chart marks "Blockade (13 Apr)" as a single continuous event. Wikipedia has the US blockade running
   "April 13 – May 29." The vault has it "REIMPOSED 7/14" (`:L1169`, `:L1803`).** ⬜ **Unresolved. Windward is
@@ -3494,6 +3495,7 @@ extracted Tier-0) → `raw/2026-08-25-windward/windward-daily.txt`. ⚠️ Sourc
   dark (63% prior) · a CONFIRMED Houthi-blockade breach at Bab el-Mandeb (Duba→Krishnapatnam, no
   China/Pakistan link) plus a possible Hormuz-breaker inbound from Imam Khomeini toward Suez · one
   outbound dark hull trailing a 74km OIL SPILL WHILE UNDERWAY** ⚠️ *(the prior spill was a STATIONARY
+    ⟲ SUPERSEDES war-board.md:L2670 — TIHAMAH toll STALE: final reporting is 4 crew + 2 rescuers = 6 dead, 10 wounded, with a reported second strike during rescue -- not 3 killed
   VLCC's 118km slick in the SE waiting area — possibly related, ⬜ not established; do not conflate).*
 - **⛔ DATA-QUALITY CATCH — STALE PANELS: the GPS-jamming block (90 jammed · −65.8% · cumulative
   74,656 / 2,989,189) and the Red Sea fleet block (545, identical composition) are VERBATIM UNCHANGED
@@ -3528,3 +3530,63 @@ extracted Tier-0) → `raw/2026-08-25-windward/windward-daily.txt`. ⚠️ Sourc
 4. 🚩 **THE 74km UNDERWAY SPILL vs the 118km STATIONARY slick — same event or second event?**
    ⬜ Unresolved; an insurer/IMO response to either remains the watch.
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[war/war-confirmed]] · [[market-fragility]]
+
+### 2026-08-24 ~10:30pm PDT — ✅⭐⭐⭐ **THE GOPHER'S VERIFIED ATTACK RANKING RECONCILES THE BOARD'S LEDGER — AND THE HEADLINE IS THE UNDERCOUNT: IMO's OFFICIAL TALLY IS 68 CONFIRMED INCIDENTS AND 19 SEAFARER DEATHS (as of 8/21), WHILE THIS BOARD'S ITEMISED LEDGER ACCOUNTS FOR ~8.** ⛔ **THREE INCIDENTS WERE MISSING ENTIRELY — RIYAN STAR (Hormuz, 1 KILLED, 8/15) · AL WATAN (ADNOC-owned, ~8/14-15) · AMZAN (Bahri VLCC, TODAY, 63nm W of YANBU) — and TIHAMAH's toll was STALE: not 3 dead but 4 crew + 2 RESCUERS = 6, ten wounded, with a reported DOUBLE-TAP DURING RESCUE**
+Source: Jake's chat-gopher return, 2026-08-24 — a 13-incident verification ranking citing IMO, UKMTO,
+USNI, Bahri and maritime-security reporting, plus three additions and the IMO aggregate.
+⚠️ **The RANKS and "escalation reads" are the gopher's ANALYSIS layer — filed as REPORTED analysis,
+not adopted as vault scores. The FACTS below are what the board takes, each at the rung the return
+itself assigns.** ✅ **Gopher discipline check: it flagged NCC WAFA as NOT independently confirmed and
+DAISY's claimed hit as unverified — converging with Windward's own flags from two independent
+verification chains. That convergence upgrades BOTH sources.**
+
+#### ⛔ CORRECTIONS TO THE BOARD'S LEDGER, EACH AGAINST ITS PRIOR
+1. **TIHAMAH (8/11, Bab el-Mandeb): the board holds "THREE CREW KILLED" (`:L2670`, from the Windward
+   panel — now stale). FINAL: 4 crew + 2 YEMENI RESCUERS = 6 DEAD, 10 WOUNDED, Houthis claiming, with
+   reporting of a SECOND STRIKE DURING RESCUE OPERATIONS.** ⇒ **A double-tap against rescuers is a
+   lethality-doctrine escalation the board's version did not carry.**
+2. **MINOAN PIONEER: UKMTO time 8/3 22:00 UTC (not 8/4) and ONE SEAFARER MISSING — the board's
+   Windward version had "identity/damage status not officially released." IMO confirms.**
+3. **AMARA timeline refined: interception began ~8/17; the seizure assessment solidified 8/19-20;
+   still stationary near Larak on 8/24.** Board held "SEIZED 20 Aug" — consistent, now sharper.
+4. **KAIFAN (Kuwaiti tanker, IMO date 7/20): damaged, ABANDONED, two injured — ⬜ NOT IN THIS VAULT
+   AT ALL.** ⇒ **Broadens the target set to Kuwait; the board's nationality map was UAE/Saudi-heavy.**
+
+#### ⭐ THE THREE MISSING INCIDENTS, NOW FILED
+- **RIYAN STAR (8/15, Hormuz): IMO-confirmed damage, ONE SEAFARER KILLED; USNI identifies it as
+  another Iranian attack.** ⇒ **⛔ THE BOARD BELIEVED MINOAN DIGNITY (8/18) WAS THE FATAL HORMUZ
+  ESCALATION. THERE WERE TWO FATAL HORMUZ INCIDENTS IN FOUR DAYS — and the Windward dailies the board
+  relies on never surfaced Riyan Star.** ⇒ **The single-vendor dependency, demonstrated with a body.**
+- **AL WATAN (~8/14-15): ADNOC-OWNED, IMO-confirmed damage.** ⇒ **The ADNOC set is now Navig8 Messi +
+  Tarifa + Al Watan inside ~48 hours, plus the 8/8 vessel — SYSTEMATIC SELECTION of one state oil
+  company's logistics, not exposure by accident.**
+- **AMZAN (TODAY, 8/24): Bahri VLCC struck ~63nm W of YANBU (UKMTO projectile report; Houthi
+  ballistic-missile claim; BAHRI CONFIRMS its vessel; fire reported, crew safe).** ⇒ **★★★ THE
+  YANBU CORRIDOR AGAIN — the board's registered Petroline/Yanbu watch (`war-confirmed` has Yanbu's
+  port DARK since 7/27, NCC WAFA off Yanbu 8/5).** ⇒ **A CRUDE VLCC hit on the BYPASS route is the
+  crude-leg branch of the 8/23 crack analysis firing: the alternative export corridor is being
+  enforced against, which is what the Rezaee act-of-war doctrine looks like operationally — and it
+  is crack-supportive on the crude leg.** *(Analysis on the last clause.)*
+
+#### ⛔⛔ THE AGGREGATE, WHICH IS THE REAL FINDING
+- **IMO OFFICIAL (as of 8/21): 68 CONFIRMED MIDDLE EAST MARITIME INCIDENTS · 19 SEAFARER DEATHS.**
+- **The board's itemised ledger accounts for ~8 deaths (Minoan Dignity 1 · Tihamah now 6 · Riyan
+  Star 1) and the Windward Active-Threat-Zone panel shows 64 incidents in a NARROWER zone.**
+- ⇒ **★★★★★ THE BOARD HAS BEEN TRACKING THE CAMPAIGN THROUGH ONE VENDOR'S ZONE-FILTERED PANEL AND
+  UNDERCOUNTING FATALITIES BY ~60%.** ⇒ **IMO's official series is the aggregate instrument; the
+  Windward dailies are the per-incident detail. Both, not either.** *(Analysis.)*
+- **⭐ AND THE GOPHER'S TOP-RANK LOGIC INDEPENDENTLY REDERIVES THE BOARD'S TOLL-GATE THESIS: it ranks
+  AMARA #1 because a seizure is "attempted ADMINISTRATIVE CONTROL of Hormuz" — physically enforcing
+  a transit/authorization/FEE regime.** ⇒ **Two origins (this board 8/13, the gopher's IMO/AIS chain
+  8/24), one conclusion. The toll-gate thesis is now corroborated ✦.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **ADD THE IMO OFFICIAL INCIDENT/FATALITY SERIES AS THE AGGREGATE INSTRUMENT** — 68/19 as of
+   8/21 is the baseline row. ⬜ Source route not yet established (GISIS?).
+2. 🚩🚩 **AMZAN FOLLOW-THROUGH: Petroline loadings and Yanbu port status this week.** A VLCC hit on
+   the bypass while Hormuz runs at ~11% is the two-corridor squeeze in one frame.
+3. 🚩🚩 **THE ADNOC SET (4 vessels) vs any UAE response** — the act-of-war clause's named addressee
+   keeps absorbing hits without a stated response. ⬜ What is Abu Dhabi's threshold?
+4. 🚩 **KAIFAN and RIYAN STAR primary records** (IMO entries) — filed here from the gopher's citation,
+   ⬜ not yet independently pulled.
+**Links:** [[war/war-confirmed]] · [[oil-value-chain]] · [[demand-destruction]] · [[market-fragility]]

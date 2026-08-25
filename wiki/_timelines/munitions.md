@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **176 dated entries across 2 notes · 2026-05-22 → 2026-08-24 · refreshed 2026-08-24 21:44 PDT**
+> **177 dated entries across 2 notes · 2026-05-22 → 2026-08-24 · refreshed 2026-08-24 21:51 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -165,7 +165,7 @@
 - `2026-08-13` [war-board.md:L2122](../war/war-board.md) — 2026-08-13 ~9:15am PDT — ★★★★★ JAKE REGISTERS THE FIRST PROPER TRIGGER LIST OF THE SESSION — **and one of the three has already fired, in his own dige
 - `2026-08-13` [war-board.md:L2186](../war/war-board.md) — 2026-08-13 ~9:55am PDT — ⛔ WRONG ACTOR: **the triggers are US-SIDE.** My "already fired" objection applied his threshold to Iran. **And his reasoning 
 - `2026-08-13` [war-board.md:L2559](../war/war-board.md) — DATA (MEASURED — Windward vessel tracking, as of 2026-08-13)
-- `2026-08-14` [war-board.md:L2645](../war/war-board.md) — DATA (MEASURED — re-read of `raw/windward-daily-hormuz-2026-08-14.txt`)
+- `2026-08-14` [war-board.md:L2646](../war/war-board.md) — DATA (MEASURED — re-read of `raw/windward-daily-hormuz-2026-08-14.txt`)
 - `2026-08-15` [ai-capex-cycle.md:L2542](../ai-capex-cycle.md) — 2026-08-15 ~2:02pm PDT — ⭐⭐⭐ JAKE'S SHARED-DEPENDENCY HYPOTHESIS IS CONFIRMED WITH DISCLOSED REVENUE SHARES — and the 2000 precedent is the **same tic
 - `2026-08-15` [ai-capex-cycle.md:L2644](../ai-capex-cycle.md) — 2026-08-15 ~2:05pm PDT — ⭐⭐⭐ THE AI-ADJUSTED BREADTH REPORT: the framework is right and the best statistic in it is not a breadth measure at all — **f
 - `2026-08-15` [ai-capex-cycle.md:L2740](../ai-capex-cycle.md) — 2026-08-15 ~2:14pm PDT — ★★★★★★★ HE GENERALISES A MECHANISM THIS VAULT ALREADY HAS REGISTERED — **"the crowd-out loop"** — from MEMORY to ORDER BOOKS,
@@ -177,24 +177,25 @@
 - `2026-08-15` [war-board.md:L2452](../war/war-board.md) — 2026-08-15 ~1:58am PDT — ⛔ JAKE READ THE HALF OF BESSENT'S SENTENCE I SKIPPED — **"anything from going IN or out"** — and it DISSOLVES the contradicti
 - `2026-08-15` [war-board.md:L2496](../war/war-board.md) — 2026-08-15 ~2:05am PDT — ★★★★★ JAKE'S THREE ALTERNATIVES ARE ALL **EXPORT-SIDE**, WHICH RE-OPENS THE CONTRADICTION — but the board's own data resolves
 - `2026-08-15` [war-board.md:L2552](../war/war-board.md) — 2026-08-15 ~2:08am PDT — ⭐⭐⭐ THE REGISTERED TEST IS ANSWERED WITH VESSEL-LEVEL MEASUREMENT, AND IT SETTLES THE REFINER BINARY: **Kharg's western termi
-- `2026-08-15` [war-board.md:L2641](../war/war-board.md) — 2026-08-15 ~2:15am PDT — ⛔⛔ JAKE IS RIGHT AND THE EVIDENCE WAS IN THE DOCUMENT I FILED SEVEN MINUTES AGO: **7 of the 13 tracked vessels (54%) carry a 
-- `2026-08-17` [war-board.md:L2833](../war/war-board.md) — DATA (MEASURED — Windward, data as of 2026-08-17)
-- `2026-08-18` [war-board.md:L2698](../war/war-board.md) — 2026-08-18 ~10:30am PDT — 📌 THE MoU 60-DAY CLOCK EXPIRED YESTERDAY WITH NO DEAL AND NO EXTENSION — a dated catalyst, FIRED. ⛔ **BUT "BRENT SURGES TO $
-- `2026-08-18` [war-board.md:L2819](../war/war-board.md) — 2026-08-18 ~2:00pm PDT — ✅✅✅ **THE WINDWARD LIVE DASHBOARD IS FETCHABLE — RETIRING A STANDING VAULT LIMITATION THAT HAD US RUNNING ON MARCH-VINTAGE DA
-- `2026-08-18` [war-board.md:L2875](../war/war-board.md) — 2026-08-18 ~3:00pm PDT — ⭐⭐⭐ **THE FULL WINDWARD DAILY (90-page PDF) UPDATES THE GULF FLEET SERIES LAST MEASURED 31 JULY: 791 → 971 VESSELS (+22.8%) I
+- `2026-08-15` [war-board.md:L2642](../war/war-board.md) — 2026-08-15 ~2:15am PDT — ⛔⛔ JAKE IS RIGHT AND THE EVIDENCE WAS IN THE DOCUMENT I FILED SEVEN MINUTES AGO: **7 of the 13 tracked vessels (54%) carry a 
+- `2026-08-17` [war-board.md:L2834](../war/war-board.md) — DATA (MEASURED — Windward, data as of 2026-08-17)
+- `2026-08-18` [war-board.md:L2699](../war/war-board.md) — 2026-08-18 ~10:30am PDT — 📌 THE MoU 60-DAY CLOCK EXPIRED YESTERDAY WITH NO DEAL AND NO EXTENSION — a dated catalyst, FIRED. ⛔ **BUT "BRENT SURGES TO $
+- `2026-08-18` [war-board.md:L2820](../war/war-board.md) — 2026-08-18 ~2:00pm PDT — ✅✅✅ **THE WINDWARD LIVE DASHBOARD IS FETCHABLE — RETIRING A STANDING VAULT LIMITATION THAT HAD US RUNNING ON MARCH-VINTAGE DA
+- `2026-08-18` [war-board.md:L2876](../war/war-board.md) — 2026-08-18 ~3:00pm PDT — ⭐⭐⭐ **THE FULL WINDWARD DAILY (90-page PDF) UPDATES THE GULF FLEET SERIES LAST MEASURED 31 JULY: 791 → 971 VESSELS (+22.8%) I
 - `2026-08-19` [ai-capex-cycle.md:L2915](../ai-capex-cycle.md) — 2026-08-19 ~7:03am PDT — ✅ **F1 CLOSES. THE 7/29 READ AT `:1859` WAS RIGHT AND IS NOW UNAMBIGUOUS: THE VALIDATION SUPPLIES THE PRIOR-QUARTER ANCHOR TH
 - `2026-08-19` [ai-capex-cycle.md:L2933](../ai-capex-cycle.md) — 2026-08-19 ~7:05am PDT — ⛔ **F3 DOWNGRADED, AND IT IS A REAL DE-ESCALATION: THE CXMT/YMTC "WALL" IS A BIPARTISAN *LETTER* TO APPLE PLUS AN EXISTING FE
 - `2026-08-19` [ai-capex-cycle.md:L2951](../ai-capex-cycle.md) — 2026-08-19 ~2:10pm PDT — ✅⛔⭐⭐⭐⭐⭐ **JAKE DISSOLVES MY ZIRP COUNTEREXAMPLE AND HE IS RIGHT — BUT ZIRP *DID* HAVE A DEBT-FINANCED PHYSICAL BUILDOUT, AND 
 - `2026-08-19` [ai-capex-cycle.md:L3022](../ai-capex-cycle.md) — 2026-08-19 ~2:25pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **HE IS RIGHT AND IT MAKES THE PRECEDENT *WORSE* FOR AI, NOT BETTER: SHALE HAD NO DEMAND RISK. THE PRODUCT HAD A KNOW
-- `2026-08-19` [war-board.md:L2757](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 
+- `2026-08-19` [war-board.md:L2758](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 
 - `2026-08-20` [ai-capex-cycle.md:L3082](../ai-capex-cycle.md) — 2026-08-20 ~8:40am PDT — ⛔⛔★★★★★★ **THE PORTFOLIO TAKEAWAY IS THE EXACT INVERSE OF THIS NOTE'S OWN THREE-CYCLE CONTROL, AND THE DISAGREEMENT IS THE MO
 - `2026-08-20` [ai-capex-cycle.md:L3153](../ai-capex-cycle.md) — 2026-08-20 ~8:55am PDT — ⛔⛔⭐⭐⭐⭐⭐ **THE MRVL "$12.2 BILLION" IS THE EXERCISE *COST*, NOT VALUE — intrinsic is ~$2.28B. And the vault's OWN ARCHIVED FIL
 - `2026-08-20` [ai-capex-cycle.md:L3210](../ai-capex-cycle.md) — 2026-08-20 ~9:15am PDT — ✅⭐⭐⭐⭐⭐ **JAKE IS RIGHT: THE VAULT CALLED THIS ON 2026-07-05 AND CALLED IT *BIPARTISAN* EXPLICITLY (`:L441`). ⇒ THE NRSC MEMO 
 - `2026-08-20` [ai-capex-cycle.md:L3299](../ai-capex-cycle.md) — 2026-08-20 ~10:05am PDT — ⛔⛔⛔ **MY OWN CONTRA-REVENUE SIZING FROM YESTERDAY WAS WRONG BY ~12× AND THE CONCLUSION FLIPS: the real tranche count is 240,
 - `2026-08-22` [ai-capex-cycle.md:L3379](../ai-capex-cycle.md) — 2026-08-22 ~9:00am PDT — **ON/SYNAPTICS S-4: THE HEADLINE IS 12% DILUTION, BUT THE NUMBER THE FILING ACTUALLY DISCLOSES IS THAT *ON'S OWN STOCK FELL 3
-- `2026-08-23` [war-board.md:L2941](../war/war-board.md) — 2026-08-23 ~7:20am PDT — ✅✅✅ **THE HORMUZ TRAFFIC FLAG (`:L2897`, open since 8/19) IS CLOSED: EVERY VESSEL-COUNT SERIES RECONCILES ONCE THE ~140/DAY B
-- `2026-08-23` [war-board.md:L3096](../war/war-board.md) — 2026-08-23 ~8:40am PDT — ⛔⛔ **"IRAN RAISED THE POSSIBILITY OF TARGETING ALTERNATIVE GULF OIL ROUTES" IS NOT A NEW THREAT — IT IS A THREAT TO REPEAT SO
-- `2026-08-23` [war-board.md:L3156](../war/war-board.md) — 2026-08-23 ~4:45pm PDT — ✅ **THE PRIMARY LANDS EIGHT HOURS AFTER I REGISTERED IT AND IT CLOSES FLAG `:L3231` #3 — AND THE PARAPHRASE WAS WEAKER THAN T
-- `2026-08-23` [war-board.md:L3217](../war/war-board.md) — 2026-08-23 ~9:50pm PDT — 🕳️🕳️ **MAP GAP #20, AND IT IS THE MOST IMPORTANT ONE THIS BOARD HAS OPENED: 131 DAYS OF BLOCKADE TRACKED ENTIRELY FROM THE OU
-- `2026-08-23` [war-board.md:L3288](../war/war-board.md) — 2026-08-23 ~10:20pm PDT — ⛔⛔⛔ **I HAD THE DIRECTION EXACTLY BACKWARDS AND THE TELL WAS IN THE ATTRIBUTION I ALREADY HAD. GHALIBAF IS MOCKING *TRUMP*. 
-- `2026-08-24` [war-board.md:L3381](../war/war-board.md) — 2026-08-24 ~9:55pm PDT — ✅✅ **THE NEXT WINDWARD DAILY (data as of 23 AUG) SETTLES BOTH FLAGS FROM 8/23 IN ONE PRINT: (#3) THE "34" WAS ALMOST CERTAINL
+- `2026-08-23` [war-board.md:L2942](../war/war-board.md) — 2026-08-23 ~7:20am PDT — ✅✅✅ **THE HORMUZ TRAFFIC FLAG (`:L2897`, open since 8/19) IS CLOSED: EVERY VESSEL-COUNT SERIES RECONCILES ONCE THE ~140/DAY B
+- `2026-08-23` [war-board.md:L3097](../war/war-board.md) — 2026-08-23 ~8:40am PDT — ⛔⛔ **"IRAN RAISED THE POSSIBILITY OF TARGETING ALTERNATIVE GULF OIL ROUTES" IS NOT A NEW THREAT — IT IS A THREAT TO REPEAT SO
+- `2026-08-23` [war-board.md:L3157](../war/war-board.md) — 2026-08-23 ~4:45pm PDT — ✅ **THE PRIMARY LANDS EIGHT HOURS AFTER I REGISTERED IT AND IT CLOSES FLAG `:L3231` #3 — AND THE PARAPHRASE WAS WEAKER THAN T
+- `2026-08-23` [war-board.md:L3218](../war/war-board.md) — 2026-08-23 ~9:50pm PDT — 🕳️🕳️ **MAP GAP #20, AND IT IS THE MOST IMPORTANT ONE THIS BOARD HAS OPENED: 131 DAYS OF BLOCKADE TRACKED ENTIRELY FROM THE OU
+- `2026-08-23` [war-board.md:L3289](../war/war-board.md) — 2026-08-23 ~10:20pm PDT — ⛔⛔⛔ **I HAD THE DIRECTION EXACTLY BACKWARDS AND THE TELL WAS IN THE ATTRIBUTION I ALREADY HAD. GHALIBAF IS MOCKING *TRUMP*. 
+- `2026-08-24` [war-board.md:L3382](../war/war-board.md) — 2026-08-24 ~9:55pm PDT — ✅✅ **THE NEXT WINDWARD DAILY (data as of 23 AUG) SETTLES BOTH FLAGS FROM 8/23 IN ONE PRINT: (#3) THE "34" WAS ALMOST CERTAINL
+- `2026-08-24` [war-board.md:L3453](../war/war-board.md) — 2026-08-24 ~10:30pm PDT — ✅⭐⭐⭐ **THE GOPHER'S VERIFIED ATTACK RANKING RECONCILES THE BOARD'S LEDGER — AND THE HEADLINE IS THE UNDERCOUNT: IMO's OFFICI
