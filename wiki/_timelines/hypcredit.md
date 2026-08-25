@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **213 dated entries across 3 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-24 21:56 PDT**
+> **214 dated entries across 3 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-24 22:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -232,6 +232,7 @@
 - `2026-08-23` [ai-financing-fragility.md:L7031](../ai-financing-fragility.md) — 2026-08-23 ~4:55pm PDT — 🚩🚩🚩 **A CLAIM THAT WOULD RE-EXPLAIN THE WHOLE AI EQUITY MOVE, REGISTERED AND NOT ENDORSED: "THE CHIP/MEMORY TRADE PEAKED THE 
 - `2026-08-23` [ai-financing-fragility.md:L7092](../ai-financing-fragility.md) — 2026-08-23 ~5:40pm PDT — ⛔⛔⛔ **THE CHART ARRIVES LEGIBLE AND IT FALSIFIES ITS OWN CAPTION AT BOTH ENDS.** ★★★★★★ **PHASE 1 (Mar 25 → mid-May): FUNDING
 - `2026-08-23` [rates-board.md:L935](../rates-board.md) — 2026-08-23 ~4:35pm PDT — ✅✅✅ **TCHIR'S HEADLINE VERIFIED AGAINST THE PRIMARY AND IT IS EXACT: THE FED OWNS 52.5% OF EVERYTHING MATURING 2036-2041.** ⛔
+- `2026-08-24` [ai-financing-fragility.md:L7164](../ai-financing-fragility.md) — 2026-08-24 ~11:20pm PDT — 🕳️ **JAKE ASKS THE POLICY-PUT QUESTION AND THE VAULT HAS NO ENTRY FOR IT: WHAT IF TREASURY/THE FED PAID AN SPV TO LEVER CORP
 - `2026-08-24` [hyperscaler-credit.md:L517](../hyperscaler-credit.md) — DATA — THE FULL PANEL THE TWO-NAME CHART CANNOT SHOW (ICE, clearing 2026-08-24)
 - `2026-08-24` [rates-board.md:L1025](../rates-board.md) — 2026-08-24 ~12:15am PDT — ⛔⛔⛔ **THE TGA REVELATION BREAKS THIS BOARD'S OWN LOAD-BEARING CONCLUSION, WRITTEN 8/19 AT `:L223`: *"TREASURY BUYBACKS ARE C
 - `2026-08-25` [hyperscaler-credit.md:L497](../hyperscaler-credit.md) — 2026-08-25 ~01:50 UTC (2026-08-24 ~6:50pm PDT) — ✅✅✅ **JAKE'S OWN TEST, RUN AGAINST THE INSTRUMENT INSTEAD OF ASSERTED — AND IT IS SATISFIED ON ALL FO

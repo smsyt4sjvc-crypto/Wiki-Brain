@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **419 dated entries across 4 notes · 2026-05-22 → 2026-08-23 · refreshed 2026-08-24 21:56 PDT**
+> **420 dated entries across 4 notes · 2026-05-22 → 2026-08-24 · refreshed 2026-08-24 22:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -441,3 +441,4 @@
 - `2026-08-23` [metered-compute.md:L2709](../metered-compute.md) — 2026-08-23 ~7:45pm PDT — ★★★★★★ **JAKE SPECIFIES THE ARBITRAGE, AND IT FUSES THREE THINGS THIS VAULT HAS HELD SEPARATELY SINCE JULY: the 7/25 "moat mi
 - `2026-08-23` [metered-compute.md:L2812](../metered-compute.md) — 2026-08-23 ~8:30pm PDT — ✅✅✅ **THE PROFILING RUN IS DONE AND IT CLOSES THE SERIES `:L2265` HAS CARRIED AS "THE SINGLE MOST VALUABLE MISSING" SINCE 8/1
 - `2026-08-23` [metered-compute.md:L2907](../metered-compute.md) — 2026-08-23 ~8:55pm PDT — ⛔⛔ **"READING PDFs AND VERIFYING." HE NAMED IT IN FOUR WORDS AND THE RE-CUT SAYS 65.3%.** ★★★★★★ **MY 8:30pm BUCKETING HID TH
+- `2026-08-24` [ai-financing-fragility.md:L7164](../ai-financing-fragility.md) — 2026-08-24 ~11:20pm PDT — 🕳️ **JAKE ASKS THE POLICY-PUT QUESTION AND THE VAULT HAS NO ENTRY FOR IT: WHAT IF TREASURY/THE FED PAID AN SPV TO LEVER CORP

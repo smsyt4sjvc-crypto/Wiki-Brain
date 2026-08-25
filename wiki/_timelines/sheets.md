@@ -1,6 +1,6 @@
 # ⏱ SHEETS — merged timeline (the gate)
 
-> **180 dated entries across 2 notes · 2026-05-22 → 2026-08-23 · refreshed 2026-08-24 21:56 PDT**
+> **181 dated entries across 2 notes · 2026-05-22 → 2026-08-24 · refreshed 2026-08-24 22:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -202,3 +202,4 @@
 - `2026-08-22` [ai-financing-fragility.md:L6971](../ai-financing-fragility.md) — 2026-08-22 ~1:35pm PDT — ⛔ **POOLSIDE IS A MAP GAP, AND THE REASON MATTERS: NVDA ANNOUNCED A $1B INVESTMENT IN IT AT A $12B VALUATION IN *OCTOBER 2025
 - `2026-08-23` [ai-financing-fragility.md:L7031](../ai-financing-fragility.md) — 2026-08-23 ~4:55pm PDT — 🚩🚩🚩 **A CLAIM THAT WOULD RE-EXPLAIN THE WHOLE AI EQUITY MOVE, REGISTERED AND NOT ENDORSED: "THE CHIP/MEMORY TRADE PEAKED THE 
 - `2026-08-23` [ai-financing-fragility.md:L7092](../ai-financing-fragility.md) — 2026-08-23 ~5:40pm PDT — ⛔⛔⛔ **THE CHART ARRIVES LEGIBLE AND IT FALSIFIES ITS OWN CAPTION AT BOTH ENDS.** ★★★★★★ **PHASE 1 (Mar 25 → mid-May): FUNDING
+- `2026-08-24` [ai-financing-fragility.md:L7164](../ai-financing-fragility.md) — 2026-08-24 ~11:20pm PDT — 🕳️ **JAKE ASKS THE POLICY-PUT QUESTION AND THE VAULT HAS NO ENTRY FOR IT: WHAT IF TREASURY/THE FED PAID AN SPV TO LEVER CORP

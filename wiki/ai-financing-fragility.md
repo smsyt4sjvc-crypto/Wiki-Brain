@@ -7341,3 +7341,66 @@ the right-hand edge as "now."**
    **June is exactly where phase 2 tops, so a real June call would be well-timed and gradeable — and
    that would be the strongest thing in this claim's favour.**
 **Links:** [[memory-regime-question]] · [[concentration]] · [[market-fragility]] · [[fragility-engine]]
+
+### 2026-08-24 ~11:20pm PDT — 🕳️ **JAKE ASKS THE POLICY-PUT QUESTION AND THE VAULT HAS NO ENTRY FOR IT: WHAT IF TREASURY/THE FED PAID AN SPV TO LEVER CORPORATE BONDS AND CAP YIELDS?** ★★★★★★ **THAT IS NOT A HYPOTHETICAL — IT IS THE 2020 TEMPLATE (SMCCF/PMCCF: Treasury equity + Fed 13(3) leverage ~10:1), AND ITS DEFINING FACT IS THAT THE *ANNOUNCEMENT* DID THE WORK: IG spreads collapsed from ~370bp BEFORE the facility bought a bond, and peak holdings ran ~$14B against $750B of capacity — the put worked at ~2% utilisation.** ⛔ **AND THE ELIGIBILITY LINE IS THE TRADE-RELEVANT PART: THE 2020 FACILITY BOUGHT IG AND FALLEN ANGELS, NOT CCC — THE PUT PROTECTS EXACTLY THE LADDER STAGES THAT ARE CALM AND DOES NOT PROTECT STAGE 1, WHERE THE STRESS IS**
+Source: Jake's question, 2026-08-24 (voice-garbled; read as: *"What if the Treasury and the Fed paid
+a special purpose vehicle to lever corporate bonds to bring yields down — now that credit fragility
+is escalated — and what does that do to Treasuries?"*). ⚠️ **The 2020 figures below are from
+recollection of the public record — ⬜ not re-pulled from Fed H.4.1/facility reports. Magnitudes
+right, decimals unverified.**
+
+#### DATA (the 2020 template, the precedent that answers the question)
+- **STRUCTURE: Treasury pays EQUITY into an SPV (CARES Act ESF money, $454B backstop authority);
+  the Fed LENDS to the SPV under Section 13(3) at ~10:1; the SPV buys corporate bonds and ETFs
+  (SMCCF secondary / PMCCF primary).** **Announced 2020-03-23; expanded April 9.**
+- **THE ANNOUNCEMENT EFFECT IS THE WHOLE LESSON: IG OAS peaked ~370-400bp in March 2020 and had
+  roughly halved before the SPV settled its first purchase (June for bonds). Peak bond+ETF holdings
+  ~$14B vs $750B capacity ⇒ ~2% used.** **A credible levered buyer changes the price without buying.**
+- **THE LEGAL GATE: 13(3) requires "unusual and exigent circumstances," a BROAD-BASED facility,
+  Fed Board approval AND Treasury Secretary approval (Dodd-Frank); no single-firm rescues.**
+  ⇒ **Treasury cannot lever without the Fed; the Fed cannot deploy without Treasury. It is a
+  TWO-KEY instrument.**
+- **ELIGIBILITY: IG-rated as of the March-2020 sanction date, plus FALLEN ANGELS downgraded after.
+  CCC was never eligible.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔ FIRST, THE DIRECTION CORRECTION TO THE QUESTION AS ASKED: AN SPV BUYING CORPORATES MAKES
+  *CORPORATES* MORE ATTRACTIVE, NOT TREASURIES.** Capping corporate yields compresses spreads and
+  REMOVES the flight-to-quality bid for Treasuries — at the margin it pushes Treasury yields UP.
+  ⇒ **The government's Treasury-side machinery (the buybacks, the TGA disclosure, the twist ask) and
+  a corporate-SPV are OPPOSITE relative-value instruments on the same "state as buyer" chassis:
+  one supports the sovereign curve, the other supports the credit that competes with it.** **In 2020
+  both rallied only because the Fed was buying both.** *(Analysis.)*
+- **★★★★★★ THE TAXONOMY GAINS ITS FIFTH INSTRUMENT: STATE AS *LEVERED BUYER OF PRIVATE CREDIT*.**
+  The 8/23 table had administered cap / administered floor / balance-sheet buyer / state equity.
+  ⇒ **The SPV-credit-backstop is distinct: contingent, announcement-driven, two-key, and its failure
+  mode is MORAL HAZARD — private credit priced to the put rather than to the borrower.** ⇒ **And this
+  administration's instrument culture (the AVGO $100B SPV, the Westinghouse SPC, the Meta/BlackRock
+  JV, equity stakes in Intel/MP) makes reaching for it MORE likely than in any prior cycle — the
+  machinery is already normalised.** **The binding constraint is the second key: a Warsh Fed's
+  willingness to sign a 13(3), which is exactly the Fed that would not.** *(Analysis.)*
+- **★★★★★ THE FRAGILITY-LADDER CONSEQUENCE, WHICH IS THE PART THAT CHANGES HOW THE DASHBOARD IS
+  READ: THE CRACK SIGNAL IS SIMULTANEOUSLY THE POLICY-RESPONSE SIGNAL.** Jake's own rule: IG/repo/
+  MOVE/dealers lighting = the crack. ⇒ **Those are precisely the conditions that constitute 13(3)'s
+  "unusual and exigent" — the put ACTIVATES on the same print that flips the ladder.** ⇒ **So the
+  tail on IG-grade AI credit (AVGO 127bp, ORCL 226bp) is CAPPED by a proven template with a
+  demonstrated announcement effect — while the tail on everything BELOW the eligibility line is
+  NOT: CCC at the 98th percentile, CRWV clearing at HY convention (817bp), and the private-credit
+  stack this note tracks (the Bermuda chain) sit OUTSIDE any broad-based facility's historical
+  reach.** ⇒ **★★★ THE PUT PROTECTS THE CALM STAGES AND ABANDONS THE LIT ONE. The 2026 stress
+  topology (stage 1 lit, stages 2-6 calm) is the configuration the 2020 template is WORST at
+  helping — 2020's was the reverse.** *(Analysis.)*
+- **⚠️ AND THE HONEST ANSWER TO "WOULD THEY": not at today's readings.** IG at the 40th percentile
+  is nobody's exigent circumstance. **The instrument exists, the culture favours it, the Fed gate
+  disfavours it, and the trigger conditions are the ladder's own corroborated-crack criteria —
+  none of which are met.** ⇒ **File it as the KNOWN RESPONSE FUNCTION, not a forecast.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **RE-PULL THE 2020 FACILITY RECORD** (announcement dates, peak holdings, spread path) from
+   primary — the figures above are recollection-class. ⬜
+2. 🚩🚩 **THE ELIGIBILITY MAP FOR 2026: which AI-complex issuers would clear a broad-based IG
+   facility?** AVGO/ORCL/MSFT/GOOGL yes · CRWV no (HY convention) · the SPV/private-credit stack
+   ⬜ unknown and probably no. **That map IS the bailout perimeter, drawable today.**
+3. 🚩 **DOES ANY OFFICIAL EVER SAY "FACILITY" ABOUT AI CREDIT?** The 2020 lesson is the word alone
+   moves spreads. **A one-line watch, standing.**
+**Links:** [[new-economy-regime]] · [[market-fragility]] · [[fragility-engine]] · [[hyperscaler-credit]] · [[rates-board]]
