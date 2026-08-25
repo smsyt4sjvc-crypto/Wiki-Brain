@@ -3031,6 +3031,7 @@ data is 8/21-22, the page is stamped 8/23.**
 #### DATA (MEASURED — Windward 21-22 Aug, against this board's own prior readings)
 - **★★★ HORMUZ TRANSITS: 34 — 20 INBOUND (9 north / 9 south) + 14 OUTBOUND (10 north / 4 south).**
   ⇒ **34 ÷ ~140 = 24.3% of normal.** *(vs `:L2915`'s 13 ÷ 140 = 9.3% on 8/17.)*
+    ⟲ SUPERSEDED 2026-08-25 → war-board.md:L3437 — WINDOW RESOLVED: the next daily is explicitly one day (23 Aug) at 16 transits; 34 over '21-22 Aug' was ~17/day. Both windows ~16-17/day => ~11-12% of normal, not 24.3%
   ⚠️ **WINDOW AMBIGUITY, FLAGGED NOT RESOLVED: the 8/17 report stated a "24-hour window" explicitly;
   this one says "data as of 21-22 August" and its dark-transit BLUF says "overnight 21-22 August." If
   34 is a TWO-DAY count it is 17/day = 12.1%, not 24.3%.** ⛔ **Do not quote 24.3% without the caveat.**
@@ -3434,7 +3435,9 @@ object that it depresses domestic prices and discourages the rebuild.**
   constituency on fuel, local government on siting, farm constituency on food imports.**
   ⇒ **Stage 4c (political permission) is not trending one way; it is CONTESTED FROM INSIDE, and that
   is a different regime from the one the vault has been assuming.** *(Analysis.)*
+    ⟲ EXTENDS war-board.md:L2633 (2026-08-25) — QUALIFIED, not retired: exports ~zero VISIBLE. A fingerprint-confirmed covert loading at Kharg's western terminal (12 Aug) + 68% of Larak anchorage dark = an operating covert export chain, rate unquantified [old entry stays LIVE]
 - **⚠️ AND THE THING THE VAULT SHOULD NOT DO WITH THIS: treat an Iranian official's meme as evidence
+  ⟲ SUPERSEDES war-board.md:L3033 — WINDOW RESOLVED: the next daily is explicitly one day (23 Aug) at 16 transits; 34 over '21-22 Aug' was ~17/day. Both windows ~16-17/day => ~11-12% of normal, not 24.3%
   about the US economy.** **It is an INFORMATION-WARFARE artefact — a belligerent using the
   adversary's food inflation as a narrative instrument, with 3.6K likes as its only metric.**
   ⇒ **It is evidence of IRANIAN MESSAGING STRATEGY, which the board does not track at all, and
@@ -3455,3 +3458,73 @@ object that it depresses domestic prices and discourages the rebuild.**
 5. 🚩 **IRANIAN STATE MESSAGING AS A TRACKED SERIES** — the board tracks Iran's kinetic and economic
    instruments and not its narrative one. ⬜ Nothing on file. **Low priority, named for completeness.**
 **Links:** [[demand-destruction]] · [[new-economy-regime]] · [[power-not-petroleum]] · [[consumption-vs-investment-crux]]
+
+### 2026-08-24 ~9:55pm PDT — ✅✅ **THE NEXT WINDWARD DAILY (data as of 23 AUG) SETTLES BOTH FLAGS FROM 8/23 IN ONE PRINT: (#3) THE "34" WAS ALMOST CERTAINLY A TWO-DAY COUNT — today's ONE-day window shows 16 transits, ~16-17/day both readings — SO THE HONEST RATE IS ~11-12% OF NORMAL, NOT 24.3%; AND (#4) THE RECOVERY IS NOT HOLDING — the "200 ships/week" run-rate (~29/day) did not survive its own week.** ⭐⭐⭐ **AND THE BIGGEST ITEM RETIRES A STANDING BOARD CONCLUSION: A SANCTIONED NITC TANKER WAS MATCHED BY VISUAL FINGERPRINT TO A COVERT LOADING AT KHARG'S WESTERN TERMINAL ON 12 AUGUST — "EXPORTS ~ZERO" MUST NOW READ "EXPORTS ~ZERO *VISIBLE*"**
+Source: Jake's upload — **Windward Daily Intelligence, 24 AUG 2026, DATA AS OF 23 AUG** (86-page PDF,
+extracted Tier-0) → `raw/2026-08-25-windward/windward-daily.txt`. ⚠️ Source time ≠ paste time: data
+8/23, page stamped 8/24 9:41pm, ingested 8/24 ~9:55pm PDT.
+
+#### DATA (MEASURED — Windward, 23 Aug, against the board's own series)
+- **TRANSITS: 16 — 6 inbound (1N/5S, 3 dark) + 10 outbound (4N/6S, 2 dark). Dark 5/16 = 31%.**
+  ⇒ **16 ÷ ~140 = 11.4% of normal.**
+- **✅ FLAG #3 RESOLVED BY CONSISTENCY: this report is explicitly a ONE-day window ("data as of 23
+  August") at 16; the prior was "21-22 August" at 34 ⇒ 17/day.** **Two windows, ~16-17/day each.**
+  ⟲ **The 8/23 entry's "24.3% of normal" is superseded — the defensible rate was ~12.1% then and
+  ~11.4% now.** ⇒ **Traffic never recovered past ~the mid-teens %; ZH's "20% of prewar" looks like a
+  whole-strait UKMTO count against Windward's corridor count — different instruments, and the
+  corridor one is the consistent series.**
+- **⭐ COMPOSITION KILLS THE "RECOVERY" READ HARDER THAN THE COUNT DOES: the 10 outbound transits are
+  ALL CARGO — mostly 49-68m Indian coastal MSVs — ZERO outbound tankers.** **The 4 tanker transits
+  are INBOUND, 3 of them DARK, in BALLAST toward Gulf loading ports (Qatar/UAE named).**
+  ⇒ **What is moving out is dhow-scale coastal trade. What is moving in is empty tankers running
+  dark to load.**
+- **GULF FLEET: 1,003 (vs 1,036) — product tankers 156 · CRUDE TANKERS 42, FLAT FOR THE FOURTH
+  CONSECUTIVE READING (45→42→42→42) · bulk 109 · container 55.** **High-risk 144 = 14.4% share
+  (15.2% prior — dilution continues).**
+- **UAE FLAG: 112** — the trade-halt series now reads **98 (7/31) → 109 (8/13) → 108 (8/17) →
+  114 (8/21) → 112 (8/23).** **Still ABOVE the pre-halt 108. The halt remains invisible in tonnage.**
+- **BLOCKADE 133D 14H** ✓ arithmetically consistent with 131D 23H + ~1.6 days.
+- **⭐⭐⭐ THE KHARG ITEM, IN FULL: a sanctioned Iranian (NITC) crude tanker, DARK SINCE 8 JULY, entered
+  the Kharg waiting area in ballast by 12 July; its visual fingerprint from last AIS transmission —
+  twin red helipads, green cargo deck, dark-green aft superstructure, two amidships cranes — MATCHES
+  A DARK LOADING EVENT AT KHARG'S WESTERN TERMINAL ON 12 AUGUST, independently corroborated by a
+  separate image source.** Expected to remain dark through its outbound transit.
+- **THE EVASION STACK, SAME PRINT: an OFAC-sanctioned Aruba-flagged tanker in an apparent STS with an
+  unidentified dark tanker AT THE STRAIT'S SOUTHERN APPROACHES · Larak anchorage 68% of 25 vessels
+  dark (63% prior) · a CONFIRMED Houthi-blockade breach at Bab el-Mandeb (Duba→Krishnapatnam, no
+  China/Pakistan link) plus a possible Hormuz-breaker inbound from Imam Khomeini toward Suez · one
+  outbound dark hull trailing a 74km OIL SPILL WHILE UNDERWAY** ⚠️ *(the prior spill was a STATIONARY
+  VLCC's 118km slick in the SE waiting area — possibly related, ⬜ not established; do not conflate).*
+- **⛔ DATA-QUALITY CATCH — STALE PANELS: the GPS-jamming block (90 jammed · −65.8% · cumulative
+  74,656 / 2,989,189) and the Red Sea fleet block (545, identical composition) are VERBATIM UNCHANGED
+  from the 8/23 report.** ⇒ **Some panels in these dailies do not refresh daily. Never difference two
+  consecutive dailies on those panels without checking the numbers actually moved.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ "EXPORTS ~ZERO" IS RETIRED IN FAVOUR OF "EXPORTS ~ZERO *VISIBLE*," AND THE DIFFERENCE IS
+  TRADEABLE.** The 8/15 conclusion (`:L2633`) — *"Iranian crude exports are already ~zero — new
+  sanctions cannot subtract barrels that are not moving"* — **survives for VISIBLE flow but not as a
+  statement about barrels. A fingerprint-confirmed covert loading + 68% of the Larak anchorage dark +
+  ballast tankers running in dark + an STS at the strait mouth is an OPERATING covert export chain.**
+  ⇒ **The ~20.7mm bbl "deferred supply" overhang may already be LEAKING to China at unknown rate —
+  which softens both the bull case (sanctions fully binding) and the resolution-shock case (the
+  overhang partially pre-sold).** ⬜ **Rate unquantified — one confirmed loading is existence, not
+  volume.** *(Analysis.)*
+- **★★★★ THE "IRAN IS LOSING ITS GRIP" FRAME TAKES ANOTHER MEASURED HIT: traffic back to ~11% of
+  normal, zero outbound tankers, enforcement continuing (Amara held, day 2+), and the covert chain
+  running.** ⇒ **What the ZH piece called recovery was, on the corridor series, a ~2-day bulge that
+  did not hold — the board's registered "convoy, not re-opening" branch is now the supported one.**
+  *(Analysis.)*
+- **⚠️ CRUDE TANKERS FLAT AT 42 FOR A FOURTH READING while the fleet shrank 3.2% — the composition
+  tell holds: nothing about the crude-export complex is normalising in either direction.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED — 8/23 flags #3 (window ambiguity: ~two-day count, rate ~12%) and #4 (recovery did NOT
+   hold: 29/day implied → 16-17/day measured).**
+2. 🚩🚩🚩 **QUANTIFY THE COVERT CHAIN: repeat fingerprint-confirmed loadings per week, and whether
+   Kharg's floating overhang SHRINKS.** **A falling waiting-area count with vacant visible terminals
+   = covert drawdown, measurable from these dailies.**
+3. 🚩🚩 **UAE flag weekly (112, still above pre-halt) — unchanged test, now 5 readings.**
+4. 🚩 **THE 74km UNDERWAY SPILL vs the 118km STATIONARY slick — same event or second event?**
+   ⬜ Unresolved; an insurer/IMO response to either remains the watch.
+**Links:** [[oil-value-chain]] · [[demand-destruction]] · [[war/war-confirmed]] · [[market-fragility]]
