@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **108 dated entries across 2 notes · 2026-07-16 → 2026-08-24 · refreshed 2026-08-24 14:26 PDT**
+> **108 dated entries across 2 notes · 2026-07-16 → 2026-08-24 · refreshed 2026-08-24 18:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before

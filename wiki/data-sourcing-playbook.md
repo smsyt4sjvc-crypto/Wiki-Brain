@@ -694,3 +694,34 @@ Origin: Jake caught the vault carrying Sanhua's denied RMB 5bn Optimus order as 
 - **⚠️ AND A TRAP INSIDE THE DENIAL ITSELF: Sanhua's securities desk said the robot business was
   "progressing smoothly" while refusing to comment on the rumour.** ⇒ **A warm sentence about the
   BUSINESS is not a confirmation of the ORDER. Do not let the first launder the second.**
+
+## 2026-08-24 ~2:00am PDT — 🔧 **THE GOPHER BRIEF, v1 — built AGAINST the three failures that actually happened on 8/23, not against imagined ones**
+Source: Jake, 2026-08-24 — *"Give me instructions to address them for chat gopher."* Targets the four
+items still open from the 8/23 holdings scan. **The constraint block below is the product; the three
+asks are interchangeable.**
+
+#### ⛔ THE REGRESSION SUITE — every rule below exists because one of these happened
+| # | what the gopher did | the rule it produces |
+|---|---|---|
+| 1 | **RBN's "$66.26, latest reading from Aug. 21"** — a PUBLICATION date passed through as a DATA date; the figure was Thursday's | **Give BOTH dates, always** |
+| 2 | **"Iran raised the possibility of targeting alternative Gulf oil routes"** — an object NOT IN the source text | **Quote verbatim; never restate the claim** |
+| 3 | **NVDA's price hike called a demand RISK** — the sign of the interpretation inverted | **Never say what it means** |
+⇒ **All three are one failure: THE GOPHER SUMMARISED THE CLAIM INSTEAD OF EXTRACTING THE ARTEFACT.**
+**And the loss is unrecoverable upstream — a frontier model cannot detect a distortion in a document
+it never saw.** ⇒ **Extraction arbitrages; judgment does not.**
+
+#### ⛔ WHAT MUST NOT BE DELEGATED, STATED SO IT IS NOT TRIED
+- **CROSS-DOCUMENT RECONCILIATION.** Every high-value output on 8/23 was a CONFLICT between two
+  sources (ZH's framing vs Windward's dark-transit count · Tchir's headline vs the SOMA bucketing ·
+  the token brief's substitution read vs the complement signature). **Gophers extract per document.**
+- **ITEM 11 OF THE SCAN — the portfolio impact ranking — IS NOT A GOPHER TASK AT ALL.** It is a
+  re-ranking against the vault's own conclusions and there is no external document to fetch.
+  ⇒ **Stays in-session.**
+
+#### 📌 REGISTERED
+1. 🚩🚩 **GRADE v1 AGAINST THE SUITE: when the first gopher output comes back, check it for failures
+   1-3 specifically before reading it for content.** **That check is the whole point of writing the
+   suite down.**
+2. 🚩 **IF v1 SURVIVES, THE SAME BLOCK BECOMES THE STANDING PREAMBLE for every offloaded retrieval**
+   (rule 19 Tier-1). ⬜ Not yet standing — one trial first.
+**Links:** [[metered-compute]] · [[_calibration]] · [[ai-infra-allocation-map]]
