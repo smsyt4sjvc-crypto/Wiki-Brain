@@ -3590,3 +3590,35 @@ verification chains. That convergence upgrades BOTH sources.**
 4. 🚩 **KAIFAN and RIYAN STAR primary records** (IMO entries) — filed here from the gopher's citation,
    ⬜ not yet independently pulled.
 **Links:** [[war/war-confirmed]] · [[oil-value-chain]] · [[demand-destruction]] · [[market-fragility]]
+
+#### Addendum 2026-08-24 ~10:55pm PDT — ⚖️ **JAKE COMMISSIONED THE RANKING ON *ESCALATION POTENTIAL*. Taking it on those terms, the board AGREES ON #1 AND RE-ORDERS THE REST — because escalation potential lives in CONTINUING STATES and CAMPAIGNS, not in single incidents, and the gopher ranked incidents**
+*(Analysis throughout — this is the board's judgment layered on the gopher's verified facts.)*
+- **AMARA STAYS #1, for a sharper reason than "biggest escalation": it is the only CONTINUING STATE
+  on the list.** A strike is an event that ends; **a held ship compounds daily and forces someone to
+  act — pay/negotiate (the fee regime is legitimised) or recover (kinetic).** ⚠️ **One discount the
+  ranking misses: LIBERIA flag, open registry — the state-response path is weak. A US/EU-flag seizure
+  would be the true 5/5.**
+- **GASLOG SHANGHAI MOVES UP (gopher #4 → board #2): it is the only incident touching the ZERO-BYPASS
+  cargo.** The board's own line: Qatari LNG ≈ 1/5 of global LNG, every cargo through Hormuz, *"the
+  piece that cannot be orchestrated around at any price."* **And the catastrophic tail lives here —
+  the strike hit the engine room, not the containment; an LNG cargo-release event is the single
+  worst physically-possible outcome in the strait.**
+- **THE ADNOC SET (Messi + Tarifa + Al Watan + the 8/8 vessel) RANKS AS ONE OBJECT, #3: four
+  unanswered hits on the NAMED ADDRESSEE of the Rezaee act-of-war doctrine.** **Escalation potential
+  = the UAE's response threshold, which must exist somewhere; each unanswered hit either finds it or
+  proves deterrence failure — and both branches escalate.**
+- **THE YANBU/RED SEA SET (Amzan + NCC Wafa + Encelia + Layla + NCC Masa) AS ONE OBJECT, #4:
+  individually 3.8-4.3, jointly THE TWO-CORRIDOR SQUEEZE.** If the bypass becomes unusable while
+  Hormuz runs at ~11%, Saudi export existence is the stake — **which is Rezaee's stated end-state
+  ("nor from anywhere in the Persian Gulf") being approached from the OTHER coast.**
+- **THE FATAL HORMUZ PAIR (Minoan Dignity + Riyan Star) #5 and TIHAMAH #6 — the ugly but real
+  pattern: STATES RESPOND TO FLAG AND CARGO, NOT CREW.** Open-registry ships with multinational crews
+  have historically low state-response rates however lethal. **Where the deaths DO escalate is the
+  LABOR CHANNEL: 19 dead + a double-tap on rescuers → crew refusals, ITF pressure, war-risk premia —
+  economic escalation that happens WITHOUT any state deciding anything** (the board's war-risk
+  ceiling mechanism, `demand-destruction:772`).
+- **⛔ THE CEILING, STATED: ALL THIRTEEN RANK BELOW THE BOARD'S ACTUAL TRIPWIRES** — a US-flag/
+  US-casualty event, a warship engagement, or an LNG cargo release. Jake's own trigger list
+  (`:L2210`) is open-confrontation events; nothing here crosses it. **The set's true escalation
+  potential = P(one of these CAMPAIGNS produces a tripwire event), and the ADNOC and Yanbu campaigns
+  are the two generators running.**

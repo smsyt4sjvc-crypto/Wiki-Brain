@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **177 dated entries across 2 notes · 2026-05-22 → 2026-08-24 · refreshed 2026-08-24 21:51 PDT**
+> **178 dated entries across 2 notes · 2026-05-22 → 2026-08-24 · refreshed 2026-08-24 21:56 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -199,3 +199,4 @@
 - `2026-08-23` [war-board.md:L3289](../war/war-board.md) — 2026-08-23 ~10:20pm PDT — ⛔⛔⛔ **I HAD THE DIRECTION EXACTLY BACKWARDS AND THE TELL WAS IN THE ATTRIBUTION I ALREADY HAD. GHALIBAF IS MOCKING *TRUMP*. 
 - `2026-08-24` [war-board.md:L3382](../war/war-board.md) — 2026-08-24 ~9:55pm PDT — ✅✅ **THE NEXT WINDWARD DAILY (data as of 23 AUG) SETTLES BOTH FLAGS FROM 8/23 IN ONE PRINT: (#3) THE "34" WAS ALMOST CERTAINL
 - `2026-08-24` [war-board.md:L3453](../war/war-board.md) — 2026-08-24 ~10:30pm PDT — ✅⭐⭐⭐ **THE GOPHER'S VERIFIED ATTACK RANKING RECONCILES THE BOARD'S LEDGER — AND THE HEADLINE IS THE UNDERCOUNT: IMO's OFFICI
+- `2026-08-24` [war-board.md:L3513](../war/war-board.md) — Addendum 2026-08-24 ~10:55pm PDT — ⚖️ **JAKE COMMISSIONED THE RANKING ON *ESCALATION POTENTIAL*. Taking it on those terms, the board AGREES ON #1 AND 
