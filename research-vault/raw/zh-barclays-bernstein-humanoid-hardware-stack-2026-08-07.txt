@@ -1,0 +1,65 @@
+Digging Deeper Inside Physical AI's
+Hardware Stack Powering Humanoids
+Building on our "Physical AI Faces One Critical Chokepoint, and Here's How to Profit"
+report earlier this week, Barclays analysts are closing out the week with a comprehensive map
+of the humanoid value chain.
+As readers look beyond flashy Chinese Unitree robot demonstrations, attention is shifting
+toward the critical hardware stack, including motors, actuators, sensors, and batteries, and the
+deep supply-chain players positioned to reap the rewards before global humanoid deliveries
+begin to ramp up.
+Anatomy of a humanoid robot
+"While the humanoid market remains small today, at roughly $2-3bn, forecasts range from
+$10-25bn by 2030, with more optimistic scenarios reaching ~$200bn by 2035, as detailed in
+(open in new tab)Global Macro - AI gets physical: Ten things to know about humanoids(open
+in new tab)," Barclays analyst William Thompson wrote in a note on Thursday.
+Within the hardware stack, reducers - high-precision gearing systems embedded in actuators -
+have been high barriers to entry and are led by Japanese players such as Harmonic Drive
+Systems and Nabtesco, while rare earth materials - particularly magnets used in high-
+performance motors - create strategic dependencies, with supply chains heavily concentrated
+in China.
+Actuators are the biggest hardware prize. A humanoid may require 40 to 70 actuators,
+https://www.zerohedge.com/markets/digging-deeper-inside-physical-ais-hardware-stack-powering-humanoids
+8/7/26, 11:29 PM
+Page 1 of 4
+
+representing roughly 30% to 50% of the material bill. This makes motors, reducers, bearings,
+and motion-control systems  critically important.
+The current supply chain for humanoids is mostly dominated by China.
+The supply chain will likely be shaped by geopolitics as much as technology. China currently
+leads in humanoid deployment volumes and holds strong positions across several parts of the
+value chain, including rare earth processing, motors, batteries, and robot manufacturing.
+However, growing U.S. and European scrutiny of Chinese technology and industrial supply
+chains could influence market access, procurement decisions, localization requirements, and
+ultimately the geographic distribution of production and deployment. As a result, humanoid
+supply chains may become increasingly regionalized over time, with parallel hardware,
+software, and manufacturing ecosystems emerging across China and Western markets.
+Thompson provided a deep understanding of how to profit from the humanoid robotic value
+chain by subcategory.
+Earlier this week, Bernstein analyst Dien Wang warned about "critical chokepoints" in the
+humanoid robotic supply chain, outlining high-performance motors, robotic actuators, and
+rare-earth minerals that are mostly dominated by China.
+https://www.zerohedge.com/markets/digging-deeper-inside-physical-ais-hardware-stack-powering-humanoids
+8/7/26, 11:29 PM
+Page 2 of 4
+
+"A humanoid robot can consume more than twice as much magnetic material as an EV
+motor (Exhibit 3), highlighting the growing strategic importance of rare-earth magnets,"
+Wang said.
+He outlined that China's dominance in rare earth magnets is troubling in an "increasingly
+multipolar world."
+https://www.zerohedge.com/markets/digging-deeper-inside-physical-ais-hardware-stack-powering-humanoids
+8/7/26, 11:29 PM
+Page 3 of 4
+
+Taken together, both Barclays and Bernstein notes suggest the humanoid robotics value chain
+remains dangerously exposed to China and concentrated Asian supply chains. The Trump
+admin must accelerate the development of domestic production for motors, rare earth magnets,
+precision reducers, semiconductors, and other critical actuator components.
+If Beijing moves on Taiwan, U.S. robot manufacturers could lose access not only to advanced
+chips but also to the motion-control systems needed to build humanoids at scale. In that
+scenario, America's physical-AI ambitions could grind to an instant halt
+Professional subscribers can read a whole lot more on humanoids here at our new
+Marketdesk.ai portal. 
+https://www.zerohedge.com/markets/digging-deeper-inside-physical-ais-hardware-stack-powering-humanoids
+8/7/26, 11:29 PM
+Page 4 of 4

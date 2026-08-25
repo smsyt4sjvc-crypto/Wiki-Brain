@@ -1,0 +1,163 @@
+{
+ "generated": "2026-08-22T14:58:45+00:00",
+ "meta": {
+  "ccc_oas": {
+   "label": "CCC & lower OAS",
+   "stage": 1,
+   "panel": 1
+  },
+  "hy_oas": {
+   "label": "High-yield OAS",
+   "stage": 1,
+   "panel": 1
+  },
+  "ccc_hy_gap": {
+   "label": "CCC minus HY (quality gap)",
+   "stage": 1,
+   "panel": 1
+  },
+  "bbb_oas": {
+   "label": "BBB OAS",
+   "stage": 2,
+   "panel": 2
+  },
+  "ig_oas": {
+   "label": "Investment-grade OAS",
+   "stage": 2,
+   "panel": 2
+  },
+  "cp_spread": {
+   "label": "A2/P2 minus AA CP, 90d",
+   "stage": 3,
+   "panel": 8
+  },
+  "rvol10": {
+   "label": "10Y realized vol (MOVE proxy)",
+   "stage": 4,
+   "panel": 4
+  },
+  "dgs30": {
+   "label": "30Y Treasury yield",
+   "stage": 4,
+   "panel": 4
+  },
+  "sofr_iorb": {
+   "label": "SOFR minus IORB",
+   "stage": 6,
+   "panel": 7
+  },
+  "repo_ops": {
+   "label": "Fed repo ops accepted ($B)",
+   "stage": 6,
+   "panel": 7
+  },
+  "pd_ust": {
+   "label": "Dealer UST net position",
+   "stage": 5,
+   "panel": 9
+  },
+  "repo_fin": {
+   "label": "Dealer UST repo financing",
+   "stage": 5,
+   "panel": 9
+  },
+  "rev_repo": {
+   "label": "Dealer UST reverse repo",
+   "stage": 5,
+   "panel": 9
+  },
+  "pd_ftd": {
+   "label": "Dealer UST fails to deliver",
+   "stage": 5,
+   "panel": 9
+  },
+  "pd_ftr": {
+   "label": "Dealer UST fails to receive",
+   "stage": 5,
+   "panel": 9
+  },
+  "ci_all": {
+   "label": "H.8 C&I loans, all banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "ci_large": {
+   "label": "H.8 C&I loans, LARGE banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "ci_small": {
+   "label": "H.8 C&I loans, SMALL banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "cre_all": {
+   "label": "H.8 CRE loans, all banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "cre_large": {
+   "label": "H.8 CRE loans, LARGE banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "cre_small": {
+   "label": "H.8 CRE loans, SMALL banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "dep_large": {
+   "label": "H.8 deposits, LARGE banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "dep_small": {
+   "label": "H.8 deposits, SMALL banks",
+   "stage": 7,
+   "panel": 10
+  },
+  "vix": {
+   "label": "VIX (context, not a stage)",
+   "stage": 0,
+   "panel": 0
+  }
+ },
+ "inverted": [
+  "ci_all",
+  "ci_large",
+  "ci_small",
+  "cre_all",
+  "cre_large",
+  "cre_small",
+  "dep_large",
+  "dep_small"
+ ],
+ "errors": [],
+ "gaps": [
+  {
+   "chart": 4,
+   "name": "MOVE index \u2014 AGENT-FETCHED, NOT IN THE CRON",
+   "why": "Every curl route 429s/403s from a datacentre IP (Yahoo from both this container AND GitHub runners, CNBC, WSJ; Stooq is JS-gated; FRED's VXTYN died in May 2020). But WebFetch DOES reach Yahoo's quote page \u2014 it is a different fetcher, not this container's curl. So MOVE is a LIVE ROW that Claude refreshes in-session via tools/move_manual.py, and the weekday cron CANNOT refresh it. Expect it to lag on any day Claude was not asked. The STALE flag is the honest signal that it did.",
+   "status": "LIVE \u2014 but agent-refreshed, never cron-refreshed"
+  },
+  {
+   "chart": 3,
+   "name": "CDX IG / CDX HY",
+   "why": "Markit/S&P proprietary. No free feed exists. The ICE cash-bond OAS series (charts 1-2) answer the same question more slowly.",
+   "status": "UNOBTAINABLE FREE"
+  },
+  {
+   "chart": 6,
+   "name": "10Y/30Y swap spreads",
+   "why": "FRED's DSWP10/DSWP30 were discontinued in 2016 (they return 2000-era data). Live swap rates are vendor-gated.",
+   "status": "UNOBTAINABLE FREE \u2014 vault fetch stays open"
+  },
+  {
+   "chart": 11,
+   "name": "Single-name 5Y CDS \u2014 CLOSED 2026-08-22",
+   "why": "SOLVED via ICE Clear Credit's free daily settlement prices (tools/icc_cds.py). All 12 AI-complex names clear, CoreWeave included. Two remaining limits, both real: the published number is a points-upfront PRICE that must be MODELLED into a spread, and ICE serves only one clearing date \u2014 history is licensed, so the vault accumulates forward from 2026-08-22 and cannot percentile-score these rows for years.",
+   "status": "CLOSED \u2014 levels only, no baseline yet"
+  }
+ ],
+ "auction_count": 66
+}

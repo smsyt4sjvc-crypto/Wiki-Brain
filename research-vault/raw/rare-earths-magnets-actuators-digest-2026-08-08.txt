@@ -1,0 +1,444 @@
+
+Rare Earths, Magnet Supply, Reducer Backlogs & Humanoid Actuator Data
+As of August 8, 2026
+NOT DISCLOSED
+	DERIVED
+	COMPANY TARGET
+	Series changes / export-licensing non-comparability are stated on the affected row.
+	
+
+PART 1 - PRICING
+item
+	series/class
+	latest value + date
+	year-ago value
+	source (publication + date)
+	
+NdPr oxide
+	(a) China domestic spot - SMM - delivered works China, VAT incl.
+	RMB 736,000/tonne - 2026-08-07
+	RMB 522,000-525,000/tonne - 2025-08-07
+	Shanghai Metals Market, Pr-Nd Oxide price / Rare Earth Weekly Review, 2026-08-07 and 2025-08-07. (SMM)
+	
+NdPr oxide
+	(b) China export - SMM - FOB China
+	NOT DISCLOSED on public page - series effective 2026-08-05 - USD/kg
+	NOT APPLICABLE - SERIES STARTED 2026-08-05
+	SMM, "SMM Adds Four Rare Earth Price Points," 2026-08-04; FOB-China assessment launched 2026-08-05. SERIES NEW/REDEFINED WITHIN 18 MONTHS. (SMM)
+	
+NdPr oxide
+	(c) ex-China / ROW spot - SMM - CIF Rotterdam
+	NOT DISCLOSED on public page - series effective 2026-08-05 - USD/kg
+	NOT APPLICABLE - SERIES STARTED 2026-08-05
+	SMM, "SMM Adds Four Rare Earth Price Points," 2026-08-04. SERIES NEW/REDEFINED WITHIN 18 MONTHS. (SMM)
+	
+NdPr products - MP Materials
+	(d) long-term contract / U.S. government price floor
+	USD 110/kg floor - 10 years; agreement announced 2025-07-10; price-protection economics commenced 2025-10-01
+	NONE - agreement did not exist 12 months earlier
+	MP Materials/DoD, 2025-07-10; MP Materials FY2025 results, 2026-02-26. (MP Materials)
+	
+Dysprosium oxide
+	(a) China domestic spot - SMM - delivered works China, VAT incl.
+	RMB 1,390/kg - 2026-08-07
+	RMB 1,610,000-1,620,000/tonne - 2025-08-08; units reproduced as published, not converted
+	SMM Dy Oxide price, 2026-08-07; SMM Rare Earth Daily Review, 2025-08-08. (SMM)
+	
+Dysprosium oxide
+	(b) China export - SMM - FOB China
+	USD 279-331/kg; average USD 305/kg - 2026-08-05
+	NOT APPLICABLE - SERIES STARTED 2025-12-17
+	SMM Dy Oxide FOB China assessment, 2026-08-05. SERIES NEW WITHIN 18 MONTHS; CHINA EXPORT-LICENSING REGIME APPLIES. (SMM)
+	
+Dysprosium oxide
+	(c) ex-China / ROW spot
+	NOT DISCLOSED
+	NOT DISCLOSED
+	No continuously public SMM/Asian Metal/Fastmarkets/Argus ROW Dy-oxide assessment with both requested dates located as of 2026-08-08; SMM export-control/price-series materials, 2026-08-05. (SMM)
+	
+Dysprosium oxide
+	(d) long-term contract
+	NOT DISCLOSED
+	NOT DISCLOSED
+	Public supply agreements reviewed through 2026-08-08 do not disclose a Dy-oxide contract price; see contracted-supply table below.
+	
+Terbium oxide
+	(a) China domestic spot - SMM - delivered works China, VAT incl.
+	RMB 6,650/kg - 2026-08-07
+	RMB 7,000,000-7,040,000/tonne - 2025-08-08; units reproduced as published, not converted
+	SMM Tb Oxide price, 2026-08-07; SMM Rare Earth Daily Review, 2025-08-08. (SMM)
+	
+Terbium oxide
+	(b) China export - SMM - FOB China
+	NOT DISCLOSED on public page
+	NOT APPLICABLE - current export series has <12 months of history
+	SMM Tb Oxide FOB assessment, accessed 2026-08-08. SERIES NEW WITHIN 18 MONTHS; CHINA EXPORT-LICENSING REGIME APPLIES. (SMM)
+	
+Terbium oxide
+	(c) ex-China / ROW spot
+	NOT DISCLOSED
+	NOT DISCLOSED
+	No continuously public SMM/Asian Metal/Fastmarkets/Argus ROW Tb-oxide assessment with both requested dates located as of 2026-08-08.
+	
+Terbium oxide
+	(d) long-term contract
+	NOT DISCLOSED
+	NOT DISCLOSED
+	Public supply agreements reviewed through 2026-08-08 do not disclose a Tb-oxide contract price.
+	
+Finished NdFeB magnet - SMM 45UH, 4 mm, Br>=13.3, Hcj>=24
+	(a) China domestic spot - SMM - delivered works China, VAT incl.
+	RMB 401/kg - 2026-08-07
+	NOT DISCLOSED - SMM historical datum is login-restricted
+	SMM NdFeB 45UH price series, 2026-08-07; series start 2024-04-10. (SMM)
+	
+Finished NdFeB magnets
+	(b) China export
+	NOT DISCLOSED
+	NOT DISCLOSED / NON-COMPARABLE WHERE CONTROLLED GRADES REQUIRE EXPORT LICENSING
+	China imposed export controls on specified heavy rare earths on 2025-04-04; high-performance magnet exports have been subject to licensing effects. SMM/export-control materials, 2025-04-04 onward. (SMM)
+	
+Finished NdFeB magnets
+	(c) ex-China / ROW spot
+	NOT DISCLOSED
+	NOT DISCLOSED
+	No continuously public assessor series with identical finished-magnet specification and both requested dates located as of 2026-08-08.
+	
+MP Materials 10X finished NdFeB output
+	(d) long-term government-backed offtake
+	Purchase price NOT DISCLOSED; 100% of 10X magnet output for 10 years after construction; 10X commissioning 2028 COMPANY TARGET
+	NONE - agreement did not exist 12 months earlier
+	MP Materials/DoD, 2025-07-10. MP said total U.S. capacity after 10X would reach an estimated 10,000 t/yr; this is capacity, not contracted 10X tonnage. (MP Materials)
+	
+
+PART 2 - BACKLOGS, ORDER INTAKE, BOOK-TO-BILL, LEAD TIMES
+item
+	series/class
+	latest value + date
+	year-ago value
+	source (publication + date)
+	
+Harmonic Drive Systems - reporting period
+	Precision reducers / mechatronics
+	FY ending 2027-03-31 Q1 = Apr-Jun 2026. Latest Q1 financial period; Q1 queue values NOT DISCLOSED in accessible English disclosure. Latest separately published booking statistics remain FY ending 2026-03-31 Q4 = Jan-Mar 2026
+	FY ending 2026-03-31 Q1 = Apr-Jun 2025
+	HDS IR / Financial Information, accessed 2026-08-08. (HDS)
+	
+Harmonic Drive Systems - order intake
+	Non-consolidated bookings; latest separately disclosed order-stat period
+	JPY 10,605 million - FY2026 Q4 = Jan-Mar 2026
+	Absolute value NOT DISCLOSED in public text; latest figure was +32.1% YoY
+	HDS, "Non-consolidated Bookings and Sales," published for FY ended 2026-03-31; accessed 2026-08-08. (HDS)
+	
+Harmonic Drive Systems - backlog
+	Precision reducers / mechatronics
+	NOT DISCLOSED for FY2027 Q1
+	NOT DISCLOSED
+	HDS FY2027 Q1/latest IR disclosures, accessed 2026-08-08. (HDS)
+	
+Harmonic Drive Systems - book-to-bill
+	Latest public order-stat period
+	DERIVED: 1.101x = JPY 10,605m orders / JPY 9,634m sales - FY2026 Q4 = Jan-Mar 2026
+	NOT DISCLOSED; exact year-ago order/sales amounts not provided in accessible public text
+	HDS, "Non-consolidated Bookings and Sales," accessed 2026-08-08. (HDS)
+	
+Harmonic Drive Systems - quoted lead time
+	Precision reducers
+	NOT DISCLOSED
+	NOT DISCLOSED
+	HDS latest IR/product disclosures, accessed 2026-08-08. (HDS)
+	
+Nabtesco - order intake, Precision Reduction Gears
+	FY2026 H1 = Jan-Jun 2026; Nabtesco fiscal year ends December
+	JPY 48.0 billion - Jan-Jun 2026
+	JPY 38.1 billion - Jan-Jun 2025
+	Nabtesco FY2026 H1 Results Briefing, 2026-08-05. (Nabtesco)
+	
+Nabtesco - book-to-bill, Precision Reduction Gears
+	FY2026 H1 = Jan-Jun 2026
+	DERIVED: 1.064x = JPY 48.0bn orders / JPY 45.1bn sales
+	DERIVED: 1.044x = JPY 38.1bn orders / JPY 36.5bn sales
+	Nabtesco FY2026 H1 Results Briefing, 2026-08-05. (Nabtesco)
+	
+Nabtesco - backlog, Precision Reduction Gears
+	FY2026 H1 = Jan-Jun 2026
+	NOT DISCLOSED
+	NOT DISCLOSED
+	Nabtesco FY2026 H1 Results Briefing, 2026-08-05. (Nabtesco)
+	
+Nabtesco - quoted lead time, Precision Reduction Gears
+	FY2026 H1 = Jan-Jun 2026
+	NOT DISCLOSED
+	NOT DISCLOSED
+	Nabtesco latest briefing; prior Q&A states order-to-production lead time was "short" but gives no numerical lead time. 2025 Q2 Q&A; latest checked 2026-08-08. (Nabtesco)
+	
+Nabtesco - order series scope
+	Precision Reduction Gears
+	PRG remains reported; Hydraulic Equipment was classified as discontinued from FY2025/12 and its order-trend presentation removed - SERIES SCOPE CHANGE WITHIN 18 MONTHS
+	Prior presentation included Hydraulic Equipment
+	Nabtesco results materials, 2026-02-18 / 2026-08-05. (Nabtesco)
+	
+MP Materials - backlog
+	Mining/refining/magnets - Q2 ended 2026-06-30
+	NOT DISCLOSED
+	NOT DISCLOSED - Q2 ended 2025-06-30
+	MP Materials Q2 2026 results, 2026-08-06; Q2 2025 results, 2025-08-07. (MP Materials)
+	
+MP Materials - order intake
+	Mining/refining/magnets - Q2 2026
+	NOT DISCLOSED
+	NOT DISCLOSED
+	MP Materials Q2 disclosures, 2026-08-06 / 2025-08-07. (MP Materials)
+	
+MP Materials - book-to-bill
+	Mining/refining/magnets
+	NOT DISCLOSED
+	NOT DISCLOSED
+	MP Materials Q2 disclosures, 2026-08-06 / 2025-08-07. (MP Materials)
+	
+MP Materials - quoted lead time
+	Mining/refining/magnets
+	NOT DISCLOSED
+	NOT DISCLOSED
+	MP Materials Q2 2026 disclosure, 2026-08-06. (MP Materials)
+	
+Lynas Rare Earths - backlog
+	FY2026 Q4 = Apr-Jun 2026
+	NOT DISCLOSED
+	NOT DISCLOSED - FY2025 Q4 = Apr-Jun 2025
+	Lynas Quarterly Activities Report, 2026-07-21. (Lynas)
+	
+Lynas Rare Earths - order intake
+	FY2026 Q4 = Apr-Jun 2026
+	NOT DISCLOSED
+	NOT DISCLOSED
+	Lynas Quarterly Activities Report, 2026-07-21. (Lynas)
+	
+Lynas Rare Earths - book-to-bill
+	FY2026 Q4 = Apr-Jun 2026
+	NOT DISCLOSED
+	NOT DISCLOSED
+	Lynas Quarterly Activities Report, 2026-07-21. (Lynas)
+	
+Lynas Rare Earths - quoted lead time
+	FY2026 Q4 = Apr-Jun 2026
+	NOT DISCLOSED
+	NOT DISCLOSED
+	Lynas Quarterly Activities Report, 2026-07-21. (Lynas)
+	
+VACUUMSCHMELZE
+	Private company - magnets
+	Backlog NOT DISCLOSED; order intake NOT DISCLOSED; book-to-bill NOT DISCLOSED; quoted lead time NOT DISCLOSED - as of 2026-08-08
+	All NOT DISCLOSED
+	VAC/eVAC public disclosures through new U.S. plant opening, 2026-07-16. (VAC)
+	
+Noveon Magnetics
+	Private company - magnets
+	Backlog NOT DISCLOSED; order intake NOT DISCLOSED; book-to-bill NOT DISCLOSED; quoted lead time NOT DISCLOSED - as of 2026-08-08
+	All NOT DISCLOSED
+	Noveon public disclosures through 2026-08-08; company news page. (Noveon)
+	
+Vulcan Elements
+	Private company - magnets
+	Backlog NOT DISCLOSED; order intake NOT DISCLOSED; book-to-bill NOT DISCLOSED; quoted lead time NOT DISCLOSED - as of 2026-08-08
+	All NOT DISCLOSED
+	Vulcan Elements public disclosures through 2026-08-08. (Vulcan Elements)
+	
+Niron Magnetics
+	Private company - rare-earth-free magnets
+	Backlog NOT DISCLOSED; order intake NOT DISCLOSED; book-to-bill NOT DISCLOSED; quoted lead time NOT DISCLOSED - as of 2026-08-08
+	All NOT DISCLOSED
+	Niron Magnetics news/press, accessed 2026-08-08. (Niron)
+	
+
+PART 3 - CONTRACTED SUPPLY / GOVERNMENT ARRANGEMENTS
+Announcements: 2025-01-01 to 2026-08-08
+item
+	series/class
+	latest value + date
+	year-ago value / status
+	source (publication + date)
+	
+Noveon Magnetics <-> Nidec Motor Corp.
+	BINDING OFFTAKE
+	Announced 2025-02-03; >1,000 tons total potential finished sintered NdFeB; annual t/yr NOT DISCLOSED; start 2025; duration 5 years
+	Physical capacity: COMMISSIONED/OPERATING; deliveries scheduled from 2025; FID: N/A / NOT DISCLOSED
+	Noveon, binding off-take announcement, 2025-02-03. (Noveon)
+	
+Arafura <-> Traxys Europe
+	BINDING OFFTAKE
+	100 t/yr NdPr oxide firm; seller option for additional 200 t/yr; duration 5 years; start tied to Nolans production
+	FID: YES - 2026-05-21; Nolans physical production NOT COMMISSIONED as of 2026-08-08
+	Arafura 2025 Annual Report; Traxys agreement announced 2025-03-20. (Arafura)
+	
+MP Materials <-> U.S. DoD/DoW
+	BINDING OFFTAKE + PRICE-PROTECTION AGREEMENT
+	Announced 2025-07-10; NdPr USD 110/kg floor for 10 years; 10X magnets: 100% of output for 10 years after construction; magnet t/yr NOT DISCLOSED; magnet purchase price NOT DISCLOSED
+	Price protection commenced 2025-10-01. 10X UNDER DEVELOPMENT; NOT COMMISSIONED. 2028 commissioning = COMPANY TARGET. Formal FID NOT DISCLOSED
+	MP Materials/DoD, 2025-07-10; MP FY2025 results 2026-02-26. (MP Materials)
+	
+MP Materials <-> Apple
+	BINDING/DEFINITIVE LONG-TERM SUPPLY AGREEMENT
+	Announced 2025-07-15; USD 500m partnership; U.S.-made magnets from recycled material; t/yr NOT DISCLOSED; exact duration NOT DISCLOSED
+	Independence magnet capacity exists; agreement-specific delivered tonnage NOT DISCLOSED; FID N/A / NOT DISCLOSED
+	MP Materials/Apple, 2025-07-15. (MP Materials)
+	
+Noveon Magnetics <-> General Motors
+	BINDING SUPPLY AGREEMENT / OFFTAKE
+	Announced 2025-08-06; multi-year; t/yr NOT DISCLOSED; deliveries began July 2025
+	COMMISSIONED AND DELIVERING; FID N/A
+	Noveon, 2025-08-06. (Noveon)
+	
+Noveon Magnetics <-> ABB
+	BINDING LONG-TERM SUPPLY AGREEMENT / OFFTAKE
+	Announced 2025-08-14; t/yr NOT DISCLOSED; monthly deliveries from Aug 2025; duration exact NOT DISCLOSED
+	COMMISSIONED AND DELIVERING; scale to all magnet parts at ABB North American motor facility by end-2026 = COMPANY CONTRACT RAMP TARGET
+	Noveon/ABB, 2025-08-14. (Noveon)
+	
+Vulcan Elements <-> ReElement Technologies
+	OFFTAKE AGREEMENT; binding status beyond "finalized" NOT DISCLOSED
+	Announced 2025-08-19; commercial-scale light- and heavy-rare-earth oxides; t/yr NOT DISCLOSED; start/duration NOT DISCLOSED
+	Existing supply chain OPERATING; agreement-specific FID N/A / NOT DISCLOSED
+	Vulcan Elements, 2025-08-19. (Vulcan Elements)
+	
+Energy Fuels <-> Vulcan Elements
+	MOU
+	Announced 2025-08-26; initial high-purity light/heavy separated rare-earth oxides scheduled for validation in Q4 2025; t/yr and duration NOT DISCLOSED
+	Definitive long-term offtake NOT DISCLOSED; existing Energy Fuels NdPr capacity operating; MOU itself ANNOUNCEMENT/VALIDATION STAGE
+	Energy Fuels/Vulcan MOU, 2025-08-26. (Energy Fuels)
+	
+Torngat Metals <-> VACUUMSCHMELZE
+	MOU - NON-BINDING
+	Announced 2025-08-26; prospective long-term separated rare-earth oxide offtake; t/yr, start and duration NOT DISCLOSED
+	Strange Lake supply capacity NOT COMMISSIONED; FID NOT DISCLOSED
+	Torngat/VAC MOU, 2025-08-26. (Torngat)
+	
+Pensana <-> VACUUMSCHMELZE
+	MOU
+	Announced 2025-10-22; mine-to-magnet supply-chain cooperation; oxide t/yr NOT DISCLOSED; definitive start/duration NOT DISCLOSED
+	Upstream project capacity NOT COMMISSIONED as of announcement; eVAC downstream U.S. magnet plant later commissioned separately; FID of supply arrangement NOT DISCLOSED
+	Pensana/VAC, 2025-10-22. (Pensana)
+	
+Vulcan Elements + ReElement Technologies + U.S. government financing
+	NOT A SUPPLY AGREEMENT - CONDITIONAL GOVERNMENT FINANCING/INCENTIVES
+	Announced 2025-11-03. DERIVED: ~$750m public support = $620m Vulcan OSC loan + $80m ReElement OSC loan + $50m Commerce incentives. Vulcan 10,000 t/yr magnet capacity = COMPANY TARGET, not contracted tonnage.
+	New 10,000-t/yr capacity NOT COMMISSIONED; diligence/closing conditions remained; FID NOT DISCLOSED. Existing Vulcan/ReElement operations separately operating
+	Vulcan/ReElement partnership announcement, 2025-11-03. (Vulcan Elements)
+	
+Noveon Magnetics <-> Solvay
+	BINDING SUPPLY AGREEMENT / OFFTAKE
+	Announced 2025-11-12; light and heavy rare-earth oxides; supply begins 2026; t/yr and exact duration NOT DISCLOSED
+	Supplier physical separation capacity OPERATING; contract delivery tonnage NOT DISCLOSED
+	Noveon/Solvay, 2025-11-12. (Noveon)
+	
+Vulcan Elements <-> Ucore Rare Metals
+	MOU
+	Announced 2026-03-24; initial NdPr/Dy oxide samples in 2026; intended commercial supply beginning 2027; t/yr/duration NOT DISCLOSED
+	Definitive commercial agreement NOT DISCLOSED; relevant new Ucore commercial capacity NOT COMMISSIONED as of announcement
+	Vulcan/Ucore, 2026-03-24. (Vulcan Elements)
+	
+NioCorp <-> Traxys North America
+	LOI-CLASS / NON-BINDING TERM SHEET
+	Announced 2026-04-09; contemplated exclusive marketing/offtake of planned output for 10 years, subject to stated exceptions; rare-earth t/yr NOT DISCLOSED
+	Elk Creek physical production NOT COMMISSIONED; FID NOT DISCLOSED
+	NioCorp/Traxys term sheet, 2026-04-09. (NioCorp)
+	
+Serra Verde <-> U.S.-government-capitalized SPV
+	BINDING OFFTAKE
+	Announced 2026-04-20; 100% of Phase I production for 15 years; magnetic-REE t/yr NOT DISCLOSED; guaranteed price-floor levels NOT DISCLOSED
+	Serra Verde mine COMMISSIONED/OPERATING since 2024. 6,400 t REO/yr by end-2027 = COMPANY TARGET for total REO, not contracted magnetic-REE tonnage
+	Serra Verde announcement, 2026-04-20. (Serra Verde)
+	
+Arafura <-> Traxys North America
+	BINDING OFFTAKE TERM SHEET
+	Announced 2026-05-13/14; 500 t/yr NdPr oxide + 7.5 t/yr DyTb oxide; start/duration NOT DISCLOSED
+	Nolans FID: YES, 2026-05-21; physical capacity NOT COMMISSIONED as of 2026-08-08
+	Arafura/Traxys announcement, 2026-05-13/14; Arafura FID announcement, 2026-05-21. (Traxys)
+	
+Critical Metals / Tanbreez <-> REalloys
+	BINDING OFFTAKE
+	Announced 2026-05-21; duration 15 years; annual rare-earth concentrate t/yr NOT DISCLOSED
+	Tanbreez physical production NOT COMMISSIONED; FID NOT DISCLOSED
+	Critical Metals/REalloys, 2026-05-21. (Critical Metals)
+	
+Niron Magnetics <-> U.S. Department of War OSC
+	NOT A SUPPLY AGREEMENT - CONDITIONAL DIRECT-LOAN COMMITMENT
+	Up to USD 150m; 20-year loan term - announced 2026-08-07. Supports Sartell Plant 1. 1,500 t/yr = COMPANY TARGET plant capacity, not contracted supply.
+	Plant broke ground 2025-09-29; NOT COMMISSIONED; full operation in 2027 = COMPANY TARGET; formal FID NOT DISCLOSED
+	Niron Magnetics/DoW OSC, 2026-08-07; Niron groundbreaking, 2025-09-29. (Niron)
+	
+Niron Magnetics - Section 48C support
+	NOT A SUPPLY AGREEMENT - U.S. GOVERNMENT TAX CREDIT
+	USD 52.2m tax credit - January 2025; tonnes/start/duration NOT APPLICABLE
+	Sartell capacity then remained future capacity; NOT COMMISSIONED
+	Niron/DOE-Treasury program disclosure, January 2025; later status confirmed by Niron 2025 plant announcement. (Niron)
+	
+
+PART 4 - ACTUATOR LAYER / HUMANOIDS / RARE-EARTH-FREE MAGNETS
+item
+	series/class
+	latest value + date
+	year-ago value
+	source (publication + date)
+	
+Humanoid actuator ASP
+	Reported actual ASP
+	NOT DISCLOSED
+	NOT DISCLOSED
+	HDS and Nabtesco latest public reducer/IR materials reviewed through 2026-08-08 disclose no humanoid-actuator ASP. (HDS)
+	
+Reducer share of humanoid actuator cost
+	Reported actual cost share
+	NOT DISCLOSED
+	NOT DISCLOSED
+	HDS and Nabtesco latest public materials reviewed through 2026-08-08 disclose no humanoid-specific reducer cost-share percentage. (HDS)
+	
+Unitree - humanoid deliveries
+	REPORTED ACTUAL
+	2026 YTD: NOT DISCLOSED as of 2026-08-08
+	2025: >5,500 humanoid robots actually sold and delivered to end customers; >6,500 units total mass-production output
+	Unitree, "Clarification Regarding Unitree's 2025 Sales Data," 2026-01-22. (Unitree)
+	
+AGIBOT - cumulative production
+	REPORTED ACTUAL milestone; not equivalent to annual deliveries
+	10,000th humanoid robot rolled off line - 2026-03-30; 2026-only delivery count NOT DISCLOSED
+	Company-specific 2025 delivered-unit actual NOT DISCLOSED in cited company release
+	AGIBOT, "AGIBOT Reaches 10,000 Units," 2026-03-30. (AGIBOT)
+	
+UBTECH - full-size embodied-intelligence humanoids
+	REPORTED ACTUAL
+	2026 YTD units: NOT DISCLOSED as of 2026-08-08
+	2025 sales: 1,079 units; >1,000 units delivered and revenue recognized
+	UBTECH FY2025 disclosure, 2026-07-13. (UBTECH)
+	
+Niron Clean Earth / Iron Nitride - maximum energy product
+	Rare-earth-free permanent magnet - COMPANY TARGET, not reported commercial production actual
+	Up to 36 MGOe = stated target; current commercially delivered-grade MGOe NOT DISCLOSED
+	Same public technical target
+	Niron Magnetics white paper filed with NIST; public record accessed 2026-08-08. The document states the magnet "will have" energy product as high as 36 MGOe. (NIST filing)
+	
+SMM NdFeB 45UH reference performance
+	NdFeB benchmark; 4 mm, Br>=13.3, Hcj>=24
+	DERIVED: 42.98-45.99 MGOe from SMM's published 342-366 kJ/m3 BHmax specification, using 1 MGOe = 7.957747 kJ/m3 - specification current 2026-08-07
+	Same product-specification range
+	SMM NdFeB 45UH series/specification, 2026-08-07. (SMM)
+	
+Niron vs SMM NdFeB 45UH
+	Rare-earth-free target vs NdFeB specification
+	Niron target 36 MGOe vs DERIVED SMM 45UH 42.98-45.99 MGOe; not an apples-to-apples delivered-product comparison because Niron figure is a TARGET
+	NOT APPLICABLE
+	Niron white paper; SMM NdFeB 45UH specification, accessed 2026-08-08. (NIST filing)
+	
+Niron - delivered magnet tonnage
+	Rare-earth-free Iron Nitride
+	NOT DISCLOSED. Sartell Plant 1 1,500 t/yr = COMPANY TARGET capacity; NOT delivered tonnage
+	NOT DISCLOSED
+	Niron groundbreaking 2025-09-29; DoW conditional commitment 2026-08-07. (Niron)
+	
+Niron - physical capacity status
+	Rare-earth-free Iron Nitride
+	Sartell Plant 1: UNDER CONSTRUCTION, NOT COMMISSIONED; 1,500 t/yr TARGET; operation in 2027 TARGET
+	Pilot/commercial-sampling capacity existed; delivered tonnage NOT DISCLOSED
+	Niron, 2025-09-29; Wood EPCM disclosure, 2026. (Niron)
+	
+

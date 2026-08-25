@@ -1,0 +1,95 @@
+# ===== CLEAN TOP-5 OUTPUT (auto-detects your ACTIVE dataframe) =====
+# Drop this at the very end of your notebook after you build your rules tables.
+
+import pandas as pd
+
+MIN_PROB = 0.65
+TOP_N = 5
+RANK_MODE = "TP_THEN_PROB"   # "TP_THEN_PROB" or "PROB_THEN_TP"
+
+def _find_active_df():
+    """
+    Try to find the dataframe you printed as:
+    'ACTIVE TODAY (triggered_today=True) ...'
+    We look for a DataFrame in globals() that contains the required columns.
+    """
+    candidates = []
+    required = {"ticker","today_dist_sma20_pct","TP_pct","hit_rate","samples","triggered_today"}
+    for name, obj in globals().items():
+        if isinstance(obj, pd.DataFrame) and required.issubset(set(obj.columns)):
+            # prioritize objects that are already filtered to triggered_today
+            score = 0
+            try:
+                if (obj["triggered_today"] == True).any():
+                    score += 10
+            except Exception:
+                pass
+            # prefer "active" in the variable name if present
+            if "active" in name.lower():
+                score += 5
+            candidates.append((score, name, obj))
+    if not candidates:
+        return None, None
+    candidates.sort(key=lambda x: x[0], reverse=True)
+    return candidates[0][1], candidates[0][2]
+
+def pick_best_rule_per_ticker(df: pd.DataFrame,
+                              min_prob: float = 0.65,
+                              rank_mode: str = "TP_THEN_PROB") -> pd.DataFrame:
+    if df is None or df.empty:
+        return pd.DataFrame()
+
+    d = df.copy()
+    d = d[d["triggered_today"] == True]
+    d = d[d["hit_rate"] >= min_prob]
+    d = d.dropna(subset=["ticker","today_dist_sma20_pct","TP_pct","hit_rate","samples"])
+
+    if d.empty:
+        return pd.DataFrame()
+
+    # pick best rule within each ticker
+    if rank_mode.upper() == "PROB_THEN_TP":
+        d = d.sort_values(["ticker","hit_rate","TP_pct","samples"],
+                          ascending=[True, False, False, False])
+    else:
+        d = d.sort_values(["ticker","TP_pct","hit_rate","samples"],
+                          ascending=[True, False, False, False])
+
+    best = d.groupby("ticker", as_index=False).head(1).copy()
+
+    # rank across tickers
+    if rank_mode.upper() == "PROB_THEN_TP":
+        best = best.sort_values(["hit_rate","TP_pct","samples"], ascending=[False, False, False])
+    else:
+        best = best.sort_values(["TP_pct","hit_rate","samples"], ascending=[False, False, False])
+
+    return best
+
+# --- find your active df automatically ---
+df_name, active_df = _find_active_df()
+
+if active_df is None:
+    print("Couldn't find an ACTIVE dataframe automatically.")
+    print("Fix: set ACTIVE_DF = <your active-today dataframe variable name> and rerun this cell.")
+else:
+    best = pick_best_rule_per_ticker(active_df, min_prob=MIN_PROB, rank_mode=RANK_MODE).head(TOP_N)
+
+    if best.empty:
+        print(f"No ACTIVE signals found with hit_rate >= {MIN_PROB:.0%}. (Source df: {df_name})")
+    else:
+        out = best[["ticker","today_dist_sma20_pct","TP_pct","hit_rate","samples"]].copy()
+        out = out.rename(columns={
+            "ticker": "Ticker",
+            "today_dist_sma20_pct": "% under SMA20",
+            "TP_pct": "TP",
+            "hit_rate": "Probability",
+            "samples": "N"
+        })
+
+        out["% under SMA20"] = out["% under SMA20"].map(lambda x: f"{x:.2f}%")
+        out["TP"] = out["TP"].map(lambda x: f"+{float(x):.0f}%")
+        out["Probability"] = out["Probability"].map(lambda x: f"{x*100:.1f}%")
+
+        print(f"=== TOP {TOP_N} (triggered today) | min P >= {MIN_PROB:.0%} | rank={RANK_MODE} ===")
+        print(f"Using dataframe: {df_name}")
+        display(out[["Ticker","% under SMA20","TP","Probability","N"]])

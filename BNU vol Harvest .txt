@@ -1,0 +1,269 @@
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+
+# =============================
+# CONFIG
+# =============================
+MASTER_PATH = "/content/drive/MyDrive/sp500_MASTER_FINAL_MERGED.csv"
+
+# Your Bottleneck Universe (31 stocks)
+BOTTLENECK_UNIVERSE = [
+    # Compute & Fabrication
+    "NVDA", "AMD", "ASML", "AMAT", "LRCX", "KLAC", "SMCI", "MPWR", "ON", "ARM",
+    # Networking & Data Movement
+    "ANET", "CSCO", "CIEN", "COHR", "LITE",
+    # Power, Grid & Electrification
+    "ETN", "HUBB", "ABB", "GEV", "PWR",
+    # Cooling & Data Center Infra
+    "VRT", "JCI", "TT", "EMR",
+    # Baseload Energy
+    "CEG", "VST", "BWXT",
+    # Industrial Automation
+    "ROK", "TER"
+]
+
+LOOKBACK_DAYS = 60  # Analyze last 60 trading days
+TOP_N = 5  # Top 5 picks for next week
+
+print("=" * 80)
+print("BOTTLENECK VOL HARVEST SCANNER")
+print(f"Analyzing {len(BOTTLENECK_UNIVERSE)} stocks from your universe")
+print("=" * 80)
+print()
+
+# =============================
+# LOAD DATA
+# =============================
+df_raw = pd.read_csv(MASTER_PATH, parse_dates=["date"], low_memory=False)
+df_raw["ticker"] = df_raw["ticker"].astype(str).str.upper()
+
+cols = ["date", "ticker", "open", "high", "low", "close", "volume"]
+df = df_raw[cols].dropna().copy()
+
+for c in ["open", "high", "low", "close", "volume"]:
+    df[c] = pd.to_numeric(df[c], errors="coerce")
+
+df = df.dropna()
+
+# Filter to bottleneck universe
+df = df[df["ticker"].isin(BOTTLENECK_UNIVERSE)].copy()
+df = df.sort_values(["ticker", "date"]).reset_index(drop=True)
+
+# Get last 60 days
+cutoff_date = df["date"].max() - timedelta(days=LOOKBACK_DAYS)
+recent = df[df["date"] >= cutoff_date].copy()
+
+print(f"Data range: {recent['date'].min().date()} → {recent['date'].max().date()}")
+print(f"Tickers available: {recent['ticker'].nunique()}")
+print()
+
+# =============================
+# CALCULATE VOL METRICS
+# =============================
+
+def calculate_metrics(ticker_df):
+    """Calculate volatility metrics for ranking"""
+    if len(ticker_df) < 20:
+        return None
+    
+    ticker_df = ticker_df.sort_values("date").copy()
+    
+    # Daily returns
+    ticker_df["return"] = ticker_df["close"].pct_change()
+    
+    # Realized volatility (20-day)
+    realized_vol = ticker_df["return"].rolling(20, min_periods=20).std().iloc[-1]
+    
+    # ATR (14-day)
+    ticker_df["prev_close"] = ticker_df["close"].shift(1)
+    ticker_df["tr"] = ticker_df[["high", "low", "prev_close"]].apply(
+        lambda x: max(
+            x["high"] - x["low"],
+            abs(x["high"] - x["prev_close"]),
+            abs(x["low"] - x["prev_close"])
+        ), axis=1
+    )
+    atr = ticker_df["tr"].rolling(14, min_periods=14).mean().iloc[-1]
+    atr_pct = atr / ticker_df["close"].iloc[-1]
+    
+    # Intraday range (median last 20 days)
+    ticker_df["range_pct"] = (ticker_df["high"] - ticker_df["low"]) / ticker_df["low"]
+    median_range = ticker_df["range_pct"].tail(20).median()
+    
+    # Bollinger Band width
+    sma20 = ticker_df["close"].rolling(20, min_periods=20).mean().iloc[-1]
+    std20 = ticker_df["close"].rolling(20, min_periods=20).std().iloc[-1]
+    bb_width = (4 * std20) / sma20 if sma20 > 0 else 0
+    
+    # Recent price action (last 5 days)
+    recent_5d_return = (ticker_df["close"].iloc[-1] / ticker_df["close"].iloc[-6] - 1) if len(ticker_df) >= 6 else 0
+    
+    # Current price vs 20-day SMA (are we in a dip?)
+    dist_from_sma = (ticker_df["close"].iloc[-1] / sma20 - 1) if sma20 > 0 else 0
+    
+    # Liquidity (avg dollar volume)
+    ticker_df["dollar_vol"] = ticker_df["close"] * ticker_df["volume"]
+    avg_dollar_vol = ticker_df["dollar_vol"].tail(20).mean()
+    
+    return {
+        "ticker": ticker_df["ticker"].iloc[0],
+        "close": ticker_df["close"].iloc[-1],
+        "realized_vol": realized_vol,
+        "atr_pct": atr_pct,
+        "median_range_pct": median_range,
+        "bb_width": bb_width,
+        "recent_5d_return": recent_5d_return,
+        "dist_from_sma20": dist_from_sma,
+        "avg_dollar_vol_20d": avg_dollar_vol
+    }
+
+results = []
+for ticker in BOTTLENECK_UNIVERSE:
+    ticker_df = recent[recent["ticker"] == ticker].copy()
+    if len(ticker_df) < 20:
+        continue
+    
+    metrics = calculate_metrics(ticker_df)
+    if metrics:
+        results.append(metrics)
+
+metrics_df = pd.DataFrame(results)
+
+if metrics_df.empty:
+    raise SystemExit("No data available for bottleneck universe")
+
+# =============================
+# CALCULATE VOL HARVEST SCORE
+# =============================
+
+# Normalize metrics (z-scores)
+for col in ["realized_vol", "atr_pct", "median_range_pct", "bb_width"]:
+    mean = metrics_df[col].mean()
+    std = metrics_df[col].std()
+    if std > 0:
+        metrics_df[f"{col}_z"] = (metrics_df[col] - mean) / std
+    else:
+        metrics_df[f"{col}_z"] = 0
+
+# Vol Harvest Score = higher volatility = higher score
+metrics_df["vol_score"] = (
+    metrics_df["realized_vol_z"] * 0.30 +
+    metrics_df["atr_pct_z"] * 0.30 +
+    metrics_df["median_range_pct_z"] * 0.25 +
+    metrics_df["bb_width_z"] * 0.15
+)
+
+# Sort by vol score
+metrics_df = metrics_df.sort_values("vol_score", ascending=False).reset_index(drop=True)
+
+# =============================
+# OUTPUT TOP PICKS
+# =============================
+
+top_picks = metrics_df.head(TOP_N).copy()
+
+# Calculate suggested TP/Stop based on recent behavior
+top_picks["suggested_tp_pct"] = (top_picks["median_range_pct"] * 0.6).clip(0.025, 0.05)  # 2.5% to 5%
+top_picks["suggested_stop_pct"] = (top_picks["median_range_pct"] * 0.4).clip(0.015, 0.03)  # 1.5% to 3%
+
+# Round for display
+top_picks["suggested_tp_pct"] = (top_picks["suggested_tp_pct"] * 100).round(1)
+top_picks["suggested_stop_pct"] = (top_picks["suggested_stop_pct"] * 100).round(1)
+top_picks["realized_vol"] = (top_picks["realized_vol"] * 100).round(2)
+top_picks["atr_pct"] = (top_picks["atr_pct"] * 100).round(2)
+top_picks["median_range_pct"] = (top_picks["median_range_pct"] * 100).round(2)
+top_picks["recent_5d_return"] = (top_picks["recent_5d_return"] * 100).round(2)
+top_picks["dist_from_sma20"] = (top_picks["dist_from_sma20"] * 100).round(2)
+top_picks["avg_dollar_vol_20d"] = (top_picks["avg_dollar_vol_20d"] / 1e6).round(1)
+
+print("=" * 80)
+print(f"TOP {TOP_N} BOTTLENECK VOL HARVEST PICKS")
+print("=" * 80)
+print()
+
+display_cols = [
+    "ticker", "close", "vol_score", 
+    "realized_vol", "atr_pct", "median_range_pct",
+    "recent_5d_return", "dist_from_sma20",
+    "suggested_tp_pct", "suggested_stop_pct",
+    "avg_dollar_vol_20d"
+]
+
+print(top_picks[display_cols].to_string(index=False))
+print()
+
+# =============================
+# POSITION SIZING RECOMMENDATION
+# =============================
+
+TOTAL_CAPITAL = 2500  # Deploy $2,500 across 5 positions
+position_size = TOTAL_CAPITAL / TOP_N
+
+print("=" * 80)
+print("POSITION SIZING (Equal Weight)")
+print("=" * 80)
+print()
+print(f"Total capital to deploy: ${TOTAL_CAPITAL:,.0f}")
+print(f"Position size per stock: ${position_size:,.0f}")
+print()
+
+for _, row in top_picks.iterrows():
+    ticker = row["ticker"]
+    price = row["close"]
+    shares = position_size / price
+    tp_price = price * (1 + row["suggested_tp_pct"] / 100)
+    stop_price = price * (1 - row["suggested_stop_pct"] / 100)
+    
+    print(f"{ticker}:")
+    print(f"  Entry: ${price:.2f} × {shares:.2f} shares = ${position_size:.0f}")
+    print(f"  TP:    ${tp_price:.2f} (+{row['suggested_tp_pct']:.1f}%)")
+    print(f"  Stop:  ${stop_price:.2f} (-{row['suggested_stop_pct']:.1f}%)")
+    print()
+
+# =============================
+# SAVE RESULTS
+# =============================
+
+output_path = "/content/drive/MyDrive/BOTTLENECK_VOL_HARVEST_PICKS.csv"
+metrics_df.to_csv(output_path, index=False)
+
+picks_path = "/content/drive/MyDrive/BOTTLENECK_TOP5_PICKS.csv"
+top_picks.to_csv(picks_path, index=False)
+
+print("=" * 80)
+print("FILES SAVED")
+print("=" * 80)
+print(output_path)
+print(picks_path)
+print()
+
+# =============================
+# EXECUTION PLAN
+# =============================
+
+print("=" * 80)
+print("EXECUTION PLAN FOR MONDAY")
+print("=" * 80)
+print()
+print("1. MONDAY 9:30 AM: Exit TSLA position")
+print("   - Sell 14.4547 shares at market")
+print("   - Expected proceeds: ~$5,910")
+print()
+print(f"2. MONDAY 9:45 AM: Enter top {TOP_N} positions")
+print("   - Wait 15 min after open for volatility to settle")
+print("   - Use limit orders slightly above current ask")
+print()
+print("3. IMMEDIATELY after each fill:")
+print("   - Set TP limit sell (GTC)")
+print("   - Set Stop loss (GTC)")
+print("   - Set price alerts (optional backup)")
+print()
+print("4. DAILY 4:05 PM: Update tracking sheet")
+print("   - Check which positions hit TP/Stop")
+print("   - Replace closed positions with next picks from list")
+print()
+print("5. FRIDAY 5:00 PM: Run this scanner again")
+print("   - Get fresh top 5 for next week")
+print("   - Rotate if volatility rankings changed")
+print()

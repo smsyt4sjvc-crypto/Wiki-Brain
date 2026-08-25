@@ -1,0 +1,32 @@
+Dividend Yield
+	•	Rolling Dividend
+	•	P/E Range
+	•	P/E Ratio
+	•	Revenues
+	•	Rolling EPS
+	•	Bollinger Bands®
+	•	Moving Average Convergence Divergence (MACD)
+	•	Mass Index
+	•	Momentum
+	•	Relative Strength Index (RSI)
+	•	Price Rate of Change (PROC)
+	•	Fast Stochastics
+	•	Slow Stochastics
+	•	Ultimate Oscillator
+	•	Chaikin’s Volatility
+	•	William’s %R
+	•	Directional Movement Index (DMI)
+	•	Exponential Moving Average
+	•	Moving Average Envelope
+	•	MACD Histogram
+	•	Price Channel
+	•	Simple Moving Average
+	•	Weighted Moving Average
+	•	Linear Regression
+	•	Time Series Forecast
+	•	Last Close
+	•	Accumulation Distribution
+	•	Money Flow Index
+	•	On Balance Volume (OBV)
+	•	Volume
+	•	Volume Rate of Change (VROC)

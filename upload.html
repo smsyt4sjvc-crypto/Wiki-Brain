@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M8GD3MLRG5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-M8GD3MLRG5');
+  // INMA conversion events — auto-track contact CTAs
+  document.addEventListener('click', function(e){
+    var a = e.target.closest && e.target.closest('a[href]'); if (!a) return;
+    var h = a.getAttribute('href') || '';
+    if (h.indexOf('tel:') === 0)         gtag('event', 'phone_call',   {link_url:h});
+    else if (h.indexOf('sms:') === 0)    gtag('event', 'text_message', {link_url:h});
+    else if (h.indexOf('mailto:') === 0) gtag('event', 'email_click',  {link_url:h});
+    else if (h.indexOf('.vcf') !== -1)   gtag('event', 'save_contact', {link_url:h});
+  });
+</script>
+<meta charset="UTF-8">
+<link rel="canonical" href="https://inmagent.com/upload.html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="apple-touch-icon" href="/IMG_6892.jpeg">
+<link rel="icon" type="image/jpeg" href="/IMG_6892.jpeg">
+<title>Upload Your Quote — INMA</title>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Outfit', sans-serif; background: #F5F2ED; color: #3A3835; min-height: 100vh; }
+
+.header { background: #1C1A17; padding: 16px 24px; display: flex; align-items: center; gap: 14px; }
+.header-logo { color: #B8941F; font-size: 1.2rem; font-weight: 700; letter-spacing: 0.08em; }
+.header-back { color: rgba(245,242,237,0.5); font-size: 0.82rem; text-decoration: none; }
+.header-back:hover { color: #B8941F; }
+
+.hero { background: #1C1A17; padding: 32px 24px 40px; text-align: center; border-bottom: 1px solid rgba(184,148,31,0.2); }
+.hero-eyebrow { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #B8941F; margin-bottom: 10px; }
+.hero-title { font-size: 1.6rem; font-weight: 700; color: #F5F2ED; line-height: 1.2; margin-bottom: 10px; }
+.hero-sub { font-size: 0.88rem; color: rgba(245,242,237,0.55); max-width: 360px; margin: 0 auto; line-height: 1.6; }
+
+.form-wrap { max-width: 520px; margin: 0 auto; padding: 32px 20px 60px; }
+
+.field { margin-bottom: 16px; }
+.field label { display: block; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: #5A5450; margin-bottom: 6px; }
+.field input, .field select, .field textarea {
+  width: 100%; border: 1.5px solid #D6D0C6; border-radius: 10px;
+  padding: 14px 16px; font-family: 'Outfit', sans-serif; font-size: 0.95rem;
+  color: #1C1A17; background: white; outline: none; transition: border-color 0.2s;
+}
+.field input:focus, .field select:focus, .field textarea:focus { border-color: #B8941F; }
+.field textarea { resize: vertical; min-height: 80px; }
+.field select { appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%237A7269' stroke-width='1.5' fill='none'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 16px center; }
+
+/* FILE UPLOAD */
+.file-zone {
+  border: 2px dashed #C8C2B8; border-radius: 12px; background: white;
+  padding: 32px 20px; text-align: center; cursor: pointer; transition: all 0.2s;
+  position: relative; margin-bottom: 16px;
+}
+.file-zone:hover, .file-zone.dragover { border-color: #B8941F; background: #FDF8EE; }
+.file-zone input[type="file"] { position: absolute; inset: 0; opacity: 0; cursor: pointer; width: 100%; height: 100%; }
+.file-icon { font-size: 2rem; margin-bottom: 10px; }
+.file-title { font-size: 0.95rem; font-weight: 600; color: #1C1A17; margin-bottom: 4px; }
+.file-sub { font-size: 0.78rem; color: #7A7269; }
+.file-preview { display: none; align-items: center; gap: 12px; background: #EEF6EE; border: 1.5px solid #4a7c59; border-radius: 10px; padding: 12px 16px; margin-bottom: 16px; }
+.file-preview.visible { display: flex; }
+.file-preview-name { font-size: 0.85rem; font-weight: 600; color: #2a5c3a; flex: 1; word-break: break-all; }
+.file-preview-remove { background: none; border: none; color: #7A7269; cursor: pointer; font-size: 1.1rem; flex-shrink: 0; }
+
+.submit-btn {
+  width: 100%; background: #B8941F; color: white; border: none; border-radius: 10px;
+  padding: 18px; font-family: 'Outfit', sans-serif; font-size: 1rem; font-weight: 700;
+  cursor: pointer; transition: background 0.2s; margin-top: 8px;
+}
+.submit-btn:hover { background: #9A7C1A; }
+.submit-btn:disabled { background: #C8C2B8; cursor: not-allowed; }
+
+.note { font-size: 0.75rem; color: #A09890; text-align: center; margin-top: 14px; line-height: 1.5; }
+
+/* SUCCESS */
+.success-screen { display: none; text-align: center; padding: 60px 24px; max-width: 400px; margin: 0 auto; }
+.success-screen.visible { display: block; }
+.success-icon { width: 72px; height: 72px; background: #4a7c59; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 2rem; margin: 0 auto 20px; }
+.success-screen h2 { font-size: 1.4rem; font-weight: 700; color: #1C1A17; margin-bottom: 10px; }
+.success-screen p { font-size: 0.88rem; color: #5A5450; line-height: 1.65; margin-bottom: 24px; }
+.success-back { display: inline-block; color: #B8941F; font-weight: 600; text-decoration: none; font-size: 0.88rem; border-bottom: 1px solid #B8941F; }
+</style>
+<script src="/inma-fb-rescue.js"></script>
+</head>
+<body>
+
+<div class="header">
+  <a href="/" class="header-back">← inmagent.com</a>
+  <div class="header-logo">INMA</div>
+</div>
+
+<div class="hero">
+  <div class="hero-eyebrow">Free Quote Comparison</div>
+  <div class="hero-title">Upload Your Quote.<br>I'll Walk You Through It.</div>
+  <div class="hero-sub">Upload your quote below — no account needed. Jake will review it and get back to you within one business day.</div>
+</div>
+
+<div class="form-wrap">
+
+  <!-- SUCCESS SCREEN -->
+  <div class="success-screen" id="successScreen">
+    <div class="success-icon">✓</div>
+    <h2>Got it — thanks!</h2>
+    <p>Jake will review your quote and reach out within one business day with a comparison and his honest take.</p>
+    <a href="/jake.vcf" download="Jake Bishop - INMA.vcf" style="display:inline-flex;align-items:center;gap:8px;background:#B8941F;color:#1C1A17;padding:12px 22px;border-radius:8px;text-decoration:none;font-weight:700;font-size:0.9rem;margin-bottom:18px;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+      Save Jake's contact
+    </a>
+    <p style="font-size:0.78rem;color:#8A857E;margin-top:-8px;margin-bottom:18px;">So you'll recognize his reply when it comes in.</p>
+    <a href="/" class="success-back">← Back to inmagent.com</a>
+  </div>
+
+  <!-- FORM -->
+  <div id="uploadForm">
+    <div class="field">
+      <label>Your Name</label>
+      <input type="text" id="fname" name="name" placeholder="First and last name" required>
+    </div>
+    <div class="field">
+      <label>Phone</label>
+      <input type="tel" id="fphone" name="phone" placeholder="(509) 000-0000">
+    </div>
+    <div class="field">
+      <label>Email</label>
+      <input type="email" id="femail" name="email" placeholder="email@example.com">
+    </div>
+    <div class="field">
+      <label>What are you uploading?</label>
+      <select id="ftype" name="upload_type">
+        <option value="">Select one...</option>
+        <option value="National Quote">National firm quote (DaBella, etc.)</option>
+        <option value="Local Quote">Local contractor quote</option>
+        <option value="Not Sure">Not sure</option>
+      </select>
+    </div>
+
+    <div class="field"><label>Photo or PDF of Quote</label></div>
+    <div class="file-zone" id="fileZone">
+      <input type="file" id="fileInput" accept="image/*,application/pdf" onchange="handleFile(this)">
+      <div class="file-icon">📎</div>
+      <div class="file-title">Tap to snap a photo or choose a file</div>
+      <div class="file-sub">JPG, PNG, PDF — up to 25MB</div>
+    </div>
+    <div class="file-preview" id="filePreview">
+      <span>📄</span>
+      <span class="file-preview-name" id="fileName"></span>
+      <button class="file-preview-remove" onclick="removeFile()">✕</button>
+    </div>
+
+    <div class="field">
+      <label>Anything else we should know? <span style="font-weight:400;text-transform:none;font-size:0.75rem;">(optional)</span></label>
+      <textarea id="fnotes" name="notes" placeholder="Quote date, project details, questions..."></textarea>
+    </div>
+
+    <button class="submit-btn" id="submitBtn" onclick="handleSubmit()">Submit Quote for Review →</button>
+    <div class="note">Your information is private and sent only to Jake at INMA.<br>No spam. No account needed.</div>
+  </div>
+
+</div>
+
+<script>
+// ── IMGBB API KEY — sign up free at imgbb.com → API → copy key → paste here ──
+const IMGBB_KEY = 'YOUR_IMGBB_KEY_HERE';
+const FORMSPREE = 'https://formspree.io/f/xgollken';
+
+let selectedFile = null;
+
+function handleFile(input) {
+  selectedFile = input.files[0];
+  if (!selectedFile) return;
+  document.getElementById('fileName').textContent = selectedFile.name;
+  document.getElementById('filePreview').classList.add('visible');
+  document.getElementById('fileZone').style.display = 'none';
+}
+
+function removeFile() {
+  selectedFile = null;
+  document.getElementById('fileInput').value = '';
+  document.getElementById('filePreview').classList.remove('visible');
+  document.getElementById('fileZone').style.display = 'block';
+}
+
+async function handleSubmit() {
+  const name = document.getElementById('fname').value.trim();
+  const phone = document.getElementById('fphone').value.trim();
+  const email = document.getElementById('femail').value.trim();
+  const type = document.getElementById('ftype').value;
+  const notes = document.getElementById('fnotes').value.trim();
+
+  if (!name) { alert('Please enter your name.'); return; }
+  if (!phone && !email) { alert('Please enter a phone number or email so Jake can reach you.'); return; }
+
+  const btn = document.getElementById('submitBtn');
+  btn.disabled = true;
+  btn.textContent = 'Uploading...';
+
+  // Upload image to ImgBB first if a file was selected
+  let imageUrl = null;
+  if (selectedFile && IMGBB_KEY !== 'YOUR_IMGBB_KEY_HERE') {
+    try {
+      const imgData = new FormData();
+      imgData.append('image', selectedFile);
+      const imgRes = await fetch('https://api.imgbb.com/1/upload?key=' + IMGBB_KEY, {
+        method: 'POST', body: imgData
+      });
+      const imgJson = await imgRes.json();
+      if (imgJson.success) imageUrl = imgJson.data.url;
+    } catch(e) {}
+  }
+
+  btn.textContent = 'Sending...';
+
+  // Submit to Formspree
+  try {
+    const res = await fetch(FORMSPREE, {
+      method: 'POST',
+      headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        _subject: 'Quote Upload — ' + (type || 'Unknown') + ' — ' + name,
+        name, phone: phone||'—', email: email||'—',
+        upload_type: type||'—',
+        image_url: imageUrl || '(no image uploaded)',
+        notes: notes||'—'
+      })
+    });
+    const data = await res.json();
+    if (data.ok || res.ok) {
+      var uploadType = encodeURIComponent(document.getElementById('ftype').value || 'unspecified');
+      // Redirect to /thank-you.html so Google Ads + analytics see a distinct conversion URL
+      window.location.href = '/thank-you.html?for=quote-upload&type=' + uploadType;
+    } else {
+      throw new Error('failed');
+    }
+  } catch(e) {
+    alert('Something went wrong. Please text Jake directly at (509) 251-7792.');
+    btn.disabled = false;
+    btn.textContent = 'Submit Quote for Review →';
+  }
+}
+
+// Drag and drop
+const zone = document.getElementById('fileZone');
+zone.addEventListener('dragover', e => { e.preventDefault(); zone.classList.add('dragover'); });
+zone.addEventListener('dragleave', () => zone.classList.remove('dragover'));
+zone.addEventListener('drop', e => {
+  e.preventDefault();
+  zone.classList.remove('dragover');
+  const file = e.dataTransfer.files[0];
+  if (file) { document.getElementById('fileInput').files = e.dataTransfer.files; handleFile(document.getElementById('fileInput')); }
+});
+</script>
+</body>
+</html>

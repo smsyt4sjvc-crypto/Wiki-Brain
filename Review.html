@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<!-- GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M8GD3MLRG5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-M8GD3MLRG5');
+  // INMA conversion events — auto-track contact CTAs
+  document.addEventListener('click', function(e){
+    var a = e.target.closest && e.target.closest('a[href]'); if (!a) return;
+    var h = a.getAttribute('href') || '';
+    if (h.indexOf('tel:') === 0)         gtag('event', 'phone_call',   {link_url:h});
+    else if (h.indexOf('sms:') === 0)    gtag('event', 'text_message', {link_url:h});
+    else if (h.indexOf('mailto:') === 0) gtag('event', 'email_click',  {link_url:h});
+    else if (h.indexOf('.vcf') !== -1)   gtag('event', 'save_contact', {link_url:h});
+  });
+</script>
+<meta charset="UTF-8">
+<link rel="canonical" href="https://inmagent.com/Review.html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="apple-touch-icon" href="/IMG_6892.jpeg">
+<link rel="icon" type="image/jpeg" href="/IMG_6892.jpeg">
+<title>INMA – Share Your Experience</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --cream: #f5f0e8;
+    --dark: #1c1a17;
+    --copper: #b5651d;
+    --copper-light: #d4813a;
+    --stone: #8a7e6e;
+    --card: #fdfaf4;
+    --border: #e0d8ca;
+    --success: #4a7c59;
+  }
+
+- { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+font-family: ‘DM Sans’, sans-serif;
+background: var(–cream);
+min-height: 100vh;
+color: var(–dark);
+padding: 0 0 60px;
+}
+
+/* ── HEADER ── */
+.header {
+background: var(–dark);
+padding: 24px 20px;
+text-align: center;
+position: relative;
+overflow: hidden;
+}
+.header::after {
+content: ‘’;
+position: absolute;
+bottom: 0; left: 0; right: 0;
+height: 3px;
+background: linear-gradient(90deg, transparent, var(–copper), var(–copper-light), var(–copper), transparent);
+}
+.logo-line {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+gap: 14px;
+}
+.logo-icon {
+width: 110px; height: 110px;
+border-radius: 12px;
+overflow: hidden;
+flex-shrink: 0;
+border: 3px solid var(–copper);
+box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+}
+.logo-icon img {
+width: 100%; height: 100%;
+object-fit: cover;
+object-position: center top;
+}
+.logo-text {
+font-family: ‘Playfair Display’, serif;
+font-size: 22px;
+font-weight: 900;
+color: #fff;
+letter-spacing: 3px;
+}
+.logo-sub {
+font-size: 10px;
+letter-spacing: 2.5px;
+color: var(–stone);
+text-transform: uppercase;
+font-weight: 300;
+}
+
+/* ── HERO ── */
+.hero {
+text-align: center;
+padding: 40px 20px 28px;
+}
+.hero h1 {
+font-family: ‘Playfair Display’, serif;
+font-size: clamp(28px, 7vw, 42px);
+font-weight: 700;
+line-height: 1.15;
+color: var(–dark);
+margin-bottom: 12px;
+}
+.hero h1 span { color: var(–copper); }
+.hero p {
+font-size: 15px;
+color: var(–stone);
+font-weight: 300;
+max-width: 340px;
+margin: 0 auto;
+line-height: 1.6;
+}
+
+/* ── CARD ── */
+.card {
+background: var(–card);
+border: 1px solid var(–border);
+border-radius: 16px;
+padding: 28px 22px;
+margin: 0 16px 20px;
+box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+}
+.card-title {
+font-family: ‘Playfair Display’, serif;
+font-size: 17px;
+font-weight: 700;
+margin-bottom: 18px;
+display: flex;
+align-items: center;
+gap: 10px;
+}
+.card-title .num {
+width: 26px; height: 26px;
+background: var(–copper);
+color: #fff;
+border-radius: 50%;
+display: flex; align-items: center; justify-content: center;
+font-size: 13px;
+font-family: ‘DM Sans’, sans-serif;
+font-weight: 500;
+flex-shrink: 0;
+}
+
+/* ── STARS ── */
+.stars {
+display: flex;
+gap: 10px;
+justify-content: center;
+margin: 4px 0 8px;
+}
+.star {
+font-size: 38px;
+cursor: pointer;
+transition: transform 0.15s, filter 0.15s;
+filter: grayscale(1) opacity(0.3);
+user-select: none;
+}
+.star.active { filter: none; transform: scale(1.1); }
+.star:hover { transform: scale(1.15); }
+.star-label {
+text-align: center;
+font-size: 13px;
+color: var(–stone);
+height: 18px;
+transition: opacity 0.2s;
+}
+
+/* ── PHRASE CHIPS ── */
+.phrases {
+display: flex;
+flex-wrap: wrap;
+gap: 9px;
+}
+.chip {
+background: white;
+border: 1.5px solid var(–border);
+border-radius: 100px;
+padding: 9px 16px;
+font-size: 13.5px;
+cursor: pointer;
+transition: all 0.18s;
+color: var(–dark);
+line-height: 1.3;
+font-weight: 400;
+user-select: none;
+}
+.chip:active { transform: scale(0.97); }
+.chip.selected {
+background: var(–dark);
+border-color: var(–dark);
+color: #fff;
+}
+.chip.selected::before { content: ’✓ ’; font-size: 12px; }
+
+/* ── NAME FIELD ── */
+.field-label {
+font-size: 11px;
+font-weight: 500;
+color: var(–stone);
+margin-bottom: 8px;
+letter-spacing: 0.5px;
+text-transform: uppercase;
+}
+input[type=“text”] {
+width: 100%;
+padding: 13px 16px;
+border: 1.5px solid var(–border);
+border-radius: 10px;
+font-family: ‘DM Sans’, sans-serif;
+font-size: 15px;
+background: white;
+color: var(–dark);
+outline: none;
+transition: border-color 0.2s;
+}
+input[type=“text”]:focus { border-color: var(–copper); }
+input[type=“text”]::placeholder { color: #bbb; }
+
+/* ── SUBMIT ── */
+.submit-btn {
+width: calc(100% - 32px);
+margin: 4px 16px 0;
+padding: 17px;
+background: var(–copper);
+color: white;
+border: none;
+border-radius: 12px;
+font-family: ‘DM Sans’, sans-serif;
+font-size: 16px;
+font-weight: 500;
+cursor: pointer;
+letter-spacing: 0.5px;
+transition: background 0.2s, transform 0.1s;
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 8px;
+}
+.submit-btn:hover { background: var(–copper-light); }
+.submit-btn:active { transform: scale(0.98); }
+.submit-btn:disabled { background: #ccc; cursor: not-allowed; }
+
+/* ── SUCCESS STATE ── */
+.success-screen {
+display: none;
+text-align: center;
+padding: 20px 24px;
+}
+.success-screen.visible { display: block; }
+.success-icon {
+width: 72px; height: 72px;
+background: var(–success);
+border-radius: 50%;
+display: flex; align-items: center; justify-content: center;
+font-size: 32px;
+margin: 0 auto 20px;
+}
+.success-screen h2 {
+font-family: ‘Playfair Display’, serif;
+font-size: 26px;
+margin-bottom: 10px;
+}
+.success-screen p {
+color: var(–stone);
+font-size: 15px;
+line-height: 1.6;
+margin-bottom: 28px;
+max-width: 320px;
+margin-left: auto;
+margin-right: auto;
+}
+.review-text-box {
+background: white;
+border: 1.5px solid var(–border);
+border-radius: 12px;
+padding: 18px;
+font-size: 14px;
+line-height: 1.7;
+color: var(–dark);
+text-align: left;
+margin-bottom: 14px;
+white-space: pre-line;
+}
+.copy-btn {
+width: 100%;
+padding: 14px;
+background: white;
+border: 2px solid var(–copper);
+border-radius: 10px;
+color: var(–copper);
+font-family: ‘DM Sans’, sans-serif;
+font-size: 15px;
+font-weight: 500;
+cursor: pointer;
+margin-bottom: 12px;
+transition: all 0.2s;
+}
+.copy-btn:hover { background: var(–copper); color: white; }
+.google-btn {
+width: 100%;
+padding: 16px;
+background: #1c1a17;
+border: 2px solid #1c1a17;
+border-radius: 10px;
+color: #ffffff !important;
+font-family: ‘DM Sans’, sans-serif;
+font-size: 16px;
+font-weight: 500;
+cursor: pointer;
+display: block;
+text-align: center;
+text-decoration: none;
+transition: opacity 0.2s;
+margin-top: 12px;
+}
+.google-btn:hover { opacity: 0.85; }
+
+/* ── FOOTER ── */
+.footer {
+text-align: center;
+padding: 24px 20px 0;
+font-size: 12px;
+color: #bbb;
+}
+.footer a { color: var(–copper); text-decoration: none; }
+
+/* ── FORM hidden fields ── */
+.form-main { display: block; }
+.form-main.hidden { display: none; }
+
+.progress-dots {
+display: flex;
+justify-content: center;
+gap: 6px;
+margin-bottom: 28px;
+}
+.dot {
+width: 8px; height: 8px;
+border-radius: 50%;
+background: var(–border);
+transition: background 0.3s;
+}
+.dot.active { background: var(–copper); }
+</style>
+
+</head>
+<body>
+
+<!-- ── HEADER ── -->
+
+<div class="header">
+  <div class="logo-line">
+    <div class="logo-text">INMA</div>
+    <div class="logo-sub">Inland Northwest Marketing Affiliates</div>
+    <div class="logo-icon"><img src="IMG_6892.jpeg" alt="INMA Bear"></div>
+  </div>
+</div>
+
+<!-- ── HERO ── -->
+
+<div class="hero">
+  <h1>How did your<br><span>project</span> go?</h1>
+  <p>Takes 30 seconds. Your feedback helps us and helps your neighbors find trusted contractors.</p>
+</div>
+
+<!-- ── MAIN FORM ── -->
+
+<div class="form-main" id="formMain">
+
+  <div class="progress-dots">
+    <div class="dot active" id="d1"></div>
+    <div class="dot" id="d2"></div>
+    <div class="dot" id="d3"></div>
+  </div>
+
+  <!-- STEP 1: STARS -->
+
+  <div class="card" id="step1">
+    <div class="card-title"><div class="num">1</div> Overall Rating</div>
+    <div class="stars" id="stars">
+      <span class="star" data-val="1">⭐</span>
+      <span class="star" data-val="2">⭐</span>
+      <span class="star" data-val="3">⭐</span>
+      <span class="star" data-val="4">⭐</span>
+      <span class="star" data-val="5">⭐</span>
+    </div>
+    <div class="star-label" id="starLabel">Tap to rate</div>
+  </div>
+
+  <!-- STEP 2: PHRASES -->
+
+  <div class="card" id="step2">
+    <div class="card-title"><div class="num">2</div> What stood out? <span style="font-family:'DM Sans';font-weight:300;font-size:13px;color:var(--stone);">&nbsp;Pick any</span></div>
+    <div class="phrases" id="phrases">
+      <div class="chip" data-phrase="The crew was professional and respectful of my property">Professional crew</div>
+      <div class="chip" data-phrase="The project came in on budget with no surprise costs">On budget</div>
+      <div class="chip" data-phrase="Work was completed on time as promised">Finished on time</div>
+      <div class="chip" data-phrase="Communication was excellent throughout the project">Great communication</div>
+      <div class="chip" data-phrase="The quality of the work exceeded my expectations">Exceeded expectations</div>
+      <div class="chip" data-phrase="Jake was knowledgeable and easy to work with">Easy to work with</div>
+      <div class="chip" data-phrase="The cleanup after the job was thorough — they left my property spotless">Left it spotless</div>
+      <div class="chip" data-phrase="I felt like a priority, not just another customer">Felt like a priority</div>
+      <div class="chip" data-phrase="The whole process was smooth from estimate to completion">Smooth process</div>
+      <div class="chip" data-phrase="My home looks amazing — I get compliments from the neighbors">Neighbors noticed!</div>
+      <div class="chip" data-phrase="I would absolutely recommend INMA to friends and family">Would recommend</div>
+      <div class="chip" data-phrase="Fair pricing for the quality of work delivered">Fair pricing</div>
+    </div>
+  </div>
+
+  <!-- STEP 3: NAME -->
+
+  <div class="card" id="step3">
+    <div class="card-title"><div class="num">3</div> Your name <span style="font-family:'DM Sans';font-weight:300;font-size:13px;color:var(--stone);">&nbsp;optional</span></div>
+    <div class="field-label">First name or initials</div>
+    <input type="text" id="customerName" placeholder="e.g. Sarah M." maxlength="60">
+  </div>
+
+  <button class="submit-btn" id="submitBtn" onclick="handleSubmit()">
+    ⭐ Post to Google Reviews
+  </button>
+
+</div>
+
+<!-- ── SUCCESS SCREEN ── -->
+
+<div class="success-screen" id="successScreen">
+  <div style="margin: 0 16px;">
+    <div class="success-icon">✓</div>
+    <h2>Thanks, <span id="thankName">friend</span>!</h2>
+    <p>Google Reviews just opened in a new tab. Paste your review below and hit Post — it takes 30 seconds and makes a huge difference for local homeowners.</p>
+
+```
+<div class="review-text-box" id="reviewText"></div>
+<button class="copy-btn" onclick="copyReview()" id="copyBtn">📋 Copy Review Text</button>
+<a class="google-btn" id="googleLink" href="#" target="_blank">
+  Open My Google Review Page &rarr;
+</a>
+```
+
+  </div>
+</div>
+
+<!-- ── FOOTER ── -->
+
+<div class="footer">
+  <a href="https://inmagent.com">inmagent.com</a> &nbsp;·&nbsp; Spokane, WA<br><br>
+  <a href="/jake.vcf" download="Jake Bishop - INMA.vcf" style="display:inline-flex;align-items:center;gap:6px;color:var(--copper);text-decoration:none;font-weight:600;margin-bottom:14px;">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+    Save Jake's contact
+  </a><br>
+  Your feedback is private and sent only to INMA.
+</div>
+
+
+<script>
+  // ── CONFIG ──────────────────────────────────────────────
+  const GOOGLE_REVIEW_URL = 'https://g.page/r/CQuv0fyQUCo4EBM/review';
+  // ────────────────────────────────────────────────────────
+
+  const starLabels = ['', 'Could be better', 'It was okay', 'Pretty good!', 'Really happy!', 'Absolutely loved it! ⭐'];
+  let selectedRating = 0;
+  let selectedPhrases = [];
+
+  // Stars
+  document.querySelectorAll('.star').forEach(star => {
+    star.addEventListener('click', () => {
+      selectedRating = parseInt(star.dataset.val);
+      document.querySelectorAll('.star').forEach((s, i) => {
+        s.classList.toggle('active', i < selectedRating);
+      });
+      document.getElementById('starLabel').textContent = starLabels[selectedRating];
+      document.getElementById('d2').classList.add('active');
+    });
+  });
+
+  // Chips
+  document.querySelectorAll('.chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      chip.classList.toggle('selected');
+      const phrase = chip.dataset.phrase;
+      if (chip.classList.contains('selected')) {
+        selectedPhrases.push(phrase);
+      } else {
+        selectedPhrases = selectedPhrases.filter(p => p !== phrase);
+      }
+      if (selectedPhrases.length > 0) {
+        document.getElementById('d3').classList.add('active');
+      }
+    });
+  });
+
+  function buildReviewText(name, rating, phrases) {
+    const stars = '★'.repeat(rating) + '☆'.repeat(5 - rating);
+    const nameStr = name ? name : 'A happy customer';
+    let text = stars + '\n\n';
+    if (phrases.length > 0) {
+      text += phrases.join('. ') + '.';
+    } else {
+      text += 'Great experience with INMA. Would recommend to anyone looking for quality exterior remodeling.';
+    }
+    text += '\n\n— ' + nameStr;
+    return text;
+  }
+
+  function handleSubmit() {
+    const btn = document.getElementById('submitBtn');
+    const name = document.getElementById('customerName').value.trim();
+
+    if (selectedRating === 0) {
+      alert('Please tap a star rating first!');
+      return;
+    }
+
+    btn.disabled = true;
+
+    const reviewText = buildReviewText(name, selectedRating, selectedPhrases);
+
+    // Open Google reviews immediately
+    window.open(GOOGLE_REVIEW_URL, '_blank');
+
+    showSuccess(name, reviewText);
+  }
+
+  function showSuccess(name, reviewText) {
+    document.getElementById('formMain').classList.add('hidden');
+    document.getElementById('successScreen').classList.add('visible');
+    document.getElementById('thankName').textContent = name || 'friend';
+    document.getElementById('reviewText').textContent = reviewText;
+    document.getElementById('googleLink').href = GOOGLE_REVIEW_URL;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    currentReviewText = reviewText;
+  }
+
+  let currentReviewText = '';
+  function copyReview() {
+    navigator.clipboard.writeText(currentReviewText).then(() => {
+      const btn = document.getElementById('copyBtn');
+      btn.textContent = '✅ Copied! Now tap the Google button below';
+      btn.style.background = 'var(--success)';
+      btn.style.color = 'white';
+      btn.style.borderColor = 'var(--success)';
+    });
+  }
+</script>
+
+</body>
+</html>

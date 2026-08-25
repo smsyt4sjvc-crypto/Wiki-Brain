@@ -1,0 +1,175 @@
+section,category,item,detail,status,date_updated
+Context,Profile,Identity,Independent macro researcher and self-directed investor in Spokane WA; also works as contractor (handyman/window installer). Self-taught since Oct 2025 using Claude as primary research/synthesis partner.,Active,2026-06-30
+Context,Profile,Disposition,Disciplined operator not doom-poster. Every position has defined risk mgmt. Preserves failed outputs as diagnostic info about cognitive boundaries.,Active,2026-06-30
+Context,Communication,Style,"Compressed high-signal voice-memo style. Drops inputs without preamble; expects Claude to ID what's new / what confirms / what changes / portfolio implication. Corrects framing directly; expects immediate recalibration. Prefers prose over markdown, synthesis over summary.",Active,2026-06-30
+Context,Methodology,Framework-first,"Process every input against named theses first, then news. Convergence stack = multiple independent domains confirming one signal (primary architecture).",Active,2026-06-30
+Context,Methodology,Framing corrections logged,"GOOGL trade direction (assumed bearish, was bullish); XOM exit being one episode not two; late-night macro as forecasting not doom-posting.",Reference,2026-06-30
+Convergence Stack,Vector 1,Hollow Bottom,"Bottom 80% in functional recession inside a growing economy while AI/defense/energy capex concentrates at top. Origin: COVID PPP + enhanced UI forced overhire, wage bidding war vs free money, permanently accelerated automation ROI 30-40%, then snapback left permanent price inflation vs temporary wage gains. Readable series: IRS 941 + DTS withholding, NOT BLS. Dated call: Q2-Q3 2026 floor cracks.",Active,2026-06-30
+Convergence Stack,Vector 2,CEPI,Mag-7 capex-to-earnings conversion decelerating ~-0.20x/Q. Digital infra capex converting slower than prior cloud cycles; physical (energy/defense) and pharma R&D maintain/accelerate. Confirms sector divergence thesis.,Active,2026-06-30
+Convergence Stack,Vector 3,SaaSpocalypse,AI displacing knowledge workers; impairs terminal values of software ventures made obsolete by the same AI. Institutionally named by Apollo/Slok this session as present-tense fact.,Active - migrated,2026-06-30
+Convergence Stack,Vector 4,Phase 3 Rotation,"Mag-7 30-50% compression, originally 2027-28. Expressing EARLIER: NVDA -26% from 52wk high in 5 days, AAPL -10.9% from May ATH, GOOGL declining. SPX masks via energy/defense/industrial rotation. Recalibration: nominal index break may extend to ~Feb-Mar 2027 even though rotation is dated now.",Active - recalibrated,2026-06-30
+Convergence Stack,Vector 5,x402 / Agentic Settlement,"Stablecoin/agent payment infra as settlement layer. Sequential: own physical bottlenecks now (NVDA MU AVGO TSM COHR), position settlement (COIN PYPL), monitor tokens (PAYAI) speculatively. Metered compute = new utility model. Follow the money even when circular.",Active,2026-06-30
+Convergence Stack,Vector 6,Energy Ceiling,Structural power scarcity premium. Data centers ~4.4% US electricity 2023 -> 6.7-12% by 2028. Nuclear/grid buildout as binding constraint on AI.,Active,2026-06-30
+Convergence Stack,Vector 7,Petrodollar / Fed Trap,"Dollar erosion (Saudi yuan, Russia ruble) forces foreign exit. Fed cannot cut (sticky inflation) nor truly tighten (deficit self-funds expansion). Funds rate is a price signal not quantity control. Real policy is fiscal and unconstrained; inflation IS the policy.",Active,2026-06-30
+Convergence Stack,Vector 8,Retail-Exit Pattern,Institutional sellers exit peak privates to retail. SpaceX Russell 1000 fast-track (mandatory passive buying at $1.75T private valuation) = purest example.,Active,2026-06-30
+Convergence Stack,Vector 9,Picks-and-Shovels Warning,P&S revenue IS customer capex; conversion collapses 4.0x -> 0.5x in a quarter when Mag-7 decelerates. NVDA is last domino not proof of health. AMAT/LRCX cleanest. Validated this session by Burry AMAT short.,Active - migrated,2026-06-30
+Convergence Stack,Vector 10,Foreign Portfolio Vulnerability,Foreign US-equity holdings $23.2T (+$2T Apr spike); allocation 63% (dot-com peak +10pts). Cohort-3 momentum capital vulnerable to Petrodollar erosion (weaker USD -> FX-translated losses -> forced exit). Retail-Exit at international tier.,Active,2026-06-30
+Convergence Stack,Vector 11 (PROPOSED),Mechanical Flow Amplification,"Leveraged ETF rebalancing -1.75% of Mini S&P volume (30d avg), largest in 16yrs. Complex ~$218B AUM +60% since Mar, semi leverage ~tripled. Both 2x long and short sell into close on down days. Transmission mechanism for Phase 3 + foreign vulnerability. Structurally un-bailoutable (Fed can't prop ETF NAV).",Proposed this session,2026-06-30
+Portfolio,Four-Basket Setup,Structure,"Canonical Apr 2026, $625/mo across 4 baskets, 40 tickers. Fidelity Cash Mgmt Z36614639 -> TS7 Z53211817, $700/mo, $75 buffer stays in TS7. First auto-invest Apr 28 2026.",Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),MU,Weight 14.5%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),TSM,Weight 11%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),LLY,Weight 8%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),AMZN,Weight 7%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),ANET,Weight 5%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),META,Weight 5%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),AVGO,Weight 5%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),VRT,Weight 5%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),COHR,Weight 5%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),GOOGL,Weight 5%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),NBIS,Weight 5%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),NVDA,Weight 5%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),MSFT,Weight 5%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),APH,Weight 4%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),AMD,Weight 4%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),EME,Weight 4%,Active,2026-06-30
+Portfolio,SECOND ORDER ($250/mo),MRVL,Weight 2.5%,Active,2026-06-30
+Portfolio,POWER ($125/mo),POWL,Weight 15%,Active,2026-06-30
+Portfolio,POWER ($125/mo),PWR,Weight 15%,Active,2026-06-30
+Portfolio,POWER ($125/mo),FIX,Weight 12%,Active,2026-06-30
+Portfolio,POWER ($125/mo),VST,Weight 11%,Active,2026-06-30
+Portfolio,POWER ($125/mo),ALOY,Weight 10%,Active,2026-06-30
+Portfolio,POWER ($125/mo),BE,Weight 10%,Active,2026-06-30
+Portfolio,POWER ($125/mo),MYRG,Weight 10%,Active,2026-06-30
+Portfolio,POWER ($125/mo),MOD,Weight 10%,Active,2026-06-30
+Portfolio,POWER ($125/mo),CRDO,Weight 7%,Active,2026-06-30
+Portfolio,MAG OVERLAP ($125/mo),DELL,Weight 20%,Active,2026-06-30
+Portfolio,MAG OVERLAP ($125/mo),LDOS,Weight 15%,Active,2026-06-30
+Portfolio,MAG OVERLAP ($125/mo),ACM,Weight 15%,Active,2026-06-30
+Portfolio,MAG OVERLAP ($125/mo),PLTR,Weight 13%,Active,2026-06-30
+Portfolio,MAG OVERLAP ($125/mo),LITE,Weight 10%,Active,2026-06-30
+Portfolio,MAG OVERLAP ($125/mo),ORCL,Weight 10%,Active,2026-06-30
+Portfolio,MAG OVERLAP ($125/mo),GD,Weight 10%,Active,2026-06-30
+Portfolio,MAG OVERLAP ($125/mo),MP,Weight 7%,Active,2026-06-30
+Portfolio,ENERGY ($125/mo),GEV,Weight 25%,Active,2026-06-30
+Portfolio,ENERGY ($125/mo),CEG,Weight 25%,Active,2026-06-30
+Portfolio,ENERGY ($125/mo),ETN,Weight 20%,Active,2026-06-30
+Portfolio,ENERGY ($125/mo),MCHP,Weight 10%,Active,2026-06-30
+Portfolio,ENERGY ($125/mo),RKLB,Weight 10%,Active,2026-06-30
+Portfolio,ENERGY ($125/mo),OKLO,Weight 10%,Active,2026-06-30
+Portfolio,Legacy,SMCI / CRWV,Legacy positions outside active rotation.,Held-legacy,2026-06-30
+Portfolio,Tier A/B/C Restructure,Status,"PENDING since May 1 2026, NOT committed. Logic: Hollow Bottom break accelerates AI capex via post-recession rate-cut reflation; Tier A locked revenue insulated from multiple compression; don't follow Tier A down; redirect new contributions over 6-12mo not liquidate. XOM stays outside as Hormuz hedge.",Pending - not committed,2026-06-30
+Portfolio,Tier A 50% ($312.50/mo) PROPOSED,GEV,Weight 18% - locked revenue 2027-2030,Pending,2026-06-30
+Portfolio,Tier A 50% ($312.50/mo) PROPOSED,MU,Weight 15% - locked revenue 2027-2030,Pending,2026-06-30
+Portfolio,Tier A 50% ($312.50/mo) PROPOSED,TSM,Weight 12% - locked revenue 2027-2030,Pending,2026-06-30
+Portfolio,Tier A 50% ($312.50/mo) PROPOSED,CEG,Weight 10% - locked revenue 2027-2030,Pending,2026-06-30
+Portfolio,Tier A 50% ($312.50/mo) PROPOSED,AVGO,Weight 10% - locked revenue 2027-2030,Pending,2026-06-30
+Portfolio,Tier A 50% ($312.50/mo) PROPOSED,VRT,Weight 8% - locked revenue 2027-2030,Pending,2026-06-30
+Portfolio,Tier A 50% ($312.50/mo) PROPOSED,ETN,Weight 7% - locked revenue 2027-2030,Pending,2026-06-30
+Portfolio,Tier A 50% ($312.50/mo) PROPOSED,VST,Weight 6% - locked revenue 2027-2030,Pending,2026-06-30
+Portfolio,Tier A 50% ($312.50/mo) PROPOSED,FIX,Weight 5% - locked revenue 2027-2030,Pending,2026-06-30
+Portfolio,Tier A 50% ($312.50/mo) PROPOSED,EME,Weight 5% - locked revenue 2027-2030,Pending,2026-06-30
+Portfolio,Tier A 50% ($312.50/mo) PROPOSED,DELL,Weight 4% - locked revenue 2027-2030,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,NVDA,Weight 15% - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,LITE,Weight 12% - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,COHR,Weight 10% - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,GD,Weight 10% - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,LDOS,Weight 10% - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,BE,Weight 8% - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,MP,Weight 8% - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,PWR,Weight 7% - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,ANET,Weight 5% - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,APH,Weight 5% - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,MRVL,Weight 5% - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,LLY,Weight 5% - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,COIN,Weight 5-7% vs MRVL/LLY - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier B 30% ($187.50/mo) PROPOSED,SNPS,Weight upsized 8-10% - Q2 earnings re-eval,Pending,2026-06-30
+Portfolio,Tier C 15% ($93.75/mo) PROPOSED,OKLO,Weight 25%,Pending,2026-06-30
+Portfolio,Tier C 15% ($93.75/mo) PROPOSED,RKLB,Weight 20%,Pending,2026-06-30
+Portfolio,Tier C 15% ($93.75/mo) PROPOSED,NBIS,Weight 20%,Pending,2026-06-30
+Portfolio,Tier C 15% ($93.75/mo) PROPOSED,PLTR,Weight 15% - REVIEW vs China open-weight moat-bypass risk,Pending,2026-06-30
+Portfolio,Tier C 15% ($93.75/mo) PROPOSED,MOD,Weight 10%,Pending,2026-06-30
+Portfolio,Tier C 15% ($93.75/mo) PROPOSED,POWL,Weight 10%,Pending,2026-06-30
+Portfolio,Tier Watchlist 5% PROPOSED,ALOY,Watchlist,Pending,2026-06-30
+Portfolio,Tier Watchlist 5% PROPOSED,ACM,Watchlist,Pending,2026-06-30
+Portfolio,Tier Watchlist 5% PROPOSED,MCHP,Watchlist,Pending,2026-06-30
+Portfolio,Tier Watchlist 5% PROPOSED,AMD,Watchlist,Pending,2026-06-30
+Portfolio,Tier Watchlist 5% PROPOSED,ORCL,Watchlist,Pending,2026-06-30
+Portfolio,Tier A/B/C Notes,AVGO,Confirmed undersized at Second Order 5% - cross-cuts Google TPU + OpenAI accelerator + Meta custom + Anthropic (~$200B committed).,Action item,2026-06-30
+Positions,Macro Hedge,SPY Dec 18 2026 $745 puts,"Held through volatility, exited ~$41.75 Jun 9 (~32%), re-entered. SPX ladder (ATH 7609.78): -8.5%~6960 | -10%~6850 first tranche | -19%~6165 event-shock deploy $7K basket | -25%~5675 | -34%~5025. Recalibration: if 2021 melt-up analog holds break extends ~Feb-Mar 2027 (later than Dec). Consider longer duration OR sector-spread (long XLE/XLU vs short XLK); or split puts as tail hedge + pairs for base-case rotation.",Active - recalibrating,2026-06-30
+Positions,Geopolitical Hedge,XOM,Layer 5 HELD Hormuz hedge. Exit conditions (none triggered): (1) Hormuz verifiably open 30+ days (2) US-Iran ceasefire verified terms (3) crude <$70 sustained. Apr 2026 lesson: false-headline stop-limit -> thesis-based exits only for fortress. RECALIBRATION: reword #1 to 'operationally stable under new fee regime 30+ days no vessel strikes' (Iran says Hormuz will not return to pre-war status); specify SPOT vs FORWARD ($70 spot could trigger while contango forward prices premium).,Held - conditions recalibrated,2026-06-30
+Positions,Trading Basket,Memory concentration (~$7K),MU 28% / TSM 26% / MRVL 18% / NVDA 16% / AMD 12%. Tiered GTC limit buys staged for drawdown. GTC calibration to current vol regime PENDING verification.,Active,2026-06-30
+Positions,Leveraged ETF,QLD,"2 shares at $92.74 basis, entered Jun 23.",Held,2026-06-30
+Positions,Dry Powder,SPAXX,Substantial dry powder position.,Active,2026-06-30
+Positions,GTC Entry,CCJ,"GTC entry zone $107.00-107.50 half-size first tranche. Catalyst: Pentagon Army base EUL, DOE $17.5B nuclear loan program, 49% Westinghouse stake, $80B US-Westinghouse-Brookfield-Cameco partnership.",GTC pending,2026-06-30
+Positions,Options,MP Aug 21 call,"1 contract at $4.85, strike $60, profit target $9.00, time stop Jul 20, hard exit by Aug 1 pre-earnings. Sized 2.8% available capital. Catalyst: Pentagon EUL expansion of Strategic Capital Initiative NOT earnings. Strengthened by China-Japan rare earth curbs.",Active - time stop Jul 20,2026-06-30
+Prometheus Watchlist,Structure,Definition,"Separate GTC fortress queue funded from cash overflow. NOT a 5th basket, NOT in Tier A/B/C. Bear-flush entry discipline.",Active,2026-06-30
+Prometheus Watchlist,Layer 3 HIGH,CGNX / ROK,"GTC at bear-flush prices, Hollow Bottom Q2-Q3 trigger. ANSS covered via SNPS upsizing in Tier B.",GTC pending,2026-06-30
+Prometheus Watchlist,Layer 3 MED,PTC / KEYS / EMR / ABB / LSCC / AMBA / SIEGY / HXGBY / SNPS,Deferred.,Deferred,2026-06-30
+Prometheus Watchlist,Layer 4 SPEC,COUR / RHI,Speculative.,Deferred,2026-06-30
+Prometheus Watchlist,Layer 5 HELD,MU / NBIS / MP / OKLO / XOM / VRT / ETN,Currently held fortress positions.,Held,2026-06-30
+Prometheus Watchlist,Candidates,LEN / KBH / PHM,Homebuilders - post-flush candidates. Trigger: capitulation below tangible book with builder confidence sub-30. Not actionable yet.,Watch,2026-06-30
+Live Macro,96h Cluster,Meta-observation,"Jun 27-30: unusually compressed convergence, multiple independent fringe->institutional migrations in 4 days. When this many migrations hit a compressed window, signal was already in the data and frameworks are catching up.",Active,2026-06-30
+Live Macro,China Open-Weight Migration,Signal,"GLM-5.2 (Z.ai 744B MoE MIT) matching Anthropic Mythos on cybersecurity benchmarks (Forbes/Semgrep Jun 27). Confirmed: Coinbase->GLM-5.2+Kimi2.7 (Armstrong X thread, ~50% AI spend cut; GLM $1.40/$4.40 vs Opus 4.8 $5/$25); Shopify->Qwen3 (75x cost cut, DSPy Meetup); Lindy->DeepSeek V4; Snowflake testing; MSFT testing DeepSeek V4. Strengthens x402 settlement pillar, damages closed-model API revenue, confirms SaaSpocalypse + Burry leg 1. MU HBM SCAs insulated thru 2027. Highest risk to PLTR/downstream.",Confirmed,2026-06-30
+Live Macro,Apollo / Slok Note,Signal,Jun 30 10am 'zero margin boost outside tech'. Made CEPI falsifiable: value rests entirely on promise S&P 493 margins climb. Stomped Jevon's: if token costs -> zero not enough revenue for all hyperscalers even if demand surges. Named SaaSpocalypse present-tense. Slok slow-sectors list does NOT contradict Tier A (he measures internal-adoption gains; Tier A sells power TO builders). Leg 3 (Bermuda captives) NOT yet addressed - track migration (legal/restatement catalysts).,Confirmed - institutional,2026-06-30
+Live Macro,Burry Shorts,Signal,"Jun 30 1:14pm added CAT (first ever) + AMAT (new); re-confirmed TSLA/NVDA. Pre-existing: NVDA $110 puts to 2027, PLTR (puts+direct), TSLA, META, SOXX/QQQ/ORCL. CAT = multi-vector convergence stock (DC construction + rare-earth capex + infra tied to gov revenue + China property). AMAT = institutional naming of P&S cliff. Confirmation not trigger (no direct CAT/AMAT/TSLA held). Ignore retail 'AMAT 47% short float' - actual SI 1-3%.",Confirmed,2026-06-30
+Live Macro,MU Earnings,Signal,"Jun 24 blowout: rev $41.46B vs $35.84B, non-GAAP EPS $25.11 vs $20.20, GM 84.9%, Q4 guide $50B vs $42.9B, $22B strategic customer agreements. Capex ~$27B FY26, above mid-$40B FY27, 'more than half construction' (unaccelerable). +15.7% then gave back ~half Fri.",Confirmed,2026-06-30
+Live Macro,TSMC-Winbond DRAM,Signal,"Jun 29 UDN (unconfirmed by either co). 3D wafer-on-wafer; Winbond specialty/niche DRAM. NOT HBM - no overlap with MU HBM book. Confirms memory shortage severity (Winbond DRAM +90-95% Q1, sold out thru 2027) AND Taiwan localization (parallel to China-Japan curbs, Apple-MP magnets). TSM +3.40% on day.",Plausible - unconfirmed source,2026-06-30
+Live Macro,TSMC ITC Risk,Watch,Longitude/Marlin patent complaints; preliminary ruling expected end of June. Potential US import ban = 48h tail risk to whole chip complex regardless of legal merit.,Watch - imminent,2026-06-30
+Live Macro,Iran/Hormuz Fees,Signal,NYT Jun 30 1:07pm: Iran-Oman moving forward on Hormuz transit fees despite US objections (1 Iranian official + 4 diplomats). Omani FM framing as 'service/environmental/navigational' fees to dodge tolls prohibition. Iran struck 2 vessels refusing rules. US-Iran talks (Witkoff/Kushner) stalled Qatar; technical talks Tue.,Developing,2026-06-30
+Live Macro,Iran/Hormuz US Response,Diagnostic Signal 1,"NY Post Jun 30 1:11pm (admin official): US has NOT released any of $6B frozen Iranian funds, won't until Tehran fulfills MoU. Cheapest contest move (carrot withdrawal, no FONOPs/sanctions/podium yet). Landed within 120min of NYT. Points STANDING-FIRM direction.",Developing - watch,2026-06-30
+Live Macro,Iran Regime Rift,Diagnostic Signal 2,"Jun 30 2:24pm (unverified 'Mossad Commentary'): state TV cut Ghalibaf (Speaker, pragmatist) live mid-defense of US negotiations while chyron ran 'Hormuz solely in Iran's hands.' Possible IRGC media sidelining negotiating wing. FEEDBACK RISK: US $6B leak may have been weaponized by hardliners against pragmatists. THIRD PATH: counterparty disintegrates, US faces IRGC-only positions (most volatile for crude). WATCH: Ghalibaf 2nd segment airs full/edited/not; Khamenei backing within 48h.",Developing - watch,2026-06-30
+Live Macro,Hormuz Structural Read,Analysis,"Fee plan is sovereignty assertion with permanent escalation utility (differential pricing, sanctions, whipping stick for nuclear talks / Lebanon-Israel), not revenue. Iran probing whether US order contests principle. Autopilot-credit mechanic INVERTS: concession cost distributable across aligned coalition (NATO/UK/FR/DE/JP/KR/IN/CN/Gulf all oppose) AND principled stance narratable as strength. Cost of concession = unbounded leverage vs bounded outcome. XOM holds all paths; coalition posture MORE bullish defense (converts crisis to sustained CENTCOM doctrine).",Analysis,2026-06-30
+Live Macro,Oil Physical (HFI),Signal,"Jun 30: China imports -4.9mb/d YoY, OPEC+ exports -6.5, global -3.8, offset by US/UAE/RU/BR/VZ +1.6. Brent $72, steep 1-2 contango, floating storage out of Hormuz. READ: geopolitical inventory dislocation / re-routing NOT demand destruction (synchronized supply+import collapse is different mechanism). Spot saturated by inventory release, forward prices premium. Does NOT damage energy/power basket. Isolate real demand: watch China refinery throughput + product exports in July. HFI verdict: crisis not over.",Analysis,2026-06-30
+Live Macro,M2 Money Supply,Signal,"Kobeissi Jun 30: M2 +$247.8B May to record $23.1T, largest monthly since May 2021, +$698.6B YTD (largest Jan-May in 5yr), $1.3T above Mar 2022 peak, 6.3% CAGR since 2000. Against Warsh 1st FOMC hold 3.50-3.75%, easing bias dropped, PCE revised 3.6%, market pricing Oct HIKE. Resolves via Fed Trap. Near-identity M2 $23.1T ~ foreign equity holdings $23.2T. Top inflated by expansion, bottom squeezed by its price effects = Hollow Bottom in money terms.",Confirmed,2026-06-30
+Live Macro,2021 Analog,Analysis,"May 2021 -> equities +14% for 8mo INTO ripping inflation (CPI 9.1% Jun 2022) then -25% (Nasdaq -35%) on Fed tightening. Today MORE fragile: (1) concentration mechanic + ETF rebalancing amplifier didn't exist at scale (2) 2021 earnings broad/real, today concentrated (3) Fed already dropped easing bias / pricing hike - no runway (4) flows now mechanical leveraged/concentrated vehicles that reverse in size. No stimulus buffer today - Hollow Bottom exposed (12.7% card delinquency at near-GFC in 4% unemployment). If holds, nominal break ~Feb-Mar 2027; melt-up assumes 8mo stability that may break first (midterms/default/Hormuz).",Analysis,2026-06-30
+Live Macro,Consumer Credit,Signal,"Jun 30 chart: card debt $1.28T notional (record), 90+ delinquency 12.7% - doubled from ~6% in 2016, near-vertical since 2022, approaching 13.7% GFC peak WITHOUT GFC-grade event. Receipts on Hollow Bottom Sec VI. Same fuse as labor-tax-receipts from another angle.",Confirmed,2026-06-30
+Live Macro,China-Japan Curbs,Signal,"Commerce Ministry Jun 29 added 40 Japanese entities (Mitsubishi divisions, Mitsui E&S, Fujitsu, Komatsu, Terra Drone, Hitachi Adv Sys), cumulative 80 since Feb. Triggered by Takaichi Taiwan comments + Japan remilitarization. Prints MP Materials thesis in real time - China hits US-aligned mil supply chain via Japan, creates structural non-Chinese rare-earth demand. Defense (NOC/GD/LDOS/LMT) cross-cut. Petrodollar-family logic on materials.",Confirmed,2026-06-30
+Live Macro,Memory Cycle Analysis,Reference,Troughs: 2001 -> 2008-09 (Qimonda) -> 2012 (Elpida bankruptcy created Big 3 oligopoly - anchor here) -> 2018-19 -> 2022-23 (worst ever). Current upcycle from Q2 2023. Base case extends 2028-2029 (~1.5x normal) from oligopoly + $30-50B/3yr fabs + SCAs + HBM/packaging constraint + 'more than half construction'. NOT orders of magnitude. Tail risk: prior cycles ended on supply catching demand; this could end on DEMAND impairment (hyperscaler decel / Burry circular break) turning SCAs into recapture liabilities.,Reference,2026-06-30
+Live Macro,Barbault Basket,Sentiment Marker,"Jul 19-21 astrology assessed as SENTIMENT MARKER not forecast. Window real for market-mechanical reasons: Jul 17 opex, TSM ~Jul 17, GOOGL ~Jul 23, MSFT/META/AAPL ~Jul 30, AMZN ~Jul 31, FOMC Jul 28-29, Q2 advance GDP end-July, MP call time stop Jul 20. Viral mystical framings = same narrative-migration signal as Burry->Mehrotra. Stars do not allocate capital.",Reference,2026-06-30
+Principles,Learning,Thesis-based exits only for fortress positions,Price stops convert long-term thesis holders into day-traders of their own thesis. Learned via Apr 2026 XOM false-headline stop.,Reference,2026-06-30
+Principles,Learning,Silence is the tell,"Admin goes quiet before major moves (Syria 2017, Soleimani 2020, Apr 2025 tariffs). Loud preemptive credit-claiming = fragility; silence = imminent action. Inverse: loud partner complaint signals framework fragile and unilateral action on the table.",Reference,2026-06-30
+Principles,Learning,Credit-claiming on autopilot outcomes,"Admin loudly demands outcomes that occur mechanically (gas prices, nuclear inspection, housing), then claims credit. REFINEMENT: mechanic inverts when concession costs are coalition-distributable and principled stance is narratable as strength, especially when conceding unbounded leverage vs bounded outcome.",Reference,2026-06-30
+Principles,Learning,Picks-and-shovels cliff risk,P&S revenue IS customer capex; conversion collapses 4.0x->0.5x in a quarter; NVDA is last domino.,Reference,2026-06-30
+Principles,Learning,Hollow Bottom arithmetic,"Same workers simultaneously employed, partially collecting UI indexed to prior wages, earning less per hour. IRS 941 + DTS readable; BLS surveys not.",Reference,2026-06-30
+Principles,Learning,KRE puts lesson,Shorting the most reliably bailed-out asset class is a structural error. Express credit-stress via the long book (hyperscalers/neoclouds/power) not the short. Exception: ETF-rebalancing fragility is structurally un-bailoutable.,Reference,2026-06-30
+Principles,Learning,Smart-person failure mode,"Background intelligence quietly permissions through an unrealized margin-for-error assumption; mistakes compound faster - each more expensive, extracts less cognition, engineered to feel rewarding.",Reference,2026-06-30
+Principles,Learning,Burry thesis decomposition,3 independent legs: (1) training-finite demand (2) circular financing (3) hyperscaler accounting/Bermuda captives. Bhatia agentic-inference framing only addresses leg 1. Mehrotra inserting Burry into prepared remarks = migration fringe->institutional (confirmation). Leg 3 still fringe - track (legal/restatement catalysts).,Reference,2026-06-30
+Principles,Learning,KOSPI sidecar pattern,"Upside sidecar fires, rips, then sells off hard to close down significantly. Apply skepticism to repeated activations regardless of catalyst quality.",Reference,2026-06-30
+Principles,Learning,Partial UI eligibility mechanism,Sonderling UI fraud letters use bureaucratic friction (not eligibility law change) to suppress one data window without corrupting IRS 941 / DTS / QCEW.,Reference,2026-06-30
+Principles,Learning,Narrative migration as signal,Fringe frameworks crossing into institutional during a stress window is itself a sentiment indicator independent of merit. Compression of the migration cycle (96h vs weeks) is itself information.,Reference,2026-06-30
+Principles,Learning,Time leverage / recognition,"Boundless knowledge = irreducible uncertainty; recognition = ability to ID margin for error. Adaptability, Socratic learning, recognition become the labor market. Opportunity cost at 20 structurally more significant than identical cost at 50.",Reference,2026-06-30
+Methodology,Approach,Framework-first then news,Process every input against named theses; ID new/confirming/changing/portfolio-implication without being walked through.,Reference,2026-06-30
+Methodology,Approach,Convergence stack,Multiple domains confirming one signal; the primary architecture.,Reference,2026-06-30
+Methodology,Approach,Primary-source discipline,Trace snippets back to original authors/documents; cross-check screenshots vs Fidelity + wire sources; flag anonymous/branded accounts as interpretation not fact.,Reference,2026-06-30
+Methodology,Approach,GTC fortress queue + auto-invest,Handle multiple resolution scenarios without reactive repositioning; patience-as-edge.,Reference,2026-06-30
+Methodology,Approach,Explicit exit conditions,Defined verifiable conditions not price targets; 'none triggered' is a complete answer. Specify spot vs forward in dislocated regimes.,Reference,2026-06-30
+Methodology,Approach,Options sizing discipline,"% of available capital, defined profit target, time stop before earnings, bid/ask spread as execution-quality gate.",Reference,2026-06-30
+Methodology,Approach,Ludicrous outputs preserved,Failed outputs kept as diagnostic info about cognitive boundaries.,Reference,2026-06-30
+Methodology,Approach,Colab/Python for data,"yfinance (options/price; limit: few historical quarters, collapses multi-cycle backtests), pandas-datareader (FRED), SEC EDGAR. Custom scripts: ATM IV vs 30d HV, GDP/wage decoupling, CEPI dashboard.",Reference,2026-06-30
+Tools,Resource,Fidelity,"Primary brokerage - TS7 Z53211817, Cash Mgmt Z36614639; SPAXX dry powder.",Active,2026-06-30
+Tools,Resource,FRED,"Key series: GDP, LEU0252881500 (median wage), LEU0252886300 (25th-pct weekly earnings).",Active,2026-06-30
+Tools,Resource,SEC EDGAR,"S-1/A, Form 5500 (DOL), 10-K/10-Q.",Active,2026-06-30
+Tools,Resource,Daily Treasury Statement,Withholding series - more reliable than BLS for Hollow Bottom.,Active,2026-06-30
+Tools,Resource,IRS Form 941,Most reliable employment data despite publication lag.,Active,2026-06-30
+Tools,Resource,DOL bulk EDGAR / Form 5500,Used to locate McVay Brothers plan.,Active,2026-06-30
+Tools,Resource,Google Colab / Python,"yfinance, pandas-datareader for data pulls.",Active,2026-06-30
+Tools,Resource,TradingView,"Technicals - MAs, RSI, MACD, Bollinger.",Active,2026-06-30
+Tools,Resource,Natenberg Option Volatility and Pricing,Options reference (owned).,Active,2026-06-30
+Tools,Resource,Burry Substack (Cassandra Unchained),Tracked as institutional-awareness migration signal.,Active,2026-06-30
+Tools,Resource,News intake,"Kobeissi Letter, ZeroHedge, Reuters, WSJ, Bloomberg, HFI Research; wires for cross-checking viral claims.",Active,2026-06-30
+Open Decisions,Horizon,Tier A/B/C restructure decision,"Pending since May 1, not committed.",Pending,2026-06-30
+Open Decisions,Horizon,McVay Brothers 401k rollover,"Located via DOL Form 5500 (EIN 91-0652022, plan 001, active thru 2024, 649 participants). Worked there ~2009-2018, fully vested, never cashed out. Action: call, get balance, roll to self-directed Fidelity traditional IRA.",Action item,2026-06-30
+Open Decisions,Horizon,AVGO reweighting,Confirmed undersized at Second Order 5%.,Action item,2026-06-30
+Open Decisions,Horizon,COIN positioning,Tier B 5-7% vs MRVL/LLY; window narrowing as Stripe MPP competition emerges; strengthened by procurement migration.,Open,2026-06-30
+Open Decisions,Horizon,PLTR Tier C review,Against China open-weight closed-moat-bypass risk (new this session).,Action item,2026-06-30
+Open Decisions,Horizon,MP Aug 21 call management,"Time stop Jul 20, hard exit Aug 1.",Time-sensitive,2026-06-30
+Open Decisions,Horizon,CCJ GTC limit,$107.00-107.50 zone.,GTC pending,2026-06-30
+Open Decisions,Horizon,Memory basket GTC calibration,To current vol regime - verification pending.,Pending,2026-06-30
+Open Decisions,Horizon,SPY put duration / sector-spread,New this session; model long XLE/XLU vs short XLK as rotation expression that doesn't need nominal index decline.,Open,2026-06-30
+Open Decisions,Horizon,XOM exit-condition rewrite,Reword #1 to new-equilibrium language; specify spot vs forward (new this session).,Action item,2026-06-30
+Open Decisions,Horizon,Q3 earnings call tracking,TSM/NVDA/AMD/AVGO for agentic-inference framing AND analyst questions on Coinbase/Shopify procurement migration - first framing dates Phase 3 to current-quarter prints.,Watch,2026-06-30
+Open Decisions,Horizon,China customs + refinery data,May-June Iranian crude drop (XOM exit #2 pull-forward); ADD refinery throughput + product exports to disentangle demand from re-routing.,Watch,2026-06-30
+Open Decisions,Horizon,Burry Leg 3 migration,Hyperscaler accounting/Bermuda captives - carries legal/restatement catalysts distinct from operational story.,Watch,2026-06-30
+Open Decisions,Horizon,TSMC ITC ruling,Preliminary expected end of June; 48h import-ban tail risk to whole chip complex.,Watch - imminent,2026-06-30
+Open Decisions,Horizon,Ghalibaf interview + Khamenei,Next-tier Hormuz diagnostic; answers whether Tehran negotiating wing retains operational standing.,Watch,2026-06-30
+Open Decisions,Horizon,Homebuilders LEN/KBH/PHM,Post-flush Prometheus candidates; trigger capitulation below tangible book with builder confidence sub-30.,Watch,2026-06-30

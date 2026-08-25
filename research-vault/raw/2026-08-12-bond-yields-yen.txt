@@ -1,0 +1,145 @@
+U.S. Bond Yields and Japanese Yen Position
+Market snapshot: August 12, 2026, after the July CPI release. Intraday market levels are approximate and can move during the session.
+1. Current market snapshot
+Item
+Level / reading
+What changed
+2-year U.S. Treasury
+~4.17%
+Down slightly after CPI; short-end hike expectations eased
+10-year U.S. Treasury
+~4.65%-4.67%
+Little changed to slightly lower/firm depending on timestamp
+30-year U.S. Treasury
+~5.22%
+Long-end yield moved higher immediately after CPI in one post-release snapshot
+2s10s curve
+~+48 bp
+Positive and steeper than immediately before CPI
+2s30s curve
+~+104 bp
+Long end remains much higher than the 2-year
+USD/JPY
+~159.28-159.34
+Yen remains weak and close to 160 intervention-risk area
+ICE U.S. Dollar Index
+~99.8 after recovering post-CPI dip
+Initially fell after CPI, then recovered
+
+Immediate CPI reaction: The 2-year yield edged lower, while the 10-year was roughly steady and the 30-year moved higher in early post-release trading. That is a mild steepening signal: less pressure on near-term Fed tightening, but persistent term-premium/inflation/supply pressure farther out the curve.
+2. U.S. Treasury yield detail
+Maturity
+Post-CPI level
+Reference / context
+2-year
+4.174%-4.178%
+Reported around 4.18% immediately before data; slipped several basis points/tenths afterward
+10-year
+4.651%-4.668%
+Different timestamps during the morning; prior-day area was about 4.70%
+30-year
+~5.216%
+Rose from about 5.185% immediately before the CPI release in one market snapshot
+
+Curve math using representative post-CPI levels: 2s10s ≈ 4.655% - 4.174% = +0.481 percentage point (+48.1 bp). 2s30s ≈ 5.216% - 4.174% = +1.042 percentage points (+104.2 bp).
+Interpretation: The front end is tied more tightly to expected Fed policy. The long end carries more inflation, fiscal-supply and term-premium risk. A steeper positive curve after an in-line CPI report suggests the market reduced some near-term tightening pressure without removing longer-run yield pressure.
+3. U.S.-Japan policy-rate gap
+Policy
+Current setting
+Implication for USD/JPY
+Federal Reserve
+3.50%-3.75% target range
+Fed midpoint = 3.625%
+Bank of Japan
+Around 1.00% overnight call rate
+BOJ still materially below U.S. rates
+Midpoint gap
+~2.625 percentage points
+Positive dollar carry remains a structural headwind for the yen
+
+Rate differential: The U.S.-Japan short-rate gap remains large enough to support dollar-funded carry trades against the yen. A durable yen strengthening move would normally be helped by either lower U.S. yields, additional BOJ tightening, or both.
+4. Yen spot level and intervention risk
+Metric
+Current / recent value
+Significance
+USD/JPY spot
+~159.28-159.34
+Very close to the psychologically/politically important 160 area
+Recent intervention-day low
+~157.40
+Shows intervention can move the pair quickly
+Pre-intervention close cited in market coverage
+~159.50
+Much of the intervention gain has already faded
+Key watch level
+160.00
+Widely viewed as a level where intervention risk rises sharply
+
+Recent intervention backdrop: Japan and the U.S. recently coordinated yen-support operations. Market coverage estimates Japan spent tens of billions of dollars equivalent, and the U.S. participated through yen purchases. The yen strengthened sharply at first, but a meaningful portion of that move has since reversed.
+5. Latest CFTC yen positioning
+Latest available CFTC futures-only report as of August 12: positions dated August 4, 2026.
+CFTC Japanese yen futures
+Aug. 4, 2026
+Change from Jul. 28
+Open interest
+419,393 contracts
+-12,973
+Non-commercial longs
+147,228
++45,957
+Non-commercial shorts
+192,701
+-71,982
+Net non-commercial position
+-45,473 contracts
+Improved by +117,939 contracts
+Previous net position
+-163,412 contracts
+Very large bearish yen position before the reversal
+
+Notional scale: Each CME yen futures contract represents JPY 12.5 million. A net short of 45,473 contracts corresponds to about JPY 568.4 billion of net notional, roughly USD 3.6 billion at USD/JPY near 159.3. This is futures positioning, not a complete measure of all global FX exposure.
+Positioning signal: Speculators remain net short yen, but the bearish position was cut dramatically in one week. The combination of intervention and the threat of additional official action forced a substantial short-covering move. That means the market is still bearish on the yen in aggregate, but much less crowded than immediately before the intervention.
+6. Bond-yen relationship
+Higher U.S. short-term yields generally increase the carry advantage of holding dollars over yen and tend to support USD/JPY.
+Falling 2-year Treasury yields reduce the expected policy-rate advantage of the dollar and can support the yen.
+A high or rising U.S. 10-year/30-year yield can still support dollar assets, but at extreme levels it may also increase financial-stability and intervention concerns.
+If USD/JPY pushes through 160 while U.S. yields remain elevated, the probability of renewed intervention or stronger BOJ signaling rises.
+A sharp yen rally can trigger carry-trade unwinds, forcing leveraged investors to reduce positions in other risk assets and potentially creating cross-market volatility.
+7. Levels to watch next
+Market
+Level / event
+Why it matters
+USD/JPY
+160.00
+Intervention-risk threshold / major psychological level
+USD/JPY
+157.40 area
+Recent intervention-driven reference low
+2-year Treasury
+~4.17%
+Best quick read on Fed repricing after CPI
+10-year Treasury
+4.65%-4.70% zone
+Key benchmark for mortgages, equities and broad financial conditions
+30-year Treasury
+~5.20%+
+Signals persistent long-duration/fiscal/term-premium pressure
+U.S. PPI
+Aug. 13 release
+Next inflation input; can move yields and USD/JPY
+Next CFTC yen report
+Positions dated Aug. 11, released later this week
+Will show whether short covering continued after intervention
+
+8. Bottom line
+Bonds: The CPI report eased pressure at the front end, but long yields remain high. The curve is positively sloped from 2 years through 30 years, with roughly +48 bp from 2s10s and +104 bp from 2s30s using representative post-CPI levels.
+Yen: USD/JPY near 159.3 is still a weak-yen regime and uncomfortably close to 160. The rate differential still favors the dollar, but intervention risk is now a major constraint on chasing USD/JPY higher.
+Positioning: CFTC non-commercial traders are still net short yen, but the position has been slashed from about -163,000 to -45,000 contracts. That makes the trade less crowded, while also showing how quickly official intervention can force a reversal.
+Sources
+U.S. Treasury / Federal Reserve market-rate references; intraday Treasury levels from Tradeweb/FactSet reporting carried by WSJ and MarketWatch, Aug. 12, 2026.
+Federal Reserve, FOMC statement, July 29, 2026: federal funds target range 3.50%-3.75%.
+Bank of Japan: overnight call rate guideline around 1.0% since June 17, 2026.
+CFTC Commitments of Traders, Japanese Yen - CME, futures only, positions as of Aug. 4, 2026.
+MarketWatch / WSJ Aug. 12, 2026 coverage for USD/JPY near 159.3 and intervention-risk discussion around 160.
+Recent financial press coverage of U.S.-Japan yen-support intervention; intervention totals vary by source/timing, so this document uses broad wording rather than a single definitive total.
+Data note: Intraday market levels are time-sensitive. CFTC positioning is weekly and lagged. This document reports market data and positioning, not personalized investment advice.

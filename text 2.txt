@@ -1,0 +1,8 @@
+Category,Detail,Date,Economic Logic
+Biotech,FDA PDUFA Date,2026-04-10,Lilly Orforglipron approval; oral pill mass-market launch.
+Biotech,Chemistry,Small Molecule,Mass-production at scale; undercuts Novo Nordisk peptide supply chain.
+Policy,SNAP Grace Period Ends,2026-04-01,Hard enforcement of junk food bans; hits Dollar General revenue.
+Policy,Price Cap Agreement,2025-10-01,$149/month oral pill deal in exchange for 3-year tariff relief.
+Retail,Re-Wardrobing Cycle,2026-Q2,Mass weight loss drives demand for transition sizes (27-29 BMI range).
+Retail,Trade-Down Effect,2026-Q2,SNAP food costs rise; clothing budget moves to Ross/TJ Maxx.
+Infrastructure,LillyDirect Partnership,2026-Q2,Amazon (Delivery) and Walmart (Pickup) scale as official GLP-1 rails.

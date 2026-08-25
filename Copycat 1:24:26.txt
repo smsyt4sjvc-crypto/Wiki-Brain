@@ -1,0 +1,400 @@
+!pip -q install yfinance pyarrow
+
+import os, re
+import numpy as np
+import pandas as pd
+import yfinance as yf
+from google.colab import drive
+
+# -------------------------
+# CONFIG
+# -------------------------
+SP_CSV  = "/content/drive/MyDrive/S&P.csv"
+BNU_TXT = "/content/BNU .txt"  # note the space
+
+LOOKBACK_EVENTS_DAYS = 45
+EVENT_H = 5
+EVENT_MIN = 0.03   # tune if needed
+EVENT_MAX = 0.15   # tune if needed
+PRIOR_DAYS = 5
+
+TOP_SIGNALS = 1     # <-- concentrate into 1
+
+DOWNLOAD_DAYS = 180
+
+# "in-family" gating: enforce the common pattern more tightly
+GATE_DIST_SMA20 = (-3.0, 1.5)   # winners median is ~0; this blocks extended names like SMCI
+GATE_IQR_PAD = 0.25             # widen IQR bands slightly (0.25 = gentle)
+
+# fundamentals fetch (best-effort)
+FUNDAMENTALS = True
+FUNDAMENTALS_LIMIT = 60
+
+# -------------------------
+# Drive mount
+# -------------------------
+if not os.path.exists("/content/drive/MyDrive"):
+    drive.mount("/content/drive")
+
+# -------------------------
+# Helpers
+# -------------------------
+def clean_ticker(sym: str) -> str:
+    sym = str(sym).strip().upper()
+    sym = sym.replace(".", "-")  # BRK.B -> BRK-B
+    sym = re.sub(r"[^A-Z0-9\-\^=]", "", sym)
+    return sym
+
+def load_sp_symbols(path):
+    df = pd.read_csv(path)
+    for col in ["Symbol","SYMBOL","Ticker","TICKER","symbol","ticker"]:
+        if col in df.columns:
+            syms = df[col].dropna().astype(str).tolist()
+            break
+    else:
+        syms = df.iloc[:,0].dropna().astype(str).tolist()
+    return sorted(set([clean_ticker(s) for s in syms if str(s).strip()]))
+
+def parse_bnu(path):
+    if not os.path.exists(path):
+        print("BNU file not found:", path)
+        return []
+    text = open(path, "r", encoding="utf-8", errors="ignore").read()
+    tickers = re.findall(r"\"([A-Z0-9\.\-\^=]+)\"", text)
+    if not tickers:
+        tickers = re.findall(r"\b[A-Z]{1,5}(?:\-[A-Z])?\b", text)
+    tickers = [clean_ticker(t) for t in tickers]
+    bad = set(["BEGIN","END","TRUE","FALSE","OPEN","CLOSE","HIGH","LOW","VOLUME","DATE"])
+    tickers = [t for t in tickers if t not in bad]
+    return sorted(set(tickers))
+
+def sma(s, n): return s.rolling(n).mean()
+def ema(s, n): return s.ewm(span=n, adjust=False).mean()
+
+def wma(s, n):
+    w = np.arange(1, n+1)
+    return s.rolling(n).apply(lambda x: np.dot(x, w)/w.sum(), raw=True)
+
+def atr(d, n=14):
+    prev = d["Close"].shift(1)
+    tr = np.maximum(d["High"]-d["Low"], np.maximum((d["High"]-prev).abs(), (d["Low"]-prev).abs()))
+    return pd.Series(tr, index=d.index).rolling(n).mean()
+
+def rsi(close, n=14):
+    delta = close.diff()
+    up = delta.clip(lower=0)
+    dn = (-delta).clip(lower=0)
+    rs = up.ewm(alpha=1/n, adjust=False).mean() / (dn.ewm(alpha=1/n, adjust=False).mean() + 1e-12)
+    return 100 - (100/(1+rs))
+
+def roc(close, n=10):
+    return (close / close.shift(n) - 1.0) * 100.0
+
+def bollinger(close, n=20, k=2):
+    mid = sma(close, n)
+    sd = close.rolling(n).std()
+    upper = mid + k*sd
+    lower = mid - k*sd
+    width = (upper - lower) / (mid + 1e-12)
+    return mid, upper, lower, width*100
+
+def macd(close, fast=12, slow=26, sig=9):
+    m = ema(close, fast) - ema(close, slow)
+    s = ema(m, sig)
+    h = m - s
+    return m, s, h
+
+def vroc(vol, n=10):
+    return 100*(vol/vol.shift(n) - 1.0)
+
+def linreg_slope(y, n=20):
+    x = np.arange(n)
+    def _s(a):
+        yy = np.array(a)
+        xm = x.mean(); ym = yy.mean()
+        num = ((x-xm)*(yy-ym)).sum()
+        den = ((x-xm)**2).sum() + 1e-12
+        return num/den
+    return y.rolling(n).apply(_s, raw=True)
+
+def mfi(d, n=14):
+    tp = (d["High"] + d["Low"] + d["Close"]) / 3
+    rmf = tp * d["Volume"]
+    pos = np.where(tp.diff() > 0, rmf, 0.0)
+    neg = np.where(tp.diff() < 0, rmf, 0.0)
+    pos_sum = pd.Series(pos, index=d.index).rolling(n).sum()
+    neg_sum = pd.Series(neg, index=d.index).rolling(n).sum()
+    mr = pos_sum / (neg_sum + 1e-12)
+    return 100 - (100/(1+mr))
+
+def true_range(d):
+    prev = d["Close"].shift(1)
+    return np.maximum(d["High"]-d["Low"], np.maximum((d["High"]-prev).abs(), (d["Low"]-prev).abs()))
+
+def dmi_adx(d, n=14):
+    up = d["High"].diff()
+    dn = -d["Low"].diff()
+    plus_dm = np.where((up > dn) & (up > 0), up, 0.0)
+    minus_dm = np.where((dn > up) & (dn > 0), dn, 0.0)
+
+    tr = true_range(d)
+    atr_n = pd.Series(tr, index=d.index).rolling(n).mean()
+
+    plus_di = 100 * pd.Series(plus_dm, index=d.index).rolling(n).sum() / (atr_n*n + 1e-12)
+    minus_di = 100 * pd.Series(minus_dm, index=d.index).rolling(n).sum() / (atr_n*n + 1e-12)
+    dx = (100 * (plus_di - minus_di).abs() / ((plus_di + minus_di) + 1e-12))
+    adx = dx.rolling(n).mean()
+    return plus_di, minus_di, adx
+
+def mad(x):
+    x = np.asarray(x)
+    m = np.nanmedian(x)
+    return np.nanmedian(np.abs(x - m)) + 1e-9
+
+def fetch_fundamentals(tickers, limit=60):
+    out = {}
+    for t in tickers[:limit]:
+        try:
+            info = yf.Ticker(t).info
+        except:
+            info = {}
+        def g(key, default=np.nan):
+            return info.get(key, default) if isinstance(info, dict) else default
+        tr = g("trailingPE")
+        fw = g("forwardPE")
+        out[t] = {
+            "P/E Ratio (trailing)": tr,
+            "P/E Range (proxy)": float(abs(tr - fw)) if pd.notna(tr) and pd.notna(fw) else np.nan,
+            "Revenues (ttm)": g("totalRevenue"),
+            "Rolling EPS (ttm)": g("trailingEps"),
+            "Rolling Dividend Yield": g("dividendYield"),
+        }
+    return pd.DataFrame.from_dict(out, orient="index").reset_index().rename(columns={"index":"ticker"})
+
+# -------------------------
+# Universe
+# -------------------------
+sp_syms = load_sp_symbols(SP_CSV)
+bnu_syms = parse_bnu(BNU_TXT)
+universe = sorted(set(sp_syms).intersection(bnu_syms)) if bnu_syms else sp_syms
+
+print(f"S&P symbols: {len(sp_syms)} | BNU parsed: {len(bnu_syms)} | Universe: {len(universe)}")
+
+# -------------------------
+# Download OHLCV
+# -------------------------
+raw = yf.download(
+    universe,
+    period=f"{DOWNLOAD_DAYS}d",
+    auto_adjust=False,
+    group_by="ticker",
+    threads=True,
+    progress=False
+)
+
+if raw.empty:
+    raise RuntimeError("No data returned from yfinance.")
+
+if isinstance(raw.columns, pd.MultiIndex):
+    universe = sorted(set(raw.columns.get_level_values(0)))
+
+# -------------------------
+# Build winners (underwriting snapshots) + today's snapshots
+# -------------------------
+today_rows = []
+winner_uw_rows = []
+
+for t in universe:
+    try:
+        d = raw[t].dropna().copy()
+    except:
+        continue
+
+    if len(d) < 90:
+        continue
+
+    # core indicators
+    d["SMA20"] = sma(d["Close"], 20)
+    d["SMA50"] = sma(d["Close"], 50)
+    d["EMA20"] = ema(d["Close"], 20)
+    d["WMA20"] = wma(d["Close"], 20)
+
+    d["ATR"] = atr(d, 14)
+    d["ATR_pct"] = 100 * d["ATR"] / (d["Close"] + 1e-12)
+
+    bb_mid, bb_up, bb_lo, bb_w = bollinger(d["Close"], 20, 2)
+    d["BB_width_pct"] = bb_w
+
+    m, s, h = macd(d["Close"])
+    d["MACD_hist"] = h
+
+    d["RSI14"] = rsi(d["Close"], 14)
+
+    plus_di, minus_di, adx = dmi_adx(d, 14)
+    d["ADX"] = adx
+
+    d["MFI"] = mfi(d, 14)
+    d["PROC_10"] = roc(d["Close"], 10)
+    d["VROC_10"] = vroc(d["Volume"], 10)
+    d["LinRegSlope20"] = linreg_slope(d["Close"], 20)
+
+    d["dist_sma20_pct"] = 100*(d["Close"]/d["SMA20"] - 1.0)
+    d["dist_sma50_pct"] = 100*(d["Close"]/d["SMA50"] - 1.0)
+
+    # OBV removed from scoring (kept optional if you want later)
+    d = d.dropna()
+
+    # ---- Winner mining: last 45 trading days, max forward return within <=5 days ----
+    start_idx = max(0, len(d) - LOOKBACK_EVENTS_DAYS - EVENT_H - 5)
+    i = start_idx
+    while i < len(d) - EVENT_H - 1:
+        entry = float(d["Close"].iloc[i])
+        future = d["Close"].iloc[i+1:i+1+EVENT_H+1]
+        peak = float(future.max())
+        fwd_max = peak/entry - 1.0
+
+        if EVENT_MIN <= fwd_max <= EVENT_MAX:
+            uw_i = i - PRIOR_DAYS
+            if uw_i >= 0:
+                uw = d.iloc[uw_i]
+                winner_uw_rows.append({
+                    "ticker": t,
+                    "event_date": d.index[i],
+                    "fwd_max_ret_pct": fwd_max*100,
+                    "uw_ATR_pct": float(uw["ATR_pct"]),
+                    "uw_dist_sma20_pct": float(uw["dist_sma20_pct"]),
+                    "uw_dist_sma50_pct": float(uw["dist_sma50_pct"]),
+                    "uw_BB_width_pct": float(uw["BB_width_pct"]),
+                    "uw_MACD_hist": float(uw["MACD_hist"]),
+                    "uw_RSI14": float(uw["RSI14"]),
+                    "uw_ADX": float(uw["ADX"]),
+                    "uw_MFI": float(uw["MFI"]),
+                    "uw_PROC_10": float(uw["PROC_10"]),
+                    "uw_VROC_10": float(uw["VROC_10"]),
+                    "uw_LinRegSlope20": float(uw["LinRegSlope20"]),
+                })
+            i += EVENT_H
+        else:
+            i += 1
+
+    # ---- Today snapshot ----
+    last = d.iloc[-1]
+    today_rows.append({
+        "ticker": t,
+        "LastClose": float(last["Close"]),
+        "ATR_pct": float(last["ATR_pct"]),
+        "dist_sma20_pct": float(last["dist_sma20_pct"]),
+        "dist_sma50_pct": float(last["dist_sma50_pct"]),
+        "BB_width_pct": float(last["BB_width_pct"]),
+        "MACD_hist": float(last["MACD_hist"]),
+        "RSI14": float(last["RSI14"]),
+        "ADX": float(last["ADX"]),
+        "MFI": float(last["MFI"]),
+        "PROC_10": float(last["PROC_10"]),
+        "VROC_10": float(last["VROC_10"]),
+        "LinRegSlope20": float(last["LinRegSlope20"]),
+        "Volume": float(last["Volume"]),
+    })
+
+today_df = pd.DataFrame(today_rows)
+winners_df = pd.DataFrame(winner_uw_rows)
+
+print(f"\nTickers evaluated: {len(today_df)}")
+print(f"Winner events found (last {LOOKBACK_EVENTS_DAYS}d, <= {EVENT_H}d pop): {len(winners_df)}")
+
+if winners_df.empty:
+    raise RuntimeError("No winner events found. Lower EVENT_MIN (e.g. 0.02) or expand LOOKBACK_EVENTS_DAYS.")
+
+# -------------------------
+# Copycat medians + IQR gates
+# -------------------------
+median_cols = [c for c in winners_df.columns if c.startswith("uw_")]
+med = winners_df[median_cols].median(numeric_only=True)
+q1  = winners_df[median_cols].quantile(0.25, numeric_only=True)
+q3  = winners_df[median_cols].quantile(0.75, numeric_only=True)
+iqr = (q3 - q1).replace(0, np.nan)
+
+# Map underwriting fields -> today's fields
+MAP = {
+    "uw_ATR_pct": "ATR_pct",
+    "uw_dist_sma20_pct": "dist_sma20_pct",
+    "uw_dist_sma50_pct": "dist_sma50_pct",
+    "uw_BB_width_pct": "BB_width_pct",
+    "uw_MACD_hist": "MACD_hist",
+    "uw_RSI14": "RSI14",
+    "uw_ADX": "ADX",
+    "uw_MFI": "MFI",
+    "uw_PROC_10": "PROC_10",
+    "uw_VROC_10": "VROC_10",
+    "uw_LinRegSlope20": "LinRegSlope20",
+}
+
+# Gate: "in-family" on key dimensions + explicit SMA20 reset band
+KEYS = ["uw_ATR_pct","uw_dist_sma20_pct","uw_dist_sma50_pct","uw_RSI14","uw_MACD_hist","uw_PROC_10","uw_BB_width_pct"]
+
+gate = pd.Series(True, index=today_df.index)
+for k in KEYS:
+    lo = q1[k] - GATE_IQR_PAD*iqr[k] if pd.notna(iqr[k]) else q1[k]
+    hi = q3[k] + GATE_IQR_PAD*iqr[k] if pd.notna(iqr[k]) else q3[k]
+    gate &= today_df[MAP[k]].between(lo, hi)
+
+gate &= today_df["dist_sma20_pct"].between(GATE_DIST_SMA20[0], GATE_DIST_SMA20[1])
+
+today_df["in_family"] = gate
+filtered = today_df[today_df["in_family"]].copy()
+
+print(f"In-family candidates: {len(filtered)} / {len(today_df)}")
+if filtered.empty:
+    # fallback: no gate, but keep ranking
+    print("No in-family candidates with current gate. Relaxing gate to rank all tickers.")
+    filtered = today_df.copy()
+
+# -------------------------
+# Trimmed distance scoring (robust MAD scaling)
+# -------------------------
+scales = {c: mad(winners_df[c].values) for c in MAP.keys()}
+
+dist_scores = []
+for _, r in filtered.iterrows():
+    s = 0.0
+    n = 0
+    for uw_col, td_col in MAP.items():
+        if pd.notna(r[td_col]) and pd.notna(med[uw_col]):
+            s += abs(r[td_col] - med[uw_col]) / scales[uw_col]
+            n += 1
+    dist_scores.append(s / max(n, 1))
+
+filtered["copycat_distance"] = dist_scores
+filtered["liq_rank"] = filtered["Volume"].rank(pct=True)
+
+# final: lower is better; small liquidity preference
+filtered["final_score"] = filtered["copycat_distance"] - 0.15*filtered["liq_rank"]
+
+# -------------------------
+# Add fundamentals (best-effort)
+# -------------------------
+if FUNDAMENTALS:
+    fund = fetch_fundamentals(filtered["ticker"].tolist(), limit=FUNDAMENTALS_LIMIT)
+    filtered = filtered.merge(fund, on="ticker", how="left")
+
+# -------------------------
+# Output: medians + top-1 signal
+# -------------------------
+print("\n=== COPYCAT MEDIANS (t-5 before <=5d winners) ===")
+display(pd.DataFrame({"median": med}).T)
+
+signals = filtered.sort_values("final_score", ascending=True).head(TOP_SIGNALS)
+
+print(f"\n=== TOP {TOP_SIGNALS} COPYCAT SIGNAL ===")
+cols_show = [
+    "ticker","LastClose","ATR_pct","dist_sma20_pct","dist_sma50_pct","BB_width_pct",
+    "MACD_hist","RSI14","ADX","MFI","PROC_10","VROC_10","Volume","in_family",
+    "copycat_distance","final_score",
+    "P/E Ratio (trailing)","P/E Range (proxy)","Revenues (ttm)","Rolling EPS (ttm)","Rolling Dividend Yield"
+]
+cols_show = [c for c in cols_show if c in signals.columns]
+display(signals[cols_show])
+
+OUT_SIGNALS = "/content/drive/MyDrive/BNU_COPYCAT_SIGNAL_TOP1.csv"
+signals.to_csv(OUT_SIGNALS, index=False)
+print(f"\nSaved: {OUT_SIGNALS}")

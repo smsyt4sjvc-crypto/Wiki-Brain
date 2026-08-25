@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="robots" content="noindex,nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#1C1A17">
+<link rel="apple-touch-icon" href="/icon-I.png">
+<link rel="icon" type="image/png" href="/icon-I.png">
+<link rel="manifest" href="/field-estimate-manifest.json">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="INMA Estimator">
+<title>INMA Field Estimator</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *,*::before,*::after{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:#1C1A17;color:#F5F2ED;font-family:'Outfit',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+  body{min-height:100vh;min-height:100dvh}
+  .app{display:flex;flex-direction:column;min-height:100vh;min-height:100dvh;max-width:780px;margin:0 auto}
+  .topbar{position:sticky;top:0;z-index:10;padding:16px 20px 12px;background:linear-gradient(180deg,#1C1A17 80%,rgba(28,26,23,0));display:flex;justify-content:space-between;align-items:center;gap:16px}
+  .brand-mark{font-weight:800;font-size:22px;color:#B8941F;letter-spacing:1px}
+  .brand-sub{font-size:11px;letter-spacing:2px;text-transform:uppercase;opacity:.6;margin-top:-2px}
+  .dots{display:flex;gap:8px}
+  .dot{width:9px;height:9px;border-radius:50%;background:#3a352e;transition:all .25s}
+  .dot.active{background:#B8941F;transform:scale(1.3)}
+  .dot.done{background:#6b5a2a}
+  .stage{flex:1;padding:8px 20px 120px}
+  .step{display:none;animation:fadeIn .3s ease}
+  .step.active{display:block}
+  @keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+  .card{background:#25221d;border:1px solid #3a352e;border-radius:20px;padding:22px;margin-bottom:16px;box-shadow:0 4px 16px rgba(0,0,0,.25)}
+  .card h2{margin:0 0 4px;font-size:22px;font-weight:700;color:#F5F2ED}
+  .card .sub{font-size:13px;opacity:.55;margin:0 0 18px}
+  .field{margin-bottom:14px}
+  .field label{display:block;font-size:12px;letter-spacing:1px;text-transform:uppercase;opacity:.65;margin-bottom:6px;font-weight:500}
+  .field .hint{font-size:11px;opacity:.5;margin-top:4px;font-style:italic}
+  .field input,.field textarea,.field select{width:100%;padding:14px 14px;background:#1C1A17;border:1px solid #3a352e;border-radius:12px;color:#F5F2ED;font-family:inherit;font-size:16px;transition:border-color .2s,background .2s;-webkit-appearance:none}
+  .field input:focus,.field textarea:focus{outline:none;border-color:#B8941F}
+  .field textarea{resize:vertical;min-height:110px}
+  .field textarea.tall{min-height:150px}
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .row-3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px}
+  .wall-card{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:14px;margin-bottom:10px;display:flex;gap:12px;align-items:flex-start;cursor:pointer;transition:border-color .2s}
+  .wall-card:hover{border-color:#B8941F}
+  .wall-card .thumb{width:64px;height:64px;border-radius:10px;background:#25221d;flex-shrink:0;overflow:hidden;display:flex;align-items:center;justify-content:center;font-size:24px;color:#3a352e}
+  .wall-card .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .wall-card .body{flex:1;min-width:0}
+  .wall-card .title{font-size:13px;font-weight:600;color:#F5F2ED;margin-bottom:4px}
+  .wall-card .notes{font-size:12px;opacity:.65;line-height:1.4;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+  .wall-card .actions{display:flex;flex-direction:column;gap:6px}
+  .wall-card .btn-danger{padding:6px 10px;font-size:12px}
+  .wall-edit{background:#2a2721;border:1px solid #B8941F;border-radius:14px;padding:16px;margin-bottom:12px}
+  .wall-edit .edit-head{font-size:13px;font-weight:600;color:#B8941F;letter-spacing:1px;text-transform:uppercase;margin-bottom:12px}
+  .wall-photo-row{display:flex;gap:12px;align-items:center;margin-bottom:12px}
+  .wall-photo-thumb{width:96px;height:96px;border-radius:10px;background:#1C1A17;border:1px dashed #3a352e;overflow:hidden;display:flex;align-items:center;justify-content:center;font-size:32px;color:#B8941F;flex-shrink:0;cursor:pointer;position:relative}
+  .wall-photo-thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .wall-photo-thumb input{display:none}
+  .wall-photo-actions{display:flex;flex-direction:column;gap:8px;flex:1}
+  .wall-photo-actions .micro{font-size:11px;opacity:.5;font-style:italic}
+  .wall-edit textarea{min-height:130px}
+  .edit-buttons{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:12px}
+  .line-item{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:14px;margin-bottom:10px}
+  .line-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr auto;gap:8px;align-items:end}
+  .line-grid .mini-label{font-size:10px;opacity:.5;text-transform:uppercase;letter-spacing:1px;margin-bottom:3px}
+  .line-grid input{width:100%;padding:10px 12px;background:#25221d;border:1px solid #3a352e;border-radius:10px;color:#F5F2ED;font-size:15px;font-family:inherit;-webkit-appearance:none}
+  .line-grid input:focus{outline:none;border-color:#B8941F}
+  .btn-primary{background:#B8941F;color:#1C1A17;border:none;padding:14px 22px;border-radius:12px;font-weight:700;font-size:15px;font-family:inherit;cursor:pointer;transition:background .2s;letter-spacing:.5px}
+  .btn-primary:hover{background:#d4a828}
+  .btn-primary:disabled{opacity:.5;cursor:not-allowed}
+  .btn-ghost{background:transparent;color:#F5F2ED;border:1px solid #3a352e;padding:14px 22px;border-radius:12px;font-weight:600;font-size:15px;font-family:inherit;cursor:pointer;transition:border-color .2s}
+  .btn-ghost:hover{border-color:#B8941F}
+  .btn-ghost:disabled{opacity:.3;cursor:not-allowed}
+  .btn-danger{background:transparent;color:#c66;border:1px solid #4a2a2a;padding:10px 14px;border-radius:10px;font-size:13px;cursor:pointer;font-family:inherit}
+  .btn-add{background:transparent;color:#B8941F;border:1px dashed #B8941F;padding:14px;border-radius:12px;font-weight:600;font-size:14px;cursor:pointer;width:100%;font-family:inherit;transition:background .2s}
+  .btn-add:hover{background:rgba(184,148,31,.1)}
+  .btn-generate{background:linear-gradient(135deg,#B8941F 0%,#d4a828 100%);color:#1C1A17;border:none;padding:18px;border-radius:14px;font-weight:800;font-size:16px;font-family:inherit;cursor:pointer;width:100%;letter-spacing:.5px;box-shadow:0 4px 16px rgba(184,148,31,.25)}
+  .btn-generate:disabled{opacity:.6;cursor:not-allowed}
+  .navbar{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:780px;padding:14px 20px 20px;padding-bottom:calc(20px + env(safe-area-inset-bottom));background:#1C1A17;border-top:1px solid #3a352e;display:flex;justify-content:space-between;align-items:center;gap:12px;z-index:10}
+  .step-label{font-size:12px;opacity:.5;letter-spacing:1.5px;text-transform:uppercase}
+  .totals{background:#1C1A17;border:1px solid #3a352e;border-radius:14px;padding:20px;margin-top:6px;font-size:16px}
+  .totals .line{display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px dashed #3a352e}
+  .totals .line:last-child{border-bottom:none}
+  .totals .line.big{font-size:20px;font-weight:700;padding:14px 0}
+  .totals .line.fee{color:#e0c878}
+  .totals .line.keeps{color:#7cc490;font-weight:700;font-size:18px;margin-top:8px;border-top:2px solid #3a3530;padding-top:14px}
+  .totals .tax-inline{display:flex;align-items:center;gap:8px}
+  .totals .tax-inline input{width:70px;padding:6px 8px;background:#25221d;border:1px solid #3a352e;border-radius:8px;color:#F5F2ED;font-family:inherit;font-size:14px;text-align:right;-webkit-appearance:none}
+  .totals .tax-inline input:focus{outline:none;border-color:#B8941F}
+  .save-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:18px}
+  .save-grid button{padding:18px 16px;font-size:14px;line-height:1.3}
+  .spinner{display:inline-block;width:18px;height:18px;border:2px solid rgba(28,26,23,.3);border-top-color:#1C1A17;border-radius:50%;animation:spin .8s linear infinite;vertical-align:middle;margin-right:8px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .error-banner{background:#3a2220;border:1px solid #6a3030;color:#f0b0b0;padding:12px 14px;border-radius:10px;margin-top:12px;font-size:13px;line-height:1.5}
+  .preview-section{margin-top:18px}
+  .preview-section h3{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#B8941F;margin:18px 0 10px;border-bottom:1px solid #3a352e;padding-bottom:6px}
+  .stale-banner{background:#2a2721;border:1px solid #B8941F;color:#e0c878;padding:10px 14px;border-radius:10px;margin-top:10px;font-size:12px;text-align:center}
+  @media(max-width:520px){
+    .save-grid{grid-template-columns:1fr}
+    .row,.row-3{grid-template-columns:1fr}
+    .line-grid{grid-template-columns:1fr 1fr;gap:6px}
+    .line-grid .mini-label-hide-mobile{display:none}
+    .line-grid .desc-cell{grid-column:1 / -1}
+    .line-grid .rm-cell{grid-column:1 / -1}
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">INMA</div>
+      <div class="brand-sub">Field Estimator</div>
+    </div>
+    <div class="dots" id="dots"></div>
+  </header>
+
+  <main class="stage" id="stage">
+
+    <!-- STEP 1 — JOB INFO + GENERAL SCOPE -->
+    <section class="step active" data-step="1">
+      <div class="card">
+        <h2>Job Info</h2>
+        <p class="sub">Who, where, and the big picture.</p>
+        <div class="field"><label>Homeowner Name</label><input id="ownerName" type="text" placeholder="Jane Doe" autocomplete="off"></div>
+        <div class="row">
+          <div class="field"><label>Phone</label><input id="ownerPhone" type="tel" placeholder="(509) 555-1234" autocomplete="off"></div>
+          <div class="field"><label>Email</label><input id="ownerEmail" type="email" placeholder="jane@example.com" autocomplete="off"></div>
+        </div>
+        <div class="field"><label>Property Address</label><input id="ownerAddress" type="text" placeholder="1234 Main St, Spokane WA" autocomplete="off"></div>
+        <div class="row">
+          <div class="field"><label>Date</label><input id="jobDate" type="date"></div>
+          <div class="field"><label>Estimate #</label><input id="estimateNum" type="text" placeholder="Auto" autocomplete="off"></div>
+        </div>
+      </div>
+      <div class="card">
+        <h2>General Job Scope</h2>
+        <p class="sub">Dictate the overview before you walk.</p>
+        <div class="field">
+          <label>Scope Notes</label>
+          <textarea id="generalScope" class="tall" placeholder="E.g. Full tearoff. Hardie ColorPlus board-and-batten on all four sides. Replace 12 windows — mix of sizes. Paint new trim. Tradesman-style window trim throughout."></textarea>
+          <div class="hint">Tap the textarea, then the microphone on your keyboard to dictate.</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- STEP 2 — WALK THE WALLS -->
+    <section class="step" data-step="2">
+      <div class="card">
+        <h2>Walk the Walls</h2>
+        <p class="sub">One photo + notes per wall. Up to 12.</p>
+        <div id="wallsList"></div>
+        <div id="wallEditHost"></div>
+        <button class="btn-add" id="addWallBtn" type="button">+ Add Wall / Area</button>
+        <p style="font-size:12px;opacity:.55;margin-top:12px;line-height:1.5">
+          Tip: dictate the wall label + measurements + specials.<br>
+          "East wall #1. 30 feet long, 8 feet tall, gable to 12 feet in the peak. Six windows. Need a light block, gable vent, hose bib block. Two outside corners. Tradesman-style trim around the windows."
+        </p>
+      </div>
+    </section>
+
+    <!-- STEP 3 — GENERATE & EDIT -->
+    <section class="step" data-step="3">
+      <div class="card">
+        <h2>Generate &amp; Edit</h2>
+        <p class="sub">AI drafts the estimate from your walls. Edit anything before saving.</p>
+
+        <button class="btn-generate" id="generateBtn" type="button">✨ Generate Estimate with AI</button>
+        <button class="btn-ghost" id="skipAiBtn" type="button" style="width:100%;margin-top:10px;font-size:13px;opacity:.8">Skip AI — Fill In Manually</button>
+        <div id="generateError" style="display:none"></div>
+        <div id="staleBanner" class="stale-banner" style="display:none">Walls changed since last generate. Tap Regenerate below when ready.</div>
+
+        <div id="previewArea" style="display:none">
+          <div class="preview-section">
+            <h3>Customer-Facing Scope</h3>
+            <div class="field"><textarea id="customerScope" class="tall" placeholder="Plain-English summary for the homeowner."></textarea></div>
+          </div>
+
+          <div class="preview-section">
+            <h3>Contractor Scope</h3>
+            <div class="field"><textarea id="contractorScope" class="tall" placeholder="Technical scope, per-area notes, access/staging, punch list."></textarea></div>
+          </div>
+
+          <div class="preview-section">
+            <h3>Material List (Contractor)</h3>
+            <div class="field"><textarea id="materialList" class="tall" placeholder="Count of light blocks, gable vents, hose bib blocks, corners, trim styles, etc."></textarea></div>
+          </div>
+
+          <div class="preview-section">
+            <h3>Line Items</h3>
+            <div id="linesHost"></div>
+            <button class="btn-add" id="addLineBtn" type="button">+ Add Line</button>
+          </div>
+
+          <div class="preview-section">
+            <h3>Totals</h3>
+            <div class="totals" id="totalsBox"></div>
+          </div>
+
+          <div class="save-grid">
+            <button class="btn-ghost" id="saveCustomerBtn" type="button">📄 Customer Estimate (PDF)</button>
+            <button class="btn-primary" id="saveContractorBtn" type="button">📋 Contractor Pack (DOCX)</button>
+          </div>
+          <p style="font-size:12px;opacity:.5;text-align:center;margin-top:14px">Customer opens in a new tab — use your browser's Print / Share to save. Contractor downloads as an editable .docx.</p>
+
+          <button class="btn-ghost" id="regenBtn" type="button" style="width:100%;margin-top:18px;border-color:#6b5a2a;color:#e0c878">⟳ Regenerate from walls (overwrites edits)</button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="navbar">
+    <button class="btn-ghost" id="backBtn">← Back</button>
+    <div class="step-label" id="stepLabel">Step 1 of 3</div>
+    <button class="btn-primary" id="nextBtn">Next →</button>
+  </footer>
+</div>
+
+<!-- html-docx-js for contractor DOCX export -->
+<script src="https://unpkg.com/html-docx-js/dist/html-docx.js"></script>
+
+<script>
+/* ============ DATA MODEL ============ */
+const state = {
+  step: 1,
+  job: { owner:'', phone:'', email:'', address:'', date:'', num:'' },
+  estimateNumDirty: false,
+  generalScope: '',
+  walls: [],           // [{id, dataUrl, mediaType, notes}]
+  editing: null,       // {id?, dataUrl?, mediaType?, notes} — null when not editing
+  customerScope: '',
+  contractorScope: '',
+  materialList: '',
+  previewLines: [],    // [{id, desc, qty, unit, rate}]
+  taxPct: '',
+  generated: false,
+  stale: false,        // walls changed after last generate
+};
+const TOTAL_STEPS = 3;
+const MAX_WALLS = 12;
+const API_URL = 'https://inma-five.vercel.app/api/generate-estimate';
+
+const $ = (s,r=document)=>r.querySelector(s);
+const $$ = (s,r=document)=>Array.from(r.querySelectorAll(s));
+const fmtMoney = n => '$' + (Math.round((n||0)*100)/100).toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2});
+const uid = () => 'L'+Date.now()+Math.random().toString(36).slice(2,6);
+function escapeAttr(s){ return String(s==null?'':s).replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
+function escapeHTML(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\n/g,'<br>'); }
+function escapeText(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+/* ============ INIT ============ */
+document.addEventListener('DOMContentLoaded', ()=>{
+  buildDots();
+  bindJobInfo();
+  bindGeneralScope();
+  bindWallsUI();
+  bindStep3();
+  bindNav();
+  setDefaultDateAndNum();
+  renderWalls();
+  updateStepUI();
+});
+
+/* ============ STEPPER NAV ============ */
+function buildDots(){
+  const host = $('#dots');
+  host.innerHTML = '';
+  for(let i=1;i<=TOTAL_STEPS;i++){
+    const d = document.createElement('div');
+    d.className = 'dot';
+    host.appendChild(d);
+  }
+}
+function updateStepUI(){
+  $$('.step').forEach(s => s.classList.toggle('active', Number(s.dataset.step) === state.step));
+  $$('.dot').forEach((d,i)=>{
+    d.classList.toggle('active', i+1 === state.step);
+    d.classList.toggle('done', i+1 < state.step);
+  });
+  $('#stepLabel').textContent = `Step ${state.step} of ${TOTAL_STEPS}`;
+  $('#backBtn').disabled = state.step === 1;
+  // On Step 3, hide the Next button — actions live inside the page.
+  $('#nextBtn').style.visibility = state.step === TOTAL_STEPS ? 'hidden' : 'visible';
+  $('#nextBtn').textContent = 'Next →';
+  if (state.step === TOTAL_STEPS) {
+    $('#staleBanner').style.display = (state.generated && state.stale) ? 'block' : 'none';
+    if (state.generated) renderTotals();
+  }
+  window.scrollTo({top:0, behavior:'smooth'});
+}
+function bindNav(){
+  $('#backBtn').addEventListener('click', ()=>{ if(state.step>1){state.step--;updateStepUI();}});
+  $('#nextBtn').addEventListener('click', ()=>{ if(state.step<TOTAL_STEPS){state.step++;updateStepUI();}});
+}
+
+/* ============ STEP 1 — JOB INFO ============ */
+function setDefaultDateAndNum(){
+  const d = new Date();
+  const iso = d.toISOString().slice(0,10);
+  $('#jobDate').value = iso;
+  state.job.date = iso;
+  const n = 'INMA-' + d.getFullYear() + String(d.getMonth()+1).padStart(2,'0') + String(d.getDate()).padStart(2,'0') + '-' + String(Math.floor(Math.random()*900)+100);
+  $('#estimateNum').value = n;
+  state.job.num = n;
+}
+
+function bindJobInfo(){
+  const map = { ownerName:'owner', ownerPhone:'phone', ownerEmail:'email', ownerAddress:'address', jobDate:'date' };
+  Object.entries(map).forEach(([id, key])=>{
+    $('#'+id).addEventListener('input', e => {
+      state.job[key] = e.target.value;
+      if (id === 'ownerAddress') maybeAutoEstimateNum();
+    });
+  });
+  // Estimate # gets a dirty flag the moment Jake touches it.
+  const numInput = $('#estimateNum');
+  numInput.addEventListener('input', e => {
+    state.job.num = e.target.value;
+    state.estimateNumDirty = true;
+  });
+}
+
+function maybeAutoEstimateNum(){
+  if (state.estimateNumDirty) return;
+  const addr = state.job.address || '';
+  const m = addr.match(/^\s*(\d+)/);
+  if (!m) return; // no leading digits → keep date-based fallback
+  const n = 'INMA-' + m[1];
+  $('#estimateNum').value = n;
+  state.job.num = n;
+}
+
+function bindGeneralScope(){
+  $('#generalScope').addEventListener('input', e => { state.generalScope = e.target.value; });
+}
+
+/* ============ STEP 2 — WALLS ============ */
+function bindWallsUI(){
+  $('#addWallBtn').addEventListener('click', () => {
+    if (state.walls.length >= MAX_WALLS) {
+      alert(`Max ${MAX_WALLS} walls.`);
+      return;
+    }
+    if (state.editing) return; // already editing
+    state.editing = { id: null, dataUrl: null, mediaType: null, notes: '' };
+    renderWalls();
+  });
+}
+
+function fileToDataURL(file){
+  return new Promise((resolve,reject) => {
+    const r = new FileReader();
+    r.onload = () => resolve(r.result);
+    r.onerror = reject;
+    r.readAsDataURL(file);
+  });
+}
+
+function renderWalls(){
+  const list = $('#wallsList');
+  list.innerHTML = state.walls.map((w, idx) => `
+    <div class="wall-card" data-wall="${w.id}">
+      <div class="thumb">${w.dataUrl ? `<img src="${w.dataUrl}" alt="">` : '📝'}</div>
+      <div class="body">
+        <div class="title">Wall ${idx+1}</div>
+        <div class="notes">${escapeText((w.notes||'').trim() || '(no notes)')}</div>
+      </div>
+      <div class="actions">
+        <button class="btn-danger" type="button" data-wall-delete="${w.id}">✕</button>
+      </div>
+    </div>`).join('');
+
+  // Tap to edit (excluding the delete button)
+  $$('.wall-card', list).forEach(card => {
+    card.addEventListener('click', e => {
+      if (e.target.closest('[data-wall-delete]')) return;
+      const id = card.dataset.wall;
+      startEditWall(id);
+    });
+  });
+  $$('[data-wall-delete]', list).forEach(btn => {
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      const id = btn.dataset.wallDelete;
+      state.walls = state.walls.filter(w => w.id !== id);
+      if (state.generated) state.stale = true;
+      renderWalls();
+    });
+  });
+
+  // Edit card (if any)
+  const host = $('#wallEditHost');
+  if (!state.editing) {
+    host.innerHTML = '';
+    $('#addWallBtn').style.display = state.walls.length >= MAX_WALLS ? 'none' : 'block';
+    return;
+  }
+  $('#addWallBtn').style.display = 'none';
+  const e = state.editing;
+  const isNew = !e.id;
+  host.innerHTML = `
+    <div class="wall-edit">
+      <div class="edit-head">${isNew ? '+ New Wall' : 'Editing Wall'}</div>
+      <div class="wall-photo-row">
+        <label class="wall-photo-thumb" id="wallPhotoThumb">
+          ${e.dataUrl ? `<img src="${e.dataUrl}" alt="">` : '+'}
+          <input type="file" id="wallPhotoInput" accept="image/*" capture="environment">
+        </label>
+        <div class="wall-photo-actions">
+          <div class="micro">Tap photo to ${e.dataUrl ? 'replace' : 'add'}. Photo is optional.</div>
+          ${e.dataUrl ? '<button class="btn-danger" type="button" id="clearWallPhoto">Remove photo</button>' : ''}
+        </div>
+      </div>
+      <div class="field">
+        <label>Wall Notes</label>
+        <textarea id="wallNotes" placeholder="E.g. East wall #1. 30 feet long, 8 feet tall, gable to 12 feet in the peak. Six windows. Light block, gable vent, hose bib block. Two outside corners. Tradesman-style window trim.">${escapeText(e.notes||'')}</textarea>
+        <div class="hint">Dictate the wall label, measurements, and anything special.</div>
+      </div>
+      <div class="edit-buttons">
+        <button class="btn-ghost" type="button" id="cancelWallBtn">Cancel</button>
+        <button class="btn-primary" type="button" id="saveWallBtn">✓ Save Wall ${isNew ? '& Add Another' : ''}</button>
+      </div>
+    </div>`;
+
+  $('#wallPhotoInput').addEventListener('change', async ev => {
+    const f = ev.target.files && ev.target.files[0];
+    if (!f) return;
+    const dataUrl = await fileToDataURL(f);
+    state.editing.dataUrl = dataUrl;
+    state.editing.mediaType = f.type || 'image/jpeg';
+    renderWalls();
+  });
+  const clearBtn = $('#clearWallPhoto');
+  if (clearBtn) clearBtn.addEventListener('click', () => {
+    state.editing.dataUrl = null;
+    state.editing.mediaType = null;
+    renderWalls();
+  });
+  $('#wallNotes').addEventListener('input', ev => { state.editing.notes = ev.target.value; });
+  $('#cancelWallBtn').addEventListener('click', () => {
+    state.editing = null;
+    renderWalls();
+  });
+  $('#saveWallBtn').addEventListener('click', () => {
+    const ed = state.editing;
+    const hasContent = (ed.dataUrl || (ed.notes||'').trim());
+    if (!hasContent) {
+      alert('Add a photo or some notes before saving.');
+      return;
+    }
+    if (ed.id) {
+      // update existing
+      const idx = state.walls.findIndex(w => w.id === ed.id);
+      if (idx >= 0) state.walls[idx] = { id: ed.id, dataUrl: ed.dataUrl, mediaType: ed.mediaType, notes: ed.notes||'' };
+    } else {
+      // new
+      state.walls.push({ id: uid(), dataUrl: ed.dataUrl, mediaType: ed.mediaType, notes: ed.notes||'' });
+    }
+    state.editing = null;
+    if (state.generated) state.stale = true;
+    renderWalls();
+  });
+}
+
+function startEditWall(id){
+  if (state.editing) return; // guard
+  const w = state.walls.find(x => x.id === id);
+  if (!w) return;
+  state.editing = { id: w.id, dataUrl: w.dataUrl, mediaType: w.mediaType, notes: w.notes };
+  renderWalls();
+}
+
+/* ============ STEP 3 — GENERATE, PREVIEW, EDIT, SAVE ============ */
+function bindStep3(){
+  $('#generateBtn').addEventListener('click', () => doGenerate(false));
+  $('#skipAiBtn').addEventListener('click', () => {
+    $('#previewArea').style.display = 'block';
+    $('#generateBtn').style.display = 'none';
+    $('#skipAiBtn').style.display = 'none';
+    if (!state.previewLines.length) {
+      state.previewLines.push({ id: uid(), desc:'', qty:0, unit:'', rate:0 });
+      renderLines();
+    }
+    $('#customerScope').focus();
+  });
+  $('#regenBtn').addEventListener('click', () => doGenerate(true));
+  $('#addLineBtn').addEventListener('click', () => {
+    state.previewLines.push({ id: uid(), desc:'', qty:0, unit:'', rate:0 });
+    renderLines();
+    renderTotals();
+  });
+  // Live bind for the prose textareas
+  $('#customerScope').addEventListener('input', e => { state.customerScope = e.target.value; });
+  $('#contractorScope').addEventListener('input', e => { state.contractorScope = e.target.value; });
+  $('#materialList').addEventListener('input', e => { state.materialList = e.target.value; });
+  // Save buttons — must call window.open synchronously for iOS
+  $('#saveCustomerBtn').addEventListener('click', openCustomerEstimate);
+  $('#saveContractorBtn').addEventListener('click', downloadContractorDocx);
+}
+
+async function doGenerate(isRegen){
+  const btn = isRegen ? $('#regenBtn') : $('#generateBtn');
+  const errBox = $('#generateError');
+  errBox.style.display = 'none';
+  errBox.innerHTML = '';
+
+  if (!state.walls.length && !(state.generalScope||'').trim()) {
+    errBox.className = 'error-banner';
+    errBox.textContent = 'Add a general scope note on Step 1 or at least one wall on Step 2 before generating.';
+    errBox.style.display = 'block';
+    return;
+  }
+
+  const originalLabel = btn.textContent;
+  btn.disabled = true;
+  btn.innerHTML = `<span class="spinner"></span>Thinking…`;
+
+  try {
+    const body = {
+      jobInfo: { ...state.job },
+      generalScope: state.generalScope || '',
+      walls: state.walls.map((w, idx) => ({
+        label: `Wall ${idx+1}`,
+        image: w.dataUrl ? { mediaType: w.mediaType || 'image/jpeg', base64: (w.dataUrl.split(',')[1] || '') } : null,
+        notes: w.notes || ''
+      }))
+    };
+
+    const resp = await fetch(API_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    });
+    if (!resp.ok) throw new Error(`Server returned ${resp.status}`);
+    const data = await resp.json();
+    if (!data || !data.estimate) throw new Error('No estimate in response.');
+    const est = data.estimate;
+
+    state.customerScope = est.customer_scope || '';
+    state.contractorScope = est.contractor_scope || '';
+    state.materialList = est.material_list || '';
+    state.previewLines = Array.isArray(est.line_items) ? est.line_items.map(li => ({
+      id: uid(),
+      desc: li.desc || li.desc_customer || li.desc_contractor || '',
+      qty: Number(li.qty)||0,
+      unit: li.unit || '',
+      rate: Number(li.rate)||0
+    })) : [];
+    state.generated = true;
+    state.stale = false;
+
+    paintPreview();
+  } catch(err) {
+    errBox.className = 'error-banner';
+    errBox.textContent = 'Generate failed: ' + (err && err.message ? err.message : err) + '. Check your connection and try again.';
+    errBox.style.display = 'block';
+  } finally {
+    btn.disabled = false;
+    btn.textContent = originalLabel;
+  }
+}
+
+function paintPreview(){
+  $('#previewArea').style.display = 'block';
+  $('#staleBanner').style.display = state.stale ? 'block' : 'none';
+  $('#customerScope').value = state.customerScope || '';
+  $('#contractorScope').value = state.contractorScope || '';
+  $('#materialList').value = state.materialList || '';
+  renderLines();
+  renderTotals();
+  // Relabel generate button
+  $('#generateBtn').textContent = '✨ Generate Estimate with AI';
+}
+
+function renderLines(){
+  const host = $('#linesHost');
+  host.innerHTML = state.previewLines.map(l => `
+    <div class="line-item" data-id="${l.id}">
+      <div class="line-grid">
+        <div class="desc-cell"><div class="mini-label">Description</div><input type="text" data-f="desc" value="${escapeAttr(l.desc)}" placeholder="Description"></div>
+        <div><div class="mini-label">Qty</div><input type="number" inputmode="decimal" step="0.01" data-f="qty" value="${l.qty||''}" placeholder="0"></div>
+        <div><div class="mini-label">Unit</div><input type="text" data-f="unit" value="${escapeAttr(l.unit)}" placeholder="SF / LF / EA"></div>
+        <div><div class="mini-label">$/unit</div><input type="number" inputmode="decimal" step="0.01" data-f="rate" value="${l.rate||''}" placeholder="0.00"></div>
+        <div class="rm-cell"><button class="btn-danger" type="button" data-remove>✕</button></div>
+      </div>
+    </div>`).join('');
+  $$('.line-item', host).forEach(row => {
+    const id = row.dataset.id;
+    row.querySelectorAll('input').forEach(inp => {
+      inp.addEventListener('input', e => {
+        const line = state.previewLines.find(x => x.id === id);
+        if (!line) return;
+        const f = e.target.dataset.f;
+        if (f === 'desc' || f === 'unit') line[f] = e.target.value;
+        else line[f] = parseFloat(e.target.value) || 0;
+        if (f === 'qty' || f === 'rate') renderTotals();
+      });
+    });
+    row.querySelector('[data-remove]').addEventListener('click', ()=>{
+      state.previewLines = state.previewLines.filter(x => x.id !== id);
+      renderLines();
+      renderTotals();
+    });
+  });
+}
+
+function computeTotals(){
+  const rows = state.previewLines.map(l => {
+    const qty = parseFloat(l.qty)||0;
+    const rate = parseFloat(l.rate)||0;
+    return { ...l, qty, rate, total: qty*rate };
+  });
+  const jobSubtotal = rows.reduce((a,r)=>a+r.total, 0);
+  const inmaFee = jobSubtotal * 0.10;
+  const afterFee = jobSubtotal - inmaFee;
+  const taxPctNum = parseFloat(state.taxPct);
+  const hasTax = !isNaN(taxPctNum) && taxPctNum > 0;
+  const taxAmount = hasTax ? afterFee * (taxPctNum/100) : 0;
+  const contractorTotal = afterFee + taxAmount;
+  return { rows, jobSubtotal, inmaFee, afterFee, taxPct: state.taxPct, hasTax, taxAmount, contractorTotal };
+}
+
+function renderTotals(){
+  const t = computeTotals();
+  const taxPctVal = escapeAttr(state.taxPct);
+  $('#totalsBox').innerHTML = `
+    <div class="line"><span>Subtotal</span><strong>${fmtMoney(t.jobSubtotal)}</strong></div>
+    <div class="line fee"><span>− INMA Fee (10%)</span><strong>−${fmtMoney(t.inmaFee)}</strong></div>
+    <div class="line"><span>New Subtotal</span><strong>${fmtMoney(t.afterFee)}</strong></div>
+    <div class="line"><span class="tax-inline">Sales Tax <input id="taxPctInput" type="number" inputmode="decimal" step="0.01" placeholder="0.0" value="${taxPctVal}">%</span><strong id="tTax">${t.hasTax ? fmtMoney(t.taxAmount) : '—'}</strong></div>
+    <div class="line big keeps"><span>Total Due to Contractor</span><strong id="tTotal">${fmtMoney(t.contractorTotal)}</strong></div>
+  `;
+  $('#taxPctInput').addEventListener('input', e => {
+    state.taxPct = e.target.value;
+    const t2 = computeTotals();
+    $('#tTax').textContent = t2.hasTax ? fmtMoney(t2.taxAmount) : '—';
+    $('#tTotal').textContent = fmtMoney(t2.contractorTotal);
+  });
+}
+
+/* ============ OUTPUTS ============ */
+function getJobHeader(){
+  return {
+    owner: (state.job.owner||'').trim() || '—',
+    phone: (state.job.phone||'').trim(),
+    email: (state.job.email||'').trim(),
+    address: (state.job.address||'').trim() || '—',
+    date: state.job.date || new Date().toISOString().slice(0,10),
+    num: (state.job.num||'').trim() || '—',
+  };
+}
+
+/* ---- CUSTOMER ESTIMATE — PDF via print window ---- */
+function openCustomerEstimate(){
+  // window.open MUST be synchronous for iOS Safari.
+  const w = window.open('', '_blank');
+  if (!w) { alert('Pop-up blocked. Allow pop-ups for this site.'); return; }
+  w.document.write('<p style="font-family:sans-serif;padding:20px">Preparing estimate…</p>');
+  const html = buildCustomerHTML();
+  w.document.open(); w.document.write(html); w.document.close();
+}
+
+function buildCustomerHTML(){
+  const t = computeTotals();
+  const j = getJobHeader();
+  const rows = t.rows.map(r => `
+    <tr>
+      <td>${escapeText(r.desc)}</td>
+      <td class="num">${r.qty.toLocaleString('en-US',{maximumFractionDigits:2})}</td>
+      <td class="num">${escapeText(r.unit||'')}</td>
+      <td class="num">${fmtMoney(r.rate)}</td>
+      <td class="num">${fmtMoney(r.total)}</td>
+    </tr>`).join('');
+  const scopePara = (state.customerScope||'').trim();
+  return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Estimate ${escapeText(j.num)} — INMA</title>
+<style>
+  @page{size:letter;margin:0.6in}
+  body{font-family:'Helvetica Neue',Arial,sans-serif;color:#1C1A17;max-width:760px;margin:20px auto;padding:0 24px;line-height:1.5}
+  .letterhead{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:3px solid #B8941F;padding-bottom:14px;margin-bottom:22px}
+  .lh-left .brand{font-size:30px;font-weight:800;color:#B8941F;letter-spacing:2px}
+  .lh-left .tag{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#555;margin-top:2px}
+  .lh-left .contact{font-size:13px;margin-top:10px;color:#333}
+  .lh-right{text-align:right;font-size:13px}
+  .lh-right .title{font-size:22px;font-weight:700;letter-spacing:3px;color:#1C1A17;margin-bottom:6px}
+  .lh-right .meta{color:#444}
+  .bill{background:#F5F2ED;border-radius:10px;padding:14px 18px;margin-bottom:20px}
+  .bill .label{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#777;margin-bottom:4px}
+  .bill .name{font-size:16px;font-weight:700}
+  .bill .addr{font-size:14px;color:#444}
+  .bill .ct{font-size:12px;color:#555;margin-top:4px}
+  .scope{margin-bottom:18px;font-size:14px;line-height:1.6;white-space:pre-wrap}
+  .scope-label{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#B8941F;margin-bottom:6px;font-weight:600}
+  table.items{width:100%;border-collapse:collapse;margin-bottom:14px}
+  table.items th{background:#1C1A17;color:#F5F2ED;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;padding:10px 8px;text-align:left;font-weight:600}
+  table.items th.num,table.items td.num{text-align:right}
+  table.items td{padding:12px 8px;border-bottom:1px solid #eee;font-size:13px;vertical-align:top}
+  .totals{margin-left:auto;width:320px;font-size:14px}
+  .totals .r{display:flex;justify-content:space-between;padding:6px 0}
+  .totals .r.tot{border-top:2px solid #1C1A17;margin-top:6px;padding-top:10px;font-weight:700;font-size:17px}
+  .fmv-note{margin-top:14px;background:#F5F2ED;border-left:4px solid #B8941F;padding:10px 14px;font-size:12px;color:#333;line-height:1.5}
+  .footer-notes{margin-top:30px;font-size:11.5px;color:#555;border-top:1px solid #ddd;padding-top:14px;line-height:1.55}
+  .footer-notes p{margin:6px 0}
+  .pitch{margin-top:18px;background:#F5F2ED;border-left:4px solid #B8941F;padding:12px 14px;font-size:12px;color:#333}
+  .print-btn{position:fixed;top:16px;right:16px;background:#B8941F;color:#1C1A17;border:none;padding:12px 18px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.15);z-index:10}
+  .back-btn{position:fixed;top:16px;left:16px;background:#1C1A17;color:#F5F2ED;border:none;padding:12px 18px;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 4px 12px rgba(0,0,0,.15);z-index:10;display:inline-flex;align-items:center;gap:6px}
+  @media print{.print-btn,.back-btn{display:none}}
+</style></head><body>
+<button class="back-btn" onclick="try{window.close();}catch(e){} setTimeout(function(){if(!window.closed){window.location.href='/field-estimate.html';}},150);">← Back to Estimator</button>
+<button class="print-btn" onclick="window.print()">Print / Save PDF</button>
+<div class="letterhead">
+  <div class="lh-left">
+    <div class="brand">INMA</div>
+    <div class="tag">Inland Northwest Marketing Affiliates</div>
+    <div class="contact">Spokane, WA · inmagent.com</div>
+  </div>
+  <div class="lh-right">
+    <div class="title">ESTIMATE</div>
+    <div class="meta"><strong>Date:</strong> ${escapeText(j.date)}</div>
+    <div class="meta"><strong>Estimate #:</strong> ${escapeText(j.num)}</div>
+  </div>
+</div>
+<div class="bill">
+  <div class="label">Prepared For</div>
+  <div class="name">${escapeText(j.owner)}</div>
+  <div class="addr">${escapeText(j.address)}</div>
+  ${(j.phone || j.email) ? `<div class="ct">${escapeText([j.phone, j.email].filter(Boolean).join(' · '))}</div>` : ''}
+</div>
+${scopePara ? `<div class="scope-label">Project Scope</div><div class="scope">${escapeText(scopePara)}</div>` : ''}
+<table class="items">
+  <thead><tr><th>Description</th><th class="num">Qty</th><th class="num">Unit</th><th class="num">$/Unit</th><th class="num">Total</th></tr></thead>
+  <tbody>${rows || '<tr><td colspan="5" style="text-align:center;color:#999;padding:20px">No line items.</td></tr>'}</tbody>
+</table>
+<div class="totals">
+  <div class="r"><span>Subtotal</span><span>${fmtMoney(t.jobSubtotal)}</span></div>
+  <div class="r" style="color:#8a6d0f"><span>− INMA Fee (10%)</span><span>−${fmtMoney(t.inmaFee)}</span></div>
+  <div class="r"><span>New Subtotal</span><span>${fmtMoney(t.afterFee)}</span></div>
+  ${t.hasTax ? `<div class="r"><span>Sales Tax (${escapeText(t.taxPct)}%)</span><span>${fmtMoney(t.taxAmount)}</span></div>` : ''}
+  <div class="r tot"><span>Total Due to Contractor</span><span>${fmtMoney(t.contractorTotal)}</span></div>
+</div>
+<div class="fmv-note">
+  <strong>On pricing:</strong> INMA pricing lands at the upper end of local fair-market-value ranges because we don't cut corners — full tearoff, clean prep, correct flashing and trim details, and contractors who stand behind the work. Every line above shows the quantity and rate so you can line it up against the FMV report we share.
+</div>
+<div class="pitch">
+  INMA connects Inland Northwest homeowners with vetted local contractors. We handle the match, scope, and accountability so you get quality work at fair-market pricing — no high-pressure national sales teams.
+</div>
+<div class="footer-notes">
+  <p><strong>Included:</strong> Tearoff, haul-away, dump fees, and full site cleanup are included unless noted otherwise.</p>
+  <p><strong>Permits:</strong> Any required permits are billed at-cost on the final invoice.</p>
+  <p><strong>Hidden Conditions:</strong> Rot, damaged sheathing, or other conditions not visible at walk-through are not included. Any discovered conditions will be documented with photos and priced as a change order before work proceeds.</p>
+  <p><strong>Validity:</strong> This estimate is valid for 30 days from the date above.</p>
+</div>
+</body></html>`;
+}
+
+/* ---- CONTRACTOR PACK — DOCX via html-docx-js ---- */
+function downloadContractorDocx(){
+  const html = buildContractorHTML();
+  try {
+    const blob = window.htmlDocx.asBlob(html);
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    const j = getJobHeader();
+    const safeNum = (j.num||'contractor').replace(/[^A-Za-z0-9._-]+/g,'_');
+    a.href = url;
+    a.download = `INMA-Contractor-Pack-${safeNum}.docx`;
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(()=>{ URL.revokeObjectURL(url); a.remove(); }, 500);
+  } catch(err){
+    alert('Could not build DOCX: ' + (err && err.message ? err.message : err));
+  }
+}
+
+function buildContractorHTML(){
+  const t = computeTotals();
+  const j = getJobHeader();
+  const rows = t.rows.map(r => `
+    <tr>
+      <td>${escapeText(r.desc)}</td>
+      <td align="right">${r.qty.toLocaleString('en-US',{maximumFractionDigits:2})} ${escapeText(r.unit||'')}</td>
+      <td align="right">${fmtMoney(r.rate)}</td>
+      <td align="right">${fmtMoney(r.total)}</td>
+    </tr>`).join('');
+  const wallSections = state.walls.map((w, idx) => {
+    const img = w.dataUrl ? `<div><img src="${w.dataUrl}" style="max-width:420px;max-height:320px;border:1px solid #ccc" alt=""></div>` : '';
+    const notes = (w.notes||'').trim() || '(no notes)';
+    return `<div style="margin-bottom:18px"><h4 style="margin:0 0 6px;font-size:14px;color:#B8941F">Wall ${idx+1}</h4>${img}<div style="font-size:12px;white-space:pre-wrap;background:#F5F2ED;padding:8px 10px;margin-top:6px">${escapeText(notes)}</div></div>`;
+  }).join('');
+  const matList = (state.materialList||'').trim();
+  const contractorScope = (state.contractorScope||'').trim();
+  const genScope = (state.generalScope||'').trim();
+  // DOCX renders HTML via Word's import — keep styles inline, tables basic.
+  return `<!DOCTYPE html><html><head><meta charset="UTF-8"><title>Contractor Pack ${escapeText(j.num)}</title></head>
+<body style="font-family:'Calibri',Arial,sans-serif;color:#1C1A17;line-height:1.45">
+<div style="background:#1C1A17;color:#F5F2ED;padding:14px 18px">
+  <div style="font-size:22px;font-weight:800;color:#B8941F;letter-spacing:2px">INMA — Contractor Pack</div>
+  <div style="font-size:12px;margin-top:2px">Job handoff package</div>
+  <div style="font-size:11px;color:#e0c878;margin-top:4px;text-transform:uppercase;letter-spacing:1.5px">Internal Use — Not for Homeowner</div>
+</div>
+<table style="width:100%;border-collapse:collapse;margin-top:14px;margin-bottom:14px" cellpadding="6">
+  <tr>
+    <td style="background:#F5F2ED;width:25%"><div style="font-size:10px;color:#777;text-transform:uppercase">Homeowner</div><div style="font-weight:600">${escapeText(j.owner)}</div></td>
+    <td style="background:#F5F2ED;width:35%"><div style="font-size:10px;color:#777;text-transform:uppercase">Address</div><div style="font-weight:600">${escapeText(j.address)}</div></td>
+    <td style="background:#F5F2ED;width:20%"><div style="font-size:10px;color:#777;text-transform:uppercase">Date</div><div style="font-weight:600">${escapeText(j.date)}</div></td>
+    <td style="background:#F5F2ED;width:20%"><div style="font-size:10px;color:#777;text-transform:uppercase">Estimate #</div><div style="font-weight:600">${escapeText(j.num)}</div></td>
+  </tr>
+  ${(j.phone || j.email) ? `<tr><td colspan="4" style="background:#F5F2ED"><div style="font-size:10px;color:#777;text-transform:uppercase">Contact</div><div>${escapeText([j.phone, j.email].filter(Boolean).join(' · '))}</div></td></tr>` : ''}
+</table>
+
+${genScope ? `<h3 style="font-size:13px;color:#B8941F;text-transform:uppercase;letter-spacing:2px;border-bottom:1px solid #ccc;padding-bottom:4px">General Scope (Jake's dictation)</h3><div style="font-size:13px;white-space:pre-wrap;background:#F5F2ED;padding:10px 12px">${escapeText(genScope)}</div>` : ''}
+
+${contractorScope ? `<h3 style="font-size:13px;color:#B8941F;text-transform:uppercase;letter-spacing:2px;border-bottom:1px solid #ccc;padding-bottom:4px;margin-top:18px">Scope</h3><div style="font-size:13px;white-space:pre-wrap">${escapeText(contractorScope)}</div>` : ''}
+
+${matList ? `<h3 style="font-size:13px;color:#B8941F;text-transform:uppercase;letter-spacing:2px;border-bottom:1px solid #ccc;padding-bottom:4px;margin-top:18px">Material List</h3><div style="font-size:13px;white-space:pre-wrap;background:#F5F2ED;padding:10px 12px">${escapeText(matList)}</div>` : ''}
+
+${wallSections ? `<h3 style="font-size:13px;color:#B8941F;text-transform:uppercase;letter-spacing:2px;border-bottom:1px solid #ccc;padding-bottom:4px;margin-top:18px">Walls &mdash; Photos &amp; Field Notes</h3>${wallSections}` : ''}
+
+<h3 style="font-size:13px;color:#B8941F;text-transform:uppercase;letter-spacing:2px;border-bottom:1px solid #ccc;padding-bottom:4px;margin-top:18px">Line Items</h3>
+<table style="width:100%;border-collapse:collapse;font-size:12px" cellpadding="6" border="1">
+  <thead><tr style="background:#25221d;color:#F5F2ED"><th align="left">Description</th><th align="right">Quantity</th><th align="right">Rate</th><th align="right">Line Total</th></tr></thead>
+  <tbody>${rows || '<tr><td colspan="4" align="center" style="color:#999">No line items.</td></tr>'}</tbody>
+</table>
+
+<table style="margin-left:auto;margin-top:10px;font-size:13px" cellpadding="4">
+  <tr><td>Subtotal</td><td align="right">${fmtMoney(t.jobSubtotal)}</td></tr>
+  <tr><td style="color:#8a6d0f">− INMA Fee (10%)</td><td align="right" style="color:#8a6d0f">−${fmtMoney(t.inmaFee)}</td></tr>
+  <tr><td>New Subtotal</td><td align="right">${fmtMoney(t.afterFee)}</td></tr>
+  <tr><td>Sales Tax${t.hasTax ? ' ('+escapeText(t.taxPct)+'%)' : ''}</td><td align="right">${t.hasTax ? fmtMoney(t.taxAmount) : '—'}</td></tr>
+  <tr><td style="border-top:2px solid #1C1A17;font-weight:700;font-size:15px">Total Due to Contractor</td><td align="right" style="border-top:2px solid #1C1A17;font-weight:700;font-size:15px">${fmtMoney(t.contractorTotal)}</td></tr>
+</table>
+
+<div style="margin-top:22px;font-size:11.5px;color:#555;background:#F5F2ED;padding:10px 14px;line-height:1.6">
+  <strong>Contractor Notes:</strong><br>
+  · Contractor to verify all measurements before bidding.<br>
+  · Material quote to be attached separately.<br>
+  · INMA fee is pre-tax and withdrawn from project subtotal; contractor invoices the net amount.
+</div>
+</body></html>`;
+}
+</script>
+</body>
+</html>

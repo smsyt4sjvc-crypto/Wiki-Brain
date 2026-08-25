@@ -1,0 +1,12 @@
+{
+  "name": "INMA Field Estimator",
+  "short_name": "INMA Estimator",
+  "start_url": "/field-estimate.html",
+  "display": "standalone",
+  "background_color": "#1C1A17",
+  "theme_color": "#1C1A17",
+  "orientation": "any",
+  "icons": [
+    { "src": "/icon-I.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

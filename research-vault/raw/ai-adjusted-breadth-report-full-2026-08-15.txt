@@ -1,0 +1,283 @@
+S&P 500 Breadth Report
+AI-adjusted breadth, AI-capex-chain earnings, and the residual P/E falsification test
+Working report assembled from the prior analysis in this conversation. Market figures are approximate point-in-time estimates and should be re-verified before publication or trading use.
+Core question
+Is the apparent broadening of S&P 500 leadership actually independent economic breadth, or is one AI capital-spending cycle creating winners across many sectors and simultaneously inflating the earnings denominator that makes the index look cheaper?
+
+Decisive test
+Strip earnings attributable to the AI-capex chain from index EPS while keeping the full S&P 500 price as the numerator. If the resulting residual P/E is much higher and rising while the headline P/E is flat or falling, apparent multiple compression may be largely capital-cycle earnings rather than genuine broad-market cheapening.
+
+Baseline dates used
+Breadth/performance snapshot: through August 14, 2026.
+FactSet forward-earnings baseline: August 7, 2026.
+Scheduled refresh: after the next FactSet Earnings Insight release on August 28, 2026.
+
+Executive conclusion
+Conventional breadth looks healthy, but economic-driver breadth is materially narrower. Many winners classified across Technology, Industrials, Utilities, Materials and parts of Financials are exposed to the same underlying AI/data-center capital-spending impulse. That means sector breadth and equal-weight participation can overstate the number of independent earnings engines supporting the market.
+The stronger test is valuation. The August 7 baseline put the S&P 500 near 20.0x forward earnings. A strict first-pass strip of direct AI-capex suppliers moved the cycle-adjusted index multiple to about 24.7x; an expanded infrastructure strip put it near 25.0x. This does not prove a bubble by itself. The potentially decisive evidence is whether that residual P/E is also rising over time while the published multiple compresses.
+Measure
+Working reading
+Interpretation
+S&P 500 price return
++13.74% YTD
+Strong headline market
+S&P 500 total return
++14.54% YTD
+Strong including dividends
+Constituents positive YTD
+349 / 503 = 69.4%
+Healthy conventional breadth
+Constituents beating S&P price return
+216 / 503 = 42.9%
+Decent participation, not extreme
+Equal-weight RSP YTD
++17.24%
+Broadening beyond mega-caps
+AI/direct-adjacent names among top 20
+At least 14 / 20 = 70%
+Top-tail leadership heavily AI-chain dominated
+External debt as share of hyperscaler capex
+9% in FY24 -> 32% LTM
+AI cycle increasingly transmitted into credit
+2027 capex concentration
+Five major data-center firms ~ rest of S&P 500 combined
+Extraordinary capital concentration
+
+1. Why ordinary breadth can be deceptive
+A normal breadth statistic asks how many stocks are rising. The more relevant question in this market is how many independent sources of earnings growth are causing those stocks to rise.
+Apparent breadth bucket
+Examples from the discussion
+Underlying economic driver
+Direct AI monetization
+Nvidia, Broadcom, AMD, Micron, memory/storage, networking, semiconductor equipment
+Compute demand and AI accelerator/server buildout
+Industrial/infrastructure breadth
+Vertiv, Eaton, Quanta, GE Vernova, Corning, Comfort Systems, Caterpillar
+Data-center power, cooling, electrical systems, fiber, construction and backup generation
+Utilities/power breadth
+Power generators, grid and electrical suppliers
+Incremental electricity demand from data centers
+Materials breadth
+Steel, fiber and construction inputs
+Physical data-center construction
+Financial breadth
+Underwriting, project finance, private credit, infrastructure funds
+Debt and capital formation used to fund AI/data-center capex
+Independent breadth
+Healthcare, retail, transport, defensives and other unrelated winners
+Economic/sector drivers not primarily dependent on AI capex
+
+Key distinction
+Ticker breadth can be broad and sector breadth can be broad while economic-driver breadth remains concentrated. Nvidia -> Dell -> Eaton -> Quanta -> GE Vernova -> Corning may span several GICS sectors but still represent multiple layers of one capital-spending chain.
+
+2. Evidence from the top of the leaderboard
+The prior snapshot identified at least 14 of the 20 strongest S&P 500 performers as direct or close AI/data-center-chain beneficiaries:
+Direct / close AI-chain winners
+Role in the chain
+Sandisk, Seagate, Western Digital, Micron
+Storage and memory
+Dell, HPE, NetApp
+Servers, enterprise infrastructure and storage
+Intel, AMD, Marvell
+Compute/networking silicon
+Lumentum
+Optical connectivity
+Teradyne
+Semiconductor test
+Applied Materials, Lam Research
+Semiconductor manufacturing equipment
+
+That concentration in the extreme right tail matters more than a simple count of positive stocks: the strongest earnings and price momentum can be distributed across several industries while remaining economically tied to one investment cycle.
+3. Industrials are a major contamination channel
+Examples cited in the prior analysis included Comfort Systems (+90%), Corning (+90%), Vertiv (+81%), GE Vernova (+63%), Quanta Services (+62%), Generac (+61%), Caterpillar (+50%) and Eaton (+42%) YTD. In a sector-breadth chart these appear to validate independent industrial leadership. Economically, a meaningful portion of the incremental demand is tied to data-center construction, power, cooling, electrical systems, fiber and generation.
+4. Energy should not be stripped wholesale
+Energy is important counterevidence to an overly broad AI-bubble claim. Refiners, oil producers and services companies have large independent drivers: crude prices, refining margins, geopolitics, supply discipline and commodity cycles. Some natural-gas, pipeline, turbine and power-equipment demand intersects with data centers, but removing an entire sector would overstate AI dependence.
+Classification rule
+Do not label whole sectors as AI. Attribute only the portion of revenue, incremental EBIT, financing fees or valuation re-rating that is demonstrably linked to AI/data-center capex.
+
+5. Financing transmission broadens the same cycle
+The AI buildout is increasingly moving from self-funded hyperscaler capex into bonds, project finance, private credit and infrastructure capital. The prior FactSet-based discussion cited external debt rising from roughly 9% of hyperscaler capex in FY24 to about 32% on a trailing-twelve-month basis, with aggregate hyperscaler debt around $700 billion.
+This means some apparent Financials-sector earnings growth can be a second-order derivative of the same AI investment cycle through underwriting fees, lending, structured/project finance, asset management and private credit. The correct adjustment is attributable earnings, not deleting entire banks or financial firms.
+6. AI-adjusted breadth framework
+Bucket
+Definition
+Treatment
+A — Direct AI monetization
+Semiconductors, HBM/memory, AI servers, networking, cloud/compute, semiconductor equipment
+High-confidence strip
+B — AI infrastructure
+Power, cooling, electrical equipment, generators, grid equipment, fiber, data-center construction, selected materials/REITs
+Strip attributable share only unless exposure is overwhelmingly data-center driven
+C — AI financial transmission
+Lending, underwriting, project finance, private credit, infrastructure funds
+Strip demonstrable fee/credit earnings attributable to the capex cycle
+D — Independent breadth
+Earnings growth likely to remain even if hyperscaler AI capex stopped growing
+Retain in residual earnings
+
+Preferred breadth measures
+AI-Adjusted Winning Breadth = economically independent winners / all S&P 500 constituents.
+AI-Adjusted Outperformance Breadth = economically independent companies outperforming the S&P / all S&P 500 constituents.
+Marginal earnings exposure matters more than revenue exposure. A company can have modest current data-center revenue while data centers explain most incremental EBIT growth and multiple expansion.
+7. The residual-EPS / P/E test
+Primary formula
+Cycle-adjusted S&P P/E = Full S&P 500 price / (Total S&P forward EPS - AI-capex-chain forward EPS)
+
+This keeps the full index price as the numerator because the question is not “what P/E does the non-AI portfolio trade at?” It is “how expensive is today’s S&P 500 price if the earnings generated by an extraordinary AI capital cycle are not treated as permanent underlying earnings power?”
+August 7, 2026 baseline
+The prior FactSet snapshot used an S&P 500 level of 7,709.96 and a 20.0x forward 12-month P/E, implying approximately $385.50 of forward index EPS.
+Item
+Approximate value
+Calculation / meaning
+S&P 500 level
+7,709.96
+FactSet baseline used in prior analysis
+Headline forward P/E
+20.0x
+Published index multiple
+Implied forward S&P EPS
+$385.5
+7,709.96 / 20.0
+Strict AI-capex supplier earnings share
+~19.0%
+First-pass direct supplier estimate
+Strict-strip EPS equivalent
+~$73.3
+19.0% of total forward EPS
+Residual forward EPS
+~$312.2
+$385.5 - $73.3
+Cycle-adjusted residual P/E
+~24.7x
+7,709.96 / $312.2
+Expanded infrastructure-strip P/E
+~25.0x
+Includes additional data-center infrastructure beneficiaries
+Aug. 14 mark, unchanged earnings denominator
+~25.2x
+Using S&P close of 7,785.76
+
+Strict first-pass supplier basket
+NVDA, AVGO, MU, AMD, INTC, LRCX, AMAT, DELL, KLAC, ANET, SNDK, STX, APH, MRVL and WDC. The prior analysis estimated this basket at roughly 17.7% of S&P 500 market capitalization but about 19% of forward index earnings.
+The expanded infrastructure pass additionally considered names such as GE Vernova, Eaton, Vertiv, Quanta, Constellation Energy, HPE, Coherent and Comfort Systems, with the important caveat that attributable earnings are preferable to stripping 100% of earnings for diversified companies.
+Two different “ex-AI” P/E definitions
+Definition
+Numerator
+Denominator
+What it answers
+Non-AI portfolio P/E
+Market cap of non-AI stocks
+Earnings of non-AI stocks
+What multiple do the remaining stocks themselves trade at?
+Cycle-adjusted index P/E
+Full S&P 500 price
+Total EPS minus AI-capex-chain EPS
+How expensive is today’s index price if cycle earnings are not treated as durable?
+
+Do not confuse the two
+Removing both AI market cap and AI earnings produced a remaining-portfolio multiple near 20.2–20.3x in the prior work. That is not the falsification test. The cycle-adjusted full-index P/E was about 24.7–25.0x.
+
+Sensitivity to the AI-capex share of index earnings
+AI-capex share of forward S&P EPS
+Cycle-adjusted P/E if headline P/E = 20x
+10%
+22.2x
+15%
+23.5x
+20%
+25.0x
+25%
+26.7x
+
+The sensitivity makes the core point robust to imperfect classification. If only 15% of S&P forward earnings are economically dependent on the current AI investment cycle, a headline 20x multiple becomes roughly 23.5x on residual earnings. At 20%, it becomes 25x.
+8. The trend test that can kill the thesis
+The level test is suggestive; the trend test is decisive. From June 30 to August 7 in the prior FactSet comparison:
+Metric
+June 30 -> Aug. 7 change
+S&P 500 price
++2.8%
+Forward 12-month S&P EPS
++4.7%
+Headline forward P/E
+20.4x -> 20.0x
+
+For the residual P/E to have risen over that interval, residual EPS needed to grow by less than the 2.8% rise in price. Under the approximate 19% starting earnings share used above, AI-capex-chain companies would have needed to account for roughly 52% or more of the total increase in forward S&P EPS during the period.
+Critical threshold
+If AI-capex-chain revisions explain >= ~52% of the June 30-to-Aug. 7 increase in forward index EPS, the residual P/E would have risen even though the published forward P/E fell from 20.4x to 20.0x.
+
+That is the test to reconstruct with point-in-time constituent estimates. Commentary cited in the prior analysis suggested AI-infrastructure beneficiaries may be contributing roughly half or more of aggregate S&P earnings growth, but earnings-growth contribution is not identical to the change in point-in-time forward EPS estimates. The exact historical series still needs to be computed.
+9. What would confirm or refute the capital-cycle interpretation?
+Observed result
+Interpretation
+Headline P/E falls; residual P/E rises
+Strong support: apparent de-rating is being created by AI-cycle earnings growth in the denominator
+Headline P/E falls; residual P/E is flat
+Partial support: headline compression is overstated, but residual valuation is not worsening
+Headline P/E falls; residual P/E also falls materially
+Weakens the thesis: the broader market really is getting cheaper outside the AI-capex chain
+Residual EPS growth broadens into clearly independent sectors
+Weakens bubble interpretation and supports a genuine broader earnings expansion
+AI infrastructure orders/revisions/credit roll over while nominal breadth remains healthy
+Warning that the “broadening” was late-stage diffusion of one capital cycle
+
+10. Recommended monthly series
+For each month-end, use point-in-time constituent forward EPS rather than current estimates backfilled historically. Compute:
+Total S&P forward EPS.
+Minus direct AI compute / semiconductors / memory / networking earnings.
+Minus semiconductor equipment earnings.
+Minus attributable server, storage and optical-connectivity earnings.
+Minus attributable data-center power, cooling, electrical and construction earnings.
+Minus attributable AI-related credit, underwriting and project-finance earnings where measurable.
+Residual forward EPS and full-index price / residual EPS.
+A hard-strip series (100% of direct suppliers) and an attributable-strip series (only the estimated AI/data-center share for diversified firms).
+11. Scheduled update criteria
+A scheduled refresh is set for August 28, 2026, after the next FactSet Earnings Insight release. The update should report:
+Headline forward S&P 500 P/E and implied forward index EPS.
+Strict direct AI-capex supplier strip.
+Expanded AI/data-center infrastructure strip.
+AI-capex share of forward S&P earnings.
+Residual S&P forward EPS and cycle-adjusted residual P/E.
+Change versus the August 7 baseline: ~20.0x headline and ~24.7–25.0x AI-stripped.
+Most important: whether residual P/E is rising while headline P/E is flat or falling, and whether that strengthens or weakens the capital-cycle/bubble hypothesis.
+12. Bottom line
+Conventional S&P breadth: healthy.
+Independent economic breadth: materially weaker than conventional breadth suggests.
+Top-tail leadership: heavily dominated by direct AI and AI-infrastructure beneficiaries.
+Financial-system dependence: increasing as capex migrates toward bonds, project finance and private credit.
+Residual valuation: the first-pass level test suggests roughly 24.7–25.0x versus about 20.0x headline.
+Decisive unresolved question: whether the residual P/E is rising over time while the reported multiple compresses.
+Working thesis
+One trade can masquerade as breadth when it creates earnings across semiconductors, servers, industrial equipment, power, construction, materials and finance. The residual-EPS P/E series is the cleanest way to determine whether headline multiple compression is genuine or primarily the consequence of a capital-cycle earnings surge.
+
+Sources referenced in the prior analysis
+These are the links used or cited in the earlier discussion. They are included in full for easy copying; some publisher pages may require a subscription.
+FactSet Earnings Insight — Aug. 7, 2026
+https://advantage.factset.com/hubfs/Website/Resources%20Section/Research%20Desk/Earnings%20Insight/EarningsInsight_080726.pdf
+Slickcharts — S&P 500 YTD returns
+https://www.slickcharts.com/sp500/returns/ytd
+Slickcharts — S&P 500 constituent performance
+https://www.slickcharts.com/sp500/performance
+Slickcharts — S&P 500 constituent weights
+https://www.slickcharts.com/sp500
+FactSet — Hyperscalers tap external financing as AI capex outruns cash flow
+https://insight.factset.com/hyperscalers-tap-external-financing-as-ai-capex-outruns-cash-flow
+Goldman Sachs — S&P 500 forecast / AI infrastructure earnings discussion
+https://www.goldmansachs.com/insights/articles/s-and-p-500-forecast-to-climb-as-earnings-growth-powers-stocks-higher
+Goldman Sachs — U.S. stocks forecast to rise in 2026
+https://www.goldmansachs.com/insights/articles/us-stocks-forecast-to-rise-in-2026
+StockAnalysis — Nvidia snapshot
+https://stockanalysis.com/stocks/nvda/
+StockAnalysis — GE Vernova statistics
+https://stockanalysis.com/stocks/gev/statistics/
+Wall Street Journal — manufacturers and AI data centers
+https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee
+Financial Times — data-center infrastructure beneficiaries
+https://www.ft.com/content/5ede9d4d-3989-49b5-a282-4722c8d8fc59
+Wall Street Journal — 2027 investment-boom / capex concentration discussion
+https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026/card/the-investment-boom-could-hit-a-crazy-inflection-point-next-year-PsyyvaSzSJhXP0vUGD1j
+Axios — Goldman discussion of 2026 AI investment
+https://www.axios.com/2026/08/12/ai-boom-goldman-sachs
+Barron’s — AI spending and S&P earnings-growth concentration
+https://www.barrons.com/articles/ai-spending-earnings-growth-7185809e
+Associated Press — Aug. 14 S&P close reference
+https://apnews.com/article/41b7cf2acc6562758183b1c5eae73635

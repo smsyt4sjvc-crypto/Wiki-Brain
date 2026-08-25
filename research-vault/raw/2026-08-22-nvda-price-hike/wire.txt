@@ -1,0 +1,5 @@
+BREAKING (Bloomberg, via Jake's paste 2026-08-22):
+NVIDIA is hiking prices of many servers containing its AI chips by MORE THAN 15% as MEMORY COSTS
+SOAR. The price hikes go into effect on SYSTEMS SHIPPED EARLY NEXT YEAR (early 2027) and will
+include those with the flagship VERA RUBIN and GRACE BLACKWELL chips.
+Jake's tag: "AI-flation continues."

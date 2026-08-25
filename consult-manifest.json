@@ -1,0 +1,12 @@
+{
+  "name": "INMA Consultation Tool",
+  "short_name": "INMA Consult",
+  "start_url": "/consult.html",
+  "display": "standalone",
+  "background_color": "#1C1A17",
+  "theme_color": "#1C1A17",
+  "orientation": "any",
+  "icons": [
+    { "src": "/icon-C.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

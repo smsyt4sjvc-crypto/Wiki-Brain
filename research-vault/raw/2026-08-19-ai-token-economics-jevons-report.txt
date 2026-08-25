@@ -1,0 +1,260 @@
+
+AI Token Economics
+Is volume / Jevons outrunning the token-price crash?
+Token and task costs vs. proprietary, Chinese and open-weight models — revenue implications as of 19 August 2026
+VERDICT: YES — FOR REALIZED INFERENCE SPEND, RIGHT NOW.
+July 2026 is the cleanest observation: token volume rose 59% while average paid price per token fell 13.6%; spend still rose 37%. Only 15.7% volume growth was required to keep spend flat. The observed volume increase was almost 4× that break-even hurdle in percentage-point terms.
+But the answer changes by tier. Commodity / fixed-capability token prices can fall much faster than realized market ASPs, while frontier reasoning and agentic work retain premium pricing. The market is splitting into cheap-volume and premium-value layers rather than collapsing to one token price.
+Confidence: High for the direction of production spend; medium for a single “global” elasticity because public datasets are gateway- and workload-biased, and not every token is billable.
+
+Figure 1. Vercel AI Gateway, July 2026. Volume growth substantially exceeded the exact revenue break-even hurdle created by the price decline. Source: Vercel August 2026 Production Index [1].
+
+1. Executive conclusion
+The observed Jevons effect is real in current production traffic. Vercel reports July token volume +59% month over month, spend +37%, and average paid price/token −13.6%. Since May, its gateway volume roughly doubled while spend rose 74%, implying that falling effective prices have not produced a revenue collapse.
+The strongest demand growth is not just “more users.” It is also more tokens per useful task. Tool-call requests rose from 11.4% of requests in October 2025 to 22.2% in April 2026, while their share of tokens rose from 31.6% to 58.9%. Agentic chains materially increase the intensive margin of token consumption.
+Open-weight and Chinese models are compressing the cheap tier much faster than the premium tier. In July, open-weight models carried 36% of Vercel token volume but only 8.6% of spend. DeepSeek alone reached about a quarter of token volume, yet its spend share barely moved.
+Premium pricing remains economically relevant. Anthropic captured 65.1% of gateway spend on about 30% of tokens in July, and its average token was priced 4.4× above the rest of the market. In coding agents, Anthropic collected more than 80% of spend even as DeepSeek ran nearly a third of token volume.
+The important metric is therefore not raw $/token. It is paid dollars per successful task, tokens per task, and the mix of tasks routed to premium versus commodity models. Token price is falling; task complexity and autonomy are rising.
+The exact revenue condition
+Inference revenue proxy = token volume × average realized price per token. If price falls by d, volume must rise by more than d/(1−d) to keep revenue flat. For a 13.6% decline, the exact break-even volume growth is 15.7%, not merely 13.6%. July volume growth was 59%.
+Price decline
+Price factor
+Volume growth needed to hold revenue
+Interpretation
+13.6%
+0.864×
+15.7%
+July 2026 observed case
+20.0%
+0.800×
+25.0%
+
+50.0%
+0.500×
+100.0%
+
+70.0%
+0.300×
+233.3%
+
+80.0%
+0.200×
+400.0%
+
+90.0%
+0.100×
+900.0%
+
+2. Current token-price stack: proprietary vs. Chinese / open
+Representative standard serverless/API list prices, USD per 1M uncached input / output tokens. These are not quality-equivalent benchmarks; they show the current commercial price ladder.
+Provider
+Model
+Category
+Input
+Output
+Comment
+OpenAI
+GPT-5.6 Sol
+Closed / frontier
+$5.00
+$30.00
+Premium frontier
+Anthropic
+Claude Fable 5
+Closed / frontier
+$10.00
+$50.00
+Highest premium shown
+Anthropic
+Claude Sonnet 5
+Closed / premium
+$3.00
+$15.00
+Workhorse premium
+Google
+Gemini 3.7 Flash
+Closed / value
+$0.75
+$3.75
+Promo through 2026-12-31
+OpenAI
+GPT-5.6 Luna
+Closed / economy
+$0.20
+$1.20
+80% price cut on Jul. 30
+DeepSeek
+V4 Flash — peak
+Chinese / open-weight
+$0.44
+$1.32
+Off-peak: $0.22 / $0.66
+DeepSeek
+V4 Pro — peak
+Chinese / open-weight
+$1.32
+$3.96
+Off-peak: $0.66 / $1.98
+Z.ai
+GLM-5.3
+Chinese / open-weight
+$1.40
+$4.40
+Premium open-weight tier
+Moonshot
+Kimi K3
+Chinese / open-weight
+$3.00
+$15.00
+Premium price, not “cheap China”
+Together-hosted
+Qwen3.7 Plus
+Open-weight
+$0.32
+$1.28
+Hosted serverless
+Together-hosted
+GPT-OSS 120B
+Open-weight
+$0.15
+$0.60
+Hosted serverless
+Read-through. The commodity floor is converging. OpenAI Luna is now in the same neighborhood as DeepSeek V4 Flash; cheap-token economics are no longer a China-only advantage. At the same time, Kimi K3 demonstrates that a Chinese/open-weight model can charge premium-tier prices when the capability / task mix supports it. The threat to U.S. labs is therefore not simply “China is 20× cheaper”; it is that routing lets buyers use cheap models for the bulk of low-risk tokens and reserve premium calls for high-value steps.
+Important counter-signal: token prices are not monotonically collapsing. DeepSeek’s current V4 peak pricing is materially above its May launch pricing reported by Vercel, showing that suppliers can raise price after a model proves production value. Frontier pricing also remains sticky because reasoning, reliability, latency, compliance and task stakes are differentiated products.
+3. Is volume growth actually outrunning price decay?
+Dataset / window
+Volume signal
+Price signal
+Spend / revenue signal
+Verdict
+Vercel, Jul. 2026
++59% MoM
+−13.6% realized $/token
++37% MoM spend
+YES — direct
+Vercel, May→Jul. 2026
+~2.0× volume
+~−13% implied ASP
++74% spend
+YES — direct
+OpenRouter, ~Nov. 2025→May 2026
+5T→25T tokens/week (5×)
+No clean platform ASP series disclosed
+Volume only
+Strong demand corroboration
+Google surfaces, I/O 2025→I/O 2026
+480T→3.2Q tokens/month (~6.7×)
+Mixed internal/API economics
+Not directly billable
+Strong scale corroboration
+July Jevons coverage ratio. Using log changes, ln(1.59) / −ln(0.864) ≈ 3.2×. This is not a causal demand elasticity because the price decline was partly a routing/mix choice, but it shows how much larger the observed quantity move was than the effective price decline.
+Why “token prices fell 10×” can still be true at the same time. Epoch AI’s fixed-performance work finds very rapid declines in the cheapest price capable of clearing a benchmark — 9× to 900× per year across different historical thresholds. That is a quality-adjusted frontier metric, not the realized average selling price of production inference. A new cheap model can make yesterday’s capability 10× cheaper without forcing every high-stakes task onto that model. This distinction explains why quality-adjusted cost can crash while aggregate inference spend rises.
+A useful sensitivity frame
+A 2026 market-pricing study estimates an economy-tier price half-life near 1.10 years and mid-tier near 1.55 years, while flagship prices show little clean exponential decay because reasoning premiums reset the frontier. Translating those half-lives into exact revenue hurdles:
+Tier
+Approx. annual price decline
+Exact annual volume growth needed
+Current demand evidence
+Economy
+47%
+88%
+OpenRouter 5× in six months; clearly above hurdle in current window
+Mid-tier
+36%
+56%
+Current gateway and Google growth above hurdle
+Flagship
+Near-flat trend in study
+Low if premium holds
+Volume plus reasoning premium supports spend
+Bottom line on the rate comparison: Against realized production ASP decay, volume growth is currently higher. Against the fastest “same capability gets cheaper” curves, not necessarily. Commodity capability can deflate faster than total token demand grows; the industry preserves revenue by creating new, more valuable, more token-intensive work at the frontier.
+4. The task-level mechanism: agents inflate tokens per job
+The largest structural reason Jevons can win is that the unit of economic demand is shifting from a chat turn to a multi-step task. One user-visible “task” can contain planning, retrieval, hidden reasoning, multiple tool calls, verification, retries, sub-agents, and long-context replay.
+Vercel agentic metric
+Oct. 2025
+Apr. 2026
+Change
+Requests ending in tool call
+11.4%
+22.2%
+~1.95×
+Tokens inside tool-call requests
+31.6%
+58.9%
+~1.86×
+Interpretation. By April, only 22.2% of requests carried 58.9% of tokens. Vercel describes tool-using requests as roughly 2.6× more token-heavy by share. On a per-request comparison against non-tool traffic, the implied token intensity gap is even larger. This is the intensive-margin Jevons channel: lower $/token makes longer autonomous loops economical.
+Anti-Jevons force: better harnesses. A July 2026 controlled study found an orchestration-layer redesign cut tokens per task by 38% and blended task cost by 41% while preserving quality on its evaluation set. If such optimization diffuses broadly, it can offset agentic token inflation. This is why tokens/task must be tracked alongside raw token volume.
+The economic identity to watch
+Revenue per task = tokens per task × realized $ per token + tool / runtime / search fees.
+That last term is becoming more important. OpenAI bills certain tools and container runtime separately; Anthropic adds a managed-agent session runtime fee; Google separately meters search grounding. Vendors are already moving monetization above the raw token layer, which makes total task revenue more resilient to token deflation.
+
+5. What open / Chinese models are doing to the revenue pool
+1 — They are winning the cheap-volume layer. Vercel’s open-weight share rose from 11% of tokens in April to 29% in June and 36% in July. DeepSeek went from under 1% of gateway tokens in April to roughly 25% in July, more than twice Google’s share.
+2 — They have not taken proportional dollars. Open-weight spend share was under 4% through June and rose to 8.6% in July. That is meaningful but still far below its 36% token share. Cheap models can absorb enormous workload without immediately collapsing premium-model revenue.
+3 — The open tier is moving upmarket. The July spend increase came overwhelmingly from Moonshot and Z.ai. Kimi K3 and GLM-5.2 were the first open-weight families in Vercel’s index to take meaningful spend at prices far above DeepSeek. This is a more serious competitive threat than “cheap tokens” alone because it attacks the premium layer.
+4 — Closed labs are answering with their own cheap tiers. OpenAI cut Luna by 80% on July 30 to $0.20 input / $1.20 output per million tokens. This compresses the simple cost advantage of low-end open models and lets a closed provider keep cheap routing inside its own catalog.
+5 — Premium differentiation still pays. Anthropic’s July spend share was 65.1% on 30% of tokens. The market is explicitly paying up for work where failure cost is high. The premium survives only as long as capability, reliability, latency, tool use, enterprise controls or workflow integration remain differentiated.
+Investment / industry implication
+The likely equilibrium is not one uniform token price. It is a barbell: very cheap routing for bulk cognition plus expensive premium calls for consequential steps. That structure is favorable to aggregate inference revenue even as the median token gets cheaper, because the system creates more tokens, more steps and more billable services per completed workflow.
+
+6. What would break the Jevons thesis?
+Tokens/task starts falling faster than task counts rise. Harness optimization, retrieval compression, shorter reasoning, local models and better caching could reverse the current agentic token inflation.
+Premium workloads migrate to cheap open models. The critical signal is not DeepSeek taking consumer tokens; it is open-weight models taking back-office, coding-agent and other high-stakes spend at similar quality.
+Realized ASP falls much faster than list prices. Enterprise discounts, batching, prompt caching and provider subsidies can push effective revenue/token down faster than published rates imply.
+Task monetization decouples from tokens. If products move to flat subscriptions without usage expansion or if users aggressively cap autonomous loops, token volume can become less relevant to revenue.
+Capacity growth outruns monetizable demand. Even if revenue grows, a data-center buildout can still destroy returns if inference gross profit does not cover depreciation, power, financing and idle capacity. Revenue Jevons is not the same as capex solvency.
+Monthly dashboard I would track
+Metric
+Why it matters
+Bullish Jevons signal
+Bearish signal
+Paid token volume growth
+Quantity side
+Above exact ASP break-even
+Below break-even
+Realized $/token
+True price, not list
+Decline slower than volume expansion
+Collapse faster than volume
+Tokens per completed task
+Agent intensity
+Flat/rising with more tasks
+Falling rapidly
+Spend per completed task
+Best revenue unit
+Stable/rising
+Persistent compression
+Open-weight spend share
+Premium erosion
+Volume rises faster than spend
+Spend catches token share rapidly
+Premium share of high-stakes work
+Pricing power
+Sticky > volume share
+Cheap models displace premium
+Inference gross margin / accelerator utilization
+Capex validation
+Margin and utilization rise
+Revenue grows but economics deteriorate
+7. Final judgment
+CURRENT REGIME: JEVONS ABSORPTION > TOKEN DEFLATION
+On realized production economics, the rate of token-volume growth is currently higher than the rate of effective token-price decay. July Vercel data is direct evidence, and OpenRouter / Google scale data corroborate the quantity explosion. Agentic workflows are simultaneously raising tokens per task.
+The caveat is material: fixed-capability prices can fall many-fold faster than realized market ASPs. Commodity inference may become a low-margin utility. Revenue survives by moving the economic unit upward—from tokens to successful tasks, agents, tools, latency, reliability and enterprise workflow value.
+The key bearish transition would be open models taking premium-workflow spend at the same time orchestration efficiency drives tokens/task down. That combination—not cheap DeepSeek tokens by themselves—is the real “token crash beats Jevons” scenario.
+Sources and methodology
+Primary / first-party sources are used for prices and usage where available. Gateway datasets are treated as production samples rather than global market censuses. List prices are not assumed to equal realized enterprise ASPs. “Revenue” in the main test refers to inference spend as a provider-revenue proxy; total company revenue also includes subscriptions and other products.
+[1] Vercel, “DeepSeek overtakes Google on volume, cost per token falls 13.6%,” 11 Aug 2026. https://vercel.com/blog/deepseek-overtakes-google-on-volume-cost-per-token-falls
+[2] Vercel, “AI Gateway production index,” 12 May 2026. https://vercel.com/blog/ai-gateway-production-index
+[3] OpenRouter, “OpenRouter Raises $113M Series B,” 28 May 2026. https://openrouter.ai/blog/announcements/series-b/
+[4] Google, “Google I/O 2026: Sundar Pichai’s opening keynote,” May 2026. https://blog.google/innovation-and-ai/sundar-pichai-io-2026/
+[5] OpenAI, “Pricing | OpenAI API,” accessed 19 Aug 2026. https://developers.openai.com/api/docs/pricing
+[6] OpenAI, “Advancing the price-performance frontier with GPT-5.6,” 30 Jul 2026. https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/
+[7] Anthropic, “Anthropic List Prices — 2026-06-30,” 30 Jun 2026. https://www-cdn.anthropic.com/files/4zrzovbb/website/426dceb122468b5ec824f4e7db3b58a197d1e249.pdf
+[8] DeepSeek API Docs, “Models & Pricing,” accessed 19 Aug 2026. https://api-docs.deepseek.com/quick_start/pricing/?tool=deepseek
+[9] Z.AI Developer Docs, “Pricing — Overview,” accessed 19 Aug 2026. https://docs.z.ai/guides/overview/pricing
+[10] Together AI, “Pricing,” accessed 19 Aug 2026. https://www.together.ai/pricing
+[11] Fireworks AI, “Serverless Pricing,” accessed 19 Aug 2026. https://docs.fireworks.ai/serverless/pricing
+[12] Epoch AI, “LLM inference prices have fallen rapidly but unequally across tasks,” 12 Mar 2025. https://epoch.ai/data-insights/llm-inference-price-trends
+[13] Epoch AI, “Inference economics of language models,” 17 Jun 2025. https://epoch.ai/publications/inference-economics-of-language-models
+[14] arXiv preprint, “Tiered Super-Moore’s Law: Price Evolution...,” 30 Mar 2026. https://arxiv.org/abs/2603.28576
+[15] arXiv preprint, “The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI,” 8 Jul 2026. https://arxiv.org/abs/2607.06906

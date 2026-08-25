@@ -1,0 +1,42 @@
+SOURCE: Jake's paste, 2026-08-15 ~2:04pm PDT. "S&P 500 Breadth Report - AI-Adjusted Breadth", data through
+August 14 2026. Cites: Slick Charts (constituent performance table), WSJ, FT, FactSet Insight, Axios/Goldman,
+Bank of America.
+
+Executive conclusion: AI and AI-adjacent spending are materially inflating what looks like broad participation.
+S&P 500 +13.74% price / +14.54% total return YTD. 349 of 503 constituents (69.4%) positive. 216 of 503 (42.9%)
+beating the index price return - rank 216 was Amazon at +13.79%. RSP (equal weight) +17.24% YTD, AHEAD of
+cap-weighted.
+At least 14 of the 20 best-performing S&P 500 stocks are directly or closely adjacent to the AI/data-centre
+chain: Sandisk, Dell, Seagate, Micron, Western Digital, Intel, Marvell, Lumentum, HPE, AMD, Teradyne, Applied
+Materials, Lam Research, NetApp.
+Distinction drawn: ticker breadth broad; sector breadth fairly broad; ECONOMIC-DRIVER breadth considerably
+narrower.
+Industrials contamination: Comfort Systems +90%, Corning +90%, Vertiv +81%, GE Vernova +63%, Quanta +62%,
+Generac +61%, Caterpillar +50%, Eaton +42% YTD. WSJ identifies Caterpillar, Cummins and Eaton as data-centre
+beneficiaries; EATON'S DATA-CENTRE-RELATED SALES WERE ALREADY 21% OF ITS BUSINESS IN 2025; Cummins expects
+data-centre sales to reach $9 billion by 2030. FT: Corning, Nucor and others benefiting from optical fibre,
+steel, electrical equipment and physical construction.
+Financing channel (FactSet Insight): Alphabet, Amazon, Meta, Microsoft, Oracle moved from self-funding toward
+external financing. INCREMENTAL DEBT WENT FROM 9% OF CAPEX IN FY24 TO 32% OVER THE TRAILING TWELVE MONTHS by
+mid-2026, with AGGREGATE HYPERSCALER DEBT AROUND $700 BILLION. Amazon alone recently sold $25 billion of bonds.
+Capex concentration (Bank of America): in 2027 five major data-centre companies could spend about $1.072
+TRILLION versus approximately $1.066 TRILLION for the other 495 S&P 500 companies combined. In 2023 those
+companies represented only about 16% of S&P 500 capex.
+Energy caveat: Marathon Petroleum +119%, Valero +110%, Phillips 66 +81%, APA +65%, Baker Hughes +42%,
+Occidental +42%, SLB +40%, EOG +36%, ConocoPhillips +35%, Exxon +33%, Chevron +31% YTD. Refiners and producers
+have major independent commodity, geopolitical, refining-margin and supply-cycle drivers. Also Moderna,
+Centene, DaVita, Target, Humana, retailers, transportation, defensive consumer among strong performers.
+Proposed framework - four buckets: A Direct AI monetization. B AI infrastructure. C AI financial transmission.
+D Independent breadth. Metrics: AI-Adjusted Winning Breadth = economically independent winners / 503; and
+AI-Adjusted Outperformance Breadth. Note: revenue exposure alone is not enough - what matters is MARGINAL
+EARNINGS exposure. A company can have 10-15% of revenue from data centres while that business accounts for 50%
+of incremental EBIT growth and most of the multiple expansion.
+Goldman (via Axios): AI investment roughly $600 billion during 2026 - around 2% of US GDP, 10% of business
+fixed investment, 15% of equipment investment.
+Bubble implication: not a classic 1999 situation of hundreds of unprofitable companies. A CAPITAL-CYCLE bubble:
+one enormous investment decision by a small group of firms generates orders, revenues, financing fees and
+valuation expansion through multiple layers. Closest analogy is the housing/credit cycle, not "seven tech
+stocks carrying the index."
+Warning signal proposed: NOT RSP underperforming SPY. Rather, AI-infrastructure earnings revisions, data-centre
+orders and AI-related credit creation rolling over SIMULTANEOUSLY while nominal breadth remains superficially
+healthy.

@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="canonical" href="https://inmagent.com/ioss.html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#16213A">
+<title>iOSS — Increased Output Share Structure · A Policy Proposal by Jake Bishop</title>
+<meta name="description" content="A market-driven framework for sharing productivity gains in the age of automation. Formal policy proposal prepared for Board, Executive, and Legislative review.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  *,*::before,*::after{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    font-family:'Inter','Helvetica Neue',Arial,sans-serif;
+    color:#1F2937;
+    background:#F9FAFB;
+    line-height:1.7;
+    font-size:16px;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+  }
+
+  .page{
+    max-width:780px;
+    margin:0 auto;
+    background:#ffffff;
+    padding:0 56px;
+    box-shadow:0 0 40px rgba(22,33,58,.06);
+    min-height:100vh;
+  }
+
+  /* ===== COVER ===== */
+  .cover{
+    padding:140px 0 80px;
+    text-align:center;
+    border-bottom:1px solid #E5E7EB;
+  }
+  .cover .eyebrow{
+    font-size:12px;
+    letter-spacing:3px;
+    text-transform:uppercase;
+    color:#6B7280;
+    font-weight:600;
+    margin-bottom:8px;
+  }
+  .cover .eyebrow.second{margin-bottom:48px}
+  .cover h1{
+    font-size:84px;
+    font-weight:800;
+    color:#16213A;
+    margin:0;
+    letter-spacing:-2px;
+    line-height:1;
+  }
+  .cover .rule{
+    width:280px;
+    height:2px;
+    background:#16213A;
+    margin:36px auto 36px;
+  }
+  .cover .lede{
+    font-size:22px;
+    color:#1F2937;
+    max-width:520px;
+    margin:0 auto;
+    line-height:1.4;
+    font-weight:400;
+  }
+  .cover .meta{
+    margin-top:120px;
+    border-top:1px solid #E5E7EB;
+    border-bottom:1px solid #E5E7EB;
+    padding:24px 0;
+    display:grid;
+    grid-template-columns:auto 1fr;
+    gap:12px 24px;
+    text-align:left;
+    max-width:480px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:14px;
+  }
+  .cover .meta .lbl{color:#6B7280;font-weight:600;text-align:right}
+  .cover .meta .val{color:#16213A;font-weight:500}
+
+  /* ===== HEADER ON SUBSEQUENT PAGES ===== */
+  .running-head{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:24px 0 16px;
+    border-bottom:1px solid #E5E7EB;
+    font-size:12px;
+    color:#6B7280;
+    margin-bottom:40px;
+  }
+  .running-head .doc{color:#6B7280}
+  .running-head .date{color:#6B7280}
+
+  /* ===== CONTENT ===== */
+  .content{padding:0 0 80px}
+  .content h2{
+    font-size:30px;
+    color:#16213A;
+    font-weight:700;
+    margin:48px 0 16px;
+    letter-spacing:-.5px;
+  }
+  .content h2:first-child{margin-top:0}
+  .content h3{
+    font-size:20px;
+    color:#16213A;
+    font-weight:700;
+    margin:32px 0 12px;
+    letter-spacing:-.2px;
+  }
+  .content p{
+    margin:0 0 16px;
+    text-align:justify;
+    hyphens:auto;
+  }
+
+  /* ===== PULL QUOTES ===== */
+  .pull{
+    background:#F4F5F7;
+    border-left:4px solid #16213A;
+    padding:20px 24px;
+    margin:24px 0;
+    font-style:italic;
+    color:#374151;
+    line-height:1.65;
+    font-size:15px;
+  }
+  .pull p{margin:0;text-align:left}
+  .pull p + p{margin-top:10px}
+
+  /* ===== TABLES ===== */
+  table{
+    width:100%;
+    border-collapse:collapse;
+    margin:24px 0;
+    font-size:14px;
+    border:1px solid #D1D5DB;
+  }
+  thead th{
+    background:#F4F5F7;
+    color:#16213A;
+    font-weight:600;
+    text-align:left;
+    padding:12px 16px;
+    border-bottom:1px solid #D1D5DB;
+    border-right:1px solid #D1D5DB;
+  }
+  thead th:last-child{border-right:0}
+  tbody td{
+    padding:12px 16px;
+    border-bottom:1px solid #E5E7EB;
+    border-right:1px solid #E5E7EB;
+    color:#1F2937;
+  }
+  tbody td:last-child{border-right:0}
+  tbody tr:last-child td{border-bottom:0}
+  tbody td:first-child{font-weight:600;color:#16213A}
+
+  /* ===== NUMBERED LIST ===== */
+  ol.safeguards{
+    counter-reset:item;
+    list-style:none;
+    padding:0;
+    margin:16px 0 24px;
+  }
+  ol.safeguards li{
+    counter-increment:item;
+    padding:8px 0 8px 36px;
+    position:relative;
+    border-bottom:1px solid #F3F4F6;
+    font-size:15px;
+  }
+  ol.safeguards li:last-child{border-bottom:0}
+  ol.safeguards li::before{
+    content:counter(item) ".";
+    position:absolute;
+    left:0;
+    top:8px;
+    color:#16213A;
+    font-weight:600;
+    width:24px;
+    text-align:right;
+  }
+
+  /* ===== FOOTER ===== */
+  .doc-footer{
+    text-align:center;
+    padding:48px 0 80px;
+    border-top:1px solid #E5E7EB;
+    margin-top:40px;
+  }
+  .doc-footer .rule{
+    width:160px;
+    height:2px;
+    background:#16213A;
+    margin:0 auto 18px;
+  }
+  .doc-footer .by{
+    font-style:italic;
+    color:#6B7280;
+    font-size:14px;
+  }
+  .doc-footer .contact{
+    margin-top:10px;
+    font-size:14px;
+    color:#16213A;
+    font-weight:500;
+  }
+  .doc-footer .contact a{
+    color:#16213A;
+    text-decoration:none;
+    border-bottom:1px solid #D1D5DB;
+    padding-bottom:1px;
+  }
+  .doc-footer .contact a:hover{border-bottom-color:#16213A}
+
+  /* ===== PRINT ===== */
+  @media print{
+    body{background:#fff}
+    .page{box-shadow:none;padding:0}
+    .running-head{display:none}
+    .cover{padding-top:80px}
+  }
+
+  /* ===== MOBILE ===== */
+  @media (max-width:640px){
+    body{font-size:15px}
+    .page{padding:0 24px}
+    .cover{padding:80px 0 60px}
+    .cover h1{font-size:56px}
+    .cover .lede{font-size:18px}
+    .cover .meta{font-size:13px;gap:8px 16px}
+    .content h2{font-size:24px;margin:40px 0 14px}
+    .content h3{font-size:18px}
+    .content p{text-align:left}
+    table{font-size:13px;display:block;overflow-x:auto}
+    .pull{padding:16px 18px;font-size:14px}
+  }
+</style>
+</head>
+<body>
+<script src="/inma-fb-rescue.js"></script>
+
+<div class="page">
+
+  <!-- ============== COVER ============== -->
+  <section class="cover">
+    <div class="eyebrow">Increased Output</div>
+    <div class="eyebrow second">Share Structure</div>
+    <h1>iOSS</h1>
+    <div class="rule"></div>
+    <p class="lede">A Market-Driven Framework for Sharing Productivity Gains in the Age of Automation</p>
+    <div class="meta">
+      <div class="lbl">Document Type</div><div class="val">Formal Policy Proposal</div>
+      <div class="lbl">Audience</div><div class="val">Board, Executive, and Legislative Review</div>
+      <div class="lbl">Date</div><div class="val">April 2026</div>
+      <div class="lbl">Author</div><div class="val">Jake Bishop</div>
+    </div>
+  </section>
+
+  <div class="running-head">
+    <div class="doc">Increased Output Share Structure (iOSS) — Policy Proposal</div>
+    <div class="date">April 2026</div>
+  </div>
+
+  <!-- ============== CONTENT ============== -->
+  <section class="content">
+
+    <h2>Overview</h2>
+    <p>Automation and artificial intelligence are delivering substantial productivity gains across industries, but under current compensation structures those gains flow primarily to capital rather than to the workers whose labor established the baseline from which those gains were achieved. The Increased Output Share Structure, or iOSS, is a market-based framework designed to share a defined portion of above-baseline productivity gains with eligible workers while preserving the majority of the upside for the firm that generated it.</p>
+
+    <h2>Executive Summary</h2>
+    <p>iOSS is designed as a gains-only, payroll-native framework that activates only when a company exceeds its own historical performance baseline under a verifiable measurement structure. Under the proposal, when a company exceeds its approved three-year productivity baseline and also clears a corresponding operating-profit safeguard, 70 percent of the incremental gain remains with the company and 30 percent is distributed to eligible workers.</p>
+    <p>The proposal does not operate as a wealth tax, does not require a new agency, and does not impose a flat wage increase disconnected from firm performance. Instead, it aligns incentives among labor, management, shareholders, and government by allowing strong firms to retain most of the upside while requiring a portion of exceptional performance to be shared through existing payroll systems.</p>
+
+    <div class="pull">
+      <p>The structure is intended to be administratively workable, resistant to manipulation, and politically durable. It uses existing financial reporting, payroll reporting, and unemployment-insurance location records; applies quarter-lag verification before payout; permits annual reconciliation without worker clawbacks; and includes both a standard safe-harbor lane and a company-specific custom metric lane for firms with legitimate operational complexity.</p>
+    </div>
+
+    <h2>The Policy Problem</h2>
+    <p>Automation is increasing output per worker across the economy while many workers see limited participation in the resulting gains. The source drafts describe a widening disconnect between productivity growth and worker purchasing power, with gains increasingly concentrated in margins, shareholder returns, and capital accumulation rather than distributed labor income.</p>
+    <p>Conventional policy responses are presented as incomplete because they tend to impose cost without aligning behavior. Minimum wage increases raise floors but do not share upside; wealth or windfall taxes can force asset sales, produce litigation, and create capital-flight risk; and annual credit systems are slow, bureaucratic, and too delayed to create immediate workforce alignment around productivity.</p>
+    <p>iOSS is proposed as an alternative structure that rewards measurable performance, preserves growth incentives, and converts part of above-baseline gains into direct worker participation without disturbing baseline business performance.</p>
+
+    <h2>Core Policy Principle</h2>
+    <p>The core principle of iOSS is that when a company exceeds its own historical productivity baseline, a share of that incremental gain should be distributed to the workers who contributed to the operating system that made the gain possible. The proposed split is 70 percent retained by the company and 30 percent distributed to eligible workers.</p>
+    <p>This design preserves incentive compatibility. The company keeps the majority of every dollar of above-baseline gain, which is meant to preserve the business case for automation, efficiency gains, expansion, and capital investment rather than penalize them.</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th></th>
+          <th>Company Retention</th>
+          <th>Worker Distribution</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Above-baseline gain</td><td>70%</td><td>30%</td></tr>
+        <tr><td>Baseline business</td><td>100%</td><td>0%</td></tr>
+        <tr><td>Below-baseline quarter</td><td>No trigger</td><td>No trigger</td></tr>
+      </tbody>
+    </table>
+
+    <p>In periods where the baseline is not exceeded, no distribution is triggered. The policy therefore imposes no new obligation in weak quarters and no drag on firms that are not outperforming their own historical norm.</p>
+
+    <h2>Proposed Structure</h2>
+
+    <h3>Baseline Measurement</h3>
+    <p>Each company would establish a rolling three-year baseline measured on a same-quarter basis to account for seasonality. The most developed draft specifies a rolling three-year average of output per labor dollar, compared same-quarter to same-quarter, while earlier versions describe output per dollar of operating expenditure; the combined proposal preserves the detailed structure by using a standard measurable base and allowing firm-specific refinement where justified.</p>
+    <p>The purpose of the three-year baseline is to prevent sandbagging and one-time manipulation. Because the benchmark is historical and rolling, a firm cannot easily depress its baseline in anticipation of the policy without damaging its own financial position and shareholder value.</p>
+
+    <h3>Dual Trigger Requirement</h3>
+    <p>A distribution would not activate based on output alone. The proposal requires that two conditions be met in the same quarter: first, the approved output measure must exceed the company's rolling three-year baseline; second, operating profit must also exceed its own rolling three-year baseline.</p>
+    <p>This dual-trigger structure is one of the proposal's central anti-gaming safeguards. It is intended to prevent payouts based on cost compression, accounting presentation, or output metrics that appear strong on paper but do not correspond to real profitability.</p>
+
+    <h3>Standard and Custom Metric Lanes</h3>
+    <p>The proposal contains two compliance lanes. The Standard Lane uses safe-harbor formulas based on existing reporting categories and is designed for the large majority of firms, offering predictable measurement, a lower audit burden, an automatic 5 percent materiality band, and a quarterly tax credit for compliance costs.</p>
+    <p>The second lane preserves the point you wanted clearly included: a company may provide its own metric for measuring output if a standard formula does not accurately reflect how that business creates value. Under the proposal, this custom or itemized lane is allowed only when the metric is auditable, consistently applied, and aligned with traditional profit-linked financial performance rather than detached operational proxy measures.</p>
+    <p>The detailed draft states that a custom output metric must demonstrate at least a 0.7 correlation to audited revenue over 12 quarters, and it remains subject to the dual-trigger requirement under which operating profit must also exceed its own three-year baseline before any payout can occur. This is the mechanism that ties the company-supplied metric back to conventional economic reality.</p>
+
+    <h3>Gain Calculation</h3>
+    <p>Once the trigger conditions are met, the gain is calculated as the current-quarter productivity result above the approved baseline, applied to the relevant labor-dollar base, and then divided under the 70/30 formula. This means only incremental performance above baseline is shared; baseline business remains untouched.</p>
+
+    <h2>Worker Eligibility and Distribution</h2>
+    <p>Eligible recipients are W-2 employees whose primary work location is in-state and whose wages do not exceed 1.5 times the applicable county median wage under the proposal's local wage standard. Earlier drafts explain the policy logic for excluding higher-paid salaried workers: those employees are more likely to already participate in equity, bonus, and profit-linked compensation systems, while hourly and wage workers typically do not.</p>
+    <p>Eligibility uses county-level median wage data on a rolling basis rather than state or national averages, and primary work location is determined by quarterly unemployment-insurance filing address. The detailed version also includes a tenure floor of six months of employment and a minimum of 250 hours worked in the qualifying quarter.</p>
+
+    <div class="pull">
+      <p>The worker pool is distributed on an equal per-capita basis. This is meant to avoid simply reproducing the existing wage hierarchy and instead provide each eligible worker the same dollar participation in above-baseline gains.</p>
+    </div>
+
+    <h2>Timing of Payment</h2>
+    <p>Distributions are paid on a quarter-lag basis, meaning gains from one quarter are paid in the following quarter after verification. This lag is a core trust and administration feature because it creates a review window for anomaly detection, audit screening, and correction before cash reaches payroll.</p>
+    <p>A central design rule in the source drafts is that worker payouts are never clawed back once distributed. If adjustments are required later, they are resolved through company reserves, refunds, or tax credits rather than through recovery from workers.</p>
+
+    <h2>Worker Investment Option</h2>
+    <p>The proposal allows employees to elect that some or all of their iOSS distribution be directed into a qualified retirement-style account, described in the drafts as a 401(k)- or IRA-like structure. The detailed draft states that workers may elect from 0 to 100 percent of the distribution on a pre-tax basis with immediate vesting, while cash remains the default unless the employee affirmatively chooses the investment option.</p>
+    <p>This feature is intended to preserve worker flexibility while extending a wealth-building mechanism to employees who often do not benefit from equity-linked compensation structures.</p>
+
+    <h2>Administration and Enforcement</h2>
+    <p>iOSS is designed to run through existing payroll and reporting systems rather than through a new public distribution bureaucracy. The drafts describe the structure as payroll-native and verification-ready, using existing SEC reporting, IRS reporting, payroll processes, and state unemployment-insurance records.</p>
+    <p>Automated verification is a core feature. The detailed draft calls for cross-checking SEC 10-Q data, state unemployment-insurance wage files, and IRS Form 941 totals, while earlier drafts describe anomaly-flagging audit tools with human review before enforcement.</p>
+    <p>Standard-lane firms receive a 5 percent materiality band that permits minor discrepancies to be corrected without immediately affecting distribution status. Firms using the custom lane accept higher audit risk and do not receive the same materiality-band protection.</p>
+    <p>Annual reconciliation is permitted, but any true-up flows through the company rather than the worker. The most detailed version also provides that disputed quarters may temporarily shift to a 65/35 split during audit review, reverting to 70/30 upon clearance, while earlier drafts discuss escalating worker-share multipliers when manipulation is confirmed.</p>
+
+    <h2>Geographic Calibration</h2>
+    <p>The proposal uses county-level median wage standards to improve local fairness and to reflect differences in purchasing power across labor markets. The detailed draft illustrates this through Spokane County and King County, showing that the same dollar bonus carries materially greater relative value in a lower-cost county.</p>
+    <p>The same draft also includes an anti-gaming relocation rule. If 50 or more employees are relocated, a 36-month baseline freeze applies so that the company carries its higher-cost baseline to the new county, reducing the incentive for mailbox-style geographic arbitrage.</p>
+
+    <h2>Why the Proposal Works</h2>
+    <p>For companies, iOSS preserves the dominant share of upside and turns worker participation into a recruiting, retention, and policy-stabilization advantage. For workers, it creates a direct and visible stake in company performance without requiring equity ownership or sophisticated financial instruments.</p>
+    <p>For government, the argument is that distributed labor income moves through the tax base faster than gains retained in capital accounts. The drafts identify payroll tax at issuance, income tax at reconciliation, and rapid local sales-tax generation as immediate public-finance effects, making the proposal attractive to state and local officials seeking visible economic results inside a single term.</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Stakeholder</th>
+          <th>Primary Benefit</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Companies</td><td>Retain 70% of above-baseline upside; gain recruiting and retention advantage</td></tr>
+        <tr><td>Workers</td><td>Direct participation in productivity gains; equal per-capita distribution</td></tr>
+        <tr><td>Shareholders</td><td>Baseline business untouched; growth incentives preserved</td></tr>
+        <tr><td>Government</td><td>Faster tax-base velocity; payroll, income, and sales-tax effects in-quarter</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Safeguards Against Manipulation</h2>
+    <p>The proposal's anti-gaming architecture includes the rolling three-year baseline, same-quarter comparison, the dual trigger for output and operating profit, automated verification, the Standard Lane materiality band, the audit burden on custom metrics, no worker clawbacks, and location rules that limit county-shopping. Together, these are intended to make the framework strict enough to be credible while still simple enough to administer at scale.</p>
+
+    <ol class="safeguards">
+      <li>Rolling three-year baseline prevents sandbagging</li>
+      <li>Same-quarter comparison neutralizes seasonality</li>
+      <li>Dual trigger requires output and operating profit beats</li>
+      <li>Automated verification across SEC, IRS, and state UI records</li>
+      <li>Standard Lane materiality band absorbs minor discrepancies</li>
+      <li>Higher audit burden on custom-metric users</li>
+      <li>No worker clawbacks — all true-up flows through the company</li>
+      <li>36-month baseline freeze on multi-employee relocations</li>
+    </ol>
+
+    <h2>Implementation Path</h2>
+    <p>The recommended path in the source drafts is state-level adoption first. The detailed legislative version recommends an optional Standard Lane structure, a compliance-cost tax credit, and an initial pilot with firms above 250 employees, followed by anonymized quarterly reporting to refine the formula and support broader expansion.</p>
+    <p>The proposal explicitly compares this diffusion path to the development of the 401(k), arguing that voluntary or early-adopter practice can become a normalized market expectation before later codification.</p>
+
+    <h2>Closing Statement</h2>
+    <p>iOSS is not presented as a punitive tax, a charitable transfer, or a blanket labor mandate. It is presented as a structured market mechanism for ensuring that when automation and productivity materially outperform a company's own historical base, a defined portion of that incremental success is shared with the workers who helped create the operating platform from which those gains were generated.</p>
+
+    <div class="pull">
+      <p>The proposal is designed to work because it preserves the growth case for firms, creates direct participation for workers, and produces measurable local economic activity for government without requiring a new administrative state.</p>
+    </div>
+
+  </section>
+
+  <footer class="doc-footer">
+    <div class="rule"></div>
+    <div class="by">Prepared by Jake Bishop &nbsp;·&nbsp; April 2026</div>
+    <div class="contact"><a href="mailto:jakeb1025@gmail.com">jakeb1025@gmail.com</a></div>
+  </footer>
+
+</div>
+
+</body>
+</html>

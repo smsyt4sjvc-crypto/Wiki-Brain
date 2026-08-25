@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M8GD3MLRG5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-M8GD3MLRG5');
+  // INMA conversion events — auto-track contact CTAs
+  document.addEventListener('click', function(e){
+    var a = e.target.closest && e.target.closest('a[href]'); if (!a) return;
+    var h = a.getAttribute('href') || '';
+    if (h.indexOf('tel:') === 0)         gtag('event', 'phone_call',   {link_url:h});
+    else if (h.indexOf('sms:') === 0)    gtag('event', 'text_message', {link_url:h});
+    else if (h.indexOf('mailto:') === 0) gtag('event', 'email_click',  {link_url:h});
+    else if (h.indexOf('.vcf') !== -1)   gtag('event', 'save_contact', {link_url:h});
+  });
+</script>
+<meta charset="UTF-8">
+<link rel="canonical" href="https://inmagent.com/game.html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="apple-touch-icon" href="/IMG_6892.jpeg">
+<link rel="icon" type="image/jpeg" href="/IMG_6892.jpeg">
+<title>Defend Your Home — INMA</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:#1a1916; color:#F5F2ED; font-family:'Outfit',sans-serif; min-height:100vh; display:flex; flex-direction:column; align-items:center; }
+header { width:100%; background:#2C2A27; padding:14px 32px; display:flex; align-items:center; justify-content:space-between; border-bottom:1px solid rgba(255,255,255,0.05); }
+.logo { font-family:'DM Serif Display',serif; font-size:1.3rem; color:#F5F2ED; text-decoration:none; }
+.logo span { color:#B8941F; }
+.back { color:#B8941F; text-decoration:none; font-size:0.88rem; font-weight:600; }
+.game-wrapper { display:flex; flex-direction:column; align-items:center; padding:20px 16px 40px; width:100%; max-width:480px; }
+.game-header { text-align:center; margin-bottom:14px; }
+.game-header h1 { font-family:'DM Serif Display',serif; font-size:1.9rem; color:#F5F2ED; margin-bottom:6px; }
+.game-header p { font-size:0.85rem; color:rgba(245,242,237,0.5); margin-bottom:10px; }
+.prize-badge { display:inline-block; background:rgba(184,148,31,0.15); border:1px solid rgba(184,148,31,0.4); color:#B8941F; padding:5px 14px; border-radius:20px; font-size:0.8rem; font-weight:700; letter-spacing:1px; }
+.hud { display:flex; justify-content:space-between; align-items:center; width:100%; max-width:460px; padding:8px 0; font-size:0.88rem; color:rgba(245,242,237,0.6); }
+.timer { font-family:'DM Serif Display',serif; font-size:1.2rem; color:#F5F2ED; transition:color 0.3s; }
+.timer.urgent { color:#C0392B; }
+.canvas-container { position:relative; width:100%; max-width:460px; }
+#gameCanvas { border:1px solid rgba(255,255,255,0.08); border-radius:8px; background:#0A130D; display:block; width:100%; height:auto; }
+#overlay { position:absolute; top:0; left:0; width:100%; height:100%; background:rgba(10,19,13,0.93); display:flex; flex-direction:column; align-items:center; justify-content:center; border-radius:8px; text-align:center; padding:28px 20px; }
+#overlay h2 { font-family:'DM Serif Display',serif; font-size:1.7rem; color:#F5F2ED; margin-bottom:10px; }
+#overlay p { font-size:0.9rem; color:rgba(245,242,237,0.65); line-height:1.65; margin-bottom:14px; max-width:300px; }
+.promo-code { font-family:'DM Serif Display',serif; font-size:2.2rem; color:#B8941F; letter-spacing:5px; padding:12px 28px; border:2px solid #B8941F; border-radius:8px; margin:12px 0 6px; }
+.promo-note { font-size:0.75rem; color:rgba(245,242,237,0.35); margin-bottom:20px; }
+.start-btn { background:#8B6914; color:white; padding:13px 32px; border:none; border-radius:8px; font-family:'Outfit',sans-serif; font-size:0.95rem; font-weight:700; cursor:pointer; transition:background 0.2s; text-decoration:none; display:inline-block; }
+.start-btn:hover { background:#B8941F; }
+.again-btn { background:rgba(255,255,255,0.08); color:#F5F2ED; padding:10px 24px; border:1px solid rgba(255,255,255,0.15); border-radius:8px; font-family:'Outfit',sans-serif; font-size:0.88rem; cursor:pointer; margin-top:10px; display:inline-block; text-decoration:none; }
+.mobile-controls { display:none; gap:10px; margin-top:14px; width:100%; max-width:460px; }
+@media (hover:none) and (pointer:coarse) { .mobile-controls { display:flex; } }
+.ctrl-btn { background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.12); color:#F5F2ED; padding:22px; border-radius:8px; font-size:1.6rem; cursor:pointer; user-select:none; touch-action:none; flex:1; text-align:center; -webkit-tap-highlight-color:transparent; }
+.hint { margin-top:14px; font-size:0.72rem; color:rgba(245,242,237,0.25); text-align:center; }
+.sound-toggle { position:absolute; top:8px; right:8px; z-index:3; background:rgba(10,19,13,0.8); border:1px solid rgba(184,148,31,0.35); color:#B8941F; width:36px; height:36px; border-radius:50%; cursor:pointer; font-size:16px; display:flex; align-items:center; justify-content:center; padding:0; line-height:1; transition:background 0.15s; }
+.sound-toggle:hover { background:rgba(184,148,31,0.2); }
+.sound-toggle.muted { color:rgba(245,242,237,0.35); border-color:rgba(245,242,237,0.15); }
+</style>
+</head>
+<body>
+<header>
+  <a href="/" class="logo">INMA<span>.</span></a>
+  <a href="/" class="back">← Back to site</a>
+</header>
+
+<div class="game-wrapper">
+  <div class="game-header">
+    <h1>Defend Your Home</h1>
+    <p>Spokane's climate hits your home every season. Shoot 25 threats before time runs out.</p>
+    <div class="prize-badge">WIN = 10% OFF HOME TUNE-UP</div>
+    <div style="font-size:0.7rem;letter-spacing:1.5px;text-transform:uppercase;color:rgba(245,242,237,0.45);margin-top:8px;font-weight:600;">Inspect &middot; Seal &middot; Clean &middot; Report</div>
+  </div>
+
+  <div class="hud">
+    <span>Destroyed: <strong id="scoreDisplay" style="color:#B8941F;">0</strong> / 25</span>
+    <span class="timer" id="timerDisplay">0:45</span>
+    <span id="livesDisplay">♥ ♥ ♥</span>
+  </div>
+
+  <div class="canvas-container">
+    <button id="soundToggle" class="sound-toggle" aria-label="Toggle sound" title="Toggle sound">♪</button>
+    <canvas id="gameCanvas" width="460" height="500"></canvas>
+    <div id="overlay">
+      <h2>Defend Your Home</h2>
+      <p>Spokane's weather — summer heat, winter ice, freeze-thaw cycles — damages your home year round. Shoot 25 threats in 45 seconds to win <strong style="color:#B8941F;">10% off</strong> a Home Tune-Up.</p>
+      <p style="font-size:0.78rem;color:rgba(245,242,237,0.3);margin-bottom:20px;">Arrow keys to move &bull; Auto-fire</p>
+      <button class="start-btn" id="startBtn">Start Game</button>
+      <div style="margin-top:16px;">
+        <a href="/#tune-up" style="font-size:0.82rem;color:rgba(245,242,237,0.55);text-decoration:underline;text-underline-offset:3px;">Skip the game — book a tune-up directly →</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="mobile-controls">
+    <button class="ctrl-btn" id="leftBtn">◀</button>
+    <button class="ctrl-btn" id="rightBtn">▶</button>
+  </div>
+  <p class="hint">Arrow keys + Spacebar &nbsp;|&nbsp; Mobile: buttons above</p>
+</div>
+
+<script>
+const canvas = document.getElementById('gameCanvas');
+const ctx = canvas.getContext('2d');
+const W = 460, H = 500;
+const WIN_SCORE = 25;
+const GAME_TIME = 45;
+
+let state = 'idle';
+let score = 0, lives = 3, timeLeft = GAME_TIME;
+let player, bullets, asteroids, particles;
+let shootCooldown = 0, spawnTimer = 0, spawnRate = 40;
+let animId, timerInterval;
+const keys = {};
+let mLeft = false, mRight = false;
+
+// Spokane year-round climate damage labels
+const LABELS = ['ice','heat','UV','rain','rot','draft','freeze','rust','wind','mold'];
+const COLORS = {
+  ice:'#7EC8E3', heat:'#C0392B', UV:'#D4841A',
+  rain:'#2E5F8A', rot:'#7A4A1A', draft:'#8A8A8A',
+  freeze:'#5B8AA8', rust:'#8B3A2A', wind:'#9A9A7A', mold:'#4A6741'
+};
+
+// Up to 3 plays per day via localStorage
+const PLAYS_PER_DAY = 3;
+function _todayKey(){ return new Date().toDateString(); }
+function _playCountToday(){
+  const day = localStorage.getItem('inma_game_date');
+  if (day !== _todayKey()) return 0;
+  return parseInt(localStorage.getItem('inma_game_plays') || '0', 10) || 0;
+}
+function canPlay() {
+  return _playCountToday() < PLAYS_PER_DAY;
+}
+function recordPlay() {
+  if (localStorage.getItem('inma_game_date') !== _todayKey()) {
+    localStorage.setItem('inma_game_date', _todayKey());
+    localStorage.setItem('inma_game_plays', '1');
+  } else {
+    localStorage.setItem('inma_game_plays', String(_playCountToday() + 1));
+  }
+}
+function playsRemaining(){ return Math.max(0, PLAYS_PER_DAY - _playCountToday()); }
+
+function init() {
+  score = 0; lives = 3; timeLeft = GAME_TIME;
+  bullets = []; asteroids = []; particles = [];
+  shootCooldown = 0; spawnTimer = 0; spawnRate = 62;
+  player = { x: W/2, y: H-52, inv: 0 };
+  updateHUD();
+}
+
+function updateHUD() {
+  document.getElementById('scoreDisplay').textContent = score;
+  const mins = Math.floor(timeLeft / 60);
+  const secs = timeLeft % 60;
+  const tEl = document.getElementById('timerDisplay');
+  tEl.textContent = `${mins}:${secs.toString().padStart(2,'0')}`;
+  tEl.className = 'timer' + (timeLeft <= 10 ? ' urgent' : '');
+  const h = ['♥','♥','♥'].map((c,i) =>
+    `<span style="color:${i<lives?'#B8941F':'rgba(255,255,255,0.15)'}">${c}</span>`
+  ).join(' ');
+  document.getElementById('livesDisplay').innerHTML = h;
+}
+
+function makeAsteroid() {
+  const r = 17 + Math.random()*15;
+  const label = LABELS[Math.floor(Math.random()*LABELS.length)];
+  const n = 7 + Math.floor(Math.random()*4);
+  const verts = Array.from({length:n},(_,i)=>{
+    const a=(i/n)*Math.PI*2, d=r*(0.65+Math.random()*0.45);
+    return {x:Math.cos(a)*d, y:Math.sin(a)*d};
+  });
+  return {
+    x: r+Math.random()*(W-r*2), y:-r, r,
+    vx:(Math.random()-.5)*2.4,
+    vy: 2.4+Math.random()*2.6,
+    rot:0, rs:(Math.random()-.5)*0.04,
+    label, color:COLORS[label], verts
+  };
+}
+
+function burst(x, y, color) {
+  for(let i=0;i<8;i++){
+    const a=Math.random()*Math.PI*2, s=1.5+Math.random()*3;
+    particles.push({x,y,vx:Math.cos(a)*s,vy:Math.sin(a)*s,life:38,max:38,color});
+  }
+}
+
+function drawPlayer() {
+  const {x,y,inv} = player;
+  if(inv>0 && Math.floor(inv/5)%2===0) return;
+  ctx.save(); ctx.translate(x,y);
+  ctx.fillStyle='#8B6914'; ctx.fillRect(-13,-6,26,18);
+  ctx.beginPath(); ctx.moveTo(-17,-6); ctx.lineTo(0,-22); ctx.lineTo(17,-6); ctx.closePath();
+  ctx.fillStyle='#6B5010'; ctx.fill();
+  ctx.fillStyle='#2C2A27'; ctx.fillRect(-5,2,10,10);
+  ctx.restore();
+}
+
+function drawAsteroid(a) {
+  ctx.save(); ctx.translate(a.x,a.y); ctx.rotate(a.rot);
+  ctx.beginPath();
+  a.verts.forEach((v,i)=>i?ctx.lineTo(v.x,v.y):ctx.moveTo(v.x,v.y));
+  ctx.closePath();
+  ctx.fillStyle=a.color; ctx.globalAlpha=0.85; ctx.fill();
+  ctx.globalAlpha=1; ctx.strokeStyle='rgba(255,255,255,0.15)'; ctx.lineWidth=1; ctx.stroke();
+  ctx.rotate(-a.rot);
+  ctx.font='bold 8px Outfit,sans-serif'; ctx.fillStyle='rgba(255,255,255,0.9)';
+  ctx.textAlign='center'; ctx.textBaseline='middle'; ctx.fillText(a.label,0,0);
+  ctx.restore();
+}
+
+function showOverlay(html) {
+  const ov = document.getElementById('overlay');
+  ov.innerHTML = html; ov.style.display = 'flex';
+}
+
+function winGame() {
+  state='won'; cancelAnimationFrame(animId); clearInterval(timerInterval);
+  document.getElementById('timerDisplay').textContent = '';
+  audio.win();
+  if (typeof gtag === 'function') gtag('event', 'game_won', { promo_code: 'TUNEUP10' });
+  showOverlay(`
+    <h2 style="color:#B8941F;">You Win!</h2>
+    <p>You defended your home against Spokane's climate. Show this to Jake when you book your Home Tune-Up <span style="opacity:.6;font-size:0.85em;">(inspect &middot; seal &middot; clean &middot; report).</span></p>
+    <div class="promo-code">TUNEUP10</div>
+    <p class="promo-note">10% off — valid 30 days — text or show in person</p>
+    <a href="sms:5092517792?body=I won the INMA game! Code: TUNEUP10 — want to book a Home Tune-Up" class="start-btn" style="text-decoration:none;">Text Jake to Book</a>
+    <br><br>
+    <a href="/jake.vcf" download="Jake Bishop - INMA.vcf" class="again-btn" style="text-decoration:none;">📇 Save Jake's Contact</a>
+    <br><br>
+    <a href="/" class="again-btn" style="background:transparent;">Back to site</a>
+  `);
+}
+
+function loseGame(reason) {
+  state='dead'; cancelAnimationFrame(animId); clearInterval(timerInterval);
+  document.getElementById('timerDisplay').textContent = '';
+  audio.lose();
+  const msg = reason === 'time'
+    ? "Time's up. Your home took damage you didn't catch."
+    : "Your home took too much damage.";
+  const remaining = playsRemaining();
+  const retryLine = remaining > 0
+    ? `You've got ${remaining} ${remaining === 1 ? 'play' : 'plays'} left today — give it another go.`
+    : `That's 3 plays today. Come back tomorrow for another shot at 10% off.`;
+  const retryBtn = remaining > 0
+    ? `<a href="javascript:location.reload()" class="again-btn" style="margin-bottom:10px;display:inline-block;">Try Again</a><br>`
+    : '';
+  showOverlay(`
+    <h2>${msg}</h2>
+    <p>That's exactly why a home tune-up exists — catch problems before they become expensive. ${retryLine}</p>
+    ${retryBtn}
+    <a href="sms:5092517792" class="start-btn" style="text-decoration:none;">Book a Tune-Up</a>
+    <br>
+    <a href="/" class="again-btn">Back to site</a>
+  `);
+}
+
+function showTryTomorrow() {
+  showOverlay(`
+    <h2>That's 3 for Today</h2>
+    <p>You've used all 3 plays today. Come back tomorrow for another chance at 10% off your Home Tune-Up — or just text Jake to book one now.</p>
+    <a href="sms:5092517792" class="start-btn" style="text-decoration:none;margin-bottom:12px;">Text Jake</a>
+    <br><br>
+    <a href="/" class="again-btn">Back to site</a>
+  `);
+}
+
+function loop() {
+  if(state !== 'playing') return;
+  ctx.fillStyle='#0A130D'; ctx.fillRect(0,0,W,H);
+
+  // Stars
+  ctx.fillStyle='rgba(255,255,255,0.22)';
+  for(let i=0;i<50;i++) ctx.fillRect((i*137+23)%W,(i*97+41)%H,1,1);
+
+  const spd = 5;
+  if(keys['ArrowLeft']||keys['a']||mLeft) player.x=Math.max(18,player.x-spd);
+  if(keys['ArrowRight']||keys['d']||mRight) player.x=Math.min(W-18,player.x+spd);
+  // Auto-fire — always shoot on cooldown
+  if(shootCooldown<=0) {
+    bullets.push({x:player.x, y:player.y-22, vy:-9});
+    shootCooldown=24;
+    audio.shoot();
+  }
+  if(shootCooldown>0) shootCooldown--;
+  if(player.inv>0) player.inv--;
+
+  if(++spawnTimer >= spawnRate) {
+    asteroids.push(makeAsteroid());
+    spawnTimer=0;
+    spawnRate=Math.max(12, spawnRate-1.3);
+  }
+
+  bullets=bullets.filter(b=>b.y>-10);
+  bullets.forEach(b=>b.y+=b.vy);
+
+  asteroids.forEach(a=>{
+    a.x+=a.vx; a.y+=a.vy; a.rot+=a.rs;
+    if(a.x<a.r){a.x=a.r;a.vx*=-1;}
+    if(a.x>W-a.r){a.x=W-a.r;a.vx*=-1;}
+  });
+
+  for(let bi=bullets.length-1;bi>=0;bi--){
+    const b=bullets[bi];
+    for(let ai=asteroids.length-1;ai>=0;ai--){
+      const a=asteroids[ai];
+      const dx=b.x-a.x, dy=b.y-a.y;
+      if(Math.sqrt(dx*dx+dy*dy)<a.r){
+        burst(a.x,a.y,a.color);
+        asteroids.splice(ai,1); bullets.splice(bi,1);
+        score++; updateHUD();
+        audio.hit();
+        if(score>=WIN_SCORE){winGame();return;}
+        break;
+      }
+    }
+  }
+
+  if(player.inv<=0){
+    for(let ai=asteroids.length-1;ai>=0;ai--){
+      const a=asteroids[ai];
+      const dx=player.x-a.x, dy=player.y-a.y;
+      if(Math.sqrt(dx*dx+dy*dy)<a.r+14){
+        burst(a.x,a.y,'#C0392B');
+        asteroids.splice(ai,1);
+        lives--; player.inv=100; updateHUD();
+        audio.hurt();
+        if(lives<=0){loseGame('hits');return;}
+      }
+    }
+  }
+
+  asteroids=asteroids.filter(a=>a.y<H+a.r);
+  particles.forEach(p=>{p.x+=p.vx;p.y+=p.vy;p.vy+=0.08;p.life--;});
+  particles=particles.filter(p=>p.life>0);
+
+  particles.forEach(p=>{
+    ctx.globalAlpha=p.life/p.max;
+    ctx.fillStyle=p.color; ctx.fillRect(p.x-2,p.y-2,4,4);
+    ctx.globalAlpha=1;
+  });
+  bullets.forEach(b=>{
+    ctx.fillStyle='#D4A843'; ctx.fillRect(b.x-2,b.y-7,4,12);
+  });
+  asteroids.forEach(drawAsteroid);
+  drawPlayer();
+
+  animId=requestAnimationFrame(loop);
+}
+
+function startGame() {
+  if(!canPlay()) { showTryTomorrow(); return; }
+  recordPlay();
+  init(); state='playing';
+  document.getElementById('overlay').style.display='none';
+  audio.ready(); audio.resume(); audio.startMusic();
+
+  timerInterval = setInterval(()=>{
+    if(state !== 'playing') return;
+    timeLeft--;
+    updateHUD();
+    if(timeLeft<=0){ loseGame('time'); }
+  }, 1000);
+
+  animId=requestAnimationFrame(loop);
+}
+
+/* ============ 80s CHIPTUNE AUDIO ENGINE ============ */
+const audio = {
+  ctx: null, master: null, musicNode: null, musicTimer: null,
+  muted: (localStorage.getItem('inma_game_muted') === '1'),
+  ready(){
+    if (this.ctx) return true;
+    try {
+      this.ctx = new (window.AudioContext || window.webkitAudioContext)();
+      this.master = this.ctx.createGain();
+      this.master.gain.value = this.muted ? 0 : 0.25;
+      this.master.connect(this.ctx.destination);
+      return true;
+    } catch(e){ return false; }
+  },
+  resume(){ if (this.ctx && this.ctx.state === 'suspended') this.ctx.resume(); },
+  setMuted(m){
+    this.muted = m;
+    localStorage.setItem('inma_game_muted', m ? '1' : '0');
+    if (this.master) this.master.gain.setTargetAtTime(m ? 0 : 0.25, this.ctx.currentTime, 0.02);
+  },
+  // Quick arcade "pew" — descending square blip
+  shoot(){
+    if (!this.ready() || this.muted) return;
+    const t = this.ctx.currentTime;
+    const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+    o.type = 'square'; o.frequency.setValueAtTime(880, t); o.frequency.exponentialRampToValueAtTime(220, t + 0.08);
+    g.gain.setValueAtTime(0.18, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.09);
+    o.connect(g); g.connect(this.master); o.start(t); o.stop(t + 0.1);
+  },
+  // Explosion — noise burst
+  hit(){
+    if (!this.ready() || this.muted) return;
+    const t = this.ctx.currentTime;
+    const buf = this.ctx.createBuffer(1, this.ctx.sampleRate * 0.18, this.ctx.sampleRate);
+    const d = buf.getChannelData(0);
+    for (let i = 0; i < d.length; i++) d[i] = (Math.random()*2 - 1) * Math.pow(1 - i/d.length, 2);
+    const src = this.ctx.createBufferSource(), g = this.ctx.createGain(), flt = this.ctx.createBiquadFilter();
+    flt.type = 'lowpass'; flt.frequency.value = 1200;
+    src.buffer = buf; g.gain.value = 0.35;
+    src.connect(flt); flt.connect(g); g.connect(this.master); src.start(t);
+  },
+  // Player takes damage — low buzz
+  hurt(){
+    if (!this.ready() || this.muted) return;
+    const t = this.ctx.currentTime;
+    const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+    o.type = 'sawtooth'; o.frequency.setValueAtTime(180, t); o.frequency.linearRampToValueAtTime(90, t + 0.3);
+    g.gain.setValueAtTime(0.28, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.32);
+    o.connect(g); g.connect(this.master); o.start(t); o.stop(t + 0.34);
+  },
+  // Triumphant arpeggio
+  win(){
+    if (!this.ready() || this.muted) return;
+    this.stopMusic();
+    const t0 = this.ctx.currentTime;
+    const notes = [523.25, 659.25, 783.99, 1046.50, 1318.51]; // C E G C E
+    notes.forEach((f, i) => {
+      const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+      o.type = 'square'; o.frequency.value = f;
+      const t = t0 + i*0.12;
+      g.gain.setValueAtTime(0.22, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.18);
+      o.connect(g); g.connect(this.master); o.start(t); o.stop(t + 0.2);
+    });
+  },
+  // Sad descending drone
+  lose(){
+    if (!this.ready() || this.muted) return;
+    this.stopMusic();
+    const t = this.ctx.currentTime;
+    const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+    o.type = 'sawtooth'; o.frequency.setValueAtTime(220, t); o.frequency.linearRampToValueAtTime(55, t + 0.9);
+    g.gain.setValueAtTime(0.3, t); g.gain.exponentialRampToValueAtTime(0.001, t + 1.0);
+    o.connect(g); g.connect(this.master); o.start(t); o.stop(t + 1.05);
+  },
+  // Looping chiptune — square-wave bassline + simple arpeggio over the top
+  startMusic(){
+    if (!this.ready() || this.muted || this.musicTimer) return;
+    // A minor pentatonic bassline + melody, 8th notes at 140 BPM
+    const BPM = 140, step = 60 / BPM / 2; // 8th note
+    const bass = [110, 110, 146.83, 164.81, 164.81, 146.83, 110, 98]; // A A D E E D A G
+    const mel  = [440, 0, 523.25, 0, 659.25, 587.33, 523.25, 0];       // A _ C _ E D C _
+    let i = 0;
+    const playStep = () => {
+      if (!this.ctx || this.muted) return;
+      const t = this.ctx.currentTime;
+      // Bass
+      const bf = bass[i % bass.length];
+      if (bf > 0) {
+        const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+        o.type = 'triangle'; o.frequency.value = bf;
+        g.gain.setValueAtTime(0.12, t); g.gain.exponentialRampToValueAtTime(0.001, t + step * 0.9);
+        o.connect(g); g.connect(this.master); o.start(t); o.stop(t + step);
+      }
+      // Melody
+      const mf = mel[i % mel.length];
+      if (mf > 0) {
+        const o = this.ctx.createOscillator(), g = this.ctx.createGain();
+        o.type = 'square'; o.frequency.value = mf;
+        g.gain.setValueAtTime(0.06, t); g.gain.exponentialRampToValueAtTime(0.001, t + step * 0.85);
+        o.connect(g); g.connect(this.master); o.start(t); o.stop(t + step);
+      }
+      i++;
+    };
+    playStep();
+    this.musicTimer = setInterval(playStep, step * 1000);
+  },
+  stopMusic(){ if (this.musicTimer){ clearInterval(this.musicTimer); this.musicTimer = null; } },
+};
+
+// Mute toggle UI
+(function initSoundToggle(){
+  const btn = document.getElementById('soundToggle');
+  if (!btn) return;
+  const render = () => { btn.textContent = audio.muted ? '🔇' : '♪'; btn.classList.toggle('muted', audio.muted); };
+  render();
+  btn.addEventListener('click', ()=>{
+    audio.ready(); audio.resume();
+    audio.setMuted(!audio.muted);
+    if (audio.muted) audio.stopMusic();
+    else if (typeof state !== 'undefined' && state === 'playing') audio.startMusic();
+    render();
+  });
+})();
+
+document.addEventListener('keydown',e=>{keys[e.key]=true;if(e.key===' ')e.preventDefault();});
+document.addEventListener('keyup',e=>{keys[e.key]=false;});
+document.getElementById('startBtn').addEventListener('click', startGame);
+
+function mBtn(id,set){
+  const el=document.getElementById(id); if(!el)return;
+  ['touchstart','mousedown'].forEach(ev=>el.addEventListener(ev,e=>{e.preventDefault();set(true);},{passive:false}));
+  ['touchend','mouseup','touchcancel'].forEach(ev=>el.addEventListener(ev,e=>{e.preventDefault();set(false);},{passive:false}));
+}
+mBtn('leftBtn',v=>mLeft=v);
+mBtn('rightBtn',v=>mRight=v);
+</script>
+</body>
+</html>

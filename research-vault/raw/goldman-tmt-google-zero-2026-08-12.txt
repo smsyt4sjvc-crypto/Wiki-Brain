@@ -1,0 +1,11 @@
+Goldman TMT note, pasted by Jake 2026-08-12 ~7:45pm PDT (source time unstated; WSJ report it
+characterises appears to date from ~late July 2026 per secondary coverage).
+
+"The WSJ reporting that the long-feared "Google Zero" moment — when Google Search largely stops
+sending traffic to third-party sites — some publications are seeing traffic drops of more than 40%
+between mid-2025 and mid-2026. Publishers face a choice: allow Google's multi-purpose crawlers
+(which feed both traditional search and AI training) or block them and lose search visibility
+entirely. Several major outlets, including USA Today, Reddit, Politico, Reuters and others, are now
+openly considering or preparing to restrict Google's access, while Cloudflare plans to start
+blocking multi-purpose crawlers by default from mid-September unless site owners opt out. The old
+model in which publishers had no real alternative to Google's rules is cracking"

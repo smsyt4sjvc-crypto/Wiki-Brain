@@ -1,0 +1,525 @@
+# =========================
+# BNU 2Y: +5-10% in <=7d event mining + predictors + daily scanner
+# =========================
+
+!pip -q install yfinance pyarrow
+
+import os
+import warnings
+warnings.filterwarnings("ignore")
+
+import numpy as np
+import pandas as pd
+import yfinance as yf
+
+from sklearn.model_selection import TimeSeriesSplit
+from sklearn.preprocessing import StandardScaler
+from sklearn.pipeline import Pipeline
+from sklearn.metrics import roc_auc_score
+from sklearn.linear_model import LogisticRegression
+
+# -------------------------
+# CONFIG
+# -------------------------
+DRIVE_BASE = "/content/drive/MyDrive/BNUohlcv"
+PARQUET_PATH = f"{DRIVE_BASE}/BNU_OHLCV_2Y_LONG.parquet"
+CSV_PATH     = f"{DRIVE_BASE}/BNU_OHLCV_2Y_LONG.csv"
+
+OUT_EVENTS   = f"{DRIVE_BASE}/BNU_EVENTS_5_7_10_in7d.csv"
+OUT_DATASET  = f"{DRIVE_BASE}/BNU_FEATURE_DATASET.csv"
+OUT_MODEL    = f"{DRIVE_BASE}/BNU_MODEL_PIPELINE.pkl"
+OUT_SIGNALS  = f"{DRIVE_BASE}/BNU_DAILY_SIGNALS.csv"
+
+LOOKAHEAD_DAYS = 7  # <=7 trading days
+TP_LEVELS = [0.05, 0.07, 0.10]  # +5%, +7%, +10%
+
+UPDATE_FROM_YF = True  # set False if you never want to update from yfinance
+SKIP_TICKERS = {"ABB"}  # per your instruction
+
+# -------------------------
+# LOAD DATA (long format)
+# Expect columns like: Date, ticker, Open, High, Low, Close, Volume (case-insensitive ok)
+# -------------------------
+def load_bnu_long():
+    if os.path.exists(PARQUET_PATH):
+        df = pd.read_parquet(PARQUET_PATH)
+        source = "parquet"
+    elif os.path.exists(CSV_PATH):
+        df = pd.read_csv(CSV_PATH)
+        source = "csv"
+    else:
+        raise FileNotFoundError("Could not find BNU OHLCV long file in Drive.")
+
+    # normalize columns
+    cols = {c: c.strip() for c in df.columns}
+    df = df.rename(columns=cols)
+
+    # try common variants
+    colmap = {}
+    for c in df.columns:
+        cl = c.lower()
+        if cl in ["date", "datetime", "time"]:
+            colmap[c] = "Date"
+        elif cl in ["ticker", "symbol"]:
+            colmap[c] = "ticker"
+        elif cl == "open":
+            colmap[c] = "Open"
+        elif cl == "high":
+            colmap[c] = "High"
+        elif cl == "low":
+            colmap[c] = "Low"
+        elif cl == "close":
+            colmap[c] = "Close"
+        elif cl in ["adj close", "adjclose", "adj_close"]:
+            colmap[c] = "AdjClose"
+        elif cl == "volume":
+            colmap[c] = "Volume"
+    df = df.rename(columns=colmap)
+
+    required = {"Date", "ticker", "Open", "High", "Low", "Close", "Volume"}
+    missing = required - set(df.columns)
+    if missing:
+        raise ValueError(f"Missing required columns in BNU file: {missing}")
+
+    df["Date"] = pd.to_datetime(df["Date"])
+    df["ticker"] = df["ticker"].astype(str).str.upper()
+
+    # skip tickers you don't want
+    df = df[~df["ticker"].isin(SKIP_TICKERS)].copy()
+
+    df = df.sort_values(["ticker", "Date"]).reset_index(drop=True)
+    print(f"Loaded BNU long ({source}) | rows={len(df):,} | tickers={df['ticker'].nunique()}")
+    return df
+
+# -------------------------
+# OPTIONAL: UPDATE FROM YFINANCE (append new rows, dedupe)
+# -------------------------
+def update_from_yfinance(df):
+    tickers = sorted(df["ticker"].unique().tolist())
+    tickers = [t for t in tickers if t not in SKIP_TICKERS]
+    last_dates = df.groupby("ticker")["Date"].max().to_dict()
+
+    # pull last ~15 calendar days to safely include latest trading days
+    # (we dedupe by Date anyway)
+    dl = yf.download(
+        tickers,
+        period="20d",
+        auto_adjust=False,
+        group_by="ticker",
+        threads=True,
+        progress=False,
+    )
+
+    new_rows = []
+    for t in tickers:
+        if t not in dl.columns.get_level_values(0):
+            continue
+        g = dl[t].copy()
+        g = g.dropna(subset=["Close"])
+        g = g.reset_index().rename(columns={"Date":"Date"})
+        g["ticker"] = t
+
+        # keep only rows newer than what we have
+        if t in last_dates:
+            g = g[g["Date"] > last_dates[t]]
+
+        if len(g):
+            # normalize names
+            g = g.rename(columns={"Open":"Open","High":"High","Low":"Low","Close":"Close","Volume":"Volume"})
+            g = g[["Date","ticker","Open","High","Low","Close","Volume"]]
+            new_rows.append(g)
+
+    if not new_rows:
+        print("No new yfinance rows to append.")
+        return df
+
+    add = pd.concat(new_rows, ignore_index=True)
+    out = pd.concat([df, add], ignore_index=True)
+    out = out.drop_duplicates(subset=["ticker","Date"], keep="last").sort_values(["ticker","Date"]).reset_index(drop=True)
+
+    # persist updated master
+    out.to_parquet(PARQUET_PATH, index=False)
+    out.to_csv(CSV_PATH, index=False)
+    print(f"Appended {len(add):,} rows from yfinance. New total rows={len(out):,}. Saved parquet+csv.")
+    return out
+
+# -------------------------
+# INDICATORS (per ticker)
+# -------------------------
+def add_indicators(g: pd.DataFrame) -> pd.DataFrame:
+    g = g.copy()
+
+    # returns
+    g["ret1"] = g["Close"].pct_change()
+
+    # SMA
+    g["SMA20"] = g["Close"].rolling(20).mean()
+    g["SMA50"] = g["Close"].rolling(50).mean()
+    g["dist_SMA20_pct"] = (g["Close"] / g["SMA20"] - 1.0) * 100.0
+    g["dist_SMA50_pct"] = (g["Close"] / g["SMA50"] - 1.0) * 100.0
+
+    # ATR(14)
+    prev_close = g["Close"].shift(1)
+    tr = np.maximum(g["High"] - g["Low"], np.maximum((g["High"] - prev_close).abs(), (g["Low"] - prev_close).abs()))
+    g["ATR14"] = tr.rolling(14).mean()
+    g["ATR_pct"] = (g["ATR14"] / g["Close"]) * 100.0
+
+    # Bollinger Bands (20,2)
+    std20 = g["Close"].rolling(20).std()
+    g["BB_mid"] = g["SMA20"]
+    g["BB_up"] = g["BB_mid"] + 2 * std20
+    g["BB_dn"] = g["BB_mid"] - 2 * std20
+    g["BB_width_pct"] = ((g["BB_up"] - g["BB_dn"]) / g["BB_mid"]) * 100.0
+    g["BB_pos"] = (g["Close"] - g["BB_dn"]) / (g["BB_up"] - g["BB_dn"])
+
+    # RSI(14)
+    delta = g["Close"].diff()
+    up = delta.clip(lower=0).rolling(14).mean()
+    dn = (-delta.clip(upper=0)).rolling(14).mean()
+    rs = up / dn.replace(0, np.nan)
+    g["RSI14"] = 100 - (100 / (1 + rs))
+
+    # MACD (12,26,9)
+    ema12 = g["Close"].ewm(span=12, adjust=False).mean()
+    ema26 = g["Close"].ewm(span=26, adjust=False).mean()
+    macd = ema12 - ema26
+    sig = macd.ewm(span=9, adjust=False).mean()
+    g["MACD"] = macd
+    g["MACD_signal"] = sig
+    g["MACD_hist"] = macd - sig
+
+    # ROC / Momentum
+    g["ROC10"] = (g["Close"] / g["Close"].shift(10) - 1.0) * 100.0
+    g["MOM10"] = g["Close"] - g["Close"].shift(10)
+
+    # Stochastics (14)
+    low14 = g["Low"].rolling(14).min()
+    high14 = g["High"].rolling(14).max()
+    k = 100 * (g["Close"] - low14) / (high14 - low14)
+    g["StochK"] = k
+    g["StochD"] = k.rolling(3).mean()
+
+    # Williams %R (14)
+    g["WillR14"] = -100 * (high14 - g["Close"]) / (high14 - low14)
+
+    # Money Flow Index (14)
+    tp = (g["High"] + g["Low"] + g["Close"]) / 3.0
+    mf = tp * g["Volume"]
+    pos_mf = mf.where(tp > tp.shift(1), 0).rolling(14).sum()
+    neg_mf = mf.where(tp < tp.shift(1), 0).rolling(14).sum()
+    mfr = pos_mf / neg_mf.replace(0, np.nan)
+    g["MFI14"] = 100 - (100 / (1 + mfr))
+
+    # OBV
+    direction = np.sign(g["Close"].diff()).fillna(0)
+    g["OBV"] = (direction * g["Volume"]).cumsum()
+
+    # Volume ROC (10)
+    g["VROC10"] = (g["Volume"] / g["Volume"].shift(10) - 1.0) * 100.0
+
+    # Accumulation/Distribution (A/D)
+    mfm = ((g["Close"] - g["Low"]) - (g["High"] - g["Close"])) / (g["High"] - g["Low"]).replace(0, np.nan)
+    g["AD"] = (mfm.fillna(0) * g["Volume"]).cumsum()
+
+    # ADX / DMI(14) (simple implementation)
+    up_move = g["High"].diff()
+    down_move = -g["Low"].diff()
+    plus_dm = np.where((up_move > down_move) & (up_move > 0), up_move, 0.0)
+    minus_dm = np.where((down_move > up_move) & (down_move > 0), down_move, 0.0)
+    tr14 = tr.rolling(14).sum()
+    plus_di = 100 * (pd.Series(plus_dm, index=g.index).rolling(14).sum() / tr14.replace(0, np.nan))
+    minus_di = 100 * (pd.Series(minus_dm, index=g.index).rolling(14).sum() / tr14.replace(0, np.nan))
+    dx = (100 * (plus_di - minus_di).abs() / (plus_di + minus_di).replace(0, np.nan))
+    g["ADX14"] = dx.rolling(14).mean()
+
+    # Linear regression slope (20) on Close (normalized)
+    # slope of y vs x in rolling window
+    w = 20
+    x = np.arange(w)
+    x_mean = x.mean()
+    denom = ((x - x_mean) ** 2).sum()
+    slopes = []
+    closes = g["Close"].values
+    for i in range(len(g)):
+        if i < w-1:
+            slopes.append(np.nan)
+        else:
+            y = closes[i-w+1:i+1]
+            y_mean = y.mean()
+            num = ((x - x_mean) * (y - y_mean)).sum()
+            slopes.append(num / denom)
+    g["LinRegSlope20"] = slopes
+
+    return g
+
+# -------------------------
+# LABEL EVENTS: future max High over next <=7 trading days
+# -------------------------
+def add_forward_labels(g: pd.DataFrame, lookahead=7):
+    g = g.copy()
+    # forward max High in next lookahead days (excluding today)
+    # shift(-1) ensures we look forward starting tomorrow
+    fwd_max_high = (
+        g["High"]
+        .shift(-1)
+        .rolling(window=lookahead, min_periods=1)
+        .max()
+        .shift(-(lookahead-1))
+    )
+    # If using rolling like this is confusing: we’ll do a safer explicit calc:
+    fwd_max = np.full(len(g), np.nan)
+    fwd_idx = np.full(len(g), np.nan)
+    H = g["High"].values
+    for i in range(len(g)):
+        j2 = min(len(g), i + 1 + lookahead)
+        if i+1 >= len(g): 
+            continue
+        seg = H[i+1:j2]
+        if len(seg) == 0:
+            continue
+        mx = np.max(seg)
+        fwd_max[i] = mx
+        fwd_idx[i] = np.argmax(seg) + 1  # days ahead (1..lookahead)
+
+    g["fwd_max_high_7d"] = fwd_max
+    g["fwd_days_to_max"] = fwd_idx
+
+    g["fwd_max_ret_7d_pct"] = (g["fwd_max_high_7d"] / g["Close"] - 1.0) * 100.0
+
+    # binary labels for each TP level
+    for tp in TP_LEVELS:
+        name = f"hit_{int(tp*100)}_in7d"
+        g[name] = (g["fwd_max_high_7d"] >= g["Close"] * (1 + tp)).astype(int)
+
+    return g
+
+# -------------------------
+# BUILD FEATURE DATASET (pooled across tickers)
+# -------------------------
+FEATURE_COLS = [
+    "dist_SMA20_pct","dist_SMA50_pct","ATR_pct","BB_width_pct","BB_pos",
+    "RSI14","MACD_hist","ROC10","MOM10","StochK","StochD","WillR14",
+    "MFI14","VROC10","ADX14","LinRegSlope20",
+    "OBV","AD"
+]
+
+def build_dataset(df_long):
+    frames = []
+    for t, g in df_long.groupby("ticker", sort=False):
+        g = g.sort_values("Date").reset_index(drop=True)
+        g = add_indicators(g)
+        g = add_forward_labels(g, lookahead=LOOKAHEAD_DAYS)
+        frames.append(g)
+    out = pd.concat(frames, ignore_index=True)
+
+    # drop rows where indicators not ready or no forward window
+    out = out.dropna(subset=FEATURE_COLS + ["fwd_max_ret_7d_pct"]).copy()
+
+    # add ticker one-hot later
+    return out
+
+# -------------------------
+# TRAIN (walk-forward) — predict "hit 7% in 7d" (you can change to 5 or 10)
+# -------------------------
+TARGET = "hit_7_in7d"
+
+def train_model(ds: pd.DataFrame):
+    # one-hot tickers
+    ds = ds.copy()
+    X_num = ds[FEATURE_COLS].copy()
+    X_tkr = pd.get_dummies(ds["ticker"], prefix="tkr", drop_first=False)
+    X = pd.concat([X_num, X_tkr], axis=1)
+    y = ds[TARGET].astype(int).values
+
+    # time ordering: use global Date ordering (pooled). This is a simplification but avoids leakage.
+    order = np.argsort(ds["Date"].values)
+    X = X.iloc[order].reset_index(drop=True)
+    y = y[order]
+
+    # Pipeline: scale + logistic regression (interpretable, stable)
+    pipe = Pipeline([
+        ("scaler", StandardScaler(with_mean=False)),  # sparse-friendly
+        ("clf", LogisticRegression(
+            max_iter=2000,
+            n_jobs=None,
+            class_weight="balanced",
+            solver="lbfgs"
+        ))
+    ])
+
+    # Walk-forward evaluation
+    tscv = TimeSeriesSplit(n_splits=5)
+    aucs = []
+    for tr, te in tscv.split(X):
+        pipe.fit(X.iloc[tr], y[tr])
+        p = pipe.predict_proba(X.iloc[te])[:,1]
+        auc = roc_auc_score(y[te], p)
+        aucs.append(auc)
+
+    pipe.fit(X, y)
+    print(f"Model trained for target={TARGET} | TimeSeriesSplit AUC mean={np.mean(aucs):.3f} (folds={len(aucs)})")
+    return pipe, X.columns.tolist()
+
+# -------------------------
+# DAILY SCAN (latest row per ticker): compute probs for 5/7/10 and rank
+# -------------------------
+def predict_today(df_long, model, model_cols):
+    ds = build_dataset(df_long)
+
+    # take latest per ticker
+    latest = ds.sort_values("Date").groupby("ticker").tail(1).copy()
+
+    # build X with same columns
+    X_num = latest[FEATURE_COLS].copy()
+    X_tkr = pd.get_dummies(latest["ticker"], prefix="tkr", drop_first=False)
+    X = pd.concat([X_num, X_tkr], axis=1)
+
+    # align columns
+    for c in model_cols:
+        if c not in X.columns:
+            X[c] = 0.0
+    X = X[model_cols]
+
+    # predicted probability for TARGET (7%)
+    p7 = model.predict_proba(X)[:,1]
+    latest["P_hit_7_in7d"] = p7
+
+    # also compute empirical hit rates for 5% and 10% “in similar conditions”:
+    # we'll approximate by using the model probability for 7%, plus simple calibration from history
+    # (if you want separate models per TP level, copy train_model for each target).
+    # For now: train 3 models (recommended).
+    return latest
+
+# -------------------------
+# Train 3 models: hit_5, hit_7, hit_10 (best practical)
+# -------------------------
+def train_three_models(ds):
+    models = {}
+    cols = None
+    for pct in [5,7,10]:
+        tgt = f"hit_{pct}_in7d"
+        # prepare
+        tmp = ds.dropna(subset=FEATURE_COLS + [tgt]).copy()
+        X_num = tmp[FEATURE_COLS].copy()
+        X_tkr = pd.get_dummies(tmp["ticker"], prefix="tkr", drop_first=False)
+        X = pd.concat([X_num, X_tkr], axis=1)
+        y = tmp[tgt].astype(int).values
+        order = np.argsort(tmp["Date"].values)
+        X = X.iloc[order].reset_index(drop=True)
+        y = y[order]
+
+        pipe = Pipeline([
+            ("scaler", StandardScaler(with_mean=False)),
+            ("clf", LogisticRegression(
+                max_iter=2000,
+                class_weight="balanced",
+                solver="lbfgs"
+            ))
+        ])
+        tscv = TimeSeriesSplit(n_splits=5)
+        aucs = []
+        for tr, te in tscv.split(X):
+            pipe.fit(X.iloc[tr], y[tr])
+            p = pipe.predict_proba(X.iloc[te])[:,1]
+            aucs.append(roc_auc_score(y[te], p))
+        pipe.fit(X, y)
+
+        print(f"Target={tgt} | AUC mean={np.mean(aucs):.3f}")
+        models[pct] = pipe
+        if cols is None:
+            cols = X.columns.tolist()
+    return models, cols
+
+def scan_top_signals(df_long, models, model_cols, top_n=10):
+    ds = build_dataset(df_long)
+    latest = ds.sort_values("Date").groupby("ticker").tail(1).copy()
+
+    X_num = latest[FEATURE_COLS].copy()
+    X_tkr = pd.get_dummies(latest["ticker"], prefix="tkr", drop_first=False)
+    X = pd.concat([X_num, X_tkr], axis=1)
+    for c in model_cols:
+        if c not in X.columns:
+            X[c] = 0.0
+    X = X[model_cols]
+
+    latest["P5"]  = models[5].predict_proba(X)[:,1]
+    latest["P7"]  = models[7].predict_proba(X)[:,1]
+    latest["P10"] = models[10].predict_proba(X)[:,1]
+
+    # choose "best TP with probability >= 0.65", prioritize highest TP then probability
+    best_tp = []
+    best_p = []
+    for _, r in latest.iterrows():
+        choices = [(5, r["P5"]), (7, r["P7"]), (10, r["P10"])]
+        valid = [(tp, p) for tp, p in choices if p >= 0.65]
+        if not valid:
+            # still keep best probability among 5/7/10
+            tp, p = max(choices, key=lambda x: x[1])
+        else:
+            # pick highest TP first, then probability
+            tp, p = sorted(valid, key=lambda x: (x[0], x[1]), reverse=True)[0]
+        best_tp.append(tp)
+        best_p.append(p)
+
+    latest["best_TP_pct"] = best_tp
+    latest["best_prob"] = best_p
+
+    # also include "today distance under SMA20" using Close vs SMA20
+    latest["today_dist_sma20_pct"] = latest["dist_SMA20_pct"]
+
+    # rank: probability desc, TP desc
+    ranked = latest.sort_values(["best_prob","best_TP_pct"], ascending=[False, False]).copy()
+
+    # pretty output columns
+    out = ranked[["ticker","Date","Close","today_dist_sma20_pct","best_TP_pct","best_prob","P5","P7","P10"]].head(top_n)
+    out = out.rename(columns={
+        "Date":"today_date",
+        "Close":"today_close",
+        "today_dist_sma20_pct":"%_vs_SMA20",
+        "best_TP_pct":"TP(%)",
+        "best_prob":"Prob"
+    })
+
+    # save
+    out.to_csv(OUT_SIGNALS, index=False)
+    print(f"\nSaved daily signals -> {OUT_SIGNALS}")
+    return out, ranked
+
+# -------------------------
+# EVENT MINING OUTPUT (all starts where fwd_max_ret within 7d >= 5%)
+# -------------------------
+def save_event_table(ds):
+    events = ds[ds["hit_5_in7d"] == 1].copy()
+    # keep event magnitude and whether it also hit 7/10
+    keep = ["ticker","Date","Close","fwd_max_high_7d","fwd_days_to_max","fwd_max_ret_7d_pct","hit_5_in7d","hit_7_in7d","hit_10_in7d"]
+    events = events[keep].sort_values(["Date","ticker"])
+    events.to_csv(OUT_EVENTS, index=False)
+    print(f"Saved event table -> {OUT_EVENTS} | events={len(events):,}")
+
+# -------------------------
+# RUN
+# -------------------------
+df = load_bnu_long()
+if UPDATE_FROM_YF:
+    df = update_from_yfinance(df)
+
+ds = build_dataset(df)
+print(f"Feature dataset rows={len(ds):,} | tickers={ds['ticker'].nunique()} | date range={ds['Date'].min().date()}→{ds['Date'].max().date()}")
+
+# Save the full dataset for quick backtests
+ds.to_csv(OUT_DATASET, index=False)
+print(f"Saved feature dataset -> {OUT_DATASET}")
+
+# Save event table (all 5%+ in <=7d)
+save_event_table(ds)
+
+# Train 3 models (5/7/10)
+models, model_cols = train_three_models(ds)
+
+# Daily scan: rank best "highest TP with >=65% prob"
+top5, ranked_all = scan_top_signals(df, models, model_cols, top_n=5)
+
+print("\n=== TOP 5 (Ticker | % vs SMA20 | TP | Prob | N/AUC handled in training) ===")
+# print nice logging lines
+for _, r in top5.iterrows():
+    print(f"{r['ticker']:>5} | {r['%_vs_SMA20']:>7.2f}% | TP +{int(r['TP(%)']):>2d}% | Prob {r['Prob']*100:>5.1f}%")

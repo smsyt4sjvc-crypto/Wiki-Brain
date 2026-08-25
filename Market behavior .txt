@@ -1,0 +1,391 @@
+import pandas as pd
+import numpy as np
+from datetime import datetime
+import warnings
+warnings.filterwarnings('ignore')
+
+# =============================
+# CONFIG
+# =============================
+MASTER_PATH = "/content/drive/MyDrive/sp500_MASTER_FINAL_MERGED.csv"
+YEAR = 2025
+MIN_BARS = 100  # Need at least 100 days of data
+TEST_STOCKS = 50  # Test on 50 most liquid stocks (faster, then expand)
+
+print("=" * 80)
+print("S&P 500 STRATEGY REGIME DIAGNOSTIC - 2025")
+print("=" * 80)
+print()
+
+# =============================
+# LOAD DATA
+# =============================
+df_raw = pd.read_csv(MASTER_PATH, parse_dates=["date"], low_memory=False)
+df_raw["ticker"] = df_raw["ticker"].astype(str).str.upper()
+
+cols = ["date", "ticker", "open", "high", "low", "close", "volume"]
+df = df_raw[cols].dropna().copy()
+
+for c in ["open", "high", "low", "close", "volume"]:
+    df[c] = pd.to_numeric(df[c], errors="coerce")
+
+df = df.dropna()
+df = df[df["date"].dt.year == YEAR].copy()
+df = df.sort_values(["ticker", "date"]).reset_index(drop=True)
+
+print(f"Loaded 2025 data: {df['date'].min().date()} → {df['date'].max().date()}")
+print(f"Total tickers: {df['ticker'].nunique()}")
+print()
+
+# Filter to most liquid stocks
+ticker_bars = df.groupby("ticker").size()
+valid_tickers = ticker_bars[ticker_bars >= MIN_BARS].index.tolist()
+
+# Get avg dollar volume for liquidity ranking
+df["dollar_vol"] = df["close"] * df["volume"]
+liquidity = df.groupby("ticker")["dollar_vol"].mean().sort_values(ascending=False)
+top_liquid = liquidity.head(TEST_STOCKS).index.tolist()
+
+print(f"Testing on top {TEST_STOCKS} most liquid stocks")
+print()
+
+# =============================
+# STRATEGY FUNCTIONS
+# =============================
+
+def buy_and_hold(stock_df):
+    """Simple buy at start, hold to end"""
+    if len(stock_df) < 2:
+        return {"return": np.nan, "trades": 0, "win_rate": np.nan}
+    
+    entry = float(stock_df.iloc[0]["open"])
+    exit_price = float(stock_df.iloc[-1]["close"])
+    ret = (exit_price / entry) - 1.0
+    
+    return {
+        "return": ret,
+        "trades": 1,
+        "win_rate": 1.0 if ret > 0 else 0.0,
+        "max_dd": abs(min(0, (stock_df["low"].min() / entry) - 1.0))
+    }
+
+def momentum_chase(stock_df):
+    """Buy if up >5% from 20-day low, sell if down >3% from entry"""
+    if len(stock_df) < 25:
+        return {"return": np.nan, "trades": 0, "win_rate": np.nan}
+    
+    stock_df = stock_df.copy()
+    stock_df["low_20"] = stock_df["low"].rolling(20, min_periods=20).min()
+    
+    capital = 1.0
+    in_trade = False
+    entry_price = None
+    trades = []
+    
+    for i, row in stock_df.iterrows():
+        if pd.isna(row["low_20"]):
+            continue
+            
+        close = float(row["close"])
+        
+        if not in_trade:
+            # Entry: price >5% above 20-day low
+            if close > row["low_20"] * 1.05:
+                entry_price = close
+                in_trade = True
+        else:
+            # Exit: down 3% from entry
+            if close <= entry_price * 0.97:
+                ret = (close / entry_price) - 1.0
+                capital *= (1.0 + ret)
+                trades.append(ret)
+                in_trade = False
+    
+    # Close any open position
+    if in_trade:
+        final = float(stock_df.iloc[-1]["close"])
+        ret = (final / entry_price) - 1.0
+        capital *= (1.0 + ret)
+        trades.append(ret)
+    
+    if not trades:
+        return {"return": np.nan, "trades": 0, "win_rate": np.nan}
+    
+    return {
+        "return": capital - 1.0,
+        "trades": len(trades),
+        "win_rate": sum(1 for t in trades if t > 0) / len(trades),
+        "avg_trade": np.mean(trades)
+    }
+
+def mean_reversion(stock_df):
+    """Buy dips >3%, sell pops >5%, stop at -5%"""
+    if len(stock_df) < 25:
+        return {"return": np.nan, "trades": 0, "win_rate": np.nan}
+    
+    stock_df = stock_df.copy()
+    stock_df["sma_20"] = stock_df["close"].rolling(20, min_periods=20).mean()
+    
+    capital = 1.0
+    in_trade = False
+    entry_price = None
+    trades = []
+    
+    for i, row in stock_df.iterrows():
+        if pd.isna(row["sma_20"]):
+            continue
+            
+        close = float(row["close"])
+        low = float(row["low"])
+        high = float(row["high"])
+        
+        if not in_trade:
+            # Entry: dipped >3% below 20-day SMA
+            if close < row["sma_20"] * 0.97:
+                entry_price = close
+                in_trade = True
+        else:
+            # TP: +5%
+            if high >= entry_price * 1.05:
+                ret = 0.05
+                capital *= 1.05
+                trades.append(ret)
+                in_trade = False
+            # Stop: -5%
+            elif low <= entry_price * 0.95:
+                ret = -0.05
+                capital *= 0.95
+                trades.append(ret)
+                in_trade = False
+    
+    # Close any open position
+    if in_trade:
+        final = float(stock_df.iloc[-1]["close"])
+        ret = (final / entry_price) - 1.0
+        capital *= (1.0 + ret)
+        trades.append(ret)
+    
+    if not trades:
+        return {"return": np.nan, "trades": 0, "win_rate": np.nan}
+    
+    return {
+        "return": capital - 1.0,
+        "trades": len(trades),
+        "win_rate": sum(1 for t in trades if t > 0) / len(trades),
+        "avg_trade": np.mean(trades)
+    }
+
+def volatility_harvest(stock_df):
+    """Tight cycles: +3% TP, -2% stop, rapid recycling"""
+    if len(stock_df) < 10:
+        return {"return": np.nan, "trades": 0, "win_rate": np.nan}
+    
+    capital = 1.0
+    in_trade = False
+    entry_price = None
+    trades = []
+    
+    for i, row in stock_df.iterrows():
+        open_price = float(row["open"])
+        high = float(row["high"])
+        low = float(row["low"])
+        close = float(row["close"])
+        
+        if not in_trade:
+            # Always enter at open
+            entry_price = open_price
+            in_trade = True
+        
+        if in_trade:
+            tp_price = entry_price * 1.03
+            stop_price = entry_price * 0.98
+            
+            # Check TP first
+            if high >= tp_price:
+                ret = 0.03
+                capital *= 1.03
+                trades.append(ret)
+                in_trade = False
+            # Check stop
+            elif low <= stop_price:
+                ret = -0.02
+                capital *= 0.98
+                trades.append(ret)
+                in_trade = False
+    
+    # Close any open position
+    if in_trade:
+        final = float(stock_df.iloc[-1]["close"])
+        ret = (final / entry_price) - 1.0
+        capital *= (1.0 + ret)
+        trades.append(ret)
+    
+    if not trades:
+        return {"return": np.nan, "trades": 0, "win_rate": np.nan}
+    
+    return {
+        "return": capital - 1.0,
+        "trades": len(trades),
+        "win_rate": sum(1 for t in trades if t > 0) / len(trades),
+        "avg_trade": np.mean(trades)
+    }
+
+def trend_follow(stock_df):
+    """Buy when 10-day MA crosses above 30-day MA, sell on reverse"""
+    if len(stock_df) < 35:
+        return {"return": np.nan, "trades": 0, "win_rate": np.nan}
+    
+    stock_df = stock_df.copy()
+    stock_df["sma_10"] = stock_df["close"].rolling(10, min_periods=10).mean()
+    stock_df["sma_30"] = stock_df["close"].rolling(30, min_periods=30).mean()
+    
+    capital = 1.0
+    in_trade = False
+    entry_price = None
+    trades = []
+    
+    for i in range(1, len(stock_df)):
+        prev_row = stock_df.iloc[i-1]
+        row = stock_df.iloc[i]
+        
+        if pd.isna(row["sma_10"]) or pd.isna(row["sma_30"]):
+            continue
+        
+        close = float(row["close"])
+        
+        # Golden cross
+        if not in_trade:
+            if prev_row["sma_10"] <= prev_row["sma_30"] and row["sma_10"] > row["sma_30"]:
+                entry_price = close
+                in_trade = True
+        
+        # Death cross
+        else:
+            if prev_row["sma_10"] >= prev_row["sma_30"] and row["sma_10"] < row["sma_30"]:
+                ret = (close / entry_price) - 1.0
+                capital *= (1.0 + ret)
+                trades.append(ret)
+                in_trade = False
+    
+    # Close any open position
+    if in_trade:
+        final = float(stock_df.iloc[-1]["close"])
+        ret = (final / entry_price) - 1.0
+        capital *= (1.0 + ret)
+        trades.append(ret)
+    
+    if not trades:
+        return {"return": np.nan, "trades": 0, "win_rate": np.nan}
+    
+    return {
+        "return": capital - 1.0,
+        "trades": len(trades),
+        "win_rate": sum(1 for t in trades if t > 0) / len(trades),
+        "avg_trade": np.mean(trades)
+    }
+
+# =============================
+# RUN ALL STRATEGIES ON ALL STOCKS
+# =============================
+
+strategies = {
+    "Buy_Hold": buy_and_hold,
+    "Momentum": momentum_chase,
+    "Mean_Reversion": mean_reversion,
+    "Vol_Harvest": volatility_harvest,
+    "Trend_Follow": trend_follow
+}
+
+results = []
+
+for ticker in top_liquid:
+    stock_df = df[df["ticker"] == ticker].copy()
+    
+    if len(stock_df) < MIN_BARS:
+        continue
+    
+    row_data = {"ticker": ticker}
+    
+    for strat_name, strat_func in strategies.items():
+        result = strat_func(stock_df)
+        row_data[f"{strat_name}_return"] = result.get("return", np.nan)
+        row_data[f"{strat_name}_trades"] = result.get("trades", 0)
+        row_data[f"{strat_name}_winrate"] = result.get("win_rate", np.nan)
+    
+    results.append(row_data)
+    
+    if len(results) % 10 == 0:
+        print(f"Processed {len(results)}/{len(top_liquid)} stocks...")
+
+results_df = pd.DataFrame(results)
+
+# =============================
+# AGGREGATE STATISTICS
+# =============================
+
+print()
+print("=" * 80)
+print("STRATEGY PERFORMANCE SUMMARY - 2025")
+print("=" * 80)
+print()
+
+summary = []
+
+for strat in ["Buy_Hold", "Momentum", "Mean_Reversion", "Vol_Harvest", "Trend_Follow"]:
+    ret_col = f"{strat}_return"
+    wr_col = f"{strat}_winrate"
+    trades_col = f"{strat}_trades"
+    
+    valid = results_df[ret_col].dropna()
+    
+    if len(valid) == 0:
+        continue
+    
+    median_return = valid.median()
+    mean_return = valid.mean()
+    win_rate = results_df[wr_col].mean()
+    avg_trades = results_df[trades_col].mean()
+    pct_profitable = (valid > 0).sum() / len(valid)
+    
+    summary.append({
+        "Strategy": strat,
+        "Median_Return": median_return,
+        "Mean_Return": mean_return,
+        "Stocks_Tested": len(valid),
+        "Pct_Profitable": pct_profitable,
+        "Avg_Win_Rate": win_rate,
+        "Avg_Trades": avg_trades
+    })
+
+summary_df = pd.DataFrame(summary).sort_values("Median_Return", ascending=False)
+
+print(summary_df.to_string(index=False))
+print()
+
+# =============================
+# TOP PERFORMERS PER STRATEGY
+# =============================
+
+print("=" * 80)
+print("TOP 5 STOCKS PER STRATEGY")
+print("=" * 80)
+print()
+
+for strat in ["Buy_Hold", "Vol_Harvest", "Mean_Reversion"]:
+    ret_col = f"{strat}_return"
+    top5 = results_df.nlargest(5, ret_col)[["ticker", ret_col]]
+    
+    print(f"\n{strat}:")
+    print(top5.to_string(index=False))
+
+# =============================
+# SAVE RESULTS
+# =============================
+
+output_path = "/content/drive/MyDrive/SP500_REGIME_DIAGNOSTIC_2025.csv"
+results_df.to_csv(output_path, index=False)
+
+print()
+print("=" * 80)
+print(f"Full results saved to: {output_path}")
+print("=" * 80)

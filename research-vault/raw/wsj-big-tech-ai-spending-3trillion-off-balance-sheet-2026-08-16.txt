@@ -1,0 +1,102 @@
+Why Big Tech’s AI Spending Is $3 Trillion
+Higher Than It Seems
+Massive spending commitments for data-center leases and chips
+aren’t shown on companies’ balance sheets
+But those figures don’t come close to expressing the full extent of future spending to which Google
+parent Alphabet, Meta Platforms, Oracle and many others have committed. That is because a huge swath
+of their coming financial obligations aren’t reflected on their balance sheets.
+Nine top tech companies had some $3 trillion of off-balance-sheet commitments mostly related to AI,
+according to a Wall Street Journal analysis of footnotes in their most recent securities filings. Those
+obligations are growing faster than traditional “capex,” which totaled about $600 billion over the past
+year they reported, and were about triple what the companies owe under their outstanding leases and
+long-term borrowings.
+https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is- …eems-e1067bb2?st=cBVPLK&reflink=article_copyURL_share 8/16/26, 8:56 PM
+Page 1 of 7
+Percentage change from a year earlier
+Off-balance-sheet obligations
+Capital expenditures
+Note: Changes in off-balance-sheet obligations are based on
+the combined totals of leases not started and purchase
+commitments. Capex growth is based on trailing 12-month
+expenditures. All data are as of June except Nvidia, which are
+as of April, and Meta, which are as of July.
+Source: WSJ analysis of company filings
+America’s blue-chip tech companies are placing these huge bets based on assumptions about what the
+demand for AI computing—and availability of AI hardware—will be in several years. Their hope is that
+they will easily meet all their obligations with future revenue as consumers and businesses adopt AI in
+every facet of American life.
+If those assumptions about technology and demand prove wrong, these deals to clinch future capacity
+could become a monstrous burden for the tech companies and their investors.
+https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is- …eems-e1067bb2?st=cBVPLK&reflink=article_copyURL_share 8/16/26, 8:56 PM
+Page 2 of 7
+Meta’s gigantic “Hyperion” data-center project in Louisiana, which is the size of about 1,700 football
+fields, helps explain how big obligations wind up off tech companies’ balance sheets.
+Though Meta is the builder, neither Hyperion nor the $27 billion in debt that’s financing its construction
+shows up on Meta’s balance sheet. Funds managed by the Wall Street firm Blue Owl Capital own the
+majority of a joint venture that, in turn, owns the campus.
+Beignet Investor, a holding company that owns the Blue Owl stake, raised the construction financing in a
+bond sale.
+Meanwhile, Meta is Hyperion’s minority partner and tenant. Its lease payments will provide the cash
+flows to help make the payments to bondholders.
+Meta initially agreed to lease Hyperion for a four-year term starting in 2029, with options to renew for up
+to 20 years. It guaranteed that it would make bondholders whole if it doesn’t stay the entire two decades.
+The company doesn’t think payments under that guarantee are probable, so it hasn’t recorded any
+liability on its balance sheet.
+In accordance with accounting rules, Meta’s Hyperion lease obligations will remain off balance sheet
+until it starts paying rent. It said its aggregate initial lease commitment is about $12.3 billion. Meta
+disclosed $347 billion in total obligations for leases that haven’t kicked in yet, including for Hyperion, as
+of June.
+Across the companies the Journal analyzed, promises of payments under these uncommenced leases
+totaled $1.2 trillion in off-balance–sheet obligations, or about four times more than what was disclosed a
+year earlier. In addition to Meta, the Journal reviewed commitments for Alphabet, Amazon.com,
+Microsoft, Oracle, Nvidia, Broadcom, SpaceX and Advanced Micro Devices.
+Data centers get stuffed with a lot of hardware, including the Nvidia chips that are used to train and run
+models and memory chips that store information. To buy all that, companies sign long-term contractual
+agreements well in advance to lock in production from their suppliers.
+Those and other purchase obligations at the companies the Journal examined stand at a whopping $1.9
+trillion. Under accounting rules, purchase commitments typically remain off balance sheet until a product
+or service is delivered.
+https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is- …eems-e1067bb2?st=cBVPLK&reflink=article_copyURL_share 8/16/26, 8:56 PM
+Page 3 of 7
+Off-balance-sheet obligations
+https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is- …eems-e1067bb2?st=cBVPLK&reflink=article_copyURL_share 8/16/26, 8:56 PM
+Page 4 of 7
+Purchase commitments
+Leases not started
+Note: Data are as of June, except Meta, which are as of July,
+and Nvidia, which are as of April.
+Source: WSJ analysis of company filings
+Alphabet’s purchase commitments and contractual obligations have exploded and stood at $811 billion as
+of June 30. As with other companies, it is hard to tell from its disclosures what precisely it intends to buy.
+The company said the commitments primarily relate to “technical infrastructure and inventory” and
+“agreements to secure energy for data center usage.”
+Alphabet also didn’t detail why those obligations increased so much from the $332 billion it reported
+three months earlier. The commitments span several years, with obligations under its energy agreements
+lasting as far out as 2054.
+Off-balance-sheet exposures at some companies include agreements to buy other companies’ stock in the
+future or backstop leases for other tenants. Nvidia committed to make $27 billion in equity investments
+between April 26 and the end of its fiscal year in January 2027.
+There are reasons to believe tech companies will make good on all their obligations. Optimists see the
+skyrocketing demand for AI tools—which has lifted the stock market and led to shortages of key
+hardware—as a proof point that demand is going to be strong for years, and the money to pay off all
+these bills will be rolling in.
+For the more anxious set on Wall Street, it is a worrying sign that some tech companies that once seemed
+to have fortress balance sheets have needed to tap the capital markets frequently.
+Alphabet and Amazon recently posted results showing negative free cash flow, meaning their capital
+spending exceeded the cash they brought in from operating their businesses.
+https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is- …eems-e1067bb2?st=cBVPLK&reflink=article_copyURL_share 8/16/26, 8:56 PM
+Page 5 of 7
+Free cash flow for three big players in the AI race
+And that is before considering the implications of trillions in off-balance–sheet commitments. Whether
+or not the revenues ever arrive, purchase commitments and signed leases can’t be canceled, for the most
+part.
+If things go wrong, tech companies will be paying an expensive tab for infrastructure that they can’t
+profitably use. These obligations could also lead increasingly indebted companies to have to borrow even
+https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is- …eems-e1067bb2?st=cBVPLK&reflink=article_copyURL_share 8/16/26, 8:56 PM
+Page 6 of 7
+more.
+“As these off-balance sheet commitments become more frequent, larger, and more complex, it is
+becoming increasingly difficult for investors to assess companies’ total potential leverage,” Morgan
+Stanley accounting analysts wrote in April.
+https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is- …eems-e1067bb2?st=cBVPLK&reflink=article_copyURL_share 8/16/26, 8:56 PM
+Page 7 of 7

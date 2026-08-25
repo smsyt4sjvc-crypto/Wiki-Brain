@@ -1,0 +1,140 @@
+HORMUZ, FED, AI CREDIT & MARKET DATA HANDOFF
+Scanner run: 2026-08-02 20:17 UTC
+Compiled 2026-08-02
+PART A - SOURCED WEB-RETRIEVAL DIGEST
+Q1: VERIFIED - REPORTED CASE-BY-CASE FEE; NO PUBLISHED PERMANENT TARIFF
+~$2 million per vessel - one tanker reportedly paid an IRGC-controlled transit charge; payment terms were negotiated case by case, not set per ton, Lloyd’s List, 2026-03-18.
+60 days at $0 transit fee - the reported mediated arrangement provided free Iran-approved insurance/no-charge passage during the initial period while reserving Iran’s right to impose later fees; it did not establish a permanent published rate, Lloyd’s List, 2026-06-19.
+LMA5708 does not automatically govern every Lloyd’s policy - when incorporated, payment of a prohibited transit fee can discharge the insurer from affected-vessel cover; lawful navigational-service charges are carved out, LMA, 2026-07-23.
+Sources: https://www.lloydslist.com/LL1156656/Iran-establishes-safe-shipping-corridor-for-approved-and-paid-for-transits ; https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow ; https://lmalloyds.com/strait-of-hormuz-transit-fee-condition/
+Q2: UNVERIFIED
+More than 10% of hull value for some owner/vessel profiles and more than $10 million for one VLCC transit - latest reported quotes, not a universal market rate, Lloyd’s List, 2026-07-27.
+3% of hull value versus 2% one week earlier - Reuters market soundings on 2026-07-08; an anonymous source said cover remained available, potentially at 5% minimum, while unnamed underwriters advised pausing some voyages.
+Exact 2026-05-02 premium, named underwriters currently refusing all Hormuz cover, and repricing after Trump’s 2026-08-01 statement - UNVERIFIED. Gard, Skuld, NorthStandard, London P&I and American Club canceled prior terms effective 2026-03-05, but that was cancellation/repricing, not verified permanent refusal.
+Sources: https://www.lloydslist.com/sectors/insurance ; https://www.insurancejournal.com/news/international/2026/07/08/876716.htm
+Q3: UNVERIFIED
+Exact daily transit counts for 2026-07-27 through 2026-08-02 - UNVERIFIED; the public Lloyd’s tracker did not expose a downloadable seven-day series.
+Lloyd’s methodology counts vessels above 10,000 deadweight tonnes, not all vessels; dark transits have been included since 2026-02-28, Lloyd’s List Intelligence, accessed 2026-08-02.
+89 non-Iran-affiliated cargo vessels during 2026-07-06 through 2026-07-12 versus 158 during the preceding seven days and 218 during 2026-06-22 through 2026-06-28 - last complete comparable Lloyd’s weekly series located.
+Pre-crisis baseline on the same methodology and sanctioned/dark-fleet share for the latest seven days - UNVERIFIED.
+Sources: https://lmiu.lloydslist.com/strait-of-hormuz-transit-monitor.html ; https://www.lloydslist.com/hot-topics/strait-of-hormuz-crisis/spotlight-data
+Q4: UNVERIFIED
+Exact CME FedWatch or OIS probability for precisely a 25-basis-point September 2026 hike - UNVERIFIED; the accessible CME-derived series showed a 67.00% probability of any hike on 2026-08-01, which is not equivalent to the 25-basis-point bucket.
+2026 regional-bank voters - John Williams, New York; Anna Paulson, Philadelphia; Beth Hammack, Cleveland; Lorie Logan, Dallas; and Neel Kashkari, Minneapolis, Federal Reserve, 2026-01-28.
+Sources: https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html ; https://en.macromicro.me/series/484/probability-fed-rate ; https://www.federalreserve.gov/monetarypolicy/fomcminutes20260128.htm
+Q5: UNVERIFIED
+2026-08-14 through 2026-09-13 reserve-management purchase amount - not published on the New York Fed operational-details page as of 2026-08-02; the page also listed no next-publication date.
+$10.0 billion of reserve-management purchases plus $17.6 billion of reinvestment purchases - published program for 2026-07-14 through 2026-08-13, New York Fed, accessed 2026-08-02.
+Sources: https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details
+Q6: VERIFIED - LETTER, NOT BILL OR ENACTED APPLE ENFORCEMENT
+LETTER sent to Apple CEO Tim Cook on 2026-07-30, with a requested response by 2026-08-21 - Senate Foreign Relations Committee action; it is not a bill and creates no new enacted enforcement authority.
+CXMT LPDDR6 mass production - UNVERIFIED; secondary reports describe validation/sampling and a planned second-half 2026 production target, not measured mass production, 2026-08.
+Sources: https://www.foreign.senate.gov/press/dem/release/shaheen-banks-schumer-colleagues-demand-apple-reject-chinese-military-linked-chips ; https://the-ctr.net/cxmt-lpddr6-sampling-h2-2026 ; https://www.technetbooks.com/2026/08/cxmt-nears-final-validation-for-next.html
+Q7: VERIFIED - SPOT
+33 US LNG cargoes purchased on the spot market during calendar 2026 - 28 delivered and 5 en route as of 2026-07-30, Reuters citing four trade/industry sources.
+Contract tenor - not applicable because the reported transactions were SPOT, not TERM.
+Syndicated reports, one origin - Reuters, 2026-07-30.
+Sources: https://energynow.com/2026/07/qatarenergy-buys-33-us-lng-cargoes-to-offset-hormuz-disruption/
+Q8: VERIFIED
++29.95% close-to-close - SK hynix closed at KRW1,718,000 on 2026-07-31 versus KRW1,322,000 on 2026-07-30; +23% is not verified on the official prior-close baseline.
+±30% versus the previous session’s closing price - KRX daily price limit applicable on 2026-07-31.
+Q2 2026 revenue KRW79.3187 trillion versus KRW84.0 trillion consensus, a KRW4.6813 trillion or 5.57% miss; operating profit KRW60.5426 trillion versus KRW64.0 trillion consensus, a KRW3.4574 trillion or 5.40% miss, SK hynix/MarketWatch, 2026-07-29.
+40,000 Micron shares for approximately $37.3 million - CEO Sanjay Mehrotra’s two Form 4 filings on 2026-07-31; transactions were under a Rule 10b5-1 plan adopted 2026-01-30.
+Sources: https://finance.yahoo.com/quote/000660.KS/history/ ; https://global.krx.co.kr/contents/GLB/06/0602/0602010201/GLB0602010201T5.jsp ; https://news.skhynix.com/en/q2-2026-business-results/ ; https://www.sec.gov/Archives/edgar/data/723125/000124265426000014/xslF345X06/primarydocument.xml
+Q9: PARTIALLY VERIFIED
+Loading was suspended after the 2026-07-30 tanker attacks while the CPC pipeline itself continued operating; the marine terminal was reported back in service by 2026-07-31.
+Approximately 100,000 metric tonnes per day of crude acceptance resumed on 2026-08-01, with further increases dependent on tanker arrivals, Kazakhstan’s official account reported by The Astana Times, 2026-08-01.
+Force majeure following the 2026-07-30 attack - UNVERIFIED.
+August 2026 loading-program volume versus a same-basis normal monthly run-rate - UNVERIFIED.
+Sources: https://maritime-executive.com/article/oil-loading-again-suspended-from-caspian-pipeline-after-tankers-are-struck ; https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-31-2026/card/chevron-ceo-says-key-black-sea-marine-terminal-back-in-service-FEvtrQBqbWQuQEvdpOmt ; https://astanatimes.com/2026/08/kazakhstan-rejects-reports-of-complete-cpc-shutdown/
+Q10: VERIFIED - SUBSET/INCLUDED, NOT ADDITIVE
+$329.1 billion total at 2026-06-30 includes the quarter’s approximately $130 billion increase; it is not $329.1 billion plus another $130 billion. Microsoft reported $196.6 billion at 2026-03-31, making the quarter-over-quarter increase $132.5 billion.
+Filing language: “additional leases, primarily for datacenters, that had not yet commenced of $329.1 billion,” Microsoft 10-K, 2026-06-30.
+Sources: https://microsoft.gcs-web.com/static-files/8a9beeed-0e9e-48e6-b4fb-593d558e2693 ; https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm ; https://finance.yahoo.com/technology/ai/articles/microsoft-reports-over-130-billion-205443149.html
+Q11: UNVERIFIED
+An actual dealer or bank writedown disclosed in earnings or an 8-K on AI, neocloud or datacenter credit exposure - UNVERIFIED as of 2026-08-02.
+Discounted secondary-market loans, wider credit spreads and equity declines were excluded because they are market repricing, not disclosed booked losses.
+Sources: https://www.sec.gov/edgar/search/
+Q12: UNVERIFIED - NO EXPLICIT FID DOCUMENTATION LOCATED
+UAE/ADNOC parallel ADCOP expansion - EXECUTED/under construction and reported 50% complete in 2026-07; reported cost approximately $3 billion, total capacity above 3.0 million barrels per day versus 1.8 million barrels per day existing capacity, and expected completion around mid-2027. Explicit FID documentation and throughput-contract tenor - UNVERIFIED.
+Saudi East-West expansion - PLANNED/under consideration at 1.0-2.0 million barrels per day of added capacity with earliest reported operation in 2028; cost, FID and throughput-contract tenor - UNVERIFIED.
+Iraq-Syria Mediterranean pipeline - cooperation agreement/rehabilitation proposal, not verified FID; capacity, cost, completion date and throughput-contract tenor - UNVERIFIED.
+Sources: https://www.kpler.com/blog/new-pipelines-bypassing-the-strait-of-hormuz-could-come-online-in-1-2-years ; https://gulfbusiness.com/en/2026/energy/uae-hormuz-bypass-pipeline-adnoc-50-per-cent-complete-2027-fujairah/ ; https://pgjonline.com/news/2026/july/saudi-arabia-weighs-2-mmbpd-expansion-of-east-west-oil-pipeline ; https://www.middleeasteye.net/news/iraq-and-syria-sign-deal-rehabilitate-mediterranean-pipeline-bypass-strait-hormuz
+PART B - NUMERIC PULLS
+1. SPY option chain
+2. FRED Treasury yields
+Sources: https://fred.stlouisfed.org/data/DGS2.txt
+FRED money supply
+Calculation: three-month annualized = (current / value three months earlier)^4 - 1. Sources: https://fred.stlouisfed.org/data/M2SL.txt
+3. SMH / SOXX
+4. Samsung / SK hynix - 15 sessions
+--- TABLE ---
+Contents
+Part A: sourced web-retrieval digest, Q1-Q12
+Part B: numeric pulls and availability tables
+--- TABLE ---
+Pull | Status
+Expiry approximately 30 days | UNAVAILABLE - live option-chain endpoint inaccessible from the code runtime
+Expiry approximately 60 days | UNAVAILABLE - live option-chain endpoint inaccessible from the code runtime
+Expiry approximately 90 days | UNAVAILABLE - live option-chain endpoint inaccessible from the code runtime
+2026-12-18 SPY 745 put mid, IV, delta, theta | UNAVAILABLE - accessible fallback showed a $26.16 last trade on 2026-07-30 and 5,098 contracts of open interest, but no reliable current bid/ask, IV, delta or theta
+--- TABLE ---
+Date | DGS2, % | DGS10, % | DGS30, %
+2026-06-17 | 4.20 | 4.49 | 4.93
+2026-06-18 | 4.19 | 4.46 | 4.90
+2026-06-22 | 4.24 | 4.51 | 4.95
+2026-06-23 | 4.16 | 4.50 | 4.94
+2026-06-24 | 4.11 | 4.41 | 4.86
+2026-06-25 | 4.09 | 4.40 | 4.86
+2026-06-26 | 4.07 | 4.38 | 4.87
+2026-06-29 | 4.10 | 4.38 | 4.86
+2026-06-30 | 4.14 | 4.44 | 4.91
+2026-07-01 | 4.17 | 4.48 | 4.97
+2026-07-02 | 4.14 | 4.49 | 4.98
+2026-07-06 | 4.13 | 4.48 | 4.99
+2026-07-07 | 4.19 | 4.55 | 5.05
+2026-07-08 | 4.21 | 4.56 | 5.06
+2026-07-09 | 4.16 | 4.54 | 5.05
+2026-07-10 | 4.21 | 4.56 | 5.06
+2026-07-13 | 4.26 | 4.62 | 5.10
+2026-07-14 | 4.18 | 4.58 | 5.08
+2026-07-15 | 4.13 | 4.55 | 5.08
+2026-07-16 | 4.16 | 4.57 | 5.09
+2026-07-17 | 4.18 | 4.55 | 5.06
+2026-07-20 | 4.21 | 4.60 | 5.11
+2026-07-21 | 4.26 | 4.63 | 5.13
+2026-07-22 | 4.31 | 4.67 | 5.15
+2026-07-23 | 4.37 | 4.71 | 5.17
+2026-07-24 | 4.33 | 4.69 | 5.16
+2026-07-27 | 4.31 | 4.65 | 5.12
+2026-07-28 | 4.26 | 4.61 | 5.09
+2026-07-29 | 4.22 | 4.67 | 5.20
+2026-07-30 | 4.23 | 4.68 | 5.21
+--- TABLE ---
+Month | M2SL, $bn | YoY, % | 3m ann., % | M2REAL, bn 1982-84 $ | YoY, % | 3m ann., %
+2025-01 | 21,539.2 | 3.38 | - | 6,752.9 | 0.37 | -
+2025-02 | 21,607.2 | 3.28 | - | 6,759.0 | 0.46 | -
+2025-03 | 21,684.1 | 3.43 | 3.71 | 6,780.8 | 1.02 | 0.91
+2025-04 | 21,770.9 | 3.89 | 4.37 | 6,797.0 | 1.53 | 2.64
+2025-05 | 21,836.2 | 3.87 | 4.31 | 6,810.6 | 1.46 | 3.09
+2025-06 | 21,942.7 | 4.14 | 4.86 | 6,826.5 | 1.42 | 2.72
+2025-07 | 22,025.5 | 4.39 | 4.76 | 6,836.6 | 1.61 | 2.35
+2025-08 | 22,092.5 | 4.25 | 4.78 | 6,833.6 | 1.27 | 1.36
+2025-09 | 22,176.1 | 4.23 | 4.32 | 6,839.3 | 1.17 | 0.75
+2025-10 | 22,249.8 | 4.28 | 4.14 | NA | NA | NA
+2025-11 | 22,279.8 | 3.85 | 3.43 | 6,854.0 | 1.12 | 1.20
+2025-12 | 22,355.3 | 4.04 | 3.27 | 6,856.8 | 1.35 | 1.03
+2026-01 | 22,420.1 | 4.09 | 3.10 | 6,864.9 | 1.66 | NA
+2026-02 | 22,620.3 | 4.69 | 6.25 | 6,907.8 | 2.20 | 3.18
+2026-03 | 22,676.1 | 4.57 | 5.86 | 6,865.4 | 1.25 | 0.50
+2026-04 | 22,799.9 | 4.73 | 6.95 | 6,859.0 | 0.91 | -0.34
+2026-05 | 23,055.6 | 5.58 | 7.92 | 6,903.3 | 1.36 | -0.26
+2026-06 | 23,155.2 | 5.53 | 8.72 | 6,962.5 | 1.99 | 5.78
+--- TABLE ---
+Ticker | Last close | 50dma | % vs 50dma | 100dma | % vs 100dma | RV 10d | RV 21d | RV 63d
+SMH | UNAVAILABLE | UNAVAILABLE | UNAVAILABLE | UNAVAILABLE | UNAVAILABLE | UNAVAILABLE | UNAVAILABLE | UNAVAILABLE
+SOXX | UNAVAILABLE | UNAVAILABLE | UNAVAILABLE | UNAVAILABLE | UNAVAILABLE | UNAVAILABLE | UNAVAILABLE | UNAVAILABLE
+--- TABLE ---
+Ticker | Requested series | Status
+005930.KS | Last 15 daily closes and percentage changes | UNAVAILABLE - yfinance endpoint inaccessible from the code runtime
+000660.KS | Last 15 daily closes and percentage changes | UNAVAILABLE - yfinance endpoint inaccessible from the code runtime

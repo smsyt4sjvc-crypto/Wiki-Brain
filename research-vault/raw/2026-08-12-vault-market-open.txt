@@ -1,0 +1,114 @@
+VAULT MARKET OPEN
+Wednesday, August 12, 2026  |  Regenerated morning brief
+Tape read
+Risk tone: Modestly positive at the open. S&amp;P 500 futures were about +0.23% before the bell, while the 10-year Treasury yield was near 4.67%. CoreWeave was the standout premarket mover after earnings, up roughly 18.5%.
+Primary macro hinge: July CPI was the dominant scheduled catalyst. Equities were leaning higher while yields eased before the release; gold strengthened and oil remained sensitive to the U.S.-Iran/Hormuz backdrop.
+Market snapshot
+Asset
+Level / Close
+Move
+Read
+S&amp;P 500
+7,728.20
+-0.32% Tue
+Futures +0.23% premarket
+Nasdaq Composite
+26,445.45
+-0.60% Tue
+Tech still bid premarket
+Russell 2000
+3,027.12
++0.32% Tue
+Small caps outperformed
+VIX
+15.29
+-1.10% Tue
+Calm zone (&lt;18)
+US 10Y
+4.667%
+lower premarket
+Below 5.00% corner
+Brent
+88.91/bbl
++0.04% premarket
+Near, but below $90 marker
+WTI
+83.41/bbl
++1.56% Tue
+Fourth straight gain reported
+Gold
+~4,475/oz
++0.65% premarket
+Two-month high area
+Vault level watch
+Marker
+Current reference
+Status
+SPX CTA marker 7,446
+Prior close 7,728
+Above by ~282 points; no short-term CTA sell trigger.
+VIX 18 / 28 zones
+15.29
+Below DECIDE zone; volatility remains calm.
+Brent $90 marker
+88.91 prior close
+Close to marker but still below it.
+US 10Y 5.00% corner
+4.667% premarket
+Below the corner; rates remain a constraint but not at the vault threshold.
+Names in motion
+CoreWeave (CRWV): approximately +18.5% premarket after stronger-than-expected Q2 revenue and a smaller-than-forecast loss.
+Nebius (NBIS): among the stronger premarket gainers, reported by Barron's as up at least 8%.
+Semis / AI complex: premarket risk tone was positive, but the morning remains highly CPI- and rate-sensitive.
+Open-flag follow-up
+No high-confidence primary-source item located in the regenerated morning search conclusively closed the current F1-F10 registry. Treat all ten as open pending a direct resolver.
+Flag
+Thread
+Resolver needed
+Status
+F1
+MSFT lease stock vs flow
+$130B new leases subset of or additive to $329.1B uncommenced total
+STILL OPEN
+F2
+AI financing terms
+Spread, tenor and take-up on Goldman / Blue Owl data-center financings
+STILL OPEN
+F3
+CXMT wall
+Senate action: letter vs bill / enforceable mechanism; Apple commitment
+STILL OPEN
+F4
+CPC / Kazakhstan
+Post-7/30 loading status, force majeure, August program
+STILL OPEN
+F5
+QatarEnergy LNG
+Whether 33 U.S. cargoes are spot or term
+STILL OPEN
+F6
+Fed dissent
+Exact dissent count and 1970 comparison set
+STILL OPEN
+F7
+Ofgem queue fee
+Fee level and whether refundable at commencement
+STILL OPEN
+F8
+Neocloud casualty
+Named default/covenant/going-concern casualty
+STILL OPEN
+F9
+Memory details
+SK hynix Q2 miss magnitude; Mehrotra sale size and 10b5-1 status
+STILL OPEN
+F10
+Zhongji InnoLight
+Break size/terms and evidence of other AI supply-chain deals being pulled
+STILL OPEN
+Sources
+Barron's, Aug. 12, 2026: S&amp;P 500 futures +0.23%; CRWV +18.5%; NBIS among premarket gainers; 10Y ~4.667%; Brent +0.04%; gold +0.65%.
+MarketWatch, Aug. 12, 2026: S&amp;P 500 near a record and Nasdaq higher after CPI; Treasury yields pared declines; oil slipped intraday.
+AP, Aug. 11, 2026 close recap: S&amp;P 500 7,728.20 (-0.3%), Dow 53,791.85 (-0.3%), Nasdaq 26,445.45 (-0.6%), Russell 2000 3,027.12 (+0.3%); Brent 88.91.
+Investopedia, Aug. 12, 2026: Premarket futures higher; CoreWeave earnings reaction; gold around $4,475 and 10Y around 4.67%.
+Vault brief - market-open regeneration

@@ -1,0 +1,37 @@
+Another AI Reacharound? Marvell Shares Rip On Chips-For-Warrants Deal With Google
+The circular financing circus rolls on...
+Marvell shares are soaring this morning after fabless chip designer 
+announced an expanded chip-development partnership with Google
+ that includes
+ a warrant from Marvell allowing the search giant to buy
+as much as $12.2 billion in shares.
+The two firms will collaborate on custom AI chips
+.
+"The expanded partnership spans a comprehensive range of custom silicon programs that attach to the 
+TPU ecosystem, including AI inference accelerators, storage controllers, network interface
+controllers, memory interface controllers, and near-memory compute
+," Marvell said in the filing.
+And what does Marvell get for supplying all that?
+An 'investment'... of sorts...
+Google may purchase as many as 58,970,907 Marvell shares at a price of $206.58 apiece,
+ Marvell said Wednesday in a regulatory filing.
+Nearly 1.4 million of the shares vest in equal quarterly installments during the first year following the execution of the warrant, according to the filing.
+The remaining shares vest based on Òdiscretionary purchasesÓ from MarvellÕs third quarter of fiscal 2027 through the end of its fiscal 2033, with one tranche vesting for each $500 million in revenue stemming from
+the products the companies have developed together.
+Investors are reacting positively to the strategic validation of MarvellÕs custom ASIC and data center platform with MRVL up over 12% in the pre-market...
+While the warrant introduces long-term potential share dilution, retail and institutional investors are prioritizing the revenue visibility created by deep integration into GoogleÕs hyperscale AI infrastructure.
+The agreement reinforces Marvell role as a key custom silicon partner for hyperscalers and the spin is that 
+tying GoogleÕs equity vesting directly to incremental $500 million revenue milestones aligns both
+companies toward massive long-term commercial scale 
+(provides strong multi-year revenue visibility through fiscal 2033, offsetting near-term dilution concerns with guaranteed ecosystem demand.)
+While this is true, the reality is, of course, that this is an off balance sheet (no liquidity required) way to lock in chip supply (a giant buy now pay later scheme).
+Shares of Broadcom (AVGO)
+, which is known for being a major partner on Google's TPU efforts,
+ are down 3% in the pre-market.
+https://www.zerohedge.com/technology/another-ai-reacharound-marvell-shares-rip-chips-warrants-deal-google
+8/19/26, 6
+!
+54
+"
+AM
+Page 1 of 1

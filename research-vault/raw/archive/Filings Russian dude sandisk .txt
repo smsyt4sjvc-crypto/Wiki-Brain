@@ -1,0 +1,45 @@
+Obtaining Strike‐Price and Expiration Details for 13F Option Positions
+Why 13F Filings Don’t Show Strike and Expiry
+	•	13F reports are snapshots of long positions:  The SEC’s 13F form requires managers to report only U.S.-listed equity, ETF and option positions they hold long at quarter‑end.  Short positions and most derivatives are excluded .
+	•	Options are reported without critical details:  13F filers must disclose the underlying security and the market value (notional value) of each option position and whether it is a put or call.  However, the strike price, expiration date and any spread relationships are omitted .  The SEC‑api dataset notes explicitly that option contract details—strike price, expiration and contract terms—are not reported in Form 13F .  A research note on Situational Awareness LP similarly explains that the information table lists the underlying security and the dollar value but omits strike, expiration and premium, making it impossible to reconstruct the actual option position .  An analysis by Tyler Cosgrove also points out that 13F option values are based on notional amounts, and the premium, strike and expiration remain unknown .  Consequently, the only thing the public learns from a 13F is the option’s direction and the size of the underlying exposure.
+	•	No hidden fields in the XML:  The public XML schema for Form 13F includes fields for CUSIP, share count and voting authority but there are no fields for strike or expiry, so parsing the raw EDGAR filing cannot reveal additional detail .
+Option 1 – Raw EDGAR Filings
+	1.	Locate the filing:  The manager’s 13F filings (e.g., 000204572426000008 for Situational Awareness LP’s Q1 2026 report) can be downloaded from SEC EDGAR in XML or text format.
+	2.	Parse the information table:  The table lists the underlying securities and the number of shares or share equivalents.  For options, the column usually shows the number of shares underlying the contracts and labels the position as a PUT or CALL .
+	3.	Limitation:  There is no field for strike or expiration.  Even manual review of the raw filing will not reveal these details .  Therefore, one cannot determine whether a put is in‑the‑money or out‑of‑the‑money or when it expires.
+Option 2 – Institutional Data Providers
+	•	WhaleWisdom:  WhaleWisdom aggregates 13F filings and offers tools like an options screener, but its FAQ makes clear that the designations “PUT” and “CALL” are simply to segregate holdings by class ; it does not provide strike or expiry information.  Users must refer back to the SEC filing for verification .  Thus the core data are the same as EDGAR.
+	•	HedgeFundAlpha and HedgeTrace:  HedgeTrace’s article on 13F limitations notes that options lack context because the filings omit the strike price, expiration date and whether an option is part of a spread .  HedgeFundAlpha produces “13F deep‑dives” and may combine the filings with commentary, but there is no evidence that these services can supply strike or expiry information; they primarily organise and interpret the same public data.
+	•	Quiver Quantitative:  Quiver offers institutional‑holdings dashboards and news.  In its analysis of Michael Burry’s Q3 2023 13F, the article notes that “precise valuation is obscured by SEC guidelines that limit disclosure to underlying asset prices, not option contract values” .  Quiver also doesn’t list strike or expiry; it relies on the same 13F tables.
+	•	Specialised services:  Some high‑end data vendors (e.g., options flow providers or prime brokers) may infer approximate strikes by cross‑referencing option open‑interest data or by reading footnotes in other SEC filings (e.g., Form 4 insider trades).  These are expensive, proprietary services and are not derived from the 13F itself.  Publicly accessible sources do not currently provide strike‑level detail for 13F options.
+Option 3 – Market Intelligence and Inference
+Because the actual strike and expiration are unreported, analysts sometimes estimate them based on common hedging practices:
+	•	Tail‑risk hedging with deep‑out‑of‑the‑money puts:  Research from Verdad Capital Management shows that a widely used hedging strategy involves rolling three‑month put options with strike prices ~30 % below the current S&P 500 level (i.e., 30 % out‑of‑the‑money).  Investors buy the 30 % OTM puts and roll them monthly to maintain continuous exposure .  Such a hedge provides protection in severe market crashes but consistently incurs small costs .
+	•	Long‑dated LEAPS for portfolio insurance:  Long‑term Equity Anticipation Securities (LEAPS) are options with expirations 12–39 months.  They provide leveraged exposure and are often used as long‑term hedges.  A guide on LEAPS notes that they allow investors to control stock for 1‑3 years and typically cost 15–25 % of the stock price .  For stock‑replacement strategies, traders select strikes 15–20 % below the current stock price and choose the longest available expiration (18–24 months) .  These guidelines illustrate the range of strikes and maturities that investors use when hedging with long‑dated options.
+	•	Why analysts suspect Burry’s puts were long‑dated:  Market commentary has suggested that investors like Michael Burry and Leopold Aschenbrenner were not making directional bets but buying tail‑risk insurance on their semiconductor holdings.  Given the cost of insurance, such protection is often purchased through out‑of‑the‑money puts (20–30 % below current prices) with expirations of one to three years, similar to LEAPS.  Although no public filing confirms this, the inference aligns with common hedging practices cited above  .
+Summary
+
+
+Source	Evidence	Implication
+SEC Form 13F instructions / sec‑api dataset	13F filings do not report option strike prices, expiration dates or premiums .	Raw EDGAR filings and structured datasets cannot reveal the strike or expiry of any option position.
+HedgeTrace analysis (Mar 2026)	13F filings list options but omit strike price, expiration date and spread details, leaving the options’ intent ambiguous .	Without these data, one cannot tell whether a put is deeply OTM or near the money, or whether a call is speculative or hedging.
+Situational Awareness LP research note (Jun 2026)	13F filings identify the underlying security and dollar value of options but omit strike, expiration and premium .	Even by parsing raw XML, investors cannot reconstruct the actual contracts.
+Tyler Cosgrove blog (Dec 2025)	The premium, strike price and expiration date of options remain a mystery in 13F filings; the reported value is notional, not the option’s market value .	The notional values widely quoted in media (e.g., “$1.1 billion of puts”) can mislead because cheap, deep‑OTM options still control large notional amounts.
+Verdad Capital research (2024)	A common hedging strategy is to roll three‑month put options 30 % out‑of‑the‑money .	Analysts often assume hedge funds buy deep‑OTM puts for tail‑risk protection, so unknown strikes are likely far below current prices.
+TradeAlgo LEAPS guide (Feb 2026)	LEAPS options expire 12–39 months and cost 15–25 % of the stock price ; stock‑replacement strategies often use strikes 15–20 % below the current price .	Long‑dated hedges (LEAPS) are plausible for multi‑year insurance; typical strike selection offers insight into probable ranges when the actual strike is unreported.
+
+
+
+
+
+
+
+
+
+Practical Takeaways
+
+	1.	You cannot extract strike/expiration details from 13F filings.  The SEC’s rules and the 13F XML schema simply don’t include these data , so no amount of scraping will reveal them.
+	2.	Public databases and platforms mirror the 13F data.  Services like WhaleWisdom, Quiver Quantitative and HedgeFundAlpha may make the filings easier to search, but they do not provide strike or expiry information  .  Beware of marketing claims suggesting otherwise.
+	3.	Professional data vendors may infer details, but at a cost.  High‑end data providers or prime brokers might cross‑reference open‑interest data to guess plausible strikes and maturities, yet these inferences are not public and are often proprietary.
+	4.	Use hedging literature to estimate likely parameters.  Because hedge funds typically use out‑of‑the‑money puts as tail‑risk insurance , a reasonable assumption is that large put positions in a 13F represent deep‑OTM (20–30 % below current price) options with expiration dates one to three years out .  However, these are educated guesses—not facts.
+	5.	Focus on context, not notional values.  To interpret an investor’s strategy, look at how the notional size of put positions compares with their long equity holdings and whether the underlying stocks are core holdings or speculative bets.  The absence of strike and expiry data makes it impossible to know the exact exposure, but relative sizing still conveys whether the options are likely hedges or directional bets.

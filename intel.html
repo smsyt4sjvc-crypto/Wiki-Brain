@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<!-- GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M8GD3MLRG5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-M8GD3MLRG5');
+  // INMA conversion events — auto-track contact CTAs
+  document.addEventListener('click', function(e){
+    var a = e.target.closest && e.target.closest('a[href]'); if (!a) return;
+    var h = a.getAttribute('href') || '';
+    if (h.indexOf('tel:') === 0)         gtag('event', 'phone_call',   {link_url:h});
+    else if (h.indexOf('sms:') === 0)    gtag('event', 'text_message', {link_url:h});
+    else if (h.indexOf('mailto:') === 0) gtag('event', 'email_click',  {link_url:h});
+    else if (h.indexOf('.vcf') !== -1)   gtag('event', 'save_contact', {link_url:h});
+  });
+</script>
+<meta charset="UTF-8">
+<link rel="canonical" href="https://inmagent.com/intel.html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Senior Tech Help | Jake - Spokane, WA</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth;overflow-x:hidden}
+body{font-family:'Outfit',sans-serif;color:#3A3835;background:#F5F2ED;line-height:1.6;overflow-x:hidden;width:100%}
+.page-header{padding:120px 32px 60px;background:linear-gradient(168deg,#2C2A27 0%,#1a1916 100%);position:relative;overflow:hidden}
+.page-header::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 80% 60% at 70% 40%,rgba(139,105,20,.12) 0%,transparent 70%)}
+.page-header .container{position:relative;z-index:2}
+.page-header h1{font-family:'DM Serif Display',serif;font-size:clamp(1.8rem,5vw,2.8rem);color:#F5F2ED;line-height:1.2;margin-bottom:16px}
+.page-header h1 em{font-style:normal;color:#B8941F}
+.page-header .sub{font-size:1.15rem;color:rgba(245,242,237,.6);max-width:560px;line-height:1.7;margin-bottom:24px}
+.page-header .tagline{font-size:1rem;color:rgba(245,242,237,.4);font-style:italic}
+.back-link{display:inline-flex;align-items:center;gap:6px;color:rgba(245,242,237,.5);text-decoration:none;font-size:.88rem;margin-bottom:24px;transition:color .2s}
+.back-link:hover{color:#F5F2ED}
+.container{max-width:900px;margin:0 auto}
+section{padding:64px 32px}
+.section-label{display:inline-block;font-size:.75rem;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#8B6914;margin-bottom:16px}
+.section-title{font-family:'DM Serif Display',serif;font-size:clamp(1.6rem,4vw,2.2rem);color:#2C2A27;line-height:1.2;margin-bottom:16px}
+.frust-section{background:#fff;border-bottom:1px solid #D6D0C6}
+.frust-section p{font-size:.95rem;color:#7A756D;line-height:1.75;margin-bottom:16px;max-width:720px}
+.frust-section strong{color:#2C2A27}
+.frust-callout{margin-top:24px;padding:24px 28px;background:rgba(192,57,43,.04);border-left:4px solid #C0392B;border-radius:0 8px 8px 0}
+.frust-callout p{font-size:.92rem;color:#7A756D;line-height:1.7;margin-bottom:0}
+.story-section{background:#F5F2ED}
+.story-box{background:#fff;border:1px solid #D6D0C6;border-radius:12px;padding:32px;margin-top:16px}
+.story-box p{font-size:.95rem;color:#7A756D;line-height:1.75;margin-bottom:14px}
+.story-box p:last-child{margin-bottom:0}
+.story-box strong{color:#2C2A27}
+.services-section{background:#fff;border-bottom:1px solid #D6D0C6}
+.svc-grid{display:grid;gap:16px;margin-top:24px}
+.svc-row{display:grid;grid-template-columns:1fr 1fr;gap:0;border:1px solid #D6D0C6;border-radius:10px;overflow:hidden}
+.svc-problem{padding:16px 20px;background:rgba(192,57,43,.03);font-size:.9rem;color:#2C2A27;font-weight:600;display:flex;align-items:center}
+.svc-fix{padding:16px 20px;font-size:.9rem;color:#7A756D;line-height:1.5;display:flex;align-items:center}
+.how-section{background:#2C2A27;color:#F5F2ED}
+.how-section .section-label{color:#B8941F}
+.how-section .section-title{color:#F5F2ED}
+.how-steps{display:grid;grid-template-columns:repeat(4,1fr);gap:24px;margin-top:32px}
+.how-step{text-align:center;padding:24px 16px}
+.how-num{font-family:'DM Serif Display',serif;font-size:2rem;color:#B8941F;opacity:.5;margin-bottom:8px}
+.how-step h4{font-size:.95rem;font-weight:600;color:#F5F2ED;margin-bottom:6px}
+.how-step p{font-size:.82rem;color:rgba(245,242,237,.5);line-height:1.5}
+.pricing-section{background:#F5F2ED}
+.price-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:24px}
+.price-card{background:#fff;border:1px solid #D6D0C6;border-radius:12px;padding:28px;text-align:center}
+.price-card.featured{border-color:#8B6914;box-shadow:0 4px 24px rgba(139,105,20,.12)}
+.price-card h4{font-family:'DM Serif Display',serif;font-size:1.1rem;color:#2C2A27;margin-bottom:4px}
+.price-amount{font-family:'DM Serif Display',serif;font-size:2rem;color:#8B6914;margin:12px 0 4px}
+.price-note{font-size:.78rem;color:#7A756D;margin-bottom:16px}
+.price-card p{font-size:.85rem;color:#7A756D;line-height:1.5}
+.price-compare{margin-top:24px;padding:20px 24px;background:rgba(139,105,20,.04);border:1px solid rgba(139,105,20,.15);border-radius:8px;text-align:center}
+.price-compare p{font-size:.88rem;color:#7A756D;line-height:1.6}
+.monthly-section{background:#fff;border-bottom:1px solid #D6D0C6}
+.monthly-box{background:#F5F2ED;border:1px solid #D6D0C6;border-radius:12px;padding:32px;margin-top:20px}
+.monthly-box h3{font-family:'DM Serif Display',serif;font-size:1.3rem;color:#2C2A27;margin-bottom:12px}
+.monthly-box p{font-size:.92rem;color:#7A756D;line-height:1.7;margin-bottom:12px}
+.monthly-list{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:16px}
+.monthly-item{display:flex;align-items:flex-start;gap:10px;font-size:.88rem;color:#7A756D;line-height:1.4}
+.monthly-item svg{flex-shrink:0;margin-top:2px;color:#6B7F5E;width:18px;height:18px}
+.why-section{background:#F5F2ED}
+.why-section p{font-size:.95rem;color:#7A756D;line-height:1.75;margin-bottom:14px;max-width:720px}
+.why-section strong{color:#2C2A27}
+.page-cta{background:#2C2A27;text-align:center;padding:64px 32px}
+.page-cta h2{font-family:'DM Serif Display',serif;font-size:1.8rem;color:#F5F2ED;margin-bottom:12px}
+.page-cta p{color:rgba(245,242,237,.5);font-size:1rem;margin-bottom:28px;max-width:480px;margin-left:auto;margin-right:auto}
+.cta-buttons{display:flex;gap:16px;justify-content:center;flex-wrap:wrap}
+.btn-primary{display:inline-flex;align-items:center;gap:8px;background:#8B6914;color:#fff;padding:16px 32px;border-radius:8px;text-decoration:none;font-weight:600;font-size:1rem;transition:all .25s}
+.btn-primary:hover{background:#B8941F}
+.btn-secondary{display:inline-flex;align-items:center;gap:8px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.15);color:#F5F2ED;padding:16px 32px;border-radius:8px;text-decoration:none;font-weight:500;font-size:1rem;transition:all .25s}
+.btn-secondary:hover{background:rgba(255,255,255,.1)}
+.cta-phone{font-family:'DM Serif Display',serif;font-size:2rem;color:#B8941F;text-decoration:none;display:block;margin-top:20px;transition:color .2s}
+.cta-phone:hover{color:#fff}
+.cta-or{color:rgba(245,242,237,.3);font-size:.85rem;margin:12px 0;letter-spacing:2px;text-transform:uppercase}
+.cta-tagline{font-size:.88rem;color:rgba(245,242,237,.4);font-style:italic;margin-top:20px}
+footer{background:#1a1916;padding:48px 32px;border-top:1px solid rgba(255,255,255,.05)}
+.footer-inner{max-width:900px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:24px}
+.footer-brand{font-family:'DM Serif Display',serif;font-size:1.2rem;color:#F5F2ED}
+.footer-brand span{color:#8B6914}
+.footer-info{font-size:.82rem;color:rgba(245,242,237,.3);text-align:right}
+.footer-info a{color:rgba(245,242,237,.5);text-decoration:none}
+.footer-info a:hover{color:#F5F2ED}
+@media(max-width:768px){
+section{padding:48px 16px}
+.svc-row{grid-template-columns:1fr}
+.how-steps{grid-template-columns:1fr 1fr}
+.price-grid{grid-template-columns:1fr}
+.monthly-list{grid-template-columns:1fr}
+.footer-inner{flex-direction:column;text-align:center}
+.footer-info{text-align:center}
+}
+</style>
+</head>
+<body>
+
+<div class="page-header">
+  <div class="container">
+    <a href="index.html" class="back-link"><svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg> Back to INMA Home</a>
+    <h1>Tired of Fighting With Your Computer, Phone, or <em>Government Websites?</em></h1>
+    <p class="sub">I fix that. Locally. Affordably. Without the runaround.</p>
+    <p class="tagline">My name is Jake. I'm based right here in Spokane. I help people deal with the technology headaches that nobody else has the patience to walk you through.</p>
+  </div>
+</div>
+
+<section class="frust-section">
+  <div class="container">
+    <span class="section-label">The Real Problem</span>
+    <h2 class="section-title">You've Been Dealing With This Way Too Long</h2>
+    <p>You've spent hours on hold with Social Security. You've tried resetting your password four times. You've stared at a government website that looks like it was designed in 2003 and asked yourself <strong>"why is this so hard?"</strong></p>
+    <p>It's not you. These systems are genuinely awful. But most people suffer through it alone because the alternatives feel worse: paying $150 for Geek Squad to show up and not even understand the problem, or asking your grandson for the third time this month and feeling like a burden.</p>
+    <p>Here's what nobody tells you: <strong>the frustration costs more than the fix.</strong> The hours lost. The missed benefits. The bills that go sideways because you couldn't log into the portal. The doctor's appointment you couldn't make because the video call wouldn't work. That stuff adds up fast, and it's all fixable for less than you'd spend on a nice dinner out.</p>
+    <div class="frust-callout">
+      <p><strong>I'm not a big company.</strong> I'm not going to try to sell you something you don't need. I pick up the phone, I listen to your problem, and I fix it. That's it.</p>
+    </div>
+  </div>
+</section>
+
+<section class="story-section">
+  <div class="container">
+    <span class="section-label">Why I Get It</span>
+    <h2 class="section-title">I've Been Through It Myself</h2>
+    <div class="story-box">
+      <p>I personally went from an injury and a hospital bed in March to recording my first blind and disabled check through DSHS in May and my first SSDI check in December.</p>
+      <p><strong>I know these systems inside and out because I've had to fight through them myself.</strong> That's why I know exactly where people get stuck and how to get unstuck. The forms, the verification loops, the ID.me nightmares, the letters that make no sense. I've been there.</p>
+      <p>That experience is why I started helping other people navigate the same mess. Not as a tech company. Just as a guy in Spokane who knows where the buttons are.</p>
+    </div>
+  </div>
+</section>
+
+<section class="services-section">
+  <div class="container">
+    <span class="section-label">What I Fix</span>
+    <h2 class="section-title">Here's the Kind of Stuff I Handle</h2>
+    <div class="svc-grid">
+      <div class="svc-row"><div class="svc-problem">Can't log into Social Security, Medicare, or IRS websites</div><div class="svc-fix">Walk you through it step by step &mdash; passwords, verification, ID.me, all of it</div></div>
+      <div class="svc-row"><div class="svc-problem">Locked out of your email</div><div class="svc-fix">Get you back in and set it up so it doesn't happen again</div></div>
+      <div class="svc-row"><div class="svc-problem">Confusing letter from SSA or Medicare</div><div class="svc-fix">Read it with you and explain what it actually means in plain English</div></div>
+      <div class="svc-row"><div class="svc-problem">Need to upload documents but don't know how</div><div class="svc-fix">Show you how, or do it right there with you</div></div>
+      <div class="svc-row"><div class="svc-problem">Scam calls and suspicious emails</div><div class="svc-fix">Show you how to tell real from fake and clean up any damage</div></div>
+      <div class="svc-row"><div class="svc-problem">New phone or tablet &mdash; no idea where to start</div><div class="svc-fix">Full setup: contacts, apps, text size, the works</div></div>
+      <div class="svc-row"><div class="svc-problem">WiFi or internet not working</div><div class="svc-fix">Come out, find the problem, fix it</div></div>
+      <div class="svc-row"><div class="svc-problem">Video calls with family or doctors</div><div class="svc-fix">Set it up and do a practice call so you're comfortable</div></div>
+      <div class="svc-row"><div class="svc-problem">DSHS, VA, Medicaid online applications</div><div class="svc-fix">Walk you through every screen, every upload, every question</div></div>
+      <div class="svc-row"><div class="svc-problem">Just need someone to call when something goes wrong</div><div class="svc-fix">That's what I'm here for. Call me.</div></div>
+    </div>
+  </div>
+</section>
+
+<section class="how-section">
+  <div class="container">
+    <span class="section-label">Simple Process</span>
+    <h2 class="section-title">How It Works</h2>
+    <div class="how-steps">
+      <div class="how-step"><div class="how-num">1</div><h4>You Call or Text</h4><p>I answer. No phone tree. No hold music.</p></div>
+      <div class="how-step"><div class="how-num">2</div><h4>I Figure It Out</h4><p>Usually takes about 5 minutes to understand the problem.</p></div>
+      <div class="how-step"><div class="how-num">3</div><h4>I Fix It</h4><p>Over the phone, video call, or I come to you. Whatever works.</p></div>
+      <div class="how-step"><div class="how-num">4</div><h4>I Follow Up</h4><p>I check back to make sure it's still working.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="pricing-section">
+  <div class="container">
+    <span class="section-label">Straightforward Pricing</span>
+    <h2 class="section-title">No Contracts. No Subscriptions. No Surprises.</h2>
+    <div class="price-grid">
+      <div class="price-card">
+        <h4>Phone / Remote Help</h4>
+        <div class="price-amount">$25&ndash;$40</div>
+        <div class="price-note">Depending on how long it takes</div>
+        <p>Password resets, login issues, walking you through a website or form. Most problems solved in under 30 minutes.</p>
+      </div>
+      <div class="price-card featured">
+        <h4>Home Visit</h4>
+        <div class="price-amount">$50&ndash;$75</div>
+        <div class="price-note">Full session, usually 1&ndash;2 hours</div>
+        <p>WiFi issues, device setup, hands-on help with anything that's easier to fix in person.</p>
+      </div>
+      <div class="price-card">
+        <h4>Monthly Support</h4>
+        <div class="price-amount">$99<span style="font-size:.9rem;color:#7A756D">/mo</span></div>
+        <div class="price-note">Unlimited phone help + 1 home visit</div>
+        <p>Your personal tech lifeline. Call anytime something breaks, confuses you, or needs doing. Includes home remodeling questions too.</p>
+      </div>
+    </div>
+    <div class="price-compare">
+      <p><strong>For perspective:</strong> Geek Squad charges $150+ just to walk through the door. And they're not going to explain your Medicare letter or help you file a DSHS application.</p>
+    </div>
+  </div>
+</section>
+
+<section class="monthly-section">
+  <div class="container">
+    <span class="section-label">More Than Tech Support</span>
+    <h2 class="section-title">The Monthly Plan Is Like Having a Knowledgeable Friend On Call</h2>
+    <p style="font-size:.95rem;color:#7A756D;line-height:1.7;">The $99/month plan isn't just for computer problems. It's for anything where you need someone who knows what they're doing and will actually pick up the phone.</p>
+    <div class="monthly-box">
+      <h3>What's Included</h3>
+      <div class="monthly-list">
+        <div class="monthly-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span>Unlimited phone and text support</span></div>
+        <div class="monthly-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span>One in-home visit per month</span></div>
+        <div class="monthly-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span>Government website help (SSA, IRS, VA, DSHS)</span></div>
+        <div class="monthly-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span>Device setup and troubleshooting</span></div>
+        <div class="monthly-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span>Scam protection and email cleanup</span></div>
+        <div class="monthly-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span>Home remodeling advice (25 yrs experience)</span></div>
+        <div class="monthly-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span>Contractor vetting and project guidance</span></div>
+        <div class="monthly-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span>Someone who actually picks up the phone</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="why-section">
+  <div class="container">
+    <span class="section-label">Why Me</span>
+    <h2 class="section-title">Because Nobody Else Will Do This</h2>
+    <p>Your grandson is busy. The 1-800 number puts you on hold for two hours. YouTube tutorials assume you already know things you don't.</p>
+    <p>I've spent years navigating Social Security, VA, IRS, Medicare, DSHS, and state agencies. <strong>I know where the buttons are. I know what the error messages mean.</strong> And I explain things without making you feel stupid &mdash; because you're not. The systems are just badly designed.</p>
+    <p>The people who call me aren't dumb. They're smart people dealing with dumb technology. And they're done wasting hours on something that should take minutes. <strong>That's the real cost &mdash; not the $40 for the call, but the weeks of frustration leading up to it.</strong></p>
+  </div>
+</section>
+
+<section class="page-cta">
+  <div class="container">
+    <h2>Call or Text Jake</h2>
+    <p>No judgment. No jargon. Just help.</p>
+    <div class="cta-buttons">
+      <a href="sms:5092517792" class="btn-primary"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Text Jake</a>
+      <a href="mailto:jake@inmagent.com" class="btn-secondary"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 4l-10 8L2 4"/></svg> Email Jake</a>
+    </div>
+    <div class="cta-or">or call directly</div>
+    <a href="tel:5092517792" class="cta-phone">(509) 251-7792</a>
+    <p class="cta-tagline">Spokane, WA &mdash; Local and In-Person</p>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">INMA<span>.</span></div>
+      <p style="color:rgba(245,242,237,.3);font-size:.82rem;margin-top:6px;">Spokane, WA</p>
+    </div>
+    <div class="footer-info">
+      <p><a href="index.html">Home Remodeling Services</a></p>
+      <p style="margin-top:4px;"><a href="mailto:jake@inmagent.com">jake@inmagent.com</a></p>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,185 @@
+DATE: December 30, 2025
+SUBJECT: Supplemental Nutrition Assistance Program – Clarifications on Food Restriction
+Waivers and Retailer Compliance
+TO: All SNAP State Agencies Approved to Implement Food Restriction Waivers
+All Regions
+The primary purpose of the Supplemental Nutrition Assistance Program (SNAP) is “to safeguard
+the health and well-being of the Nation’s population by raising levels of nutrition among low-
+income households” [7 U.S.C. § 2011]. SNAP Food Restriction Waivers further that purpose, as
+part of broader State and Federal Government efforts to fight the obesity epidemic and Make
+America Healthy Again. The U.S. Department of Agriculture Food and Nutrition Service (FNS)
+has approved waivers for an initial 2-year period under the authority of Section 17(b) of the Food
+and Nutrition Act of 2008, which allows SNAP State agencies to test changes designed to
+improve the effectiveness and efficiency of the program.
+As of December 30, 2025, FNS has approved 18 State agency requests to implement a SNAP
+Food Restriction Waiver and is poised to approve more in the future. These State agencies will
+prohibit purchasing foods such as candy and sugar-sweetened beverages with SNAP benefits.
+Several State agencies will implement waivers beginning January 1, 2026, with others following
+in Spring and Summer 2026. FNS posts each waiver approval on its public website
+(https://www.fns.usda.gov/snap/waivers/foodrestriction). State agency definitions of restricted
+items and implementation dates vary, requiring close coordination between State agencies and
+affected retailers. Implementing State agencies have been engaging directly with retailers to
+prepare them to comply with their SNAP Food Restriction Waivers, as required by FNS. To
+implement waivers successfully, SNAP retailers must update Point of Sale (POS) equipment,
+train employees, and make other preparations.
+This memorandum clarifies FNS policies and plans for SNAP-retailer compliance with these
+SNAP waivers, including guidance on which SNAP retailers must comply, online orders and
+deliveries, and the consequences for non-compliance.
+Food and Nutrition Service, Braddock Metro Center, 1320 Braddock Place, Alexandria, VA 22314
+USDA is an equal opportunity provider, employer, and lender.
+Guidance documents lack the force and effect of law, unless expressly authorized
+by statute or incorporated into a contract. USDA may not cite, use, or rely on any guidance
+that is not available through their guidance portal, except to establish historical facts.
+Page 2 of 2
+The success of these projects will hinge on the collaborative efforts of SNAP State agencies,
+retailers, and FNS. FNS applauds the many State agencies and thousands of retailers that
+have been engaged in preparing for these bold projects thus far, and we are excited to continue
+this important work.
+Sincerely,
+Patrick A. Penn
+Acting Administrator, Food and Nutrition Service
+Deputy Under Secretary, Food, Nutrition, and Consumer Services
+U.S. Department of Agriculture
+Enclosure
+Guidance documents lack the force and effect of law, unless expressly authorized
+by statute or incorporated into a contract. USDA may not cite, use, or rely on any guidance
+that is not available through their guidance portal, except to establish historical facts.
+Page 3 of 6
+CLARIFICATIONS ON SNAP FOOD RESTRICTION WAIVERS
+AND RETAILER COMPLIANCE
+SNAP Retailers Required to Comply
+All walk-in SNAP retailer stores physically located within a State implementing a SNAP Food
+Restriction Waiver must comply with the State’s waiver for all SNAP transactions, consistent
+with 7 CFR 278.2. This refers to all SNAP retailers with a physical store location for in-person
+shopping in a waiver implementing State. These stores may also offer online ordering for pick-
+up or delivery, potentially through a third party.
+• Example:
+o Iowa has an approved SNAP Food Restriction Waiver.
+o All walk-in SNAP-authorized retailers located in Iowa must comply with Iowa’s
+SNAP Food Restriction Waiver.
+Certain other retailers are also required to comply when fulfilling online orders from a
+warehouse (fulfillment center), regardless of their location. When a SNAP participant from an
+implementing State places an online order using SNAP benefits and the retailer fulfills any part
+of the order from a warehouse, the retailer must comply with the restrictions of that participant’s
+State, consistent with 7 CFR 278.2. This applies to all transactions in which the order is fulfilled
+from a warehouse not open to customers, whether shipped directly to the customer’s address or
+to a designated pick-up location. Some retailers will therefore be required to comply with
+multiple States’ waivers. Retailers fulfilling orders from warehouses can use the State-issued
+SNAP EBT card’s Bank Identification Number (BIN) to determine SNAP participants’ States.
+• Example:
+o Iowa, Nebraska, and Colorado each have an approved SNAP Food Restriction
+Waiver.
+o When fulfilling an online order from a warehouse, a SNAP retailer must comply with:
+ Iowa’s waiver for purchases made with an Iowa EBT card;
+ Nebraska’s waiver for purchases made with a Nebraska EBT card; and
+ Colorado’s waiver for purchases made with a Colorado EBT card.
+SNAP Online Transactions and Food Restriction Waivers
+Policy Summary
+Fulfilled from: Order made available to the customer by: Restrict the purchase based on:
+Walk-in store In-person pick-up or delivery* Store address
+Warehouse In-person pick-up or delivery* EBT card State, based on BIN
+*Includes online orders that are purchased online and delivered through the store’s own
+staff or via a third-party.
+Guidance documents lack the force and effect of law, unless expressly authorized
+by statute or incorporated into a contract. USDA may not cite, use, or rely on any guidance
+that is not available through their guidance portal, except to establish historical facts.
+Page 4 of 6
+FNS will continuously review this policy to make certain it adheres to States’ goals of restricting
+certain items from purchase with SNAP benefits.
+FNS Retailer Monitoring and Compliance Policy
+The FNS Office of Retailer Operations and Compliance (ROC) is responsible for administering
+oversight of retailer participation in SNAP. This includes the authorization of stores to accept
+SNAP benefits, the monitoring of SNAP retailers for compliance, and the sanctioning of stores
+that violate program laws and regulations.
+Federal law explains that the primary purpose of SNAP is “to safeguard the health and well-
+being of the Nation’s population by raising levels of nutrition among low-income households” [7
+U.S.C. § 2011] and specifically requires that FNS only authorize those retailers that “will
+effectuate the purposes” of SNAP [7 U.S.C. § 2018]. Considering these laws, FNS has
+determined that SNAP-authorized retailers must comply with SNAP Food Restriction Waivers.
+FNS has developed plans for monitoring SNAP retailers’ compliance with these waivers and the
+consequences for non-compliance. FNS seeks to fulfill its statutory responsibility to ensure that
+retailers’ participation is consistent with applicable laws while also taking into consideration the
+significant technical challenges associated with these bold, innovative waivers.
+FNS Notifications to SNAP Retailers Required to Comply
+In advance of each State agency’s Food Restriction Waiver implementation date, FNS will issue
+electronic notifications to SNAP authorized retailers required to comply with the waiver. The
+notifications will explain that compliance with these waiver restrictions is required to effectuate
+the purpose of SNAP and maintain authorization as a SNAP retailer. The notifications will also
+explain that retailers found to be non-compliant will be subject to Involuntary Withdrawal for
+failure to effectuate the purpose of SNAP.
+FNS will also add a hard copy letter to its retailer training and informational materials and make
+them publicly available on its retailer training page. In addition, FNS plans to update the retailer
+application to make clear that compliance with these waivers is a mandatory condition of SNAP
+authorization.
+These activities will supplement the ongoing project implementation collaboration and planning
+between implementing State agencies and retailers.
+FNS Monitoring of SNAP Retailers Required to Comply
+ROC authorizes and administers federal oversight of SNAP retailers. Through existing fraud
+detection practices, ROC initiates and conducts undercover investigations to determine if a
+retailer is complying with program requirements. Following the implementation of a SNAP Food
+Restriction Waiver, ROC investigators will incorporate attempts to purchase restricted items
+according to the State’s SNAP Food Restriction policy, beginning 90 days after the
+Guidance documents lack the force and effect of law, unless expressly authorized
+by statute or incorporated into a contract. USDA may not cite, use, or rely on any guidance
+that is not available through their guidance portal, except to establish historical facts.
+Page 5 of 6
+implementation date. In the event ROC obtains evidence of non-compliance with applicable,
+waiver-based food restrictions, findings will be addressed through administrative actions.
+Though not required by FNS, State agencies may also employ resources to monitor SNAP
+retailer compliance after implementation in close coordination with FNS. State EBT coordinators
+may provide designated State personnel with SNAP EBT cards for the purpose of performing
+transactions to determine retailer compliance with its SNAP Food Restriction Waiver. State
+agencies will be required to send results of compliance monitoring to FNS. In the event evidence
+of non-compliance with applicable, waiver-based food restrictions is found, FNS will take
+administrative action.
+FNS has sole authority for administrative actions against retailers that commit SNAP violations.
+State agencies are not permitted to administer penalties to retailers that would adversely impact
+their ability to participate in SNAP for failing to comply. States agencies interested in pursuing
+criminal investigations associated with SNAP EBT violations must have a signed State Law
+Enforcement Bureau (SLEB) Memorandum of Understanding (MOU) with FNS. Per the SLEB
+standard operating procedures, each individual investigation requires clearance from FNS ROC
+prior to commencement. If interested, contact SM.FNS.ROC.SLEB.correspondence@usda.gov.
+Consequences for Retailers that Fail to Comply
+SNAP retailers found to be non-compliant with a SNAP Food Restriction Waiver are subject to
+the following framework of administrative actions and consequences:
+90-Day Grace Period
+Following implementation of each State agency’s SNAP Food Restriction Waiver,
+existing SNAP authorized retailers that are required to comply with that State’s waiver
+will have a 90-day grace period. Each waiver will have its own 90-day grace period tied
+to the implementation date. This grace period recognizes the significant challenges
+associated with implementation of these projects and allows a reasonable period in which
+retailers can identify and address issues that may arise, prior to being subject to
+investigation. The grace period will only be in effect for 90 days following
+implementation and will not be applied to new stores authorized to accept SNAP after
+that time-period. For example, if a State agency’s implementation of a SNAP Food
+Restriction Waiver begins on January 1, 2026, the one-time grace period begins on this
+date and ends April 1, 2026.
+First Offense – Warning Letter
+After the 90-day grace period, SNAP authorized retailers will be subject to investigation
+to determine compliance with the applicable SNAP Food Restriction Waiver(s). If
+evidence of non-compliance is found, following the first offense, ROC will issue the
+retailer a Warning Letter, consistent with 7 CFR 278.6(e). This letter will serve as an
+official warning for the infraction and will advise the retailer to take corrective action to
+avoid possible future consequences.
+Guidance documents lack the force and effect of law, unless expressly authorized
+by statute or incorporated into a contract. USDA may not cite, use, or rely on any guidance
+that is not available through their guidance portal, except to establish historical facts.
+Page 6 of 6
+Second Offense – Involuntary Withdrawal
+Following the issuance of the Warning Letter, after a period of 30 days, the retailer will
+be subject to future investigations to determine compliance with applicable SNAP Food
+Restriction Waiver(s). If evidence of non-compliance is found a second time, the retailer
+will be subject to an Involuntary Withdrawal for failure to effectuate the purpose of
+SNAP, consistent with 7 CFR 278.1(l)(1)(i).
+Following an Involuntary Withdrawal, the retailer may reapply to become authorized to
+accept SNAP. As a prerequisite to their reinstatement, the owner(s) will be required to
+sign an attestation acknowledging the expectation of adherence to applicable SNAP Food
+Restriction Waiver(s).
+Administrative Review
+Following the notification of an Involuntary Withdrawal action, the retailer may request
+Administrative Review, consistent with 7 CFR 279.1. FNS has existing procedures in
+place for Administrative Review processes. An Involuntary Withdrawal action will be
+held in abeyance pending the outcome of Administrative Review.
+Guidance documents lack the force and effect of law, unless expressly authorized
+by statute or incorporated into a contract. USDA may not cite, use, or rely on any guidance
+that is not available through their guidance portal, except to establish historical facts.

@@ -1,0 +1,14 @@
+SOURCE: pasted by Jake 2026-08-08 ~11:30pm PDT. Unattributed social-post format; NO CDS assessor
+named (Bloomberg/ICE/Markit not stated). Logged verbatim. Numbers coherent with vault priors
+(Oracle record ~203bp on 7/24 → ~215 here).
+
+"Investors are worried about Big Tech's debt. Oracle's 5-year credit default swap (CDS) has surged
++70 basis points year-to-date, to a record ~215 basis points, the largest increase among Big Tech
+companies. This is followed by Broadcom whose 5-year CDS has risen +48 basis points over the same
+period. Meta's 5-year CDS is up +39 basis points, to 95 basis points, the highest since trading
+began in October 2025. Nvidia's 5-year CDS is up +32 basis points so far in 2026 to ~82 basis
+points, the highest since it began trading in November 2025. Furthermore, the 5-year CDS for
+Amazon and Alphabet has increased +30 and +29 basis points, respectively. This comes as Big Tech
+companies have issued ~$200 billion in corporate bonds year-to-date, nearly double the full-year
+total for 2025. Credit markets are becoming increasingly worried about the cost of financing the
+AI race."

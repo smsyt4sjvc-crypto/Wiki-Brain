@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+ <script async src="https://www.googletagmanager.com/gtag/js?id=G-M8GD3MLRG5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-M8GD3MLRG5');
+  // INMA conversion events — auto-track contact CTAs
+  document.addEventListener('click', function(e){
+    var a = e.target.closest && e.target.closest('a[href]'); if (!a) return;
+    var h = a.getAttribute('href') || '';
+    if (h.indexOf('tel:') === 0)         gtag('event', 'phone_call',   {link_url:h});
+    else if (h.indexOf('sms:') === 0)    gtag('event', 'text_message', {link_url:h});
+    else if (h.indexOf('mailto:') === 0) gtag('event', 'email_click',  {link_url:h});
+    else if (h.indexOf('.vcf') !== -1)   gtag('event', 'save_contact', {link_url:h});
+  });
+</script>
+
+<meta charset="UTF-8">
+<link rel="canonical" href="https://inmagent.com/">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "INMA — Inland Northwest Marketing Affiliates",
+  "alternateName": "Your Personal Homeowner Advocate",
+  "url": "https://inmagent.com",
+  "telephone": "+15092517792",
+  "email": "jake@inmagent.com",
+  "image": "https://inmagent.com/IMG_6892.jpeg",
+  "description": "INMA is Spokane's independent homeowner advocate. We vet contractors, scope your project, verify licensing and insurance, and make sure you never overpay — without ever touching your construction money.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Spokane",
+    "addressRegion": "WA",
+    "addressCountry": "US"
+  },
+  "areaServed": [
+    "Spokane, WA", "Spokane Valley, WA", "Liberty Lake, WA",
+    "Coeur d'Alene, ID", "Post Falls, ID", "Cheney, WA", "Mead, WA"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "INMA Services",
+    "itemListElement": [
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Contractor Vetting & Matching" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Project Scope Development" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Fair Market Pricing Analysis" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Home Tune-Up — Inspect, Seal, Clean, Report" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Contract Review" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Siding Project Advocacy" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Window Replacement Advocacy" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Roofing Project Advocacy" } }
+    ]
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Jake Bishop",
+    "jobTitle": "Homeowner Advocate",
+    "description": "25+ years of residential exterior construction experience in the Spokane market."
+  },
+  "sameAs": [
+    "https://inmagent.com"
+  ]
+}
+</script>
+<link rel="apple-touch-icon" href="/IMG_6892.jpeg">
+<link rel="icon" type="image/jpeg" href="/IMG_6892.jpeg">
+<title>INMA — Homeowner Advocate | Spokane, WA</title>
+<meta name="description" content="I'm not a contractor — I'm your personal homeowner advocate. 25 years in Spokane construction. I bring vetted local crews at fair-market prices. My fee comes out of the contract, not on top of it.">
+<meta property="og:title" content="INMA — Homeowner Advocate | Spokane, WA">
+<meta property="og:description" content="I'm not a contractor. I'm your personal homeowner advocate. You hire me to represent you, like a buyer's agent for your project. My fee comes out of the contract price, deducted dollar-for-dollar in front of you.">
+<meta property="og:image" content="https://inmagent.com/IMG_6892.jpeg">
+<meta property="og:url" content="https://inmagent.com">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://inmagent.com/IMG_6892.jpeg">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; overflow-x: hidden; }
+  body { font-family: 'Outfit', sans-serif; color: #3A3835; background: #F5F2ED; line-height: 1.6; overflow-x: hidden; width: 100%; }
+
+/* TOP BANNER */
+.top-banner { background: #2C2A27; text-align: center; padding: 10px 16px; font-size: 0.82rem; color: rgba(245,242,237,0.6); position: relative; z-index: 101; }
+.top-banner a { color: #B8941F; text-decoration: none; font-weight: 600; }
+.top-banner a:hover { color: #F5F2ED; text-decoration: underline; }
+
+nav { position: fixed; top: 0; width: 100%; z-index: 100; background: transparent; transition: all 0.3s ease; }
+nav.scrolled { background: rgba(44,42,39,0.95); backdrop-filter: blur(16px); border-bottom: 1px solid rgba(255,255,255,0.05); box-shadow: 0 2px 24px rgba(0,0,0,0.2); }
+.nav-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: flex-end; padding: 16px 32px; }
+.nav-links { display: flex; gap: 32px; align-items: center; }
+.nav-links a { text-decoration: none; color: rgba(245,242,237,0.8); font-size: 0.9rem; font-weight: 500; letter-spacing: 0.3px; transition: color 0.2s; }
+.nav-links a:hover { color: white; }
+.nav-cta { background: #8B6914 !important; color: white !important; padding: 10px 24px !important; border-radius: 6px; font-weight: 600 !important; transition: background 0.2s !important; }
+.nav-cta:hover { background: #B8941F !important; }
+.mobile-toggle { display: none; background: none; border: none; cursor: pointer; color: #8B6914; }
+.hero { min-height: 100vh; display: flex; align-items: center; position: relative; background: linear-gradient(168deg, #2C2A27 0%, #1a1916 55%, #2a2520 100%); overflow: hidden; }
+.hero::before { content: ‘’; position: absolute; inset: 0; background: radial-gradient(ellipse 80% 60% at 70% 40%, rgba(139,105,20,0.12) 0%, transparent 70%), radial-gradient(ellipse 50% 50% at 20% 80%, rgba(107,127,94,0.08) 0%, transparent 60%); }
+.hero-texture { position: absolute; inset: 0; opacity: 0.03; background-image: url(“data:image/svg+xml,%3Csvg width=‘60’ height=‘60’ viewBox=‘0 0 60 60’ xmlns=‘http://www.w3.org/2000/svg’%3E%3Cg fill=‘none’ fill-rule=‘evenodd’%3E%3Cg fill=’%23ffffff’ fill-opacity=‘1’%3E%3Cpath d=‘M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2v-4h4v-2H6z’/%3E%3C/g%3E%3C/g%3E%3C/svg%3E”); }
+.hero-content { max-width: 1200px; margin: 0 auto; padding: 120px 32px 80px; position: relative; z-index: 2; }
+.hero-logo-wrapper { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; max-width: 520px; margin-top: 60px; margin-bottom: 32px; animation: fadeUp 0.8s ease-out both; }
+.hero-logo-wrapper .logo-text { font-family: ‘DM Serif Display’, serif; font-size: clamp(3rem, 10vw, 4.5rem); display: flex; justify-content: space-between; width: 100%; color: #FFFFFF; filter: drop-shadow(0px 4px 8px rgba(0,0,0,0.6)); margin-bottom: 12px; line-height: 1; transform: scaleY(0.85); transform-origin: bottom; }
+.hero-logo-wrapper img { width: 100%; height: auto; border-radius: 4px; }
+.hero h1 { font-family: ‘DM Serif Display’, serif; font-size: clamp(1.8rem, 5vw, 2.8rem); color: #F5F2ED; line-height: 1.2; max-width: 720px; margin-bottom: 24px; animation: fadeUp 0.8s 0.15s ease-out both; }
+.hero h1 em { font-style: normal; background: linear-gradient(135deg, #B8941F, #D4A843); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.hero-sub { font-size: 1.2rem; color: rgba(245,242,237,0.75); max-width: 560px; line-height: 1.7; margin-bottom: 16px; animation: fadeUp 0.8s 0.3s ease-out both; font-weight: 400; }
+.hero p { font-size: 1rem; color: rgba(245,242,237,0.5); max-width: 520px; line-height: 1.7; margin-bottom: 40px; animation: fadeUp 0.8s 0.35s ease-out both; }
+.hero-actions { display: flex; gap: 16px; flex-wrap: wrap; animation: fadeUp 0.8s 0.45s ease-out both; }
+.btn-primary { display: inline-flex; align-items: center; gap: 8px; background: #8B6914; color: white; padding: 16px 32px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 1rem; transition: all 0.25s; border: none; cursor: pointer; }
+.btn-primary:hover { background: #B8941F; transform: translateY(-1px); }
+.btn-secondary { display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.15); color: #F5F2ED; padding: 16px 32px; border-radius: 8px; text-decoration: none; font-weight: 500; font-size: 1rem; transition: all 0.25s; }
+.btn-secondary:hover { background: rgba(255,255,255,0.1); }
+.hero-stats { display: flex; gap: 48px; margin-top: 64px; padding-top: 40px; border-top: 1px solid rgba(255,255,255,0.07); animation: fadeUp 0.8s 0.6s ease-out both; }
+.stat-item h3 { font-family: ‘DM Serif Display’, serif; font-size: 2.2rem; color: #F5F2ED; }
+.stat-item p { font-size: 0.82rem; color: rgba(245,242,237,0.4); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 0; }
+@keyframes fadeUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+.trust-bar { background: #EDE8E0; border-bottom: 1px solid #D6D0C6; padding: 24px 32px; }
+.trust-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; }
+.trust-item { display: flex; align-items: center; gap: 10px; color: #7A756D; font-size: 0.88rem; font-weight: 500; }
+.trust-icon { width: 20px; height: 20px; color: #6B7F5E; }
+section { padding: 96px 32px; }
+.container { max-width: 1200px; margin: 0 auto; }
+.section-label { display: inline-block; font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #8B6914; margin-bottom: 16px; }
+.section-title { font-family: ‘DM Serif Display’, serif; font-size: clamp(2rem, 4vw, 2.8rem); color: #2C2A27; line-height: 1.2; margin-bottom: 20px; }
+.section-subtitle { font-size: 1.05rem; color: #7A756D; max-width: 600px; line-height: 1.7; }
+
+/* ABOUT */
+.about-section { background: white; border-bottom: 1px solid #D6D0C6; }
+.about-grid { display: grid; grid-template-columns: 280px 1fr; gap: 48px; align-items: center; }
+.about-photo { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px; border: 3px solid #EDE8E0; }
+.about-text h3 { font-family: ‘DM Serif Display’, serif; font-size: 1.6rem; color: #2C2A27; margin-bottom: 16px; }
+.about-text p { font-size: 0.95rem; color: #7A756D; line-height: 1.75; margin-bottom: 14px; }
+.about-text strong { color: #2C2A27; }
+
+/* PROBLEM */
+.problem-section { background: white; }
+.problem-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; margin-top: 56px; align-items: start; }
+.problem-text h3 { font-family: ‘DM Serif Display’, serif; font-size: 1.4rem; color: #2C2A27; margin-bottom: 16px; }
+.problem-text p { font-size: 0.95rem; color: #7A756D; line-height: 1.75; margin-bottom: 16px; }
+.problem-text strong { color: #2C2A27; }
+.problem-list { list-style: none; padding: 0; }
+.problem-list li { display: flex; align-items: flex-start; gap: 14px; padding: 16px 0; border-bottom: 1px solid #D6D0C6; font-size: 0.95rem; color: #7A756D; line-height: 1.6; }
+.problem-list li:last-child { border-bottom: none; }
+.problem-list .icon-warn { flex-shrink: 0; width: 24px; height: 24px; background: rgba(192,57,43,0.1); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-top: 2px; }
+.problem-list .icon-warn svg { width: 14px; height: 14px; color: #C0392B; }
+
+/* AGENCY */
+.agency-section { background: #2C2A27; color: #F5F2ED; position: relative; overflow: hidden; }
+.agency-section::before { content: ‘’; position: absolute; inset: 0; background: radial-gradient(ellipse 60% 50% at 70% 30%, rgba(139,105,20,0.1) 0%, transparent 70%); }
+.agency-section .container { position: relative; z-index: 2; }
+.agency-section .section-label { color: #B8941F; }
+.agency-section .section-title { color: #F5F2ED; }
+.agency-steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; margin-top: 56px; }
+.agency-step { padding: 36px 28px; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); border-radius: 12px; }
+.agency-step-num { font-family: ‘DM Serif Display’, serif; font-size: 2.4rem; color: #B8941F; opacity: 0.5; margin-bottom: 12px; line-height: 1; }
+.agency-step h3 { font-size: 1.15rem; font-weight: 600; color: #F5F2ED; margin-bottom: 10px; }
+.agency-step p { font-size: 0.9rem; color: rgba(245,242,237,0.55); line-height: 1.7; }
+.agency-bottom { margin-top: 56px; padding: 32px 36px; background: rgba(184,148,31,0.08); border: 1px solid rgba(184,148,31,0.2); border-radius: 12px; display: flex; align-items: center; gap: 32px; }
+.agency-bottom-text { flex: 1; }
+.agency-bottom-text h3 { font-family: ‘DM Serif Display’, serif; font-size: 1.3rem; color: #F5F2ED; margin-bottom: 8px; }
+.agency-bottom-text p { font-size: 0.95rem; color: rgba(245,242,237,0.6); line-height: 1.7; }
+
+/* APPROACH */
+.approach-section { background: white; }
+.approach-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; margin-top: 56px; align-items: start; }
+.approach-text h3 { font-family: ‘DM Serif Display’, serif; font-size: 1.5rem; color: #2C2A27; margin-bottom: 16px; }
+.approach-text p { font-size: 0.95rem; color: #7A756D; line-height: 1.7; margin-bottom: 16px; }
+.approach-compare { background: #F5F2ED; border: 1px solid #D6D0C6; border-radius: 12px; overflow: hidden; }
+.compare-header { display: grid; grid-template-columns: 1fr 1fr; font-weight: 700; font-size: 0.8rem; letter-spacing: 1px; text-transform: uppercase; }
+.compare-header div { padding: 16px 20px; text-align: center; }
+.compare-header .them { background: rgba(192,57,43,0.08); color: #C0392B; }
+.compare-header .us { background: rgba(39,174,96,0.08); color: #27AE60; }
+.compare-row { display: grid; grid-template-columns: 1fr 1fr; border-top: 1px solid #D6D0C6; font-size: 0.88rem; }
+.compare-row div { padding: 14px 20px; text-align: center; color: #7A756D; }
+.compare-row .them { background: rgba(192,57,43,0.02); }
+.compare-row .us { background: rgba(39,174,96,0.02); }
+
+/* SERVICES */
+.services-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px; margin-top: 56px; }
+.service-card { background: white; border: 1px solid #D6D0C6; border-radius: 12px; padding: 36px 28px; transition: all 0.3s; position: relative; overflow: hidden; }
+.service-card::before { content: ‘’; position: absolute; top: 0; left: 0; width: 100%; height: 3px; background: linear-gradient(90deg, #8B6914, #6B7F5E); transform: scaleX(0); transform-origin: left; transition: transform 0.4s; }
+.service-card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(0,0,0,0.06); }
+.service-card:hover::before { transform: scaleX(1); }
+.service-icon { width: 48px; height: 48px; background: #EDE8E0; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px; color: #8B6914; }
+.service-card h3 { font-family: ‘DM Serif Display’, serif; font-size: 1.3rem; margin-bottom: 10px; color: #2C2A27; }
+.service-card p { font-size: 0.92rem; color: #7A756D; line-height: 1.6; }
+
+/* ENERGY */
+.energy-section { background: linear-gradient(170deg, #1B2A1F 0%, #0F1A13 100%); color: #F5F2ED; position: relative; overflow: hidden; max-width: 100vw; }
+.energy-section::before { content: ‘’; position: absolute; inset: 0; background: radial-gradient(ellipse 70% 50% at 30% 50%, rgba(107,127,94,0.15) 0%, transparent 70%); }
+.energy-section .container { position: relative; z-index: 2; }
+.energy-section .section-label { color: #6B7F5E; }
+.energy-section .section-title { color: #F5F2ED; }
+.energy-section .section-subtitle { color: rgba(245,242,237,0.6); }
+.energy-content { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; margin-top: 56px; align-items: start; }
+.energy-left p { font-size: 0.95rem; color: rgba(245,242,237,0.6); line-height: 1.7; margin-bottom: 20px; }
+.energy-left strong { color: #F5F2ED; }
+.rate-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 24px 0; }
+.rate-table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+.rate-table th { text-align: left; padding: 10px 14px; font-size: 0.75rem; letter-spacing: 1px; text-transform: uppercase; color: rgba(245,242,237,0.4); border-bottom: 1px solid rgba(255,255,255,0.08); }
+.rate-table td { padding: 10px 14px; color: rgba(245,242,237,0.6); border-bottom: 1px solid rgba(255,255,255,0.05); }
+.rate-table .increase { color: #C0392B; font-weight: 600; }
+.thermal-box { background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 32px; }
+.thermal-box h3 { font-family: ‘DM Serif Display’, serif; font-size: 1.3rem; color: #F5F2ED; margin-bottom: 16px; }
+.thermal-box p { font-size: 0.9rem; color: rgba(245,242,237,0.5); line-height: 1.7; margin-bottom: 16px; }
+.thermal-feature { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px; }
+.thermal-feature svg { flex-shrink: 0; margin-top: 2px; color: #6B7F5E; }
+.thermal-feature span { font-size: 0.9rem; color: rgba(245,242,237,0.6); line-height: 1.5; }
+.lighter-test { margin-top: 24px; padding: 20px; background: rgba(184,148,31,0.08); border: 1px solid rgba(184,148,31,0.2); border-radius: 8px; }
+.lighter-test h4 { font-size: 0.85rem; font-weight: 700; color: #B8941F; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+.lighter-test p { font-size: 0.88rem; color: rgba(245,242,237,0.6); line-height: 1.6; margin-bottom: 0; }
+
+/* REBATES */
+.rebates-section { background: #EDE8E0; }
+.rebates-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; margin-top: 56px; }
+.rebate-card { background: white; border: 1px solid #D6D0C6; border-radius: 12px; padding: 32px; }
+.rebate-card h3 { font-family: ‘DM Serif Display’, serif; font-size: 1.2rem; color: #2C2A27; margin-bottom: 20px; }
+.rebate-row { display: flex; justify-content: space-between; align-items: center; padding: 10px 0; border-bottom: 1px solid #D6D0C6; font-size: 0.88rem; }
+.rebate-row:last-child { border-bottom: none; }
+.rebate-row .desc { color: #7A756D; flex: 1; }
+.rebate-row .amount { font-weight: 700; color: #27AE60; white-space: nowrap; margin-left: 16px; }
+.financing-banner { margin-top: 32px; background: white; border: 1px solid #D6D0C6; border-radius: 12px; padding: 32px; display: flex; align-items: center; gap: 32px; }
+.financing-banner h3 { font-family: ‘DM Serif Display’, serif; font-size: 1.2rem; color: #2C2A27; margin-bottom: 8px; }
+.financing-banner p { font-size: 0.9rem; color: #7A756D; line-height: 1.6; }
+.financing-stats { display: flex; gap: 24px; flex-shrink: 0; }
+.fin-stat { text-align: center; padding: 16px 20px; background: #F5F2ED; border-radius: 8px; }
+.fin-stat .num { font-family: ‘DM Serif Display’, serif; font-size: 1.4rem; color: #2C2A27; }
+.fin-stat .label { font-size: 0.72rem; color: #7A756D; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px; }
+
+/* FROM THE HIP */
+.from-the-hip { padding: 100px 32px; background: linear-gradient(170deg, #1a1916 0%, #2C2A27 100%); position: relative; overflow: hidden; }
+.from-the-hip::before { content:’’; position:absolute; top:-60px; right:-60px; width:320px; height:320px; border:2px solid rgba(139,105,20,0.12); border-radius:50%; pointer-events:none; }
+.from-the-hip::after { content:’’; position:absolute; bottom:-40px; left:-40px; width:200px; height:200px; border:1.5px solid rgba(139,105,20,0.08); border-radius:50%; pointer-events:none; }
+.fth-inner { max-width:1000px; margin:0 auto; display:grid; grid-template-columns:1fr 1fr; gap:64px; align-items:start; position:relative; z-index:1; }
+.fth-badge { display:inline-block; font-size:0.7rem; font-weight:700; letter-spacing:2.5px; text-transform:uppercase; color:#B8941F; margin-bottom:20px; padding:6px 14px; border:1px solid rgba(184,148,31,0.3); border-radius:4px; }
+.fth-title { font-family:‘DM Serif Display’,serif; font-size:2.8rem; color:#F5F2ED; line-height:1.15; margin-bottom:20px; }
+.fth-title em { font-style:italic; color:#B8941F; }
+.fth-desc { font-size:1.05rem; color:#A8A29E; line-height:1.7; margin-bottom:28px; }
+.fth-how-it-works { display:flex; flex-direction:column; gap:16px; }
+.fth-step { display:flex; align-items:flex-start; gap:14px; }
+.fth-step-num { flex-shrink:0; width:28px; height:28px; border-radius:50%; background:rgba(139,105,20,0.15); color:#B8941F; font-size:0.75rem; font-weight:700; display:flex; align-items:center; justify-content:center; margin-top:2px; }
+.fth-step-text { font-size:0.92rem; color:#C7C2BA; line-height:1.5; }
+.fth-step-text strong { color:#F5F2ED; font-weight:600; }
+.fth-form-card { background:rgba(245,242,237,0.06); border:1px solid rgba(245,242,237,0.1); border-radius:12px; padding:36px 32px; backdrop-filter:blur(8px); }
+.fth-form-title { font-family:‘DM Serif Display’,serif; font-size:1.35rem; color:#F5F2ED; margin-bottom:6px; }
+.fth-form-sub { font-size:0.82rem; color:#8A857E; margin-bottom:28px; }
+.fth-field { margin-bottom:18px; }
+.fth-field label { display:block; font-size:0.78rem; font-weight:600; letter-spacing:0.8px; text-transform:uppercase; color:#9A958E; margin-bottom:6px; }
+.fth-field input, .fth-field textarea { width:100%; padding:12px 16px; background:rgba(245,242,237,0.05); border:1px solid rgba(245,242,237,0.12); border-radius:6px; color:#F5F2ED; font-family:‘Outfit’,sans-serif; font-size:0.95rem; transition:border-color 0.2s, background 0.2s; outline:none; }
+.fth-field input::placeholder, .fth-field textarea::placeholder { color:#6B665F; }
+.fth-field input:focus, .fth-field textarea:focus { border-color:#8B6914; background:rgba(245,242,237,0.08); }
+.fth-field textarea { resize:vertical; min-height:80px; }
+.fth-checks { display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-bottom:18px; }
+.fth-check { display:flex; align-items:center; gap:8px; cursor:pointer; padding:8px 12px; border-radius:6px; border:1px solid rgba(245,242,237,0.08); transition:border-color 0.2s, background 0.2s; }
+.fth-check:hover { border-color:rgba(184,148,31,0.3); background:rgba(139,105,20,0.06); }
+.fth-check input[type=“checkbox”] { display:none; }
+.fth-check-box { width:18px; height:18px; border:1.5px solid rgba(245,242,237,0.2); border-radius:4px; flex-shrink:0; display:flex; align-items:center; justify-content:center; transition:all 0.2s; }
+.fth-check-box svg { width:12px; height:12px; opacity:0; transition:opacity 0.2s; }
+.fth-check input:checked + .fth-check-box { background:#8B6914; border-color:#8B6914; }
+.fth-check input:checked + .fth-check-box svg { opacity:1; }
+.fth-check-label { font-size:0.88rem; color:#C7C2BA; user-select:none; }
+.fth-row { display:grid; grid-template-columns:1fr 1fr; gap:14px; }
+.fth-buttons { display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-top:8px; }
+.fth-btn-wrap { display:flex; flex-direction:column; }
+.fth-submit-email, .fth-submit-messenger { width:100%; padding:14px 10px; border:none; border-radius:6px; font-family:‘Outfit’,sans-serif; font-size:0.92rem; font-weight:600; cursor:pointer; transition:background 0.2s, transform 0.1s; display:flex; align-items:center; justify-content:center; gap:8px; }
+.fth-submit-email { background:#8B6914; color:#F5F2ED; }
+.fth-submit-email:hover { background:#B8941F; }
+.fth-submit-messenger { background:#6B7F5E; color:#fff; }
+.fth-submit-messenger:hover { background:#5a6e4f; }
+.fth-submit-email:active, .fth-submit-messenger:active { transform:scale(0.98); }
+.fth-submit-email svg, .fth-submit-messenger svg { width:18px; height:18px; flex-shrink:0; }
+.fth-faster { display:block; text-align:center; font-size:0.68rem; color:rgba(255,255,255,0.45); margin-top:5px; }
+.fth-privacy { text-align:center; font-size:0.72rem; color:#6B665F; margin-top:16px; }
+.fth-success { display:none; text-align:center; padding:40px 20px; }
+.fth-success.show { display:block; }
+.fth-success-icon { width:56px; height:56px; border-radius:50%; background:rgba(107,127,94,0.2); display:flex; align-items:center; justify-content:center; margin:0 auto 16px; }
+.fth-success-icon svg { width:28px; height:28px; color:#6B7F5E; }
+.fth-success h3 { font-family:‘DM Serif Display’,serif; font-size:1.4rem; color:#F5F2ED; margin-bottom:8px; }
+.fth-success p { font-size:0.92rem; color:#A8A29E; line-height:1.6; }
+
+/* CTA */
+.cta-section { background: linear-gradient(135deg, #2C2A27 0%, #1a1916 100%); text-align: center; position: relative; overflow: hidden; }
+.cta-section::before { content: ‘’; position: absolute; inset: 0; background: radial-gradient(ellipse 60% 60% at 50% 50%, rgba(139,105,20,0.1) 0%, transparent 70%); }
+.cta-content { position: relative; z-index: 2; }
+.cta-section .section-title { color: #F5F2ED; margin-bottom: 16px; }
+.cta-section p { color: rgba(245,242,237,0.6); font-size: 1.1rem; margin-bottom: 36px; max-width: 500px; margin-left: auto; margin-right: auto; }
+.cta-phone { font-family: ‘DM Serif Display’, serif; font-size: 2rem; color: #B8941F; text-decoration: none; display: block; margin-top: 24px; transition: color 0.2s; }
+.cta-phone:hover { color: white; }
+.cta-or { color: rgba(245,242,237,0.3); font-size: 0.85rem; margin: 16px 0; letter-spacing: 2px; text-transform: uppercase; }
+
+/* FLOATING */
+.floating-btns { position:fixed; bottom:24px; right:24px; z-index:999; display:flex; flex-direction:column; gap:10px; align-items:flex-end; }
+.float-btn { display:flex; align-items:center; gap:8px; padding:12px 20px; border-radius:50px; text-decoration:none; font-family:‘Outfit’,sans-serif; font-size:0.85rem; font-weight:600; box-shadow:0 4px 20px rgba(0,0,0,0.25); transition:transform 0.2s, box-shadow 0.2s; cursor:pointer; border:none; }
+.float-btn:hover { transform:translateY(-2px); box-shadow:0 6px 28px rgba(0,0,0,0.3); }
+.float-btn:active { transform:scale(0.97); }
+.float-btn svg { width:20px; height:20px; flex-shrink:0; }
+.float-messenger { background:#6B7F5E; color:#fff; }
+.float-email { background:#8B6914; color:#F5F2ED; }
+.float-label { max-width:0; overflow:hidden; white-space:nowrap; transition:max-width 0.3s ease, padding 0.3s ease; padding-left:0; }
+.float-btn:hover .float-label { max-width:200px; padding-left:4px; }
+
+footer { background: #1a1916; padding: 48px 32px; border-top: 1px solid rgba(255,255,255,0.05); }
+.footer-inner { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 24px; }
+.footer-brand { font-family: ‘DM Serif Display’, serif; font-size: 1.2rem; color: #F5F2ED; }
+.footer-brand span { color: #8B6914; }
+.footer-info { font-size: 0.82rem; color: rgba(245,242,237,0.3); text-align: right; }
+.footer-info a { color: rgba(245,242,237,0.5); text-decoration: none; }
+.footer-info a:hover { color: #F5F2ED; }
+
+@media (max-width: 768px) {
+section { padding: 72px 16px; }
+.nav-links { display: none; }
+.mobile-toggle { display: block; }
+.nav-links.open { display: flex; flex-direction: column; position: absolute; top: 100%; left: 0; right: 0; background: #2C2A27; padding: 24px 32px; gap: 16px; border-bottom: 1px solid rgba(255,255,255,0.05); }
+.hero-stats { gap: 32px; flex-wrap: wrap; }
+.trust-inner { gap: 20px; }
+.about-grid { grid-template-columns: 1fr; text-align: center; }
+.about-photo { max-width: 240px; margin: 0 auto; }
+.problem-grid { grid-template-columns: 1fr; }
+.agency-steps { grid-template-columns: 1fr; }
+.agency-bottom { flex-direction: column; }
+.approach-grid { grid-template-columns: 1fr; }
+.energy-content { grid-template-columns: 1fr; overflow: hidden; }
+.rebates-grid { grid-template-columns: 1fr; }
+.financing-banner { flex-direction: column; }
+.financing-stats { width: 100%; justify-content: center; }
+.rate-table { font-size: 0.72rem; }
+.rate-table th, .rate-table td { padding: 6px 4px; letter-spacing: 0; }
+.energy-left p { word-wrap: break-word; overflow-wrap: break-word; }
+.compare-row div, .compare-header div { padding: 12px 12px; font-size: 0.82rem; }
+.rebate-row { flex-direction: column; align-items: flex-start; gap: 4px; }
+.rebate-row .amount { margin-left: 0; }
+.footer-inner { flex-direction: column; text-align: center; }
+.footer-info { text-align: center; }
+.from-the-hip { padding:72px 20px; }
+.fth-inner { grid-template-columns:1fr; gap:40px; }
+.fth-title { font-size:2.1rem; }
+.fth-checks { grid-template-columns:1fr; }
+.fth-row { grid-template-columns:1fr; }
+.fth-form-card { padding:28px 20px; }
+.fth-buttons { grid-template-columns:1fr; }
+.float-label { max-width:200px !important; padding-left:4px !important; }
+.floating-btns { bottom:16px; right:16px; }
+.testimonial-grid { grid-template-columns:1fr !important; }
+}
+</style>
+
+<script src="/inma-fb-rescue.js"></script>
+</head>
+<body>
+
+<!-- TOP BANNER -->
+
+<div class="top-banner">Looking for our online identity services? <a href="intel.html">Learn more here &rarr;</a></div>
+
+<nav id="nav">
+  <div class="nav-inner">
+    <div class="nav-links" id="navLinks">
+      <a href="#the-problem">Why INMA</a>
+      <a href="#how-it-works">How It Works</a>
+      <a href="#how-to-work">Pricing</a>
+      <a href="#services">Services</a>
+      <a href="/work.html">Recent Work</a>
+      <a href="#energy">Energy Savings</a>
+      <a href="#about">About</a>
+      <a href="/market-report.html">Market Report</a>
+      <a href="https://www.google.com/search?q=INMA+Reviews&amp;si=AL3DRZEsmMGCryMMFSHJ3StBhOdZ2-6yYkXd_doETEE1OR-qOTeg_tbyVtPTNaHDbU2ptTU77lNcRH-7RwZm1CUocwn7AuV9PuoDBBr26-qW0F5Yu_88tQMD44PZy72FXRMmjoSn8qKB" target="_blank" rel="noopener">⭐ Reviews</a>
+      <a href="#from-the-hip">Free Assessment</a>
+      <a href="sms:5092517792" class="nav-cta">Text Us</a>
+      <a href="mailto:jake@inmagent.com" class="nav-cta" style="background:#6B7F5E!important;">Email Us</a>
+    </div>
+    <button class="mobile-toggle" onclick="document.getElementById('navLinks').classList.toggle('open')">
+      <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="hero-texture"></div>
+  <div class="hero-content">
+    <div class="hero-logo-wrapper">
+      <div class="logo-text"><span>I</span><span>N</span><span>M</span><span>A</span></div>
+      <img src="/IMG_6892.jpeg" alt="Logo">
+    </div>
+    <h1>YOUR <em>HOMEOWNER ADVOCATE</em></h1>
+    <p class="hero-sub"><strong style="color:#F5F2ED;">I'm not a contractor. I'm your personal homeowner advocate.</strong> You hire me to represent you &mdash; like a buyer's agent for your project. I work for you, not the crew doing the work.</p>
+    <p>25 years in residential construction. I ran my own siding company in Spokane from 2018 to 2023, then watched too many homeowners get burned &mdash; first by the national companies taking 30-40% off the top, then by the cheapest-bid Craigslist race. So I built the thing that should have existed 20 years ago: vetted local crews, fair-market pricing, no kickbacks, no ad budget buried in your quote. <strong>My fee comes out of the contract price &mdash; deducted dollar-for-dollar, in front of you. Not added on top.</strong></p>
+    <div class="hero-actions">
+      <a href="#from-the-hip" class="btn-primary">Get a Free Assessment <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l7-4-7-4"/></svg></a>
+      <a href="sms:5092517792" class="btn-secondary">Text Us Directly</a>
+    </div>
+    <a href="tel:5092517792" style="display:inline-block;margin-top:16px;color:rgba(245,242,237,0.7);font-size:1rem;font-weight:600;text-decoration:none;letter-spacing:0.02em;">📞 (509) 251-7792</a>
+    <div style="margin-top:14px;">
+      <a href="https://www.google.com/search?q=INMA+Reviews&amp;si=AL3DRZEsmMGCryMMFSHJ3StBhOdZ2-6yYkXd_doETEE1OR-qOTeg_tbyVtPTNaHDbU2ptTU77lNcRH-7RwZm1CUocwn7AuV9PuoDBBr26-qW0F5Yu_88tQMD44PZy72FXRMmjoSn8qKB" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:8px;background:rgba(184,148,31,0.15);border:1px solid rgba(184,148,31,0.55);color:#D4A843;padding:8px 18px;border-radius:999px;text-decoration:none;font-weight:600;font-size:0.85rem;letter-spacing:0.02em;">⭐ See Our 5-Star Google Reviews →</a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat-item"><h3>25+</h3><p>Years in the Trades</p></div>
+      <div class="stat-item"><h3>20-30%</h3><p>Less Than Nationals</p></div>
+      <div class="stat-item"><h3>100%</h3><p>Vetted Local Crews</p></div>
+    </div>
+  </div>
+</section>
+
+<div class="trust-bar">
+  <div class="trust-inner">
+    <div class="trust-item"><svg class="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>Licensed &amp; Bonded</div>
+    <div class="trust-item"><svg class="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg>Fully Insured</div>
+    <div class="trust-item"><svg class="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>Locally Owned</div>
+    <div class="trust-item"><svg class="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="1" y="4" width="22" height="16" rx="2" ry="2"/><line x1="1" y1="10" x2="23" y2="10"/></svg>Free Estimates</div>
+    <div class="trust-item"><svg class="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>We Never Touch Your Construction Money</div>
+  </div>
+</div>
+
+<!-- ABOUT SECTION -->
+
+<section id="the-problem" class="problem-section">
+  <div class="container">
+    <span class="section-label">The Reality</span>
+    <h2 class="section-title">You Don't Know Who<br>You're Really Hiring</h2>
+    <p class="section-subtitle">The exterior remodeling industry has a trust problem. Here's what most homeowners don't find out until it's too late.</p>
+    <div class="problem-grid">
+      <div class="problem-text">
+        <h3>Two Bad Options. Until Now.</h3>
+        <p><strong>Option A:</strong> Hire a national company. They spend millions on ads and sales commissions, then subcontract the work to the same local crews you could hire direct. You're paying 30-40% for their overhead &mdash; not for better windows, better siding, or better installers.</p>
+        <p><strong>Option B:</strong> Hire the cheapest guy off Craigslist, Facebook, or HomeAdvisor. In Washington a contractor's license costs a couple hundred bucks. That's enough to start a business &mdash; not enough to know how to run one. Every installer who sees his boss charge $5,000 and pay him $1,800 thinks he should go out on his own. Pure intent, but no understanding of overhead, margin, or operating capital. He starts your job, runs out of cash halfway through, and either asks for more money or disappears chasing a cash gig to make payroll. <strong>You get stuck.</strong></p>
+        <p>That's why five bids on the same job come back at $12k, $14k, $17k, $20k, $22k and you have no idea why. <strong style="color:#8B6914;">That's the gap I fill.</strong></p>
+      </div>
+      <div>
+        <ul class="problem-list">
+          <li><div class="icon-warn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 9v4M12 17h.01M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/></svg></div>Unlicensed contractors operate openly &mdash; they just don't advertise it. If they damage your home, you have no recourse.</li>
+          <li><div class="icon-warn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 9v4M12 17h.01M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/></svg></div>National companies mark up identical products 30-40% to cover corporate overhead, national ad buys, and sales commissions.</li>
+          <li><div class="icon-warn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 9v4M12 17h.01M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/></svg></div>No one is verifying insurance, bond status, or work history for you &mdash; unless you hire someone whose job it is to do exactly that.</li>
+          <li><div class="icon-warn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 9v4M12 17h.01M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/></svg></div>When problems arise mid-project, you need someone with field experience making decisions on-site &mdash; not a call center reading a script.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="background:white;padding:80px 32px;border-top:1px solid #E4DED2;">
+  <div class="container" style="max-width:780px;text-align:center;">
+    <span class="section-label" style="color:#8B6914;">The Relief</span>
+    <h2 class="section-title" style="font-size:clamp(1.8rem,4vw,2.6rem);">You Shouldn't Have to Do This Alone.</h2>
+    <p style="font-size:1.05rem;color:#5A5450;line-height:1.75;margin:18px auto 24px;max-width:680px;">You call four contractors. Two never call back. One shows up late. One sends a salesperson. The bids come back at $12k, $14k, $17k, $20k, $22k &mdash; and you have no idea which is the real number, or which crew will actually finish the job.</p>
+    <p style="font-size:1.25rem;font-weight:700;color:#1C1A17;margin:0 auto 14px;line-height:1.5;max-width:600px;">I bring the market to you.</p>
+    <p style="font-size:1rem;color:#5A5450;line-height:1.7;margin:0 auto;max-width:620px;">One conversation. One scope. One fair-market price &mdash; backed by my published <a href="/market-report.html" style="color:#8B6914;font-weight:600;text-decoration:underline;text-underline-offset:3px;">Fair Market Report</a>. No phone tag. No no-shows. No second-guessing the cheap guy at 11 PM.</p>
+  </div>
+</section>
+
+<section id="how-it-works" class="agency-section">
+  <div class="container">
+    <span class="section-label">The INMA Model</span>
+    <h2 class="section-title" style="color:#F5F2ED;">You Hire Me. I Represent You.</h2>
+    <p class="section-subtitle" style="color:rgba(245,242,237,0.6);">Think of INMA like a buyer's agent &mdash; but for remodeling. I don't work for the contractor. I work for you. My job is to protect your money, your timeline, and your property.</p>
+    <div class="agency-steps">
+      <div class="agency-step"><div class="agency-step-num">01</div><h3>I Walk Your Project</h3><p>I come out as an advocate, not a bidder. We walk the project together and I build a real scope &mdash; line by line. No vague "per contract" language. No "that's not included" surprises later.</p></div>
+      <div class="agency-step"><div class="agency-step-num">02</div><h3>We Set Your Budget. My Fee Deducted &mdash; In Front of You.</h3><p>Using my published <a href="/market-report.html" style="color:#B8941F;text-decoration:underline;text-underline-offset:3px;">Fair Market Report</a> &mdash; every rate sourced from public cost data, so you can verify the math yourself &mdash; we map out what your project should cost. You decide your budget. My retainer (typically 10&ndash;15% depending on scope complexity) comes out of that number dollar-for-dollar: on a <strong style="color:#F5F2ED;">$30,000</strong> budget at 10%, my fee is <strong style="color:#F5F2ED;">$3,000</strong>, and the offer that reaches the contractor is <strong style="color:#F5F2ED;">$27,000</strong>. You watch it happen. I'm not marking anything up.</p></div>
+      <div class="agency-step"><div class="agency-step-num">03</div><h3>I Present Your Offer to a Vetted Crew</h3><p>Same play as a buyer's agent submitting an offer on a house. I take your fair-market offer &mdash; with the full scope and material takeoff attached &mdash; to one of the licensed local crews I've personally vetted and stand behind. They either accept your terms or they pass. If they accept, you sign their installation contract directly with them at that number, and your material deposit goes straight to them. I never touch your construction money.</p></div>
+    </div>
+    <div class="agency-bottom">
+      <div class="agency-bottom-text"><h3>25 Years in the Field. In Your Corner.</h3><p>I've been on roofs, behind walls, and under houses since I was 15. When I look at your project, I see what most salespeople can't &mdash; because I've done the work myself. I stay available through the entire job for communication, coordination, and quality checks. When it's done, you get a full closeout packet: signed contracts, workmanship warranty, and manufacturer warranties. All of it.</p><p style="margin-top:14px;font-style:italic;color:#B8941F;">We've had buyer's agents for houses and agents for insurance for decades. There should have been one for remodeling a long time ago.</p></div>
+      <a href="#from-the-hip" class="btn-primary" style="flex-shrink:0;">Get Your Free Assessment <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12l7-4-7-4"/></svg></a>
+    </div>
+  </div>
+</section>
+
+<!-- LEVERAGE FLIP — pull-quote section between How It Works and What I Will Never Do -->
+<section style="background:#FDF8EE;padding:88px 32px;border-top:4px solid #B8941F;border-bottom:4px solid #B8941F;">
+  <div class="container" style="max-width:760px;text-align:center;">
+    <span class="section-label" style="color:#8B6914;">The Leverage Flip</span>
+    <h2 class="section-title" style="font-family:'DM Serif Display',serif;font-size:clamp(2rem,5vw,3.2rem);line-height:1.1;color:#1C1A17;margin:6px 0 28px;">Hindsight,<br>ahead of time.</h2>
+    <p style="font-size:1.1rem;color:#3A3835;line-height:1.7;margin:0 auto 22px;max-width:620px;">Most homeowners only find out what fair-market actually is <em>after</em> they've signed. By then it's too late to do anything about it.</p>
+    <p style="font-size:1.15rem;color:#1C1A17;line-height:1.65;margin:0 auto 18px;max-width:620px;font-weight:600;"><strong>You're the one offering the work.</strong> Your offer arrives at the contractor already put together &mdash; fair-market price, full scope, line items, materials. There's no room to negotiate.</p>
+    <p style="font-size:1.15rem;color:#8B6914;line-height:1.5;margin:0 auto;max-width:620px;font-style:italic;font-weight:600;">They accept it, or they pass. Leverage flipped.</p>
+  </div>
+</section>
+
+<!-- WAYS TO WORK WITH ME — service tier menu -->
+<section id="how-to-work" style="background:#F5F2ED;padding:80px 32px;scroll-margin-top:80px;">
+  <div class="container" style="max-width:1100px;">
+    <div style="text-align:center;max-width:680px;margin:0 auto 48px;">
+      <span class="section-label">Pick Your Level</span>
+      <h2 class="section-title">Four Ways We Can Work Together.</h2>
+      <p class="section-subtitle">Different commitment levels for different homeowners. All four start with a free conversation &mdash; we figure out which one fits.</p>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:18px;">
+
+      <!-- DIY Assistance -->
+      <div style="background:#fff;border:1px solid #E4DED2;border-radius:14px;padding:26px;display:flex;flex-direction:column;">
+        <div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#8B6914;font-weight:700;margin-bottom:8px;">Tier 1</div>
+        <h3 style="font-family:'DM Serif Display',serif;font-size:1.4rem;color:#2C2A27;margin:0 0 6px;">DIY Assistance</h3>
+        <p style="font-size:0.85rem;color:#7A756D;margin:0 0 14px;font-style:italic;">Do it yourself, with a coach.</p>
+        <p style="font-size:0.92rem;color:#3A3835;line-height:1.55;margin:0 0 14px;">I help you spec, source, and finish your own project &mdash; material lists, on-call guidance, quality checks when you hit a snag.</p>
+        <div style="margin-top:auto;">
+          <div style="font-size:1.05rem;font-weight:700;color:#1C1A17;margin-bottom:4px;">$250 visit + $250/wk</div>
+          <div style="font-size:0.78rem;color:#A09890;margin-bottom:14px;">Best for: doing the work yourself</div>
+          <a href="/diy.html" style="display:inline-flex;align-items:center;gap:5px;color:#8B6914;font-weight:600;font-size:0.88rem;text-decoration:none;border-bottom:1px solid #8B6914;padding-bottom:1px;">Learn more <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 1l5 5-5 5M1 6h9"/></svg></a>
+        </div>
+      </div>
+
+      <!-- Standalone Proposal -->
+      <div style="background:#fff;border:1px solid #E4DED2;border-radius:14px;padding:26px;display:flex;flex-direction:column;">
+        <div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#8B6914;font-weight:700;margin-bottom:8px;">Tier 2 &middot; New</div>
+        <h3 style="font-family:'DM Serif Display',serif;font-size:1.4rem;color:#2C2A27;margin:0 0 6px;">Standalone Proposal</h3>
+        <p style="font-size:0.85rem;color:#7A756D;margin:0 0 14px;font-style:italic;">Take it to any contractor you want.</p>
+        <p style="font-size:0.92rem;color:#3A3835;line-height:1.55;margin:0 0 14px;">I scope the project and build the budget at fair-market pricing. You walk away with a contractor-ready proposal &mdash; take it anywhere.</p>
+        <div style="margin-top:auto;">
+          <div style="font-size:1.05rem;font-weight:700;color:#1C1A17;margin-bottom:4px;">Flat fee, paid upfront</div>
+          <div style="font-size:0.78rem;color:#A09890;margin-bottom:14px;">Best for: have your own contractor</div>
+          <a href="sms:5092517792?body=I'd like a standalone proposal for my project" style="display:inline-flex;align-items:center;gap:5px;color:#8B6914;font-weight:600;font-size:0.88rem;text-decoration:none;border-bottom:1px solid #8B6914;padding-bottom:1px;">Text Jake <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 1l5 5-5 5M1 6h9"/></svg></a>
+        </div>
+      </div>
+
+      <!-- Full Scope Brokerage — highlighted -->
+      <div style="background:#1C1A17;border:2px solid #B8941F;border-radius:14px;padding:26px;display:flex;flex-direction:column;color:#F5F2ED;box-shadow:0 8px 28px rgba(184,148,31,0.18);position:relative;">
+        <div style="position:absolute;top:-12px;right:18px;background:#B8941F;color:#1C1A17;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;font-weight:700;padding:4px 10px;border-radius:4px;">The INMA Model</div>
+        <div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#B8941F;font-weight:700;margin-bottom:8px;">Tier 3</div>
+        <h3 style="font-family:'DM Serif Display',serif;font-size:1.4rem;color:#F5F2ED;margin:0 0 6px;">Full Scope</h3>
+        <p style="font-size:0.85rem;color:rgba(245,242,237,0.6);margin:0 0 14px;font-style:italic;">I represent you through the whole project.</p>
+        <p style="font-size:0.92rem;color:rgba(245,242,237,0.85);line-height:1.55;margin:0 0 14px;">Scope, vetted local crew, on-site walk, written closeout. The full buyer's-agent experience &mdash; fee comes out of the contract, never on top.</p>
+        <div style="margin-top:auto;">
+          <div style="font-size:1.05rem;font-weight:700;color:#F5F2ED;margin-bottom:4px;">10&ndash;15% of project cost</div>
+          <div style="font-size:0.78rem;color:rgba(245,242,237,0.45);margin-bottom:14px;">Best for: full advocacy from day one</div>
+          <a href="#from-the-hip" style="display:inline-flex;align-items:center;gap:5px;color:#B8941F;font-weight:600;font-size:0.88rem;text-decoration:none;border-bottom:1px solid #B8941F;padding-bottom:1px;">Free assessment <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 1l5 5-5 5M1 6h9"/></svg></a>
+        </div>
+      </div>
+
+      <!-- Home Tune-Up -->
+      <div style="background:#fff;border:1px solid #E4DED2;border-radius:14px;padding:26px;display:flex;flex-direction:column;">
+        <div style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#8B6914;font-weight:700;margin-bottom:8px;">Tier 4</div>
+        <h3 style="font-family:'DM Serif Display',serif;font-size:1.4rem;color:#2C2A27;margin:0 0 6px;">Home Tune-Up</h3>
+        <p style="font-size:0.85rem;color:#7A756D;margin:0 0 14px;font-style:italic;">Inspect &middot; Seal &middot; Clean &middot; Report.</p>
+        <p style="font-size:0.92rem;color:#3A3835;line-height:1.55;margin:0 0 14px;">Annual on-site maintenance visit. Roof, gutters, caulking, thermal scan, plus a written report on what needs attention.</p>
+        <div style="margin-top:auto;">
+          <div style="font-size:1.05rem;font-weight:700;color:#1C1A17;margin-bottom:4px;">$750 flat</div>
+          <div style="font-size:0.78rem;color:#A09890;margin-bottom:14px;">Best for: preventive care</div>
+          <a href="#tune-up" style="display:inline-flex;align-items:center;gap:5px;color:#8B6914;font-weight:600;font-size:0.88rem;text-decoration:none;border-bottom:1px solid #8B6914;padding-bottom:1px;">See details <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 1l5 5-5 5M1 6h9"/></svg></a>
+        </div>
+      </div>
+
+    </div>
+    <p style="text-align:center;font-size:0.88rem;color:#7A756D;margin:32px auto 0;max-width:580px;">Not sure which fits? Text me at <a href="sms:5092517792" style="color:#8B6914;font-weight:600;text-decoration:none;border-bottom:1px solid #8B6914;">(509) 251-7792</a> and we'll figure it out in five minutes.</p>
+  </div>
+</section>
+
+<section style="background:#2C2A27;padding:80px 32px;">
+  <div class="container">
+    <span class="section-label" style="color:#B8941F;">My Commitment to You</span>
+    <h2 class="section-title" style="color:#F5F2ED;">What I Will Never Do.</h2>
+    <p class="section-subtitle" style="color:rgba(245,242,237,0.6);margin-bottom:48px;">If I lose your trust, I don't have a business. These aren't policies &mdash; they're the whole point.</p>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px;">
+      <div style="display:flex;align-items:flex-start;gap:16px;padding:24px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);border-radius:10px;">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#B8941F" stroke-width="2" flex-shrink="0" style="flex-shrink:0;margin-top:2px;"><circle cx="12" cy="12" r="10"/><line x1="4.93" y1="4.93" x2="19.07" y2="19.07"/></svg>
+        <div><p style="font-weight:700;color:#F5F2ED;margin-bottom:4px;">Own a crew.</p><p style="font-size:0.88rem;color:rgba(245,242,237,0.5);line-height:1.6;">My job is to advocate for you, not protect a payroll. The moment I own a crew, I have a conflict of interest.</p></div>
+      </div>
+      <div style="display:flex;align-items:flex-start;gap:16px;padding:24px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);border-radius:10px;">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#B8941F" stroke-width="2" style="flex-shrink:0;margin-top:2px;"><circle cx="12" cy="12" r="10"/><line x1="4.93" y1="4.93" x2="19.07" y2="19.07"/></svg>
+        <div><p style="font-weight:700;color:#F5F2ED;margin-bottom:4px;">Mark up materials.</p><p style="font-size:0.88rem;color:rgba(245,242,237,0.5);line-height:1.6;">The price I give you is the price the contractor honors. No hidden margin added on top by me.</p></div>
+      </div>
+      <div style="display:flex;align-items:flex-start;gap:16px;padding:24px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);border-radius:10px;">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#B8941F" stroke-width="2" style="flex-shrink:0;margin-top:2px;"><circle cx="12" cy="12" r="10"/><line x1="4.93" y1="4.93" x2="19.07" y2="19.07"/></svg>
+        <div><p style="font-weight:700;color:#F5F2ED;margin-bottom:4px;">Sell your information.</p><p style="font-size:0.88rem;color:rgba(245,242,237,0.5);line-height:1.6;">Your name, number, and project details stay with me. No lead marketplaces, no referral kickbacks, no eight contractors calling you tomorrow.</p></div>
+      </div>
+      <div style="display:flex;align-items:flex-start;gap:16px;padding:24px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);border-radius:10px;">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#B8941F" stroke-width="2" style="flex-shrink:0;margin-top:2px;"><circle cx="12" cy="12" r="10"/><line x1="4.93" y1="4.93" x2="19.07" y2="19.07"/></svg>
+        <div><p style="font-weight:700;color:#F5F2ED;margin-bottom:4px;">Hide what I charge.</p><p style="font-size:0.88rem;color:rgba(245,242,237,0.5);line-height:1.6;">My fee is 10&ndash;15% of the fair-market value I prepare for your project, depending on scope complexity. Every rate in my <a href="/market-report.html" style="color:#B8941F;text-decoration:underline;text-underline-offset:3px;">Fair Market Report</a> comes from published cost sources you can look up yourself &mdash; so the number isn't "trust me," it's math you can verify.</p></div>
+      </div>
+      <div style="display:flex;align-items:flex-start;gap:16px;padding:24px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);border-radius:10px;">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#B8941F" stroke-width="2" style="flex-shrink:0;margin-top:2px;"><circle cx="12" cy="12" r="10"/><line x1="4.93" y1="4.93" x2="19.07" y2="19.07"/></svg>
+        <div><p style="font-weight:700;color:#F5F2ED;margin-bottom:4px;">Take kickbacks from suppliers.</p><p style="font-size:0.88rem;color:rgba(245,242,237,0.5);line-height:1.6;">I recommend products based on performance and fit for your project. Not because someone's paying me to.</p></div>
+      </div>
+      <div style="display:flex;align-items:flex-start;gap:16px;padding:24px;background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.06);border-radius:10px;">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#B8941F" stroke-width="2" style="flex-shrink:0;margin-top:2px;"><circle cx="12" cy="12" r="10"/><line x1="4.93" y1="4.93" x2="19.07" y2="19.07"/></svg>
+        <div><p style="font-weight:700;color:#F5F2ED;margin-bottom:4px;">Touch your construction money.</p><p style="font-size:0.88rem;color:rgba(245,242,237,0.5);line-height:1.6;">Your deposit and final payment go directly to the contractor. I never hold, collect, or disburse construction funds. Ever.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- RECENT WORK PROOF STRIP -->
+<section style="background:#F5F2ED;padding:72px 32px;">
+  <div class="container" style="max-width:1100px;">
+    <div style="display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:16px;margin-bottom:28px;">
+      <div>
+        <span class="section-label">Proof, Not Promises</span>
+        <h2 class="section-title" style="margin-bottom:0;">Recent Work.</h2>
+      </div>
+      <a href="/work.html" style="display:inline-flex;align-items:center;gap:6px;color:#8B6914;font-weight:600;font-size:0.95rem;text-decoration:none;border-bottom:1px solid #8B6914;padding-bottom:2px;">See all 40+ projects <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 2l6 5-6 5M1 7h11"/></svg></a>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;">
+      <a href="/work.html"><img src="work/thumbs/IMG_0280.JPG" alt="Hardie siding install — Spokane" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:10px;display:block;"></a>
+      <a href="/work.html"><img src="work/thumbs/IMG_0285.JPG" alt="Hardie siding install — Spokane" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:10px;display:block;"></a>
+      <a href="/work.html"><img src="work/thumbs/IMG_0290.JPG" alt="Hardie siding install — Spokane" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:10px;display:block;"></a>
+      <a href="/work.html"><img src="work/thumbs/IMG_0300.JPG" alt="Hardie siding install — Spokane" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:10px;display:block;"></a>
+      <a href="/work.html"><img src="work/thumbs/IMG_0310.JPG" alt="Hardie siding install — Spokane" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:10px;display:block;"></a>
+      <a href="/work.html"><img src="work/thumbs/A44161DE-8F01-420C-B709-1151EA99DE29-COLLAGE.JPG" alt="Before and after siding — Spokane" loading="lazy" style="width:100%;aspect-ratio:1;object-fit:cover;border-radius:10px;display:block;"></a>
+    </div>
+  </div>
+</section>
+
+<section style="background:#EDE8E0;padding:80px 32px;">
+  <div class="container">
+    <span class="section-label">What Homeowners Say</span>
+    <h2 class="section-title">Real Projects. Real Results.</h2>
+
+    <!-- Centered testimonial -->
+    <div style="max-width:520px;margin:48px auto 0;text-align:center;">
+      <img src="Frederick.png .jpg" alt="5-star review from Fredrick" style="width:100%;border-radius:12px;border:1px solid #D6D0C6;box-shadow:0 4px 24px rgba(0,0,0,0.08);margin-bottom:28px;display:block;">
+      <p style="color:#4A3F35;font-size:1rem;line-height:1.7;margin:0 0 12px;">Every project Jake takes on is backed by 25 years of field experience and a commitment to keeping you informed every step of the way.</p>
+      <p style="color:#6B5E50;font-size:0.92rem;margin:0 0 28px;">Had a good experience? Let others know.</p>
+      <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;">
+        <a href="/Review.html" style="display:inline-flex;align-items:center;gap:10px;background:#8B6914;color:white;padding:13px 24px;border-radius:8px;text-decoration:none;font-weight:600;font-size:0.92rem;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="#D4A843"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+          Leave a Review
+        </a>
+        <a href="https://www.google.com/search?q=INMA+Reviews&amp;si=AL3DRZEsmMGCryMMFSHJ3StBhOdZ2-6yYkXd_doETEE1OR-qOTeg_tbyVtPTNaHDbU2ptTU77lNcRH-7RwZm1CUocwn7AuV9PuoDBBr26-qW0F5Yu_88tQMD44PZy72FXRMmjoSn8qKB" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:10px;background:transparent;color:#8B6914;border:2px solid #8B6914;padding:13px 24px;border-radius:8px;text-decoration:none;font-weight:600;font-size:0.92rem;">
+          Read Our Google Reviews
+          <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M7 1h6v6M13 1L6 8"/></svg>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<section id="approach" class="approach-section">
+  <div class="container">
+    <span class="section-label">See the Difference</span>
+    <h2 class="section-title">National Company vs. INMA</h2>
+    <p class="section-subtitle">Same products. Same distributors. Same local crews doing the actual work. The only difference is who's taking a cut &mdash; and how big that cut is.</p>
+    <div class="approach-grid">
+      <div class="approach-text">
+        <h3>Where Your Money Actually Goes</h3>
+        <p>When you hire a national remodeling company, a significant portion of your payment goes to corporate overhead, national advertising, and sales commissions. The contractor who actually does the work? They see a fraction of what you paid.</p>
+        <p>INMA eliminates that waste. You get the same products from the same distributors, installed by vetted local professionals &mdash; with direct communication, faster scheduling, and a significantly better price.</p>
+        <p><strong>Bring us any national company's estimate.</strong> We'll show you what that project should actually cost.</p>
+      </div>
+      <div>
+        <div class="approach-compare">
+          <div class="compare-header"><div class="them">National Companies</div><div class="us">INMA</div></div>
+          <div class="compare-row"><div class="them">Call center support</div><div class="us">Direct to your advocate</div></div>
+          <div class="compare-row"><div class="them">30-40% corporate markup</div><div class="us">No overhead markup</div></div>
+          <div class="compare-row"><div class="them">Assigned random crew</div><div class="us">Best contractor for the job</div></div>
+          <div class="compare-row"><div class="them">Weeks to schedule</div><div class="us">Faster scheduling</div></div>
+          <div class="compare-row"><div class="them">Decisions made off-site</div><div class="us">On-site project management</div></div>
+          <div class="compare-row"><div class="them">Your money leaves Spokane</div><div class="us">100% stays local</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- UPLOAD YOUR QUOTE CTA -->
+<section style="background:#1C1A17;padding:72px 32px;position:relative;overflow:hidden;">
+  <div style="position:absolute;inset:0;background:radial-gradient(ellipse 70% 50% at 50% 40%,rgba(184,148,31,0.1) 0%,transparent 70%);"></div>
+  <div class="container" style="position:relative;z-index:2;text-align:center;max-width:720px;">
+    <span class="section-label" style="color:#B8941F;">Got a National Firm Quote?</span>
+    <h2 class="section-title" style="color:#F5F2ED;">Upload it. I'll walk you through it.</h2>
+    <p class="section-subtitle" style="color:rgba(245,242,237,0.65);margin-bottom:32px;">Same products. Same distributors. Same local crews. Upload what a national firm quoted you and I'll walk you through it line by line against my <a href="/market-report.html" style="color:#B8941F;text-decoration:underline;text-underline-offset:3px;">Fair Market Report</a> — every rate sourced from public cost data you can verify yourself. I can very often reduce these projects by around 20%. Free review. No obligation.</p>
+    <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-bottom:20px;">
+      <a href="/upload.html" style="display:inline-flex;align-items:center;gap:8px;background:#B8941F;color:#1C1A17;font-weight:700;font-size:1rem;padding:16px 32px;border-radius:8px;text-decoration:none;transition:all 0.2s;">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+        Upload Your Quote
+      </a>
+      <a href="sms:5092517792?body=I have a quote I'd like compared" style="display:inline-flex;align-items:center;gap:8px;background:transparent;color:#F5F2ED;border:1px solid rgba(245,242,237,0.25);font-weight:600;font-size:1rem;padding:16px 28px;border-radius:8px;text-decoration:none;">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        Text it to me
+      </a>
+    </div>
+    <p style="font-size:0.82rem;color:rgba(245,242,237,0.4);margin:0;">Takes 30 seconds. We respond same day with a line-by-line comparison.</p>
+  </div>
+</section>
+
+<section id="services">
+  <div class="container">
+    <span class="section-label">What We Coordinate</span>
+    <h2 class="section-title">Exterior Remodeling,<br>Done Right</h2>
+    <p class="section-subtitle">Four core services &mdash; each managed by INMA and executed by vetted local contractors with verified credentials.</p>
+    <div class="services-grid">
+      <div class="service-card"><div class="service-icon"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 3v18"/></svg></div><h3>Siding</h3>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:12px 0;">
+          <img src="hardie-ba-1.png" alt="Before and after Hardie siding" style="width:100%;height:120px;object-fit:cover;border-radius:8px;">
+          <img src="hardie-ba-2.png" alt="Before and after Hardie siding" style="width:100%;height:120px;object-fit:cover;border-radius:8px;">
+        </div>
+        <p>James Hardie ColorPlus fiber cement, vinyl, and engineered wood siding. Same product the nationals sell &mdash; same distributors, same 15-year color warranty &mdash; without the corporate markup.</p>
+        <a href="/work.html?service=siding" style="display:inline-flex;align-items:center;gap:5px;margin-top:14px;color:#8B6914;font-weight:600;font-size:0.85rem;text-decoration:none;border-bottom:1px solid #8B6914;">View recent siding work <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 1l5 5-5 5M1 6h9"/></svg></a>
+        <a href="https://www.jameshardie.com/hardie-designer/" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:5px;margin-top:8px;color:#8B6914;font-weight:600;font-size:0.85rem;text-decoration:none;border-bottom:1px solid #8B6914;">Try Hardie Designer <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 1h4v4M11 1L5 7"/></svg></a>
+        <a href="https://www.jameshardie.com/product-catalog/exterior-siding-products/" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:5px;margin-top:16px;color:#8B6914;font-weight:600;font-size:0.85rem;text-decoration:none;border-bottom:1px solid #8B6914;">Browse Hardie Products <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 1h4v4M11 1L5 7"/></svg></a></div>
+      <div class="service-card"><div class="service-icon"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="1"/><path d="M12 4v16M2 12h20"/></svg></div><h3>Windows</h3><img src="windows-photo.png" alt="Energy efficient windows" style="width:100%;height:160px;object-fit:cover;border-radius:8px;margin:12px 0;"><p>Energy-efficient window replacement with low-E glass and argon fills. We use thermal imaging to pinpoint exactly where your home is losing energy &mdash; no guesswork, no upselling. <strong>Locally manufactured right here in the Inland Northwest</strong> by Coeur d'Alene Window.</p><p style="font-size:0.85rem;color:#5A5450;font-style:italic;margin-top:8px;border-left:3px solid #B8941F;padding-left:10px;">Full disclosure: I spent 14 years installing these windows for McVay Brothers &mdash; the last 5 as their lead installer. I know every series they build and every detail that matters on a Spokane install.</p><a href="/work.html?service=windows" style="display:inline-flex;align-items:center;gap:5px;margin-top:14px;color:#8B6914;font-weight:600;font-size:0.85rem;text-decoration:none;border-bottom:1px solid #8B6914;">View recent window work <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 1l5 5-5 5M1 6h9"/></svg></a><a href="https://www.facebook.com/share/1FyMPGiGAC/" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:5px;margin-top:8px;color:#8B6914;font-weight:600;font-size:0.85rem;text-decoration:none;border-bottom:1px solid #8B6914;">See Coeur d'Alene Window's Recent Builds <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 1h4v4M11 1L5 7"/></svg></a><a href="https://www.myavista.com/energy-savings/rebates-washington/single-family-energy-rebates-washington/windows" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:5px;margin-top:8px;color:#8B6914;font-weight:600;font-size:0.85rem;text-decoration:none;border-bottom:1px solid #8B6914;">Apply for Avista Window Rebates <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 1h4v4M11 1L5 7"/></svg></a></div>
+      <div class="service-card"><div class="service-icon"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21V7l9-4 9 4v14"/><rect x="9" y="13" width="6" height="8"/></svg></div><h3>Doors</h3><img src="doors-photo.png" alt="Beautiful entry door" style="width:100%;height:160px;object-fit:cover;object-position:center top;border-radius:8px;margin:12px 0;"><p>Entry doors, patio doors, and storm doors &mdash; insulated, properly sealed, and built to handle Spokane's weather. Eliminates drafts and cuts energy waste.</p><a href="/work.html?service=doors" style="display:inline-flex;align-items:center;gap:5px;margin-top:14px;color:#8B6914;font-weight:600;font-size:0.85rem;text-decoration:none;border-bottom:1px solid #8B6914;">View recent door work <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 1l5 5-5 5M1 6h9"/></svg></a></div>
+      <div class="service-card"><div class="service-icon"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V6M5 12l7-7 7 7"/><path d="M3 20h18"/></svg></div><h3>Exterior Painting</h3><p>Professional prep, premium paint, and meticulous detail work. We deliver finishes that protect and perform through Spokane's winters &mdash; not the cheapest bid, the right bid.</p><a href="/work.html?service=paint" style="display:inline-flex;align-items:center;gap:5px;margin-top:14px;color:#8B6914;font-weight:600;font-size:0.85rem;text-decoration:none;border-bottom:1px solid #8B6914;">View recent paint work <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 1l5 5-5 5M1 6h9"/></svg></a></div>
+      <div class="service-card"><div class="service-icon"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div><h3>DIY Assistance</h3><p>Want to do it yourself? I'll walk you through the process step by step &mdash; from material lists and product selection to on-call guidance when you hit a snag. 25 years of field knowledge in your corner, without the full project cost.</p><div style="display:flex;gap:10px;margin-top:14px;flex-wrap:wrap;"><a href="diy.html" style="display:inline-flex;align-items:center;gap:6px;background:#8B6914;color:#fff;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:600;font-size:.85rem;transition:background .2s;">Learn more →</a><a href="sms:5092517792" style="display:inline-flex;align-items:center;gap:6px;background:rgba(107,127,94,.15);color:#2C2A27;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:600;font-size:.85rem;border:1px solid #D6D0C6;transition:background .2s;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>Text Us</a></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="tune-up" style="background:#1B2A1F;padding:80px 32px;position:relative;overflow:hidden;scroll-margin-top:80px;">
+  <div style="position:absolute;inset:0;background:radial-gradient(ellipse 60% 50% at 30% 50%,rgba(107,127,94,0.12) 0%,transparent 70%);"></div>
+  <div class="container" style="position:relative;z-index:2;">
+    <span class="section-label" style="color:#6B7F5E;">Preventive Care</span>
+    <h2 class="section-title" style="color:#F5F2ED;">Your Car Gets Serviced.<br>Your Home Should Too.</h2>
+    <p class="section-subtitle" style="color:rgba(245,242,237,0.6);margin-bottom:48px;">Small problems become big problems fast. UV cracks the caulk. Heat opens up worn paint. The first storm of the season finds the weak spot in your roof. A tune-up catches it before it bills you.</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start;">
+      <div>
+        <div style="background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:32px;margin-bottom:24px;">
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:24px;">
+            <div>
+              <h3 style="font-family:'DM Serif Display',serif;font-size:1.4rem;color:#F5F2ED;margin:0;">Home Tune-Up</h3>
+              <div style="font-size:0.72rem;letter-spacing:2px;text-transform:uppercase;color:#6B7F5E;margin-top:2px;font-weight:600;">Inspect &middot; Seal &middot; Clean &middot; Report</div>
+            </div>
+            <span style="font-family:'DM Serif Display',serif;font-size:1.8rem;color:#B8941F;">$750</span>
+          </div>
+          <ul style="list-style:none;display:flex;flex-direction:column;gap:14px;">
+            <li style="display:flex;gap:12px;align-items:flex-start;font-size:0.92rem;color:rgba(245,242,237,0.7);line-height:1.5;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#6B7F5E" stroke-width="2" style="flex-shrink:0;margin-top:2px;"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span><strong style="color:#F5F2ED;">Roof</strong> — visual inspection, seal exposed nails, photo documentation</span></li>
+            <li style="display:flex;gap:12px;align-items:flex-start;font-size:0.92rem;color:rgba(245,242,237,0.7);line-height:1.5;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#6B7F5E" stroke-width="2" style="flex-shrink:0;margin-top:2px;"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span><strong style="color:#F5F2ED;">Exterior</strong> — inspect siding, doors, windows, caulking. Re-seal where needed</span></li>
+            <li style="display:flex;gap:12px;align-items:flex-start;font-size:0.92rem;color:rgba(245,242,237,0.7);line-height:1.5;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#6B7F5E" stroke-width="2" style="flex-shrink:0;margin-top:2px;"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span><strong style="color:#F5F2ED;">Gutters</strong> — clean up to 150 linear feet</span></li>
+            <li style="display:flex;gap:12px;align-items:flex-start;font-size:0.92rem;color:rgba(245,242,237,0.7);line-height:1.5;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#6B7F5E" stroke-width="2" style="flex-shrink:0;margin-top:2px;"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span><strong style="color:#F5F2ED;">Thermal Scan</strong> — full walk-through with thermal camera. See exactly where you're losing money on heating and cooling</span></li>
+            <li style="display:flex;gap:12px;align-items:flex-start;font-size:0.92rem;color:rgba(245,242,237,0.55);line-height:1.5;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#6B7F5E" stroke-width="2" style="flex-shrink:0;margin-top:2px;"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span>Window washing available upon request</span></li>
+          </ul>
+        </div>
+        <div style="background:rgba(184,148,31,0.08);border:1px solid rgba(184,148,31,0.2);border-radius:10px;padding:20px;">
+          <p style="font-size:0.88rem;color:rgba(245,242,237,0.7);line-height:1.65;">You walk away with a full written report on the remaining lifespan of your roof, siding, windows, paint, and door seals &mdash; plus written estimates on anything that needs attention. <strong style="color:#F5F2ED;">Estimates valid 60 days.</strong></p>
+        </div>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:20px;">
+        <div style="background:rgba(192,57,43,0.08);border:1px solid rgba(192,57,43,0.2);border-radius:10px;padding:24px;">
+          <h4 style="font-size:0.85rem;font-weight:700;color:#C0392B;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px;">Ask about chimney flashing</h4>
+          <p style="font-size:0.88rem;color:rgba(245,242,237,0.6);line-height:1.65;">It's the most common leak source we see — almost always because a roofer in a hurry reused the old flashing. We cut grooves and replace galvanized step flashing with solid steel pans that seal it permanently. Chimneys leak frequently. Don't wait for the ceiling stain.</p>
+        </div>
+        <div style="background:rgba(107,127,94,0.08);border:1px solid rgba(107,127,94,0.2);border-radius:10px;padding:24px;text-align:center;">
+          <p style="font-size:0.95rem;color:#F5F2ED;font-weight:600;margin-bottom:6px;">Play the game. See what Spokane throws at your home.</p>
+          <p style="font-size:0.82rem;color:rgba(245,242,237,0.5);margin-bottom:16px;">Win and get 10% off your Tune-Up. One shot per day.</p>
+          <a href="/game.html" style="display:inline-flex;align-items:center;gap:8px;background:#6B7F5E;color:white;padding:12px 24px;border-radius:8px;text-decoration:none;font-weight:700;font-size:0.95rem;">Play to Win 10% Off</a>
+        </div>
+        <a href="sms:5092517792?body=I'd like to book a Home Tune-Up" style="display:flex;align-items:center;justify-content:center;gap:10px;background:#8B6914;color:white;padding:16px;border-radius:8px;text-decoration:none;font-weight:700;font-size:1rem;text-align:center;">Book a Tune-Up — $750</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="energy" class="energy-section">
+  <div class="container">
+    <span class="section-label">Stop Paying to Heat the Outdoors</span>
+    <h2 class="section-title" style="color: #F5F2ED;">Your Avista Bill Has Nearly<br>Doubled Since 2019.</h2>
+    <p class="section-subtitle">Electric is up 94%. Gas is projected up 114% by 2030. That's not a prediction &mdash; it's already happening. The smartest move isn't arguing your utility bill &mdash; it's using less energy.</p>
+    <div class="energy-content">
+      <div class="energy-left">
+        <div class="rate-table-wrap"><table class="rate-table">
+          <tr><th></th><th>2019</th><th>2026</th><th>2030 Est.</th><th>Increase</th></tr>
+          <tr><td>Electric</td><td>$81.59/mo</td><td>$121.46/mo</td><td>$157.94/mo</td><td class="increase">+94%</td></tr>
+          <tr><td>Natural Gas</td><td>$47.79/mo</td><td>-</td><td>$102.46/mo</td><td class="increase">+114%</td></tr>
+        </table></div>
+        <p>The biggest source of wasted energy in most Spokane homes isn't your furnace. It's your envelope &mdash; <strong>old windows, aluminum frames, and uninsulated walls</strong> bleeding heat every hour of every winter night.</p>
+        <p>A single-pane window loses heat 75% faster than a modern ENERGY STAR vinyl double-pane. Aluminum frames are worse &mdash; aluminum conducts heat over 1,000&times; faster than vinyl. If you have frost or condensation pooling on your sills in January, your frames are near exterior temperature inside your house. <strong>You're paying for that every month.</strong></p>
+        <p>New vinyl windows with low-E glass and argon fill cut that loss dramatically. Avista pays up to <strong>$225 per window</strong> in rebates on contractor-installed ENERGY STAR units &mdash; and their Energy Smart Loan lets you finance the rest at 7.5% APR with zero down, paid back on your monthly Avista bill.</p>
+      </div>
+      <div class="thermal-box">
+        <h3>Free Thermal Imaging Scan</h3>
+        <p>We use thermal imaging to pinpoint exactly where your home is losing energy. Infrared scans reveal hidden heat transfer through walls, windows, doors, and gaps invisible to the naked eye.</p>
+        <div class="thermal-feature"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span>High-performance windows with low-E glass and argon fills</span></div>
+        <div class="thermal-feature"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span>Proper air sealing around all openings &mdash; the #1 overlooked source of energy waste</span></div>
+        <div class="thermal-feature"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span>Thermal imaging report included with every estimate</span></div>
+        <div class="lighter-test"><h4>Quick Window Test</h4><p>Hold a lighter or flashlight up to your window glass. You should see 3 or 4 reflections. If one has a metallic green or pink tint, that's your low-E coating working. If they all look the same, your windows don't have low-E and you're losing energy every day.</p></div>
+        <div style="margin-top:22px;padding-top:20px;border-top:1px solid rgba(255,255,255,0.08);">
+          <p style="font-size:0.88rem;color:rgba(245,242,237,0.55);line-height:1.6;margin:0 0 14px;">Not ready for a full project? Book a <strong style="color:#D4A843;">standalone thermal imaging report</strong> &mdash; detailed walk-through with written findings so you can see exactly where your home is losing energy.</p>
+          <a href="sms:5092517792?&amp;body=Hi%20Jake%20%E2%80%94%20I%27d%20like%20to%20book%20a%20thermal%20imaging%20report%20%28%24150%29.%20My%20address%3A%20" style="display:inline-flex;align-items:center;gap:10px;background:#B8941F;color:#1C1A17;padding:13px 22px;border-radius:8px;font-weight:700;font-size:0.92rem;text-decoration:none;letter-spacing:0.02em;">
+            📸 Book Thermal Imaging Report &mdash; $150
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="rebates" class="rebates-section">
+  <div class="container">
+    <span class="section-label">Put Money Back in Your Pocket</span>
+    <h2 class="section-title">Available Rebates</h2>
+    <p class="section-subtitle">Utility rebates can dramatically offset the cost of energy-efficient upgrades. We handle the paperwork for you.</p>
+    <div style="margin-top: 16px;"><a href="https://www.myavista.com/energy-savings/rebates-washington/single-family-energy-rebates-washington/windows" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 6px; color: #8B6914; font-weight: 600; font-size: 0.92rem; text-decoration: none; border-bottom: 1px solid #8B6914;">Apply for Avista Window Rebates <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 1h6v6M13 1L6 8"/></svg></a></div>
+    <div class="rebates-grid">
+      <div class="rebate-card"><h3>Window Rebates</h3>
+        <div class="rebate-row"><span class="desc">U-Factor .29 to .23 (contractor installed)</span><span class="amount">$180/window</span></div>
+        <div class="rebate-row"><span class="desc">U-Factor .22 or below (contractor installed)</span><span class="amount">$225/window</span></div>
+        <div class="rebate-row"><span class="desc">U-Factor .29 to .23 (DIY)</span><span class="amount">$90/window</span></div>
+        <div class="rebate-row"><span class="desc">U-Factor .22 or below (DIY)</span><span class="amount">$112/window</span></div>
+      </div>
+      <div class="rebate-card"><h3>Door Rebates</h3>
+        <div class="rebate-row"><span class="desc">Sliding glass door .29-.23 (contractor)</span><span class="amount">$480/door</span></div>
+        <div class="rebate-row"><span class="desc">Sliding glass door .22 or below (contractor)</span><span class="amount">$600/door</span></div>
+        <div class="rebate-row"><span class="desc">Exterior door R-5 or ENERGY STAR</span><span class="amount">$100/door</span></div>
+        <div class="rebate-row"><span class="desc">Contractor installs qualify for higher rebates</span><span class="amount" style="color: #8B6914;">We handle paperwork</span></div>
+      </div>
+    </div>
+    <div class="financing-banner">
+      <div>
+        <h3>Avista Energy Smart Loans</h3>
+        <p>Through Avista's partnership with PSCCU, homeowners can access low-cost financing for energy-efficient upgrades &mdash; zero down, with convenient on-bill repayment. Payments as low as $50/month added to your Avista bill.</p>
+        <a href="https://www.myavista.com/energy-savings/energy-smart-loans/wa-energy-efficiency-financing" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 6px; color: #8B6914; font-weight: 600; font-size: 0.92rem; text-decoration: none; border-bottom: 1px solid #8B6914; margin-top: 12px;">Apply for Energy Smart Loan <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 1h6v6M13 1L6 8"/></svg></a>
+      </div>
+      <div class="financing-stats">
+        <div class="fin-stat"><div class="num">7.5%</div><div class="label">Max APR</div></div>
+        <div class="fin-stat"><div class="num">$30k</div><div class="label">Up To</div></div>
+        <div class="fin-stat"><div class="num">15yr</div><div class="label">Max Term</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="about" class="about-section">
+  <div class="container">
+    <div class="about-grid">
+      <img src="jake-photo.jpeg" alt="Jake - INMA founder" class="about-photo">
+      <div class="about-text">
+        <span class="section-label">Meet Your Advocate</span>
+        <h3>Jake Bishop &mdash; Born &amp; Raised in Spokane</h3>
+        <p>I've been in residential construction since I was 15, learning the trade from my dad. Family man with four kids. I spent 14 years at McVay Brothers / Coeur d'Alene Window &mdash; the last 5 as their <strong>lead window installer</strong>. After that I ran Inland Exteriors LLC here in Spokane from 2018 to 2023, so I understand both the field work and the business side.</p>
+        <p>Covid hit us at the worst time, and an injury took me off the jobsite for good. I didn't want to leave the trades. So I built the thing that should have existed 20 years ago &mdash; a way for homeowners to get a real advocate without paying national-firm overhead or rolling the dice on the cheapest bid.</p>
+        <p><strong>I know which Spokane crews do clean work and which ones cut corners &mdash; because I've worked alongside them.</strong> That's the difference between hoping for the best and having someone in your corner who's been there.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="from-the-hip" id="from-the-hip">
+  <div class="fth-inner">
+    <div class="fth-left">
+      <div class="fth-badge">Free Expert Assessment</div>
+      <h2 class="fth-title">From the <em>Hip</em></h2>
+      <p class="fth-desc">Tell us what you're thinking and what you want to spend. We'll give you a straight, honest take &mdash; is your budget realistic? What should you watch out for? Then we'll match you with the right vetted contractor for your goals.</p>
+      <p class="fth-desc" style="margin-bottom: 32px;"><strong style="color: #F5F2ED;">No sales pitch. No runaround.</strong> Just 25+ years of field experience, working for you.</p>
+      <div class="fth-how-it-works">
+        <div class="fth-step"><div class="fth-step-num">1</div><div class="fth-step-text"><strong>Submit your project details</strong> &mdash; what you want done, your budget, your timeline.</div></div>
+        <div class="fth-step"><div class="fth-step-num">2</div><div class="fth-step-text"><strong>Get an expert opinion</strong> &mdash; we'll tell you honestly if your budget works and what to expect.</div></div>
+        <div class="fth-step"><div class="fth-step-num">3</div><div class="fth-step-text"><strong>We find your match</strong> &mdash; the right local contractor for your specific project and budget.</div></div>
+      </div>
+    </div>
+    <div class="fth-form-card">
+      <div id="fthFormContent">
+        <h3 class="fth-form-title">Tell us about your project</h3>
+        <p class="fth-form-sub">We'll respond within 24 hours with an honest assessment.</p>
+        <div class="fth-field"><label for="fth-name">Your Name</label><input type="text" id="fth-name" placeholder="Full name" required></div>
+        <div class="fth-field"><label for="fth-email">Email</label><input type="email" id="fth-email" placeholder="you@email.com" required></div>
+        <div class="fth-field"><label for="fth-phone">Phone</label><input type="tel" id="fth-phone" placeholder="(509) 555-0123"></div>
+        <div class="fth-field"><label for="fth-address">Property Address</label><input type="text" id="fth-address" placeholder="Street address, city" required></div>
+        <div class="fth-field">
+          <label>What are you looking to do?</label>
+          <div class="fth-checks">
+            <label class="fth-check"><input type="checkbox" name="service" value="Siding"><span class="fth-check-box"><svg viewBox="0 0 12 12" fill="none" stroke="white" stroke-width="2"><path d="M2 6l3 3 5-5"/></svg></span><span class="fth-check-label">Siding</span></label>
+            <label class="fth-check"><input type="checkbox" name="service" value="Windows"><span class="fth-check-box"><svg viewBox="0 0 12 12" fill="none" stroke="white" stroke-width="2"><path d="M2 6l3 3 5-5"/></svg></span><span class="fth-check-label">Windows</span></label>
+            <label class="fth-check"><input type="checkbox" name="service" value="Doors"><span class="fth-check-box"><svg viewBox="0 0 12 12" fill="none" stroke="white" stroke-width="2"><path d="M2 6l3 3 5-5"/></svg></span><span class="fth-check-label">Doors</span></label>
+            <label class="fth-check"><input type="checkbox" name="service" value="Painting"><span class="fth-check-box"><svg viewBox="0 0 12 12" fill="none" stroke="white" stroke-width="2"><path d="M2 6l3 3 5-5"/></svg></span><span class="fth-check-label">Painting</span></label>
+          </div>
+        </div>
+        <div class="fth-row">
+          <div class="fth-field"><label for="fth-budget">Your Budget</label><input type="text" id="fth-budget" placeholder="e.g. $8,000 - $12,000"></div>
+          <div class="fth-field"><label for="fth-sqft">Approx. Sq Footage</label><input type="text" id="fth-sqft" placeholder="If you know it"></div>
+        </div>
+        <div class="fth-field"><label for="fth-notes">Anything else we should know?</label><textarea id="fth-notes" placeholder="Current condition, concerns, timeline, etc."></textarea></div>
+        <div class="fth-buttons">
+          <div class="fth-btn-wrap"><button class="fth-submit-email" onclick="submitViaEmail()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 4l-10 8L2 4"/></svg>Submit Assessment</button></div>
+          <div class="fth-btn-wrap"><button class="fth-submit-messenger" onclick="submitViaText()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>Send with Text</button><span class="fth-faster">&#9889; Faster response</span></div>
+        </div>
+        <p class="fth-privacy">Your info stays with us. We don't sell data or share your details.</p>
+      </div>
+      <div class="fth-success" id="fthSuccess">
+        <div class="fth-success-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg></div>
+        <h3>We're on it.</h3>
+        <p>Jake will review your project and get back to you within 24 hours with an honest assessment and recommendations.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="cta-section">
+  <div class="container cta-content">
+    <span class="section-label">Ready to Have Someone in Your Corner?</span>
+    <h2 class="section-title">Bring Me Your Project.</h2>
+    <p>No pressure, no pitch, no commission for me to chase. Just a straight read on your project, your budget, and who should actually do the work.</p>
+    <div style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;">
+      <a href="sms:5092517792" class="btn-primary" style="font-size:1.1rem;padding:18px 40px;">Text for Free Estimate</a>
+      <a href="mailto:jake@inmagent.com" class="btn-secondary" style="font-size:1.1rem;padding:18px 40px;border:2px solid rgba(255,255,255,0.3);"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 4l-10 8L2 4"/></svg> Email Us</a>
+    </div>
+    <div style="margin-top:18px;">
+      <a href="/jake.vcf" download="Jake Bishop - INMA.vcf" style="display:inline-flex;align-items:center;gap:8px;background:transparent;color:rgba(245,242,237,0.75);border:1px solid rgba(245,242,237,0.18);padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:600;font-size:0.88rem;">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+        Save my contact
+      </a>
+    </div>
+    <div class="cta-or">or call us directly</div>
+    <a href="tel:5092517792" class="cta-phone">(509) 251-7792</a>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">INMA<span>.</span></div>
+      <p style="color: rgba(245,242,237,0.3); font-size: 0.82rem; margin-top: 6px;">Your Personal Homeowner Advocate &mdash; Spokane, WA</p>
+    </div>
+    <div class="footer-info">
+      <p>WA UBI #606 027 063 &middot; <a href="https://secure.dor.wa.gov/gteunauth/_/" target="_blank" rel="noopener" style="color:rgba(184,148,31,0.7);">Verify &rarr;</a></p>
+      <p style="margin-top: 4px;"><a href="mailto:jake@inmagent.com">jake@inmagent.com</a></p>
+      <p style="margin-top: 10px;"><a href="/jake.vcf" download="Jake Bishop - INMA.vcf" style="display:inline-flex;align-items:center;gap:6px;color:#B8941F;text-decoration:none;font-size:0.82rem;font-weight:600;"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>Save my contact</a></p>
+      <p style="margin-top: 12px;"><a href="/contractor.html" style="display:inline-block;color:#B8941F;border:1px solid rgba(184,148,31,0.4);padding:6px 14px;border-radius:6px;font-size:0.82rem;font-weight:600;text-decoration:none;transition:background 0.2s;">Are you a contractor? Learn more →</a></p>
+      <p style="margin-top: 8px; font-size: 0.75rem;">&copy; 2026 INMA. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+<div class="floating-btns">
+  <a class="float-btn float-messenger" href="sms:5092517792">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+    <span class="float-label">Text Us</span>
+  </a>
+  <a class="float-btn float-email" href="mailto:jake@inmagent.com">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 4l-10 8L2 4"/></svg>
+    <span class="float-label">Email Us</span>
+  </a>
+</div>
+
+<script>
+  window.addEventListener('scroll', function() {
+    document.getElementById('nav').classList.toggle('scrolled', window.scrollY > 20);
+  });
+  document.querySelectorAll('a[href^="#"]').forEach(function(a) {
+    a.addEventListener('click', function(e) {
+      e.preventDefault();
+      var el = document.querySelector(a.getAttribute('href'));
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      document.getElementById('navLinks').classList.remove('open');
+    });
+  });
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) {
+      if (e.isIntersecting) { e.target.style.opacity = 1; e.target.style.transform = 'translateY(0)'; }
+    });
+  }, { threshold: 0.1 });
+  document.querySelectorAll('.service-card, .approach-compare, .thermal-box, .rebate-card, .financing-banner, .fth-form-card, .agency-bottom').forEach(function(el) {
+    el.style.opacity = 0; el.style.transform = 'translateY(20px)';
+    el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+    observer.observe(el);
+  });
+
+  function getFormData() {
+    var name = document.getElementById('fth-name').value.trim();
+    var email = document.getElementById('fth-email').value.trim();
+    var phone = document.getElementById('fth-phone').value.trim();
+    var address = document.getElementById('fth-address').value.trim();
+    var budget = document.getElementById('fth-budget').value.trim();
+    var sqft = document.getElementById('fth-sqft').value.trim();
+    var notes = document.getElementById('fth-notes').value.trim();
+    var services = [];
+    document.querySelectorAll('input[name="service"]:checked').forEach(function(cb) { services.push(cb.value); });
+    if (!name || !email || !address) { alert('Please fill in your name, email, and address.'); return null; }
+    if (services.length === 0) { alert('Please select at least one service.'); return null; }
+    return { name:name, email:email, phone:phone||'Not provided', address:address, services:services.join(', '), budget:budget||'Not specified', sqft:sqft||'Unknown', notes:notes||'None' };
+  }
+  function showSuccess() {
+    setTimeout(function() { document.getElementById('fthFormContent').style.display='none'; document.getElementById('fthSuccess').classList.add('show'); }, 500);
+  }
+  async function submitViaEmail() {
+    var d = getFormData(); if (!d) return;
+    var btn = document.querySelector('.fth-submit-email');
+    btn.disabled = true; btn.textContent = 'Sending...';
+    try {
+      var res = await fetch('https://formspree.io/f/xgollken', {
+        method: 'POST',
+        headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name:d.name, email:d.email, phone:d.phone, address:d.address, services:d.services, budget:d.budget, sqft:d.sqft, notes:d.notes })
+      });
+      if (res.ok) { showSuccess(); } else { alert('Something went wrong. Please text us at (509) 251-7792.'); btn.disabled=false; btn.textContent='Send with Email'; }
+    } catch(e) { alert('Something went wrong. Please text us at (509) 251-7792.'); btn.disabled=false; btn.textContent='Send with Email'; }
+  }
+  function submitViaText() {
+    var d = getFormData(); if (!d) return;
+    var msg = 'From the Hip Assessment\n\nName: '+d.name+'\nEmail: '+d.email+'\nPhone: '+d.phone+'\nAddress: '+d.address+'\nServices: '+d.services+'\nBudget: '+d.budget+'\nSq Ft: '+d.sqft+'\nNotes: '+d.notes;
+    var encoded = encodeURIComponent(msg);
+    window.location.href = 'sms:5092517792?body=' + encoded;
+    showSuccess();
+  }
+</script>
+
+<!-- FLOATING HOME TUNE-UP BANNER -->
+<div id="contractBanner" style="position:fixed;bottom:24px;left:50%;transform:translateX(-50%);z-index:999;width:calc(100% - 32px);max-width:640px;background:#1B2A1F;border:1px solid rgba(107,127,94,0.5);border-radius:14px;box-shadow:0 8px 40px rgba(0,0,0,0.4);padding:16px 20px;display:flex;align-items:center;justify-content:space-between;gap:16px;">
+  <div style="flex:1;min-width:0;">
+    <div style="color:#B8941F;font-weight:700;font-size:0.92rem;letter-spacing:0.04em;margin-bottom:2px;">HOME TUNE-UP — $750</div>
+    <div style="color:rgba(245,242,237,0.9);font-size:0.85rem;line-height:1.4;">Inspect &middot; Seal &middot; Clean &middot; Report. Play the game — win 10% off.</div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;flex-shrink:0;">
+    <a href="/game.html" style="background:#6B7F5E;color:#fff;font-weight:700;font-size:0.85rem;padding:10px 18px;border-radius:8px;text-decoration:none;white-space:nowrap;">Play to Win →</a>
+    <button onclick="document.getElementById('contractBanner').style.display='none'" style="background:none;border:none;color:rgba(245,242,237,0.4);font-size:1.3rem;cursor:pointer;line-height:1;padding:4px;">&times;</button>
+  </div>
+</div>
+
+</body>
+</html>

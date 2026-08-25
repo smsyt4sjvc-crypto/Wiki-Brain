@@ -1,0 +1,402 @@
+# ============================
+# Enhanced Vol Harvest Cycle
+# One-cell Colab runner:
+# - Uses /content/drive/MyDrive/S&P.csv as universe
+# - Pulls missing data from yfinance and appends to a Drive cache
+# - Holds 1 position, cycles on TP/SL
+# ============================
+
+# --- Install (Colab) ---
+!pip -q install yfinance pyarrow
+
+import os, re
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+import yfinance as yf
+
+# --- Mount Drive ---
+from google.colab import drive
+drive.mount('/content/drive')
+
+# -----------------------------
+# PATHS / CONFIG
+# -----------------------------
+UNIVERSE_CSV = "/content/drive/MyDrive/S&P.csv"
+CACHE_PATH   = "/content/drive/MyDrive/price_cache.parquet"   # persistent OHLCV store
+PORT_PATH    = "/content/drive/MyDrive/portfolio.csv"         # persistent position log
+
+LOOKBACK_DAYS = 60
+EXTRA_DAYS    = 60   # extra history for indicators
+TOP_N         = 1
+RISK_PCT      = 0.02
+ACCT_SIZE     = 100000
+
+# TP/SL clamps
+TP_MIN, TP_MAX = 3.0, 5.0
+SL_MIN, SL_MAX = 2.0, 3.0
+
+# -----------------------------
+# TICKER CLEANING FOR YAHOO
+# -----------------------------
+def clean_ticker(sym: str) -> str:
+    sym = str(sym).strip().upper()
+    # Yahoo uses '-' instead of '.' for class shares (BRK.B -> BRK-B)
+    sym = sym.replace(".", "-")
+    # remove weird characters
+    sym = re.sub(r"[^A-Z0-9\-\^=]", "", sym)
+    return sym
+
+def load_universe(csv_path: str):
+    if not os.path.exists(csv_path):
+        raise FileNotFoundError(f"Universe file not found: {csv_path}")
+
+    u = pd.read_csv(csv_path)
+
+    # Try common column names
+    for col in ["Symbol", "SYMBOL", "Ticker", "TICKER", "symbol", "ticker"]:
+        if col in u.columns:
+            syms = u[col].dropna().astype(str).tolist()
+            break
+    else:
+        # fallback: first column
+        syms = u.iloc[:, 0].dropna().astype(str).tolist()
+
+    syms = [clean_ticker(s) for s in syms]
+    syms = sorted(set([s for s in syms if s and s != "NAN"]))
+    return syms
+
+# -----------------------------
+# DATA CACHE: LOAD / UPDATE / SAVE
+# Stored as long-format: Date, Ticker, Open, High, Low, Close, Adj Close, Volume
+# -----------------------------
+def load_cache(path: str) -> pd.DataFrame:
+    if os.path.exists(path):
+        df = pd.read_parquet(path)
+        # normalize
+        df["Date"] = pd.to_datetime(df["Date"]).dt.tz_localize(None)
+        df["Ticker"] = df["Ticker"].astype(str)
+        return df
+    return pd.DataFrame(columns=["Date","Ticker","Open","High","Low","Close","Adj Close","Volume"])
+
+def save_cache(df: pd.DataFrame, path: str):
+    df = df.copy()
+    df["Date"] = pd.to_datetime(df["Date"]).dt.tz_localize(None)
+    df.to_parquet(path, index=False)
+
+def fetch_yf_ohlcv(tickers, start=None, period=None):
+    # yfinance can be noisy; keep progress False
+    data = yf.download(
+        tickers,
+        start=start,
+        period=period,
+        auto_adjust=False,
+        group_by="ticker",
+        threads=True,
+        progress=False
+    )
+    return data
+
+def yf_to_long(df_yf):
+    """
+    Convert yfinance output to long-format:
+    Date, Ticker, Open, High, Low, Close, Adj Close, Volume
+    Handles both MultiIndex (multi tickers) and single ticker.
+    """
+    if df_yf is None or df_yf.empty:
+        return pd.DataFrame(columns=["Date","Ticker","Open","High","Low","Close","Adj Close","Volume"])
+
+    if isinstance(df_yf.columns, pd.MultiIndex):
+        # multi-ticker: top level = ticker
+        out = []
+        for t in df_yf.columns.get_level_values(0).unique():
+            d = df_yf[t].copy()
+            if d.empty:
+                continue
+            d = d.reset_index()
+            d["Ticker"] = str(t)
+            out.append(d)
+        if not out:
+            return pd.DataFrame(columns=["Date","Ticker","Open","High","Low","Close","Adj Close","Volume"])
+        long = pd.concat(out, ignore_index=True)
+    else:
+        # single ticker
+        long = df_yf.reset_index()
+        long["Ticker"] = "SINGLE"
+
+    # normalize column names
+    cols_needed = ["Date","Ticker","Open","High","Low","Close","Adj Close","Volume"]
+    for c in cols_needed:
+        if c not in long.columns:
+            long[c] = np.nan
+    long = long[cols_needed]
+    long["Date"] = pd.to_datetime(long["Date"]).dt.tz_localize(None)
+    return long
+
+def update_cache(cache: pd.DataFrame, universe: list, days_needed: int):
+    """
+    Ensure cache has at least (today - days_needed) coverage for each ticker.
+    If missing ticker entirely or missing recent dates, fetch and append.
+    """
+    cache = cache.copy()
+    cache["Date"] = pd.to_datetime(cache["Date"]).dt.tz_localize(None)
+
+    end_date = pd.Timestamp(datetime.now().date())
+    start_needed = end_date - pd.Timedelta(days=days_needed)
+
+    # Determine which tickers are missing or stale
+    have = set(cache["Ticker"].unique()) if not cache.empty else set()
+    missing_tickers = [t for t in universe if t not in have]
+
+    stale_tickers = []
+    if not cache.empty:
+        last_dates = cache.groupby("Ticker")["Date"].max()
+        for t in universe:
+            if t in last_dates.index:
+                if last_dates.loc[t] < start_needed:
+                    stale_tickers.append(t)
+
+    # Also detect partial staleness: if last date older than (today - 3 days) -> fetch recent
+    if not cache.empty:
+        last_dates = cache.groupby("Ticker")["Date"].max()
+        for t in universe:
+            if t in last_dates.index:
+                if last_dates.loc[t] < (end_date - pd.Timedelta(days=3)):
+                    if t not in stale_tickers:
+                        stale_tickers.append(t)
+
+    need_fetch = sorted(set(missing_tickers + stale_tickers))
+    if need_fetch:
+        print(f"[CACHE] Fetching {len(need_fetch)} missing/stale tickers from yfinance...")
+        # fetch a rolling window; simplest and reliable
+        df_yf = fetch_yf_ohlcv(need_fetch, period=f"{days_needed}d")
+        long = yf_to_long(df_yf)
+
+        # yfinance uses ticker names in output; keep only valid ones with non-null Close
+        long = long.dropna(subset=["Close"])
+        if not long.empty:
+            # Remove old rows for those tickers in the date window we fetched, then append
+            cache = cache[~((cache["Ticker"].isin(need_fetch)) & (cache["Date"] >= long["Date"].min()))]
+            cache = pd.concat([cache, long], ignore_index=True)
+            cache = cache.drop_duplicates(subset=["Date","Ticker"], keep="last").sort_values(["Ticker","Date"])
+        else:
+            print("[CACHE] Warning: fetched data came back empty. (Yahoo missing symbols?)")
+
+    # Finally, keep only tickers in universe
+    cache = cache[cache["Ticker"].isin(universe)].copy()
+
+    # Report any still-missing tickers
+    still_missing = sorted(set(universe) - set(cache["Ticker"].unique()))
+    if still_missing:
+        print("[CACHE] Still missing/no-data tickers (Yahoo):", still_missing[:30], ("..." if len(still_missing)>30 else ""))
+
+    return cache
+
+# -----------------------------
+# REGIME DETECTION
+# -----------------------------
+def _to_scalar(x):
+    if isinstance(x, (pd.Series, pd.DataFrame)):
+        x = x.squeeze()
+    return float(x)
+
+def detect_regime():
+    spx = yf.download("^GSPC", period="3mo", auto_adjust=False, progress=False)
+    if spx.empty:
+        return "Sideways"
+    spx_close = spx["Close"].squeeze()
+    ret_pct = _to_scalar((spx_close.iloc[-1] / spx_close.iloc[0] - 1) * 100)
+
+    vix = yf.download("^VIX", period="5d", auto_adjust=False, progress=False)
+    vix_last = 20.0 if vix.empty else _to_scalar(vix["Close"].squeeze().iloc[-1])
+
+    if (ret_pct > 5) and (vix_last < 20): return "Bull"
+    if (ret_pct < -5) or (vix_last > 30): return "Bear"
+    return "Sideways"
+
+# -----------------------------
+# METRICS / SCORE
+# -----------------------------
+def compute_metrics_for_ticker(hist: pd.DataFrame, ticker: str, regime: str):
+    """
+    hist: long-format rows for one ticker: Date, Open, High, Low, Close, Adj Close, Volume
+    """
+    d = hist.sort_values("Date").tail(LOOKBACK_DAYS).copy()
+    if len(d) < 25:
+        return None
+
+    close = d["Close"].astype(float)
+    high  = d["High"].astype(float)
+    low   = d["Low"].astype(float)
+
+    rets = close.pct_change()
+    realized_vol = rets.rolling(20).std().iloc[-1]
+
+    prev_close = close.shift(1)
+    tr = np.maximum(high - low, np.maximum((high - prev_close).abs(), (low - prev_close).abs()))
+    atr = tr.rolling(14).mean().iloc[-1]
+    atr_pct = atr / close.iloc[-1] if close.iloc[-1] else np.nan
+
+    median_range = ((high - low) / low).tail(20).median()
+
+    sma20 = close.rolling(20).mean().iloc[-1]
+    std20 = close.rolling(20).std().iloc[-1]
+    bb_width = (4 * std20) / sma20 if sma20 and sma20 != 0 else np.nan
+
+    rf = 0.04 / 252
+    sharpe = (rets.mean() - rf) / rets.std() if rets.std() and rets.std() != 0 else 0.0
+
+    dist_sma = (close.iloc[-1] / sma20 - 1) if sma20 and sma20 != 0 else np.nan
+
+    # vol_score weighting: 30% realized_vol, 30% ATR%, 25% median_range, 15% BB_width minus Sharpe penalty
+    vol_score = (
+        0.30 * (realized_vol if pd.notna(realized_vol) else 0) +
+        0.30 * (atr_pct if pd.notna(atr_pct) else 0) +
+        0.25 * (median_range if pd.notna(median_range) else 0) +
+        0.15 * (bb_width if pd.notna(bb_width) else 0) -
+        (0.50 if sharpe < 0 else 0)
+    )
+
+    # Regime overlay: Bear/Sideways adds mean reversion filter (buy below SMA20)
+    # You described: "Bear/Sideways adds mean reversion filter (buy below SMA20)"
+    # So if not sufficiently below SMA, penalize.
+    if regime in ["Bear", "Sideways"]:
+        if pd.notna(dist_sma) and dist_sma > 0:
+            vol_score -= 1.0  # above SMA -> less mean-reversiony
+        elif pd.notna(dist_sma) and dist_sma > -0.02:
+            vol_score -= 0.5  # barely below SMA -> weaker
+
+    return {
+        "ticker": ticker,
+        "close": float(close.iloc[-1]),
+        "vol_score": float(vol_score),
+        "realized_vol": float(realized_vol) if pd.notna(realized_vol) else np.nan,
+        "atr_pct": float(atr_pct * 100) if pd.notna(atr_pct) else np.nan,
+        "median_range_pct": float(median_range * 100) if pd.notna(median_range) else np.nan,
+        "bb_width": float(bb_width) if pd.notna(bb_width) else np.nan,
+        "sharpe": float(sharpe),
+        "dist_sma_pct": float(dist_sma * 100) if pd.notna(dist_sma) else np.nan,
+    }
+
+# -----------------------------
+# PORTFOLIO STATE
+# -----------------------------
+def load_portfolio():
+    if os.path.exists(PORT_PATH):
+        return pd.read_csv(PORT_PATH)
+    return pd.DataFrame(columns=["ticker","entry","tp","sl","shares","status","opened_at","closed_at"])
+
+def save_portfolio(port: pd.DataFrame):
+    port.to_csv(PORT_PATH, index=False)
+
+# -----------------------------
+# MAIN FLOW
+# -----------------------------
+print("System: Enhanced Vol Harvest Cycle")
+
+universe = load_universe(UNIVERSE_CSV)
+print(f"Universe loaded from S&P.csv: {len(universe)} tickers")
+
+cache = load_cache(CACHE_PATH)
+cache = update_cache(cache, universe, days_needed=LOOKBACK_DAYS + EXTRA_DAYS)
+save_cache(cache, CACHE_PATH)
+print(f"[CACHE] Stored rows: {len(cache):,} | tickers: {cache['Ticker'].nunique()}")
+
+regime = detect_regime()
+print("Market regime:", regime)
+
+# Build metrics for all tickers that have enough data
+metrics = []
+for t in sorted(cache["Ticker"].unique()):
+    hist = cache[cache["Ticker"] == t]
+    m = compute_metrics_for_ticker(hist, t, regime)
+    if m is not None:
+        metrics.append(m)
+
+if not metrics:
+    raise RuntimeError("No metrics computed. Likely insufficient data in cache.")
+
+metrics_df = pd.DataFrame(metrics).sort_values("vol_score", ascending=False).reset_index(drop=True)
+
+# Portfolio logic: hold one position; cycle on TP/SL
+port = load_portfolio()
+
+def get_latest_close(ticker: str):
+    # Use cache if it has today's-ish data; otherwise fetch last few days
+    sub = cache[cache["Ticker"] == ticker].sort_values("Date")
+    if not sub.empty and sub["Date"].iloc[-1] >= (pd.Timestamp(datetime.now().date()) - pd.Timedelta(days=5)):
+        return float(sub["Close"].iloc[-1])
+    # fallback
+    d = yf.download(ticker, period="7d", auto_adjust=False, progress=False)
+    if d.empty:
+        return np.nan
+    return float(d["Close"].dropna().iloc[-1])
+
+# If open position exists, check TP/SL
+if not port.empty and str(port.iloc[-1]["status"]) == "open":
+    curr = port.iloc[-1].copy()
+    latest = get_latest_close(curr["ticker"])
+
+    if np.isnan(latest):
+        print(f"Holding {curr['ticker']}: latest price unavailable.")
+        print(metrics_df.head(TOP_N))
+    else:
+        if latest >= float(curr["tp"]):
+            print(f"TP hit on {curr['ticker']} @ {latest:.2f}. Closing and cycling.")
+            port.loc[port.index[-1], "status"] = "closed_tp"
+            port.loc[port.index[-1], "closed_at"] = datetime.now().isoformat(timespec="seconds")
+            save_portfolio(port)
+        elif latest <= float(curr["sl"]):
+            print(f"SL hit on {curr['ticker']} @ {latest:.2f}. Closing.")
+            port.loc[port.index[-1], "status"] = "closed_sl"
+            port.loc[port.index[-1], "closed_at"] = datetime.now().isoformat(timespec="seconds")
+            save_portfolio(port)
+        else:
+            print(f"Holding {curr['ticker']} | last={latest:.2f} TP={float(curr['tp']):.2f} SL={float(curr['sl']):.2f}")
+            save_portfolio(port)
+            print("\nTop candidates:")
+            display(metrics_df.head(TOP_N))
+            raise SystemExit
+
+# If no open position (or we closed), open new one
+if port.empty or str(port.iloc[-1]["status"]).startswith("closed"):
+    top = metrics_df.iloc[0]
+    entry = float(top["close"])
+
+    mr = float(top["median_range_pct"]) if pd.notna(top["median_range_pct"]) else 4.0
+    tp_pct = min(max(mr * 0.6, TP_MIN), TP_MAX)
+    sl_pct = min(max(mr * 0.4, SL_MIN), SL_MAX)
+
+    tp = entry * (1 + tp_pct/100)
+    sl = entry * (1 - sl_pct/100)
+
+    risk_amt = ACCT_SIZE * RISK_PCT
+    per_share_risk = max(entry - sl, 1e-6)
+    shares = risk_amt / per_share_risk
+
+    new_pos = pd.DataFrame([{
+        "ticker": top["ticker"],
+        "entry": entry,
+        "tp": tp,
+        "sl": sl,
+        "shares": shares,
+        "status": "open",
+        "opened_at": datetime.now().isoformat(timespec="seconds"),
+        "closed_at": ""
+    }])
+
+    # avoid concat warning
+    if port.empty:
+        port = new_pos.copy()
+    else:
+        port = pd.concat([port, new_pos], ignore_index=True)
+
+    save_portfolio(port)
+
+    print("\nTrade:")
+    print("Run code daily/weekly. Buy top pick at market open if no position or prior TP hit.")
+    print(f"New signal: BUY {top['ticker']} @ {entry:.2f} | TP {tp:.2f} (+{tp_pct:.2f}%) | SL {sl:.2f} (-{sl_pct:.2f}%)")
+    print(f"Position size: {shares:.2f} shares (risk ${risk_amt:,.0f} = {RISK_PCT*100:.1f}%)")
+
+print("\nTop candidates:")
+display(metrics_df.head(TOP_N))

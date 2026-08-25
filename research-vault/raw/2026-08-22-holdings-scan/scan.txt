@@ -1,0 +1,36 @@
+DAILY HOLDINGS SCAN — AUG. 22, 2026. Saturday; market/yield refs are Friday Aug 21 close.
+
+1. NVDA — minority investment in Cloverleaf Infrastructure + strategic partnership, Aug 21.
+Terms undisclosed. Cloverleaf: land, grid access, power availability, permitting, cooling,
+shovel-ready sites. Multiple GW-scale projects across North America. NVIDIA DSX platform to
+integrate site selection, power, cooling, compute, facility design. NVIDIA exec Nico Caprez:
+"land, power and shell" are the foundation of AI factories.
+
+2. ON — Form S-4 for Synaptics acquisition, Aug 21. Each SYNA share -> 1.350 ON shares, FIXED
+ratio. Post-close ownership ~88% ON / ~12% SYNA. HSR filed July 17; FTC granted EARLY TERMINATION
+effective Aug 12. At announcement June 24: ON $115.74, implied SYNA value $156.25. At Aug 4:
+ON $80.78, implied $109.05. S-4 says all-stock avoids significant acquisition debt.
+
+3. NVDA — denies The Information's China-specific LPU story. Says NO LPU sales in China and NO
+China-specific LPU on the roadmap. H200 approved for Alibaba, Tencent, ByteDance; deliveries
+recently begun. Reuters Aug 21.
+
+4. PENNSYLVANIA — new public data-center portal launched Friday under Gov. Shapiro Executive
+Order 2026-05. GRID framework: local zoning approval, energy affordability, community
+involvement, environmental protection, transparency, workforce commitments. Designed to require
+developers to BRING NEW POWER rather than consume existing grid capacity and pass costs to
+ratepayers. Local approval precedes expedited state permitting.
+
+5. AI CREDIT SUPPLY — Reuters Aug 21. Hyperscaler debt issuance 2026 through Aug 10 = ~$220
+BILLION vs ~$12.5 BILLION in the comparable 2025 period. ~17.6x. Amazon recent $25B long-dated
+deal priced ~120bp over Treasuries; comparable debt ~half that spread last year. Alphabet offered
+~10-15bp new-issue concession. Technology corporate spreads ~89bp, ~9bp wider than broad IG.
+Quoted fixed-income manager: the issue is increasingly SUPPLY, not creditworthiness.
+
+6. TREASURIES — Friday: 10Y ~4.74%, 30Y ~5.28%. 30Y near week's extreme and highest since 2007.
+Buyback announcement initially drove 10Y to ~4.64% and 30Y to ~5.18%; by Friday largely reversed.
+BNY iFlow: hyperscalers are only ~4% of outstanding IG debt but ~ONE-THIRD of new issuance with
+maturities of 30 years or longer. Bessent press conference Monday Aug 24, 2pm ET.
+
+STATUS: AVGO $60-100B package remains PRESS-REPORTED, NOT company-confirmed. MRVL no new filing.
+NBIS nothing beyond the $5B convertible. CRWV nothing new.

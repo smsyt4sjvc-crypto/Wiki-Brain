@@ -1,0 +1,103 @@
+# etched-inference-challenger — the funded attack on NVIDIA's INFERENCE seat
+
+> **STAGE 5 of [[transmission-chain]], from the challenger side.** The chain's stage 5 has been measured
+> as *incumbent* supplier orders (NVDA DC revenue, memory contracts). **This is the other thing that can
+> happen at stage 5: a new entrant takes the seat.** Created 2026-08-18 — **the vault had NO coverage of
+> Etched, and a 4.2× valuation ladder in eight months with SK Hynix on the cap table is not a gap the
+> vault should have had.**
+
+Related: [[transmission-chain]] · [[ai-financing-fragility]] (stage 3) · [[memory-regime-question]]
+(SK Hynix) · [[compression-thesis]] · [[metered-compute]] (the inference-cost thesis this attacks)
+
+---
+
+## DATA (REPORTED — Jake's research synthesis, 2026-08-18)
+**⚠️ ARTIFACT TEST: this note is built on Jake's compiled read of company announcements + WSJ, not on
+primary filings. Private company — there are no filings. Rung: REPORTED, company-sourced.**
+- **Etched — San Jose, founded 2022 by Gavin Uberti, Robert Wachen, Chris Zhu (ex-Harvard).** Now
+  building **complete rack-scale inference SYSTEMS** — chips, memory, interconnect, boards, cooling,
+  software, manufacturing — not a standalone chip.
+- **[2026-08-18] $700M at a $21B valuation, LED BY JANE STREET. ~$1.9B raised total.**
+- **THE LADDER: Dec-2025 ~$5B → 2026-07-23 $10.3B (Series C, $300M) → 2026-08-18 $21B.**
+  ⇒ **2.06× then 2.04×. The latest step is +104% IN 26 DAYS. 4.2× in ~8 months.**
+- **SILICON IS REAL: first silicon at TSMC on N4P; Etched says A0 worked FIRST PASS.** Own test/DC
+  infrastructure and manufacturing capability in Taiwan.
+- **JANE STREET IS THE FIRST NAMED CUSTOMER: first rack shipped July, tested, now operating in Jane
+  Street's data centre.** **Then Jane Street led the round.**
+- **>$1B of signed customer contracts claimed** (AI companies + cloud), other customers unnamed.
+- **ARCHITECTURE, BROADENED: "Sohu" (transformer-hardwired ASIC) branding RETIRED.** Now claims huge
+  MoE and **non-transformer (Mamba-type)** support. ⇒ **Descriptions of Etched as "the transformer-only
+  chip company" are obsolete — most 2024-25 coverage is stale.**
+- **TWO CLAIMED MECHANISMS: Low Voltage Inference (LVI)** — compute blocks at unusually low voltage for
+  density within thermal limits; claims **80%+ of peak FLOPs utilisation on sparse trillion-param MoE**.
+  **Cluster Scale Memory (CSM)** — HBM/SRAM + proprietary interconnect as a **very-low-latency shared
+  pool across many chips**, aimed at the **decode/token-generation** phase where memory movement, not
+  arithmetic, binds.
+- **WSJ-reported Etched claim: certain chip-to-chip ops ~700ns vs ~4,000ns for NVIDIA Blackwell.**
+  ⚠️ **An ETCHED claim, not a standardised benchmark.**
+- **400+ employees from NVIDIA, Google TPU, Broadcom, TSMC, SK Hynix; per WSJ ~15% ex-NVIDIA.** Named:
+  **Brian Loiler (~22y NVIDIA, HGX/DGX)** · **David Munday (built Google's TPU software org)** ·
+  **Saptadeep Pal (NVIDIA H100/A100/V100)** · **Wayne Cao (production ramps incl. original iPhone).**
+- **INVESTORS: Jane Street, Sequoia, a16z, SK HYNIX, VentureTech Alliance, Kleiner Perkins, Tiger
+  Global, Bain Capital Ventures, Blackstone, Two Sigma, Hudson River Trading, Jump Trading, Thiel,
+  Ribbit, Stripes, Radical, Positive Sum.** Individuals listed incl. Hinton, Karpathy, Fei-Fei Li.
+- **⛔ NO INDEPENDENT BENCHMARKS: Etched did NOT participate in MLPerf Inference v6.0** (MLCommons,
+  April 2026, 24 participating organisations). ⇒ **All throughput/latency/power claims are
+  company-generated or customer-tested, not standardised.**
+
+## ★★★ THESIS (interpretation — NOT fact)
+- **★★★★★★ THE 26-DAY DOUBLING COLLIDES WITH THE VAULT'S STAGE-3 READ — AND THE RESOLUTION IS THE
+  FINDING, NOT THE CONTRADICTION.** [[transmission-chain]] stage 3 currently reads **RATIONING**:
+  *$500B announced to unstick STALLED deals; issuers ASKED TO WAIT.* **Yet Etched raised $700M at +104%
+  in 26 days.** ⇒ **These are not the same market. Stage-3 rationing is DEBT AGAINST DEPRECIATING GPU
+  COLLATERAL. Etched is EQUITY IN THE THING THAT WOULD DEPRECIATE IT.** ⇒ **Capital is not scarce —
+  it is REPRICING WHICH SIDE OF THE INFERENCE TRADE IT WANTS TO BE ON.** ⇒ **⭐ Read that way, the
+  Etched raise is CONFIRMING evidence for stage-3 stress, not a counter-example.**
+  **⇒ AMEND THE STAGE-3 LABEL: "rationing" is true of AI-infrastructure DEBT, not of AI-silicon EQUITY.**
+- **⛔⛔ AND THE JANE STREET STRUCTURE IS THE SAME CIRCULARITY THE VAULT INTERROGATES AT NVIDIA — RUN
+  BACKWARDS.** The vault's standing frame: **NVIDIA finances the customers who buy NVIDIA chips**
+  (`ai-financing-fragility:6165` — sets the cadence · writes the RVG · owns the borrower · markets the
+  paper). **Here the CUSTOMER FINANCES THE VENDOR.** ⇒ **The "sophisticated customer deployed it"
+  validation and the "$700M lead investor" are THE SAME ENTITY.** ⚠️ **Jake's read — a quant firm
+  putting unfamiliar compute into its own DC carries more weight than an investor's cheque — is
+  RIGHT, and it is still ONE ORIGIN.** **The vault's own ladder: "N outlets, one origin."** ⇒ **The
+  de-risking is real but it is single-source. A SECOND named customer running production is worth
+  more than the next $700M.** *(Analysis. Applying the vault's NVDA scepticism symmetrically — it is
+  not a standard that should only bind incumbents.)*
+- **★★★★ THE MLPerf ABSENCE IS THE CLEANEST DISCRIMINATOR AND JAKE NAMED IT.** Evidence ladder:
+  **REPORTED vs MEASURED.** **24 organisations participated in MLPerf Inference v6.0 and Etched was not
+  one of them.** ⇒ **700ns vs 4,000ns is a vendor claim about a self-chosen operation.** ⇒ **⬜ Until
+  a standardised submission exists, tokens-per-dollar and tokens-per-watt vs Blackwell/Rubin are
+  UNKNOWN — and those are the only numbers that price $21B.**
+- **★★★ THE ARCHITECTURE BROADENING CUTS BOTH WAYS AND THE BULL VERSION IS USUALLY THE ONLY ONE TOLD.**
+  Retiring Sohu removes the **catastrophic architecture bet** (transformer obsolescence) — genuinely
+  de-risking. **But specialisation WAS the entire efficiency argument.** ⇒ **Every unit of generality
+  added is a unit of the original advantage given back.** **⬜ NOT KNOWN: how much of the claimed
+  efficiency survived the broadening.** **A chip that runs MoE AND Mamba AND transformers is, in the
+  limit, a GPU.** *(Analysis. This is the question the marketing does not pose.)*
+- **⭐ SK HYNIX ON THE CAP TABLE IS THE SUPPLY-CHAIN TELL, AND THE VAULT ALREADY TRACKS THE COMPANY.**
+  **A memory maker funding a MEMORY-CENTRIC architecture (CSM pools HBM/SRAM).** ⇒ **Same move the vault
+  logged for hyperscalers: when an input is scarce, the buyer integrates into it — here the SUPPLIER
+  integrates into the buyer.** ⚠️ **And SK Hynix is currently the vault's most-stressed name
+  ([[memory-regime-question]]: −15.35% in one session, −50.5% on the month).** **A stressed memory maker
+  buying optionality on the architecture that consumes the most memory per socket is a rational hedge —
+  and worth watching as a signal about where HBM demand goes.**
+
+## 🚩 THE ACTIONABLE ANGLE — Jake's, and it is the right one
+- **★★★★ HIS PICKS-AND-SHOVELS INSTINCT IS THE BETTER EXPRESSION THAN $21B PRIVATE PAPER**, and it
+  connects to the SMTC thread: **rack-scale + proprietary high-bandwidth interconnect + large shared-
+  memory domains + thousand-chip scale-out** is exactly optical-connectivity / SerDes / DSP / retimer /
+  substrate / power / cooling demand.
+- **⚠️ BUT THE COUNTER MUST BE STATED, BECAUSE IT IS THE WHOLE RISK OF THAT TRADE: A *PROPRIETARY*
+  INTERCONNECT MAY DISPLACE MERCHANT SILICON RATHER THAN BUY IT.** Etched is hiring **physical ASIC
+  design, verification, firmware, SerDes-adjacent roles** — consistent with building in-house.
+  ⇒ **"Etched grows ⇒ merchant DSP/retimer vendors grow" is an ASSUMPTION, not a finding.**
+  🚩🚩🚩 **THE FETCH THAT DECIDES IT: Etched's actual BOM/supplier disclosures, teardowns, or job specs
+  naming merchant parts. Without that, the picks-and-shovels thesis has no evidence behind it.**
+- 🚩🚩 **A SECOND NAMED PRODUCTION CUSTOMER.** The single highest-value datapoint for this note.
+- 🚩🚩 **AN MLPerf SUBMISSION** — or a credible third-party measurement.
+- 🚩 **The $1B backlog's composition:** shipment schedule, cancellation provisions, margin.
+  **$21B ÷ $1B backlog = 21× BACKLOG — and backlog is not revenue.**
+
+---
+_Created 2026-08-18. Etched had zero prior vault coverage._

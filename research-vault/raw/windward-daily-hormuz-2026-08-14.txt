@@ -1,0 +1,396 @@
+
+===== PAGE 1 =====
+BLUF · BOTTOM LINE UP FRONT
+01Strait Traffic Rebounds With Evasive Composition
+Thirteen vessels transited the Strait of Hormuz — 4 inbound, 9 outbound — up from 3 total the previous day;
+4 outbound vessels ran AIS-dark for 11 hours to roughly a month before reacquiring signal, including one that
+resurfaced laden with an estimated 2 million barrels of Saudi crude.
+02Saudi Vessels Divert Around Cape of Good Hope
+Twelve Saudi state-linked tankers and bulkers are transiting via the Cape of Good Hope rather than Bab el-
+Mandeb and Suez, adding roughly 4,0006,000 nautical miles and 1014 days per voyage, with several
+obscuring their true destination until well past South Africa.
+03Kharg Island Western Terminal Reactivates After 25 Days Idle
+A dark VLCC-class tanker began loading at Kharg's western oil terminal on 12 August — the first occupant
+since 18 July — while the eastern and LPG terminals remain empty and the offshore waiting-area backlog
+holds at 1617 tankers.
+04Blockade-Breaker Screen Holds at Zero for a Sixth Day
+DAILY STATUS
+  BLOCKADE ·123D 19H
+August 14, 2026August 14, 2026August 14, 2026August 14, 2026
+Data as of 13 August 2026
+STRAIT OF HORMUZ, RED SEA, 
+AND MARITIME
+CHOKEPOINTS
+https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 1 of 15
+===== PAGE 2 =====
+04Blockade-Breaker Screen Holds at Zero for a Sixth Day
+A 115-vessel screen across the Arabian Gulf, Gulf of Oman, and Arabian Sea found no vessel within the
+roughly 65-nautical-mile Tier-1 band for a sixth consecutive reading; the closest confirmed laden Iran-origin
+vessel sat 85.5 nautical miles out.
+05Pakistani-Flagged Tankers Push Through Bab el-Mandeb Toward Saudi Oil Load
+SHALAMAR and MARDAN, both Pakistan-flagged crude oil tankers, transited Bab el-Mandeb this week bound
+for Yanbu, Saudi Arabia, continuing past the elevated threat environment from Houthi attacks on Red Sea
+shipping.
+STRAIT OF HORMUZ
+INBOUND & OUTBOUND TRANSITS
+← INBOUND
+4 transits · 4 North · 0 South
+DARK 0
+4
+AIS 4
+4444AIS VISIBLE
+0000DARK / NO AIS
+2 Tanker2 Tanker2 Tanker2 Tanker2 Bulk2 Bulk2 Bulk2 Bulk
+VESSEL CLASSES
+4N · 0S4N · 0S4N · 0S4N · 0SCORRIDOR
+TANKER/LPG
+SALUTE
+Madagascar · LPG Tanker · AIS · OFAC-sanctioned, dark-fleet designation · commercial
+controller Venture One Ship Management (UAE)
+BULK PENEL
+Panama · Bulk Carrier · AIS
+TANKER/LPGSEAGATE
+Anguilla · LPG Tanker · AIS · OFAC-sanctioned, dark-fleet designation, Iran port call
+https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 2 of 15
+===== PAGE 3 =====
+Source: Windward AI · August 13, 2026 windward.ai
+BULK
+NEW PIONEER
+Panama · Bulk Carrier · grain cargo · AIS · commercial controller Atl Shipping Ltd. ·
+beneficial owner Qian Z
+→ OUTBOUND
+9 transits · 5 North · 4 South
+DARK 4
+Source: Windward AI · August 13, 2026 windward.ai
+9
+AIS 5
+5555AIS VISIBLE
+4444DARK / NO AIS
+5 Tanker5 Tanker5 Tanker5 Tanker3 Bulk3 Bulk3 Bulk3 Bulk1 Cargo1 Cargo1 Cargo1 Cargo
+VESSEL CLASSES
+5N · 4S5N · 4S5N · 4S5N · 4SCORRIDOR
+TANKER/LPG
+MAJESTY
+Curaçao · Oil/Chemicals Tanker · AIS · OFAC-sanctioned, false-flag and dark-fleet
+designation · commercial controller Concord Shipping Inc. (Marshall Islands)
+BULK
+H7 SMB8
+San Marino · Bulk Carrier · AIS · commercial controller Dalga Kargo Tasimacilik Ve Lojistik
+Hizmetleri Ltd Sti (Turkey)
+TANKER/LPGMUSIK
+Bahamas · Oil/Chemicals Tanker · AIS · dark-fleet designation
+BULK
+PONENTE
+Marshall Islands · Bulk Carrier · AIS · commercial controller Newport S.a. · beneficial owner
+Millers Maritime Ltd
+TANKER/LPG
+ARGO MARIS
+Curaçao · Asphalt/Bitumen Tanker · AIS · false-flag designation · commercial controller
+Hessonite Ship Management · loaded at Bandar Abbas, Iran
+TANKER/LPG
+OTTOMAN EQUITY
+Turkey · Crude Oil Tanker, 269m · IMO 9404950 · AIS-dark 12 Aug 1220-2338 UTC ·
+owner/commercial controller Gungen (Turkey) / Lgungen Denizcilik Ve Ticaret
+BULK
+JIAFA
+Panama · Bulk Carrier, 190m · IMO 9282869 · AIS-dark 12 Aug 1000 UTC to 13 Aug 0509 UTC ·
+commercial controller Hongkong Zhongya Ship Mgmt Ltd / New Ocean Shipping Co Ltd-HKG (China)
+TANKER/LPG
+DOMINICA PROSPERITY
+Liberia · Crude Oil Tanker, 330m · IMO 9395496 · AIS-dark ~31 days (13 Jul-13 Aug) ·
+reacquired laden with an estimated 2 million barrels of Saudi crude loaded at Ras
+Tanura · commercial controller Sinokor Maritime (South Korea) · owner Haut Brion 56 Ltd
+UNIDENTIFIED  DARK CARGO VESSEL
+https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 3 of 15
+===== PAGE 4 =====
+CARGO
+UNIDENTIFIED  DARK CARGO VESSEL
+Flag unknown · General Cargo, ~55m · no AIS identity · observed via EO composite moving
+outbound through the Qeshm-Larak pocket
+CROSSINGS & DESTINATIONS
+HORMUZ CROSSINGS
+Last 8 days · Inbound vs Outbound AIS  Dark)
+TOP DESTINATIONS
+Oil & crude export by destination
+FLEET COMPOSITION 
+
+ 976 VESSELS IN GULF
+https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 4 of 15
+===== PAGE 5 =====
+112
+BULK CARRIERS
+160
+PRODUCT TANKERS
+7
+CHEMICAL TANKERS
+42
+CRUDE TANKERS
+51
+CONTAINER SHIPS
+37
+ / LNGiiiiLPGiiii
+MIXED
+567
+OTHER
+!!
+155155155155HIGH RISK
+!!
+240240240240MODERATE
+✓✓
+582582582582LOW RISK
+SMUGGLING RISK ASSESSMENT  976 VESSELS IN GULF
+TOP FLAGS OF REGISTRY
+184https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 5 of 15
+===== PAGE 6 =====
+Iran 184
+Comoros 147
+UAE 109
+Panama 92
+Marshall Isl. 54
+Liberia 49
+St. Kitts & Nevis 30
+Togo 21
+Palau 15
+Pakistan 15
+RED SEA 
+
+ BAB
+
+EL
+
+MANDEB & SUEZ
+BABELMANDEB CROSSINGS
+Last 8 days · into vs out of Red Sea
+19191919/9999OUTBOUND
+13 AUG13 AUG13 AUG13 AUG
+INBOUNDiiii
+SUEZ CROSSINGS
+Last 8 days · into vs out of Red Sea
+18181818/20202020OUTBOUND
+13 AUG13 AUG13 AUG13 AUG
+INBOUND
+https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 6 of 15
+===== PAGE 7 =====
+RED SEA FLEET COMPOSITION —
+625 VESSELS
+i
+i
+i
+i
+151
+BULK CARRIERS
+110
+PRODUCT TANKERS
+3
+CHEMICAL TANKERS
+81
+CRUDE TANKERS
+97
+CONTAINER SHIPS
+14
+ / LNGLPG
+MIXED
+166
+OTHER
+https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 7 of 15
+===== PAGE 8 =====
+WINDWARD  · DAILY INTELLIGENCE HIGHLIGHTS · 14 AUGUST 2026MIOCiiii
+MIOC INTELLIGENCE ANALYSIS
+ STRAIT TRAFFIC REBOUNDS WITH EVASIVE COMPOSITION
+ SAUDIFLAGGED FLEET REROUTES AROUND THE CAPE OF GOOD HOPE
+ KHARG ISLAND WESTERN TERMINAL REACTIVATES AFTER 25 DAYS IDLE
+•13 total crossings 4 in / 9 out) vs. 3 the prior day.
+•4 outbound vessels ran AIS-dark 11 hours to 31 days before reacquiring (or before remaining
+dark, for the imagery-only contact), including a tanker that resurfaced outbound laden with an
+estimated 2 million barrels of Saudi crude after roughly a month dark.
+•Several of the 13 tracked vessels carry OFAC or shadow-fleet designations, moving in both
+directions.
+▸MIOC assessment: The rebound in crossings paired with a rising dark-transit share suggests
+operators are testing gaps in the current restricted posture rather than a genuine return to
+routine traffic.
+•12 Saudi state-linked tankers and bulkers are transiting via the Cape of Good Hope rather than
+Bab el-Mandeb and Suez, adding roughly 4,0006,000 nautical miles and 1014 days per
+voyage.
+•Several vessels changed their stated destination more than once over the past two weeks,
+with some finalizing a new destination only after rounding the southern tip of Africa.
+•Independent commercial tracking data shows a divergent likely endpoint from the AIS
+declared destination for at least two of the tankers, suggesting the stated ports may not be
+final.
+▸MIOC assessment: The repeated late-stage destination changes point to routing decisions
+still being finalized well after departure, consistent with a response to Red Sea risk rather than
+fixed voyage plans.
+•Dark VLCC-class tanker 333m occupying the western terminal since 12 Aug, first occupant
+since 18 Jul.
+https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 8 of 15
+===== PAGE 9 =====
+BLOCKADEBREAKER SCREEN HOLDS AT ZERO FOR A SIXTH DAY
+ PAKISTANIFLAGGED TANKERS PUSH THROUGH BAB ELMANDEB TOWARD SAUDI OIL LOAD
+since 18 Jul.
+•Eastern and LPG terminals remain empty 13/16 consecutive days).
+•Waiting-area backlog at 17 dark tankers.
+▸MIOC assessment: A single reactivation against two terminals still empty points to selective,
+not full, resumption of loading capacity at Kharg — worth tracking whether the new caller
+actually departs laden or the terminal goes idle again.
+•115 vessels screened; confirmed laden Iran-origin floating storage unchanged at 3 (closest
+85.5 NM vs. 65 NM Tier-1 threshold).
+•New standout — a sanctioned VLGC laden with propane, 136.5 NM inside Iranian waters,
+moving toward Sohar STS on a decoy UAE-destination AIS tag.
+▸MIOC assessment: Six consecutive zero-readings in the Tier-1 band indicate the current
+screening posture is holding, though the new laden VLGC's approach warrants continued
+monitoring for a shift toward the threshold.
+•SHALAMAR IMO 9336842) and MARDAN IMO 9360453, both Pakistan-flagged crude oil
+tankers, transited Bab el-Mandeb this week bound for Yanbu, Saudi Arabia.
+•MARDAN declares its Yanbu destination on AIS; SHALAMAR still shows Karachi despite having
+called there on 4 August, with independent commercial tracking data confirming Yanbu as the
+actual next port.
+•The transits continue despite the elevated threat environment from Houthi attacks on Red Sea
+shipping.
+▸MIOC assessment: SHALAMAR's stale declared destination against a corroborated Yanbu
+routing is a minor but recurring pattern worth flagging for destination-spoofing tracking on
+Pakistan-flagged tonnage transiting the strait.
+GPS JAMMING 
+
+ DAILY SNAPSHOT
+152
+ 154https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 9 of 15
+===== PAGE 10 =====
+152JAMMED VESSELS
+↓ 13.8% vs. 7-day avg
+out of 7,7 73 transmitting 
+154
+GPS JAMMING  TREND OVER TIME
+SINCE OPERATION EPIC FURY 28 FEB
+72,876UNIQUE VESSELS JAMMED
+2,980,985FALSE SHIPTOSHIP MEETINGS
+Jammed Vessels / day
+False ship-to-ship meetings / day
+Epic Fury (28 Feb)
+Ceasefire (7 Apr)
+Blockade (13 Apr)
+todayiiii
+FALSE SHIPTOSHIP MEETINGSiiii
+https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 10 of 15
+===== PAGE 11 =====
+VESSELS ATTACKED
+Active Threat Zone · Strait of Hormuz · Arabian Gulf · Gulf of Oman
+60
+60
+60
+60ALL INCIDENTS
+53535353ATTACK
+7777NEAR MISS
+LIVE ACTIVITY · STRAIT OF HORMUZ
+TIHAMAH NEW
+General cargo vessel 
+11 Aug 2026·Bab el-MandebATTACK
+Struck near al-Mokha, Yemen; three crew
+members killed. Houthis claim the strike,
+saying the cargo was military equipment;
+Yemen's government says it was food
+cargo.
+ADNOCLINKED VESSEL NEW
+Vessel identity not yet confirmed 
+08 Aug 2026·Strait of HormuzATTACK
+UAE reported Iran struck an ADNOC
+linked vessel with a missile; no injuries
+reported. The specific vessel has not yet
+been confirmed.
+NCC WAFA
+Oil Products Tanker · Saudi-flagged 
+05 Aug 2026·Northern Red Sea, off Yanbu
+ATTACK
+Struck by claimed ballistic missiles while
+moving between two domestic Saudi Red
+Sea ports, well outside the chokepoint
+itself — the 8th Saudi-linked tanker hit
+since the blockade began. Weapon type
+and impact remain independently
+unconfirmed.
+DAISY
+Oil/Chemicals Tanker · Dominica-flagged 
+05 Aug 2026·Gulf of AdenNEARMISS
+Claimed ballistic-missile strike forcing a
+course reversal. AIS shows a continuous
+eastward transit toward the vessel's
+stated destination with no visible reversal,
+leaving the claim unverified and
+evidentially contested.
+MINOAN PIONEER
+Bulk Carrier · Liberia-flagged 
+04 Aug 2026
+ATTACK
+Struck by an unknown projectile, the same
+location as a 2 August incident; identified
+with medium-high confidence via satellite
+(dark, smoke visible at stern).
+Identity/damage status not officially
+released.
+FAIZE NOORE OLIYA
+Cargo Vessel · India-flagged 
+04 Aug 2026
+Red Sea, 13nm S of Al Hudaydah, Yemen
+ATTACK
+Struck by an explosives-laden boat and
+sank; all 14 crew rescued without
+casualties. Vessel had been AIS-dark
+since 21 June. Assessed as a Houthi
+attack based on strike location and
+Source: Windward AI · May 2026
+›SCROLL
+https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 11 of 15
+===== PAGE 12 =====
+STAY AHEAD OF WHAT'S HAPPENING IN THE STRAIT OF
+HORMUZ
+Windward's Maritime Intelligence Operations Center MIOC) fuses Maritime AI™, multi-source
+intelligence, and expert analysts to deliver continuous monitoring, rapid investigations, and
+reporting that drives strategic, operational, and risk decisions.
+LEARN MORE→
+WINDWARD MIOC · DAILY INTELLIGENCE
+DIVE DEEPER
+WINDWARD SITUATION ROOM
+https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 12 of 15
+===== PAGE 13 =====
+Three Kinetic Incidents in One Window as the Iran-Oman Corridor Expands
+Three simultaneous maritime attacks across different theaters — including fatal casualties in Bab
+el-Mandeb and Iran's 16th strike on ADNOC shipping — signal intensifying regional conflict
+alongside the expansion of alternative trade routes bypassing the Strait of Hormuz.
+windward.ai →
+YOUTUBE FEATURE
+How the Iran War Just Changed Global Power
+A conversation on the strategic and economic fallout of the Iran war — how the conflict has
+rewritten energy flows, alliances, and the rules of the global maritime trade order.
+Watch on YouTube →
+YouTube
+https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 13 of 15
+===== PAGE 14 =====
+Windward is the leading Maritime AI™ company delivering a unified operational picture through multi-
+source fusion. Windward turns fragmented data into mission-grade intelligence, enabling decisive action
+and seamless, agentic-based workflows. Request a demo.
+© 2026 Windward Ltd. All rights reserved
+Terms of use
+Privacy policy
+Cookies policy
+Terms of service - API
+KNOWLEDGE BASE
+Top 9 U.S. Maritime Risks — Q2 2026
+50% sanctioned share of the dark fleet, a 21% dark-fleet vessel share by flag, and the other risk
+signals shaping U.S. maritime security this quarter.
+windward.ai →
+https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 14 of 15
+===== PAGE 15 =====
+https://insights.windward.ai/ 8/15/26, 2:07 AM
+Page 15 of 15

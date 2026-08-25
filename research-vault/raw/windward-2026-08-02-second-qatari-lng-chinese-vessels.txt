@@ -1,0 +1,240 @@
+A Second Qatari LNG Carrier Struck as Chinese Vessels Cross
+bool(true)
+NULL
+bool(false)
+bool(false)
+bool(true)
+bool(false)
+array(11) {
+[0]=>
+int(17682)
+[1]=>
+int(91)
+[2]=>
+int(7204)
+[3]=>
+int(5752)
+[4]=>
+int(7295)
+[5]=>
+int(1258)
+[6]=>
+int(11315)
+[7]=>
+int(54026)
+[8]=>
+int(54270)
+[9]=>
+int(54257)
+[10]=>
+int(54224)
+}
+🇮🇷 TRACK VESSEL ACTIVITY IN THE STRAIT OF HORMUZ 🇮🇷
+MONITOR LIVE
+Hide
+Industries
+Defense & Public Sector
+Defense & Intelligence
+Law Enforcement & Border Protection
+Customs
+Unmanned Technology & Integrators
+Federal
+Commercial
+Oil & Energy
+Commodity Trade
+Offshore & Undersea Infrastructure
+Marine Insurance
+Maritime Law
+Shipping, Bunkering & Marine Services
+Financial Institutions
+Solutions
+Solutions
+Defense & Intelligence
+Border & Asset Security
+Risk & Compliance
+Container Tracking
+Business Intelligence
+Capabilities
+Remote Sensing Intelligence
+GPS Jamming Resilience
+Organization Defined Risk
+Search & Analytics
+Critical Maritime Infrastructure Protection
+Vessel Screening
+Smuggling Detection
+IUU Fishing
+Document Validation
+Early Detection
+Entity Management
+Data and Tech
+Multi Source Intelligence
+Data Quality
+API Insights Lab
+MAI Expert™
+Intellectual Property
+Maritime AI™ Anomaly Detection
+Technical Documentation
+MIOC
+Resources
+Strait of Hormuz Updates
+Blog
+Knowledge Base
+Glossary
+Case Studies
+Webinars & Events
+Recent posts
+August 2, 2026
+Marine Insurance in 2026: The Coverage Process in a Changed Operating Environment
+August 2, 2026
+A Second Qatari LNG Carrier Struck as 22 Chinese Vessels Cross the Red Sea Unharmed
+Company
+Our Story
+Careers
+In the News
+Press Releases
+Contact Us
+Request a Demo
+Request a Demo
+Aug 2, 2026
+27 min read
+A Second Qatari LNG Carrier Struck as 22 Chinese Vessels Cross the Red Sea Unharmed
+What’s inside?
+At a Glance
+GASLOG SHANGHAI , a Bermuda-flagged LNG tanker carrying Qatari LNG, was struck by a likely Iranian projectile approximately 11 nautical miles northeast of Limah, Oman, on July 31, the second confirmed hit on Qatari LNG cargo in a month.
+The IRGC claimed it struck and disabled two tankers attempting the southern corridor under U.S. air escort and forced four more to turn back after warnings.
+MINOAN GLORY , a Liberia-flagged bulk carrier, was forced into a real-time U-turn by the IRGC Navy and has been AIS -dark since July 31.
+Twenty-two Chinese-linked vessels transited Bab el-Mandeb and called at Saudi ports between July 20 and August 2 without a single incident.
+Over the same window, the Houthis struck four Saudi tankers , including ENCELIA , LAYLA , NCC MASA , and NCC GHAZAL .
+Saudi Arabia announced a 14-country multinational maritime coalition on July 30, headquartered in Riyadh and mandated to protect the Bab el-Mandeb, Red Sea, and Gulf of Aden.
+Six Saudi-flagged tankers are routing via the Cape of Good Hope, with one Taiwan-to-Yanbu voyage roughly doubling from 24 to 56 days.
+Yanbu King Fahd Industrial Port has sustained fully dark operations continuously since July 27.
+Operational Overview
+Two parallel escalations are shaping the maritime picture. Iran is tightening its grip on Hormuz. The Houthis are tightening theirs on the Red Sea. Chinese-linked shipping is moving freely through both.
+GASLOG SHANGHAI , a Bermuda-flagged LNG tanker carrying Qatari LNG, was struck by a likely Iranian projectile approximately 11 nautical miles northeast of Limah on July 31, marking the second confirmed hit on Qatari LNG cargo in a month. The IRGC claimed it struck and disabled two tankers attempting the southern corridor under U.S. air escort and forced four more to turn back after warnings. MINOAN GLORY was forced into a real-time U-turn by the IRGC Navy in a video the IRGC released itself.
+In the Red Sea, 22 Chinese-linked vessels transited Bab el-Mandeb and called at Saudi ports between July 20 and August 2 without a single incident, while the Houthis struck four Saudi tankers in the same window. Saudi Arabia announced a 14-country maritime coalition headquartered in Riyadh, and six Saudi-flagged VLCCs are now diverting via the Cape of Good Hope. Yanbu King Fahd port has sustained fully dark operations continuously since July 27.
+The Damietta drone strike on two LNG tankers on July 29 is assessed as an Iranian retaliatory operation linked to the Ukraine-Caspian strike rather than the Houthi campaign, extending Iranian action beyond the Gulf and Red Sea theaters for the first time.
+Windward assesses the operational risk environment across the Strait of Hormuz , Red Sea, Gulf of Aden, northern Arabian Gulf, and eastern Mediterranean as critical, with kinetic escalation now spanning three theaters simultaneously, differential access rules visibly operating for Chinese-linked tonnage on both fronts, and structural commercial disruption compounding across the region .
+The IRGC Strikes Two Tankers in the Strait of Hormuz
+UKMTO confirmed that GASLOG SHANGHAI (IMO 9600528), a Bermuda-flagged LNG tanker of 285 meters carrying Qatari LNG loaded around July 27, was struck by a likely Iranian projectile approximately 11 nautical miles northeast of Limah, Oman on July 31 , damaging the engine room with no casualties reported. GasLog confirmed the incident directly, stating all crew are safe and the vessel is stable. No group has claimed responsibility as of August 2.
+The vessel path and position of GASLOG SHANGHAI at the time of its attack. Source: Windward Maritime AI™ Platform.
+The strike is the second confirmed hit on Qatari LNG cargo in the last month.
+The IRGC separately claimed it struck and disabled two tankers attempting to cross the Strait’s southern route under U.S. air escort, with four more turning back after warnings . The IRGC stated the ships were directed by U.S. Central Command. CENTCOM has not confirmed the incident.
+One of the suspected vessels is a Liberia-flagged dark-fleet -designated VLCC of 330 meters that had initiated eastbound movement on the evening of July 30 and was last positioned approximately 45 nautical miles west of Khasab on July 31. The second vessel, GASLOG SHANGHAI , had been observed sailing eastbound on the evening of July 30 before reducing speed and loitering north of Sharjah at approximately 01:00 UTC on July 31. Both vessels’ movements are consistent with attempted southern corridor outbound transits in the window of the reported attacks.
+GASLOG SHANGHAI and a Liberia-flagged dark fleet VLCC approaching the southern corridor before the reported IRGC strikes, July 30 to 31, 2026. Source: Windward Maritime AI™ Platform.
+MINOAN GLORY (IMO 9364447), a Liberia-flagged bulk carrier of 225 meters, was forced into a U-turn in the southern corridor. The IRGC Navy released video showing the vessel making a real-time U-turn after a warning. The vessel has been AIS-dark since July 31 at 09:21 UTC.
+MINOAN GLORY ’s vessel path, showing a U-turn as it approaches the Strait of Hormuz, July 31, 2026, 09:21 UTC. Source: Windward Maritime AI™ Platform.
+KAVOMALEAS (IMO 1042823) remains burning near Larak Island, now 12 days after being struck . Smoke reappeared on the August 1 EO pass after not showing on the July 26 and July 30 passes. Crew remains off the vessel with no salvage yet, representing an ongoing fire and environmental risk in the Strait.
+Strait of Hormuz Transits and Vessel Activity
+Weekend transit volume at Hormuz rose despite continued kinetic incidents. The August 1 24-hour window logged 19 transits, 10 outbound and 9 inbound , versus 11 in the prior 12-hour window. Six crossed dark.
+The inbound group comprised 6 AIS-transmitting and 4 dark vessels. By vessel type, 3 were tankers under Bahamas, Nicaragua, and Panama flags, 3 bulk carriers under Panama, Greece, and Malta flags, and 4 cargo vessels under India and Comoros flags. Five transited via the northern corridor and 5 via the southern corridor.
+The outbound group comprised 6 AIS-transmitting and 3 dark vessels. By vessel type, 5 were tankers under Panama, Mali, Iran, and unidentified flags, 1 bulk carrier under the Cyprus flag, and 3 cargo vessels under Tanzania, Iran, and Sri Lanka flags. Six transited via the northern corridor and 3 via the southern corridor.
+A Bahamas-flagged LNG tanker carrying approximately 902,200 barrels of LNG loaded at Ras Laffan between July 4 and 6, per Vortexa , held in Gulf waters for more than three weeks before transiting overnight on July 29 to 30. Since July 31, the vessel has abandoned its declared Port Qasim, Pakistan course and is instead running a fixed back-and-forth line east of the Strait, sitting directly on the U.S. blockade’s enforcement corridor with no progress toward its destination for 48-plus hours, while remaining fully AIS-transparent throughout.
+The pre-transit holding period is assessed as calculated commercial risk avoidance. The post-transit patrol pattern is a genuine anomaly, whether it reflects U.S. screening or holding, a berth-slot delay, or another factor remains an open question. The vessel carries no sanctioned entities in its ownership chain.
+The Bahamas-flagged LNG tanker’s vessel path. Source: Windward Maritime AI™ Platform.
+Course Reversal at the Blockade Line
+An Iran-flagged OFAC-sanctioned container vessel reversed course from eastbound to westbound between 10:08 and 10:31 UTC on July 30 at the Gulf of Oman and Arabian Sea boundary, directly at the edge of the active U.S. naval blockade enforcement zone reimposed on July 14 . The reversal sent the vessel back toward Iranian waters away from the enforcement line. The vessel carries an extensive evasion history, including three name changes, seven MMSI numbers, an attempted IMO number swap in 2019, and a flag change in December 2025.
+The Iran-flagged OFAC-sanctioned container vessel reversing course directly at the edge of the active U.S. naval blockade enforcement zone, July 30, 2026. Source: Windward Maritime AI™ Platform.
+Active AIS Manipulation Detected
+A U.S.-sanctioned Nicaragua-flagged LPG carrier designated as an OFAC Specially Designated Global Terrorist entity was detected on July 31 broadcasting frozen course and speed over ground data for 73-plus consecutive minutes . This is a textbook live AIS manipulation signature indicating active concealment of true routing or activity. The vessel is laden with approximately 242,500 barrels of Iranian-origin butane and propane loaded on July 17 and topped up via a ship-to-ship transfer at Shinas, Oman on July 29 according to Vortexa.
+Its declared destination is Khor Al Zubair, Iraq, consistent with an established Iranian LPG sanctions evasion tactic of routing Iranian-origin cargo through Iraqi port declarations to obscure true origin. The AIS manipulation was detected immediately following a destination change event and during active transit toward Iranian territorial waters. The vessel is actively broadcasting spoofed AIS since July 31 at 07:15 UTC, while en route to its declared destination.
+The U.S.-sanctioned Nicaragua-flagged LPG carrier’s inbound transit from the Gulf of Oman, through the Strait of Hormuz into the Arabian Gulf, terminating near an Iranian coastal location (red arrow). Source: Windward Maritime AI™ Platform.
+A VLCC Transits Hormuz Broadcasting Chinese Crew Signal
+A Hong Kong-flagged VLCC of approximately 333 meters transited the Strait of Hormuz outbound on July 30 to 31 with continuous AIS transmission while broadcasting the destination field “CHINESE CREW / OWNER” , a recurring signal pattern observed across multiple vessels in both the Hormuz and Red Sea corridors this July.
+The vessel loaded approximately 2.14 million barrels of Basrah Medium crude at Al Basrah Oil Terminal, Iraq between July 25 and 28, and its declared destination is Singapore. The Chinese crew and ownership broadcast most plausibly reflects self-protective signaling against Iranian attacks on Hormuz shipping generally, given the vessel carries Iraqi rather than Iranian crude and was never inside the U.S. blockade’s target set.
+The VLCC+’s outbound transit of the Strait of Hormuz with AIS transmission throughout after loading crude at Al Basrah Oil Terminal, Iraq. Source: Windward Maritime AI™ Platform.
+Saudi Arabia Announces a 14-Country Maritime Coalition
+Saudi Arabia announced the formation of a 14-country multinational maritime defence coalition on July 30, headquartered in Riyadh, explicitly mandated to protect the Bab el-Mandeb Strait, Red Sea, and Gulf of Aden against Houthi threats . Participating countries include Turkey, Egypt, Pakistan, and Sudan. The UAE and Oman were notably absent, though Saudi Arabia stated the door remains open for additional members.
+The coalition will share intelligence and conduct joint maritime operations and exercises. The announcement followed Saudi airstrikes on Houthi sites near Hodeidah on July 24 to 25 and the Houthi-declared naval blockade against Saudi-linked shipping on July 20.
+22 Chinese-Linked Vessels Cross Bab el-Mandeb Unharmed as Four Saudi Tankers Are Struck
+Twenty-two Chinese-owned, operated, or flagged vessels made Saudi port calls and/or transited Bab el-Mandeb between July 20 and August 2 without incident , spanning three distinct operational patterns, while the Houthis struck four separate Saudi tankers on three separate days in the same window.
+The Houthis struck ENCELIA and LAYLA on July 22, NCC MASA on July 25, and NCC GHAZAL on July 28, following their July 20 declaration that all Saudi-bound shipping was a legitimate target. Chinese-linked vessels transited Bab el-Mandeb on, or immediately around, all three attack dates, with multiple vessels crossing the same day Saudi tankers were struck. None of the 22 tracked vessels were attacked, interdicted, or reported threatened during the window.
+Three distinct patterns were identified. Thirteen Chinese-owned vessels called at Jeddah or Yanbu and cleared Bab el-Mandeb unharmed , including one transiting southbound the same day ENCELIA and LAYLA were struck and another transiting the same day NCC MASA was hit.
+The thirteen Chinese-owned vessels that called at Jeddah or Yanbu and cleared Bab el-Mandeb unharmed. Source: Windward Maritime AI™ Platform.
+Four Chinese VLCCs with a combined 1.23 million DWT loaded Saudi crude at King Fahd and carried it north through Bab el-Mandeb to China , including two tankers clearing the strait the day after the ENCELIA and LAYLA strikes.
+The four Chinese VLCCs carrying a combined 1.23 million DWT from King Fahd, passing through Bab el-Mandeb to China. Source: Windward Maritime AI™ Platform.
+Five China-flagged vessels ran direct China-Saudi trade through the window .
+The five China-flagged vessels’ paths that ran direct China-Saudi trade through this window. Source: Windward Maritime AI™ Platform.
+No dark AIS activity was recorded during any Bab el-Mandeb transit in this set , as Chinese vessels crossed broadcasting continuously, consistent with reliance on overt identity rather than concealment for protection. Extended pre-port-call loitering across multiple vessels, ranging from 127 to 259-plus hours, is consistent with vessels holding position pending individual clearance, matching reports of a case-by-case China-Houthi arrangement with Iran reportedly kept apprised.
+A 100% Chinese-owned Panama-flagged general cargo vessel transited Bab el-Mandeb southbound on July 30 without evasive behavior , arriving at Jeddah after a five-day port call there ending July 26.
+The Chinese-owned Panama-flagged general cargo vessel transiting Bab el-Mandeb, July 30, 2026. Source: Windward Maritime AI™ Platform.
+The vessel used defensive AIS destination declarations throughout, signaling Chinese ownership and crew before entering high-risk waters, through the chokepoint, and reverting to standard destination declaration in the northern Red Sea past the threat zone. No dark activity , GPS manipulation, or course deviation was recorded.
+Per open-source reporting , China held direct talks with the Houthis to secure vessel-specific safe passage for Chinese tankers, with both parties briefing Iran on the arrangement. The Houthis are reported to be weighing fees on most Bab el-Mandeb traffic while exempting Chinese vessels.
+Taken together, the timing, the openness of transits, and the reported diplomatic track are consistent with Chinese-linked shipping operating under a reported understanding between China and the Houthis that Saudi-flagged tankers, carrying the same cargo through the same waters, did not share.
+Six Saudi Tankers Divert via the Cape of Good Hope
+Six Saudi-flagged tankers, all currently in ballast, are routing via the Cape of Good Hope instead of the Bab el-Mandeb Strait and Red Sea corridor, avoiding the active Houthi threat to Saudi-linked shipping .
+Six Saudi-flagged tankers diverting via the Cape of Good Hope to avoid the Houthi blockade, August 2, 2026. Source: Windward Maritime AI™ Platform.
+Five are bound for the U.S. Gulf Coast to load crude, with the Cape routing adding approximately six to seven days against a direct Suez and Bab el-Mandeb routing. A sixth, bound from Taiwan to Yanbu, faces the most significant commercial impact, as its reroute roughly doubles transit days from approximately 24 to 26 days to approximately 54 to 56 days.
+All six are routing on their empty legs, suggesting the decision reflects a policy to keep Saudi-flagged vessels clear of the corridor regardless of cargo exposure rather than cargo-specific risk avoidance.
+Yanbu Sustains Fully Dark Operations Since July 27
+EO imagery collected over King Fahd Industrial Port at Yanbu on August 1 at 08:06 UTC confirmed 16 dark vessels across the terminal and offshore waiting area , as the fully-dark run continues unbroken since July 27. This is a sharp contrast to the pre-Houthi-threat baseline in May when 9 AIS-active tankers operated openly at berth.
+Eight dark tankers were at berth or loading points ranging from approximately 156 to 343 meters, including two VLCC-class vessels of approximately 343 and 330 meters moored at offshore loading trestles. Four dark bulk and general cargo vessels were at the northern berth line. Four dark tankers were holding stationary in the offshore anchorage. No inbound transit was observed in this pass, and no ship-to-ship transfer activity was detected. Tanker occupancy at berth is up from 6 on July 30 to 8 today.
+Kharg Island Terminals Remain Empty
+SAR imagery collected over Kharg Island on August 1 at 02:38 UTC showed all three terminals empty . The eastern terminal tanker that had berthed on July 30 has since departed, leaving the terminal empty again after a brief reoccupation. The western terminal has now been empty for 14 days and the LPG terminal for 5 days. The waiting area held 19 dark tankers , up from 17 two days prior, confirming the backlog is growing as terminals sit idle.
+SAR imagery of the terminal and waiting area at Kharg Island, August 1, 2026, 02:38 UTC. Source: Windward Remote Sensing Intelligence.
+Hodeidah Port Activity Continues to Increase
+Two EO collections over Hodeidah on July 31 at 07:30 and 11:42 UTC identified 7 vessels of interest , 2 approaching from the north and 5 at or near the port. Two new AIS contacts were approaching along the coast, not seen in any prior Hodeidah collection. Three repeat contacts from the July 28 collection remained present, including two vessels that have been at the port since at least July 21, confirming multi-day dwell rather than quick calls.
+A bulk carrier of 190 meters previously flagged as an inbound vessel to watch was confirmed to have arrived and docked. Two dark contacts were present at the berth cluster, one unidentified cargo hull of approximately 104 meters and one approximately 77-meter dark hull assessed as a pre-conflict derelict. Port activity continues to increase rather than decrease in the weeks since the July 24 to 25 Saudi-led coalition strike.
+Damietta Attribution Update
+No group has claimed the July 29 drone strike on ENERGOS WINTER (IMO 9256614) and GASLOG SALEM (IMO 9638915) at Damietta . The Houthi-run foreign affairs office explicitly denied targeting the vessels, calling reports of Yemeni involvement unfounded. The Houthi denial strengthens the Iran and Ukraine-retaliation read, as the Houthis typically claim strikes for deterrent value, so a denial indicates either genuine non-involvement or deliberate avoidance of blowback from hitting Egypt.
+Iranian state television had named Damietta as a retaliation target two days before the strike, tied to Ukraine’s attack on an Iranian vessel in the Caspian Sea. Egypt’s cabinet confirmed the investigation is ongoing with no party identified.
+Chinese Government Vessel Detected Over the Pacific Light Cable Network
+A Chinese government-owned research and survey vessel was detected operating at slow speed over the Pacific Light Cable Network , a high-capacity trans-Pacific fiber-optic submarine cable spanning approximately 13,000 kilometers connecting the U.S. and Taiwan.
+A Chinese government-owned research and survey vessel operating at slow speed over the Pacific Light Cable Network. Source: Windward Maritime AI™ Platform.
+The vessel is owned and operated by the Chinese government and has previously been observed operating in disputed areas including the Paracel and Spratly Islands, in the Indian Ocean Region off Sri Lanka and the Bay of Bengal, and in the Philippines EEZ .
+Outlook
+The maritime conflict is now defined by two parallel escalations, plus a widening geographic footprint. Iran is tightening its grip on Hormuz, with a second Qatari LNG carrier hit, IRGC-claimed disabling actions against U.S.-escorted transits, and a forced real-time U-turn recorded in the southern corridor. The Houthis are tightening their grip on the Red Sea, with four Saudi tankers struck over the reporting window, Yanbu operating fully dark since July 27, and Saudi-flagged VLCCs now routing via the Cape of Good Hope.
+Underneath both escalations, a differential access framework is now visibly operating for Chinese-linked shipping. 22 Chinese vessels crossed Bab el-Mandeb and called at Saudi ports without incident over the same window in which four Saudi tankers were struck. The Chinese crew and ownership broadcast used by a VLCC at Hormuz is a related self-protective signaling pattern, though the vessel carried Iraqi rather than Iranian crude and was not inside the U.S. blockade’s target set.
+The conflict’s third front, the Damietta drone strike on July 29, has extended Iranian retaliation beyond the Gulf and Red Sea for the first time, tied to the Ukraine-Caspian retaliation cycle rather than the Houthi campaign. Egypt is now on the active threat picture.
+Windward assesses the operational risk environment across the Strait of Hormuz, Red Sea, Gulf of Aden, northern Arabian Gulf, and eastern Mediterranean as critical, with kinetic escalation now spanning three theaters simultaneously, differential access rules visibly operating for Chinese-linked tonnage, and structural commercial disruption compounding across the region.
+Strait of Hormuz Live Tracker
+Monitor live
+Explore more
+HORMUZ INTELLIGENCE
+July 30, 2026
+Iranian Retaliation Reaches Damietta: A New Front Opens Beyond the Gulf and the Red Sea
+At a Glance Operational Overview The conflict’s geographic footprint has expanded beyond the Gulf and Red Sea into the broader eastern Mediterranean energy corridor. A drone struck ENERGOS WINTER, a U.S.-managed LNG floating storage unit moored at Damietta, Egypt, on the evening of July 29, with fire spreading to GASLOG SALEM alongside. Iranian state television...
+Read more
+HORMUZ INTELLIGENCE
+July 28, 2026
+Two Closed Corridors: Hormuz and Bab el-Mandeb Both Effectively Shut to Tanker Traffic
+At a Glance Operational Overview Both major Gulf corridors are effectively closed to normal commercial tanker traffic, for different reasons on each side. Hormuz recorded zero tanker crossings on July 27, with all six transits routing through the IRGC-controlled northern corridor. Bab el-Mandeb crossings have fallen 22% since the July 20 Houthi blockade declaration, with...
+Read more
+HORMUZ INTELLIGENCE
+July 26, 2026
+The Red Sea Reopens as a Second Front While Saudi Crude Routes Around the Blockade
+At a Glance Operational Overview The Red Sea has reopened as a second active front. The Houthis resumed attacks on July 22 following a September 2025 ceasefire, hit a Saudi Aramco refinery at Jizan on July 25, and launched missiles intercepted before reaching Yanbu. Four vessels have been hit or affected across the reporting period....
+Read more
+HORMUZ INTELLIGENCE
+July 23, 2026
+Selective Enforcement: Saudi Crude Keeps Moving Under the Houthi Blockade
+A Blockade, Declared and Partly Kinetic On July 20, Houthi-aligned forces announced a full naval blockade of Saudi Arabia, framed as retaliation for Saudi strikes on Sanaa airport. The declaration named Saudi, Israeli, and U.S.-linked tonnage as targets. Within days, Houthi channels claimed strikes on two Saudi tankers. One is corroborated: UKMTO logged a projectile...
+Read more
+Windward is the leading Maritime AI™ company, delivering mission-grade, multi-source intelligence at scale for all maritime-based operations.
+We encourage shipowners and maritime operators to submit feedback regarding vessels and ownership via vessel feedback page.
+Industries
+Commercial
+Defense & Public Sector
+Data and Tech
+Multi Source Intelligence
+Data Quality
+API Insights Lab
+MAI Expert™
+Intellectual Property
+Maritime AI™ Anomaly Detection
+Technical Documentation
+Solutions
+Business Intelligence
+Container Tracking
+Defense & Intelligence
+Border & Asset Security
+Risk & Compliance
+Company
+Our Story
+Careers
+In the News
+Press Releases
+2026 © Windward Ltd. All rights reserved
+Terms of use
+Privacy Policy
+Cookies policy
+Windward’s AI Guide

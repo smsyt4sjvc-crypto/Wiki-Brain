@@ -1,0 +1,162 @@
+
+SEC Filing Line Items — Calendar 2026 Q1 & Q2
+Amounts in $ millions. Quarterly values only.
+Fiscal-year warning: Microsoft fiscal year ends June 30. Oracle fiscal year ends May 31; Oracle fiscal quarters do not align to calendar quarters and are labeled explicitly below.
+TICKER
+	CALENDAR QTR
+	fiscal period used
+	revenue
+	capex
+	finance leases
+	net income
+	operating cash flow
+	D&A
+	purchase commitments / RPO
+	useful-life / restatement flag
+	source (filing + date)
+	
+MSFT
+	2026 Q1
+	MSFT FY2026 Q3 = Jan–Mar 2026 = calendar Q1 2026
+	82,886
+	30,876
+	4,700
+	31,778
+	46,679
+	10,167 — CF line: “Depreciation, amortization, and other”
+	RPO 627,000
+	Useful-life change: NOT DISCLOSED. Prior-period CF amounts RECAST, not restated.
+	FY2026 Q3 financials / earnings call, 2026-04-29
+	
+MSFT
+	2026 Q2
+	MSFT FY2026 Q4 = Apr–Jun 2026 = calendar Q2 2026
+	90,007
+	35,802
+	5,600
+	35,766
+	55,441
+	11,022 — CF line: “Depreciation, amortization, and other”
+	RPO 678,000
+	No Q2 change disclosed. Effective 2026-07-01, datacenter/office-building lives extended 15→25 years; not servers/network equipment. Restatement: NOT DISCLOSED.
+	FY2026 Q4 financials / earnings call, 2026-07-29
+	
+GOOGL
+	2026 Q1
+	Alphabet FY2026 Q1 = Jan–Mar 2026 = calendar Q1 2026
+	109,896
+	35,674
+	211
+	62,578
+	45,790
+	6,482 depreciation only; amortization NOT DISCLOSED on CF statement
+	Revenue backlog 467,600; Google Cloud 462,300
+	Useful-life change: NOT DISCLOSED. Restatement: NOT DISCLOSED.
+	Form 10-Q / earnings release, 2026-04-29/30
+	
+GOOGL
+	2026 Q2
+	Alphabet FY2026 Q2 = Apr–Jun 2026 = calendar Q2 2026
+	119,796
+	44,924
+	691
+	112,193
+	39,069
+	7,104 depreciation only; amortization NOT DISCLOSED on CF statement
+	Revenue backlog 519,500; Google Cloud 513,900
+	Useful-life change: NOT DISCLOSED. Restatement: NOT DISCLOSED.
+	Form 10-Q / earnings release, 2026-07-22/23
+	
+AMZN
+	2026 Q1
+	Amazon FY2026 Q1 = Jan–Mar 2026 = calendar Q1 2026
+	181,519
+	44,203
+	1,565
+	30,255
+	26,032
+	18,945 — CF line includes PP&E, capitalized content costs, operating-lease assets and other
+	Unconditional purchase obligations 103,768
+	Useful-life change: NOT DISCLOSED. Restatement: NOT DISCLOSED.
+	Form 10-Q, 2026-04-30
+	
+AMZN
+	2026 Q2
+	Amazon FY2026 Q2 = Apr–Jun 2026 = calendar Q2 2026
+	200,606
+	54,208
+	563
+	62,647
+	45,387
+	19,988 — CF line includes PP&E, capitalized content costs, operating-lease assets and other
+	Unconditional purchase obligations 130,065
+	Useful-life change: NOT DISCLOSED. Restatement: NOT DISCLOSED.
+	Form 10-Q, 2026-07-31
+	
+META
+	2026 Q1
+	Meta FY2026 Q1 = Jan–Mar 2026 = calendar Q1 2026
+	56,311
+	18,997
+	NOT DISCLOSED
+	26,773
+	32,226
+	5,999
+	Contractual commitments 237,670
+	Useful-life change: NOT DISCLOSED. Restatement: NOT DISCLOSED.
+	Form 10-Q / earnings release, 2026-04-29/30
+	
+META
+	2026 Q2
+	Meta FY2026 Q2 = Apr–Jun 2026 = calendar Q2 2026
+	60,801
+	30,116
+	NOT DISCLOSED
+	15,848
+	31,862
+	6,356
+	Contractual commitments 349,310
+	Useful-life change: NOT DISCLOSED. Restatement: NOT DISCLOSED.
+	Form 10-Q / earnings release, 2026-07-29
+	
+ORCL
+	2026 Q1
+	ORCL FY2026 Q3 = Dec 1, 2025–Feb 28, 2026; does not align with calendar Q1
+	17,190
+	DERIVED: 18,635 = 39,170 9M − 20,535 6M
+	NOT DISCLOSED quarterly
+	3,721
+	DERIVED: 7,151 = 17,357 9M − 10,206 6M
+	DERIVED: 2,566 = (5,208 depreciation + 1,239 amortization) 9M − (3,055 + 826) 6M
+	RPO 552,600
+	Useful-life change: NOT DISCLOSED. Prior-period revenue disclosures RECLASSIFIED, not restated.
+	FY2026 Q3 Form 10-Q, 2026-03-11; FY2026 Q2 Form 10-Q, 2025-12-11
+	
+ORCL
+	2026 Q2
+	ORCL FY2026 Q4 = Mar 1–May 31, 2026; does not align with calendar Q2
+	19,184
+	DERIVED: 16,493 = 55,663 FY − 39,170 9M
+	DERIVED: 1,527 = 4,946 FY − 3,419 9M
+	4,304
+	DERIVED: 14,620 = 31,977 FY − 17,357 9M
+	DERIVED: 2,847 = (7,623 depreciation + 1,671 amortization) FY − (5,208 + 1,239) 9M
+	RPO 638,000
+	Useful-life change: NOT DISCLOSED. Restatement: NOT DISCLOSED.
+	FY2026 Form 10-K / Q4 earnings release, 2026-06-10/22
+	
+SpaceX — Calendar Q2 2026
+TICKER
+	CALENDAR QTR
+	net income
+	operating cash flow
+	D&A
+	source
+	
+SPCX
+	2026 Q2
+	-541
+	DERIVED: 2,419 = 3,466 6M − 1,047 Q1
+	2,848
+	Form 10-Q / earnings materials, 2026-08-04; Q1 prospectus, 2026-06-05
+	

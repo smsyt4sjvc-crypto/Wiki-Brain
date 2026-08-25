@@ -1,0 +1,30 @@
+[Jake paste 2026-08-05 ~9:10pm PDT — Wccftech relaying Korea's Digital Daily]
+Chinese memory manufacturer CXMT has refused Apple's demand for a price cut in negotiations, says a report
+from the Korean press. Apple has widely been reported to be interested in procuring its chips from CXMT and
+has purportedly lobbied the US government for the permission to purchase the products for its gadgets sold
+outside the country. However, the report from the Korean publication Digital Daily outlines that demand from
+Huawei, Xiaomi and others has placed CXMT in a stronger position to negotiate with the world's largest
+consumer electronics firm.
+CXMT's Domestic Customers Provide It Leverage In Negotiations With Apple
+According to the details, as CXMT has emerged to become one of the top players in China's memory market,
+Samsung and SK hynix have instead chosen to focus on manufacturing and selling high-value HBM memory chips
+catered to the needs of the data center industry. As a result, CXMT is experiencing high demand from domestic
+Chinese companies such as Huawei and Xiaomi, which have provided it with the leverage to bargain with Apple.
+Sources quoted by Korea's Digital Daily outline that during its negotiations with CXMT, Apple asked for a
+price cut in order to ease pricing pressures for its smartphones and the upcoming 2026 iPhone. However, CXMT
+refused the price cut and instead quoted prices that were at level with or higher than the prices quoted by
+Samsung and SK hynix.
+The publication adds that US sanctions on China have led Huawei, Xiaomi and others to lock in CXMT's DRAM
+memory output in advance. This lock-up is similar to the contracts that the Korean firms have utilized, and
+they are also high-priced agreements that prevent CXMT from yielding to Apple's requests. According to the
+sources, the higher prices have provided CXMT with the leverage to negotiate with Apple, as it can point
+towards the existing deals already in place.
+Additionally, the higher prices have also removed a long-followed strategy in sourcing where device
+manufacturers would quote lower-priced Chinese inputs to use them as leverage in negotiations with other firms.
+The higher domestic demand in China has also benefited Korean suppliers Samsung and SK hynix, as they are no
+longer required to be committed to delivering lower-priced commodity DRAM chips to Chinese firms. Instead,
+the firms can fully focus on the pricier HBM memory chips required for the AI infrastructure buildout.
+According to an industry official quoted by the publication, CXMT is effectively controlling the price floor
+of the commodity DRAM market.
+[Sidebar headline, same page: "Google's Frontier AI Ambitions Gutted As DeepMind's CEO Steps Down, Its Chief
+AI Scientist Leaves, And Its Coding Hopes Now Rest On A $1.5 Billion Deal With A Startup"]

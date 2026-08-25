@@ -1,0 +1,38 @@
+SOURCE: Axios — Maria Curi, "White House finalizes AI framework behind closed doors"
+ARCHIVED: 2026-08-03 ~9:15am PDT (Jake paste, verbatim). Article dateline: Monday (2026-08-03).
+---
+The White House said on Monday it met its deadline to establish a voluntary framework for evaluating
+advanced AI models -- but it won't say what the framework contains, who's seen it or when companies
+will start using it.
+
+Why it matters: The framework is being closely watched beyond the industry players it directly applies to.
+Policymakers, AI safety advocates, and U.S. allies have been waiting to see what the rules for the most
+powerful models in the world look like.
+
+What they're saying: "The voluntary framework outlined in the June 2nd executive order was complete by
+the deadline," a White House official said.
+"Discussions with industry about next steps are underway," the official said, adding that the
+administration is engaging with "many more" industry partners than just Anthropic, OpenAI and Google.
+Leading up to the deadline, the three labs gave the administration feedback on a draft of the framework.
+
+What's inside: The framework is meant to give AI developers a structure for engaging the government to
+determine whether models under development would be covered.
+The framework is supposed to spell out the confidentiality, cybersecurity, insider-risk,
+intellectual-property protection use and nondisclosure requirements that would apply when the government
+gets access to models for up to 30 days before they're released.
+The framework should also include which "trusted partners" will also have early access to models.
+
+Zoom in: The executive order explicitly says the benchmarking process to assess advanced cyber
+capabilities of AI models will be classified.
+The threshold for which models are covered under the order is also classified and will only be shared
+with AI developers and researchers "as appropriate."
+The order does not similarly designate the voluntary framework as classified, and policymakers and other
+observers expected to see details.
+
+Between the lines: Companies are seeking clarity early so they know whether models under development are
+likely to fall under the framework.
+"Just because things are unclassified that doesn't mean we are going to broadcast them to everyone," the
+White House official said.
+
+What's next: The White House will hold a staff-level meeting with companies on Tuesday to review the
+framework, a source familiar said.

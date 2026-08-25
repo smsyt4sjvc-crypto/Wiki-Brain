@@ -1,0 +1,9 @@
+SOURCE: pasted by Jake 2026-08-09 ~12:50pm PDT — his commissioned ranking of investor-research spaces
+(reads as an AI-assisted survey he endorsed by acting on it). Filed alongside the thesis-radar workflow
+launch. Full text in chat; ranking: 1 VIC (HF-memo-grade pitches, guest delay) · 2 SumZero (16k+ screened
+pros, mostly walled) · 3 Substack (follow AUTHORS not feed: Citrini, Doomberg, Capital Wars, Compounding
+Quality, TMT Breakout, Capital Flows, PauloMacro; no quality filter) · 4 CoBF (slow, substantive value
+forum) · 5 r/SecurityAnalysis (r/ValueInvesting one tier below) · 6 Seeking Alpha (database not community)
+· 7 Bogleheads (allocation/tax, not ideas) · 8 Hacker News (engineer-grade tech dissection).
+Usage stack: ideas = VIC→SumZero→Substacks · anti-thesis = CoBF→r/SecAnalysis→SA bears · industry =
+specialist Substacks→HN · implementation = Bogleheads. Then ALWAYS primary documents.

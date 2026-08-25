@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /field-estimate.html
+Disallow: /consult.html
+
+Sitemap: https://inmagent.com/sitemap.xml

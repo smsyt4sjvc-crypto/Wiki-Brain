@@ -1,0 +1,839 @@
+ BOTTOM LINE UP FIRST
+01
+Iranian Forces Reportedly Board Tanker AMARA
+The Liberia-flagged product tanker AMARA reversed course and entered a loitering pattern near Qeshm
+Island after reportedly being boarded by Iranian forces; the vessel remains underway on AIS and the report
+is unconfirmed by outside sources.
+02
+Houthi Strike Misses Claimed Naval Target
+MIOC assesses a Houthi strike near Mocha struck a commercial vessel moored for maintenance rather than
+the underway warship and escort the group claimed; the claim has been disputed.
+03
+Nine Zombie Tankers Anchor Off China
+Nine VLCCs broadcasting a fraudulent flag registry and the IMO numbers of dead or scrapped ships were
+tracked anchoring off China's coast, reflecting Iran-trading tonnage stranded by the reimposed US
+blockade.
+04
+DAILY STATUS
+ BLOCKADE á
+127D 11H
+August 18, 2026
+August 18, 2026
+August 18, 2026
+August 18, 2026
+Data as of 17 August 2026
+STRAIT OF HORMUZ, RED SEA,
+AND MARITIME
+CHOKEPOINTS
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 1 of 20
+04
+Sanctioned LPG Carrier Redirects Toward China
+A sanctioned LPG carrier flagged under a false registry completed a ship-to-ship transfer off Oman, then
+changed its declared destination toward China and Sri Lanka.
+05
+Hormuz Transit Volume Stays Suppressed, Dark Share Elevated
+13 vessels crossed the Strait of Hormuz in the 24-hour window Ñ 8 inbound, 5 outbound Ñ well under the
+pre-disruption baseline, with 5 of the 13 transits 
+!
+3 inbound, 2 outbound) running dark for periods ranging
+roughly 3 to 16 hours.
+06
+Kharg Island Terminals Remain Idle
+All three Kharg Island terminals sat vacant, with the LPG terminal idle 21 days and the eastern oil terminal 18
+days, while the offshore waiting area held an assessed 
+"
+20.7 million barrels of laden tankers.
+STRAIT OF HORMUZ
+INBOUND & OUTBOUND TRANSITS
+!
+ INBOUND
+8 transits á 5 North á 3 South
+DARK
+"
+ 3
+8
+AIS
+"
+ 5
+5
+5
+5
+5
+3
+3
+3
+3
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 2 of 20
+Source: Windward AI á August 17, 2026
+windward.ai
+5
+5
+5
+5
+AIS VISIBLE
+3
+3
+3
+3
+DARK / NO AIS
+2 Tanker
+2 Tanker
+2 Tanker
+2 Tanker
+1 Bulk
+1 Bulk
+1 Bulk
+1 Bulk
+5 Cargo
+5 Cargo
+5 Cargo
+5 Cargo
+VESSEL CLASSES
+5N á 3S
+5N á 3S
+5N á 3S
+5N á 3S
+CORRIDOR
+CARGO
+MIKAEEL
+Iran á Landing Craft, 50m á IMO 9679713 á AIS á high-risk cargo á registered owner Mellat
+Kandowan Bank (Iran) á last port Sirik, Iran, toward Oman
+CARGO
+KIAN 1
+Bolivia á General Cargo, 55m á IMO 9250268 á AIS á last port Dubai, UAE
+CARGO
+KIAN1
+Iran á Landing Craft, 60m á IMO 9485344 á AIS á registered owner Rasouliahari A (Iran)
+TANKER/LPG
+XAVIA
+Guinea á LPG Tanker, 224m á IMO 9052331 á AIS á dark-fleet, false-flag indicators á
+registered owner Golden Lotus Oil Gas And Real Estate Joint Stock Co. (Vietnam) á
+last port Sharjah, UAE
+CARGO
+MSV SAFINA AL ZAHRA
+India á Cargo, 60m á MMSI 419956221 á AIS-dark ~9h á per #mioc-war-room analyst report
+(transmission column in source CSV read bright; corrected against Slack report)
+OTHER
+Unnamed
+Iran á Other á MMSI 422164600 á AIS
+BULK
+ANNA
+#
+BARBARA
+Liberia á Bulk Carrier, 190m á IMO 9407500 á AIS-dark ~9.5h (
+1227Ð2203
+ UTC 16 Aug) á
+registered owner First Position Shipping Ltd (Singapore) á per #mioc-war-room analyst
+report
+TANKER
+SUNBIRD ARROW
+Marshall Islands á Asphalt/Bitumen Tanker, 144m á IMO 9323821 á AIS-dark ~15h56m (1710
+UTC 16 AugÐ0906 UTC 17 Aug) á managed by Gearbulk Norway AS á entered Jebel Ali, UAE á
+per #mioc-war-room analyst report
+$
+ OUTBOUND
+5 transits á 1 North á 4 South
+DARK
+"
+ 2
+5
+AIS
+"
+ 3
+3
+3
+3
+3
+AIS VISIBLE
+2
+2
+2
+2
+DARK / NO AIS
+1 Tanker
+1 Tanker
+1 Tanker
+1 Tanker
+4 Cargo
+4 Cargo
+4 Cargo
+4 Cargo
+VESSEL CLASSES
+1N á 4S
+1N á 4S
+1N á 4S
+1N á 4S
+CORRIDOR
+OTHER
+RYUJIN
+Nicaragua á Utility Vessel, 34m á IMO 8206818 á AIS á false-flag indicator á registered
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 3 of 20
+Source: Windward AI á August 17, 2026
+windward.ai
+owner Shree Krishna Marine Services (Panama)
+OTHER
+ASGARD
+Mali á Tug/Supply Vessel, 57m á IMO 7802598 á AIS á false-flag indicator á registered
+owner Hydra Marine, S.A. De C.V. (Mexico) á last port SHI, Oman
+OTHER
+Unnamed
+Comoros á Other á MMSI 620800004 á AIS
+TANKER
+POSEIDON ECO
+Guinea-Bissau á Asphalt/Bitumen Tanker, 144m, in ballast á IMO 9169770 á AIS-dark ~3h
+(
+1959Ð2300
+ UTC 16 Aug) á five prior names on record á registered owner Poseidon Eco
+Shipping Inc (Marshall Islands) á per #mioc-war-room analyst report
+CARGO
+BARI 3
+Sri Lanka á General Cargo á MMSI 417066656 á AIS-dark ~15h, dark for nearly the entire
+transit á per #mioc-war-room analyst report
+CROSSINGS & DESTINATIONS
+HORMUZ CROSSINGS
+Last 8 days á Inbound vs Outbound 
+!
+AIS 
+#
+ Dark)
+TOP DESTINATIONS
+Oil & crude export by destination
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 4 of 20
+FLEET COMPOSITION 
+%
+ 971 VESSELS IN GULF
+103
+BULK CARRIERS
+150
+PRODUCT TANKERS
+7
+CHEMICAL TANKERS
+44
+CRUDE TANKERS
+52
+CONTAINER SHIPS
+36
+ / 
+LNG
+i
+i
+i
+i
+LPG
+i
+i
+i
+i
+MIXED
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 5 of 20
+579
+OTHER
+!
+!
+149
+149
+149
+149
+HIGH RISK
+!
+!
+239
+239
+239
+239
+MODERATE
+!
+!
+587
+587
+587
+587
+LOW RISK
+SMUGGLING RISK ASSESSMENT 
+!
+ 971 VESSELS IN GULF
+TOP FLAGS OF REGISTRY
+Iran
+183
+Comoros
+147
+UAE
+108
+Panama
+88
+Marshall Isl.
+53
+Liberia
+51
+St. Kitts & Nevis
+32
+Pakistan
+18
+Togo
+17
+Barbados
+15
+RED SEA 
+%
+ BAB
+#
+EL
+#
+MANDEB & SUEZ
+BAB
+!
+EL
+!
+MANDEB CROSSINGS
+Last 8 days á into vs out of Red Sea
+21
+21
+21
+21
+18
+18
+18
+18
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 6 of 20
+21
+21
+21
+21
+/
+18
+18
+18
+18
+OUTBOUND
+17 AUG
+17 AUG
+17 AUG
+17 AUG
+INBOUND
+i
+i
+i
+i
+SUEZ CROSSINGS
+Last 8 days á into vs out of Red Sea
+28
+28
+28
+28
+/
+28
+28
+28
+28
+OUTBOUND
+17 AUG
+17 AUG
+17 AUG
+17 AUG
+INBOUND
+RED SEA FLEET COMPOSITION Ñ
+545 VESSELS
+i
+i
+i
+i
+135
+97
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 7 of 20
+135
+BULK CARRIERS
+97
+PRODUCT TANKERS
+1
+CHEMICAL TANKERS
+81
+CRUDE TANKERS
+72
+CONTAINER SHIPS
+10
+ / 
+LNG
+LPG
+MIXED
+149
+OTHER
+WINDWARD 
+ á DAILY INTELLIGENCE HIGHLIGHTS á 18 AUGUST 2026
+MIOC
+i
+i
+i
+i
+MIOC INTELLIGENCE ANALYSIS
+ TANKER AMARA REPORTEDLY BOARDED NEAR QESHM ISLAND
+¥
+AMARA, a Liberia-flagged product tanker in ballast en route from Singapore to Jebel Ali,
+showed a sharp course deviation roughly 5nm southeast of Qeshm Island at 14
+$
+51 UTC.
+¥
+The deviation was followed by a loitering pattern and a course reversal, consistent with an
+unplanned stop rather than a mechanical slowdown.
+¥
+Unconfirmed reports describe a boarding tied to a transit-corridor compliance and fee
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 8 of 20
+Windward vessel profile Ñ AMARA 
+!
+IMO 9333280) track detail near Qeshm Island, 17 August 2026
+ HOUTHI STRIKE HITS MOORED VESSEL, NOT CLAIMED WARSHIP
+dispute rather than a cargo seizure; no cargo was aboard at the time.
+¥
+As of 17
+$
+58 UTC the vessel remained underway on AIS, heading toward the QeshmÐLarak
+channel at 1.9 knots.
+!
+MIOC assessment:
+ The progressive, non-mechanical slowdown followed by a sharp
+deviation and course reversal independently corroborates that the transit was interrupted at
+the time and place described in outside reporting.
+¥
+MIOC assesses a Houthi strike near Mocha struck a commercial vessel moored and
+undergoing maintenance since December 2025, despite claims of striking an underway
+warship and four escort vessels.
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 9 of 20
+ NINE ZOMBIE TANKERS ANCHOR OFF CHINA AMID BLOCKADE
+¥
+The strike caused severe damage to the vessel and extensive damage to the berth,
+reportedly taking the facility out of service.
+¥
+No casualties have been confirmed; the crew had reportedly already left the vessel following
+an earlier, separate strike.
+!
+MIOC assessment:
+ The scale and location of the reported damage are more consistent with
+a moored commercial target than an underway naval vessel, indicating the claimed target
+and the actual target diverge.
+¥
+Nine VLCCs broadcasting a single fraudulent flag registry and the IMO numbers of dead or
+scrapped ships were tracked anchoring off China's Yellow Sea and East China Sea coasts.
+¥
+The technique is used for floating storage and ship-to-ship transfers of Iranian oil into China,
+the sole remaining buyer of Iranian crude.
+¥
+Call signs for the nine vessels were allocated in a tight window between mid-May and early
+July, indicating a coordinated effort to manage tonnage rather than organic registration.
+¥
+A tenth, separately-flagged zombie tanker was tracked sailing toward an undisclosed port in
+northern China.
+!
+MIOC assessment:
+ The high concentration of stateless, fraudulently-flagged tankers idling
+outside Chinese territorial waters reflects Iran-trading tonnage trapped by the reimposed US
+blockade and slower Chinese demand.
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 10 of 20
+Fraudulent-flag tankers anchored off China's coast, 17 August 2026 (vessel names redacted)
+ BLOCKADE
+#
+BREAKER TRACKING
+"
+ SANCTIONED CARRIER REDIRECTS TOWARD CHINA
+ OIL SPILL PERSISTS AT HORMUZ WAITING AREA, NOW 64NM LONG
+¥
+A screen of 113 Iran-flagged or fraudulent-flag tankers and cargo vessels across the Gulf,
+Gulf of Oman, and Arabian Sea found the innermost 65nm interdiction ring empty for a
+second consecutive reading.
+¥
+A sanctioned LPG carrier flagged under a false registry completed a ship-to-ship transfer off
+Oman before redirecting toward China and Sri Lanka.
+¥
+24 vessels were observed transmitting AIS under a name that differs from their tracked
+commercial identity Ñ a marked spike versus the usual 1
+%
+2 per day.
+!
+MIOC assessment:
+ The empty innermost ring alongside a sharp rise in identity mismatches,
+plus this vessel's STS transfer and destination change, suggest operators are leaning more
+heavily on alias-switching and transshipment to manage exposure rather than the blockade
+line itself deterring approaches.
+¥
+Satellite radar imagery confirms an oil spill first observed the previous day in the
+southeastern Hormuz waiting area has grown to approximately 64 nautical miles 
+!
+118km
+&
+ in
+length, extending north.
+¥
+The source is assessed as a 333-meter VLCC tanker, dark and stationary in the same waiting
+area for a second consecutive day.
+!
+MIOC assessment:
+ A growing spill tied to a dark, stationary VLCC on station for multiple
+days points to an ongoing discharge rather than a one-time release, and warrants continued
+imagery tasking to confirm duration and volume.
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 11 of 20
+SAR detection á 10 m/px á 02
+$
+02 UTC, 17 August 2026 Ñ oil spill, southeastern Hormuz waiting area
+ IRGC HSC ACTIVITY ELEVATED OVER PAST WEEK
+¥
+IRGC high speed craft 
+!
+HSC) activity was logged on 7 of the past 8 days, totaling 338
+readings across four zones Ñ North Corridor 
+!
+198
+&
+, South 
+!
+111
+&
+, North-east 
+!
+20
+&
+, and Mid-
+strait 
+!
+9
+&
+.
+¥
+The North Corridor was the most consistently active zone, appearing on 5 of 7 covered days
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 12 of 20
+IRGC HSC tracker Ñ Hormuz Strait, daily count by zone, 9
+'
+16 August 2026
+ HORMUZ STRAIT INS & OUTS 
+%
+ 17 AUGUST
+¥
+The North Corridor was the most consistently active zone, appearing on 5 of 7 covered days
+and producing the two largest single-day totals of the window.
+¥
+Overall HSC activity this window was up from the prior 7
+%
+8 day window's 209 readings,
+driven mainly by a single high-volume day and the North Corridor's persistent coverage.
+!
+MIOC assessment:
+ Sustained, near-daily HSC presence concentrated in the North Corridor
+is consistent with the corridor's role as the primary small-craft operating area, rather than a
+temporary surge.
+¥
+13 vessels crossed the Strait of Hormuz in the 24-hour window Ñ 8 inbound, 5 outbound Ñ
+a fraction of the roughly 140-vessel daily baseline.
+¥
+5 of the 13 transits ran dark for periods ranging from roughly 3 to 16 hours before
+reacquisition.
+¥
+The one high-risk inbound transit, an OFAC-designated LPG carrier, transmitted AIS
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 13 of 20
+Windward AIS track view Ñ Strait of Hormuz crossings, 17 August 2026 (vessel names redacted)
+¥
+The one high-risk inbound transit, an OFAC-designated LPG carrier, transmitted AIS
+continuously throughout its crossing despite carrying dark-fleet and false-flag indicators.
+!
+MIOC assessment:
+ A dark share of roughly 40% across the window's transits, concentrated
+in the same 24 hours as the AMARA incident, is consistent with the broader pattern of AIS
+avoidance accompanying elevated Hormuz risk this week.
+GPS JAMMING 
+%
+ DAILY SNAPSHOT
+615
+JAMMED VESSELS
+(
+ 261.2% vs. 7-day avg
+out of 
+7,273
+ transmitting 
+4,472
+today
+i
+i
+i
+i
+FALSE SHIP
+#
+TO
+#
+SHIP MEETINGS
+i
+i
+i
+i
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 14 of 20
+GPS JAMMING 
+%
+ TREND OVER TIME
+SINCE OPERATION EPIC FURY 
+&
+28 FEB
+'
+73,815
+UNIQUE VESSELS JAMMED
+2,986,545
+FALSE SHIP
+#
+TO
+#
+SHIP MEETINGS
+Jammed Vessels / day
+False ship-to-ship meetings / day
+Epic Fury (28 Feb)
+Ceasefire (7 Apr)
+Blockade (13 Apr)
+VESSELS ATTACKED
+Active Threat Zone á Strait of Hormuz á Arabian Gulf á Gulf of Oman
+62
+62
+62
+62
+ALL INCIDENTS
+55
+55
+55
+55
+ATTACK
+7
+7
+7
+7
+NEAR MISS
+NAVIG8 MESSI 
+NEW
+Product tanker, ADNOC-linked 
+14 Aug 2026
+á
+Strait of Hormuz
+ATTACK
+Struck by a drone in the Strait of Hormuz;
+TIHAMAH 
+NEW
+General cargo vessel 
+11 Aug 2026
+á
+Bab el-Mandeb
+ATTACK
+Struck near al-Mokha, Yemen; three crew
+NCC WAFA
+Oil Products Tanker á Saudi-flagged 
+05 Aug 2026
+ATTACK
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 15 of 20
+LIVE ACTIVITY á STRAIT OF HORMUZ
+Struck by a drone in the Strait of Hormuz;
+no injuries reported and the vessel
+continued its voyage under its own power.
+TARIF 
+NEW
+Aframax tanker, ADNOC-linked 
+14 Aug 2026
+á
+Strait of Hormuz
+ATTACK
+Struck by a drone in the Strait of Hormuz;
+no injuries reported and the vessel
+continued its voyage under its own power.
+Struck near al-Mokha, Yemen; three crew
+members killed. Houthis claim the strike,
+saying the cargo was military equipment;
+Yemen's government says it was food
+cargo.
+ADNOC
+#
+LINKED VESSEL
+Vessel identity not yet confirmed 
+08 Aug 2026
+á
+Strait of Hormuz
+ATTACK
+UAE reported Iran struck an ADNOC
+'
+linked vessel with a missile; no injuries
+reported. The specific vessel has not yet
+been confirmed.
+ATTACK
+Struck by claimed ballistic missiles while
+moving between two domestic Saudi Red
+Sea ports, well outside the chokepoint
+itself Ñ the 8th Saudi-linked tanker hit
+since the blockade began. Weapon type
+and impact remain independently
+unconfirmed.
+DAISY
+Oil/Chemicals Tanker á Dominica-flagged 
+05 Aug 2026
+Claimed ballistic-missile strike forcing a
+course reversal. AIS shows a continuous
+eastward transit toward the vessel's
+stated destination with no visible reversal,
+leaving the claim unverified and
+evidentially contested.
+Source: Windward AI á May 2026
+Ý
+SCROLL
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 16 of 20
+STAY AHEAD OF WHAT'S HAPPENING IN THE STRAIT OF
+HORMUZ
+Windward's Maritime Intelligence Operations Center 
+!
+MIOC) fuses Maritime AIª, multi-source
+intelligence, and expert analysts to deliver continuous monitoring, rapid investigations, and
+reporting that drives strategic, operational, and risk decisions.
+LEARN MORE
+$
+WINDWARD MIOC á DAILY INTELLIGENCE
+DIVE DEEPER
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 17 of 20
+WINDWARD SITUATION ROOM
+A Second ADNOC Strike and an Evasion Hub at Koh-e-Mubarak
+A second ADNOC-linked tanker strike in under a week and a large ship-to-ship sanctions-
+evasion hub confirmed active at the Koh-e-Mubarak anchorage, including eight OFAC
+'
+designated vessels.
+windward.ai 
+"
+YOUTUBE FEATURE
+How the Iran War Just Changed Global Power
+A conversation on the strategic and economic fallout of the Iran war Ñ how the conflict has
+rewritten energy flows, alliances, and the rules of the global maritime trade order.
+Watch on YouTube 
+"
+YouTube
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 18 of 20
+Windward is the leading Maritime AIª company delivering a unified operational picture through multi-
+source fusion. Windward turns fragmented data into mission-grade intelligence, enabling decisive
+action and seamless, agentic-based workflows. 
+Request a demo.
+KNOWLEDGE BASE
+Top 9 U.S. Maritime Risks Ñ Q2 2026
+50% sanctioned share of the dark fleet, a 21% dark-fleet vessel share by flag, and the other risk
+signals shaping U.S. maritime security this quarter.
+windward.ai 
+"
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 19 of 20
+© 2026 Windward Ltd. All rights reserved
+Terms of use
+Privacy policy
+Cookies policy
+Terms of service - API
+https://insights.windward.ai/
+8/18/26, 6
+!
+19
+"
+PM
+Page 20 of 20

@@ -1,0 +1,495 @@
+Monopolists
+DATA CUTOFF | 2026-08-15 00:01 PT
+LATEST NYMEX SETTLEMENT | 2026-08-14
+LATEST EIA WEEK | Week ending 2026-08-07 | Released 2026-08-12
+1. ULSD Forward Curve
+MEASURED | CME/NYMEX settlements | Trade date 2026-08-14 | HO $/gal | WTI $/bbl | Crack = HO x 42 - WTI
+Contract
+HO $/gal
+WTI $/bbl
+ULSD crack $/bbl
+Sep-26
+4.2829
+82.40
+97.48
+Oct-26
+4.1647
+81.47
+93.45
+Nov-26
+4.0270
+80.10
+89.03
+Dec-26
+3.8681
+78.49
+83.97
+Jan-27
+3.7547
+77.05
+80.65
+Feb-27
+3.6544
+75.82
+77.66
+Mar-27
+3.5429
+74.82
+73.98
+Apr-27
+3.4249
+74.00
+69.85
+May-27
+3.3307
+73.34
+66.55
+Jun-27
+3.2552
+72.78
+63.94
+Jul-27
+3.2062
+72.28
+62.38
+Aug-27
+3.1669
+71.84
+61.17
+Sep-27
+3.1363
+71.45
+60.27
+Oct-27
+3.1088
+71.08
+59.49
+Nov-27
+3.0774
+70.77
+58.48
+Dec-27
+3.0436
+70.52
+57.31
+
+Metric
+Value
+Date / Basis
+Front-month ULSD crack
+$97.48/bbl
+2026-08-14
+Dec-27 ULSD crack
+$57.31/bbl
+2026-08-14
+Front-to-Dec-27 gap
+$40.17/bbl
+2026-08-14
+Backwardation
+41.21%
+(front - deferred) / front
+Vault baseline front
+$97/bbl
+Supplied baseline
+Vault baseline Dec-27
+$56/bbl
+Supplied baseline
+Vault baseline gap
+$41.00/bbl
+Supplied baseline
+Vault baseline backwardation
+42.27%
+(97 - 56) / 97
+Gap change vs vault
+-$0.83/bbl
+$41.00 -> $40.17
+Front change vs vault
++$0.48/bbl
+$97.00 -> $97.48
+Dec-27 change vs vault
++$1.31/bbl
+$56.00 -> $57.31
+
+2026-07-15 Front-Month Comparison
+Status
+Date
+HO $/gal
+WTI $/bbl
+ULSD crack $/bbl
+Change to 2026-08-14
+REPORTED
+2026-07-15
+3.9483
+79.60
+86.23
++$11.25 / +13.0%
+
+CME/NYMEX: https://www.cmegroup.com/markets/energy/refined-products/heating-oil.settlements.html
+July 15 reported settlement pair: https://www.webull.ca/news-detail/15232746792231936
+2. EIA Distillate Inventories
+MEASURED | EIA Weekly Petroleum Status Report | Week ending 2026-08-07 | Release 2026-08-12
+Metric
+Value
+Comparison / Date
+U.S. distillate fuel oil inventories
+107,149 thousand bbl
+2026-08-07
+Prior week inventories
+107,159 thousand bbl
+2026-07-31
+Week-over-week change
+-10 thousand bbl / -0.01%
+2026-08-07 vs 2026-07-31
+Same comparable week 2025
+113,685 thousand bbl
+2025 comparable week
+Year-over-year change
+-6,536 thousand bbl / -5.75%
+2026 vs 2025 comparable week
+Days of supply
+29.3 days
+2026-08-07
+Refinery utilization
+96.2%
+2026-08-07
+Distillate exports, 4-week avg
+1,802 thousand b/d
+Most recent 4-week average
+
+Five-Year Comparable Inventory Levels
+Year
+Comparable inventory
+2021
+137,814 thousand bbl
+2022
+112,256 thousand bbl
+2023
+115,743 thousand bbl
+2024
+126,123 thousand bbl
+2025
+113,685 thousand bbl
+
+Metric
+Value
+Five-year seasonal band
+112,256-137,814 thousand bbl
+Simple five-year mean
+121,124 thousand bbl
+Current vs lower edge
+-5,107 thousand bbl / -4.55%
+Current vs five-year mean
+-13,975 thousand bbl / -11.54%
+EIA narrative
+About 12% below five-year average
+Registered inventory break condition
+NOT TRIGGERED
+Current band position
+BELOW
+
+EIA weekly history: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?f=W&n=PET&s=WDISTUS1
+EIA WPSR summary: https://ir.eia.gov/wpsr/wpsrsummary.pdf
+3. Crack Spreads
+MEASURED | CME/NYMEX | 2026-08-14 settlements | Sep WTI $82.40/bbl | Sep RBOB $3.1841/gal | Sep HO $4.2829/gal
+Measure
+Value
+Date
+ULSD crack
+$97.48/bbl
+2026-08-14
+RBOB gasoline crack
+$51.33/bbl
+2026-08-14
+3-2-1 crack
+$66.72/bbl
+2026-08-14
+
+3-2-1 formula | [2 x (RBOB x 42) + (HO x 42) - 3 x WTI] / 3
+ULSD Crack Checkpoints
+Date
+Crack $/bbl
+Status
+Underlying / Source
+2026-08-14
+97.48
+MEASURED
+CME settlements
+2026-07-15
+86.23
+REPORTED
+NYMEX settlement pair
+2026-05-15
+NOT FOUND
+NOT FOUND
+Exact same-definition prompt-month pair
+2026-02-13
+37.65
+MEASURED
+USDA report carrying CME nearby futures: WTI 62.84; HO 2.3927
+2025-08-15
+29.89
+REPORTED
+Sep WTI 63.96; HO 2.2345
+
+Record / Range Data
+Item
+Value
+Date / Status
+Reuters-reported all-time diesel crack high
+>$91/bbl
+2026-07-16 | REPORTED
+Reuters-reported subsequent record
+$93.44/bbl
+Week of 2026-07-30 | REPORTED
+Reuters-reported gasoline crack
+~$59/bbl
+Mid-July 2026 | REPORTED
+Reuters-reported 3-2-1 close
+$69.66/bbl
+Mid-July 2026 | REPORTED
+Vault chart diesel crack
+98.169
+Supplied vault value
+Exact 5-year crack range
+NOT FOUND
+Same-series proof unavailable
+Exact 10-year crack range
+NOT FOUND
+Same-series proof unavailable
+Exact prior record before 98.169
+NOT FOUND
+Same-series proof unavailable
+
+CME WTI: https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.settlements.html
+CME HO: https://www.cmegroup.com/markets/energy/refined-products/heating-oil.settlements.html
+USDA CME nearby futures report: https://mymarketnews.ams.usda.gov/filerepo/sites/default/files/2805/2026-02-13/1304566/ams_2805_00302.pdf
+Sprague 2025-08-15 market report: https://www.spragueenergy.com/wp-content/uploads/2025/08/Sprague-Oil-MarketWatch-08.15.25.pdf
+Reuters record report mirror: https://www.sharenet.co.za/views/World/tag%3Areuters.com%2C2026%3Anewsml_L1N43I0W3%3A766619903
+4. Refining Capacity, Export Restrictions, Quotas, Outages
+Russia - Capacity / Refinery Status
+Facility / Item
+Value
+Date
+Status
+Broad Russia capacity impaired
+Over one-third of Russian refining capacity
+2026-08-05
+REPORTED
+Russian crude runs
+Below 4.0 million b/d
+2026-08-05
+REPORTED
+Russian seaborne refined-product exports
+1.18 million b/d
+July 2026
+REPORTED
+Russian seaborne refined-product exports
+1.51 million b/d
+June 2026
+REPORTED
+Russian refining downtime
+>4.0 million b/d
+Week ending 2026-07-10
+REPORTED; not current Aug 15 figure
+Current exact aggregate offline b/d
+NOT FOUND
+2026-08-15
+NOT FOUND
+Global current refining capacity offline
+NOT FOUND
+2026-08-15
+NOT FOUND
+
+Facility
+Capacity / Impact
+Event date
+Duration / Status
+Orsk
+5.76 million tonnes/year ~115,200 b/d
+2026-08-11
+Completely shut; repairs could take up to six months as of 2026-08-13 | REPORTED
+Gazprom Neftekhim Salavat
+Up to 74 million barrels/year
+2026-08-13
+Exact lost b/d and restart date NOT FOUND | REPORTED strike
+
+S&P Global Russia export/capacity report: https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/080526-russian-oil-product-exports-hit-decade-low-in-july-amid-ukraine-strikes
+AP Orsk / Salavat: https://apnews.com/article/8050b4afb5bfd6f4d93c76b4d9795dfa
+Russia - Export Restrictions
+Product / Rule
+Effective dates
+Data
+Full diesel export ban
+Beginning 2026-07-08
+REPORTED
+Temporary export prohibition: gasoline, diesel, marine fuel, gasoil
+2026-08-01 through 2027-01-31
+Official announcement 2026-07-30
+Producer exemption for diesel, marine fuel, gasoil
+Beginning 2026-09-01
+Direct producer exports exempt
+Registered Russian export-ban trigger
+2026-07-08
+FIRED
+
+Reuters ban report mirror: https://wsau.com/2026/07/08/us-diesel-futures-post-biggest-daily-gains-in-four-years-after-russia-bans-exports/
+Russian government export prohibition: https://government.ru/news/59474/
+Russia - Diesel / Gasoil Exports
+Metric
+Value
+Period
+Status
+Diesel/gasoil loadings
+314,000 b/d
+July 2026
+REPORTED; derived from 471,000 - 157,000
+Diesel/gasoil loadings
+471,000 b/d
+June 2026
+REPORTED
+Month-over-month change
+-157,000 b/d
+July vs June 2026
+REPORTED
+July 2026 vs July 2025 monthly comparison
+NOT FOUND
+Requested YoY
+NOT FOUND
+
+S&P Global: https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/080526-russian-oil-product-exports-hit-decade-low-in-july-amid-ukraine-strikes
+China - Refined Product Export Quotas
+Quota item
+Volume
+Comparison
+2026 first batch
+19.0 million mt
+REPORTED
+2026 second batch
+13.0 million mt
+REPORTED 2026-06-10
+2026 cumulative issued
+32.0 million mt
+First + second batches
+2025 first + second batches
+31.8 million mt
+19.0 + 12.8
+2026 vs comparable 2025 point
++0.2 million mt / +0.63%
+32.0 vs 31.8
+2025 third batch
+8.395 million mt
+REPORTED
+Full-year 2026 quota
+NOT FOUND
+Not established by cited source
+
+OPIS: https://www.opis.com/resources/energy-market-news-from-opis/china-issues-second-batch-of-refined-product-export-quotas-totaling-13-mn-mt-sources/
+U.S. / Europe - Unplanned Refinery Outages, Last 60 Days
+Facility
+Capacity / Unit
+Date
+Status
+TotalEnergies Port Arthur, Texas
+238,000 b/d refinery
+2026-06-19
+Lightning-related power outage | REPORTED
+TotalEnergies Port Arthur, Texas
+35,000 b/d reformer
+As of 2026-07-16
+Continued malfunctioning after restart; plant below full rates | REPORTED
+TotalEnergies Port Arthur, Texas
+150,000 b/d + 40,000 b/d crude units
+2026-07-28 to 2026-07-29
+Restarted | REPORTED
+Phillips 66 Sweeny, Texas
+277,000 b/d refinery; Unit 35
+~2026-07-24 to 2026-07-25
+Lightning-related process upset; exact lost b/d/duration NOT FOUND | REPORTED
+BP Gelsenkirchen-Scholven, Germany
+Diesel desulfurization unit
+2026-07; reported 2026-07-27
+Offline after fire; no known repair date; exact b/d capacity NOT FOUND | REPORTED
+
+TotalEnergies Port Arthur July 16: https://www.boursorama.com/bourse/actualites/selon-certaines-sources-totalenergies-reduirait-la-production-de-sa-raffinerie-au-texas-pour-y-effectuer-des-reparations-426e90b562c48d5d59d45166bbf6160a
+TotalEnergies Port Arthur July 28-29: https://www.boursorama.com/bourse/actualites/selon-certaines-sources-totalenergies-remet-en-service-ses-unites-de-distillation-cdu-apres-des-travaux-de-reparation-dans-sa-raffinerie-du-texas-f626de9f4b23c9279075846d033cb740
+Phillips 66 Sweeny: https://energynow.com/category/us_news/page/1531/rhc-past-events/0/
+WDR BP Gelsenkirchen: https://www1.wdr.de/nrw/ruhrgebiet/brand-gelsenkirchen-bp-100.amp
+5. Refining Equities - Consensus Revision Test
+CURRENT CONSENSUS | S&P Global Market Intelligence data surfaced via StockAnalysis | Provider snapshot dates 2026-08-05 to 2026-08-14
+Ticker
+FY2026 EPS
+FY2027 EPS
+Avg target
+Vault FY2027
+Delta vs vault
+VLO
+43.15
+29.28
+$315.26
+27.72
++1.56 / +5.63%
+MPC
+51.38
+32.97
+$319.61
+32.97
+0.00
+PSX
+26.22
+21.36
+$221.58
+20.58
++0.78 / +3.79%
+PBF
+17.51
+9.12
+$67.85
+9.19
+-0.07 / -0.76%
+DINO
+13.83
+9.55
+$90.27
+9.55
+0.00
+PARR
+20.27
+13.23
+$84.14
+13.23
+0.00
+
+Ticker
+Provider update date
+VLO
+2026-08-05
+MPC
+2026-08-11
+PSX
+2026-08-11
+PBF
+2026-08-05
+DINO
+2026-08-14
+PARR
+2026-08-13
+
+Revision metric
+Status
+Same-methodology 30-day consensus change
+NOT FOUND
+Same-methodology 90-day consensus change
+NOT FOUND
+
+StockAnalysis VLO consensus: https://stockanalysis.com/stocks/vlo/forecast/
+6. Registered Item Status
+Registered item
+Status / Value
+Forward front/Dec-27 gap
+$40.17/bbl; narrowed $0.83/bbl vs supplied endpoint baseline
+EIA inventory break
+NOT TRIGGERED; current inventories below five-year band by 5,107 thousand bbl / 4.55%
+Russian diesel export-ban trigger
+FIRED 2026-07-08
+Exact same-series proof for 98.169 record
+NOT FOUND

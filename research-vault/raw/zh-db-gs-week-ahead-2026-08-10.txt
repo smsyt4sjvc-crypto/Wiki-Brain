@@ -1,0 +1,195 @@
+Key Events This Week: CPI, PPI, Retail
+Sales
+Most traders may be out on the beach soaking up the mid-summer sun, but the relentless
+market and geopolitical newsflow continues for another week.
+Following Friday's payrolls report, which was far more dovish than hawkish at face value,
+attention this week will be firmly on July US CPI (Wednesday), which could go a long
+way towards further tipping the balance for September FOMC pricing. Futures pricing fell by
+around 10 percentage points immediately after the release on Friday, leaving the implied
+probability at 44%. Then we get US PPI (Thursday), which is key for the components that
+feed directly into core PCE. Other US highlights include retail sales and the preliminary
+University of Michigan consumer sentiment survey (both Friday). Elsewhere, attention
+will focus on the RBA policy decision (tomorrow), the Norges Bank meeting and UK Q2 GDP
+report (Thursday), and inflation releases across Asia and Europe. Corporate earnings are
+quieter than in recent weeks but reports from Tencent, BYD, Cisco, Applied Materials and
+CoreWeave will still attract attention.
+Before we go into the week ahead in more detail the situation in Iran remains finely balanced
+with Iran’s latest political and security moves suggesting that Tehran is trying to balance
+a tougher domestic posture with a continued search for a diplomatic off-ramp. The
+appointment of former Revolutionary Guard commander Mohsen Rezaee to head the Supreme
+National Security Council reinforces hard-line influence at the centre of decision-making,
+even as Iranian officials insist they are close to an agreement with Oman on a new shipping
+framework through the Strait of Hormuz. Foreign Minister Abbas Araghchi has described
+the talks as being in their final stages, but Tehran has stressed that any technical
+agreement on shipping routes would not by itself lead to a full reopening of the
+waterway. Reuters and other major outlets report that Iran continues to tie any lasting
+Hormuz arrangement to wider demands on the US, including sanctions relief, compensation
+for war damage and security guarantees. Oman has characterised the negotiations as
+constructive, while Washington has signalled a willingness to continue talks despite periodic
+tensions. Brent is up around +0.8% this morning but US and European equity futures are fairly
+flat.
+This all follows last Friday’s US payrolls report certainly offering a mixed assessment of labor
+market conditions. Headline payrolls unexpectedly fell by -23k, private payroll growth slowed
+to just +30k, and the previous two months were revised down by a cumulative -103k.
+However, much of the weakness was concentrated in two sectors - leisure and hospitality
+(-40k) and local government education (-50k), while goods-producing employment and
+construction both posted their strongest gains in several months. At the same time, the
+unemployment rate declined to 4.1%, its lowest level since early 2025. DB economists view
+the report as consistent with a broadly stable labor market rather than a sharp deterioration,
+https://www.zerohedge.com/markets/key-events-week-cpi-ppi-retail-sales
+8/10/26, 7:58 AM
+Page 1 of 7
+
+noting that demographic factors continue to weigh on participation.
+The softer payrolls data has reduced the urgency for further Fed tightening in the near term,
+but with labor market slack only gradually increasing, it's over to Wednesday's US CPI. 
+On this big number, DB's economists expect headline CPI to rise by +0.15% mom after
+June’s -0.42% decline, while core CPI is forecast at +0.26% mom following an
+unchanged reading in June. Lower gasoline prices should keep headline inflation softer than
+core, and if forecasts are realized both headline and core annual inflation rates would edge
+down by around one-tenth to 3.45% and 2.51% respectively. Markets will also be watching
+for evidence of payback from several unusual price moves in June, particularly across
+parts of core goods and services.
+Attention will then turn to July PPI on Thursday. Economists expect headline producer
+prices to rise by +0.22% mom, with core PPI at +0.3% mom. Particular focus will fall on
+categories that feed into core PCE inflation, including healthcare services, airfares and
+portfolio management. DB strategist are currently tracking +0.22% in July and 3.3% YoY.
+Friday’s US data will offer the first major read on Q3 activity. Economists expect retail sales
+to increase by +0.1% mom in July, a dip from the 0.2% increase in June, as lower fuel prices
+weigh on the headline figure relative to underlying spending measures. The preliminary
+University of Michigan consumer sentiment survey is expected to ease to 54.7 in August from
+55.2 previously.
+Fed speakers are relatively sparse, although comments from Cleveland Fed President
+https://www.zerohedge.com/markets/key-events-week-cpi-ppi-retail-sales
+8/10/26, 7:58 AM
+Page 2 of 7
+
+Hammack and Richmond Fed President Barkin may attract attention following the inflation
+data.
+Outside the US, there are a couple of G10 central banks in focus this week. The Reserve Bank
+of Australia announces its policy decision tomorrow, with our economists (and the market)
+expecting rates to remain unchanged at 4.35%. Norges Bank follows on Thursday with a 25%
+probability of a hike priced in.
+In Europe, the key release will be the UK’s Q2 GDP report on Thursday. Our economists
+expect June GDP to contract by -0.1% mom, leaving quarterly growth at +0.4% qoq, although
+risks are seen as tilted to the downside. Elsewhere, Norway and Denmark both publish July
+CPI figures today.
+On the corporate side, the earnings season is becoming less intensive, with 400 out of the S&P
+500 having now reported, but several notable companies remain on the calendar.
+In the US, investors will focus on results from Cisco, Applied Materials and CoreWeave,
+while in China attention will fall on Tencent and BYD.
+https://www.zerohedge.com/markets/key-events-week-cpi-ppi-retail-sales
+8/10/26, 7:58 AM
+Page 3 of 7
+
+Courtesy of DB, here is a day-by-day calendar of events
+Monday August 10
+Data: Japan June BoP current account balance, BoP trade balance, July bank lending,
+Economy Watchers survey, Denmark July CPI, Norway July CPI, Germany wholesale
+price index
+Central banks: BoJ summary of opinions from the July MPM
+Earnings: Ferguson Enterprises, Alcon, AST SpaceMobile, USA Rare Earth
+Tuesday August 11
+Data: US July NFIB small business optimism, existing home sales, Italy June trade
+balance
+Central banks: RBA decision
+Earnings: Lumentum, CoreWeave, Constellation Software, Venture Global, Super
+Micro Computer
+Auctions: US 3-yr Notes ($58bn)
+Wednesday August 12
+Data: US July CPI, Japan July M2, M3, machine tool orders, Germany June current
+account balance, Canada June building permits
+Earnings: Tencent, Cisco, Commonwealth Bank of Australia, Coherent, Nebius,
+Cerebras, Vestas
+Auctions: US 10-yr Notes ($42bn)
+Thursday August 13
+Data: US July PPI, initial jobless claims, UK Q2 GDP, July RICS house price balance,
+EU industrial production, Japan July PPI
+https://www.zerohedge.com/markets/key-events-week-cpi-ppi-retail-sales
+8/10/26, 7:58 AM
+Page 4 of 7
+
+Central banks: Norges bank decision, Fed’s Hammack and Barkin speak
+Earnings: Applied Materials, RWE, Lenovo, Adyen, Pandora
+Auctions: US 30-yr Bonds ($25bn)
+Friday August 14
+Data: US July retail sales, August University of Michigan survey, June business
+inventories, China Q2 BoP current account balance, Eurozone June trade balance,
+Canada June manufacturing sales
+Earnings: BYD
+* * * 
+Focusing on just the US, the key economic data releases this week are the CPI report on
+Wednesday and the retail sales report on Friday. There are a few speaking engagements
+with Fed officials this week, including events with Presidents Hammack and Barkin.
+Monday, August 10 
+There are no major data releases scheduled.
+03:00 PM Cleveland Fed President Beth Hammack (FOMC voter)
+speaks; Cleveland Fed President Beth Hammack will appear on Yahoo Finance.
+Moderated Q&A is expected. At the July FOMC meeting, President Hammack
+dissented from the Committee’s decision to hold the target range for the fed funds rate
+unchanged, preferring a 25bp hike. In her dissent statement on July 31, she said that
+“given the stability of the labor market, with the unemployment rate near my estimate of
+maximum employment, I view high inflation as the more pressing problem.” She added
+that a “higher federal funds rate would help restrain economic activity and reduce
+inflationary pressures” because she does “not see the current policy stance as
+appropriately restrictive.”
+Tuesday, August 11 
+10:00 AM Existing home sales, July (GS -1.0%, consensus -0.9%, last -2.4%)
+ Wednesday, August 12 
+08:30 AM CPI (MoM), July (GS +0.05%, consensus +0.1%, last -0.4%); Core CPI
+(MoM), July (GS +0.19%, consensus +0.2%, last flat); CPI (YoY), July (GS
++3.35%, consensus +3.4%, last +3.5%); Core CPI (YoY), July (GS +2.47%,
+consensus +2.5%, last +2.6%): We estimate a 0.19% increase in July core CPI (month-
+over-month SA), which would lower the year-over-year rate by 0.1pp to 2.5% on a
+rounded basis. We expect mixed autos inflation, reflecting a 0.5% increase in used car
+prices, a 0.1% increase in new car prices, and a 0.5% decline in the car insurance
+category. We forecast benign readings for the shelter categories—a 0.23% increase in
+the OER category and a 0.16% increase in the rent category—reflecting the continued
+https://www.zerohedge.com/markets/key-events-week-cpi-ppi-retail-sales
+8/10/26, 7:58 AM
+Page 5 of 7
+
+slowdown in their underlying trends. We expect mixed travels services inflation
+(airfares: +2%, hotels: -1%), reflecting the signals from alternative price data. We
+expect slight upward pressure on the communications category from recently announced
+price increases for consumer electronics worth 1-2bp on core CPI inflation. We estimate
+a 0.05% rise in headline CPI—reflecting higher food prices (+0.2%) but lower energy
+prices (-2.0%)—which would lower the year-over-year rate to +3.35% from +3.53%.
+Our forecast is consistent with a 0.26% monthly increase in the core PCE price index in
+July. We expect a sharp increase in the portfolio management component—reflecting
+the increase in equity prices in Q2, which flow through to the component with a lag—to
+contribute to the larger increase in core PCE prices than the core CPI.
+Thursday, August 13 
+08:15 AM Cleveland Fed President Beth Hammack (FOMC voter)
+speaks: Cleveland Fed President Beth Hammack will speak at the Dayton Area
+Chamber of Commerce’s Government Affairs Breakfast series in Kettering, Ohio.
+Moderated Q&A is expected.
+08:30 AM PPI final demand, July (GS +0.4%, consensus +0.2%, last -0.3%); PPI
+ex-food and energy, July (GS +0.4%, consensus +0.3%, last +0.2%); PPI ex-food,
+energy, and trade, July (GS +0.4%, consensus +0.3%, last +0.1%)
+08:30 AM Initial jobless claims, week ended August 8 (GS 200k, consensus 202k,
+last 199k): Continuing jobless claims, week ended August 1 (consensus 1,800k, last
+1,801k)
+08:40 AM Richmond Fed President Tom Barkin (FOMC non-voter)
+speaks: Richmond Fed President Tom Barkin will speak on the economic outlook and
+monetary policy at the Chamber of Commerce in Greenville, South Carolina. Speech
+text and audience Q&A are expected. On August 7, after the release of the July
+employment report, President Barkin noted that the employment data were “very
+consistent with how I’ve been seeing the labor market—which is it’s not loose, it’s not
+tight, it’s sort of in a weak balance.”
+Friday, August 14 
+08:30 AM Retail sales, July (GS -0.1%, consensus +0.1%, last +0.2%); Retail sales
+ex-auto, July (GS flat, consensus +0.2%, last -0.2%); Retail sales ex-auto & gas,
+July (GS +0.2%, consensus +0.3%, last +0.4%); Core retail sales, July (GS +0.2%,
+consensus +0.3%, last +0.5%): We estimate nominal core retail sales increased 0.2%
+in July (ex-autos, gasoline, and building materials; month-over-month SA). Our forecast
+in part reflects a 0.2pp drag from payback for an early Amazon Prime Day, which is
+normally conducted in July but was held in June this year and likely boosted last
+month’s report. We estimate nominal headline retail sales declined 0.1%, reflecting
+lower gasoline prices and auto sales.
+10:00 AM University of Michigan consumer sentiment, August preliminary (GS
+55.0, consensus 54.6, last 55.2): University of Michigan 5-10-year inflation
+expectations, August preliminary (GS 3.3%, consensus 3.3%, last 3.3%)
+https://www.zerohedge.com/markets/key-events-week-cpi-ppi-retail-sales
+8/10/26, 7:58 AM
+Page 6 of 7

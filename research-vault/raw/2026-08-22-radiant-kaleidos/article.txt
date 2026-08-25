@@ -1,0 +1,30 @@
+Portable 1MW Kaleidos Microreactor Secures Critical Nuclear Fuel Deal Through 2030s
+Aamir Khollam via Interesting Engineering, republished by ZeroHedge. Paste 2026-08-22.
+
+Radiant secured a long-term nuclear fuel source for its Kaleidos microreactor.
+STANDARD NUCLEAR will fabricate TRISO fuel for Radiant under an agreement covering planned
+Kaleidos deployments THROUGH THE EARLY 2030s. TRISO = uranium particles in ceramic/carbon layers.
+
+KALEIDOS: 1 MEGAWATT microreactor, transportable to customer sites. Operates up to FIVE YEARS
+before refueling. Planned operating life 20 YEARS. Transportable by land, sea or air.
+
+Radiant plans to control the broader fuel cycle: customers would NOT handle fresh or spent fuel
+on site; Radiant manages fueling, refueling and storage through its own facilities.
+
+TESTING: Kaleidos undergoing full-scale testing at Idaho National Laboratory's DOME facility.
+DOE selected Radiant through a competitive process and granted EXCLUSIVE ACCESS TO THE FACILITY
+FOR ONE YEAR. Testing at full scale and full power over extended runs, using the same reactor
+design and fuel specs intended for customer deployments.
+
+MANUFACTURING: 300,000 sq ft facility in Oak Ridge, Tennessee -- reactor production, fueling,
+fuel storage.
+
+CUSTOMERS: EQUINIX has signed a commercial agreement for 20 KALEIDOS UNITS. Also a project with
+the Department of the Air Force and the Defense Innovation Unit -- develop and operate a
+microreactor at BUCKLEY SPACE FORCE BASE.
+
+Quote: Tori Shivanandan, Radiant president and COO -- "Securing the fuel supply chain is a
+strategic advantage to deploying at scale."
+
+Caveat stated in the article: Radiant still needs to complete testing, establish repeatable
+manufacturing, and navigate regulatory requirements before widespread deployment.

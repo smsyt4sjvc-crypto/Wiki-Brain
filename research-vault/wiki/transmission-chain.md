@@ -1,0 +1,310 @@
+# transmission-chain — THE SPINE: risk-free rate → AI supplier orders, in five stages
+
+> **Jake, 2026-08-18:** *"Treasuries → hyperscaler CDS/bond spreads → bank/private-credit appetite →
+> hyperscaler capex commitments → AI supplier orders. // Hierarchy. Each should have its own running
+> timeline. From the beginning of our data so we have a running log."*
+>
+> **THIS IS A CAUSAL ORDER, NOT A TOPIC LIST.** Each stage prices the one below it. A move at stage 1
+> only matters to stage 5 if it survives the intervening stages — and the vault's job is to say WHERE a
+> shock is currently sitting, and whether it has propagated or died. **Read the stages in order.**
+
+Related: every stage note below · [[market-fragility]] · [[portfolio-state]] · [[new-economy-regime]]
+
+---
+
+## THE CHAIN — stage, question, instrument, note, current state
+
+| # | stage | the question it answers | primary instrument | note | as of 2026-08-18 |
+|---|---|---|---|---|---|
+| **1** | **Treasuries** | what does risk-free duration cost? | Treasury par curve; 2s30s; auction internals | [[rates-board]] | **30Y 5.31% (Treasury, primary), 2s30s +112bp = 48th pctile. TIGHTENING.** |
+| **2** | **Hyperscaler CDS / bond spreads** | what does the AI complex pay OVER risk-free? | 5Y CDS; new-issue concession; OAS | [[hyperscaler-credit]] | **NVDA 5Y CDS ~40 → 80.33bp since late May. DOUBLED. TIGHTENING.** |
+| **3** | **Bank / private-credit appetite** | will anyone actually FUND it, and on what terms? | deal placement, SPV/ABS terms, RVGs, insurance/Bermuda bid | [[ai-financing-fragility]] · [[balance-sheet-board]] | **$500B announced to unstick STALLED deals; issuers ASKED TO WAIT; Ohio wrap restructured $250B blanket → $105B residual-value. RATIONING.** |
+| **4** | **Hyperscaler capex commitments** | does the spending plan change? | capex guides, off-balance-sheet commitments, useful life, project phases | [[ai-capex-cycle]] · [[cepi]] | **Not yet cut. $3T off-B/S commitments; META make-whole with ZERO liability booked. INTACT — so far.** |
+| **5** | **AI supplier orders** | does the revenue actually arrive at the sellers? | NVDA DC revenue, memory contracts, backlog, order intake | [[metered-compute]] · [[memory-regime-question]] · [[compression-thesis]] · [[etched-inference-challenger]] | **NVDA DC +92% vs cloud +40-48%. STILL ACCELERATING.** |
+
+## ⟲ THE CHAIN IS A LOOP, NOT A LADDER (added 2026-08-19 from the FOMC minutes, `:L162`)
+**4 → 1 FEEDBACK ARROW.** The FOMC's own staff attributes part of higher core inflation to **"the surge in
+demand related to the AI buildout,"** naming **chips, steel, computer equipment and ELECTRICITY**.
+⇒ **Stage 4 is an INPUT to the inflation that sets stage 1.** ⇒ **The buildout finances itself into a
+tighter policy stance, which raises its own cost of capital back at stages 2-3.** **Read every stage-1
+print asking how much of the inflation is stage-4's own.**
+
+## ⛔ AMENDMENT 2026-08-18 — STAGE 3 "RATIONING" NEEDS A QUALIFIER
+**Etched raised $700M at +104% in 26 DAYS** ([[etched-inference-challenger]]) while this table calls
+stage 3 **RATIONING**. ⇒ **Both are true because they are different markets: rationing describes DEBT
+AGAINST DEPRECIATING GPU COLLATERAL; Etched is EQUITY IN THE THING THAT WOULD DEPRECIATE IT.**
+⇒ **Capital is not scarce — it is repricing WHICH SIDE of the inference trade to be on.** **Read that
+way the Etched raise CONFIRMS stage-3 stress rather than contradicting it.**
+⇒ **Stage 5 also gains a second failure mode the original table missed: the incumbent's orders can hold
+while a NEW ENTRANT takes the seat.** Stage 5 is now measured from both sides.
+
+## ★★★ THE READING THIS ORDERING PRODUCES, AND IT IS THE POINT
+- **★★★★★★ THE SHOCK IS CURRENTLY SITTING AT STAGES 1-3 AND HAS NOT REACHED 4-5.** **Rates are
+  repricing, the complex's own credit has doubled, and the funding market is rationing rather than
+  pricing — while capex plans are unchanged and supplier revenue is still accelerating.** ⇒ **That gap
+  IS the trade and it is also the risk: stages 4-5 are the LAGGING half, and everything bullish about
+  the AI complex is measured there.** *(Analysis. This is what a hierarchy buys you that a topic list
+  does not.)*
+- **⭐⭐⭐ AND THE BLOOMBERG US FINANCIAL CONDITIONS INDEX SAYS THE OPPOSITE OF STAGES 1-3, WHICH IS THE
+  MOST INTERESTING CONTRADICTION ON THE BOARD TODAY.** Jake's chart: **FCI is near the TOP of its
+  1990-2026 range (~+0.5 to +1) — i.e. conditions are LOOSE**, with the historic drawdowns marked
+  (Gulf War ≈ −4 · LTCM ≈ −3.5 · GFC ≈ −13.5 · S&P downgrade ≈ −3.5 · Covid ≈ −7).
+  ⇒ **An AGGREGATE index reads loose while two of its own components (long rates, AI-complex credit)
+  are tightening hard.** ⇒ **Either the tightening is too narrow to move the aggregate — in which case
+  it is an AI-COMPLEX event, not a macro one — or the FCI is being held up by equity levels and vol
+  that lag credit.** **⬜ NOT SETTLED, and it is the sharpest open question the chain raises.**
+  🚩 **FETCH: the FCI's component decomposition. An index is not evidence until you know which leg
+  moved it.** *(Analysis.)*
+- **⚠️ THE CHAIN IS A HYPOTHESIS ABOUT CAUSALITY, AND THE VAULT HAS NOT TESTED IT.** **Stated plainly so
+  it does not harden by repetition: no lead-lag study has been run on these five stages.** **The
+  ordering is economically reasonable and matches the 2026 sequence so far — it is NOT yet a measured
+  relationship.** 🚩 **The test: does stage N move before stage N+1, on the vault's own dated record?**
+  ⇒ **`wiki/_timelines/_chain.md` now makes that testable — it is the whole chain in one chronology.**
+
+## 📌 HOW THIS IS MAINTAINED (so it does not rot)
+- **Every stage note carries its own ⏱ TIMELINE block** (`tools/timeline_header.py`), so opening any
+  stage gives its running log from the beginning.
+- **`wiki/_timelines/_chain.md` is the MERGED CHAIN LOG** — all five stages in one chronology, each line
+  tagged with its stage number, oldest first. **That is the "running log from the beginning of our
+  data" Jake asked for.** Rebuild: `python3 tools/timeline_header.py --chain`.
+- **Router key `CHAIN`** points any transmission/propagation inbound here.
+- **⛔ When a new datapoint lands, file it to ITS STAGE — not here.** This note holds the ORDER and the
+  current state of each link; the evidence lives in the stage notes. **A spine that accumulates detail
+  stops being a spine.**
+
+---
+_Created 2026-08-18 on Jake's hierarchy spec._
+
+## ⛔⛔ AMENDMENT 2026-08-19 ~10:05am PDT — **TWO STRUCTURAL HOLES, AND THE SECOND IS THE MORE IMPORTANT: (a) STAGE 4 IS NOT ONE NUMBER — PART OF IT IS 15-25 YEAR TAKE-OR-PAY CONTRACT, NOT A CANCELLABLE CAPEX GUIDE; (b) STAGE 3 HAS A FUNDING CHANNEL THIS CHAIN HAS BEEN BLIND TO — REGULATED UTILITY RATE BASE**
+Source: Jake's compiled research, *"Where the Data-Center Power Money Is Going — U.S. 2026"*, 2026-08-19
+→ `raw/2026-08-19-dc-power-money/brief.md`. Gate: POWER(13), CAPEX(12), CHAIN(2); **full-text sweep found
+NO multi-token hits — genuinely new territory for the map.**
+⚠️ **ARTIFACT TEST: a COMPILED SECONDARY document with per-claim attributions (Talen, AEP, Chevron, Entergy,
+Evergy, Oracle, Bloom, GE Vernova, IEA…). I verified NONE of it independently. Every figure below is
+REPORTED. Most are checkable in 8-Ks and PUC dockets; that is the fetch, and it is not done.**
+
+### THE HOLE IN STAGE 4 — the instrument list misses the hardest part of the stage
+- **This table's stage-4 instruments are "capex guides, off-balance-sheet commitments, useful life, project
+  phases."** ⇒ **ALL OF THOSE ARE THINGS A HYPERSCALER CAN REVISE.** ⇒ **The document shows a large and
+  growing share of stage-4 spending is instead a SIGNED ELECTRIC SERVICE AGREEMENT OR PPA OF 15-25 YEARS
+  WITH A NAMED COUNTERPARTY, MINIMUM-PAYMENT FLOORS, COLLATERAL AND TERMINATION CHARGES.**
+- **THE HARDEST REPORTED NUMBER IN THE WHOLE DOCUMENT: EVERGY'S LARGE-LOAD STRUCTURE — CUSTOMERS
+  RESPONSIBLE FOR MINIMUM PAYMENTS COVERING AT LEAST 80% OF CONTRACTED CAPACITY, PLUS COLLATERAL AND
+  TERMINATION CHARGES**, across ESAs with Google (×2), Meta and Beale ≈ **2.5 GW aggregate signed peak load**
+  by Q1 2026. **⚠️ EVERGY DOES NOT APPEAR ANYWHERE IN THIS VAULT BEFORE TODAY.**
+- **Same shape elsewhere:** Oracle pays **100%** of energy costs at the DTE Stargate site incl. storage,
+  transmission and dedicated substation · Equinix bears **100%** of the Central Georgia co-op's cost of
+  service incl. new generation, HV substation and two transmission lines · Google pays DTE the **full cost**
+  of generation, storage, transmission and distribution.
+- ⇒ **★★★★★★ STAGE 4 THEREFORE SPLITS INTO A CANCELLABLE HALF (capex guides, project phases) AND A
+  CONTRACTED HALF (ESAs/PPAs with minimums). THIS TABLE'S "INTACT — SO FAR" READS THE CANCELLABLE HALF
+  ONLY.** ⇒ **The contracted half does not have a "so far." It has a term.** *(Analysis.)*
+
+### THE HOLE IN STAGE 3 — and this is the one that changes the chain's headline
+- **Stage 3 asks "will anyone actually FUND it, and on what terms?" and its instruments are all PRIVATE:
+  deal placement, SPV/ABS terms, RVGs, the Bermuda bid. Current state: RATIONING.**
+- ⇒ **⛔ THE DOCUMENT EXHIBITS A FOURTH CHANNEL THAT BYPASSES ALL OF THEM: A REGULATED UTILITY WITH A
+  PUC-APPROVED LARGE-LOAD CONTRACT FINANCES THE GENERATION THROUGH ITS OWN RATE BASE, AT UTILITY COST OF
+  CAPITAL, WITH COST RECOVERY.** **Entergy's Meta-driven plan alone: seven new CCGTs >5.2 GW, ~240 miles of
+  500-kV, storage at three sites, nuclear uprates, up to 2.5 GW of new renewables — structured so Meta bears
+  the cost of serving its load.** **DTE: ~1.4 GW for Oracle plus 1.0 GW for Google through Dec-2047.**
+- ⇒ **★★★★★★ THAT IS THE CHEAPEST CAPITAL IN THE ENTIRE SYSTEM AND THIS CHAIN COULD NOT SEE IT, BECAUSE
+  STAGE 3 WAS BUILT LOOKING ONLY AT PRIVATE CREDIT AND SECURITISATION.** ⇒ **"RATIONING" MAY BE TRUE OF THE
+  CHANNEL THE VAULT WAS WATCHING AND FALSE OF THE SYSTEM.** ⇒ **This is the same class of error as the 8/18
+  Etched amendment above — the stage was measured on one market and generalised to the stage.**
+  ⚠️ **NOT a claim that stage 3 is fine: regulated financing is SLOW, capacity-limited and PUC-gated. It is a
+  claim that the chain's stage-3 instrument set is INCOMPLETE.** *(Analysis.)*
+
+### ⇒ THE CHAIN GAINS A NODE: STAGE 4b — THE POWER COUNTERPARTY
+| # | stage | the question | primary instrument | note |
+|---|---|---|---|---|
+| **4b** | **Power counterparty (utility / generator / powered landlord)** | who holds the CONTRACTUAL CLAIM on the hyperscaler's cash flow, and who then spends it? | ESAs, large-load tariffs, PPAs, PUC dockets, minimum-payment & termination terms, customer-funded substation/transmission filings | [[power-scarcity-equities]] · [[power-not-petroleum]] |
+- **★★★★★ THE POINT OF THE NODE, IN ONE LINE THE DOCUMENT GETS EXACTLY RIGHT: THE UTILITY/GENERATOR HAS A
+  CLAIM ON THE *HYPERSCALER'S CASH FLOW*; THE EQUIPMENT MAKER HAS A CLAIM ON THE *UTILITY'S CAPEX*.**
+  ⇒ **Two different credits, two different durations, two different failure modes — and stage 5 was
+  measuring only the second.** *(Analysis.)*
+- **★★★★★★ AND IT INDEPENDENTLY RE-DERIVES THE VAULT'S OWN 2000 FINDING FROM CONTRACT STRUCTURE RATHER
+  THAN FROM PRICE HISTORY, WHICH IS THE CORROBORATION STANDARD.** `ai-capex-cycle:L2717`: ***"BACKLOG IS NOT
+  DURATION. A signed PPA or a 20-year lease is duration; an order book is a queue of cancellable
+  intentions"*** — **contracted-revenue owners (Crown Castle) grew through the 2000 bust; order-book
+  installers (Quanta, Dycom) fell with the equipment makers.** ⇒ **That note assigned utilities/REITs to the
+  Crown Castle side and GEV to the Quanta side FROM 2000 PRICES. This document reaches the same split FROM
+  2026 CONTRACT TERMS.** ⇒ **And it grades GEV's position on its own ladder: ~116 GW of gas backlog **PLUS
+  SLOT RESERVATIONS** — and a slot reservation is a RESERVATION, not an order.** *(Analysis.)*
+- **⇒ ★★★★★ THE RISK REALLOCATION, WHICH IS THE TRADE-RELEVANT OUTPUT: IF THE AI CAPEX CYCLE DISAPPOINTS,
+  THE LOSS DOES NOT LAND FIRST ON THE UTILITY — IT IS PROTECTED BY MINIMUMS, COLLATERAL AND TERMINATION
+  CHARGES. IT LANDS ON THE HYPERSCALER (which still owes) AND ON THE EQUIPMENT MAKER (whose orders were
+  placed against utility capex that can be deferred).** ⇒ **That INVERTS the intuitive "utilities are the
+  bubble beta" read.** *(Analysis.)*
+
+### ⛔ AND A HOUSEKEEPING HAZARD THE COLLISION CHECK JUST EXPOSED — DO NOT DOUBLE-COUNT THE GIGAWATTS
+- **The document's warning: one campus can carry a utility-service contract + a renewable PPA + a nuclear
+  contract + storage + fuel cells + backup gensets AT ONCE. Those MW DO NOT ADD.** **A 1 GW site drawing
+  from DTE while Google signs matching renewable PPAs is not 2 GW of load.** **Correct unit: CRITICAL IT
+  LOAD / PEAK CAMPUS LOAD first, then ask which resources physically SERVE vs financially MATCH it.**
+- ⇒ **⚠️ THIS VAULT IS EXPOSED TO EXACTLY THIS. Today's collision check found "5 GW" on 12 lines and
+  "800 MW" on 9, across notes that were never reconciled against one another.** 🚩 **A GW audit is now owed,
+  and it is the same class as the 8/13 SPR 100× error: a number reused without checking its unit.**
+
+### 📌 REGISTERED
+1. 🚩🚩🚩 **VERIFY THE EVERGY 80% MINIMUM FROM PRIMARY** (10-Q/10-K or the Kansas/Missouri large-load tariff).
+   **It is the single most load-bearing reported fact here and the vault has zero prior Evergy coverage.**
+2. 🚩🚩🚩 **GW AUDIT ACROSS THE VAULT** — reconcile every GW/MW figure to critical-IT-load vs contracted
+   supply vs financially-matched. **Same discipline as the post-SPR magnitude audit.**
+3. 🚩🚩 **ADD STAGE 4b INSTRUMENTS TO THE ROUTINE:** PUC docket filings, ESAs, customer-funded
+   substation/transmission filings. **These lead 8-Ks; the document's own claim is that the leading
+   indicator sits in a commission docket, not in an earnings release.**
+4. 🚩 **STAGE-3 RE-TEST: what share of announced AI power capex is being funded through REGULATED RATE BASE
+   vs private credit/ABS?** **If the regulated share is large, "RATIONING" is a channel finding, not a
+   system finding, and the chain's headline needs restating.**
+**Links:** [[power-scarcity-equities]] · [[power-not-petroleum]] · [[ai-capex-cycle]] · [[ai-financing-fragility]] · [[buildout-bottleneck-map]]
+
+## ⭐⭐⭐⭐⭐⭐ 2026-08-19 ~1:05pm PDT — **THE FOMC INDEPENDENTLY DESCRIBES STAGES 2, 3 AND 4 OF THIS CHAIN, IN ITS OWN MINUTES, IN THE SAME ORDER — and it adds a stage-1 feedback loop this chain does not have: THE AI BUILDOUT AS A SOURCE OF THE INFLATION THAT WOULD FORCE THE HIKE**
+Source: **FOMC minutes, July 28-29 2026, released 2026-08-19 — FETCHED FROM federalreserve.gov PRIMARY**
+→ `raw/2026-08-19-fomc-minutes/`. Policy/rates half filed at [[rates-board]]`:L364`.
+**This is the strongest corroboration this chain has ever received, and it did not come from a market
+commentator — it came from the institution that sets stage 1.**
+
+### THE CHAIN, IN THE FOMC'S OWN WORDS (all verbatim)
+- **STAGE 2 — hyperscaler credit:** *"**Credit spreads for hyperscaler firms widened further relative to
+  those for investment-grade bond issuers.**"* ⇒ **The vault's stage-2 state is "NVDA 5Y CDS ~40 → 80.33bp,
+  DOUBLED, TIGHTENING." The Fed's Desk reports the same direction on a different instrument (cash spreads
+  vs IG). ⇒ TWO ORIGINS, ONE FINDING.**
+- **STAGE 3 — funding appetite:** *"**A few participants highlighted the increased degree to which capital
+  spending in the AI sector was being financed by BORROWING, including credit provided by NONBANK INVESTORS
+  OR REGIONAL BANKS.**"* · *"In commenting on the private credit sector, a couple of participants noted that
+  **activity had SLOWED recently** and that developments in private credit **warranted close monitoring**."*
+  · **AND A HARD NUMBER THIS VAULT DID NOT HAVE:** *"recent data confirmed that **redemption requests to
+  business development companies continued to increase in the second quarter**."*
+  ⇒ **The vault's stage-3 state is "RATIONING." The Fed says activity slowed and BDC redemptions rose. ✓**
+- **STAGE 4 — capex commitments:** *"Consumer spending had firmed, and **the AI buildout continued to
+  support business investment**."* · equity prices for **AI-related infrastructure outperformed both the
+  S&P 500 and the hyperscalers**, though *"appreciation of even those firms had **stalled** over the
+  intermeeting period."* ⇒ **The vault's stage-4 state is "Not yet cut. INTACT — so far." ✓ And "stalled"
+  is the first crack, dated to the intermeeting window.**
+- **THE FRAGILITY MECHANISM, STATED BY THE COMMITTEE:** *"**Several participants discussed, as a downside
+  risk, the possibility that AI developments could disappoint, leading to a significant repricing of
+  stocks, with consequent negative effects on consumer spending.**"* · *"…the risk that major downward
+  revisions to those assessments might lead to a **broad-based repricing of assets, generate tighter
+  financial conditions, and create strains in financial institutions directly or indirectly exposed to the
+  sector**."*
+
+### ⇒ THE NEW EDGE: STAGE 4 FEEDS BACK INTO STAGE 1
+- **THE STAFF'S OWN INFLATION ATTRIBUTION NAMES IT:** higher total and core inflation attributed to
+  *"the effects of past tariff increases, higher energy and input costs stemming from the conflict in the
+  Middle East, **and the surge in demand related to the AI buildout**."* **Core GOODS inflation up,
+  *"largely attributable to the effects of tariffs **and AI-related price pressures**."***
+- *"Some participants observed that **materials for data centers, such as CHIPS AND STEEL, had registered
+  large price increases** and that consumer items such as **smartphones, computer equipment, software, and
+  ELECTRICITY** had also been subject to price pressures."*
+- **⚠️ AND THE COMMITTEE IS SPLIT ON THE MAGNITUDE, WHICH IS THE HONEST STATE:** *"**Several participants**
+  assessed that the effects of the AI buildout on consumer prices had so far been **limited to select
+  categories**. However, **several other participants** viewed investment in AI as **already having broader
+  effects on prices by pushing up aggregate demand**."* **A few said it is *"still too early to know if
+  AI-related developments would mainly lead to a shift in RELATIVE PRICES"* or something broader.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★★★★★ THIS CHAIN WAS DRAWN AS A ONE-WAY CASCADE — RATES CAUSE EVERYTHING DOWNSTREAM. THE MINUTES
+  CLOSE THE LOOP: STAGE 4 IS AN INPUT TO THE INFLATION THAT DETERMINES STAGE 1.** ⇒ **If the AI buildout
+  is pushing up core goods prices (chips, steel) and electricity, then AI capex is not merely a VICTIM of
+  higher rates — it is one of the REASONS rates stay high.** ⇒ **⭐ THAT IS A SELF-LIMITING MECHANISM AND
+  IT IS THE MOST IMPORTANT STRUCTURAL THING THIS CHAIN HAS LEARNED: the buildout finances itself into a
+  tighter policy stance, which raises its own cost of capital at stage 2 and 3.** ⇒ **The chain is a LOOP,
+  not a ladder, and every stage-1 reading from here must ask how much of the inflation is stage-4's own.**
+  *(Analysis. Amending the chain's causal structure, not one of its readings.)*
+- **★★★★★ AND THE ELECTRICITY LINE JOINS THIS MORNING'S OTHER FILING, WHICH IS NOT A COINCIDENCE.**
+  **Three hours ago I filed stage 4b — the power counterparty — off Jake's data-centre power research
+  ([[power-scarcity-equities]]`:L149`). The FOMC names ELECTRICITY as a price under pressure.**
+  ⇒ **The utility ESAs and PPAs at stage 4b are the mechanism by which AI load bids up a price that sits
+  inside core CPI.** ⇒ **Stage 4b is therefore not just a credit node — it is the physical transmission
+  from AI capex into consumer inflation, which is to say into stage 1.** *(Analysis.)*
+- **⛔⛔ AND THE 8/18 STAGE-3 QUALIFIER NEEDS A THIRD AMENDMENT, BECAUSE THE FED NAMES A LENDER CLASS THIS
+  CHAIN NEVER LISTED: REGIONAL BANKS.** **Stage 3's instruments are "deal placement, SPV/ABS terms, RVGs,
+  insurance/Bermuda bid" — all nonbank.** ⇒ **"Credit provided by nonbank investors OR REGIONAL BANKS" puts
+  a REGULATED, DEPOSIT-FUNDED, EXAMINED lender in the stack — a completely different failure mode, with a
+  supervisor and a public call report.** ⇒ **🚩 That is also the most FETCHABLE leg in the whole chain and
+  the vault has never pulled it.** *(Analysis. Second stage-3 blind spot found today; see also the
+  regulated-rate-base channel at `:L71`.)*
+- **★★★★ THE BDC REDEMPTION DATUM IS THE HARDEST NEW NUMBER AND IT IS THE ONE TO SERIALISE: *"redemption
+  requests to business development companies CONTINUED TO INCREASE in the second quarter."*** ⇒ **A
+  quantity, a direction, a period, and a repeat ("continued") — that is a series, not an anecdote.**
+  ⇒ **Rising BDC redemptions are stage 3 losing its funding base from the LIABILITY side, which is
+  different from and worse than deals repricing.** 🚩 *(Analysis.)*
+- **⚠️ AND THE DISCIPLINE, BECAUSE A DOCUMENT THAT AGREES WITH THE VAULT IS WHERE THE VAULT IS WEAKEST:
+  THE FOMC IS NOT AN INDEPENDENT OBSERVER OF THE SAME FACTS — IT READS THE SAME PRESS AND THE SAME SPREAD
+  SCREENS THIS VAULT DOES.** ⇒ **Corroboration on INTERPRETATION is worth far less than corroboration on
+  MEASUREMENT.** ⇒ **What genuinely adds information here is the Fed's PRIVILEGED data: BDC redemptions,
+  the Desk survey, the regional-bank exposure — not the parts where the Committee agrees the AI trade
+  looks stretched.** *(Analysis.)*
+
+### 📌 REGISTERED
+1. 🚩🚩🚩 **REGIONAL-BANK EXPOSURE TO AI/DATA-CENTRE LENDING.** ⬜ **Never fetched. Call-report and 10-Q
+   CRE/C&I concentration data is public. The Fed named it; the vault has nothing.** **Highest-value new
+   fetch on the board.**
+2. 🚩🚩🚩 **BDC REDEMPTION REQUESTS, QUARTERLY — build the series.** Baseline: *"continued to increase in
+   the second quarter"* (FOMC, July 2026). **The liability side of stage 3.**
+3. 🚩🚩 **DECOMPOSE HOW MUCH OF CORE-GOODS INFLATION IS AI-ATTRIBUTABLE** — chips, steel, computer
+   equipment, electricity. **The Committee is SPLIT on this; a decomposition would settle a live FOMC
+   disagreement and it is the loop's own magnitude.**
+4. 🚩 **AMEND THE CHAIN TABLE ITSELF** to show the 4→1 feedback arrow, so the loop is visible in the spine
+   and not only in this amendment.
+**Links:** [[rates-board]] · [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[power-scarcity-equities]] · [[market-fragility]]
+
+## ⭐⭐⭐⭐⭐⭐ 2026-08-20 ~7:55am PDT — **STAGE 4b GETS BOTH A FEDERAL TEMPLATE *AND* A CONSTRAINT THE CHAIN HAS NO NODE FOR: THE "RATEPAYER PROTECTION PLEDGE" MAKES YESTERDAY'S ESA STRUCTURE NATIONAL POLICY — while an NRSC memo says data centres have become "politically radioactive" and could lose Ohio**
+Source: `Morning_Market_Verification_Brief_20260820.docx` → `raw/2026-08-20-morning-brief/`, citing **Axios,
+"Exclusive: GOP warns AI companies that data centers are politically radioactive" (2026-08-19)** and
+**White House Ratepayer Protection Pledge (release Jul-2026, fact sheet Mar-2026)**.
+⚠️ **REPORTED, verified by the brief's own labelling, NOT independently fetched by me.**
+**⟲ EXTENDS `:L71` (the stage 4b amendment, filed yesterday).**
+
+### ✅ THE POLICY LEG — yesterday's finding, elevated to a federal template
+- **THE PLEDGE, as the brief summarises White House materials: large data-centre operators should
+  BRING/BUY NEW GENERATION, FUND GRID UPGRADES, and use structures intended to SHIELD EXISTING
+  RATEPAYERS.** ⚠️ **The brief's own caveat: "no higher costs" is a policy OBJECTIVE, not a guarantee.**
+- ⇒ **★★★★★★ THAT IS PRECISELY THE CONTRACT STRUCTURE `:L71` DERIVED YESTERDAY FROM PRIVATE DEALS — Meta
+  bearing Entergy's cost of service, Oracle paying 100% of energy costs including the dedicated
+  substation, Equinix bearing 100% of the co-op's cost including two transmission lines, Evergy's ≥80%
+  minimum-payment floors.** ⇒ **What looked like utility-by-utility negotiation is a NATIONAL TEMPLATE.**
+  ⇒ **⭐ AND IT STRENGTHENS THE RISK-REALLOCATION CONCLUSION: if federal policy PUSHES the cost onto the
+  operator, then the hyperscaler's take-or-pay obligation is not a negotiated concession it might escape
+  — it is the politically mandated default.** *(Analysis. Independent confirmation, one day later, from a
+  completely different source class — a policy document rather than an SEC/PUC filing.)*
+
+### ⛔ THE CONSTRAINT LEG — and the chain has NO NODE FOR IT
+- **NRSC internal memo, reported by Axios: data centres are a MAJOR LIABILITY in the Ohio Senate race —
+  electricity, water, utility bills and local control.** **RealClearPolitics: Brown 47.8 / Husted 47.2
+  (+0.6, toss-up); latest Fox poll Brown 53-45.** ⚠️ **The memo's private polling, "6,000 TV points" and
+  message-testing are CAMPAIGN CLAIMS, not public facts — and "Brown wants to stop all construction" is
+  campaign framing the brief explicitly refuses to promote.**
+- ⇒ **★★★★★★ THE MEMO'S OWN INFERENCE IS THE LOAD-BEARING ONE FOR THIS CHAIN: an Ohio loss would change
+  NATIONAL politicians' willingness to approve future projects.** ⇒ **THAT IS A CONSTRAINT ON STAGE 4
+  THAT IS NEITHER FINANCIAL NOR PHYSICAL. It is PERMISSION.**
+- ⇒ **⭐⭐⭐ THE CHAIN MEASURES WHETHER THE MONEY EXISTS (stages 1-3) AND WHETHER THE POWER EXISTS (4b). IT
+  HAS NEVER ASKED WHETHER THE *CONSENT* EXISTS.** **A funded, powered, contracted campus still needs a
+  PUC approval, a county zoning vote, and a state political environment that tolerates it.**
+  ⇒ **AND THE VAULT ALREADY HAD A DATED PRECEDENT IT NEVER GENERALISED: [[power-not-petroleum]]`:L148` —
+  the SPOKANE moratorium ledger, "THE CITY MORATORIUM PASSED; THE COUNTY'S DID NOT."** ⇒ **That was
+  filed as a local curiosity. It is the same variable, one jurisdiction earlier.** *(Analysis.)*
+- **⇒ 🚩🚩🚩 ADD STAGE 4c — POLITICAL/REGULATORY PERMISSION.** **Instruments: PUC docket outcomes and
+  DENIALS, county/municipal moratoria, state large-load tariff fights, and — newly — ELECTION RESULTS in
+  data-centre-heavy states.** **Ohio's November race is now a DATED, BINARY, MARKET-RELEVANT event for
+  the AI buildout, and nothing in this vault would have flagged it.**
+- **⚠️ AND THE ASYMMETRY WORTH NAMING: THE RATEPAYER PLEDGE AND THE OHIO BACKLASH ARE THE SAME FORCE AT
+  TWO ALTITUDES. The pledge is the FEDERAL attempt to defuse exactly the LOCAL anger the memo measures.**
+  ⇒ **Whether it works is the question, and the memo is evidence that as of August it has NOT.**
+  ⇒ **Which means the take-or-pay structures at `:L71` are simultaneously the buildout's FINANCIAL
+  strength and its POLITICAL vulnerability: the same clause that protects the utility is the one that
+  raises a voter's bill if implementation slips.** *(Analysis.)*
+
+### 📌 REGISTERED
+1. 🚩🚩🚩 **STAGE 4c INSTRUMENTS — start the series.** **PUC denials/approvals for large-load tariffs ·
+   county and municipal moratoria (the vault has ONE: Spokane) · state legislative action on data-centre
+   siting.** ⬜ **No coverage. This is a first-class gap, not a footnote.**
+2. 🚩🚩 **OHIO SENATE, NOVEMBER 2026 — a dated catalyst for the AI-power complex.** **Track PUBLIC polling
+   (RCP average), not NRSC private message-testing, per the brief's own discipline.**
+3. 🚩🚩 **FETCH THE RATEPAYER PROTECTION PLEDGE PRIMARY** (whitehouse.gov, Jul-2026 release + Mar-2026
+   fact sheet). ⬜ **Currently held second-hand. It is the federal template for every ESA at `:L71` and
+   the vault should hold its actual text.**
+4. 🚩 **DOES THE PLEDGE BIND, OR IS IT HORTATORY?** **"Should bring/buy new generation" is not a rule.
+   Look for an EO, a FERC filing, or DOE conditions — the same artifact test as any other announcement.**
+**Links:** [[power-scarcity-equities]] · [[power-not-petroleum]] · [[ai-capex-cycle]] · [[ai-financing-fragility]] · [[buildout-bottleneck-map]]

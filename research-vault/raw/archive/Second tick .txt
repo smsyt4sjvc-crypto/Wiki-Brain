@@ -1,0 +1,51 @@
+000660.KS  — SK Hynix
+005930005930.KS  — Samsung Electronics
+009830.KS  — Hanwha Solutions / Qcells
+066570.KS  — LG Electronics
+2317.TW    — Foxconn / Hon Hai
+373220.KS  — LG Energy Solution
+4938.TW    — Pegatron
+AAPL
+AMD
+AMAT       — Applied Materials
+AMKR       — Amkor Technology
+AMZN
+ANET       — Arista Networks
+ARM
+ASML
+ASX        — ASE Technology
+AVGO       — Broadcom
+AIXNY      — Aixtron
+CAT        — Caterpillar
+COHR       — Coherent
+CRWV       — CoreWeave
+ELPE.AT    — HELLENIQ Energy
+EWY        — iShares MSCI South Korea
+GFS        — GlobalFoundries
+GOOGL
+HPE        — Hewlett Packard Enterprise
+INTC       — Intel
+IREN       — Iris Energy
+LITE       — Lumentum
+LRCX       — Lam Research
+META
+MGA        — Magna International
+MP         — MP Materials
+MRVL       — Marvell
+MSFT
+MU         — Micron
+NBIS       — Nebius Group
+NVDA
+ORCL       — Oracle
+PKX        — POSCO
+QRVO       — Qorvo
+RIVN       — Rivian
+RNW        — ReNew Energy
+SBGSY      — Schneider Electric
+SHEL       — Shell
+SMCI       — Supermicro
+SWKS       — Skyworks
+TSLA
+TSM        — TSMC
+TXN        — Texas Instruments
+VRT        — Vertiv

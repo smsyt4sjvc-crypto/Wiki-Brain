@@ -1,0 +1,452 @@
+U.S. Inflation Data - July 2026
+Released August 12, 2026 | CPI, category detail, wages, and PCE comparison
+Headline: CPI-U rose 0.1% in July (seasonally adjusted) and 3.4% over 12 months (not seasonally adjusted). Core CPI rose 0.2% for the month and 2.5% over 12 months. Shelter rose 0.1% and accounted for roughly two-thirds of the monthly all-items increase; energy fell 1.5% in July but remained 14.7% above a year earlier.
+1. Main inflation numbers
+Measure
+July m/m (SA)
+12-mo (NSA)
+Note
+Headline CPI (all items)
++0.1%
++3.4%
+June annual: +3.5%
+Core CPI (less food & energy)
++0.2%
++2.5%
+June annual: +2.6%
+Food
++0.1%
++3.0%
+
+Food at home (groceries)
+-0.1%
++2.7%
+
+Food away from home
++0.3%
++3.4%
+
+Energy
+-1.5%
++14.7%
+
+Shelter
++0.1%
++3.2%
+Roughly 2/3 of July headline increase
+Services less energy services
++0.2%
++3.0%
+
+Commodities less food & energy
++0.2%
++0.8%
+Core goods
+
+2. Index levels and alternative CPI measures
+Measure
+July index
+12-mo change
+Detail
+CPI-U, all urban consumers
+333.918
++3.4%
+1982-84=100; July NSA monthly change: 0.0%
+CPI-W, urban wage earners & clerical workers
+327.104
++3.4%
+1982-84=100; July NSA monthly change: 0.0%
+C-CPI-U, chained CPI
+—
++3.3%
+July NSA monthly change: 0.0%; recent 10-12 months subject to revision
+
+3. Monthly CPI history - January through July 2026
+Category
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+12-mo
+All items
+0.2
+0.3
+0.9
+0.6
+0.5
+-0.4
+0.1
+3.4
+Food
+0.2
+0.4
+0.0
+0.5
+0.2
+0.2
+0.1
+3.0
+Food at home
+0.2
+0.4
+-0.2
+0.7
+0.1
+0.2
+-0.1
+2.7
+Food away from home
+0.1
+0.3
+0.2
+0.2
+0.3
+0.2
+0.3
+3.4
+Energy
+-1.5
+0.6
+10.9
+3.8
+3.9
+-5.7
+-1.5
+14.7
+Energy commodities
+-3.3
+1.1
+21.3
+5.6
+6.7
+-9.5
+-2.9
+24.7
+Gasoline (all types)
+-3.2
+0.8
+21.2
+5.4
+7.0
+-9.7
+-2.9
+24.6
+Fuel oil
+-5.7
+11.1
+30.7
+5.8
+3.8
+-9.2
+-1.7
+39.1
+Energy services
+0.2
+0.2
+0.4
+1.6
+0.4
+-0.7
+0.3
+4.3
+Electricity
+-0.1
+-0.7
+0.8
+2.1
+0.6
+-1.0
+0.1
+4.2
+Utility piped gas
+1.0
+3.1
+-0.9
+-0.1
+-0.5
+0.5
+0.7
+4.3
+Core CPI
+0.3
+0.2
+0.2
+0.4
+0.2
+0.0
+0.2
+2.5
+Core goods
+0.0
+0.1
+0.1
+0.0
+-0.1
+-0.1
+0.2
+0.8
+New vehicles
+0.1
+0.0
+0.1
+-0.2
+-0.3
+0.0
+0.1
+0.5
+Used cars & trucks
+-1.8
+-0.4
+-0.4
+0.0
+0.1
+-0.2
+0.4
+-1.9
+Apparel
+0.3
+1.3
+1.0
+0.6
+0.3
+-0.6
+0.1
+3.9
+Medical care commodities
+-0.1
+0.0
+-1.0
+-0.4
+-0.7
+-0.2
+-0.6
+-2.7
+Services less energy
+0.4
+0.3
+0.2
+0.5
+0.3
+0.0
+0.2
+3.0
+Shelter
+0.2
+0.2
+0.3
+0.6
+0.3
+0.1
+0.1
+3.2
+Transportation services
+1.4
+0.2
+0.6
+0.3
+-0.6
+-0.3
+0.3
+2.9
+Medical care services
+0.3
+0.6
+0.0
+0.0
+0.5
+-0.1
+0.6
+2.7
+
+Monthly columns are seasonally adjusted percent changes. The 12-month column is not seasonally adjusted. Food away from home and some detail series are published on an unadjusted basis by BLS.
+4. Detailed July category movements
+Food
+Food overall: +0.1% in July; +3.0% over 12 months.
+Food at home: -0.1% in July; +2.7% over 12 months.
+Meats, poultry, fish and eggs: -0.7% in July; pork: -1.5%.
+Fruits and vegetables: -0.1% in July; lettuce: -16.4%.
+Dairy and related products: -0.1% in July and -0.5% over 12 months.
+Nonalcoholic beverages: +0.9% in July; +4.1% over 12 months.
+Cereals and bakery products: +0.2% in July; +2.7% over 12 months.
+Food away from home: +0.3% in July; +3.4% over 12 months. Limited-service meals +0.4% in July; full-service meals +0.2%.
+Over 12 months: fruits and vegetables +5.1%; other food at home +2.5%; meats/poultry/fish/eggs +1.9%; limited-service meals +3.3%; full-service meals +3.4%.
+Energy
+Energy overall: -1.5% in July after -5.7% in June; +14.7% over 12 months.
+Gasoline: -2.9% in July seasonally adjusted (-2.1% before seasonal adjustment); +24.6% over 12 months.
+Fuel oil: -1.7% in July; +39.1% over 12 months.
+Electricity: +0.1% in July; +4.2% over 12 months.
+Utility piped natural gas: +0.7% in July; +4.3% over 12 months.
+Core / services / housing / transportation
+Core CPI: +0.2% in July; +2.5% over 12 months.
+Shelter: +0.1% in July; +3.2% over 12 months; roughly two-thirds of the total July CPI monthly increase.
+Rent of primary residence: +0.3% in July. Owners' equivalent rent: +0.3%. Lodging away from home: -2.8%.
+Medical care: +0.4% in July; +1.7% over 12 months. Medical care services: +0.6% in July; +2.7% over 12 months.
+Hospital services: +0.5% in July. Physicians' services: +0.2%. Prescription drugs: -0.8%.
+Airline fares: +2.2% in July; +25.5% over 12 months.
+Communication: +0.6% in July; -1.2% over 12 months.
+Education: +0.5% in July; +2.7% over 12 months.
+Recreation: +0.2% in July; +2.6% over 12 months.
+Used cars and trucks: +0.4% in July; -1.9% over 12 months. New vehicles: +0.1% in July; +0.5% over 12 months.
+Motor vehicle insurance: -0.3% in July after -2.0% in June.
+Household furnishings and operations increased in July and were +2.2% over 12 months. Apparel: +0.1% in July; +3.9% over 12 months.
+Personal care: unchanged in July.
+5. Special aggregate CPI measures
+Special aggregate
+Relative importance (Jun)
+12-mo change
+July SA
+All items less food
+86.478
++3.4%
++0.1%
+All items less shelter
+64.696
++3.5%
+0.0%
+All items less food and shelter
+51.174
++3.6%
+0.0%
+All items less food, shelter and energy
+43.743
++1.9%
++0.3%
+All items less food, shelter, energy, used cars/trucks
+41.064
++2.2%
++0.3%
+All items less medical care
+91.748
++3.5%
+0.0%
+All items less energy
+92.568
++2.6%
++0.2%
+Commodities
+36.483
++3.9%
+-0.2%
+Commodities less food/energy/used vehicles
+16.151
++1.2%
++0.2%
+Services
+63.517
++3.1%
++0.2%
+Services less rent of shelter
+28.502
++3.0%
++0.2%
+Durables
+10.542
+-0.2%
++0.3%
+Nondurables
+25.941
++5.6%
+-0.3%
+Housing
+44.149
++3.3%
++0.1%
+Education and communication
+5.677
++0.5%
++0.6%
+Recreation
+5.070
++2.6%
++0.2%
+Food and beverages
+14.345
++2.9%
++0.1%
+
+6. Wages and real earnings
+All private nonfarm employees
+July 2026 level
+m/m
+y/y
+Average hourly earnings
+$37.62
++0.1%
++3.2%
+Average weekly hours
+34.3
+0.0%
++0.3%
+Average weekly earnings
+$1,290.37
++0.1%
++3.5%
+Real average hourly earnings
+$11.30 (1982-84 dollars)
+-0.1%
+-0.2%
+Real average weekly earnings
+$387.72 (1982-84 dollars)
+0.0%
++0.1%
+
+BLS: real average hourly earnings decreased 0.1% from June to July because nominal hourly earnings rose 0.1% while seasonally adjusted CPI-U rose 0.1%.
+Real average weekly earnings were unchanged over the month. Over the year, real hourly earnings fell 0.2% and real weekly earnings rose 0.1%.
+For production and nonsupervisory employees, real hourly earnings were unchanged in July; real weekly earnings rose 0.1% for the month. Over 12 months, real hourly earnings fell 0.1% and real weekly earnings rose 0.2%.
+7. Federal Reserve-preferred PCE inflation (latest available: June 2026)
+Measure
+June m/m
+12-mo
+PCE price index
+-0.1%
++3.7%
+Core PCE (less food and energy)
++0.1%
++3.3%
+Current-dollar personal income
++0.2%
+—
+Disposable personal income
++0.2%
+—
+Current-dollar PCE spending
++0.3%
+—
+Real PCE
++0.4%
+—
+
+BEA scheduled the July 2026 Personal Income and Outlays / PCE inflation release for August 26, 2026 at 8:30 a.m. ET.
+8. Release dates
+Release
+Date
+Time
+Producer Price Index (PPI), July 2026
+August 13, 2026
+8:30 a.m. ET
+Personal Income and Outlays / PCE, July 2026
+August 26, 2026
+8:30 a.m. ET
+Consumer Price Index (CPI), August 2026
+September 11, 2026
+8:30 a.m. ET
+Real Earnings, August 2026
+September 11, 2026
+8:30 a.m. ET
+
+9. Notes on how to read the data
+CPI-U covers all urban consumers, representing more than 90% of the U.S. population.
+CPI-W covers urban wage earners and clerical workers and is a subset of CPI-U.
+Seasonally adjusted data are generally preferred for month-to-month trend analysis; unadjusted data are used for 12-month changes and many escalation purposes.
+The CPI is an estimate based on sampled prices. BLS reports an estimated standard error of 0.04 percentage point for the 1-month all-items CPI change; a 0.2% monthly estimate would have an approximate 95% confidence interval of 0.12% to 0.28%.
+CPI-U and CPI-W are final when released; C-CPI-U is preliminary and revised in subsequent quarters.
+10. Primary sources
+U.S. Bureau of Labor Statistics, Consumer Price Index - July 2026: https://www.bls.gov/news.release/cpi.nr0.htm
+U.S. Bureau of Labor Statistics, CPI Table 3 special aggregates: https://www.bls.gov/news.release/cpi.t03.htm
+U.S. Bureau of Labor Statistics, Real Earnings - July 2026: https://www.bls.gov/news.release/realer.nr0.htm
+U.S. Bureau of Labor Statistics, Real Earnings Table A-1: https://www.bls.gov/news.release/realer.t01.htm
+U.S. Bureau of Economic Analysis, Personal Income and Outlays - June 2026: https://www.bea.gov/news/2026/personal-income-and-outlays-june-2026
+U.S. Bureau of Economic Analysis release schedule: https://www.bea.gov/news/schedule

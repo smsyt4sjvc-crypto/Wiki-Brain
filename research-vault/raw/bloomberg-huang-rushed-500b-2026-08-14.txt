@@ -1,0 +1,11 @@
+SOURCE: Jake's paste, chat 2026-08-14 ~3:55pm PDT. Excerpt (Bloomberg-style wire text) + poster commentary.
+Post timestamp on the artifact: 3:54 PM, 8/14/26. Outlet not named in the excerpt itself.
+
+"Goldman Sachs Group Inc., Blackstone Inc. and Apollo Global Management Inc. had been working tirelessly for
+months to draw up debt deals that would help developers of artificial intelligence systems pay for chips from
+Nvidia Corp. With slow progress on the complex deals, Nvidia's chief executive officer, Jensen Huang, decided
+to change tack: He went public this week with the effort, saying the group is aiming to collectively finance AI
+computing deals totaling $500 billion - a round figure with no obvious provenance."
+
+POSTER COMMENTARY: "So it was Jensen who rushed the Collateralized Compute Obligations. Makes you wonder what
+NVDA purchase orders are now that (much) lower token prices are flowing through the frontier income statements"

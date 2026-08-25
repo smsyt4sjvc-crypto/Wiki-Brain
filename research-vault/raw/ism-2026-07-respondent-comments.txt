@@ -1,0 +1,31 @@
+SOURCE: ISM Manufacturing Report on Business, July 2026 — "WHAT RESPONDENTS ARE SAYING"
+ARCHIVED: 2026-08-03 ~8:15am PDT (Jake paste, verbatim)
+CONTEXT: same release as ISM 55.6 (exp 53.9, last 53.3 — four-year high), Prices Paid 71.1,
+         Employment 52.8, New Orders 56.7. Paired with the ZeroHedge divergence explainer
+         (raw/zerohedge-2026-08-03-ism-vs-sp-global-divergence.txt).
+---
+
+[Machinery] "Now that it seems the buildout of AI infrastructure globally is nearing real activation,
+products going into data centers are at full procurement and manufacturing ramp-up. Thus, demand for
+our semiconductor end products and connectivity (power, networking and photonics) is booming.
+Similarly, defense is at an all-time high... Order volumes for medical, industrial and consumer
+products are markedly lower."
+
+[Electrical Equipment, Appliances & Components] "...pricing volatility and lead-time extensions...
+arguably worse than the pandemic era... 5-percent to 25-percent price increases for printed circuit
+board assembly components and 15-percent to 45-percent increases for bare boards are negatively
+impacting customer demand outlook into next year. This isn't sustainable."
+
+[Transportation Equipment] "...increased cost and transit time for rerouted shipments due to conflicts
+in the Red Sea, Strait of Hormuz and Suez Canal."
+
+[Transportation Equipment] "Competing for scarce supply -- electronics, certain critical minerals --
+is challenging on-time fulfillment... expected to get worse."
+
+[Fabricated Metal Products] "...considering foreign steel purchases... because domestic steel mills
+are getting greedy."
+
+[Paper Products] "Our customers in Asia continue to procure elsewhere to avoid paying a tariff."
+
+[Chemical Products] "Some customers are reducing inventory; others are pulling forward demand... a lot
+of shuffling and shifting market share."

@@ -1,0 +1,37 @@
+"Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI"
+Robbie Whelan, WSJ, 2026-08-22 8:00pm. Paste same day. Deal first reported by Newcomer.
+
+TERMS: NVDA invests $1B in Poolside at a $12B PRE-MONEY valuation, AND pays $6B to LICENSE
+Poolside's technology and HIRE THE BULK OF ITS ENGINEERS. >100 Poolside employees join NVDA and
+work on NEMOTRON. Founders (Eiso Kant, Jason Warner) and ops exec Margarida Garcia do NOT join;
+they continue unspecified research.
+
+POOLSIDE: founded 2023 by Kant (developer) and Warner (ex-GitHub CTO). Latest model LAGUNA S,
+"one of the most popular open-weight models in the West." Deal came together in the past few weeks,
+around the Laguna S release.
+
+⭐ POOLSIDE'S SHAREHOLDER LETTER, THE DISTRESS DISCLOSURE: "At the end of last year, we had a
+6 week window in which to raise $2 billion dollars to pay for a 40,000 GB300 cluster coming online
+in January. We didn't close it in time, AND WE LOST THE CLUSTER." Poolside said it would run out
+of compute as soon as next year without access to capital and data centers; NVDA was "the perfect
+partner" because it has "fewer computing infrastructure or cash limitations."
+
+THE RUN-UP THE ARTICLE ITSELF LISTS:
+- Nemotron debuted 2023.
+- MARCH 2026: NVDA launches the NEMOTRON COALITION -- Mistral, Thinking Machines Lab, Perplexity --
+  sharing data, expertise, compute.
+- MARCH 2026: WSJ reported Reflection AI (NVDA-backed, "DeepSeek of the West") in advanced talks to
+  raise $2.5B at $25B.
+- LAST MONTH: Huang's FIRST-EVER X post, a letter "Open Weights and American AI Leadership" --
+  the US will be judged "not by one frontier AI model, but by whether the United States builds a
+  strong, open ecosystem that diffuses into every sector."
+- EARLIER THIS MONTH: NVDA released Nemotron 3.5 Lightning; largest version in development, rumoured
+  >1 trillion training parameters.
+
+CONTEXT: DeepSeek's Jan-2025 open-weight release caused carnage in US tech stocks; Andreessen called
+it a "Sputnik moment." Chinese open models (Moonshot Kimi, Z.AI GLM) now trail frontier US
+capability by only a few months.
+
+TENSION THE ARTICLE NAMES: the deal puts NVDA in competition with its own largest customers
+(OpenAI, Anthropic) and with other open-model developers it backs. Most large labs are also
+designing custom silicon, so they already compete with NVDA.

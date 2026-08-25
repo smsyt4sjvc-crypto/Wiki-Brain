@@ -1,0 +1,53 @@
+SOURCE: Jake's paste, chat 2026-08-14 ~9:45am PDT. Aggregated daily feed digest with per-item "trade read".
+Provenance: not stated per item. REPORTED-class throughout unless separately verified.
+
+IRAN / HORMUZ STANDOFF REMAINS TIGHT
+Trump hardened the U.S. position on Iran and described the blockade as effectively controlling maritime access.
+Negotiations remain stalled. One tanker reportedly loaded at Kharg Island, but there is not yet evidence of a
+broad normalization of Iranian exports.
+Trade read: Bullish for refining margins, tanker scarcity and energy volatility. VLO/MPC/PBF thesis intact.
+
+REFINED-PRODUCT SHORTAGE STILL THE BETTER OIL TRADE
+Russia remains impaired as a refined-product exporter while Middle Eastern flows remain disrupted. U.S. refiners
+are running near capacity and exporting into a tight global diesel market.
+Trade read: Favor U.S. refiners over crude producers while diesel cracks remain exceptionally elevated.
+
+JANE STREET HIT BY ~$15 BILLION JULY LOSS
+Jane Street reportedly lost roughly $15 billion in July, largely during violent reversals in crowded/momentum
+positions. It has since reduced risk in affected strategies.
+Trade read: Important warning that AI/momentum positioning is heavily leveraged. Compute fundamentals can remain
+strong while high-beta AI equities experience forced liquidations.
+
+AI DATA-CENTER FINANCING SHOWING FRICTION
+Nvidia announced a framework intended to mobilize more than $500 billion of outside infrastructure capital, but
+that figure is not equivalent to $500 billion of fully committed project financing. Separately, data-center debt
+markets are showing wider spreads and slower deal progress.
+Trade read: Reinforces preference for GEV / ETN / PWR and physical infrastructure suppliers over highly leveraged
+data-center developers.
+
+U.S. CONSUMER DATA WEAKENS
+July retail sales disappointed and GDP tracking estimates were marked lower.
+Trade read: Negative for discretionary cyclicals. Ordinarily supportive for rates/bonds, but the energy shock
+complicates the Fed outlook because expensive fuel can simultaneously hurt growth and raise inflation.
+
+PAYPAL TAKEOVER TALKS ARE REAL
+Stripe and Advent have reportedly discussed acquiring PayPal. PayPal previously rejected a $60.50/share proposal
+as too low, and discussions may continue at a higher price.
+Trade read: PYPL is now an event-driven/M&A trade. At prices above the rejected offer, upside requires a higher bid.
+
+CHINA DRAM PROGRESS IS REAL - BUT NOT YET A MICRON KILLER
+Chinese CXMT-based DDR5 has demonstrated increasingly competitive speeds, including enthusiast-level overclocking
+results.
+Trade read: Long-term competitive warning for MU/Samsung/SK Hynix, but current demonstrations do not establish
+competitive yields, cost, HBM capability or mass-production economics.
+
+U.S. REAPER LOSSES SUPPORT DEFENSE REPLENISHMENT
+Reporting indicates the U.S. has lost a meaningful portion of its MQ-9 Reaper inventory during the Iran conflict.
+Trade read: Supports the broader munitions/drone/air-defense replenishment cycle, although MQ-9 manufacturer
+General Atomics is private.
+
+BOTTOM LINE
+Near-term priority: Refiners / refined-product scarcity
+Multi-year priority: Power generation, grid and electrical infrastructure
+More cautious: Leveraged AI/data-center financing and crowded momentum compute
+Nothing in today's feed materially weakens the VLO/MPC refinery thesis or the longer-duration GEV/ETN/PWR thesis.

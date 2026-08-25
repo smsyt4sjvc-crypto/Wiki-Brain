@@ -1,0 +1,90 @@
+Tech
+Why Wall Street and Nvidia Are Building an
+Exotic Money Pipeline for the AI Boom
+Executives involved hail it as a new asset class; critics have concerns about using chips as
+collateral
+By Jack Pitcher, Anissa Gardizy and Peter Rudegeair
+UTC-04:00
+Nvidia CEO Jensen Huang is running into a problem: Many of his customers can’t afford to buy
+his company’s coveted AI-powering chips.
+That explains why Huang teamed up with an array of Wall Street firms on a $500 billion plan
+that will theoretically standardize chip financing, creating asset-backed pools of capital for AI
+companies—while leaving Nvidia partly on the hook if things go wrong.
+Executives involved in the strategic partnership Huang unveiled this week with Apollo Global
+Management, BlackRock, Blackstone, Brookfield Asset Management, Goldman Sachs and KKR
+tout the effort as the launch of a new asset class akin to the securitization of everything from
+airplanes to credit cards to mortgages.
+To critics, it is a system that will cover up weaknesses in some corners of the AI marketplace.
+The concern isn’t about tech heavyweights—Meta, Microsoft, Google—with fortress balance
+sheets. Instead, it is about the many smaller AI labs, cloud companies and enterprises that have
+ravenous demand for Nvidia chips but face high interest rates if they want to finance purchases
+of them.
+The AI boom, and Nvidia’s financial momentum, can’t keep up at this blistering pace unless
+those kinds of companies get the hardware they need. 
+Now, it will be up to Wall Street to convince debt investors of the merits of the new financing
+plan. No money has been raised yet under the new partnerships. The goal is to sell public and
+private debt to pension funds, insurers and sovereign-wealth funds, among others, and use the
+proceeds to establish dedicated “platforms” that can swing into action and finance AI chip deals.
+One challenge: The chips powering data centers become obsolete over time as the technology
+advances.
+“This is great for Nvidia, which needs its customers to have access to capital,” said Jack Ablin,
+founding partner at the $260 billion family office Cresset, an investor in Nvidia. “But if you’re a
+debt investor relying on compute power as collateral? I mean, historically, that’s an asset that’s
+had the shelf life of lettuce.”
+Huang has said Nvidia customers are still using old-generation chips, a sign that the hardware
+maintains its value long after it is released. 
+In a TV appearance, executives involved in the agreement said the extreme supply and demand
+mismatch for Nvidia’s chips means they make excellent collateral, unlike fast-depreciating
+computer processors of the past.
+BlackRock Chief Executive Larry Fink likened the current moment in financing of AI
+“compute” to the beginning of his career, when banks and investment firms pioneered the
+mortgage-backed securities market in the 1970s.
+The exact terms of the AI funding arrangement are vague and will likely be dictated by what
+investors will agree to. But the idea outlined by executives involved is for loans to be backed by
+Nvidia’s AI hardware that is being bought or leased.
+If a customer defaults, the thinking goes, a new one will step in quickly. Investing in such an
+instrument could be attractive for a debt investor who thinks the AI industry will continue to
+grow but is concerned about the risk of lending to an individual customer, people involved in the
+deal said.
+The question that underwriters will have to assess is what would happen if the AI build-out stalls
+and projects are delayed or canceled. Another risk is if technological breakthroughs by Nvidia
+undermine the value of its older chips faster than anticipated.
+Nvidia, which has faced criticism for a series of circular funding arrangements where it invests in
+the companies that buy its chips or uses its balance sheet to guarantee their financing, has been
+looking for other approaches.
+Huang said on X that Nvidia might in some cases use its balance sheet to backstop as much as
+25% of the cost of a project through what he called a “residual-value support mechanism.”
+That would likely keep the obligations off Nvidia’s books initially but put the chip maker on the
+hook for a portion of the project if an end user of its chips defaults. Under a residual-value
+backstop, a guarantor such as Nvidia agrees to make up the difference if the value of a given
+asset backing a loan falls below a certain floor.
+Huang says the new funding structure addresses concerns about circular financing. Some
+skeptics still see it as a sort of circularity lite.
+Adding third-party capital and credit decision-making “should arguably alleviate circularity
+concerns…while admittedly polarizing the debate,” Morgan Stanley analyst Joseph Moore wrote
+Tuesday.
+Rival chip maker Broadcom provided similar support on a $35 billion financing package that
+Apollo, Blackstone and a group of banks arranged to lease chips to Anthropic in June, though for
+a much higher proportion of the offering. Broadcom has disclosed that its maximum exposure
+under the backstop is $29 billion, an amount that decreases as lease payments come in.
+Raising money has become more expensive for AI companies across the board, but especially for
+weaker borrowers. They are being crowded out in the debt markets by a glut of supply from
+companies with investment-grade ratings like Meta Platforms, Google parent Alphabet and
+Amazon.com.
+Issuance this year of AI-related bonds by big tech companies, data-center projects and chip-
+financing vehicles reached $344 billion in early August, according to Bank of America Global
+Research. That is up by more than $200 billion from what was issued in 2025. A Bank of
+America survey indicates that investors expect about $100 billion in additional bond volume
+from big tech companies in the remainder of the year.
+AI cloud-computing provider CoreWeave raised a $2.6 billion loan facility this month, backed by
+its contracts with Anthropic, Jane Street and others, at yields 5.5 percentage points above
+benchmark interest rates, or over 9% currently. The company’s bankers originally marketed the
+deal with a yield as much as 1.25 percentage points less than that. Investors demanded yields of
+almost 10% on a $3.5 billion junk-bond sale last month from Galaxy Digital to build a Texas
+data center leased to CoreWeave.
+Michael Burry, an investor famous for shorting mortgage-backed securities who has lately bet
+against Nvidia and other AI stocks, said the deal points to vulnerability in the AI market.
+“Structuring credit is a natural part of the system,” he said on Substack. “Structuring unnatural
+credits to prolong momentum late in the bull phase is where the worry comes in.”
+Write to Jack Pitcher at jack.pitcher@wsj.com, Anissa Gardizy at anissa.gardizy@wsj.com and
+Peter Rudegeair at peter.rudegeair@wsj.com

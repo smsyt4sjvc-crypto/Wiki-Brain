@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M8GD3MLRG5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-M8GD3MLRG5');
+  // INMA conversion events — auto-track contact CTAs
+  document.addEventListener('click', function(e){
+    var a = e.target.closest && e.target.closest('a[href]'); if (!a) return;
+    var h = a.getAttribute('href') || '';
+    if (h.indexOf('tel:') === 0)         gtag('event', 'phone_call',   {link_url:h});
+    else if (h.indexOf('sms:') === 0)    gtag('event', 'text_message', {link_url:h});
+    else if (h.indexOf('mailto:') === 0) gtag('event', 'email_click',  {link_url:h});
+    else if (h.indexOf('.vcf') !== -1)   gtag('event', 'save_contact', {link_url:h});
+  });
+</script>
+<meta charset="UTF-8">
+<link rel="canonical" href="https://inmagent.com/contractor.html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="apple-touch-icon" href="/IMG_6892.jpeg">
+<link rel="icon" type="image/jpeg" href="/IMG_6892.jpeg">
+<title>Work With INMA — Contractors</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { font-family:'Outfit',sans-serif; background:#F5F2ED; color:#3A3835; line-height:1.6; }
+
+nav { background:#2C2A27; padding:16px 32px; display:flex; align-items:center; justify-content:space-between; }
+.nav-logo { font-family:'DM Serif Display',serif; font-size:1.2rem; color:#F5F2ED; text-decoration:none; }
+.nav-logo span { color:#B8941F; }
+.nav-home { color:rgba(245,242,237,0.6); text-decoration:none; font-size:0.88rem; font-weight:500; transition:color 0.2s; }
+.nav-home:hover { color:#F5F2ED; }
+
+.hero { background:linear-gradient(168deg,#2C2A27 0%,#1a1916 60%,#2a2520 100%); padding:80px 32px 72px; text-align:center; position:relative; overflow:hidden; }
+.hero::before { content:''; position:absolute; inset:0; background:radial-gradient(ellipse 70% 60% at 50% 40%,rgba(139,105,20,0.1) 0%,transparent 70%); }
+.hero-inner { max-width:720px; margin:0 auto; position:relative; z-index:2; }
+.hero-label { display:inline-block; font-size:0.72rem; font-weight:700; letter-spacing:2.5px; text-transform:uppercase; color:#B8941F; margin-bottom:16px; padding:5px 14px; border:1px solid rgba(184,148,31,0.3); border-radius:4px; }
+.hero h1 { font-family:'DM Serif Display',serif; font-size:clamp(2rem,5vw,3rem); color:#F5F2ED; line-height:1.15; margin-bottom:20px; }
+.hero h1 em { font-style:italic; color:#B8941F; }
+.hero p { font-size:1.05rem; color:rgba(245,242,237,0.65); max-width:580px; margin:0 auto 36px; line-height:1.7; }
+.hero-btns { display:flex; gap:14px; justify-content:center; flex-wrap:wrap; }
+.btn-primary { display:inline-flex; align-items:center; gap:8px; background:#8B6914; color:white; padding:14px 28px; border-radius:8px; text-decoration:none; font-weight:700; font-size:0.95rem; transition:background 0.2s; }
+.btn-primary:hover { background:#B8941F; }
+.btn-secondary { display:inline-flex; align-items:center; gap:8px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.15); color:#F5F2ED; padding:14px 28px; border-radius:8px; text-decoration:none; font-weight:500; font-size:0.95rem; transition:background 0.2s; }
+.btn-secondary:hover { background:rgba(255,255,255,0.1); }
+
+section { padding:80px 32px; }
+.container { max-width:1100px; margin:0 auto; }
+.section-label { display:inline-block; font-size:0.72rem; font-weight:700; letter-spacing:2px; text-transform:uppercase; color:#8B6914; margin-bottom:14px; }
+.section-title { font-family:'DM Serif Display',serif; font-size:clamp(1.8rem,4vw,2.4rem); color:#2C2A27; line-height:1.2; margin-bottom:16px; }
+.section-sub { font-size:1rem; color:#7A756D; max-width:580px; line-height:1.7; }
+
+/* BENEFITS */
+.benefits-section { background:white; }
+.benefits-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:24px; margin-top:48px; }
+.benefit-card { padding:28px 24px; border:1px solid #D6D0C6; border-radius:10px; background:#F5F2ED; position:relative; overflow:hidden; }
+.benefit-card::before { content:''; position:absolute; top:0; left:0; width:100%; height:3px; background:linear-gradient(90deg,#8B6914,#6B7F5E); transform:scaleX(0); transform-origin:left; transition:transform 0.3s; }
+.benefit-card:hover::before { transform:scaleX(1); }
+.benefit-num { font-family:'DM Serif Display',serif; font-size:2rem; color:#B8941F; opacity:0.4; line-height:1; margin-bottom:10px; }
+.benefit-card h3 { font-size:1.05rem; font-weight:700; color:#2C2A27; margin-bottom:8px; }
+.benefit-card p { font-size:0.88rem; color:#7A756D; line-height:1.65; }
+
+/* HOW IT WORKS */
+.how-section { background:#EDE8E0; }
+.steps { display:flex; flex-direction:column; gap:20px; margin-top:48px; max-width:700px; }
+.step { display:flex; gap:20px; align-items:flex-start; padding:24px; background:white; border:1px solid #D6D0C6; border-radius:10px; }
+.step-num { flex-shrink:0; width:36px; height:36px; background:#2C2A27; color:#B8941F; font-family:'DM Serif Display',serif; font-size:1rem; border-radius:50%; display:flex; align-items:center; justify-content:center; }
+.step-text h4 { font-weight:700; color:#2C2A27; margin-bottom:4px; font-size:0.95rem; }
+.step-text p { font-size:0.88rem; color:#7A756D; line-height:1.6; }
+
+/* STANDARDS */
+.standards-section { background:white; }
+.standards-list { list-style:none; display:flex; flex-direction:column; gap:12px; margin-top:36px; max-width:640px; }
+.standards-list li { display:flex; align-items:flex-start; gap:12px; font-size:0.92rem; color:#7A756D; line-height:1.55; padding:14px 16px; background:#F5F2ED; border-radius:8px; border:1px solid #D6D0C6; }
+.standards-list li svg { flex-shrink:0; margin-top:2px; color:#8B6914; }
+.standards-list li strong { color:#2C2A27; }
+
+/* CONTACT */
+.contact-section { background:#2C2A27; text-align:center; position:relative; overflow:hidden; }
+.contact-section::before { content:''; position:absolute; inset:0; background:radial-gradient(ellipse 60% 60% at 50% 50%,rgba(139,105,20,0.1) 0%,transparent 70%); }
+.contact-inner { position:relative; z-index:2; max-width:600px; margin:0 auto; }
+.contact-section .section-label { color:#B8941F; }
+.contact-section .section-title { color:#F5F2ED; }
+.contact-section p { color:rgba(245,242,237,0.6); font-size:1rem; margin-bottom:32px; line-height:1.7; }
+
+footer { background:#1a1916; padding:32px; text-align:center; border-top:1px solid rgba(255,255,255,0.05); }
+footer a { color:rgba(245,242,237,0.4); text-decoration:none; font-size:0.82rem; }
+footer a:hover { color:#F5F2ED; }
+
+@media(max-width:768px) {
+  section { padding:60px 20px; }
+  .hero { padding:60px 20px 56px; }
+  .hero-btns { flex-direction:column; align-items:center; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="/" class="nav-logo">INMA<span>.</span></a>
+  <a href="/" class="nav-home">← Homeowner Site</a>
+</nav>
+
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-label">For Licensed Contractors</div>
+    <h1>No Commissions. No Marketing.<br><em>Just Work.</em></h1>
+    <p>INMA brings you fully scoped, sold jobs with a complete material takeoff — ready to build. No sales overhead, no tire-kickers, no FICA-obligating salesperson on your payroll.</p>
+    <div class="hero-btns">
+      <a href="mailto:jake@inmagent.com?subject=Contractor Interest — INMA&body=Hi Jake,%0A%0AI'm interested in learning more about working with INMA.%0A%0ACompany name: %0AUBI%23: %0ATrade specialty: %0AYears in business: %0A%0AThanks," class="btn-primary">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 4l-10 8L2 4"/></svg>
+        Express Interest
+      </a>
+      <a href="sms:5092517792?body=Hi Jake, I'm a licensed contractor and I'm interested in learning more about working with INMA." class="btn-secondary">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        Text Jake Directly
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="benefits-section">
+  <div class="container">
+    <span class="section-label">Why Contractors Work With INMA</span>
+    <h2 class="section-title">What You Get</h2>
+    <p class="section-sub">Every job INMA sends you is already sold, scoped, and priced. You show up to build — not to sell.</p>
+    <div class="benefits-grid">
+      <div class="benefit-card">
+        <div class="benefit-num">01</div>
+        <h3>No Sales Commission</h3>
+        <p>INMA absorbs the sales function entirely. You don't pay a percentage off the top. You don't carry a salesperson on payroll. No FICA obligation, no W-2 headache.</p>
+      </div>
+      <div class="benefit-card">
+        <div class="benefit-num">02</div>
+        <h3>No Marketing Spend</h3>
+        <p>No HomeAdvisor fees, no Google Ads, no door-knockers. INMA markets to the homeowner. You get the call when the job is ready.</p>
+      </div>
+      <div class="benefit-card">
+        <div class="benefit-num">03</div>
+        <h3>Fully Scoped Jobs</h3>
+        <p>You receive a complete packet: detailed scope of work, material takeoff, measurements, and photos of the property. No ambiguity, no renegotiating on day one.</p>
+      </div>
+      <div class="benefit-card">
+        <div class="benefit-num">04</div>
+        <h3>Your Name on the Contract</h3>
+        <p>The homeowner signs directly with you. INMA is never a party to the construction contract and never touches construction funds. You run your job your way.</p>
+      </div>
+      <div class="benefit-card">
+        <div class="benefit-num">05</div>
+        <h3>Keep Your Supplier Margin</h3>
+        <p>If you beat the material cost through your supplier relationships — better pricing on caulk, nails, housewrap — that's your margin to keep. We scope the work, not the supply chain.</p>
+      </div>
+      <div class="benefit-card">
+        <div class="benefit-num">06</div>
+        <h3>No Tire-Kickers</h3>
+        <p>Every job INMA sends is a committed homeowner who has already retained our services and signed an agreement. You're not bidding against four others. The job is ready.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="how-section">
+  <div class="container">
+    <span class="section-label">The Process</span>
+    <h2 class="section-title">How It Works</h2>
+    <p class="section-sub">Simple from your end. INMA handles the homeowner relationship — you handle the build.</p>
+    <div class="steps">
+      <div class="step"><div class="step-num">1</div><div class="step-text"><h4>INMA scopes and prices the job</h4><p>We walk the property with the homeowner, build a detailed scope, and establish a fair market price. The homeowner retains INMA and commits to moving forward.</p></div></div>
+      <div class="step"><div class="step-num">2</div><div class="step-text"><h4>You receive the full packet</h4><p>Scope of work, material takeoff, measurements, property photos, and a pre-written installation agreement with your company name and UBI already on it.</p></div></div>
+      <div class="step"><div class="step-num">3</div><div class="step-text"><h4>Three-way walkthrough</h4><p>You, the homeowner, and Jake walk the property together. You confirm scope details and ask questions on-site before anyone signs anything.</p></div></div>
+      <div class="step"><div class="step-num">4</div><div class="step-text"><h4>Homeowner signs directly with you</h4><p>The installation agreement is between you and the homeowner. INMA is not a party to it. The homeowner's deposit goes directly to you.</p></div></div>
+      <div class="step"><div class="step-num">5</div><div class="step-text"><h4>You run the job</h4><p>You manage your crew, your schedule, your materials. INMA stays available for communication support but does not direct your work or means and methods.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<section class="standards-section">
+  <div class="container">
+    <span class="section-label">What We Ask</span>
+    <h2 class="section-title">The Standard</h2>
+    <p class="section-sub">INMA personally vouches for every contractor in the network. That means we need to know you operate at a level we're comfortable putting our name next to.</p>
+    <ul class="standards-list">
+      <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span><strong>Licensed, bonded, and insured</strong> — current WA contractor's license, general liability COI, and bond on file with INMA before any job is assigned.</span></li>
+      <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span><strong>Operationally sound</strong> — you're not taking jobs to make payroll from the last one. INMA won't send a homeowner's deposit to a cash-flow crisis.</span></li>
+      <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span><strong>Follow INMA's installation standards</strong> — James Hardie Best Practices, proper flashing, manufacturer specs. The warranty stays intact. No shortcuts.</span></li>
+      <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span><strong>Use INMA's contract with the homeowner</strong> — consistent paperwork protects everyone. The agreement is pre-written with your details. You review it, you sign it.</span></li>
+      <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></svg><span><strong>Priority scheduling for INMA jobs</strong> — when a job is ready, it's ready. Contractors who consistently pass or delay lose access to future jobs.</span></li>
+    </ul>
+  </div>
+</section>
+
+<section class="contact-section">
+  <div class="container contact-inner">
+    <span class="section-label">Get on the List</span>
+    <h2 class="section-title">Interested in Working With INMA?</h2>
+    <p>Send Jake a quick message with your company name, UBI, and trade specialty. If it looks like a fit, he'll reach out to set up a conversation.</p>
+    <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;">
+      <a href="mailto:jake@inmagent.com?subject=Contractor Interest — INMA&body=Hi Jake,%0A%0AI'm interested in learning more about working with INMA.%0A%0ACompany name: %0AUBI%23: %0ATrade specialty: %0AYears in business: %0A%0AThanks," class="btn-primary">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 4l-10 8L2 4"/></svg>
+        Send an Email
+      </a>
+      <a href="sms:5092517792?body=Hi Jake, I'm a licensed contractor and I'm interested in learning more about working with INMA." class="btn-secondary">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        Text Jake
+      </a>
+    </div>
+    <p style="margin-top:32px;font-size:0.85rem;color:rgba(245,242,237,0.3);">(509) 251-7792 &nbsp;&bull;&nbsp; jake@inmagent.com</p>
+    <p style="margin-top:14px;"><a href="/jake.vcf" download="Jake Bishop - INMA.vcf" style="display:inline-flex;align-items:center;gap:6px;color:#B8941F;text-decoration:none;font-size:0.88rem;font-weight:600;border:1px solid rgba(184,148,31,0.35);padding:8px 16px;border-radius:8px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>Save Jake's contact</a></p>
+  </div>
+</section>
+
+<footer>
+  <a href="/">← Back to INMA Homeowner Site</a>
+</footer>
+
+</body>
+</html>

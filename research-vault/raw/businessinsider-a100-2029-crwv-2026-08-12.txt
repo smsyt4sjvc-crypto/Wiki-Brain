@@ -1,0 +1,26 @@
+This 2020 Nvidia chip is still going strong. That matters for the AIboom.Alistair Barr
+ Michael Intrator, co-founder and chief executive officer of CoreWeave. Bloomberg/Getty Images
+AI cloud company CoreWeave just offered fresh evidence in one of the biggest debates hanging over the AI boom: How long can AI chips stay usefuland keep generating revenue?
+The AI cloud company recently signed a contract to rent out Nvidia A100 GPUs well into 2029, CoreWeave Chief Financial Officer Nitin Agrawal toldanalysts late Tuesday. Nvidia introduced the A100 in 2020.
+That means customers are committing to use these chips for running AI about nine years after their launch.
+This matters because investors have been fiercely debating how quickly AI hardware loses its economic value. Critics and short sellers have argued thatrapid advances from Nvidia could make older chips obsolete within two or three years. If that happened, companies spending billions of dollars on AIinfrastructure might have to write down those investments much faster, hurting profits.
+CoreWeave's latest deal suggests the opposite may be happening.
+Related video
+What are the real-life consequences of AI?
+"We recently signed an A100 contract that extends into 2029 at an attractive price," Agrawal said. CoreWeave is also "largely sold out" of oldergenerations of Nvidia chips, he added.
+I first raised this depreciation risk before CoreWeave went public. Since then, evidence has increasingly suggested that useful GPU lives may be longerthan feared. CoreWeave shares have surged since the initial public offering and jumped 20% on Wednesday.
+Rental-market data backs up the company's comments. Silicon Data, which tracks GPU prices, says A100 rental rates have held up well after a strongrebound in 2026.
+"We are still learning when it comes to the question of economic lifespan of GPUs. It certainly doesn't appear to be 2-3 years as some seem to casually
+https://www.businessinsider.com/coreweave-deal-challenges …business-link-post&utm_medium=social&utm_source=twitter 8/12/26, 9:36 PM
+Page 1 of 2
+assume," Silicon Data wrote in a post on X on Tuesday.
+There are good reasons older GPUs can remain useful.
+The newest chips are important for building the most advanced AI models. Once those models are created, companies have many other computing jobsthat don't require the latest hardware. Older GPUs can be repurposed for these less demanding tasks and continue generating revenue.
+Erwan Menard, a senior vice president at AI infrastructure company Crusoe, told me last year that GPUs can move from one type of work to another asthey age. Lambda executive Matt Rowe has said their effective lives can stretch to seven or eight years.
+GPUs inevitably break and have to be replaced. That cuts the useful life of a fleet of GPUs. However, observers worrying about depreciation oftenoverlook warranty contracts, Rowe told me late last year. These warranties typically last five years, so if GPUs fail, they are replaced with new ones,extending the life of the overall GPU fleet.
+The issue of GPUs' useful lives has become more important as Wall Street pours money into AI infrastructure. Nvidia this week announced partnershipswith Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR aimed at mobilizing more than $500 billion over time.
+Those investments depend in part on AI hardware retaining its value for years.
+An A100 still attracting customers into 2029 is a powerful test of that assumption, and, so far, an encouraging one.
+Sign up for BI's Tech Memo newsletter here. Reach out to me via email at abarr@businessinsider.com.
+https://www.businessinsider.com/coreweave-deal-challenges …business-link-post&utm_medium=social&utm_source=twitter 8/12/26, 9:36 PM
+Page 2 of 2
