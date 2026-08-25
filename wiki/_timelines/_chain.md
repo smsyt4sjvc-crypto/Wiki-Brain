@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **612 dated entries · 2026-05-22 → 2026-08-24 · refreshed 2026-08-24 18:23 PDT**
+> **614 dated entries · 2026-05-22 → 2026-08-25 · refreshed 2026-08-24 18:52 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -640,4 +640,6 @@
 - `2026-08-23` **[5]** compression-thesis.md:L2461 — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A
 - `2026-08-23` **[5]** compression-thesis.md:L2497 — 2026-08-23 ~9:20pm PDT — ✅ **PERPLEXITY WAS ALREADY ON FILE BY NAME, IN THE EXACT LINE THAT EXPLAINED THE POOLSIDE DEAL 30 HOURS AGO: `:L2485` — "the 
 - `2026-08-24` **[1]** rates-board.md:L1025 — 2026-08-24 ~12:15am PDT — ⛔⛔⛔ **THE TGA REVELATION BREAKS THIS BOARD'S OWN LOAD-BEARING CONCLUSION, WRITTEN 8/19 AT `:L223`: *"TREASURY BUYBACKS ARE C
+- `2026-08-24` **[2]** hyperscaler-credit.md:L517 — DATA — THE FULL PANEL THE TWO-NAME CHART CANNOT SHOW (ICE, clearing 2026-08-24)
 - `2026-08-24` **[5]** memory-regime-question.md:L1243 — 2026-08-24 ~1:10am PDT — ★★★★★★ **A *THIRD* RESPONSE TO THE MEMORY SHORTAGE, AND THE VAULT HAS PRICED NEITHER IT NOR ITS OFFSET: NVDA IS DESIGNING THE
+- `2026-08-25` **[2]** hyperscaler-credit.md:L497 — 2026-08-25 ~01:50 UTC (2026-08-24 ~6:50pm PDT) — ✅✅✅ **JAKE'S OWN TEST, RUN AGAINST THE INSTRUMENT INSTEAD OF ASSERTED — AND IT IS SATISFIED ON ALL FO

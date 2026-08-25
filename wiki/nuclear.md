@@ -476,3 +476,84 @@ Standard Nuclear and Oak Ridge are all NEW to this vault; Equinix and HALEU are 
 2. 🚩 **EQUINIX: is the 20-unit order FIRM, OPTIONED, OR AN LOI?** **The article says "commercial
    agreement," which is not a purchase order.** **Per `:L96`: "converts to real on firm ORDERS, not MOUs."**
 3. ⬜ **Does the Buckley project have appropriated funding, or is it a DIU prototype agreement?**
+
+## 2026-08-24 ~7:15pm PDT — ★★★★★★ **THE $80B PROGRAM IS ARITHMETICALLY IMPOSSIBLE AT US CONSTRUCTION COSTS, AND THAT — NOT "capacity shortfall" — IS WHY KOREA IS BEING INVITED IN. 10 AP1000s AT VOGTLE'S RATE IS ~$175B. AT KEPCO'S BARAKAH RATE IT IS ~$64B. THE ANNOUNCED NUMBER IS $80B.** ⇒ **THE BUDGET ALREADY ASSUMES KOREAN COSTS** ⭐ **AND IT IS THE THIRD STATE-EQUITY INSTRUMENT IN 24 HOURS — Intel, MP, now up to 20% of Westinghouse — now being EXPORTED as a co-investment ask**
+Source: Korean press, 2026-08-24 03:35 GMT-7, sourced to "inside and outside the South Korean
+government." ⚠️ **⬜ SINGLE ORIGIN, ANONYMOUS OFFICIALS, KOREAN-LANGUAGE OUTLET. No US or Westinghouse
+confirmation. Rung: REPORTED.**
+
+#### DATA (as reported; the cost arithmetic is this vault's own)
+- **THE ASK: the US has proposed KEPCO acquire a stake in Westinghouse, via a joint Korea-US SPC,
+  either from Brookfield's existing 51% or as new shares in an IPO.** **Funding source under
+  consideration: the ~$200B Korea-US Strategic Investment Fund created out of the tariff
+  negotiations.**
+- **THE EXISTING STRUCTURE: Brookfield 51% / Cameco 49%. Late last year the US government signed the
+  $80B partnership and secured RIGHTS TO ACQUIRE UP TO 20% of Westinghouse equity, plus the right to
+  demand an IPO if enterprise value reaches $30B by 2029.**
+- **⚠️ THE WATERFALL, WHICH IS THE PART TO READ TWICE: Westinghouse pays $17.5B in dividends to
+  Brookfield and Cameco FIRST; the US government then receives 20% OF ANY EXCESS.**
+- **VALUATION TRACK: Brookfield paid $4.6B in 2018 out of bankruptcy → ~$8.2B at Cameco's 2023 entry →
+  ~$10B+ now → a $30B IPO trigger by 2029.** ⇒ **3.0× required in about three years.**
+  **And the article states Brookfield "is entering the investment recovery phase."**
+- **★★★ THE BUILD-COST COMPARISON, AND THE VAULT'S OWN NUMBER CORROBORATES IT:**
+  | | Barakah (KEPCO) | Vogtle 3&4 (Westinghouse) |
+  |---|---|---|
+  | units | APR1400 × 4 | AP1000 × 2 |
+  | capacity | **5,600 MW** | **2,234 MW** |
+  | duration | ~12y (2012→2024) | ~15y (2009→2024) |
+  | delay vs plan | ~4y | **~7y** |
+  | total cost | ~$32B | ~$35B |
+  | **$/MW** | **~$5.71M** | **~$15.67M** |
+  ✅ **`power-scarcity-equities:L62` independently carries "Vogtle actuals $10-15k/kW" — the $15.67k/kW
+  computed here lands at the top of the vault's own pre-existing range.**
+- **⇒ ⭐⭐ THE PROGRAM ARITHMETIC: 10 AP1000s ≈ 11,170 MW.**
+  **At Vogtle's rate: ~$175B. At Barakah's rate: ~$64B. THE ANNOUNCED PARTNERSHIP IS $80B ⇒ an
+  implied ~$7.16M/MW.** ⇒ **The announced budget sits 2.2× below US demonstrated cost and only 25%
+  above Korean demonstrated cost.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE ARTICLE SAYS THE US "LACKS SUFFICIENT CONSTRUCTION CAPACITY." THE SHARPER AND MORE
+  USEFUL STATEMENT IS THAT THE BUDGET ALREADY ASSUMES KOREAN COSTS.** ⇒ **$80B for 10 AP1000s is not
+  a number American construction has ever produced — Vogtle's own actuals imply $175B.** ⇒ **So
+  bringing KEPCO in is not a financing preference and not a capacity top-up. IT IS WHAT MAKES THE
+  ANNOUNCED FIGURE ARITHMETICALLY POSSIBLE.** ⇒ **★★★ AND THAT INVERTS THE NEGOTIATING READ: Korea is
+  not being offered access to the US market as a favour; the US program does not close without it.**
+  *(Analysis.)*
+- **⭐⭐ AND IT IS THE THIRD STATE-EQUITY INSTRUMENT IN TWENTY-FOUR HOURS, WHICH CONFIRMS LAST NIGHT'S
+  TAXONOMY AS A POLICY RATHER THAN A COINCIDENCE.** `new-economy-regime` filed the four instruments
+  hours ago and put **state equity — Intel, MP preferred, USAR, UUUU — in the box where the state
+  takes the residual claim.** ⇒ **Westinghouse is the same instrument: up to 20% of the equity in
+  exchange for regulatory fast-tracking and financing.** ⇒ **★★★ AND IT IS NOW BEING EXPORTED — the US
+  is not just taking equity in its own strategic firms, it is asking an ALLY to co-invest, funded out
+  of a facility created by TARIFF negotiations.** ⇒ **Tariff leverage → investment fund → equity in a
+  US strategic asset. That is the same instrument running through three stages.** *(Analysis.)*
+- **⚠️ AND THE STRUCTURE SHOULD BE READ FROM THE SELLER'S SIDE BEFORE THE BUYER'S. BROOKFIELD BOUGHT
+  AT $4.6B OUT OF BANKRUPTCY IN 2018, IS AT ~$10B+ NOW, AND IS DESCRIBED AS "ENTERING THE INVESTMENT
+  RECOVERY PHASE."** ⇒ **KEPCO is being invited to buy at roughly a 2.2× markup from a private-equity
+  owner who is exiting** — **and the US government's own 20% sits BEHIND a $17.5B dividend waterfall
+  to Brookfield and Cameco.** ⇒ **⛔ The $17.5B is more than the company's entire current enterprise
+  value. Any buyer needs to know whether that waterfall attaches to the shares being sold.**
+  ⬜ **NOT STATED IN THE ARTICLE and it is the single most important commercial term.** *(Analysis.)*
+- **⛔ AND A GOALPOST DISCREPANCY WITH THIS NOTE'S OWN RECORD, REGISTERED NOT RESOLVED: `:L242` has
+  the May-2025 EOs as "10 reactors LICENSED by 2030." The article says "BREAK GROUND on 10 large-scale
+  reactors by 2030."** ⇒ **Licensed and groundbreaking are different milestones and this vault's
+  ANNOUNCED ≠ PERMITTED ≠ ENERGIZED ladder exists precisely for this.** 🚩 **Which is the EO's actual
+  language? One of the two is a restatement that moved the post.** *(Analysis.)*
+- **⚠️ AND THE TIMELINE DISCIPLINE THE PIECE OMITS ENTIRELY: VOGTLE TOOK ~15 YEARS AND RAN ~7 YEARS
+  LATE. BARAKAH TOOK ~12 AND RAN ~4 LATE.** ⇒ **Groundbreaking in 2030 at Korean execution is
+  ~2042 energisation; at US execution it is ~2045.** ⇒ **⛔ NEITHER DATE IS INSIDE ANY AI-CAPEX
+  PLANNING HORIZON THIS VAULT TRACKS.** ⇒ **This is not a solution to the power constraint the AI
+  buildout faces this decade, and it should never be filed as one.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **DOES THE $17.5B DIVIDEND WATERFALL ATTACH TO THE SHARES KEPCO WOULD BUY?** ⬜ Not stated.
+   **It is larger than Westinghouse's entire current enterprise value and it determines whether this
+   is an investment or a subordination.**
+2. 🚩🚩 **RESOLVE "LICENSED by 2030" vs "BREAK GROUND by 2030"** against the actual May-2025 EO text.
+   ⬜ **The vault holds one version and the article states the other.**
+3. 🚩🚩 **US OR WESTINGHOUSE CONFIRMATION.** ⬜ **Single Korean-language origin, anonymous officials.
+   Until a second independent origin appears this stays REPORTED.**
+4. 🚩 **THE $200B KOREA-US STRATEGIC INVESTMENT FUND — terms, governance, and what else it has been
+   drawn against.** ⬜ Not in this vault. **A tariff-negotiated facility being spent on equity in a US
+   strategic firm is the instrument, and the vault holds nothing on it.**
+**Links:** [[power-scarcity-equities]] · [[buildout-bottleneck-map]] · [[new-economy-regime]] · [[ai-capex-cycle]]

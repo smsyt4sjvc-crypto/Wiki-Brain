@@ -493,3 +493,83 @@ Source: Jake's lead → `https://www.ice.com/api/cds-settlement-prices/icc-singl
    the on-the-run 5Y jumps to 2031-12-20 and the price series discontinues FOR REASONS THAT ARE NOT
    CREDIT.** ⇒ **The stored `maturity` column is what makes that detectable. Do not drop it, and do
    not read the roll as a move.**
+
+## 2026-08-25 ~01:50 UTC (2026-08-24 ~6:50pm PDT) — ✅✅✅ **JAKE'S OWN TEST, RUN AGAINST THE INSTRUMENT INSTEAD OF ASSERTED — AND IT IS SATISFIED ON ALL FOUR LEGS. THIS IS A REPRICING OF PARTICULAR RISKS, BY HIS DEFINITION.** ★★★★★★ **AND THE ICE TOOL IS NOW VALIDATED AGAINST AN INDEPENDENT COMMERCIAL SOURCE: ICE-DERIVED AVGO 127.2 vs THE CHART'S 126.225, NVDA 86.8 vs 86.735** ⭐ **THE TWO-NAME CHART HIDES THE FINDING — DISPERSION IS 17.3×, WHICH IS THE MARKET DISCRIMINATING, NOT FLEEING**
+Source: Jake's chart (ZH-style, "AVGO, NVDA CDS trading at all time wides", AVGO 126.225 · NVDA
+86.735) → `raw/2026-08-24-avgo-nvda-cds-ath.png`. **Panel: `tools/icc_cds.py`, ICE Clear Credit
+clearing date 2026-08-24, 12 names.** **Ladder: `tools/fragility.py` on the 8/24 runner feed.**
+
+#### ✅ THE TEST HE SET AT THE START OF THIS THREAD, AND EVERY LEG OF IT
+> *"What I wouldn't call a credit crack: AVGO CDS ↑ NVDA CDS ↑ CCC spreads ↑ but IG/CDX/repo/
+> Treasuries remain calm. That's a repricing of particular risks."*
+
+| his condition | measured, 2026-08-24 | verdict |
+|---|---|---|
+| **AVGO CDS ↑** | **127.2bp**, all-time wide | ✓ |
+| **NVDA CDS ↑** | **86.8bp**, all-time wide | ✓ |
+| **CCC spreads ↑** | **CCC OAS 1,035bp — 98th pct · CCC−HY gap 760bp — 100th pct, CRITICAL** | ✓ |
+| **IG calm** | **IG OAS 82bp — 40th pct · BBB 100bp — 26th pct** | ✓ **CALM** |
+| **repo calm** | **SOFR−IORB −2bp · Fed repo ops accepted $0.0B** | ✓ **CALM** |
+| **Treasuries calm** | **MOVE 73.40 — 18th pct · 30Y 5.23% · dealers 0/5 lit** | ✓ **CALM** |
+⇒ **★★★★★★ ALL FOUR CONDITIONS HOLD SIMULTANEOUSLY. The vault can now say this with the instrument
+rather than by assertion, which is the whole reason the ladder was built.**
+
+#### DATA — THE FULL PANEL THE TWO-NAME CHART CANNOT SHOW (ICE, clearing 2026-08-24)
+| ticker | spread | Δ vs 8/21 clearing |
+|---|---|---|
+| **CRWV** | **817.3** ⚠️ **clears at HY convention — no 100bp contract exists** | **+14.7** |
+| ORCL | 226.3 | +2.7 |
+| TSLA | 132.2 | −0.5 |
+| **AVGO** | **127.2** | **+4.6** |
+| AMD | 100.3 | +6.6 |
+| META | 97.0 | +2.8 |
+| **NVDA** | **86.8** | **+1.3** |
+| INTC | 74.5 | +1.1 |
+| AMZN | 65.0 | +2.9 |
+| DELL | 64.0 | +0.2 |
+| GOOGL | 58.6 | +2.2 |
+| MSFT | 47.9 | +1.6 |
+| **MEDIAN** | **91.9** | **+2.3** |
+- **⭐ DISPERSION 17.3× (MSFT 47.9 → CRWV 817.3).**
+- **✅✅ THE VALIDATION: ICE-modelled AVGO 127.2 against the chart's 126.225 (Δ ~1bp) and NVDA 86.8
+  against 86.735 (Δ ~0.1bp), from two unrelated constructions.** ⇒ **`icc_cds.py`'s points-upfront →
+  par-spread conversion is confirmed against a commercial mark on a chart this vault did not produce.**
+  **The tool can be quoted.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE DISPERSION *IS* THE ARGUMENT, AND IT IS THE ONE THE CHART STRUCTURALLY CANNOT MAKE.**
+  **A systemic credit event compresses idiosyncratic differences by moving everything wider together.
+  17.3× dispersion is the opposite: MSFT at 47.9, GOOGL 58.6, DELL 64.0 and AMZN 65.0 are calm while
+  AVGO, ORCL and CRWV are not.** ⇒ **The market is DISCRIMINATING between balance sheets, not fleeing
+  the complex.** ⇒ **⛔ A two-name chart of the two names that moved is selection, not evidence — and
+  the names that moved are precisely the ones with specific balance-sheet stories: AVGO's SPV, ORCL's
+  debt load, CRWV's neocloud model.** *(Analysis.)*
+- **⭐⭐ AND THE FASTEST MOVER IS NOT ON THE CHART: CRWV +14.7bp IN ONE CLEARING SESSION, OFF 802.6,
+  AND IT IS THE ONLY NAME ICE CLEARS AT HIGH-YIELD CONVENTION — no 100bp contract exists for it.**
+  ⇒ **That is ICE's own classification, not an opinion, and it is the single most informative line in
+  the panel.** ⇒ **If stress propagates from the AI complex into credit, CRWV is where it shows first
+  and it is already 6.4× the panel median.** *(Analysis.)*
+- **⚠️ AND THE DISCIPLINE ON THE LADDER'S OWN HEADLINE, BECAUSE "3 STAGES LIT" READS WORSE THAN IT IS:
+  the lit stages are 1 → 3 → 7 with ZERO CORROBORATED.** ⇒ **Stage 1 is lit on CCC (2 of 3 series,
+  and the third — HY OAS at 275bp, 17th percentile — is CALM). Stage 3 is one series. Stage 7 is 1 of
+  8.** ⇒ **★★★ AND THE SEQUENCE IS THE POINT: stress is supposed to migrate DOWNWARD IN ORDER. 1 → 3
+  → 7 SKIPS 2, 4, 5 AND 6 ENTIRELY.** ⇒ **That is not a propagating chain; it is three unconnected
+  lights, and the four skipped stages are exactly the ones Jake's rule names as the discriminator.**
+  *(Analysis.)*
+- **⚠️ THE HONEST CAVEATS, STATED BEFORE ANYONE QUOTES THE TABLE: (1) MOST OF THE LADDER IS FLAGGED
+  STALE** — the weekday cron ran, but H.8, the OAS series and the dealer data are weekly/lagged by
+  construction. **(2) The CDS panel has TWO DAYS OF HISTORY. There is no percentile, no baseline, and
+  "all-time wide" is a claim about the CHART's history, not about anything this vault can verify.**
+  **(3) The spreads are MODELLED from points-upfront, not quoted — validated to ~1bp today, which is
+  the strongest statement available and is not the same as a dealer mark.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **CRWV IS THE TRIPWIRE, NOT AVGO OR NVDA.** **817.3bp, HY clearing convention, +14.7 in a
+   session, 6.4× the median.** ⇒ **Watch it daily; it is the name whose spread would confirm
+   propagation rather than repricing.**
+2. 🚩🚩 **THE FOUR CALM STAGES ARE THE POSITION.** **IG OAS · repo · MOVE · dealer absorption. If ANY
+   of those four lights, Jake's own rule flips from "repricing" to "crack" — and the vault should say
+   so on that day without being asked.**
+3. 🚩 **THE CDS PANEL NEEDS ~60 SESSIONS BEFORE IT CAN BE PERCENTILE-SCORED.** Two down. **Until then
+   it is levels and daily changes only, and must be reported as such.**
+**Links:** [[ai-financing-fragility]] · [[fragility-engine]] · [[financing-fragility-gauge]] · [[market-fragility]]
