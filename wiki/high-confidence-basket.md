@@ -1,0 +1,131 @@
+# High-confidence basket — the vault audited into ≤10 names
+
+## 2026-08-24 ~8:40pm PDT — ★★★★★★ **THE FULL-VAULT AUDIT, RANKED BY THE VAULT'S OWN EVIDENCE LADDER: 9 NAMES, AND THE TENTH SLOT IS DELIBERATELY EMPTY** — every candidate for it carries a disconfirmer this vault itself filed
+Source: Jake, 2026-08-24 — *"Audit the vault. Pull whatever else you need. Give me the highest
+confidence basket. ≤10 companies."* Audit base: **71 notes · 614 dated chain entries · 35 thread
+timelines**, plus fresh tape (Yahoo close arrays, 2026-08-24) and this week's measured additions
+(SOMA, ICE CDS, the gopher's primary-sourced returns).
+**Method: rank by CORROBORATION COUNT and ORIGIN INDEPENDENCE — measured beats reported beats
+announced — with the strongest disconfirmer ON FILE named per name. Rule 14 retired: this is the
+call. Sizing stays Jake's.**
+
+## THE BASKET (evidence rank order, not weight order)
+
+### Tier 1 — the physical tolls (measured, multiply corroborated)
+| # | name | vs 52w hi / 3mo | the call, one line |
+|---|---|---|---|
+| 1 | **TSM** | −14.1% / +1.4% | The model-agnostic toll: EVERY winner of the token war fabs here |
+| 2 | **MU** | −25.0% / +21.2% | Demand inelasticity now revealed from three independent sides |
+| 3 | **GEV** | −19.8% / −9.3% | Tier-A slot scarcity; the only most-advanced investable nuclear |
+| 4 | **ETN** | −11.2% / +4.4% | The vault's own named 0% gap; 15-year backlog, measured |
+
+### Tier 2 — the funding-side survivors and the toll under the tolls
+| # | name | vs 52w hi / 3mo | the call, one line |
+|---|---|---|---|
+| 5 | **MSFT** | −10.1% / +16.4% | One of only two positive fwd-FCF hyperscalers; tightest CDS on the panel (47.9bp) |
+| 6 | **NVDA** | −11.6% / −3.2% | Revenue = tokens GENERATED, not model dollars; DeepSeek's 28.3% token share works FOR it |
+| 7 | **GOOGL** | −13.6% / −9.1% | The other positive-FCF name; custom silicon; CDS 58.6bp calm |
+
+### Tier 3 — policy-guaranteed and the transfer trade
+| # | name | vs 52w hi / 3mo | the call, one line |
+|---|---|---|---|
+| 8 | **MP** | −41.8% / −10.9% | A 10-year $110/kg state price FLOOR that is about to stop being a subsidy |
+| 9 | **CRDO** | −26.4% / +1.9% | The interconnect leg of the Rubin-Ultra memory→interconnect transfer |
+| 10 | **— EMPTY —** | | **Deliberate. See exclusions: every candidate carries a vault-filed disconfirmer.** |
+
+## THE EVIDENCE, PER NAME — stat with n/window · strongest disconfirmer · ⬜ what's missing
+
+- **1. TSM.** **NT$416.98B → 442.68B → 467.58B monthly (May-Jul), +44.7% y/y, sequential +6.2%/+5.6%
+  — CONFIRMED-BY-COMPANY, a monthly primary series** (gopher, 8/24). Capex RAISED to $60-64B citing
+  "agentic AI." Taiwan risk measured 8/24 as **headline-not-operational: disruption NOT FOUND,
+  export-control change NOT FOUND.** The compression thesis makes it winner-agnostic: DeepSeek at
+  28.3% of Vercel tokens is fabbed here too. **Disconfirmer: the Taiwan tail is permanent and
+  unhedgeable inside the position; Huawei's ~$12B/750k-chip 2026 ramp is the share erosion at the
+  margin.** ⬜ **NVDA/TSM DC revenue denominators still not vault lines.**
+- **2. MU.** **Three independent origins now agree: (a) seller — Micron "booked solid through 2026,"
+  "tight beyond 2027" (8/11); (b) buyer of systems — NVDA passing >15% through rather than
+  de-contenting current parts (F3 fork resolved 8/22); (c) buyer of bandwidth — DeepSeek repricing
+  decode 4.71× vs prefill 3.14× (8/23).** TrendForce: HBM bits +50-60% y/y 2027, supply still short.
+  **Disconfirmer, the strongest in the basket: Rubin Ultra under evaluation at 192GB vs a 1TB roadmap
+  — the THIRD response, designing the input out. Bearish content-per-GPU; bits neutral only if the
+  4× unit offset ships.** +682% 1yr is banked; −25% off high is the market already pricing the fork.
+  ⬜ **End-September HBM contract print = the dated test; Rubin final config = the fork.**
+- **3. GEV.** **~116 GW gas backlog PLUS slot reservations (slots = the scarcity instrument);
+  the vault's only "most-advanced investable" listed nuclear; corroborated INDEPENDENTLY by Eaton's
+  307 GW / 15-yr backlog.** This week's regime finding cuts FOR it twice: coal contested from inside
+  the coalition + Trump pushing siting = **demand permitted, cheap supply denied — the scarcity
+  configuration at its strongest.** **Disconfirmer: map gap #19 — the vault has NEVER priced coal
+  retirement deferrals, the fastest source of dispatchable MW.** ⬜ **EIA-860M retirement schedule,
+  registered and unfetched.**
+- **4. ETN.** **US data-centre backlog 307 GW ≈ 15 YEARS of work; Electrical Americas DC revenue
+  +65% y/y, orders +85%; DC-related sales 21% of the business — all MEASURED (8/20).** The
+  allocation map's own critique: the book is "44.5% silicon, 4.5% power, **0% electrical equipment**"
+  — this is the named hole. Nearest to its high of the four Tier-1 names (−11.2%), which is the
+  market agreeing. **Disconfirmer: none filed — which itself means the vault has never stress-tested
+  it.** ⬜ **Valuation and cyclicality never analysed here; that is a gap, not a pass.**
+- **5. MSFT.** **BofA exhibit: hyperscaler fwd FCF ~$300B → ~$10-15B with MSFT + GOOGL THE ONLY
+  POSITIVE CONTRIBUTORS; tightest CDS on the 12-name ICE panel at 47.9bp (measured 8/24); owns the
+  orchestration/routing layer (MDASH) that the token-economics thread says captures the commodity
+  auction.** Subscription-rail migration (the degrading-instrument finding) favours the seat-owner.
+  **Disconfirmer: it is still a capex-burner in absolute terms; the FCF exhibit is REPORTED
+  (sell-side), not a filing.** ⬜ **Azure AI revenue split still undisclosed.**
+- **6. NVDA.** **The reframe this week made precise: NVDA's revenue is a function of TOKENS
+  GENERATED, not model-layer dollars — DeepSeek at 28.3% of tokens / 2.1% of dollars is the point,
+  not a threat. Plus the router exception (Perplexity: the one owner of a routing layer whose
+  neutrality survives, because it sits UNDER all 15 models) and the licence-and-hire POLICY (5+
+  instances).** CDS 86.8bp at all-time wide PASSES Jake's own repricing test (IG/repo/MOVE all calm,
+  measured 8/24). **Disconfirmer, measured from its own 10-Q: $42.3B of customer equity stakes,
+  $3.5B lease guarantees, "asked to offer financing arrangements" — the circular-capital engine is
+  real and on its balance sheet.** ⬜ **The funder ledger is still missing entries (Poolside found
+  late); cheque sizes undisclosed.**
+- **7. GOOGL.** **The other positive fwd-FCF contributor; CDS 58.6bp calm; custom silicon
+  (TPU + the MRVL warrant structure) = the one hyperscaler least exposed to NVDA pricing; equity —
+  not debt — as its relief valve (~$80B + up to $40B raised), which the financing-fragility gauge
+  filed as the HEALTHY channel.** **Disconfirmer: the equity channel dilutes; and the vault's
+  open-weight work says its Gemini-tier pricing is in the commodity auction's blast radius.**
+  ⬜ **TPU external-sale economics unknown.**
+- **8. MP.** **A 10-YEAR $110/kg NdPr floor from DoD — an administered PRICE FLOOR the vault held
+  for weeks before naming the instrument — with the domestic price at ~$104/kg: the floor is about
+  to stop being a subsidy, WHICH IS THE SCARCITY SIGNAL. Plus $400M state preferred + $150M loan,
+  inside a ~$40B policy pool (FT), and the week's regime finding: the program GUARANTEES margin
+  where the state wants capacity.** **Disconfirmer: ADMINISTRATION RISK — a floor set by one
+  administration is an instrument, not a contract, and 2029 is inside a 10-year floor. Plus
+  policy-funded competition: the four vault names hold under a tenth of the $40B pool.**
+  ⬜ **Award documents still not traced to primary agency notices — open since 8/22.**
+- **9. CRDO.** **The transfer trade: Rubin Ultra cuts memory per GPU while NVL576/Kyber joins 576
+  GPUs with copper + direct optical — capacity moving from the PACKAGE to the RACK moves value from
+  HBM to interconnect. CRDO is the copper-link pure play, already in the book, +92.9% over 1yr and
+  holding nearest its high of the interconnect names (relative strength = the market agreeing).**
+  **Disconfirmer, stated plainly: the NVL576 leg is ONE DAY OLD and rests on a roadmap that is
+  itself unconfirmed. This is the lowest-evidence slot in the basket and is ranked 9th for exactly
+  that reason.** ⬜ **NVL576 confirmation; CRDO content-per-rack.**
+
+## THE EXCLUSIONS — each on the vault's own filed finding
+- **CRWV/NBIS/IREN (neoclouds):** implied realised rate $0.79-1.81 vs $2.70 rack · CRWV CDS 817bp at
+  HY convention, +14.7 in a session · **active/contracted 40.5% → 35.7% and deteriorating (own
+  disclosure, 8/24).** The tripwire, not a holding.
+- **ORCL:** −$40B fwd FCF (the entire negative tail) · CDS 226bp, second-widest · **six NOT FOUNDs —
+  discloses no capacity metric at all while borrowing to build.**
+- **AVGO:** the $100B off-balance-sheet SPV IS the credit-stress story; CDS 127bp at all-time wide.
+  The thesis that its CDS widening is idiosyncratic is exactly why it is not a high-confidence LONG.
+- **VST/CEG (generation incumbents):** the vault's own 8/13 table: **VST −27.7% and CEG −14.6% OVER
+  ONE YEAR — "a pair that contradicts this vault's own power thesis at the equity layer."** The
+  equipment names (GEV/ETN) carry the evidence; the generators demonstrably have not.
+- **INTC:** in the book, and the state-equity thesis's core document — the stake's size, structure,
+  terms — **is not in the vault at all** (the largest unheld fact, flagged 8/23). Cannot be
+  "highest confidence" on a missing artifact.
+- **Refiners (VLO/MPC/PSX):** best-evidenced physically (8/13's #1) — but the forward curve prices
+  the crack down 25-34%, the equities sit on the 12-month strip not the front month, and the
+  political kill-switch ($2.50 target + DOJ pass-through probe) is live with no US political risk
+  ever priced in that thread. Right on the physics and still loseable.
+
+## ⬜ WHAT WOULD CHANGE THIS BASKET, DATED WHERE POSSIBLE
+1. **Sep-end HBM contract print** — grades MU's derived ~24%; **Rubin Ultra final config** — the MU fork.
+2. **EIA-860M coal retirements** — the GEV/ETN scarcity assumption's only unpriced relief valve.
+3. **First TreasuryDirect buyback result ≥ 9/9 and the weekly TGA path** — the liquidity regime under
+   ALL of it (reserve injection vs drain is currently NET NEGATIVE as announced).
+4. **Any of IG OAS / repo / MOVE / dealer stages lighting** — flips Jake's own rule from "repricing"
+   to "crack," and this basket de-risks that day, not after.
+5. **Nemotron share of Perplexity's mix** — the NVDA router-neutrality test.
+
+**Links:** [[ai-infra-allocation-map]] · [[portfolio-state]] · [[memory-regime-question]] · [[power-scarcity-equities]] · [[buildout-bottleneck-map]] · [[hyperscaler-credit]] · [[new-economy-regime]] · [[compression-thesis]]
