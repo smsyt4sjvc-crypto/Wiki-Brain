@@ -565,3 +565,5 @@ returns + revenue-share participation.
 4. 🚩🚩 **Quality-of-earnings series: equity marks as % of GAAP NI (13.1% first reading).**
 5. 🚩 **Update the XBRL ledger row (debt 8→33, stake book 73→94, A/R 63).**
 **Links:** [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[cepi]] · [[hyperscaler-credit]] · [[high-confidence-basket]] · [[forest]] · [[rates-board]]
+
+### Addendum 2026-08-26 ~4:30pm PDT — SOURCE ATTRIBUTION CONFIRMED (gopher appendix): reported figures/platform breakdown/DSO/cash flow/commitments = NVDA official release + CFO commentary + 10-Q ✓ · FY28 ~70%/supply-constraint/margin path/financing discussion = completed-call coverage ✓ · **AWS INDEPENDENTLY confirmed the +2M Blackwell Ultra/Rubin/Rubin Ultra GPUs for 2027-28** (rung upgrade on that line: two-party confirmation, buyer and seller). Gopher standing watch accepted per the Tier-1 brief pattern: corrected transcript monitored, ALERT ON MATERIAL DELTA ONLY.
