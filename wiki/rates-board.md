@@ -1317,3 +1317,31 @@ CCC 1,036) — an unrefreshed series, not an unchanged market.**
    the TIC series before it carries weight.
 4. 🚩 **Credit staleness: get Tuesday's ICE BofA close before repeating "spreads tight."**
 **Links:** [[balance-sheet-board]] · [[ai-financing-fragility]] · [[forest]] · [[oil-value-chain]] · [[transmission-chain]]
+
+### Addendum 2026-08-26 ~8:55am PDT — ⭐⭐⭐⭐ **THE PCE DETAIL REVERSES THE MORNING READ'S EMPHASIS: +0.2% MoM ANNUALIZES TO 2.43% — THE INCOMING PULSE IS NEAR TARGET; THE 3.3% CORE YoY IS CARRYING OLD BASE MONTHS. THE MARKET'S 2.3% BREAKEVENS AGREE WITH THE MoM, NOT THE YoY — that is the reconciliation of the scan's "inflation well above breakevens" puzzle** ⛔ **AND THE GAUGE STACK IS INVERTED: CORE PCE (3.3) ABOVE CORE CPI (2.5) BY 80bp — the NORMAL sign is CPI ~30bp ABOVE PCE. The heat is in PCE-scope components (healthcare, imputed financial services/portfolio-management fees — which scale with asset prices), NOT in the shelter-heavy CPI basket**
+Source: Jake, 8/26 morning — July PCE detail: headline +0.2 MoM/3.7 YoY · core +0.2 MoM/3.3 YoY ·
+**real consumer spending FLAT MoM** · July CPI 3.4/2.5 core · PPI 4.7.
+
+- **DATA/DERIVED:** +0.2% MoM → **2.43% annualized** (both headline and core). Core CPI−core PCE =
+  **−0.8pp, an inversion of the usual ~+0.3pp sign.** PPI−PCE wedge +1.0pp (pipeline). Real
+  spending flat + prices +0.2 ⇒ nominal spending ~+0.2% — the consumer is stalling in real terms.
+- **★★★★ THE WINDOW DISCIPLINE (error class 2, applied to a macro print): "3.3% core, far above
+  2%" is a YoY statement; the MoM run-rate is ~2.4%. Whether YoY converges down is pure BASE
+  ARITHMETIC — it depends on the H2-2025/H1-2026 months rolling off, computable from the series.**
+  ⬜ Base path not fetched — registered. **The belly selling off on the YoY headline while
+  breakevens sit at 2.3 = the market trading the pulse, the tape narrating the level.** *(Analysis.)*
+- **★★★★ THE INVERSION IS DIAGNOSTIC AND VAULT-CONSISTENT: PCE-over-CPI means the excess heat
+  lives in what PCE covers and CPI doesn't — employer healthcare, insurance, and IMPUTED
+  FINANCIAL-SERVICES/PORTFOLIO-MANAGEMENT FEES, which mechanically scale with the equity rally
+  itself.** The bull market feeding the Fed's preferred gauge is a reflexive loop worth naming;
+  and shelter-heavy CPI at 2.5 core says housing is NOT the problem. ⬜ Component decomposition
+  not fetched — the claim is a mechanism candidate, not a measurement. Ties the Hammack
+  data-centre-inflation thread (`ai-capex-cycle` 7/31) on the electricity margin. *(Analysis.)*
+- **★★★ REAL SPENDING FLAT is the quiet number: policy priced HIGHER-FOR-LONGER into the belly
+  this morning against a consumer flat in real terms — the [[consumption-vs-investment-crux]]
+  mix: investment (AI capex) is the demand; the consumer isn't.** *(Analysis.)*
+
+**📌 REGISTERED:** (1) 🚩🚩 the base-month path — compute which YoY prints mechanically fall as
+2025 months roll off; (2) 🚩🚩 July PCE component split: healthcare + financial-services
+contributions vs goods — settles the inversion mechanism; (3) 🚩 PPI 4.7 → PCE pass-through lag.
+**Links:** [[consumption-vs-investment-crux]] · [[new-economy-regime]] · [[forest]]

@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **630 dated entries · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 08:32 PDT**
+> **631 dated entries · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 08:43 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -659,3 +659,4 @@
 - `2026-08-25` **[5]** compression-thesis.md:L2697 — Addendum 2026-08-25 ~4:00pm PDT — 📊 **THE INFERENCEX CURVE ARRIVES AND IT CONFIRMS THE GOPHER'S CAVEAT VISIBLY: "2× BETTER" IS A POINT ON A CURVE (~20
 - `2026-08-25` **[5]** compression-thesis.md:L2720 — Addendum 2026-08-25 ~11:55pm PDT — ⭐⭐⭐⭐⭐ **THE FULL PORTABLE COMPUTER ARTICLE (VentureBeat/Nuñez, 6am) LANDS THE NUMBER THE TOKEN THREAD HAS WANTED AL
 - `2026-08-26` **[1]** rates-board.md:L1228 — 2026-08-26 ~8:35am PDT — DAILY OPENING SCAN #2 (8/26, 6:04-6:14am PT quotes) — ⭐⭐⭐⭐ **THE GENUINELY NEW SERIES IN TODAY'S SCAN IS THE ISSUANCE LADDER:
+- `2026-08-26` **[1]** rates-board.md:L1281 — Addendum 2026-08-26 ~8:55am PDT — ⭐⭐⭐⭐ **THE PCE DETAIL REVERSES THE MORNING READ'S EMPHASIS: +0.2% MoM ANNUALIZES TO 2.43% — THE INCOMING PULSE IS NE
