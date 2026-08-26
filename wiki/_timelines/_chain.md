@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **620 dated entries · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 18:23 PDT**
+> **621 dated entries · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 18:43 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -647,5 +647,6 @@
 - `2026-08-25` **[1]** rates-board.md:L1168 — 2026-08-25 ~2:10pm PDT — ✅✅ **THE BOND SCAN (8/25 close) ARRIVES AND CLOSES LAST NIGHT'S FLAG #1 EIGHTEEN HOURS AFTER REGISTRATION: AUCTION INTERNALS 
 - `2026-08-25` **[1]** rates-board.md:L1226 — Addendum 2026-08-25 ~2:35pm PDT — ✅ **RUNG UPGRADE: every block of the 8/25 scan now traces to a named primary, and the numbers came back IDENTICAL.**
 - `2026-08-25` **[2]** hyperscaler-credit.md:L496 — 2026-08-25 ~01:50 UTC (2026-08-24 ~6:50pm PDT) — ✅✅✅ **JAKE'S OWN TEST, RUN AGAINST THE INSTRUMENT INSTEAD OF ASSERTED — AND IT IS SATISFIED ON ALL FO
+- `2026-08-25` **[3]** balance-sheet-board.md:L136 — 2026-08-25 ~3:40pm PDT — ★★★★★ **JAKE SUPPLIES THE VIE MECHANICS THAT MAKE THIS BOARD'S "OFF-SHEET" COLUMN PRECISE — AND THE HISTORICAL RHYME IS THE F
 - `2026-08-25` **[5]** compression-thesis.md:L2589 — 2026-08-25 ~7:40am PDT — ⭐⭐⭐ **THE NEMOTRON-NEUTRALITY TEST REGISTERED 36 HOURS AGO TAKES ITS FIRST TICK, AND THE MECHANISM IS SHARPER THAN THE ONE I 
 - `2026-08-25` **[5]** compression-thesis.md:L2632 — 2026-08-25 ~3:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JALAPEÑO MEASURES, AND THE VAULT'S PRIOR ON IT WAS ONE LINE IN A BACKLOG: `ai-capex-cycle:L333` filed it in AVGO's $

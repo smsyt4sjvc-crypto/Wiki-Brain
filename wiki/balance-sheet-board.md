@@ -146,3 +146,53 @@ are designed as a pair. Full run output: `raw/sheets-ledger-run-2026-08-10.txt`.
 **Links:** [[cepi]] · [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[market-fragility]] ·
 [[memory-regime-question]] · [[compression-thesis]] · [[metered-compute]] · [[detachment-bid]] ·
 [[portfolio-state]] · [[thesis-radar]]
+
+## 2026-08-25 ~3:40pm PDT — ★★★★★ **JAKE SUPPLIES THE VIE MECHANICS THAT MAKE THIS BOARD'S "OFF-SHEET" COLUMN PRECISE — AND THE HISTORICAL RHYME IS THE FIBER OVERBUILD: VIE ABUSE PEAKED IN THE LATE '90s/EARLY '00s, THE RULES (FIN 46 → ASC 810) CAME *AFTER* THE BUST, AND THE STRUCTURES NOW IN USE ARE DESIGNED TO PASS THE TEST THAT ERA PRODUCED.** ⛔ **The two-prong primary-beneficiary test is not a constraint on these deals — it is their DESIGN SPEC**
+Source: Jake, 2026-08-25 (his framing, verbatim in substance): hyperscaler lease data centers are
+off-balance-sheet DURING CONSTRUCTION; hyperscaler + private credit form the SPV; it is a VIE because
+sole-tenancy gives the hyperscaler more exposure/influence than its minority equity suggests;
+consolidation falls on the "primary beneficiary" — (1) power to direct the most economically
+significant activities AND (2) obligation to absorb losses / right to receive benefits.
+**Cross-side per the routing rule: filed HERE (issuer side); [[ai-financing-fragility]] holds the
+funding side, where `:L4732` already used the SAME test on NVDA's "up to 25%": *"guarantee too much
+and you consolidate the vehicle."***
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE SHARPENING: THE TWO-PRONG TEST IS THE DESIGN SPEC, NOT THE CONSTRAINT.** A JV partner
+  (Blue Owl/BlackRock-class) holds operational "power" ON PAPER — prong (1) fails deliberately —
+  while sole-tenancy, lease commitments and residual guarantees deliver the ECONOMICS — prong (2)'s
+  substance without its accounting trigger. ⇒ **The vehicles are engineered to sit exactly one prong
+  short of consolidation, which is why this board's META row reads "debt 10→59; the buildout runs
+  OFF-sheet (Hyperion-class SPVs)" and why the aggregate CANNOT be measured from 10-Ks.**
+  *(Analysis.)*
+- **⭐⭐ THE PRECISION WORTH KEEPING: THE OFF-SHEET WINDOW IS *CONSTRUCTION* PLUS THE RESIDUALS.**
+  Post-ASC 842 the lease liability lands on the sheet at COMMENCEMENT — but it is the LEASE
+  liability, not the PROJECT debt: term < useful life, renewals and RVGs sit outside it. ⇒ **The
+  hyperscaler's sheet shows a rent obligation; the SPV carries the construction debt; and the GAP —
+  multi-year construction pipelines at today's build rates — is the unmeasured stock this board's
+  "off-sheet" column gestures at.** *(Analysis.)*
+- **★★★★★ THE HISTORICAL RHYME IS A PAIR, AND THE VAULT NOW HOLDS BOTH HALVES OF IT: the late-'90s
+  telecom buildout financed itself through (a) VIE/SPE lease structures — the hyperscaler analogue —
+  and (b) VENDOR FINANCING (Lucent/Nortel funding their own customers) — the NVDA analogue, already
+  measured at $42.3B of customer equity + $3.5B guarantees + "asked to offer financing
+  arrangements."** ⇒ **Both fiber-era financing channels are running simultaneously in the AI
+  buildout, at larger scale, under rules written to catch the LAST cycle's versions of them.**
+  ⇒ **And the sequencing lesson is the one Jake's framing implies: FIN 46 arrived in 2003 — the
+  rules follow the bust, they do not precede it.** *(Analysis. ⚠️ Rhyme, not identity: today's SPV
+  equity is real third-party capital at risk — Blue Owl's losses are Blue Owl's — where Enron's SPEs
+  were self-dealt. The abuse-of-form is analogous; the counterparty risk distribution is not.)*
+- **⭐ THE DATED, MECHANICAL TRIGGER THIS HANDS THE BOARD: A CONSOLIDATION EVENT.** If an auditor or
+  the SEC forces a primary-beneficiary re-determination on ONE major vehicle, tens of billions move
+  onto a hyperscaler sheet overnight — a falsifiable, headline-visible event, and the exact form the
+  post-Enron reckoning took. ⇒ **WATCH: SEC comment letters on VIE disclosure (EDGAR full-text
+  searchable) · auditor changes at SPV-heavy names · any 10-K restating segment VIE exposure.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **THE SHADOW SERIES: hyperscaler PURCHASE-OBLIGATION and lease-commitment FOOTNOTES,
+   quarterly, as the only 10-K-visible shadow of the SPV stack.** ⬜ Not built; EDGAR route exists.
+2. 🚩🚩 **SEC COMMENT LETTERS mentioning VIE + data center via EDGAR full-text.** ⬜ One search,
+   repeatable; a hit is an early consolidation-pressure tell.
+3. 🚩 **CONSTRUCTION-PHASE STOCK: any estimate of total DC construction-in-progress held in
+   unconsolidated vehicles.** ⬜ No source known; likely a sell-side or Semianalysis construct.
+**Links:** [[ai-financing-fragility]] · [[hyperscaler-credit]] · [[financing-fragility-gauge]] · [[new-economy-regime]]
