@@ -7,7 +7,7 @@ IF → THEN → INSTRUMENT, dated; **prune when resolved or aged out** (a resolv
 board, it does not linger) · holds the BASKETS with `vault_find` keywords so references pull in one
 command · short enough to read in one scroll; if it grows past that, prune before adding.
 
-**REFRESHED: 2026-08-25 ~8:15pm PDT**
+**REFRESHED: 2026-08-26 ~8:40am PDT**
 
 ## STATE
 **Two-speed market.** AI **periphery repriced as CREDIT** (CRWV 817bp · ORCL 226bp · SPCX ~170 ·
@@ -17,7 +17,11 @@ near highs on the same names. The off-sheet stack IG holds at 82bp grows **+32.6
 fired**; IG/repo/MOVE(74)/dealers calm. Warning-rich, trigger-empty ⇒ **base case = weary rotation**
 (slow, uncorroborated widening; free exit at 82bp; delivers the long-end bid — [[rates-board]]).
 **Crack requires fast + corroborated (≥2 stages together). Not present.** Oil: cracks structurally
-supported ([[oil-value-chain]]). Rates: Treasury, not the Fed, is the long-end policy arm.
+supported ([[oil-value-chain]]). Rates: Treasury, not the Fed, is the long-end policy arm. **NEW
+8/26: the AI complex is a SECOND sovereign-scale duration supplier — hyperscaler issuance ~$35B/yr
+(2020-24) → $93B (2025) → $132B in 7mo (2026); foreign buyers took more US corporates ($390B) than
+Treasuries ($329B) T12M ([[rates-board]] 8/26). Inflation hot (PCE 3.7/3.3), breakevens anchored
+~2.3 — the repricing lives in the BELLY (policy path), not the 30Y.**
 
 ## ⚡ BRANCHES — if X does Y (dated in · pruned when resolved)
 | in | IF | THEN | instrument |

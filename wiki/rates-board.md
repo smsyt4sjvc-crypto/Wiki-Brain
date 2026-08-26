@@ -1264,3 +1264,56 @@ registered, not yet pulled.**
 **Links:** [[new-economy-regime]] · [[hyperscaler-credit]] · [[market-fragility]] · [[fragility-engine]] · [[detachment-bid]]
 
 #### Addendum 2026-08-25 ~2:35pm PDT — ✅ **RUNG UPGRADE: every block of the 8/25 scan now traces to a named primary, and the numbers came back IDENTICAL.** Treasury's official curve (10Y 4.64 · 20Y 5.16 · 30Y 5.17 · 2Y −7bp) · Treasury real-yield curve (10Y real 2.32 vs 1.87 a year ago; 30Y 2.92 vs 2.60) · FRED breakevens (2.31/2.32) · ICE/BofA 8/24 close confirmed as the NEWEST AVAILABLE (validating the scan's own methodology note) · Fed 7/29 hold 9-3, three hike dissents · BLS CPI 3.4 / core 2.5 / PPI 4.7 · MTS fiscal rows ($1.799T deficit · $931.36B net interest) · Treasury Q3 $739B / Q4 $628B with the buyback-replacement language explicit. ✅ **CLOSES registered #1's residual: the $69B 2Y auction confirmed at 4.204%, 0.4bp through, 2.60×, 66.0% indirect — same figures to the decimal.** ⇒ **Zero corrections on verification. The scan format is now a primary-sourced instrument, and its rows enter the vault at IN-A-RELEASE rung rather than REPORTED.**
+
+## 2026-08-26 ~8:35am PDT — DAILY OPENING SCAN #2 (8/26, 6:04-6:14am PT quotes) — ⭐⭐⭐⭐ **THE GENUINELY NEW SERIES IN TODAY'S SCAN IS THE ISSUANCE LADDER: HYPERSCALER DEBT ~$35B/YR (2020-24 avg) → $93B (2025) → $132B IN SEVEN MONTHS (2026) — A SECOND SOVEREIGN-SCALE DURATION SUPPLIER — AND FOREIGN BUYERS TOOK MORE US CORPORATES ($390B) THAN TREASURIES ($329B) TRAILING 12 MONTHS** ⛔ **Hot data reverses Tuesday's rally: durables +1.1% vs +0.5%e, PCE 3.7%/core 3.3%; belly-led selloff (+2bp 3-7Y); 30Y 5.184 = LOW END of the month's 5.17-5.31 range even after the hot print** ✅ **First scan carrying the expanded Musk scope — the 8/25 request landed; SPV section reconciles to yesterday's entries line-for-line, no Level 3-6 event**
+Source: Jake's opening scan, 2026-08-26 (quotes ~9:04-9:14 ET; WSJ-verified 2Y 4.216/10Y 4.653;
+H.15 + 8/5 refunding statement cited). ⚠️ **CREDIT SECTION IS AUG-24 CLOSE DATA — Monday's close,
+two sessions stale on a Wednesday morning: the "spreads remain tight" read has not seen Tuesday's
+rally day or this morning. B-vs-CCC 751bp is the SAME print as yesterday's close scan (B 285 /
+CCC 1,036) — an unrefreshed series, not an unchanged market.**
+
+### DATA (per the scan)
+- **Prints:** July durables +1.1% vs +0.5%e (June rev +0.5) · July PCE 3.7% y/y, core 3.3%.
+- **Curve (open):** 2Y 4.216 (+1.2) · 5Y 4.371 (+2.2) · 7Y 4.496 (+2.1) · 10Y 4.654 (+1.5) ·
+  30Y 5.184 (+1.0). 2s10s +43.8; 5s30s 81.3 (−1.2 flatter). **Belly worst.** Reals (8/24): 2.09 /
+  2.38 / 2.97. Breakevens 2.31/2.32. EFFR 3.63 / SOFR 3.65. WTI 80.79 −1.9% / Brent 85.85 −1.6%.
+- **Quarterly anchors:** 6-12mo repricing is FRONT/BELLY-led: 2Y +79.6bp and 5Y +80.1bp over 6mo
+  vs 30Y +51.4bp — the scan reads it as policy-path + term premium, adopted.
+- **Auctions:** yesterday's $69B 2Y: 4.204 stop, ~0.4bp THROUGH, 2.60x, **indirects 66.0%** (the
+  8/25 close flag, confirmed), dealers 10.9%. **Today: $70B 5Y at 1:00 ET + 2Y FRN. Tomorrow $44B
+  7Y.** Coupon sizes hold "at least several quarters" (8/5 refunding).
+- **Issuance/flows (NEW SERIES):** IG issuance through July **$1.36T, +27% y/y**. **Hyperscaler
+  issuance: ~$35B/yr 2020-24 avg → $93B 2025 → ~$132B through 7/31/26.** Foreign net purchases
+  T12M: **US corporates ~$390B vs Treasuries ~$329B.**
+- **SPV ladder (Level 0-6 scale, adopted with yesterday's entries):** META L2 (Louisiana equity
+  2.37→2.92B +23.2% NEW; PB unchanged) · GOOGL L2 (guarantees 9.0→7.6, prospective 33.3→24.1 =
+  the pipeline-draining pattern) · MSFT L1 · AMZN L2 · ORCL L2 · **SpaceX/SpaceXAI L2 — "other
+  financings" 9.105→13.406B (+47%), total debt 38.433 + finance leases 1.079 = 39.512** ✓ matches
+  8/25 entry · Stateline drawn 339.7 (6/30) → 360.7 (July) · TSLA **L0/monitor** (Megapack H1
+  $405M). **No Level 3-6 event. Verdict: "fragility building, not breaking."**
+
+### THESIS (interpretation — NOT fact)
+- **★★★★ THE ISSUANCE LADDER IS THE FOREST-GRADE FACT: the AI complex has gone from a rounding
+  error to ~1/3 of a year's Treasury-coupon-scale corporate supply in 20 months, and the marginal
+  foreign dollar now prefers the corporate wrapper to the sovereign.** Two readings, both live:
+  (a) demand is absorbing it (the scan's contradiction holds); (b) the weary-rotation catalogue
+  gains a SUPPLY leg — IG holders are being asked to absorb sovereign-scale AI duration at 81bp
+  over, while the collateral behind it compounds 30-70%/qtr off-sheet. *(Analysis.)*
+- **★★★ The scan's own crack signature is adopted verbatim — "IG/BBB widening ALONGSIDE a Level
+  2→3 SPV escalation" — it is this board's fast+corroborated discriminator restated in the scan's
+  level language.** *(Analysis.)*
+- **⭐ 30Y at 5.184 after a 3.7% PCE print sits at the LOW end of the month's range — the long end
+  is being cushioned (oil −2%, buyback bid); the BELLY is where the policy-path repricing lives.
+  Consistent with Treasury-as-the-long-end-arm.** *(Analysis.)*
+- **⚠️ WPSR lands TODAY ~10:30 ET (the carried refiner test: utilisation/distillate/PADD-1) — the
+  scan does not carry it; oil −1.9% into the print.** *(Watch, not claim.)*
+
+### 📌 REGISTERED
+1. 🚩🚩🚩 **Today's 5Y (1:00 ET) and tomorrow's 7Y internals** — the carried item; the 2Y's 66.0%
+   indirects needs corroboration from the belly before it upgrades.
+2. 🚩🚩 **The hyperscaler-issuance series becomes a tracked line: $35B → $93B → $132B(7mo).**
+   Re-read quarterly; the crossover vs net Treasury coupon issuance is the milestone.
+3. 🚩🚩 **Foreign corporates-over-Treasuries preference ($390B vs $329B)** — one T12M print; needs
+   the TIC series before it carries weight.
+4. 🚩 **Credit staleness: get Tuesday's ICE BofA close before repeating "spreads tight."**
+**Links:** [[balance-sheet-board]] · [[ai-financing-fragility]] · [[forest]] · [[oil-value-chain]] · [[transmission-chain]]
