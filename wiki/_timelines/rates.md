@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **264 dated entries across 3 notes · 2026-06-30 → 2026-08-26 · refreshed 2026-08-26 08:49 PDT**
+> **265 dated entries across 3 notes · 2026-06-30 → 2026-08-26 · refreshed 2026-08-26 11:09 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -283,3 +283,4 @@
 - `2026-08-25` [rates-board.md:L1226](../rates-board.md) — Addendum 2026-08-25 ~2:35pm PDT — ✅ **RUNG UPGRADE: every block of the 8/25 scan now traces to a named primary, and the numbers came back IDENTICAL.**
 - `2026-08-26` [rates-board.md:L1228](../rates-board.md) — 2026-08-26 ~8:35am PDT — DAILY OPENING SCAN #2 (8/26, 6:04-6:14am PT quotes) — ⭐⭐⭐⭐ **THE GENUINELY NEW SERIES IN TODAY'S SCAN IS THE ISSUANCE LADDER:
 - `2026-08-26` [rates-board.md:L1281](../rates-board.md) — Addendum 2026-08-26 ~8:55am PDT — ⭐⭐⭐⭐ **THE PCE DETAIL REVERSES THE MORNING READ'S EMPHASIS: +0.2% MoM ANNUALIZES TO 2.43% — THE INCOMING PULSE IS NE
+- `2026-08-26` [rates-board.md:L1309](../rates-board.md) — 2026-08-26 ~11:15am PDT — WEEK TAPE (Mon→Wed 2pm ET, Jake's wrap) — ⭐⭐⭐⭐⭐ **THE 5Y WAS "MUCH LESS CONVINCING" WITH FOREIGN/INDIRECT BELOW AVERAGE — TH

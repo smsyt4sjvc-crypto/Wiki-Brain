@@ -1345,3 +1345,54 @@ Source: Jake, 8/26 morning — July PCE detail: headline +0.2 MoM/3.7 YoY · cor
 2025 months roll off; (2) 🚩🚩 July PCE component split: healthcare + financial-services
 contributions vs goods — settles the inversion mechanism; (3) 🚩 PPI 4.7 → PCE pass-through lag.
 **Links:** [[consumption-vs-investment-crux]] · [[new-economy-regime]] · [[forest]]
+
+## 2026-08-26 ~11:15am PDT — WEEK TAPE (Mon→Wed 2pm ET, Jake's wrap) — ⭐⭐⭐⭐⭐ **THE 5Y WAS "MUCH LESS CONVINCING" WITH FOREIGN/INDIRECT BELOW AVERAGE — THE FRONT-END-vs-DURATION SPLIT THE BOARD HAS BEEN WATCHING IS NOW A PATTERN: 2Y EXCELLENT (66.0% indirects) → 5Y MEDIOCRE → 7Y TOMORROW IS THE RUBBER MATCH** ⛔ **AND THE MORNING'S "HOT DURABLES" READ GETS ITS COMPOSITION CORRECTION: CORE CAPEX ORDERS DECELERATED HARD TO +0.2% — the +1.1% headline was not a business-investment signal; shipments strong = OLD orders installing, new-order momentum rolling** ⚡ **JAKE'S CONDITIONAL REGISTERED AS A FOREST BRANCH: weak 7Y (Thu) + NVDA capex/commitment step-up (tonight) = the Treasury/AI-capex duration-collision mechanism firing on schedule**
+Source: Jake's week wrap, 8/26 ~11am PT. **His source-hygiene catch adopted: the ZH PDF's "$70BN
+in 2Y paper" was the 5Y — Treasury's schedule confirms $70B 5Y today, $69B 2Y was Tuesday.**
+⚠️ ⬜ 5Y internals (stop, indirect %) NOT supplied — "less convincing / foreign-indirect below
+average" is the qualitative read; fetch the results before quoting numbers.
+
+### DATA (per the wrap)
+- **Growth soft:** consumer confidence, housing, CFNAI all softer. **Inflation sticky:** 3.7/3.3
+  — **SEPTEMBER HIKE odds RISING** (hike, not cut — the regime fact). **Core capex orders +0.2%
+  (hard deceleration) under the +1.1% durables headline; shipments strong.**
+- **Auctions:** 2Y excellent (Tue) → **5Y mediocre, foreign/indirect below average (Wed)** →
+  $44B 7Y Thursday. **Oil = the relief valve: Hormuz DIPLOMACY driving crude sharply lower**,
+  capping the rates selloff off the sticky print. *(War-board watch: diplomacy tick, no terms
+  supplied ⬜.)*
+- **Calendar:** NVDA + CRM + CRWD tonight · Thu: claims, goods trade, KC Fed, 7Y, Jackson Hole
+  opens, MRVL/WDAY/ADSK · **Fri: Chicago PMI, final Michigan, WARSH AT JACKSON HOLE ~10am ET** —
+  upgraded catalyst with hike odds rising.
+
+### THESIS (interpretation — NOT fact)
+- **★★★★ THE AUCTION PATTERN IS THE WEEK'S STRUCTURAL DATUM: demand is healthy where the policy
+  path lives (front end) and soft where the SUPPLY COLLISION lives (belly/duration) — exactly
+  where this morning's issuance ladder said the competition sits ($132B of hyperscaler paper in
+  7 months bidding for the same duration capital as $70B 5Y auctions).** One mediocre auction is
+  not a trend (the 66.0% discipline cuts both ways); **the 7Y is the corroboration test, ~24h
+  before it.** *(Analysis.)*
+- **★★★★ Jake's stagflation-at-the-margin read, graded against the boards: every leg is on file
+  — soft household activity (real spending flat, this morning) + sticky PCE (base-month caveat
+  held: the pulse is 2.4 annualized) + heavy AI investment (the ladder) + shaky duration demand
+  (today). The vault's one qualifier: the inflation leg is the weakest of the four — the MoM
+  run-rate argues the stickiness is a level artifact.** *(Analysis.)*
+- **★★★ NVDA tonight is a DUAL-BOARD event: the earnings question the tape is asking
+  (return-on-capex, not beat/miss) is [[cepi]]'s question; the commitment question (another
+  vendor-financing/backstop step-up on top of MS's $90B/$200B sizing) is this board's. The
+  registered NVDA data-centre-revenue vault line gets its print tonight.** *(Analysis.)*
+- **⭐ Oil as the valve is the crack-thesis inverse to hold honestly: Hormuz de-escalation is
+  BEARISH crude (war-premium bleed) while the refiner leg rides crack SPREADS, not flat price —
+  the β +0.405 / 140% down-day pass-through line says VLO keeps more of a down-tape than crude
+  does.** *(Analysis.)*
+
+### 📌 REGISTERED
+1. 🚩🚩🚩 **THE 7Y THURSDAY — the rubber match on duration demand.** Fetch internals (indirects
+   vs average) same day. Weak 7Y + NVDA step-up = the forest branch fires.
+2. 🚩🚩🚩 **5Y results page — convert "less convincing" to numbers** (stop vs WI, indirects).
+3. 🚩🚩 **NVDA tonight: (a) DC revenue line for the vault series; (b) any NEW
+   guarantee/backstop/financing commitment — the vendor-wing tripwire; (c) capex/purchase
+   commitments footnote direction.**
+4. 🚩🚩 **Warsh Friday 10am ET with hike odds rising** — the "Warsh has not moved yet" line from
+   the TGA entry meets its event.
+5. 🚩 **Hormuz diplomacy specifics** — what actually changed; war-board reconciliation. ⬜
+**Links:** [[forest]] · [[balance-sheet-board]] · [[cepi]] · [[oil-value-chain]] · [[war/war-board]] · [[transmission-chain]]

@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **634 dated entries · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 08:49 PDT**
+> **635 dated entries · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 11:09 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -660,6 +660,7 @@
 - `2026-08-25` **[5]** compression-thesis.md:L2720 — Addendum 2026-08-25 ~11:55pm PDT — ⭐⭐⭐⭐⭐ **THE FULL PORTABLE COMPUTER ARTICLE (VentureBeat/Nuñez, 6am) LANDS THE NUMBER THE TOKEN THREAD HAS WANTED AL
 - `2026-08-26` **[1]** rates-board.md:L1228 — 2026-08-26 ~8:35am PDT — DAILY OPENING SCAN #2 (8/26, 6:04-6:14am PT quotes) — ⭐⭐⭐⭐ **THE GENUINELY NEW SERIES IN TODAY'S SCAN IS THE ISSUANCE LADDER:
 - `2026-08-26` **[1]** rates-board.md:L1281 — Addendum 2026-08-26 ~8:55am PDT — ⭐⭐⭐⭐ **THE PCE DETAIL REVERSES THE MORNING READ'S EMPHASIS: +0.2% MoM ANNUALIZES TO 2.43% — THE INCOMING PULSE IS NE
+- `2026-08-26` **[1]** rates-board.md:L1309 — 2026-08-26 ~11:15am PDT — WEEK TAPE (Mon→Wed 2pm ET, Jake's wrap) — ⭐⭐⭐⭐⭐ **THE 5Y WAS "MUCH LESS CONVINCING" WITH FOREIGN/INDIRECT BELOW AVERAGE — TH
 - `2026-08-26` **[3]** balance-sheet-board.md:L448 — 2026-08-26 ~9:05am PDT — ⭐⭐⭐⭐⭐ **NVDA JOINS THE MONITOR AS THE SIXTH NAME — THE VENDOR WING: MORGAN STANLEY (via FT) SIZES "BALANCE-SHEET-AS-A-SERVICE
 - `2026-08-26` **[5]** memory-regime-question.md:L1327 — 2026-08-26 ~9:12am PDT — ⭐⭐⭐⭐ **SUSQUEHANNA (via DJ/Barron's, ANALYST rung): DRAM CONTRACT PRICES +>50% QoQ THIS QUARTER, NAND ~+60% — A PRE-PRINT COR
 - `2026-08-26` **[5]** compression-thesis.md:L2754 — 2026-08-26 ~9:10am PDT — ⭐⭐⭐ **EXPORT-CONTROL ENFORCEMENT GOES FROM HYPOTHETICAL TO INDICTMENT: TAIWAN PROSECUTORS CHARGE 9 — INCLUDING AN NVDA TAIWAN
