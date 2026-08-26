@@ -459,3 +459,25 @@ mechanisms are textbook ASC 842/810 and the vault must hold them either way.
    the design spec's fingerprint.
 4. 🚩 **Depreciation tailwind sizing:** ΔD&A from the life change, if disclosed — the EPS lever.
 **Links:** [[high-confidence-basket]] · [[cepi]] · [[ai-financing-fragility]] · [[forest]]
+
+## 2026-08-26 ~9:05am PDT — ⭐⭐⭐⭐⭐ **NVDA JOINS THE MONITOR AS THE SIXTH NAME — THE VENDOR WING: MORGAN STANLEY (via FT) SIZES "BALANCE-SHEET-AS-A-SERVICE" AT ~$90B PEAK CONTINGENT OBLIGATIONS AND ~$200B TOTAL CREDIT EXPOSURE BY 2028** ⛔ **This SIZES two standing vault lines that until now had no number: `ai-capex-cycle:L2827` ("telecom had vendor financing — Lucent/Nortel — but nothing on this scale") and `ai-financing-fragility:L390` stage (4) ("vendor financing — NVDA stakes = already live"). And it half-closes the ZH-exhibit registered fetch: the NVDA block is now sized; AVGO's remains open**
+Source: Jake's 8/26 holdings scan — FT/Morgan Stanley (ANALYST ESTIMATE rung, not a filing) +
+WSJ separately on NVDA "using its balance sheet to keep customers buying chips."
+- **DATA (as reported):** contingent obligations peak ~$90B; total credit exposure ~$200B by 2028;
+  instruments: guarantees, revenue-sharing, residual-value support, financing partnerships.
+- **★★★★ THE TELECOM RHYME NOW HAS ITS SCALE COMPARISON: Lucent's vendor-financing book at the
+  2000 peak was ~$8B and it was the bust's accelerant — customers defaulted into the downturn and
+  the vendor ate both the lost sale AND the credit loss. MS's $200B estimate is ~25x that,
+  nominal, concentrated in one vendor whose customers' own leverage this board measures weekly.**
+  ⇒ **Vendor financing is pro-cyclical BY CONSTRUCTION: it fires exactly when customers can't
+  fund purchases themselves — i.e., its growth RATE is itself a demand-quality signal.**
+  *(Analysis.)*
+- **★★★ Monitor placement: NVDA slots as the VENDOR wing beside the five hyperscalers (issuer
+  wing) and the Musk complex (reclassification proof case). Level scale: precursor-stage (L2
+  equivalent) — no consolidation/reclassification event; the instruments (RVGs, guarantees) are
+  the same taxonomy this board already tracks at ORCL/META/GOOGL.** Basket #6 disconfirmer
+  extended: Jalapeño + Rubin downgrade + now a sized credit-exposure estimate. *(Analysis.)*
+- **📌 REGISTERED:** (1) 🚩🚩🚩 the MS note itself / FT article — the $90B/$200B build-up by
+  instrument; (2) 🚩🚩 NVDA 10-Q commitments/guarantees footnote — convert ANALYST to IN-A-FILING;
+  (3) 🚩 AVGO block still unsized (carried).
+**Links:** [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[high-confidence-basket]] · [[forest]]

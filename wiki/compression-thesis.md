@@ -2843,3 +2843,14 @@ claimed); escalation math checks: (73.0−59.6)/(82.4−59.6) = 58.8% of the gap
   demurred, not ruled out) = the appliance tell; (c) the per-task escalation price ($0.415) as a
   series if Perplexity ever publishes routing mix.
 **Links:** [[metered-compute]] · [[data-sourcing-playbook]] · [[high-confidence-basket]]
+
+## 2026-08-26 ~9:10am PDT — ⭐⭐⭐ **EXPORT-CONTROL ENFORCEMENT GOES FROM HYPOTHETICAL TO INDICTMENT: TAIWAN PROSECUTORS CHARGE 9 — INCLUDING AN NVDA TAIWAN EMPLOYEE AND TWO SMCI EMPLOYEES — OVER 130 RESTRICTED B300 SERVERS; 74 DELIVERED TO CHINA, 56 INTERCEPTED** (Reuters/AP-confirmed, per the 8/26 holdings scan)
+- **DATA:** 130 B300 (Blackwell-gen) servers; **74 delivered (57%), 56 stopped**; routes via
+  China/Indonesia/Japan/HK; first enforcement case naming NVDA personnel.
+- **★★★ The leakage rate is the datum: even a CAUGHT operation landed 57% of units.** Diversion
+  is priced as friction, not as a wall — consistent with this note's standing read that China
+  compute access is a gradient. The enforcement response (tighter end-user verification,
+  documentation burden) is the tradeable margin: compliance cost for NVDA/TSM/AMD channel,
+  and a stronger case for the export-control hawks in the Nemotron/open-weights policy fight.
+  *(Analysis.)* **📌 Watch: whether BIS/Taiwan tighten end-user rules within the quarter.**
+**Links:** [[balance-sheet-board]] · [[metered-compute]]

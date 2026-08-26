@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **112 dated entries across 2 notes · 2026-07-16 → 2026-08-25 · refreshed 2026-08-26 08:43 PDT**
+> **114 dated entries across 2 notes · 2026-07-16 → 2026-08-26 · refreshed 2026-08-26 08:49 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -128,3 +128,5 @@
 - `2026-08-25` [compression-thesis.md:L2632](../compression-thesis.md) — 2026-08-25 ~3:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JALAPEÑO MEASURES, AND THE VAULT'S PRIOR ON IT WAS ONE LINE IN A BACKLOG: `ai-capex-cycle:L333` filed it in AVGO's $
 - `2026-08-25` [compression-thesis.md:L2697](../compression-thesis.md) — Addendum 2026-08-25 ~4:00pm PDT — 📊 **THE INFERENCEX CURVE ARRIVES AND IT CONFIRMS THE GOPHER'S CAVEAT VISIBLY: "2× BETTER" IS A POINT ON A CURVE (~20
 - `2026-08-25` [compression-thesis.md:L2720](../compression-thesis.md) — Addendum 2026-08-25 ~11:55pm PDT — ⭐⭐⭐⭐⭐ **THE FULL PORTABLE COMPUTER ARTICLE (VentureBeat/Nuñez, 6am) LANDS THE NUMBER THE TOKEN THREAD HAS WANTED AL
+- `2026-08-26` [compression-thesis.md:L2754](../compression-thesis.md) — 2026-08-26 ~9:10am PDT — ⭐⭐⭐ **EXPORT-CONTROL ENFORCEMENT GOES FROM HYPOTHETICAL TO INDICTMENT: TAIWAN PROSECUTORS CHARGE 9 — INCLUDING AN NVDA TAIWAN
+- `2026-08-26` [memory-regime-question.md:L1327](../memory-regime-question.md) — 2026-08-26 ~9:12am PDT — ⭐⭐⭐⭐ **SUSQUEHANNA (via DJ/Barron's, ANALYST rung): DRAM CONTRACT PRICES +>50% QoQ THIS QUARTER, NAND ~+60% — A PRE-PRINT COR

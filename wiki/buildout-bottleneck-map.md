@@ -1389,3 +1389,9 @@ investment cited as a flagship example.** ⚠️ **A newspaper review, not an ag
 2. 🚩🚩 **CARRIED UNCHANGED from `:L1331` — trace each award to its awarding agency notice.** **Six
    days, two outlets, still zero primary documents.**
 **Links:** [[power-not-petroleum]] · [[ai-capex-cycle]] · [[portfolio-state]]
+
+## 2026-08-26 ~9:14am PDT — ⭐⭐ **GEV × LS ELECTRIC: "GRID X TECHNOLOGY" VSC-HVDC JV (company-confirmed 8/26)** — South Korea next-gen grid/HVDC; joint solutions, core equipment, project execution; potential global expansion; **no transaction value disclosed**.
+- **★★ Another monetization route on the transmission bottleneck this map already ranks as
+  structural (transformer/HVDC scarcity). Incrementally positive GEV (basket #3); not a
+  near-term earnings event — an option on the bottleneck persisting.** *(Analysis.)*
+**Links:** [[power-not-petroleum]] · [[high-confidence-basket]]

@@ -47,7 +47,7 @@ Treasuries ($329B) T12M ([[rates-board]] 8/26). Inflation hot (PCE 3.7/3.3), bre
 3. **GEV** — power is the constraint · valuation stretch · `gas turbine, power queue, GEV`
 4. **ETN** — grid/electrification toll · same crowd · `Eaton, grid, electrification`
 5. **MSFT** — cleanest sheet, positive fwd FCF · **+67.4% lease accel; 15→25yr life claim would flatter FCF (⬜unverified)** · `MSFT uncommenced, clean sheet, useful life`
-6. **NVDA** — the incumbent toll · **Jalapeño/ASIC hit, Rubin Ultra downgrade** · `Jalapeño, InferenceX, Rubin Ultra`
+6. **NVDA** — the incumbent toll · **Jalapeño/ASIC hit, Rubin Ultra downgrade, MS-sized vendor-financing exposure ~$90B contingent/~$200B by '28 (analyst est., inside the vault's ≤$125B RVG envelope)** · `Jalapeño, Rubin Ultra, balance-sheet-as-a-service`
 7. **GOOGL** — funding-side survivor + distribution · **$811B obligations +144%/qtr** · `GOOGL obligations, backstops, SpaceX stake`
 8. **MP** — the state-equity magnet monopoly · policy dependence · `MP, rare earth, magnet, state equity`
 9. **CRDO** — networking toll on clusters · 1-day-old roadmap basis · `Credo, AEC, networking`

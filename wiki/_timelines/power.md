@@ -1,6 +1,6 @@
 # ⏱ POWER — merged timeline (the gate)
 
-> **60 dated entries across 3 notes · 2026-06-30 → 2026-08-24 · refreshed 2026-08-26 08:43 PDT**
+> **61 dated entries across 3 notes · 2026-06-30 → 2026-08-26 · refreshed 2026-08-26 08:49 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -79,3 +79,4 @@
 - `2026-08-23` [power-not-petroleum.md:L391](../power-not-petroleum.md) — 2026-08-23 ~9:00am PDT — 🕳️ **MAP GAP #19, OPENED NOT CLOSED: THIS VAULT HAS NEVER PRICED THE COAL OPTION — IN EITHER DIRECTION.** ⛔ **`grep -rn "coal
 - `2026-08-23` [power-not-petroleum.md:L439](../power-not-petroleum.md) — 2026-08-23 ~5:05pm PDT — ⚖️ **BOTH SIDES OF THE DATA-CENTRE PERMISSION FIGHT LANDED ON THE SAME DAY, AND THE VAULT SHOULD FILE THEM AS ONE OBJECT.** ★
 - `2026-08-24` [nuclear.md:L453](../nuclear.md) — 2026-08-24 ~7:15pm PDT — ★★★★★★ **THE $80B PROGRAM IS ARITHMETICALLY IMPOSSIBLE AT US CONSTRUCTION COSTS, AND THAT — NOT "capacity shortfall" — IS WHY
+- `2026-08-26` [buildout-bottleneck-map.md:L1340](../buildout-bottleneck-map.md) — 2026-08-26 ~9:14am PDT — ⭐⭐ **GEV × LS ELECTRIC: "GRID X TECHNOLOGY" VSC-HVDC JV (company-confirmed 8/26)** — South Korea next-gen grid/HVDC; joint so

@@ -1,6 +1,6 @@
 # ⏱ SHEETS — merged timeline (the gate)
 
-> **187 dated entries across 2 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-26 08:43 PDT**
+> **188 dated entries across 2 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 08:49 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -209,3 +209,4 @@
 - `2026-08-25` [balance-sheet-board.md:L251](../balance-sheet-board.md) — 2026-08-25 ~7:25pm PDT — ⛔⛔⛔ **MUSK ENTERS THE MONITOR, AND HE ENTERS AS THE PROOF CASE: SPACEX'S VALOR GPU/EQUIPMENT LEASES WERE RECLASSIFIED AS DEBT
 - `2026-08-25` [balance-sheet-board.md:L341](../balance-sheet-board.md) — Addendum 2026-08-25 ~7:40pm PDT — ⭐⭐⭐ **THREE HOURS AFTER THE 4:45pm SCAN, ZH HEADLINES THE SAME DATA: "OFF-BALANCE SHEET TIME BOMB INSIDE AI HITS $3.
 - `2026-08-25` [balance-sheet-board.md:L389](../balance-sheet-board.md) — 2026-08-25 ~11:40pm PDT — ⛔⛔⛔ **THE MSFT "CLEAN ONE" LABEL GETS ITS OPTICS LEVER: EXTENDING DATA-CENTER USEFUL LIVES 15→25 YEARS FLIPS THE NEW-LEASE P
+- `2026-08-26` [balance-sheet-board.md:L448](../balance-sheet-board.md) — 2026-08-26 ~9:05am PDT — ⭐⭐⭐⭐⭐ **NVDA JOINS THE MONITOR AS THE SIXTH NAME — THE VENDOR WING: MORGAN STANLEY (via FT) SIZES "BALANCE-SHEET-AS-A-SERVICE

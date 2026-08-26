@@ -1369,3 +1369,15 @@ four-die design abandoned = STRONGLY REPORTED, NOT NVDA-CONFIRMED · "Rubin Ultr
    substitution is the mechanism that decides whether this is bearish memory or merely a transfer
    inside the basket the book already owns.**
 **Links:** [[metered-compute]] · [[ai-capex-cycle]] · [[ai-infra-allocation-map]] · [[compression-thesis]] · [[buildout-bottleneck-map]]
+
+## 2026-08-26 ~9:12am PDT — ⭐⭐⭐⭐ **SUSQUEHANNA (via DJ/Barron's, ANALYST rung): DRAM CONTRACT PRICES +>50% QoQ THIS QUARTER, NAND ~+60% — A PRE-PRINT CORROBORATION OF THE REGISTERED SEP-END HBM CONTRACT WATCH** ⚠️ **WITH THE REALIZATION CAVEAT THE HEADLINE OMITS: MU's LTAs CAP the upside (price ceilings) while FLOORING the downside (take-or-pay) — realized ASP will LAG spot both ways**
+- **DATA (analyst estimate):** DRAM contract +>50% QoQ · NAND ~+60% · DRAM ≈ 3/4 of MU revenue ·
+  LTA structure: ceilings on spikes, take-or-pay/margin protection underneath.
+- **★★★ The asymmetry is the point: MU converted spot volatility into a collar. In a shortage
+  the collar costs upside; in the eventual glut it is the moat. The +50% contract estimate is
+  the strongest tick yet for the bandwidth/HBM-starves-conventional thesis (AI capacity
+  allocation starving DRAM/NAND supply), and the cost side lands on NVDA/DELL/system vendors —
+  the same margin wedge the Rubin-Ultra entry flagged.** *(Analysis.)*
+- **📌 Sep-end contract print (registered, carried) now has a specific analyst number to grade
+  against: >50% DRAM. Forest MU branch strengthened.**
+**Links:** [[compression-thesis]] · [[high-confidence-basket]] · [[forest]]

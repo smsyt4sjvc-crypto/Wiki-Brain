@@ -1,6 +1,6 @@
 # ⏱ TOKEN-ECON — merged timeline (the gate)
 
-> **155 dated entries across 3 notes · 2026-07-16 → 2026-08-25 · refreshed 2026-08-26 08:43 PDT**
+> **156 dated entries across 3 notes · 2026-07-16 → 2026-08-26 · refreshed 2026-08-26 08:49 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -171,3 +171,4 @@
 - `2026-08-25` [compression-thesis.md:L2697](../compression-thesis.md) — Addendum 2026-08-25 ~4:00pm PDT — 📊 **THE INFERENCEX CURVE ARRIVES AND IT CONFIRMS THE GOPHER'S CAVEAT VISIBLY: "2× BETTER" IS A POINT ON A CURVE (~20
 - `2026-08-25` [compression-thesis.md:L2720](../compression-thesis.md) — Addendum 2026-08-25 ~11:55pm PDT — ⭐⭐⭐⭐⭐ **THE FULL PORTABLE COMPUTER ARTICLE (VentureBeat/Nuñez, 6am) LANDS THE NUMBER THE TOKEN THREAD HAS WANTED AL
 - `2026-08-25` [metered-compute.md:L2975](../metered-compute.md) — 2026-08-25 ~10:50pm PDT — ★★★★★ **THE RAMP MODEL-MIX CHART (FT): THE ROUTING THESIS SHOWS UP IN THE #1 LAB'S OWN REVENUE MIX — AND THE CHART'S BIGGEST
+- `2026-08-26` [compression-thesis.md:L2754](../compression-thesis.md) — 2026-08-26 ~9:10am PDT — ⭐⭐⭐ **EXPORT-CONTROL ENFORCEMENT GOES FROM HYPOTHETICAL TO INDICTMENT: TAIWAN PROSECUTORS CHARGE 9 — INCLUDING AN NVDA TAIWAN
