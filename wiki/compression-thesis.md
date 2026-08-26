@@ -2809,3 +2809,37 @@ not SemiAnalysis's.
   (3) All-in power: VR200 3.3kW/chip vs Jalapeño 1.125kW — the tokens/MW win comes with ~3× more
   chips per MW, which shifts cost into packaging, boards, racks and networking — the AVGO/optics
   side of the same bill.** *(Analysis.)*
+
+### Addendum 2026-08-25 ~11:55pm PDT — ⭐⭐⭐⭐⭐ **THE FULL PORTABLE COMPUTER ARTICLE (VentureBeat/Nuñez, 6am) LANDS THE NUMBER THE TOKEN THREAD HAS WANTED ALL MONTH: THE ROUTING CURVE, PRICED PER TASK — LOCAL 59.6% AT ~$0 · +CLAUDE OPUS 5 ADVISOR 73.0% AT $0.415 · FRONTIER ALONE 82.4% AT $0.65 (Terminal Bench 2.1)** ⛔ **AND REGISTERED TEST #1 GETS ITS ANSWER: NEMOTRON IS *NOT* THE LAUNCH DEFAULT — launch models are Qwen 3.8 27B or Perplexity's own PPLX 27B; Nemotron 3.5 Lightning is "coming soon." The steering thesis takes a real counter-tick at the model layer while the HARDWARE lock-in confirms it (RTX-only, Apple silicon "conspicuously absent," Windows Sept)**
+Source: VentureBeat, Michael Nuñez, 8/25 6:00am PT (Jake paste ~11:50pm, "0 tokens"). ⚠️ **All
+benchmark figures are Perplexity's OWN evals** (Local Knowledge Work Bench to be open-sourced,
+claimed); escalation math checks: (73.0−59.6)/(82.4−59.6) = 58.8% of the gap recovered at
+0.415/0.65 = 63.8% of the cost — the article's "three-fifths at two-thirds" is arithmetically right.
+
+- **DATA adds over the 7:40am entry:** Perplexity evals — LKWB (53 tasks): Computer+Qwen 82.6% vs
+  Pi 77.6 / Hermes 74.0; PPLX 27B 85.4. BrowseComp 66.7 vs 50.2/43.9 **with 51% less wall time and
+  70% fewer tokens than Pi**; multimodal docs 65.1 vs 34.6/13.9. **Qwen's advertised 260k context
+  degrades past ~100k** → deliberately minimal harness: MCP connectors converted to compact CLI
+  tools, skills load/unload on demand, sandbox-or-refuse. **Advisor escalation: PII classifier on
+  outgoing context, user sees what leaves, remote model returns TEXT ONLY.** Scaling ladder:
+  2 Sparks = DeepSeek frontier-class · 4 = GLM 5.2/Nemotron Ultra · 8 observed. NVDA's own words:
+  **"insatiable demand for tokens… you were not metered by the token. It's really killer for
+  agents."**
+- **★★★★★ THE PRICED CURVE JOINS TONIGHT'S RAMP ENTRY AS THE SAME FINDING FROM THE OTHER END: the
+  mid-tier is squeezed between a $0 local floor and a frontier advisor that keeps pricing power.**
+  The escalation target is **Claude Opus 5** — the frontier survives as the 20% no local model can
+  do, exactly the barbell (`:L2121`); what local-first kills is the metered workhorse tier's
+  per-token bill, which is where the Ramp panel says the revenue core sits. *(Analysis.)*
+- **★★★★ THE HARNESS FINDINGS INDEPENDENTLY REPLICATE THE VAULT'S OWN TOKEN-PROFILE RESULT:
+  context is the cost — Perplexity rebuilt around retrieval WIDTH (compact tools, on-demand
+  skills, ~100k practical ceiling) exactly as rule 19's measurement said to.** Harness co-design
+  beats general harnesses by 5-30 points on their own evals. *(Analysis.)*
+- **⭐ Nemotron counter-tick, honestly graded: the product-architecture steering channel exists,
+  but at launch the zero-cost slot is filled by Qwen (Alibaba lineage) and PPLX — NVDA's model is
+  in the roadmap, not the default. The lock-in that DID ship is silicon: 24GB RTX floor, no Apple.
+  Watch #1 remains: what is the default when Nemotron arrives.** *(Analysis.)*
+- **📌 REGISTERED adds:** (a) the open-sourced LKWB when published — third-party replication of the
+  82.6/85.4 claims; (b) **Spark bundling** ("ship with Portable Computer preinstalled" — asked,
+  demurred, not ruled out) = the appliance tell; (c) the per-task escalation price ($0.415) as a
+  series if Perplexity ever publishes routing mix.
+**Links:** [[metered-compute]] · [[data-sourcing-playbook]] · [[high-confidence-basket]]

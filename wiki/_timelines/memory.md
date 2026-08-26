@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **111 dated entries across 2 notes · 2026-07-16 → 2026-08-25 · refreshed 2026-08-25 23:37 PDT**
+> **112 dated entries across 2 notes · 2026-07-16 → 2026-08-25 · refreshed 2026-08-26 07:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -127,3 +127,4 @@
 - `2026-08-25` [compression-thesis.md:L2589](../compression-thesis.md) — 2026-08-25 ~7:40am PDT — ⭐⭐⭐ **THE NEMOTRON-NEUTRALITY TEST REGISTERED 36 HOURS AGO TAKES ITS FIRST TICK, AND THE MECHANISM IS SHARPER THAN THE ONE I 
 - `2026-08-25` [compression-thesis.md:L2632](../compression-thesis.md) — 2026-08-25 ~3:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JALAPEÑO MEASURES, AND THE VAULT'S PRIOR ON IT WAS ONE LINE IN A BACKLOG: `ai-capex-cycle:L333` filed it in AVGO's $
 - `2026-08-25` [compression-thesis.md:L2697](../compression-thesis.md) — Addendum 2026-08-25 ~4:00pm PDT — 📊 **THE INFERENCEX CURVE ARRIVES AND IT CONFIRMS THE GOPHER'S CAVEAT VISIBLY: "2× BETTER" IS A POINT ON A CURVE (~20
+- `2026-08-25` [compression-thesis.md:L2720](../compression-thesis.md) — Addendum 2026-08-25 ~11:55pm PDT — ⭐⭐⭐⭐⭐ **THE FULL PORTABLE COMPUTER ARTICLE (VentureBeat/Nuñez, 6am) LANDS THE NUMBER THE TOKEN THREAD HAS WANTED AL

@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **628 dated entries · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 23:37 PDT**
+> **629 dated entries · 2026-05-22 → 2026-08-25 · refreshed 2026-08-26 07:42 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -657,3 +657,4 @@
 - `2026-08-25` **[5]** compression-thesis.md:L2589 — 2026-08-25 ~7:40am PDT — ⭐⭐⭐ **THE NEMOTRON-NEUTRALITY TEST REGISTERED 36 HOURS AGO TAKES ITS FIRST TICK, AND THE MECHANISM IS SHARPER THAN THE ONE I 
 - `2026-08-25` **[5]** compression-thesis.md:L2632 — 2026-08-25 ~3:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JALAPEÑO MEASURES, AND THE VAULT'S PRIOR ON IT WAS ONE LINE IN A BACKLOG: `ai-capex-cycle:L333` filed it in AVGO's $
 - `2026-08-25` **[5]** compression-thesis.md:L2697 — Addendum 2026-08-25 ~4:00pm PDT — 📊 **THE INFERENCEX CURVE ARRIVES AND IT CONFIRMS THE GOPHER'S CAVEAT VISIBLY: "2× BETTER" IS A POINT ON A CURVE (~20
+- `2026-08-25` **[5]** compression-thesis.md:L2720 — Addendum 2026-08-25 ~11:55pm PDT — ⭐⭐⭐⭐⭐ **THE FULL PORTABLE COMPUTER ARTICLE (VentureBeat/Nuñez, 6am) LANDS THE NUMBER THE TOKEN THREAD HAS WANTED AL
