@@ -30,8 +30,10 @@ implies 33.1%/qtr, matching the vault's measured +32.6% lease leg)** ([[balance-
 [[rates-board]] 8/26). **No trigger fired**; IG/repo/MOVE(73)/dealers calm — **but the 30Y is now
 an ADMINISTERED price (buybacks ≥$4B/op: 5.31→5.18 since Aug 17); read fragility off the BELLY.** Warning-rich, trigger-empty ⇒ **base case = weary rotation**
 (slow, uncorroborated widening; free exit at 82bp; delivers the long-end bid — [[rates-board]]).
-**Crack requires fast + corroborated (≥2 stages together). Not present.** Oil: cracks structurally
-supported ([[oil-value-chain]]). Rates: Treasury, not the Fed, is the long-end policy arm. **NEW
+**Crack requires fast + corroborated (≥2 stages together). Not present.** Oil: **the divergence is
+LIVE — WTI −6% since 8/21 (Hormuz diplomacy) while the 3-2-1 ran 59.6→~67 (+12%): all of Lukoil's
+major refineries offline (NORSI 8/26); the constraint is CONVERSION capacity, not crude
+([[oil-value-chain]] 8/26). Diesel $5.65 = kill-switch risk rising with the trade.** Rates: Treasury, not the Fed, is the long-end policy arm. **NEW
 8/26: the AI complex is a SECOND sovereign-scale duration supplier — hyperscaler issuance ~$35B/yr
 (2020-24) → $93B (2025) → $132B in 7mo (2026); foreign buyers took more US corporates ($390B) than
 Treasuries ($329B) T12M ([[rates-board]] 8/26). Inflation hot (PCE 3.7/3.3), breakevens anchored
@@ -68,7 +70,7 @@ Treasuries ($329B) T12M ([[rates-board]] 8/26). Inflation hot (PCE 3.7/3.3), bre
 7. **GOOGL** — funding-side survivor + distribution · **$811B obligations +144%/qtr** · `GOOGL obligations, backstops, SpaceX stake`
 8. **MP** — the state-equity magnet monopoly · policy dependence · `MP, rare earth, magnet, state equity`
 9. **CRDO** — networking toll on clusters · 1-day-old roadmap basis · `Credo, AEC, networking`
-10. **VLO** — cracks structurally supported · **political kill-switch (gasoline jawbone)** · `crack spread, 140%, distillate, WPSR`
+10. **VLO** — the divergence live: crack ~$67 while crude falls · **political kill-switch ARMING ($5.65 diesel headlines)** · `crack spread, 140%, NORSI, WPSR`
 
 ## 🔄 ROTATION BASKET (β for the weary-rotation branch — FIRST CUT 8/25, Jake to edit)
 - **Long-end duration (TLT-class)** — the rotation DELIVERS the long-end bid; Treasury buybacks

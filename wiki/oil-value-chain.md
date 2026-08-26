@@ -2215,3 +2215,49 @@ file. This is registered as a RISK CHANNEL, not as an event.**
    or not anything is ever filed.
 3. 🚩 **PRIMARY-SOURCE THE $2.50 TARGET AND THE DOJ PROBE.** ⬜ Neither held; both are Jake's report.
 **Links:** [[new-economy-regime]] · [[demand-destruction]] · [[portfolio-state]] · [[war/war-board]]
+
+## 2026-08-26 ~4:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE DIVERGENCE THE VAULT FALSIFIED FOR JULY IS NOW LIVE IN AUGUST, WITH ITS CAUSE ATTACHED: WTI 87.06 (8/21) → ~81.77 (−6%, Hormuz diplomacy) WHILE THE 3-2-1 CRACK RAN 59.64 → ~$66.7-67.1 (+12%) — CRUDE SUPPLY EASING AND PRODUCT CAPACITY BURNING AT THE SAME TIME** ⛔ **UKRAINE TOOK NORSI OFFLINE OVERNIGHT (Lukoil Kstovo, ~320-340kbd, Russia's #4 refinery / #2 gasoline producer, crude processing SUSPENDED per Reuters-sourced reports) — AND WITH VOLGOGRAD (down since 7/31) AND PERM (8/21), ALL OF LUKOIL'S MAJOR RUSSIAN REFINERIES ARE NOW OFFLINE: ~900kbd-class of REFINING capacity removed, zero crude production removed** ⭐ **The two war theaters now push the SAME spread from OPPOSITE sides: Hormuz de-escalation adds crude supply, the Russia campaign subtracts product supply — both widen cracks. This is the branch's thesis wearing its own headline**
+Source: ZH article + Jake's gopher verification, 8/26 (Reuters-sourced on the NORSI suspension;
+Ukraine General Staff confirmed strike; ⬜ no Kremlin confirmation, no repair timeline). **Gopher
+arithmetic INDEPENDENTLY VERIFIED: 3-2-1 = (2×3.221 + 4.166)×14 − 81.77 = $66.74 ✓; HO crack
+$93.2 vs quoted 91.78 (quote-vintage difference, same neighborhood).**
+
+### DATA
+- **NORSI/Kstovo: 15-17M t/yr ≈ 320-340kbd · ~5M t each gasoline + diesel annually · processing
+  SUSPENDED on unit/infrastructure damage.** Lukoil majors ALL down: Volgograd (7/31) · Perm
+  (8/21) · NORSI (8/26). Wildberries Kotovsk hub destroyed (2nd strike; July strike killed 7).
+  Zelensky doctrine, verbatim: "the cost of the war for the aggressor inevitably rises."
+- **US retail diesel $5.652/gal (EIA, 8/24) — +~20¢ IN ONE WEEK, ~+$2.00 y/y.** 3-2-1 ~$67.1
+  (+157% YTD, +88% y/y); gasoline crack ~$54.8; HO/diesel crack ~$91.8.
+- **⚠️ THE $102.20 ULSD-CRACK "ALL-TIME HIGH" (8/17) IS RE-ASSERTED BUT THE `:L1637` CONFLICT
+  STANDS UNRESOLVED** — this note's own 8/15 finding contradicted that print's benchmark; today's
+  citation does not settle which crack definition it is. Quote the ~$91.8 front-month HO crack;
+  hold $102.20 as contested.
+- **Movement track (3-2-1): 66.72 (8/14) → 59.64 (~8/21) → ~66.7-67.1 (8/26).**
+
+### THESIS (interpretation — NOT fact)
+- **★★★★★ THE SUPERSESSION TRAIL EARNS ITS KEEP (`:L88`): "record crack while flat crude fades"
+  was FALSIFIED for the July window (crude rose, crack fell). The mechanism was never wrong —
+  the WINDOW was. It required a product-side shock against a crude-side easing, and this week
+  supplied both at once: Hormuz diplomacy (crude −6%) + the Lukoil campaign (products).**
+  ⇒ Jake's original question — "Brent tanks, cracks jump, right?" — is now answering itself on
+  the tape: β(Δcrack/ΔWTI) −0.405 and the 140% down-day pass-through say the refiner keeps this
+  move, and the current window is the cleanest instance yet. *(Analysis.)*
+- **★★★★ RUSSIA'S REFINING CAMPAIGN IS STRUCTURALLY DISTILLATE-BEARISH-SUPPLY: Russia exports
+  diesel; every Lukoil bbl offline tightens the global distillate balance that already has US
+  retail at $5.65 heading INTO heating season.** The constraint has migrated from crude
+  availability to CONVERSION capacity — the exact reading this branch was built on. *(Analysis.)*
+- **⛔ AND THE VLO DISCONFIRMER STRENGTHENS WITH THE THESIS, hold both: "$5.65 diesel near
+  historic highs" headlines are precisely what arms the political kill-switch (the gasoline/
+  fuel-price jawbone, the administration's revealed price-intervention preference). The better
+  the crack trade prints, the closer the intervention risk.** Diesel is also a PPI/freight
+  cost-push wire into the inflation prints (PPI 4.7% already). *(Analysis.)*
+- **⭐ Cross-board: the Russia-NATO arc (war-board, today) and this campaign are one escalation
+  system — Ukraine's deep-strike tempo resumed hours after Ratcliffe left Moscow. The refining
+  campaign IS the escalation instrument.** *(Analysis.)*
+**📌 REGISTERED:** (1) 🚩🚩🚩 WPSR (TODAY, still unfetched — the carried refiner test:
+utilisation/distillate/PADD-1, now with the NORSI backdrop); (2) 🚩🚩 NORSI repair timeline +
+whether Lukoil majors restart (the campaign's persistence variable); (3) 🚩🚩 resolve the
+$102.20-vs-8/15 crack-definition conflict (`:L1637`) — it keeps getting cited; (4) 🚩 Russian
+product-export volumes (the transmission from strikes to global distillate).
+**Links:** [[war/war-board]] · [[demand-destruction]] · [[high-confidence-basket]] · [[rates-board]] · [[forest]]

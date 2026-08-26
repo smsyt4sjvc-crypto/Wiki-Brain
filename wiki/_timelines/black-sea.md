@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **175 dated entries across 2 notes · 2026-03-13 → 2026-08-23 · refreshed 2026-08-26 16:25 PDT**
+> **176 dated entries across 2 notes · 2026-03-13 → 2026-08-26 · refreshed 2026-08-26 16:33 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -197,3 +197,4 @@
 - `2026-08-23` [oil-value-chain.md:L1985](../oil-value-chain.md) — 2026-08-23 ~7:40am PDT — 🔧 **TOOL DEFECT FOUND AND FIXED: `librarian.py`'s MAGNITUDE-COLLISION CHECK WAS BLIND TO EVERY $/bbl FIGURE IN THIS VAULT** —
 - `2026-08-23` [oil-value-chain.md:L2008](../oil-value-chain.md) — 2026-08-23 ~8:05am PDT — ⛔⛔⛔ **JAKE: "AND YOU DO HAVE OUR FULL REFINERY BRANCH RIGHT? WE WENT OVER THIS EXTENSIVELY LAST WEEK." — HE IS RIGHT TO ASK. 
 - `2026-08-23` [oil-value-chain.md:L2113](../oil-value-chain.md) — 2026-08-23 ~11:15pm PDT — 🚩🚩🚩 **THE REFINER THESIS HAS THREE PHYSICAL DISCRIMINATORS AND ZERO POLITICAL ONES — AND A POLITICAL ONE IS NOW LIVE: A ~$2.
+- `2026-08-26` [oil-value-chain.md:L2164](../oil-value-chain.md) — 2026-08-26 ~4:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE DIVERGENCE THE VAULT FALSIFIED FOR JULY IS NOW LIVE IN AUGUST, WITH ITS CAUSE ATTACHED: WTI 87.06 (8/21) → ~81.7
