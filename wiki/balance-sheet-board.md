@@ -352,3 +352,51 @@ and MATCHES: AI capex 7,723 → 15,828, total 18,369 — the two sources agree t
 5. 🚩 **SPCX bond/CDS reaction window** — whether 5.855% WA holds as the Valor book compounds;
    the daily scans (now including SpaceX per Jake) carry this.
 **Links:** [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[hyperscaler-credit]] · [[transmission-chain]] · [[rates-board]] · [[cepi]]
+
+### Addendum 2026-08-25 ~7:40pm PDT — ⭐⭐⭐ **THREE HOURS AFTER THE 4:45pm SCAN, ZH HEADLINES THE SAME DATA: "OFF-BALANCE SHEET TIME BOMB INSIDE AI HITS $3.1 TRILLION: UP $1.3TN IN THREE MONTHS" — AND EVERY ROW OF ITS EXHIBIT THIS BOARD CAN READ RECONCILES TO THE SCAN TO THE BILLION** ⛔ **The vault's edge is no longer the FACT (it is now a headline); it is the reading frame — and "$3.1T" is a STOCK, a WARNING-state, not a trigger: "time bomb" smuggles a timing claim the exhibit does not contain**
+Source: Jake paste 7:25pm PT — zerohedge.com headline + partial Exhibit 1 screenshot ("Hyperscalers,
+NVDA, AVGO disclosed off-balance sheet commitments total more than $3.1tn, with more financing
+structures under development"). ⚠️ **⬜ ARTICLE NOT FETCHED — a truncated exhibit is a POINTER, not a
+source; the "Exhibit 1" formatting suggests ZH is reprinting a sell-side note (unidentified).**
+
+#### DATA — RECONCILIATION AGAINST THE 4:45pm SCAN (SEC-primary), $B
+- **GOOGL: ZH Leases 85 = scan 85.2 ✔ · Lease Backstops 44 = credit-derivative backstops 43.8 ✔ ·
+  Purchases 707 + DC Guarantee 36 + Investment 22 + Backstops 44 = 809 ≈ the scan's 811.0 total
+  purchase/contractual ✔ (ZH decomposes what the scan carried as one line).**
+- **META: ZH Leases 279 = scan 279.0 ✔ · El Paso Guarantee 13 = the scan's ~$13B max RVG ✔ ·
+  new decomposition: Contingent Purchase Commitments 36 · Future Lease Backstops 24 · Energy
+  Backstop 8.**
+- **The unnamed third block (Purchases 229 · Leases 329 · India AI Investment 48) IS MSFT: Leases
+  329 = the scan's 329.1 uncommenced at Jun-30, the +67.4% acceleration number.** ⚠️ **The
+  librarian's anchor flagged that 329 ALSO matches META's 7/29 uncommenced ($329.1B,
+  `ai-capex-cycle:L1876`) — a pure numeric coincidence across entities one quarter apart; the
+  entity check (META is already the 279 row) is what prevents the misattribution.** ⬜ "India AI
+  Investment $48B" is NOT in the scan — new line, unverified.
+- **AGGREGATE CHECK: scan aggregates (leases 1,090 + commitments ~1,498 = ~2,588) + guarantees/
+  backstops + the NVDA and AVGO blocks (not in the scan's five) plausibly reach >$3.1T; ZH's
+  "+$1.3T in three months" sits with the scan's computed deltas (leases +268, commitments ~+619,
+  plus the rest) and with the entry's stated growth legs: +32.6% lease / ~+70% commitment.** ✔
+
+#### THESIS (interpretation — NOT fact)
+- **★★★ SAME PRIMARIES, INDEPENDENT COMPUTATION, SAME ANSWER — the good kind of corroboration.**
+  The gopher scan and ZH's source both read the Q2 filings; agreeing to the billion on four
+  independent rows says the extraction is right, not that two independent theses exist. "N outlets,
+  one origin" — the origin is the filings, which is the origin you want. *(Analysis.)*
+- **★★★ THE PROPAGATION IS THE NEW INFORMATION, NOT THE NUMBER: the uncertainty inventory the
+  weary-rotation entry says IG is paid 81bp to underwrite just became a ZH headline.** The catalogue
+  is going mainstream while spreads sit at 82bp — the asymmetry argument's audience is arriving.
+  *(Analysis.)*
+- **⛔ AND THE FRAME TO KEEP: "time bomb" is a WARNING-state dressed as a trigger. The board's
+  taxonomy stands — (1) commencement is a certainty with an unknown date, (2) guarantee realization
+  is the vulnerability, (3) consolidation is the loud one that has NOT fired, (4) inception
+  reclassification (tonight's Valor entry) fires at signing. A $3.1T stock times NOTHING.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩 **FETCH THE ZH ARTICLE / UNDERLYING NOTE — the NVDA and AVGO blocks are the part the scan's
+   five-name frame lacks** (AVGO's $100B SPV is on file from the basket audit; NVDA's off-sheet
+   commitment stack is not), plus "more financing structures under development" and the MSFT
+   "India AI Investment $48B" line.
+2. 🚩 **Identify the exhibit's author** — if a bank note, its next edition becomes a free quarterly
+   cross-check on the gopher scan.
+**Links:** [[ai-financing-fragility]] · [[rates-board]] · [[high-confidence-basket]]

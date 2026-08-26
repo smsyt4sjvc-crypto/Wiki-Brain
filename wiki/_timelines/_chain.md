@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **624 dated entries · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 19:25 PDT**
+> **625 dated entries · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 19:35 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -650,6 +650,7 @@
 - `2026-08-25` **[3]** balance-sheet-board.md:L136 — 2026-08-25 ~3:40pm PDT — ★★★★★ **JAKE SUPPLIES THE VIE MECHANICS THAT MAKE THIS BOARD'S "OFF-SHEET" COLUMN PRECISE — AND THE HISTORICAL RHYME IS THE F
 - `2026-08-25` **[3]** balance-sheet-board.md:L186 — 2026-08-25 ~4:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE SPV/SHADOW-LEVERAGE SCAN (Q1→Q2, SEC-primary-sourced) IS THE BOARD'S BIGGEST UPDATE EVER, AND THE AGGREGATE THE 
 - `2026-08-25` **[3]** balance-sheet-board.md:L251 — 2026-08-25 ~7:25pm PDT — ⛔⛔⛔ **MUSK ENTERS THE MONITOR, AND HE ENTERS AS THE PROOF CASE: SPACEX'S VALOR GPU/EQUIPMENT LEASES WERE RECLASSIFIED AS DEBT
+- `2026-08-25` **[3]** balance-sheet-board.md:L341 — Addendum 2026-08-25 ~7:40pm PDT — ⭐⭐⭐ **THREE HOURS AFTER THE 4:45pm SCAN, ZH HEADLINES THE SAME DATA: "OFF-BALANCE SHEET TIME BOMB INSIDE AI HITS $3.
 - `2026-08-25` **[5]** compression-thesis.md:L2589 — 2026-08-25 ~7:40am PDT — ⭐⭐⭐ **THE NEMOTRON-NEUTRALITY TEST REGISTERED 36 HOURS AGO TAKES ITS FIRST TICK, AND THE MECHANISM IS SHARPER THAN THE ONE I 
 - `2026-08-25` **[5]** compression-thesis.md:L2632 — 2026-08-25 ~3:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JALAPEÑO MEASURES, AND THE VAULT'S PRIOR ON IT WAS ONE LINE IN A BACKLOG: `ai-capex-cycle:L333` filed it in AVGO's $
 - `2026-08-25` **[5]** compression-thesis.md:L2697 — Addendum 2026-08-25 ~4:00pm PDT — 📊 **THE INFERENCEX CURVE ARRIVES AND IT CONFIRMS THE GOPHER'S CAVEAT VISIBLY: "2× BETTER" IS A POINT ON A CURVE (~20

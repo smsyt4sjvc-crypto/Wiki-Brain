@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **231 dated entries across 6 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 19:25 PDT**
+> **232 dated entries across 6 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 19:35 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -250,6 +250,7 @@
 - `2026-08-25` [balance-sheet-board.md:L136](../balance-sheet-board.md) — 2026-08-25 ~3:40pm PDT — ★★★★★ **JAKE SUPPLIES THE VIE MECHANICS THAT MAKE THIS BOARD'S "OFF-SHEET" COLUMN PRECISE — AND THE HISTORICAL RHYME IS THE F
 - `2026-08-25` [balance-sheet-board.md:L186](../balance-sheet-board.md) — 2026-08-25 ~4:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE SPV/SHADOW-LEVERAGE SCAN (Q1→Q2, SEC-primary-sourced) IS THE BOARD'S BIGGEST UPDATE EVER, AND THE AGGREGATE THE 
 - `2026-08-25` [balance-sheet-board.md:L251](../balance-sheet-board.md) — 2026-08-25 ~7:25pm PDT — ⛔⛔⛔ **MUSK ENTERS THE MONITOR, AND HE ENTERS AS THE PROOF CASE: SPACEX'S VALOR GPU/EQUIPMENT LEASES WERE RECLASSIFIED AS DEBT
+- `2026-08-25` [balance-sheet-board.md:L341](../balance-sheet-board.md) — Addendum 2026-08-25 ~7:40pm PDT — ⭐⭐⭐ **THREE HOURS AFTER THE 4:45pm SCAN, ZH HEADLINES THE SAME DATA: "OFF-BALANCE SHEET TIME BOMB INSIDE AI HITS $3.
 - `2026-08-25` [hyperscaler-credit.md:L496](../hyperscaler-credit.md) — 2026-08-25 ~01:50 UTC (2026-08-24 ~6:50pm PDT) — ✅✅✅ **JAKE'S OWN TEST, RUN AGAINST THE INSTRUMENT INSTEAD OF ASSERTED — AND IT IS SATISFIED ON ALL FO
 - `2026-08-25` [rates-board.md:L1168](../rates-board.md) — 2026-08-25 ~2:10pm PDT — ✅✅ **THE BOND SCAN (8/25 close) ARRIVES AND CLOSES LAST NIGHT'S FLAG #1 EIGHTEEN HOURS AFTER REGISTRATION: AUCTION INTERNALS 
 - `2026-08-25` [rates-board.md:L1226](../rates-board.md) — Addendum 2026-08-25 ~2:35pm PDT — ✅ **RUNG UPGRADE: every block of the 8/25 scan now traces to a named primary, and the numbers came back IDENTICAL.**
