@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **241 dated entries across 6 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 15:45 PDT**
+> **243 dated entries across 6 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 16:25 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -256,8 +256,10 @@
 - `2026-08-25` [hyperscaler-credit.md:L496](../hyperscaler-credit.md) — 2026-08-25 ~01:50 UTC (2026-08-24 ~6:50pm PDT) — ✅✅✅ **JAKE'S OWN TEST, RUN AGAINST THE INSTRUMENT INSTEAD OF ASSERTED — AND IT IS SATISFIED ON ALL FO
 - `2026-08-25` [rates-board.md:L1168](../rates-board.md) — 2026-08-25 ~2:10pm PDT — ✅✅ **THE BOND SCAN (8/25 close) ARRIVES AND CLOSES LAST NIGHT'S FLAG #1 EIGHTEEN HOURS AFTER REGISTRATION: AUCTION INTERNALS 
 - `2026-08-25` [rates-board.md:L1226](../rates-board.md) — Addendum 2026-08-25 ~2:35pm PDT — ✅ **RUNG UPGRADE: every block of the 8/25 scan now traces to a named primary, and the numbers came back IDENTICAL.**
+- `2026-08-26` [ai-financing-fragility.md:L7295](../ai-financing-fragility.md) — 2026-08-26 ~4:20pm PDT — ⭐⭐⭐⭐⭐ **ANTHROPIC × NSCALE WEST VIRGINIA: $45B / 6 YEARS FOR 460MW OF VERA RUBIN — AND THE ARITHMETIC MAKES IT A FINANCING ST
 - `2026-08-26` [balance-sheet-board.md:L448](../balance-sheet-board.md) — 2026-08-26 ~9:05am PDT — ⭐⭐⭐⭐⭐ **NVDA JOINS THE MONITOR AS THE SIXTH NAME — THE VENDOR WING: MORGAN STANLEY (via FT) SIZES "BALANCE-SHEET-AS-A-SERVICE
 - `2026-08-26` [balance-sheet-board.md:L470](../balance-sheet-board.md) — 2026-08-26 ~3:45pm PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 10-Q: THE VENDOR WING CONVERTS FROM ANALYST ESTIMATE TO IN-A-FILING IN ONE DAY — MAX GUARANTEES $108
+- `2026-08-26` [balance-sheet-board.md:L549](../balance-sheet-board.md) — Addendum 2026-08-26 ~4:30pm PDT — SOURCE ATTRIBUTION CONFIRMED (gopher appendix): reported figures/platform breakdown/DSO/cash flow/commitments = NVDA
 - `2026-08-26` [rates-board.md:L1228](../rates-board.md) — 2026-08-26 ~8:35am PDT — DAILY OPENING SCAN #2 (8/26, 6:04-6:14am PT quotes) — ⭐⭐⭐⭐ **THE GENUINELY NEW SERIES IN TODAY'S SCAN IS THE ISSUANCE LADDER:
 - `2026-08-26` [rates-board.md:L1281](../rates-board.md) — Addendum 2026-08-26 ~8:55am PDT — ⭐⭐⭐⭐ **THE PCE DETAIL REVERSES THE MORNING READ'S EMPHASIS: +0.2% MoM ANNUALIZES TO 2.43% — THE INCOMING PULSE IS NE
 - `2026-08-26` [rates-board.md:L1309](../rates-board.md) — 2026-08-26 ~11:15am PDT — WEEK TAPE (Mon→Wed 2pm ET, Jake's wrap) — ⭐⭐⭐⭐⭐ **THE 5Y WAS "MUCH LESS CONVINCING" WITH FOREIGN/INDIRECT BELOW AVERAGE — TH

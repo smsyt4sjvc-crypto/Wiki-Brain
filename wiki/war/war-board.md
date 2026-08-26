@@ -3634,3 +3634,67 @@ verification chains. That convergence upgrades BOTH sources.**
   (`:L2210`) is open-confrontation events; nothing here crosses it. **The set's true escalation
   potential = P(one of these CAMPAIGNS produces a tripwire event), and the ADNOC and Yanbu campaigns
   are the two generators running.**
+
+## 2026-08-26 ~4:30pm PDT — ⛔⛔⛔ **NEW FRONT ON THIS BOARD: THE RUSSIA→NATO ESCALATION ARC (Jul 30 → Aug 26), AND IT ARRIVES ALREADY AT THE BACKCHANNEL-OF-LAST-RESORT STAGE — CIA DIRECTOR RATCLIFFE FLEW UNANNOUNCED TO MOSCOW (~8hrs on the ground, met Russian intelligence, NOT Putin), WSJ: THE MESSAGE WAS A WARNING NOT TO ATTACK NATO** ⭐⭐⭐⭐⭐ **THE COSTLIEST SIGNAL IN THE RECONSTRUCTION IS BEHAVIORAL, NOT VERBAL: WASHINGTON ASKED UKRAINE TO PAUSE STRIKES ON MOSCOW/ST. PETERSBURG WHILE HE WAS THERE — AND KYIV COMPLIED. Nobody spends that on a "semi-routine" visit** ⚠️ **The vault had NOTHING on any of this — Poland Kh-101 (7/30), Leipzig (8/5), the U.S. intel shift (8/7), the NAC meeting (8/12), Neptun Deep (8/20) — a month-long arc filed in one paste**
+Source: Jake's reconstructed timeline, 8/26 (gopher-grade sourcing: CBS 8/7 intel shift; WSJ 8/26
+mission leak; Reuters/Kremlin confirmations; self-corrects the ground-time 4hr→~8-8.5hr).
+**Its evidence discipline is adopted wholesale:** the intel shift was public 8/7, BEFORE the 8/18
+UK "consequences" threat (sequence right); the 8/6 "new tactics" remark's stated context was
+UKRAINE, not NATO (not over-read); Moldova object origin UNESTABLISHED at report time.
+
+### DATA (per the reconstruction; each item carries its date)
+- **7/30** Kh-101 into Poland, crashed; NATO scrambled; Tusk: no evidence of deliberate targeting.
+- **8/5** Leipzig/Halle: explosive drone beside Ukrainian cargo aircraft; German interior
+  minister: "hybrid attack"; U.S. intel later links to Russia; more devices found.
+- **8/7** CBS: U.S. assessments conclude PUTIN'S RISK CALCULUS CHANGED — more willing to
+  authorize deniable actions ONTO NATO territory (cyber/hybrid/short-of-war).
+- **8/12** North Atlantic Council formally meets (Poland/Romania violations); NATO: Russia bears
+  responsibility, shows "increasing tolerance for risk."
+- **8/18** Russian embassy threatens UK with unspecified "consequences" (British drones used in
+  Russia) · Moldova airspace object explodes near border (origin unestablished).
+- **8/20** Romania F-16s destroy a maritime drone a few hundred meters from NEPTUN DEEP (Black
+  Sea gas); Ukraine denies ownership; Romanian president blames Russia; von der Leyen:
+  "escalating campaign of threats."
+- **8/25** Ratcliffe → Moscow (C-17 via Riga, ~8hrs); U.S. asks Ukraine to pause Moscow/StP
+  strikes — complied; met Russian intelligence; Putin briefed after (Peskov). **Hours after
+  departure: Ukraine resumes deep strikes (10+ drones at Moscow).**
+- **8/26** WSJ (people briefed): the mission was a warning against attacking NATO, tied to the
+  new assessments that Putin may TEST NATO with a limited, deliberately ambiguous assault.
+  **Trump publicly disputes: "semi-routine," "none of the above," frames it as war-ending
+  diplomacy.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★★★ RANKED BY THE BOARD'S OWN 8/25 METHOD (campaigns over incidents): this is a CAMPAIGN
+  — six-plus incidents across four countries, a formal NAC finding, and an intelligence-assessed
+  doctrine shift — and its escalation ceiling is ARTICLE-5 AMBIGUITY, which places it ABOVE
+  everything on the Hormuz ledger this week.** The two war premiums are ROTATING: Hormuz
+  diplomacy is bleeding crude's premium out (this week's oil slide) while the NATO/Russia
+  premium builds UNPRICED — no European gas/defense repricing filed yet. *(Analysis.)*
+- **★★★★ THE BURNS PARALLEL, held with its base-rate honesty: Nov-2021, CIA director flies to
+  Moscow to warn — invasion follows in ~3 months. n=1; deterrence-by-director failed once. What
+  the instrument CHOICE says regardless: you spend the CIA director when assessed probability
+  is high enough that a public warning would either panic markets or box the adversary — the
+  backchannel IS the assessment made visible.** The Ukraine-pause request is the corroborating
+  costly signal. *(Analysis.)*
+- **★★★ ERROR CLASS 8 ON THE DUELING NARRATIVES: the administration gains from "semi-routine"
+  (calm markets, intact peace-deal narrative); WSJ's briefed sources gain from the warning
+  being public (deterrence broadcast, or constraining the principal). The FLIGHT, the pause
+  request, and the resumed strikes hours after departure are the facts that don't argue.**
+  *(Analysis.)*
+- **★★ CHAIN TRANSMISSION (rule 18b): a NATO-test event is a stage-1 shock (Treasuries bid,
+  risk-off) + European gas (Neptun Deep was CRITICAL-INFRASTRUCTURE targeting — TTF is the
+  price), defense complex, and the four calm stages stress-tested at once — from a direction
+  none of the AI-fragility gauges watch.** *(Analysis.)*
+
+### 📌 REGISTERED (dated, falsifiable — WARNING-vs-TRIGGER discipline)
+1. 🚩🚩🚩 **The trigger class: an actual deniable/limited action ON NATO soil** (cyber takedown,
+   infrastructure hit, small incursion) — vs the current state of near-misses. Neptun-class
+   incident #2 upgrades the campaign; a HIT fires it.
+2. 🚩🚩🚩 **US/NATO force-posture changes on the eastern flank** — the behavioral tell that the
+   warning failed.
+3. 🚩🚩 **TTF/European gas + defense-complex pricing** — is the premium building or still
+   unpriced? ⬜ No European gas level on file this week.
+4. 🚩🚩 **The narrative resolution: does the administration confirm the WSJ account** (or a
+   second outlet corroborate from separate sourcing — "N outlets, one origin" check applies).
+5. 🚩 **Moldova object origin; Leipzig attribution finalization.**
+**Links:** [[war/war-rhetoric]] · [[oil-value-chain]] · [[rates-board]] · [[transmission-chain]] · [[forest]]

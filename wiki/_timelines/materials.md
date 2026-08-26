@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **121 dated entries across 3 notes · 2026-07-09 → 2026-08-26 · refreshed 2026-08-26 15:45 PDT**
+> **122 dated entries across 3 notes · 2026-07-09 → 2026-08-26 · refreshed 2026-08-26 16:25 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -137,3 +137,4 @@
 - `2026-08-24` [war-board.md:L3513](../war/war-board.md) — Addendum 2026-08-24 ~10:55pm PDT — ⚖️ **JAKE COMMISSIONED THE RANKING ON *ESCALATION POTENTIAL*. Taking it on those terms, the board AGREES ON #1 AND 
 - `2026-08-26` [buildout-bottleneck-map.md:L1340](../buildout-bottleneck-map.md) — 2026-08-26 ~9:14am PDT — ⭐⭐ **GEV × LS ELECTRIC: "GRID X TECHNOLOGY" VSC-HVDC JV (company-confirmed 8/26)** — South Korea next-gen grid/HVDC; joint so
 - `2026-08-26` [buildout-bottleneck-map.md:L1346](../buildout-bottleneck-map.md) — 2026-08-26 ~1:15pm PDT — ⚡⚡⚡ **EO 14420 (PRIMARY, signed today): IEEPA NATIONAL EMERGENCY ON THE BULK-POWER SYSTEM — A LEGAL WALL ON TOP OF THE PHYSIC
+- `2026-08-26` [war-board.md:L3545](../war/war-board.md) — 2026-08-26 ~4:30pm PDT — ⛔⛔⛔ **NEW FRONT ON THIS BOARD: THE RUSSIA→NATO ESCALATION ARC (Jul 30 → Aug 26), AND IT ARRIVES ALREADY AT THE BACKCHANNEL-OF

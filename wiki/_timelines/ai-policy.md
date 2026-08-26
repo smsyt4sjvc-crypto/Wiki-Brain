@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **428 dated entries across 4 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 15:45 PDT**
+> **429 dated entries across 4 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 16:25 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -449,4 +449,5 @@
 - `2026-08-25` [compression-thesis.md:L2720](../compression-thesis.md) — Addendum 2026-08-25 ~11:55pm PDT — ⭐⭐⭐⭐⭐ **THE FULL PORTABLE COMPUTER ARTICLE (VentureBeat/Nuñez, 6am) LANDS THE NUMBER THE TOKEN THREAD HAS WANTED AL
 - `2026-08-25` [metered-compute.md:L2975](../metered-compute.md) — 2026-08-25 ~10:50pm PDT — ★★★★★ **THE RAMP MODEL-MIX CHART (FT): THE ROUTING THESIS SHOWS UP IN THE #1 LAB'S OWN REVENUE MIX — AND THE CHART'S BIGGEST
 - `2026-08-26` [ai-capex-cycle.md:L3422](../ai-capex-cycle.md) — 2026-08-26 ~3:55pm PDT — ⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 — THE DEMAND HALF: $96.2B (+4.3% beat, +106% y/y) · DC $89.0B · Q3 GUIDE $108B (+3.7% over street) · AN
+- `2026-08-26` [ai-financing-fragility.md:L7295](../ai-financing-fragility.md) — 2026-08-26 ~4:20pm PDT — ⭐⭐⭐⭐⭐ **ANTHROPIC × NSCALE WEST VIRGINIA: $45B / 6 YEARS FOR 460MW OF VERA RUBIN — AND THE ARITHMETIC MAKES IT A FINANCING ST
 - `2026-08-26` [compression-thesis.md:L2754](../compression-thesis.md) — 2026-08-26 ~9:10am PDT — ⭐⭐⭐ **EXPORT-CONTROL ENFORCEMENT GOES FROM HYPOTHETICAL TO INDICTMENT: TAIWAN PROSECUTORS CHARGE 9 — INCLUDING AN NVDA TAIWAN
