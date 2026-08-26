@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **238 dated entries across 6 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 11:09 PDT**
+> **241 dated entries across 6 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 15:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -257,6 +257,9 @@
 - `2026-08-25` [rates-board.md:L1168](../rates-board.md) — 2026-08-25 ~2:10pm PDT — ✅✅ **THE BOND SCAN (8/25 close) ARRIVES AND CLOSES LAST NIGHT'S FLAG #1 EIGHTEEN HOURS AFTER REGISTRATION: AUCTION INTERNALS 
 - `2026-08-25` [rates-board.md:L1226](../rates-board.md) — Addendum 2026-08-25 ~2:35pm PDT — ✅ **RUNG UPGRADE: every block of the 8/25 scan now traces to a named primary, and the numbers came back IDENTICAL.**
 - `2026-08-26` [balance-sheet-board.md:L448](../balance-sheet-board.md) — 2026-08-26 ~9:05am PDT — ⭐⭐⭐⭐⭐ **NVDA JOINS THE MONITOR AS THE SIXTH NAME — THE VENDOR WING: MORGAN STANLEY (via FT) SIZES "BALANCE-SHEET-AS-A-SERVICE
+- `2026-08-26` [balance-sheet-board.md:L470](../balance-sheet-board.md) — 2026-08-26 ~3:45pm PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 10-Q: THE VENDOR WING CONVERTS FROM ANALYST ESTIMATE TO IN-A-FILING IN ONE DAY — MAX GUARANTEES $108
 - `2026-08-26` [rates-board.md:L1228](../rates-board.md) — 2026-08-26 ~8:35am PDT — DAILY OPENING SCAN #2 (8/26, 6:04-6:14am PT quotes) — ⭐⭐⭐⭐ **THE GENUINELY NEW SERIES IN TODAY'S SCAN IS THE ISSUANCE LADDER:
 - `2026-08-26` [rates-board.md:L1281](../rates-board.md) — Addendum 2026-08-26 ~8:55am PDT — ⭐⭐⭐⭐ **THE PCE DETAIL REVERSES THE MORNING READ'S EMPHASIS: +0.2% MoM ANNUALIZES TO 2.43% — THE INCOMING PULSE IS NE
 - `2026-08-26` [rates-board.md:L1309](../rates-board.md) — 2026-08-26 ~11:15am PDT — WEEK TAPE (Mon→Wed 2pm ET, Jake's wrap) — ⭐⭐⭐⭐⭐ **THE 5Y WAS "MUCH LESS CONVINCING" WITH FOREIGN/INDIRECT BELOW AVERAGE — TH
+- `2026-08-26` [rates-board.md:L1360](../rates-board.md) — Addendum 2026-08-26 ~11:35am PDT — NEW HOME SALES −10.5% MoM (607k SAAR): ⚠️ **THE HEADLINE IS HUGE; THE SINGLE MONTH IS NOT TRUSTWORTHY — this Census
+- `2026-08-26` [rates-board.md:L1368](../rates-board.md) — 2026-08-26 ~1:20pm PDT — CLOSE SCAN (3:30pm ET curve) — ⭐⭐⭐⭐⭐ **THE 5Y INTERNALS LAND MID, NOT WEAK: 4.393% stop, +0.2bp TAIL, 2.37x, INDIRECTS 61.51%

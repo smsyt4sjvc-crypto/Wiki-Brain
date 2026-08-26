@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **416 dated entries across 3 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-26 11:09 PDT**
+> **418 dated entries across 3 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 15:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -438,3 +438,5 @@
 - `2026-08-23` [new-economy-regime.md:L4294](../new-economy-regime.md) — 2026-08-23 ~11:45pm PDT — ⛔⛔ **HE ADDS INTEL AND MP AND THAT CONCEDES MY OWN PUSHBACK: STATE EQUITY *IS* THE OWNERSHIP TRANSFER I SAID WAS ABSENT.** ★
 - `2026-08-24` [ai-financing-fragility.md:L7164](../ai-financing-fragility.md) — 2026-08-24 ~11:20pm PDT — 🕳️ **JAKE ASKS THE POLICY-PUT QUESTION AND THE VAULT HAS NO ENTRY FOR IT: WHAT IF TREASURY/THE FED PAID AN SPV TO LEVER CORP
 - `2026-08-25` [ai-financing-fragility.md:L7227](../ai-financing-fragility.md) — 2026-08-25 ~10:25pm PDT — ⭐⭐⭐⭐⭐ **THE WALTER INVESTIGATION IS ARROW 1 OF A CHAIN THIS NOTE HAS HELD SINCE MAY 22 FINALLY GETTING A LIVE CATALYST — AND
+- `2026-08-26` [new-economy-regime.md:L4373](../new-economy-regime.md) — 2026-08-26 ~11:50am PDT — ⭐⭐⭐⭐ **JAKE'S HOUSING-POLICY CALL: THE AFFORDABILITY LEVER WILL BE RED TAPE, NOT RATES — "the only 'free' option that leaves
+- `2026-08-26` [new-economy-regime.md:L4406](../new-economy-regime.md) — Addendum 2026-08-26 ~12:55pm PDT — ⭐⭐⭐⭐⭐ **JAKE CLOSES HIS OWN LOOP AND THE CONCLUSION INVERTS THE "FREE OPTION": STATES WILL NEVER PULL THE DEREG LEV

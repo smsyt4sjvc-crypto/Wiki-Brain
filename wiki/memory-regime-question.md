@@ -1382,3 +1382,16 @@ four-die design abandoned = STRONGLY REPORTED, NOT NVDA-CONFIRMED · "Rubin Ultr
 - **📌 Sep-end contract print (registered, carried) now has a specific analyst number to grade
   against: >50% DRAM. Forest MU branch strengthened.**
 **Links:** [[compression-thesis]] · [[high-confidence-basket]] · [[forest]]
+
+### Addendum 2026-08-26 ~4:00pm PDT — ⭐⭐⭐⭐⭐ **NVDA'S MARGIN GUIDE IS THE SAME-DAY CONFIRMATION OF THE MORNING'S SUSQUEHANNA CALL: 75.0% → 74.0% (Q3) → 71-72% BOTTOM (Q4 FY27) → only 72-73% FY28 — 3-4 POINTS OF THE RICHEST GROSS MARGIN IN LARGE-CAP HISTORY CEDED TO MEMORY INPUT COSTS — AND NVDA PLANS PRICE INCREASES EARLY FY28 TO CLAW IT BACK**
+- **The read-through chain, now closed loop in one day: DRAM contract +>50% est. (morning) →
+  NVDA margin compression on "rapidly rising memory/input costs" (evening) → NVDA raising
+  prices FY28 → the memory bill passes THROUGH the strongest pricing power in the complex to
+  the end buyer.** When the toll-keeper eats 3-4pp before repricing, the shortage is real and
+  the supplier (MU/HBM) is the point of maximum leverage. **$279B of NVDA supply commitments —
+  "primarily memory, manufacturing capacity, DC systems" — is the demand book against which the
+  Sep-end HBM contract print will clear.** *(Analysis.)*
+- **⚠️ Two-sided for MU per the LTA collar (morning entry): ceilings cap how much of this MU
+  realizes; the floor is the moat. The uncapped beneficiaries of spot are SK/Samsung's
+  uncontracted volumes.** *(Analysis.)*
+**Links:** [[high-confidence-basket]] · [[compression-thesis]] · [[forest]]

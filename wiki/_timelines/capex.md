@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **115 dated entries across 3 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 11:09 PDT**
+> **118 dated entries across 3 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 15:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -136,4 +136,7 @@
 - `2026-08-25` [balance-sheet-board.md:L251](../balance-sheet-board.md) — 2026-08-25 ~7:25pm PDT — ⛔⛔⛔ **MUSK ENTERS THE MONITOR, AND HE ENTERS AS THE PROOF CASE: SPACEX'S VALOR GPU/EQUIPMENT LEASES WERE RECLASSIFIED AS DEBT
 - `2026-08-25` [balance-sheet-board.md:L341](../balance-sheet-board.md) — Addendum 2026-08-25 ~7:40pm PDT — ⭐⭐⭐ **THREE HOURS AFTER THE 4:45pm SCAN, ZH HEADLINES THE SAME DATA: "OFF-BALANCE SHEET TIME BOMB INSIDE AI HITS $3.
 - `2026-08-25` [balance-sheet-board.md:L389](../balance-sheet-board.md) — 2026-08-25 ~11:40pm PDT — ⛔⛔⛔ **THE MSFT "CLEAN ONE" LABEL GETS ITS OPTICS LEVER: EXTENDING DATA-CENTER USEFUL LIVES 15→25 YEARS FLIPS THE NEW-LEASE P
+- `2026-08-26` [ai-capex-cycle.md:L3422](../ai-capex-cycle.md) — 2026-08-26 ~3:55pm PDT — ⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 — THE DEMAND HALF: $96.2B (+4.3% beat, +106% y/y) · DC $89.0B · Q3 GUIDE $108B (+3.7% over street) · AN
 - `2026-08-26` [balance-sheet-board.md:L448](../balance-sheet-board.md) — 2026-08-26 ~9:05am PDT — ⭐⭐⭐⭐⭐ **NVDA JOINS THE MONITOR AS THE SIXTH NAME — THE VENDOR WING: MORGAN STANLEY (via FT) SIZES "BALANCE-SHEET-AS-A-SERVICE
+- `2026-08-26` [balance-sheet-board.md:L470](../balance-sheet-board.md) — 2026-08-26 ~3:45pm PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 10-Q: THE VENDOR WING CONVERTS FROM ANALYST ESTIMATE TO IN-A-FILING IN ONE DAY — MAX GUARANTEES $108
+- `2026-08-26` [cepi.md:L530](../cepi.md) — Addendum 2026-08-26 ~4:05pm PDT — ⛔⭐⭐⭐⭐ **NVDA Q2: THE QUALITY-OF-EARNINGS SPLIT'S FIRST READING — $7.8B EQUITY-MARK GAINS = 13.1% OF GAAP NI (GAAP EP

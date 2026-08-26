@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **635 dated entries · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 11:09 PDT**
+> **643 dated entries · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 15:45 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -661,6 +661,14 @@
 - `2026-08-26` **[1]** rates-board.md:L1228 — 2026-08-26 ~8:35am PDT — DAILY OPENING SCAN #2 (8/26, 6:04-6:14am PT quotes) — ⭐⭐⭐⭐ **THE GENUINELY NEW SERIES IN TODAY'S SCAN IS THE ISSUANCE LADDER:
 - `2026-08-26` **[1]** rates-board.md:L1281 — Addendum 2026-08-26 ~8:55am PDT — ⭐⭐⭐⭐ **THE PCE DETAIL REVERSES THE MORNING READ'S EMPHASIS: +0.2% MoM ANNUALIZES TO 2.43% — THE INCOMING PULSE IS NE
 - `2026-08-26` **[1]** rates-board.md:L1309 — 2026-08-26 ~11:15am PDT — WEEK TAPE (Mon→Wed 2pm ET, Jake's wrap) — ⭐⭐⭐⭐⭐ **THE 5Y WAS "MUCH LESS CONVINCING" WITH FOREIGN/INDIRECT BELOW AVERAGE — TH
+- `2026-08-26` **[1]** rates-board.md:L1360 — Addendum 2026-08-26 ~11:35am PDT — NEW HOME SALES −10.5% MoM (607k SAAR): ⚠️ **THE HEADLINE IS HUGE; THE SINGLE MONTH IS NOT TRUSTWORTHY — this Census
+- `2026-08-26` **[1]** rates-board.md:L1368 — 2026-08-26 ~1:20pm PDT — CLOSE SCAN (3:30pm ET curve) — ⭐⭐⭐⭐⭐ **THE 5Y INTERNALS LAND MID, NOT WEAK: 4.393% stop, +0.2bp TAIL, 2.37x, INDIRECTS 61.51%
+- `2026-08-26` **[1]** new-economy-regime.md:L4373 — 2026-08-26 ~11:50am PDT — ⭐⭐⭐⭐ **JAKE'S HOUSING-POLICY CALL: THE AFFORDABILITY LEVER WILL BE RED TAPE, NOT RATES — "the only 'free' option that leaves
+- `2026-08-26` **[1]** new-economy-regime.md:L4406 — Addendum 2026-08-26 ~12:55pm PDT — ⭐⭐⭐⭐⭐ **JAKE CLOSES HIS OWN LOOP AND THE CONCLUSION INVERTS THE "FREE OPTION": STATES WILL NEVER PULL THE DEREG LEV
 - `2026-08-26` **[3]** balance-sheet-board.md:L448 — 2026-08-26 ~9:05am PDT — ⭐⭐⭐⭐⭐ **NVDA JOINS THE MONITOR AS THE SIXTH NAME — THE VENDOR WING: MORGAN STANLEY (via FT) SIZES "BALANCE-SHEET-AS-A-SERVICE
+- `2026-08-26` **[3]** balance-sheet-board.md:L470 — 2026-08-26 ~3:45pm PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 10-Q: THE VENDOR WING CONVERTS FROM ANALYST ESTIMATE TO IN-A-FILING IN ONE DAY — MAX GUARANTEES $108
+- `2026-08-26` **[4]** ai-capex-cycle.md:L3422 — 2026-08-26 ~3:55pm PDT — ⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 — THE DEMAND HALF: $96.2B (+4.3% beat, +106% y/y) · DC $89.0B · Q3 GUIDE $108B (+3.7% over street) · AN
+- `2026-08-26` **[4]** cepi.md:L530 — Addendum 2026-08-26 ~4:05pm PDT — ⛔⭐⭐⭐⭐ **NVDA Q2: THE QUALITY-OF-EARNINGS SPLIT'S FIRST READING — $7.8B EQUITY-MARK GAINS = 13.1% OF GAAP NI (GAAP EP
 - `2026-08-26` **[5]** memory-regime-question.md:L1327 — 2026-08-26 ~9:12am PDT — ⭐⭐⭐⭐ **SUSQUEHANNA (via DJ/Barron's, ANALYST rung): DRAM CONTRACT PRICES +>50% QoQ THIS QUARTER, NAND ~+60% — A PRE-PRINT COR
+- `2026-08-26` **[5]** memory-regime-question.md:L1339 — Addendum 2026-08-26 ~4:00pm PDT — ⭐⭐⭐⭐⭐ **NVDA'S MARGIN GUIDE IS THE SAME-DAY CONFIRMATION OF THE MORNING'S SUSQUEHANNA CALL: 75.0% → 74.0% (Q3) → 71-
 - `2026-08-26` **[5]** compression-thesis.md:L2754 — 2026-08-26 ~9:10am PDT — ⭐⭐⭐ **EXPORT-CONTROL ENFORCEMENT GOES FROM HYPOTHETICAL TO INDICTMENT: TAIWAN PROSECUTORS CHARGE 9 — INCLUDING AN NVDA TAIWAN

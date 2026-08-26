@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **61 dated entries across 3 notes · 2026-06-30 → 2026-08-26 · refreshed 2026-08-26 11:09 PDT**
+> **62 dated entries across 3 notes · 2026-06-30 → 2026-08-26 · refreshed 2026-08-26 15:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -80,3 +80,4 @@
 - `2026-08-23` [power-not-petroleum.md:L439](../power-not-petroleum.md) — 2026-08-23 ~5:05pm PDT — ⚖️ **BOTH SIDES OF THE DATA-CENTRE PERMISSION FIGHT LANDED ON THE SAME DAY, AND THE VAULT SHOULD FILE THEM AS ONE OBJECT.** ★
 - `2026-08-24` [nuclear.md:L453](../nuclear.md) — 2026-08-24 ~7:15pm PDT — ★★★★★★ **THE $80B PROGRAM IS ARITHMETICALLY IMPOSSIBLE AT US CONSTRUCTION COSTS, AND THAT — NOT "capacity shortfall" — IS WHY
 - `2026-08-26` [buildout-bottleneck-map.md:L1340](../buildout-bottleneck-map.md) — 2026-08-26 ~9:14am PDT — ⭐⭐ **GEV × LS ELECTRIC: "GRID X TECHNOLOGY" VSC-HVDC JV (company-confirmed 8/26)** — South Korea next-gen grid/HVDC; joint so
+- `2026-08-26` [buildout-bottleneck-map.md:L1346](../buildout-bottleneck-map.md) — 2026-08-26 ~1:15pm PDT — ⚡⚡⚡ **EO 14420 (PRIMARY, signed today): IEEPA NATIONAL EMERGENCY ON THE BULK-POWER SYSTEM — A LEGAL WALL ON TOP OF THE PHYSIC

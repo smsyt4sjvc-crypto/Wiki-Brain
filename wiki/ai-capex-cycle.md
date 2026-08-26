@@ -3533,3 +3533,27 @@ Source: Jake's DAILY HOLDINGS SCAN 2026-08-22 → `raw/2026-08-22-holdings-scan/
 - **✅ UNCHANGED AND SEPARATELY SOURCED: H200 approved for a limited set (Alibaba, Tencent,
   ByteDance), deliveries recently begun.** ⇒ **The real China leg is H200, and the denial does not
   touch it.**
+
+## 2026-08-26 ~3:55pm PDT — ⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 — THE DEMAND HALF: $96.2B (+4.3% beat, +106% y/y) · DC $89.0B · Q3 GUIDE $108B (+3.7% over street) · AND THE CALL'S BIGGEST ITEM: KRESS GUIDES FY28 AT ~70% GROWTH vs ~45% STREET, STILL SUPPLY-CONSTRAINED** ⛔ **THE VAULT'S NVDA DATA-CENTER REVENUE SERIES OPENS: DC $89.023B/qtr — hyperscale $48.7B (+102% y/y) · ACIE $40.3B (+138% y/y, the FASTEST bucket = AI-native/sovereign/enterprise demand BROADENING beyond the five hyperscalers)** ⚠️ **The margin warning is the tape's real event: 75.0% → 74.0% (Q3) → 71-72% BOTTOM (Q4) → 72-73% FY28, on MEMORY input costs — with price increases planned early FY28**
+Source: NVDA Q2 FY27 release + call (Jake's full summary, 8/26 evening). Stock: fell on the
+margin guide, reversed +3-4% on FY28/AWS. **China: guide assumes ZERO DC compute revenue — any
+reopening is pure upside to the $108B base** (Q2 China Hopper <1% of DC).
+- **DATA adds:** AWS +2M GPUs incremental (Blackwell Ultra/Rubin/Rubin Ultra, 2027-28) · Vera
+  Rubin in full production, racks live at CRWV/GCP/Azure/OCI/**Nebius** · inventory $25.8→$31.6B
+  (+22%) ahead of the Rubin ramp · Graphics $7.9B (+46% y/y) · Edge $7.2B.
+- **★★★★★ "SUPPLY-CONSTRAINED ~70%" IS THE LOAD-BEARING PHRASE: the FY28 number is a SUPPLY
+  forecast, not a demand forecast — demand tops out somewhere above it.** Against the week's
+  overhang narrative (Ramp chart) this is the vendor's revenue evidence on the routing side:
+  paid volume compounding ~70% while the $0 local floor ships. Both can be true — the barbell.
+  *(Analysis.)*
+- **★★★★ ACIE +138% IS THE STRUCTURAL TELL: the fastest-growing bucket is NOT the five
+  hyperscalers — sovereigns, AI-natives, enterprise clouds. Demand breadth is the bull case; the
+  same bucket is where the weakest CREDIT lives (the neocloud/AI-native tier the balance-sheet
+  board tracks at 800bp).** The growth and the fragility are the same customers. *(Analysis.)*
+- **⚠️ THE CEPI QUESTION SHARPENS: revenue +18% q/q while OCF fell 52% — NVDA's own print now
+  shows the complex's capex arriving as RECEIVABLES at the vendor, not cash.** → [[cepi]]
+  quality-of-earnings addendum. *(Analysis.)*
+- **📌 REGISTERED:** (1) DC revenue series (this is tick #1: 89.023) · (2) FY28 70% vs delivered,
+  quarterly · (3) China reopening = upside optionality tick · (4) third-party Rubin benchmarks
+  vs the Jalapeño/InferenceX curve once racks are public.
+**Links:** [[balance-sheet-board]] · [[cepi]] · [[memory-regime-question]] · [[compression-thesis]] · [[high-confidence-basket]]

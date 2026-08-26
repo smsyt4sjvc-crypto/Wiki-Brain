@@ -548,3 +548,12 @@ Jake pasted a META chart showing the 7/29 earnings crash and said *"we have it i
 - 🚩 **REBUILD REQUIRED: the FCF puller needs YTD-differencing before any of its output is cited again.**
   ⬜ **GOOGL and ORCL latest-quarter FCF remain UNKNOWN pending that fix or their release figures.**
 **Links:** [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[market-fragility]] · [[portfolio-state]]
+
+### Addendum 2026-08-26 ~4:05pm PDT — ⛔⭐⭐⭐⭐ **NVDA Q2: THE QUALITY-OF-EARNINGS SPLIT'S FIRST READING — $7.8B EQUITY-MARK GAINS = 13.1% OF GAAP NI (GAAP EPS $2.46 ABOVE adjusted $2.22 — the marks, not operations, make the gap) · OCF/NI CASH CONVERSION = 40.3% · FCF −56% q/q IN AN +18% REVENUE QUARTER**
+- **The seller-side CEPI tell: the complex's capex is arriving at the vendor as RECEIVABLES
+  (+$22.35B q/q — more than the +$14.6B revenue increase) and PREPAIDS, not cash. C→E is
+  intact on the income statement and DEGRADING in the cash statement — the wedge this note
+  exists to catch, now visible at the point of sale.** Alphabet precedent applies: the market
+  strips marks; a 13.1%-marks GAAP print will be stripped too. Series registered: marks % of
+  GAAP NI · OCF/NI · DSO, quarterly. *(Analysis.)*
+**Links:** [[balance-sheet-board]] · [[ai-capex-cycle]]
