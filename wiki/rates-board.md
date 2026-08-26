@@ -41,7 +41,7 @@
 - `2026-08-26` `L1355` 2026-08-26 ~11:15am PDT — WEEK TAPE (Mon→Wed 2pm ET, Jake's wrap) — ⭐⭐⭐⭐⭐ **THE 5Y WAS "MUCH LESS CONVINCING" WITH FOR
 - `2026-08-26` `L1406` Addendum 2026-08-26 ~11:35am PDT — NEW HOME SALES −10.5% MoM (607k SAAR): ⚠️ **THE HEADLINE IS HUGE; THE SINGLE MONTH 
 - `2026-08-26` `L1414` 2026-08-26 ~1:20pm PDT — CLOSE SCAN (3:30pm ET curve) — ⭐⭐⭐⭐⭐ **THE 5Y INTERNALS LAND MID, NOT WEAK: 4.393% stop, +0.2
-- `2026-08-26` `L1453` Addendum 2026-08-26 ~5:55pm PDT — **THE 7Y COLLISION RUBRIC (Jake's, adopted verbatim as the branch's quantitative bar
+- `2026-08-26` `L1453` Addendum 2026-08-26 ~4:42pm PDT — **THE 7Y COLLISION RUBRIC (Jake's, adopted verbatim as the branch's quantitative bar
 
 <!-- TIMELINE:END -->
 
@@ -1450,4 +1450,4 @@ KBRA study — instrument-level breakdown + whether they define a trigger taxono
 buyback operations calendar (which CUSIPs, sizes) once September ops post.
 **Links:** [[balance-sheet-board]] · [[forest]] · [[ai-financing-fragility]] · [[transmission-chain]]
 
-### Addendum 2026-08-26 ~5:55pm PDT — **THE 7Y COLLISION RUBRIC (Jake's, adopted verbatim as the branch's quantitative bar).** Benchmarks: July 7Y = 0.2bp tail · 2.49x · 70.1% indirects · 13.0% dealers; six-auction avgs ≈ 0.3bp tail · 2.48x · 11.4% dealers. Secondary 7Y closed 4.51 (above July's 4.473 stop). **ABSORPTION: ≤0.3bp tail, ~2.48x+, low dealer take. CONFIRMATION: >1bp tail, BTC toward/below ~2.4x, dealers materially >13% — with refined-product inflation (WPSR: max utilization, collapsing distillate stocks) and AI/component-capex inflation (NVDA commitments/margins) arriving together, a weak 7Y completes the three-legged collision.** Branch state: WPSR ✅ CONFIRMED-STRONGER · NORSI ✅ CONFIRMED-OUTAGE (duration ⬜) · 7Y ⏳ 1:00 ET Thursday — score against this rubric same-day, say the result unprompted.
+### Addendum 2026-08-26 ~4:42pm PDT — **THE 7Y COLLISION RUBRIC (Jake's, adopted verbatim as the branch's quantitative bar).** Benchmarks: July 7Y = 0.2bp tail · 2.49x · 70.1% indirects · 13.0% dealers; six-auction avgs ≈ 0.3bp tail · 2.48x · 11.4% dealers. Secondary 7Y closed 4.51 (above July's 4.473 stop). **ABSORPTION: ≤0.3bp tail, ~2.48x+, low dealer take. CONFIRMATION: >1bp tail, BTC toward/below ~2.4x, dealers materially >13% — with refined-product inflation (WPSR: max utilization, collapsing distillate stocks) and AI/component-capex inflation (NVDA commitments/margins) arriving together, a weak 7Y completes the three-legged collision.** Branch state: WPSR ✅ CONFIRMED-STRONGER · NORSI ✅ CONFIRMED-OUTAGE (duration ⬜) · 7Y ⏳ 1:00 ET Thursday — score against this rubric same-day, say the result unprompted.
