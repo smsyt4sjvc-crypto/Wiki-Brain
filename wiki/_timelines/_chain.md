@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **617 dated entries · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 07:41 PDT**
+> **618 dated entries · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 17:27 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -644,5 +644,6 @@
 - `2026-08-24` **[2]** hyperscaler-credit.md:L517 — DATA — THE FULL PANEL THE TWO-NAME CHART CANNOT SHOW (ICE, clearing 2026-08-24)
 - `2026-08-24` **[3]** ai-financing-fragility.md:L7164 — 2026-08-24 ~11:20pm PDT — 🕳️ **JAKE ASKS THE POLICY-PUT QUESTION AND THE VAULT HAS NO ENTRY FOR IT: WHAT IF TREASURY/THE FED PAID AN SPV TO LEVER CORP
 - `2026-08-24` **[5]** memory-regime-question.md:L1243 — 2026-08-24 ~1:10am PDT — ★★★★★★ **A *THIRD* RESPONSE TO THE MEMORY SHORTAGE, AND THE VAULT HAS PRICED NEITHER IT NOR ITS OFFSET: NVDA IS DESIGNING THE
+- `2026-08-25` **[1]** rates-board.md:L1168 — 2026-08-25 ~2:10pm PDT — ✅✅ **THE BOND SCAN (8/25 close) ARRIVES AND CLOSES LAST NIGHT'S FLAG #1 EIGHTEEN HOURS AFTER REGISTRATION: AUCTION INTERNALS 
 - `2026-08-25` **[2]** hyperscaler-credit.md:L497 — 2026-08-25 ~01:50 UTC (2026-08-24 ~6:50pm PDT) — ✅✅✅ **JAKE'S OWN TEST, RUN AGAINST THE INSTRUMENT INSTEAD OF ASSERTED — AND IT IS SATISFIED ON ALL FO
 - `2026-08-25` **[5]** compression-thesis.md:L2589 — 2026-08-25 ~7:40am PDT — ⭐⭐⭐ **THE NEMOTRON-NEUTRALITY TEST REGISTERED 36 HOURS AGO TAKES ITS FIRST TICK, AND THE MECHANISM IS SHARPER THAN THE ONE I 

@@ -1186,3 +1186,61 @@ to be made."*
 3. 🚩 **IG FUND FLOWS (ICI/EPFR weekly)** — the direct measurement of his mechanism. ⬜ No source
    route established.
 **Links:** [[hyperscaler-credit]] · [[ai-financing-fragility]] · [[detachment-bid]] · [[new-economy-regime]] · [[market-fragility]] · [[fragility-engine]]
+
+### 2026-08-25 ~2:10pm PDT — ✅✅ **THE BOND SCAN (8/25 close) ARRIVES AND CLOSES LAST NIGHT'S FLAG #1 EIGHTEEN HOURS AFTER REGISTRATION: AUCTION INTERNALS — 2Y stop-through 0.4bp, BTC 2.60 vs 2.61 avg, INDIRECTS 66.0% vs a 56.9% SIX-AUCTION AVERAGE (+9.1pp).** ★★★★★ **AND ITS y/y DECOMPOSITION IS THE WEARY-ROTATION ARITHMETIC FROM THE ISSUER'S SIDE: IG all-in yields +51bp WITH OAS +3bp — the entire rise in corporate borrowing cost is the RISK-FREE curve, and breakevens are FLAT while 10Y REAL is +45bp** ⛔ **PLUS ONE RESOLUTION: TREASURY ITSELF SAYS BUYBACKS "ARE NOT EXPECTED TO SIGNIFICANTLY REDUCE PRIVATELY HELD NET MARKETABLE BORROWING" — the OFFICIAL framing is the bill-funded/cash-neutral case, which restores `:L223` as the BASE case and demotes the CNBC TGA branch to the speculative one**
+Source: Jake's BOND MARKET FRAGILITY SCAN, 8/25 close — new recurring format (open 6:30am PT from
+8/26 · close 1:05pm PT · Treasuries live+official curve · ICE/BofA credit at daily close, latest
+8/24). **Arithmetic sweep: 11 of 11 internal checks pass** (curve spreads, y/y moves, deficit, net-
+interest share). ⚠️ **The auction is REPORTED from the scan — ⬜ TreasuryDirect confirmation
+registered, not yet pulled.**
+
+#### DATA (per the scan; the vault's cross-checks noted inline)
+- **CURVE (8/25 close): 2Y 4.17 (−7) · 5Y 4.35 (−6) · 10Y 4.64 (−6) · 30Y 5.17 (−6).** 2s10s +47 ·
+  5s30s +82. ⚠️ **5.17 is the BOTTOM of the board's own 5.17-5.31 monthly band — a strong day, still
+  INSIDE the range. No trend claim.**
+- **REALS: 10Y real 2.32% (+45bp y/y) · 30Y real 2.92% (+32bp y/y) · breakevens 2.31/2.32, flat y/y.**
+- **CREDIT (8/24 close): IG 81bp OAS · BBB 100 · HY 269 · B 285 · CCC 1,036 · CCC−HY = 767 —
+  ✅ EXACT MATCH to the ladder's independently-computed 767 this morning. Two routes, same number.**
+- **y/y: IG +51bp yield / +3bp OAS · BB −15bp OAS · B −4bp OAS · CCC +312/+247.**
+  ⇒ **⭐ THE B-vs-CCC GAP: 751bp now vs ~500bp a year ago = +251bp. BB and B spreads are TIGHTER than
+  a year ago. The stress is confined BELOW B — not "junk," the bottom tier only.**
+- **2Y AUCTION ($69B): high yield 4.204% · 0.4bp STOP-THROUGH · BTC 2.60 vs 2.61 avg · INDIRECTS
+  66.0% vs 56.9% avg · dealers 10.9%.** 5Y ($70B) and 7Y ($44B) upcoming.
+- **FISCAL: gross debt >$40T · public $32.3T · FYTD deficit $1.799T (+10.46% y/y) · FYTD net interest
+  $931.36B = 14.8% of outlays · TTM interest ~$1.061T · Q3 borrowing REVISED UP +$68B to $739B.**
+- **FED: 3.50-3.75% · July hold 9-3 with three HIKE dissents (✓ matches the minutes work) · CPI 3.4 ·
+  PPI 4.7.**
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★ THE y/y DECOMPOSITION IS THE WEARY-ROTATION CASE STATED FROM THE OTHER SIDE, AND IT ADDS
+  THE REAL/BREAKEVEN SPLIT THE BOARD LACKED.** IG spreads did NOTHING for a year (+3bp) while all-in
+  yields rose 51bp and 10Y REAL rose 45bp against FLAT breakevens. ⇒ **The long end's repricing is a
+  REAL-REQUIRED-RETURN event, not an inflation-expectations event — which is the board's
+  duration-supply conclusion arrived at by decomposition rather than by event study. Third
+  independent route to it.** ⇒ **And it prices the rotation's entry condition exactly: the exit from
+  credit costs ~81bp against a real risk-free 2.32%.** *(Analysis.)*
+- **⭐⭐ THE AUCTION IS THE FIRST READING OF THE REGISTERED SERIES AND IT LEANS THE ROTATION'S WAY —
+  CAUTIOUSLY.** Indirects +9.1pp over the six-auction average with a stop-through, on a day the whole
+  2Y-30Y curve rallied 5-7bp. ⚠️ **n=1, at the FRONT end (the 2Y is a Fed-expectations instrument,
+  not a duration-demand instrument), and one auction is weather.** ⇒ **The 5Y and 7Y this week are
+  the better tests; the long-end reopenings are the real ones.** *(Analysis.)*
+- **⛔ THE TREASURY STATEMENT RESOLVES THE TGA FORK'S BASE CASE, AND THE BOARD SHOULD SAY SO
+  CLEANLY:** *"new issuance replaces securities bought back"* is the OFFICIAL description = the
+  bill-funded duration swap `:L223` described = cash-neutral. ⇒ **The 8/24 CNBC "TGA considered
+  available" branch (reserve injection) stays REGISTERED but is now the deviation to watch for, not
+  the expectation. The weekly TGA path remains the discriminator.** *(Analysis.)*
+- **⭐ AND THE SCAN'S "DANGER SIGNAL" LIST IS JAKE'S OWN REPRICING TEST PLUS THIS BOARD'S REGISTERED
+  WATCHES, INDEPENDENTLY REDERIVED** (IG/BBB widening + weak auctions + CCC migrating INTO B/BB +
+  issuance competition). ⇒ **Adopt one refinement from it: "CCC stress MIGRATING UPWARD INTO B/BB" is
+  a cleaner stage-1→2 tripwire than watching IG alone, and the B-vs-CCC gap (751bp, +251 y/y) is its
+  instrument — currently saying the migration has NOT begun.** *(Analysis.)*
+
+#### 📌 REGISTERED
+1. ✅ **CLOSED (first reading) — auction internals.** Series continues under the scan's open/close
+   format; ⬜ TreasuryDirect confirmation of today's print not yet pulled.
+2. 🚩🚩 **THE 5Y (\$70B) AND 7Y (\$44B) THIS WEEK — the second and third readings, and better
+   instruments than the 2Y for the rotation.**
+3. 🚩🚩 **B-vs-CCC GAP AS THE STAGE-1→2 MIGRATION INSTRUMENT (751bp; +251 y/y).** Widening = stress
+   still quarantined; NARROWING via B widening = migration begun.
+4. 🚩 **Q3 BORROWING +\$68B REVISION** — supply pressure rising into the buyback window.
+**Links:** [[new-economy-regime]] · [[hyperscaler-credit]] · [[market-fragility]] · [[fragility-engine]] · [[detachment-bid]]
