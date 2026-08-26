@@ -262,3 +262,93 @@ IS the first reading of the footnote shadow series) and #2 (comment-letter searc
 4. 🚩 **AMZN's Anthropic facility drawdown vs AWS delivery milestones** — capacity-linked financing is
    a new circularity instrument; ⬜ milestone terms not disclosed.
 **Links:** [[ai-financing-fragility]] · [[hyperscaler-credit]] · [[financing-fragility-gauge]] · [[high-confidence-basket]] · [[rates-board]]
+
+## 2026-08-25 ~7:25pm PDT — ⛔⛔⛔ **MUSK ENTERS THE MONITOR, AND HE ENTERS AS THE PROOF CASE: SPACEX'S VALOR GPU/EQUIPMENT LEASES WERE RECLASSIFIED AS DEBT AT INCEPTION — FAILED SALE-LEASEBACK, $4.507B (DEC-25) → $13.329B (JUN-26), +196% — WHICH ADDS A FOURTH TRIGGER TO THIS BOARD'S TAXONOMY AND PROVES SUBSTANCE-OVER-FORM MIGRATION HAPPENS WITHOUT SCANDAL** ★★★★★ **AND THE SAME FILER PRICES THE SHADOW-FINANCING PREMIUM ON ONE ISSUER ACROSS THREE WRAPPERS: PUBLIC UNSECURED 5.855% WA · VALOR EQUIPMENT FINANCING ~9.8%+ · STATELINE SPV ≥10.25% FLOATING** ⭐ **Jake: "Musk should be in this monitor" — SpaceX/SpaceXAI/xAI + Tesla added to both daily bond/fragility scans**
+Source: Jake's brief, 2026-08-25 evening — SpaceX Q2 2026 10-Q per his read (post-IPO, first full
+public quarter). ⚠️ **⬜ The 10-Q itself has NOT been fetched by this vault; every figure below is
+from Jake's brief.** Prior segment table (8/5, `ai-capex-cycle:L2270`) already held the capex lines
+and MATCHES: AI capex 7,723 → 15,828, total 18,369 — the two sources agree to the dollar.
+**FIRST-USE:** SLB = sale-leaseback; WA = weighted average; RVG = residual value guarantee.
+
+### DATA (Jake's brief; SpaceX 10-Q figures per him)
+- **THE VALOR RECLASSIFICATION:** GPU/equipment lease financing with **Valor Equity Partners**
+  ⟲ EXTENDS balance-sheet-board.md:L85 (2026-08-26) — SPCX fetch flag closes: first vault-documented SpaceX structures — Valor failed-SLB $13.3B + Solaris/Stateline VIE (consolidated) [old entry stays LIVE]
+  accounted for as **failed sale-leasebacks (ASC 842-40)** — control never passed to the
+  buyer-lessor, so no sale is recognized and the proceeds sit on-sheet as a **FINANCING LIABILITY**:
+  **$4.507B Dec-2025 → $13.329B Jun-2026 (+196% in two quarters). Q2 interest expense on it: $327M.**
+  Jake's line: *"accountants classified the transactions as failed sale-leasebacks. Therefore SpaceX
+  had to recognize the financing as debt."*
+- **THE FINANCING REWORK, three instruments in ~4 months:** 12.5% xAI secured notes → **$20B March
+  ⟲ EXTENDS ai-financing-fragility.md:L3293 (2026-08-26) — xAI SPV debt leg STALE: 12.5% secured notes refinanced -> $20B Mar bridge -> $25B Jun unsecured at 5.855% WA; Valor now also $13.3B failed-SLB debt on-sheet [old entry stays LIVE]
+  bridge** → **$25B June unsecured bonds at 5.855% WA**. **Total debt $39.512B** *(consistent with
+  this board's XBRL ledger row `:L66` — SPCX debt 22→38 at 6/30)*.
+- **SOLARIS/STATELINE VIE:** Solaris 50.1% / MZX Tech 49.9%; **Solaris is the PRIMARY BENEFICIARY
+  and CONSOLIDATES.** $550M facility, **$360.7M drawn (July)**, floating **≥10.25%**
+  (5.94% + max(SOFR, 4.31%)), **nonrecourse** to SpaceX.
+- **SEC: required EXPANDED VALOR DISCLOSURE; did NOT challenge consolidation.**
+- **TESLA EXPOSURE:** $2B equity stake (<1% of SpaceX) · **Megapack sales to SpaceX $87M → $318M
+  q/q** (Tesla as supplier, not creditor).
+- **LIQUIDITY:** IPO net proceeds $85.675B · **cash $93.522B** at 6/30.
+- **MONITOR SCOPE (Jake, tonight): SpaceX/SpaceXAI/xAI and Tesla added to both daily scans**
+  (bond-market fragility + holdings).
+
+### DERIVED (arithmetic on the brief + the 8/5 segment table)
+- **Valor effective rate: $327M × 4 = $1.308B annualized ÷ $13.329B ending balance = 9.8% — a FLOOR,
+  since the balance was still building intra-quarter; on any realistic average balance it clears 10%,
+  i.e. the same neighborhood as Stateline's ≥10.25% floor.**
+- **The refinancing arbitrage: 12.5% → 5.855% = 664bp; on $25B ≈ $1.66B/yr of interest saved.** The
+  IPO bought SpaceX the public curve; the equipment/SPV wrappers still pay private-credit rates.
+- **⇒ THE SHADOW-FINANCING PREMIUM, MEASURED ON ONE ISSUER: public unsecured 5.855% vs Valor ~9.8%+
+  vs Stateline ≥10.25% — a ~400-450bp premium for the wrapper, same credit.**
+- **AI capex $15.828B = 86% of consolidated capex ($18.369B).** Runway: **cash $93.5B ÷ Q2 FCF burn
+  $14.8B/qtr (EBITDA 3,538 − capex 18,369, `ai-capex-cycle:L2296`) = 6.3 QUARTERS at the Q2 run-rate**
+  — before any further debt, and with the burn still growing.
+
+### THESIS (interpretation — NOT fact)
+- **★★★★★ THE FOURTH TRIGGER. This board's taxonomy had three ways shadow leverage lands on-sheet:
+  (1) lease COMMENCEMENT · (2) guarantee REALIZATION · (3) VIE CONSOLIDATION. Valor adds (4):
+  INCEPTION RECLASSIFICATION — the failed sale-leaseback, where the auditor rules control never left
+  and the "lease" is born as debt.** ⇒ **Triggers 1-3 fire LATER; trigger 4 fires at signing. It is
+  the only one that cannot be scheduled around, because it is an accounting judgment about the deal's
+  substance, not a milestone.** *(Analysis.)*
+- **★★★★★ THE NATURAL EXPERIMENT, which is why Musk belongs in the monitor: the tripwire FIRED here —
+  reclassification, +196% growth, SEC-mandated disclosure — and NOTHING BROKE. No restatement drama,
+  no 4.02, bonds price at 5.855%.** ⇒ **Substance-over-form migration can happen quietly. The 8/25
+  scan's conclusion ("the tripwire holds while every precursor runs") now has its control group: when
+  the tripwire DOES fire on a liquid, IPO'd, $93B-cash issuer, the market absorbs it.** ⇒ **The risk
+  at META/GOOGL/ORCL was never the reclassification itself — it is the same judgment landing on an
+  issuer WITHOUT $93B of cash and a 60%-margin Starlink underneath.** *(Analysis.)*
+    ⟲ EXTENDS ai-capex-cycle.md:L2302 (2026-08-26) — GRADED RIGHT: the arithmetically-required vehicles arrived — Valor book 4.5B->13.3B + $25B June bonds [old entry stays LIVE]
+- **★★★★ GRADED RIGHT, three weeks early: `ai-capex-cycle:L2302` (8/5) — the $20B xAI SPV "covers ~4
+  months; more vehicles, leases or equity are arithmetically required." The Valor balance tripling
+  and the $25B bonds ARE the required vehicles, on schedule.** ⟲ extends that line; and the
+  funding-side ledger's xAI SPV entry (`ai-financing-fragility:L3293`) is now STALE on the debt leg —
+  the 12.5% secured notes it records were refinanced away. *(Analysis.)*
+- **★★★ WHERE IT LANDS ON THE CHAIN: stage 2 (credit pricing) already trades this name — SPCX CDS
+  167-177, bonds at junk spreads (`hyperscaler-credit:L158`, `ai-financing-fragility:L842`). Tonight's
+  data is the ISSUER-side confirmation of what that pricing saw: 86% of capex is AI, funded at
+  10%-class rates in the wrappers.** The shock has PROPAGATED to stage 2 for this issuer and died
+  there so far — stage 3 (bank/private-credit appetite) is still lending (Valor tripled its book).
+  *(Analysis.)*
+- **⭐ SOLARIS/STATELINE is the textbook VIE where the primary beneficiary is KNOWN and consolidation
+  is CLEAN — the 8/25 mechanics entry's two-prong test applied and answered. Contrast object for
+  Hyperion/Beignet, where the test is engineered to answer "no one."** *(Analysis.)*
+- **⚠️ TESLA CONTAGION PATH: LIMITED on these numbers. $2B equity is <1% of SpaceX and ~0.2% of
+  TSLA's market cap; Megapack q/q near-quadrupling makes Tesla a SUPPLIER with receivables exposure,
+  not a creditor.** ⚠️ Watch the scope difference: the brief's Megapack figures are sales TO SpaceX —
+  do not conflate with Tesla's total energy-storage line. *(Analysis.)*
+
+### 📌 REGISTERED
+1. 🚩🚩🚩 **FETCH THE 10-Q** — every figure above is Jake's brief; the Valor footnote and the
+   Stateline VIE disclosure are the two sections to pull verbatim. **The quarterly SpaceX 10-Q is now
+   a standing visibility window into private AI financing terms — the only one of its kind.**
+2. 🚩🚩🚩 **THE SAME JUDGMENT AT META/GOOGL/ORCL: which "leases" in the $1.09T uncommenced stack have
+   failed-SLB features (seller-controlled assets, repurchase options, RVGs)?** Trigger 4 is the one
+   that would land the stack on-sheet AT SIGNING, not at commencement.
+3. 🚩🚩 **MZX TECH / COLOSSUS II's own compute financing** — the 49.9% partner's leverage is the
+   invisible half of Stateline; nonrecourse to SpaceX ≠ nonrecourse to the system.
+4. 🚩🚩 **Valor balance Q3: does the +196%/two-quarters rate continue?** At that rate the equipment
+   book alone passes the $25B public issue within two quarters.
+5. 🚩 **SPCX bond/CDS reaction window** — whether 5.855% WA holds as the Valor book compounds;
+   the daily scans (now including SpaceX per Jake) carry this.
+**Links:** [[ai-financing-fragility]] · [[ai-capex-cycle]] · [[hyperscaler-credit]] · [[transmission-chain]] · [[rates-board]] · [[cepi]]
