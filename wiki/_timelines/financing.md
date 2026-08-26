@@ -1,6 +1,6 @@
 # ⏱ FINANCING — merged timeline (the gate)
 
-> **182 dated entries across 2 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 18:43 PDT**
+> **183 dated entries across 2 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 19:07 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -204,3 +204,4 @@
 - `2026-08-23` [ai-financing-fragility.md:L7092](../ai-financing-fragility.md) — 2026-08-23 ~5:40pm PDT — ⛔⛔⛔ **THE CHART ARRIVES LEGIBLE AND IT FALSIFIES ITS OWN CAPTION AT BOTH ENDS.** ★★★★★★ **PHASE 1 (Mar 25 → mid-May): FUNDING
 - `2026-08-24` [ai-financing-fragility.md:L7164](../ai-financing-fragility.md) — 2026-08-24 ~11:20pm PDT — 🕳️ **JAKE ASKS THE POLICY-PUT QUESTION AND THE VAULT HAS NO ENTRY FOR IT: WHAT IF TREASURY/THE FED PAID AN SPV TO LEVER CORP
 - `2026-08-25` [balance-sheet-board.md:L136](../balance-sheet-board.md) — 2026-08-25 ~3:40pm PDT — ★★★★★ **JAKE SUPPLIES THE VIE MECHANICS THAT MAKE THIS BOARD'S "OFF-SHEET" COLUMN PRECISE — AND THE HISTORICAL RHYME IS THE F
+- `2026-08-25` [balance-sheet-board.md:L186](../balance-sheet-board.md) — 2026-08-25 ~4:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE SPV/SHADOW-LEVERAGE SCAN (Q1→Q2, SEC-primary-sourced) IS THE BOARD'S BIGGEST UPDATE EVER, AND THE AGGREGATE THE 

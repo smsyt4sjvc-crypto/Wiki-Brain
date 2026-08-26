@@ -1,6 +1,6 @@
 # ⏱ SANCTIONS — merged timeline (the gate)
 
-> **304 dated entries across 5 notes · 2026-03-13 → 2026-08-24 · refreshed 2026-08-25 18:43 PDT**
+> **304 dated entries across 5 notes · 2026-03-13 → 2026-08-24 · refreshed 2026-08-25 19:07 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before

@@ -197,3 +197,68 @@ and you consolidate the vehicle."***
 3. 🚩 **CONSTRUCTION-PHASE STOCK: any estimate of total DC construction-in-progress held in
    unconsolidated vehicles.** ⬜ No source known; likely a sell-side or Semianalysis construct.
 **Links:** [[ai-financing-fragility]] · [[hyperscaler-credit]] · [[financing-fragility-gauge]] · [[new-economy-regime]]
+
+## 2026-08-25 ~4:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE SPV/SHADOW-LEVERAGE SCAN (Q1→Q2, SEC-primary-sourced) IS THE BOARD'S BIGGEST UPDATE EVER, AND THE AGGREGATE THE SCAN DID NOT COMPUTE IS THE HEADLINE: UNCOMMENCED DATA-CENTER LEASES ACROSS THE FIVE = $822B → $1,090B IN ONE QUARTER (+32.6%), ~$1.16T WITH META's JULY SIGNING.** ✅ **THE ACCOUNTING TRIPWIRE HAS NOT FIRED — no PB reversal, no consolidation, no restatement, no 4.02, no SEC challenge — WHILE EVERY PRECURSOR GROWS AT DOUBLE-DIGIT QUARTERLY RATES** ⛔ **AND ORCL's LESSOR-BORROWING GUARANTEE (+50% to $3.3B) IS THE EXACT REGISTERED SIGNAL FIRING: direct credit support for the entity financing its own leased infrastructure**
+Source: Jake's gopher scan, run 2026-08-25, Q1→Q2 2026 comparison, **each block cited to the
+issuer's SEC filings — enters at IN-A-FILING rung.** ✅ **Closes the VIE entry's registered #1 (this
+IS the first reading of the footnote shadow series) and #2 (comment-letter search run: none found).**
+**Levels are the scan's own scale (1 = lease growth only … 3-6 = reversal/consolidation/restatement/
+4.02/SEC challenge). META L2 · GOOGL L2 · MSFT L1 · AMZN L2 · ORCL L2.**
+
+#### DATA (per SEC filings via the scan; aggregates computed here)
+| | uncommenced leases Q1→Q2 | the signal beside it |
+|---|---|---|
+| **META** | 182.9 → **279.0** (+52.6%), +$68B July | **EL PASO: 20% owned · ~$2.3B assets in · ~$1B one-time distribution OUT · leaseback · ~$13B MAX RVG** — the Louisiana pattern, instantiated a second time. Louisiana max-exposure $46.0B, PB language UNCHANGED, already a CRITICAL AUDIT MATTER. Restricted cash 5.0→**10.8B** (+116%). Debt **59→84** ($25B May notes) — ⟲ the board's META row (10→59) extends to **10→59→84** |
+| **GOOGL** | 75.6 → 85.2 (+12.7%), +$5.8B June | **Purchase/contractual obligations 332.4 → 811.0 (+144%) — the largest absolute move found; $200.7B short-term.** Credit-derivative backstops 28.4→**43.8** (+54%) — and the +15.4B matches Q1's "$15.3B committed in April" to within $0.1B: **pipeline→executed migration CONFIRMED by arithmetic** |
+| **MSFT** | 155.1 (Dec) → 196.6 → **329.1** — accelerating +26.8% → **+67.4%** | Total listed obligations $743.8B. **⭐ THE CLEAN ONE: no DC-VIE disclosure; states it has NO unconsolidated arrangements reasonably likely to be material.** Pure lease growth, no vehicle |
+| **AMZN** | 106.3 → 137.2 (+29.0%) | UPOs 103.8→130.1; total commitments $650B. **Anthropic facility up to $20B, availability tied to AWS COMPUTE-DELIVERY MILESTONES, $5B exercised. OpenAI: the full $50B (15 + 13.7 + 21.3) now FUNDED — the commitment did not shrink, it converted** |
+| **ORCL** | ~261 → ~260 (flat) | **Lessor-borrowing guarantee 2.2 → 3.3 (+50%)** · power obligations 11.0→13.3 (+21%) · **+$19B new 5-yr purchase commitments post-quarter.** The headline flat; everything underneath it up |
+- **AGGREGATES (computed): uncommenced leases $822.4B → $1,090.5B (+$268B, +32.6% q/q), ~$1,159B with
+  META's July adds. Purchase/contractual commitments ~$879B → ~$1,498B** ⚠️ *(definitions vary by
+  filer — indicative, not a clean sum).*
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★★★ THE SCAN'S OWN THREE-TRIGGER TAXONOMY IS ADOPTED AS THE BOARD'S READING FRAME, BECAUSE THE
+  TRIGGERS HAVE DIFFERENT CLOCKS AND DIFFERENT SIZES: (1) LEASE COMMENCEMENT — $1.1T migrates onto
+  sheets mechanically as leases commence, NO event required, just time; (2) GUARANTEE/BACKSTOP
+  REALIZATION — the RVGs, lessor guarantees and credit derivatives cash-settle if projects
+  deteriorate; (3) VIE CONSOLIDATION — the headline event, and the tripwire that has NOT fired.**
+  ⇒ **The vault's watch was aimed at (3). The scan shows (1) is the certainty and (2) is the
+  vulnerability — consolidation is merely the loudest of the three.** *(Analysis.)*
+- **★★★★★ THE GOOGL MIGRATION ARITHMETIC IS THE SCAN'S BEST SINGLE FINDING: +$15.4B of executed
+  backstops against Q1's "$15.3B committed in April" — the future-authorization pipeline converting
+  to live exposure, measured to $0.1B.** ⇒ **"Future commitments falling" (40.7→21.9 private-company;
+  33.3→24.1 future backstops) is NOT deleveraging — it is the pipeline DRAINING INTO the executed
+  column. The same logic as AMZN's OpenAI $35B "disappearing" into $50B funded.** ⇒ **⛔ Rule for
+  this board: NEVER read a falling commitment line without checking the executed line beside it.**
+  *(Analysis.)*
+- **⛔⛔ BASKET CONSEQUENCES, ATTACHED HONESTLY: GOOGL (#7) picks up the scan's biggest number — $811B
+  of purchase/contractual obligations, +144% in a quarter, $200.7B short-term — and MSFT (#5) picks
+  up the fastest lease acceleration (+67.4%).** ⇒ **MSFT's mitigation is structural and disclosed: NO
+  vehicles, no VIE, the cleanest sheet of the five — its shadow growth is lease-shaped, which is
+  trigger (1) only.** **GOOGL's is commitment-shaped AND backstop-shaped — triggers (1) and (2).**
+  ⇒ **Both basket entries get this attached as a disconfirmer; neither flips on it — the positive-FCF
+  evidence stands, but "funding-side survivors" now carries a measured shadow qualifier.**
+  *(Analysis.)*
+- **★★★★ THE ORCL PICTURE DARKENS COHERENTLY ACROSS THREE INDEPENDENT INSTRUMENTS IN THREE DAYS:
+  226bp CDS (widest IG name on the panel) · six NOT FOUNDs on capacity disclosure · and now the
+  registered lessor-guarantee signal firing (+50%) with $19B of new obligations behind a flat
+  headline.** ⇒ **A company whose visible number is flat while its guarantees, power commitments and
+  purchase obligations all rise is managing the optics of the exact number everyone watches.**
+  *(Analysis.)*
+- **⭐ AND THE WEARY-ROTATION CATALOGUE GETS ITS QUARTERLY GROWTH RATE: the uncertainty inventory IG
+  is paid 81bp to underwrite grew ~+32.6% q/q on the lease leg and roughly +70% on the commitment
+  leg.** ⇒ **The asymmetry argument compounds mechanically each quarter the spread stays flat.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **Q3 EL PASO: does META formally identify it as a VIE, and by what primary-beneficiary
+   reasoning?** The scan's own question; **the second instantiation of a pattern is when it becomes a
+   PROGRAM.**
+2. 🚩🚩🚩 **THE COMMENCEMENT SCHEDULE — when does the $1.1T start commencing?** MSFT's Dec→Mar→Jun
+   acceleration says the stack is still building; **the first quarter where uncommenced FALLS while
+   lease liabilities JUMP is the migration starting.** Trigger (1) is a certainty with an unknown date.
+3. 🚩🚩 **RE-RUN QUARTERLY.** This scan is now the board's issuer-side feed; the level scale carries.
+4. 🚩 **AMZN's Anthropic facility drawdown vs AWS delivery milestones** — capacity-linked financing is
+   a new circularity instrument; ⬜ milestone terms not disclosed.
+**Links:** [[ai-financing-fragility]] · [[hyperscaler-credit]] · [[financing-fragility-gauge]] · [[high-confidence-basket]] · [[rates-board]]
