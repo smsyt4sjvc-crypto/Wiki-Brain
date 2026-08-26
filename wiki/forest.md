@@ -24,9 +24,11 @@ command · short enough to read in one scroll; if it grows past that, prune befo
 ## STATE
 **Two-speed market.** AI **periphery repriced as CREDIT** (CRWV 817bp · ORCL 226bp · SPCX ~170 ·
 AVGO 127, at/near wides — [[hyperscaler-credit]]); **core has not** (IG ~82bp, MSFT 48bp), equities
-near highs on the same names. The off-sheet stack IG holds at 82bp grows **+32.6%/qtr leases,
-~+70%/qtr commitments — $3.1T, now a ZH headline** ([[balance-sheet-board]] 8/25). **No trigger
-fired**; IG/repo/MOVE(74)/dealers calm. Warning-rich, trigger-empty ⇒ **base case = weary rotation**
+near highs on the same names. The off-sheet stack IG holds at 81bp grows **~33%/qtr — AI-7
+commitments+contingent support $575B (end-'24) → $3.2T (KBRA, rating-agency rung 8/26; the 5.6x
+implies 33.1%/qtr, matching the vault's measured +32.6% lease leg)** ([[balance-sheet-board]],
+[[rates-board]] 8/26). **No trigger fired**; IG/repo/MOVE(73)/dealers calm — **but the 30Y is now
+an ADMINISTERED price (buybacks ≥$4B/op: 5.31→5.18 since Aug 17); read fragility off the BELLY.** Warning-rich, trigger-empty ⇒ **base case = weary rotation**
 (slow, uncorroborated widening; free exit at 82bp; delivers the long-end bid — [[rates-board]]).
 **Crack requires fast + corroborated (≥2 stages together). Not present.** Oil: cracks structurally
 supported ([[oil-value-chain]]). Rates: Treasury, not the Fed, is the long-end policy arm. **NEW
