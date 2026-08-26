@@ -483,10 +483,20 @@ when he reopens.**
   does not.** `mcp__github__create_or_update_file` — push the SUBSTANTIVE file(s) to a
   `handoffs/*-RECOVERY.md`, with the recovery steps in the file header. **Auto-generated timelines do
   NOT need pushing; `timeline_header.py --all --threads --chain` regenerates them.**
-- **⇒ ON RECOVERY: `git pull --rebase`, delete the recovery file, regenerate timelines, push.**
-  ⚠️ **Expect a NON-FAST-FORWARD on `Wiki-Brain` too — the weekday fragility Action commits to its
-  default branch while you are blocked. Rebase onto it; the runner touches only `data/fragility/*`
-  and `docs/index.html`, so vault edits do not conflict.**
+- **⇒ ON RECOVERY: `git pull --rebase` (ORIGIN ONLY), delete the recovery file, regenerate
+  timelines, push.**
+
+### ⛔ WIKI-BRAIN PUSH = `bash tools/wb_push.sh` — NEVER `git pull --rebase wb main` (set 2026-08-25, after the accident)
+**Wiki-Brain main is a ROOT-LEVEL mirror of `research-vault/` with DIFFERENT SHAs (no shared
+history) plus content of its own (`work/`, cron-written `data/fragility/*`). `git pull --rebase wb
+main` therefore replays the ENTIRE INMA- history — ancient business-site commits included — onto
+it.** ⛔ **On 8/25 that rebase hit a conflict on a 2-year-old `Index.html` rename, and `git push wb
+HEAD:main` then published the mid-rebase HEAD: five junk site commits and a stray root `Index.html`
+landed on the vault repo (reverted by `8b9c821`).** ⇒ **The script grafts the vault state onto
+wb/main's tree as ONE commit via a temp index — wb-only content survives, owned paths sync exactly,
+always fast-forward, no rebase ever.** ⚠️ **`data/` is deliberately NOT owned: the weekday fragility
+cron writes `data/fragility/*` on wb main directly, so its copy can be newer — after any in-session
+`move_manual.py`/feed refresh, push `data/fragility/*` separately or re-run the feed on wb.**
 
 ### 📱 THE PHONE URL — THE ONE THING THAT WAS NOWHERE IN THIS VAULT UNTIL JAKE ASKED FOR IT (2026-08-23)
 **FRAGILITY LADDER (Artifact — this is the link to open on the iPhone):**
