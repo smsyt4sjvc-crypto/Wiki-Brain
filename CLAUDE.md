@@ -161,6 +161,14 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     rumors."* **Carry every inbound DOWN THE CHAIN: macro → sector → earnings → tape.** Name the
     transmission path or say plainly it has none. Never file a war/politics/policy/rumor inbound as
     background colour.
+18e. 🌲★★★ **THE FOREST VIEW** (Jake, 2026-08-25: *"concise summaries of what this detailed
+    information means… what state is the market in right now, without getting consumed in
+    details"*). **`wiki/forest.md` = the whole market in ONE SCREEN: STATE · HEADED · THE DAM
+    (dated triggers) · DOWNSTREAM (placement shapes).** **Conclusions only, every line carries a
+    pointer into a detail board; nothing primary lives there.** ⇒ **REFRESH IT whenever an entry
+    CHANGES THE STATE — not on every entry — and answer any "where are we / what does it mean"
+    question FROM it, at its altitude.** The detail boards are for filing; the forest is for
+    answering.
 19. ⭐ **MEASURED 2026-08-23 — `python3 tools/token_profile.py` profiles a session's own transcript
     by task type. FIRST RUN, 1,813 turns: carried-context multiplier 246× · input = 91% of the bill ·
     the steady-state context IS the accumulated tool output (97%) · ⛔ THE SINK IS *VAULT RETRIEVAL*

@@ -32,6 +32,8 @@ so a March entry lands on an August paste. The router prints the path on every m
 - [[thesis-radar]] — the confirmation loop: isolated ecosystem scouts → filings verification → convergence-only reconciliation. Cycle 1: 2026-08-09.
 
 ## 🧭 The thesis spine (start here)
+0. 🌲 [[forest]] — **the whole market in ONE SCREEN** (STATE · HEADED · THE DAM · DOWNSTREAM).
+   Answer altitude questions FROM here; file details to the boards. Refreshed on state change.
 1. [[consumption-vs-investment-crux]] — THE top question: did post-COVID borrowing build or drink?
 2. [[new-economy-regime]] — the macro-database read (Fed Trap / debasement in the series)
 3. [[market-fragility]] — the top-level regime read (narrow-market STATE, timed by triggers)
