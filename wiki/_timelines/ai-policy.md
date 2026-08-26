@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **423 dated entries across 4 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 21:07 PDT**
+> **424 dated entries across 4 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 22:24 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -442,6 +442,7 @@
 - `2026-08-23` [metered-compute.md:L2812](../metered-compute.md) — 2026-08-23 ~8:30pm PDT — ✅✅✅ **THE PROFILING RUN IS DONE AND IT CLOSES THE SERIES `:L2265` HAS CARRIED AS "THE SINGLE MOST VALUABLE MISSING" SINCE 8/1
 - `2026-08-23` [metered-compute.md:L2907](../metered-compute.md) — 2026-08-23 ~8:55pm PDT — ⛔⛔ **"READING PDFs AND VERIFYING." HE NAMED IT IN FOUR WORDS AND THE RE-CUT SAYS 65.3%.** ★★★★★★ **MY 8:30pm BUCKETING HID TH
 - `2026-08-24` [ai-financing-fragility.md:L7164](../ai-financing-fragility.md) — 2026-08-24 ~11:20pm PDT — 🕳️ **JAKE ASKS THE POLICY-PUT QUESTION AND THE VAULT HAS NO ENTRY FOR IT: WHAT IF TREASURY/THE FED PAID AN SPV TO LEVER CORP
+- `2026-08-25` [ai-financing-fragility.md:L7227](../ai-financing-fragility.md) — 2026-08-25 ~10:25pm PDT — ⭐⭐⭐⭐⭐ **THE WALTER INVESTIGATION IS ARROW 1 OF A CHAIN THIS NOTE HAS HELD SINCE MAY 22 FINALLY GETTING A LIVE CATALYST — AND
 - `2026-08-25` [compression-thesis.md:L2589](../compression-thesis.md) — 2026-08-25 ~7:40am PDT — ⭐⭐⭐ **THE NEMOTRON-NEUTRALITY TEST REGISTERED 36 HOURS AGO TAKES ITS FIRST TICK, AND THE MECHANISM IS SHARPER THAN THE ONE I 
 - `2026-08-25` [compression-thesis.md:L2632](../compression-thesis.md) — 2026-08-25 ~3:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JALAPEÑO MEASURES, AND THE VAULT'S PRIOR ON IT WAS ONE LINE IN A BACKLOG: `ai-capex-cycle:L333` filed it in AVGO's $
 - `2026-08-25` [compression-thesis.md:L2697](../compression-thesis.md) — Addendum 2026-08-25 ~4:00pm PDT — 📊 **THE INFERENCEX CURVE ARRIVES AND IT CONFIRMS THE GOPHER'S CAVEAT VISIBLY: "2× BETTER" IS A POINT ON A CURVE (~20
