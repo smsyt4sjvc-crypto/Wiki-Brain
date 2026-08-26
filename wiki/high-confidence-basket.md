@@ -192,3 +192,10 @@ Neither is an evidence rank. An audit that ranks by evidence must either apply v
 political screens to EVERY name or to NONE — applying them selectively to the best-evidenced thread
 is how the best-evidenced thread gets excluded.** *(Error class: the audit's own, now named.)*
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[portfolio-state]]
+
+### Addendum 2026-08-25 ~11:45pm PDT — MSFT (#5) disconfirmer extended
+- **⛔ The 15→25yr data-center useful-life claim (UNVERIFIED, `balance-sheet-board` ~11:40pm):
+  if true, new leases reclassify finance→operating and MSFT's headline FCF — the metric this
+  basket's #5 placement rests on — carries an estimate-change tailwind.** No vehicles stands;
+  "clean" now needs the FCF quality-check: watch finance-lease additions vs uncommenced operating
+  growth (+67.4%). Verification fetch registered; if false, this addendum retires.

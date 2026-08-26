@@ -400,3 +400,62 @@ source; the "Exhibit 1" formatting suggests ZH is reprinting a sell-side note (u
 2. 🚩 **Identify the exhibit's author** — if a bank note, its next edition becomes a free quarterly
    cross-check on the gopher scan.
 **Links:** [[ai-financing-fragility]] · [[rates-board]] · [[high-confidence-basket]]
+
+## 2026-08-25 ~11:40pm PDT — ⛔⛔⛔ **THE MSFT "CLEAN ONE" LABEL GETS ITS OPTICS LEVER: EXTENDING DATA-CENTER USEFUL LIVES 15→25 YEARS FLIPS THE NEW-LEASE PIPELINE FROM FINANCE TO OPERATING CLASSIFICATION (the 75% test: a 15-yr lease was 100% of the old life, 60% of the new) — WHICH FLATTERS THE EXACT METRIC THE BASKET THESIS RESTS ON, FCF, WITHOUT CHANGING A DOLLAR OF ECONOMIC SUBSTANCE** ★★★★ **AND THE INBOUND SUPPLIES THE DISCLOSED POWER-PRONG LANGUAGE FOR META/GOOGL NON-CONSOLIDATION: "lack of control over negotiations with future lease tenants and property sales" — the design-spec thesis, now with its verbatim design**
+Source: Jake paste ~11:35pm PT, unattributed analyst/fintwit mechanism post. ⚠️ **⬜ NOTHING HEREIN
+IS VERIFIED: the MSFT 15→25 announcement ("last quarter"), the FCF-definition treatment, and the
+META/GOOGL disclosure language all need the filings. MSFT's DOCUMENTED extensions were server lives
+(4→6yr, 2020/2022); a BUILDING life 15→25 is a distinct, checkable claim.** Filed because the
+mechanisms are textbook ASC 842/810 and the vault must hold them either way.
+  ⟲ EXTENDS balance-sheet-board.md:L213 (2026-08-25) — CLEAN ONE qualifier: no vehicles stands, but the 15->25 useful-life claim (unverified) would flatter FCF by lease reclassification — optics by estimate, not vehicle [old entry stays LIVE]
+
+### DATA (as claimed by the inbound)
+- **META/GOOGL: SPVs not consolidated because they "do not have power to direct the VIE's
+  activities"** — e.g., META's lack of control over future-tenant negotiations and property sales
+  suffices to fail the power prong → **debt stays off-sheet UNTIL THE LEASE BEGINS** (= trigger 1,
+  commencement, exactly as this board has it).
+- **MSFT: data-center useful lives 15 → 25 years (claimed, "last quarter").** Consequence chain:
+  ASC 842's 75%-of-economic-life criterion — a 15-yr lease = 100% of old life (finance) vs 60% of
+  new (operating, if no other criterion trips) → **new leases classify OPERATING → excluded from
+  MSFT's FCF-relevant capex → capex prints lower, FCF prints higher, substance unchanged.**
+
+### DERIVED / MECHANICS CHECK (analysis, not the inbound's)
+- **The flip is NOT automatic:** the 75% test is one of five criteria; a 15-yr DC lease with
+  PV ≥ ~90% of fair value, a purchase option, or specialized-asset character still classifies as
+  finance. **The life extension moves the MARGIN, not the whole book.**
+- **Classification is set at commencement** — existing finance leases don't reclassify; this is a
+  GO-FORWARD mix shift, not a restatement. And operating-lease payments still hit CFO over time —
+  **the flattering is front-end and optical, on the headline metric; cash truth arrives on a lag.**
+- **⭐ THE SIGNATURE TO WATCH, and the board may already be looking at it: MSFT's uncommenced-lease
+  line accelerating +26.8% → +67.4% (`:L213`) while finance-lease growth ($46.2→$62.9B/12mo)
+  decelerates would be exactly what a classification shift LOOKS like.** ⬜ Open question, not a
+  claim — how much of the +67.4% is capacity vs classification.
+- **A second earnings lever rides the same estimate: longer life = lower depreciation = higher
+  EPS.** The vault's standing line (`cepi:L435`): DA/C exists "precisely to catch a complex whose
+  reported earnings depend on the useful life it assigns itself." This is that, instantiated.
+
+### THESIS (interpretation — NOT fact)
+- **⛔⛔ THE 25-YEAR ASSUMPTION COLLIDES HEAD-ON WITH THE VAULT'S COLLATERAL-OBSOLESCENCE EVIDENCE
+  (`ai-financing-fragility:L268`): data centers designed <2 YEARS ago are already "insufficiently
+  provisioned for next-gen chips" — the shell ages FASTER than a 15-yr loan, and MSFT just moved
+  its book the other way, to 25.** One of these is wrong, and the party that gains from the
+  25-year read is the one choosing it (error class 8 applies to accounting estimates too).
+  *(Analysis.)*
+- **⛔ THE CLEAN-ONE QUALIFIER: MSFT still has NO vehicles — that stands. But "cleanest sheet"
+  rested on positive fwd FCF, and if the claim verifies, that flagship metric now carries an
+  estimate-change tailwind. This is the MSFT version of the ORCL pattern this board named on 8/25:
+  managing the optics of the exact number everyone watches — by estimate rather than by vehicle.**
+  ⟲ extends `:L213` (THE CLEAN ONE) and the basket's MSFT row. *(Analysis.)*
+- **★★★ The META/GOOGL power-prong language is the two-prong design spec (`~3:40pm entry`) with
+  its verbatim mechanism: the carve-out is placed on activities (tenant negotiation, property
+  sale) that matter least economically and most legally.** *(Analysis.)*
+
+### 📌 REGISTERED
+1. 🚩🚩🚩 **VERIFY MSFT 15→25: the 10-K/10-Q estimate-change disclosure + the FCF definition's
+   finance-lease treatment.** Falsifiable, one fetch. If FALSE, this entry's MSFT half retires.
+2. 🚩🚩🚩 **The classification-shift signature: finance-lease additions decelerating while
+   uncommenced operating leases accelerate.** Next 10-Q settles how much of +67.4% is capacity.
+3. 🚩🚩 **Pull META/GOOGL VIE non-consolidation language verbatim** — the power-prong sentence is
+   the design spec's fingerprint.
+4. 🚩 **Depreciation tailwind sizing:** ΔD&A from the life change, if disclosed — the EPS lever.
+**Links:** [[high-confidence-basket]] · [[cepi]] · [[ai-financing-fragility]] · [[forest]]

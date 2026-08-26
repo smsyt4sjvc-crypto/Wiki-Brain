@@ -32,6 +32,7 @@ supported ([[oil-value-chain]]). Rates: Treasury, not the Fed, is the long-end p
 | 8/24 | **TGA falls while buybacks run** (H4.1 weekly) | fiscal-side reserve INJECTION, not a swap — liquidity + duration removal at once | long-end duration (TLT-class) · risk-on |
 | 8/23 | **Hormuz tripwire fires** (US-flag casualty · warship engagement · LNG release) | campaign, not incident — crude + cracks jump together; 140% down-day pass-through says refiners keep the move | VLO/refiner leg · war board escalation ladder |
 | 8/25 | **Valor book passes $25B within 2 qtrs** (+196%/2qtr pace) | shadow financing outruns SpaceX's public curve; the 400-450bp wrapper premium becomes the story | SPCX credit watch (daily scans carry it) |
+| 8/25 | **MSFT 15→25yr useful-life claim VERIFIES in the filings** | the clean-sheet premium is partly optics — FCF flattered by lease reclassification + lower D&A lifts EPS; the 25yr assumption collides with the shell-obsolescence evidence; basket #5 thesis gets a quality haircut | verify fetch first · then MSFT rel-long haircut · `vault_find "useful life"` |
 | 8/25 | **Ramp frontier-tier share (Fable+Opus 5) SHRINKS in coming prints** (vs grows = routing) | capabilities OVERHANG confirmed → "can't justify frontier capex" gets data → NVDA/frontier-lab narrative risk; if it GROWS, the token-arbitrage thesis stands and the exposed tier is the Opus-class core vs Chinese open-weights | Ramp AI Index monthly · `vault_find "token arbitrage, barbell"` |
 | 8/25 | **Delaware blocks/conditions Brighthouse, or NAIC/state captive-capital tightening** (Jake's domino: Walter → affiliate scrutiny → captives → DC ABS) | the insurance bid for DC paper thins BY RULE — stage-3 tightening invisible to spread gauges until issuance stalls; the $275B takeout cliff hardens; wrapper premiums widen, negative-FCF issuers first | **BHF deal spread = daily gauge of P(tightening)** · APO archetype · ORCL puts |
 
@@ -41,7 +42,7 @@ supported ([[oil-value-chain]]). Rates: Treasury, not the Fed, is the long-end p
 2. **MU** — bandwidth binds inference · HBM cycle history · `HBM4, bandwidth, DeepSeek decode`
 3. **GEV** — power is the constraint · valuation stretch · `gas turbine, power queue, GEV`
 4. **ETN** — grid/electrification toll · same crowd · `Eaton, grid, electrification`
-5. **MSFT** — cleanest sheet, positive fwd FCF · **+67.4% lease accel** · `MSFT uncommenced, clean sheet, no VIE`
+5. **MSFT** — cleanest sheet, positive fwd FCF · **+67.4% lease accel; 15→25yr life claim would flatter FCF (⬜unverified)** · `MSFT uncommenced, clean sheet, useful life`
 6. **NVDA** — the incumbent toll · **Jalapeño/ASIC hit, Rubin Ultra downgrade** · `Jalapeño, InferenceX, Rubin Ultra`
 7. **GOOGL** — funding-side survivor + distribution · **$811B obligations +144%/qtr** · `GOOGL obligations, backstops, SpaceX stake`
 8. **MP** — the state-equity magnet monopoly · policy dependence · `MP, rare earth, magnet, state equity`
