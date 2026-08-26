@@ -3050,3 +3050,62 @@ Source: **Jake, 2026-08-23 ~8:50pm PDT — "Reading PDFs and verifying."** Re-cu
    architecture required; `--porcelain`, `head`, explicit field selection.
 4. ⛔ **STILL n=1 AND STILL A VAULT-HEAVY DAY.** Carried from `:L2954`.
 **Links:** [[compression-thesis]] · [[data-sourcing-playbook]] · [[_calibration]]
+
+## 2026-08-25 ~10:50pm PDT — ★★★★★ **THE RAMP MODEL-MIX CHART (FT): THE ROUTING THESIS SHOWS UP IN THE #1 LAB'S OWN REVENUE MIX — AND THE CHART'S BIGGEST FLOW IS THE ONE THE "NOBODY PAYS FOR THE BEST" READ IGNORES: THE PANEL IS MIGRATING *UP* THE CAPABILITY CURVE, OUT OF "OTHER" (~2/3 OF JUNE SPEND → ~1/4) AND INTO OPUS-CLASS** ⛔ **The commentator's "capabilities overhang" and the vault's "token arbitrage" predict the SAME chart today and DIFFERENT charts next quarter — the frontier-tier share series is the discriminator, and so far it is GROWING, which is the routing answer**
+Source: FT chart (Ramp AI Index — 7-day MA of business spending by Anthropic model, indexed 100 =
+Jun 1), via Jake ~10:45pm PT with an unattributed commentary thread ("most important chart in AI
+right now"). ⚠️ **Chart-screenshot values are APPROXIMATE pixel reads; the panel is Ramp's
+card/bill-pay customer base — SMB/self-serve-skewed, blind to negotiated enterprise contracts and
+Bedrock/Vertex marketplace routing, where frontier-tier enterprise spend concentrates. Same panel
+discipline as OpenRouter (`:L1965`): a window, not the market.**
+
+### DATA (chart, approx; commentary figures as claimed)
+- **Total index ~135 by early Aug = +~35% total Anthropic spend growth in 9 weeks** in the panel —
+  the headline "limited sales" sits on top of a rapidly growing total.
+- **Fable 5 ≈ 11% of revenue** (commentator's figure; band consistent) — launched early June per
+  the chart (band appears ~Jun 8), **share GROWING steadily since ~Jun 29**, through the mid-July
+  total dip. **Opus 5 appears only at the far right edge (~late July) and takes a visibly large
+  band within days** — launch substitution out of Opus 4.8.
+- **"Other" (legacy/cheap tier): ~2/3 of panel spend on Jun 1 → roughly a quarter by August.**
+  The bulk migrated INTO Opus 4.8 (the strong mid-tier), which peaked as the plurality all summer.
+- Commentary claims: Opus 4.8/5 ≈ Kimi K3 / GLM-5.3 performance at higher price (⬜ no benchmark
+  cited); "strong underlying demand for Chinese open-source" (⬜ inferred — the chart contains no
+  Chinese-model data); "capabilities overhang makes frontier investment harder to justify."
+
+### THESIS (interpretation — NOT fact)
+- **★★★★★ GRADED: JAKE'S ROUTING CALL GETS ITS REVENUE-SIDE EXHIBIT.** The 8/16 elasticity
+  resolution and the token-arbitrage entry said customers route work by economics; his 7/27
+  "in-house worker tier" call and rule 19 ("sonnet fetches, fable interprets") ARE this chart's
+  shape — **a mix dominated by the strong-workhorse tier with a thin frontier layer for the hard
+  core is what OPTIMAL ROUTING looks like, not what refusal-to-pay looks like.** The commentator
+  reads the same picture as demand failure. *(Analysis.)*
+- **★★★★ THE DISCRIMINATOR, REGISTERED: overhang and routing diverge in the NEXT print. If
+  frontier-tier share (Fable + Opus 5) SHRINKS as the mid-tier catches up → overhang confirmed →
+  the "can't justify frontier capex" narrative has data. If it holds or grows with the total →
+  routing.** So far: Fable's share has grown since late June and Opus 5 took share on contact.
+  **The chart's own trend currently argues AGAINST its caption.** *(Analysis.)*
+- **★★★★ WHERE THE COMMENTARY IS STRONGEST — and it is the vault's own barbell (`compression-
+  thesis:L2121`): the revenue core is the MID-tier, and the mid-tier is exactly where Chinese
+  open-weight parity attacks (Kimi/GLM at Opus-class claims, 77% of OpenRouter open-weight
+  tokens).** The frontier 11% is the one tier open source does NOT match; **the exposed asset is
+  the Opus-class plurality, not the Fable sliver.** OpenAI's 7/30 pricing said the same thing from
+  the inside: −80% on the cheap tier, 0% on the flagship — you cut where you're contested.
+  *(Analysis.)*
+- **★★★ THE UPGRADE FLOW IS THE ANTI-OVERHANG DATAPOINT: two-thirds of June spend sat in legacy/
+  cheap models and moved UP to Opus-class by August.** "Businesses are still just trying to find
+  uses" is contradicted by the panel's own migration direction — they're finding uses and paying
+  up for capability while doing it. *(Analysis.)*
+- **⚠️ ERROR-CLASS-8 + PANEL CAVEATS: the thread pushes Chinese-model strength off a chart with no
+  Chinese-model data, unattributed; and an 11-week-old premium model at 11% share-and-growing in
+  an SMB-skewed panel is a LAUNCH CURVE read as a verdict.** Agentic workloads — the regime the
+  InferenceX entry says dominates from here — are frontier-tier token sinks, and they bill through
+  API contracts the Ramp panel undercounts. *(Analysis.)*
+
+### 📌 REGISTERED
+1. 🚩🚩🚩 **THE FRONTIER-SHARE SERIES (Ramp AI Index, monthly): Fable+Opus-5 share of Anthropic
+   panel spend — the routing-vs-overhang discriminator.** Shrinking = overhang; stable/growing =
+   routing. → forest branch.
+2. 🚩🚩 **A real benchmark for "Opus 4.8 ≈ Kimi K3/GLM-5.3"** — the claim carries the whole
+   Chinese-demand inference and arrived citation-free.
+3. 🚩 **FT article itself** (ft.com/content/5ee497…) — the chart's framing vs the FT's own text.
+**Links:** [[compression-thesis]] · [[data-sourcing-playbook]] · [[ai-capex-cycle]] · [[forest]]
