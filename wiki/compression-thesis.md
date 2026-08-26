@@ -2719,3 +2719,68 @@ remains discussion-stage.** ✅ **The update's own rung discipline is right and 
    leg of the loop. ⬜ No instrument.
 3. 🚩 **Deal status unchanged and carried: no amount, no close, no filing.**
 **Links:** [[metered-compute]] · [[memory-regime-question]] · [[ai-financing-fragility]] · [[ai-capex-cycle]]
+
+## 2026-08-25 ~3:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JALAPEÑO MEASURES, AND THE VAULT'S PRIOR ON IT WAS ONE LINE IN A BACKLOG: `ai-capex-cycle:L333` filed it in AVGO's $73B backlog as "OpenAI (6th custom customer, 'Jalapeño,' multi-GW through 2029." IT NOW HAS NUMBERS, AND THEY BEAT THE FLAGSHIP: a FIRST-GENERATION (A0) OpenAI/Broadcom ASIC exceeds Vera Rubin NVL72's July published output-tokens-per-MW — while running SINGLE-token prediction with no speculative decoding, against Rubin results that USED those 3-5× optimisations.** ⛔ **THIS IS THE FIRST MEASURED HIT TO THE "NVDA NEEDS THE WORLD'S TOKEN GENERATION ON ITS SILICON" THESIS: THE LARGEST TOKEN GENERATOR IS MOVING GENERATION ONTO ITS OWN**
+Source: Jake's verified brief, 2026-08-25 — OpenAI's measured InferenceX release (8/25) +
+SemiAnalysis's separate Rubin comparison, **with the gopher's own correction adopted: "up to 2× vs
+Rubin" is a BLEND — OpenAI's 1.5-1.9×/watt is vs GB200/GB300; the Rubin result is SemiAnalysis's
+cross-comparison, and no universal "2× Rubin" figure exists in the accessible text.**
+⚠️ **RUNGS: the GB200/GB300 numbers are VENDOR-MEASURED (OpenAI benchmarking its own chip — SemiAnalysis
+"physically verified the runs," which verifies EXECUTION, not workload selection). The Rubin comparison
+is CROSS-BENCHMARK (OpenAI's lab vs NVDA/CoreWeave's July publication — different conditions).**
+
+#### DATA (as released/reported)
+| model | Jalapeño tok/s/kW | NVDA | ratio | latency |
+|---|---|---|---|---|
+| GPT-OSS 120B | **85,448** | GB200 44,960 | **1.9×** | 1.03s vs 1.80s |
+| DeepSeek R1 670B | **19,641** | GB300 11,781 | **1.7×** | 1.65s vs 5.99s |
+| Kimi K2.5 1T | **18,195** | GB300 11,862 | **1.5×** | 1.56s vs 5.31s |
+- **A0 SILICON; B0 stepping in fab expected +~25% perf/watt. Rated 700W, sustained ≤550W measured.**
+- **>700 tok/s/user on R1 at concurrency 1; ~1,400 on K2.5/GPT-OSS in selected tests — no spec-decode.**
+- **THE STACK: Broadcom silicon implementation + Tomahawk 6 switching · 1.6T optics in the global
+  domain · scale-up 2,048 XPUs across 16 racks · TSMC N3P · HBM4 at 15.4 TB/s per package.**
+  **OpenAI calls it a MULTIGENERATIONAL platform.**
+
+#### THESIS (interpretation — NOT fact)
+- **⛔⛔ THE NVDA TOLL THESIS TAKES ITS FIRST MEASURED HIT WHERE IT IS STRONGEST.** The 8/23 reframe:
+  *"NVDA needs the world's token generation to happen on its silicon."* ⇒ **OpenAI — plausibly the
+  single largest token generator — just demonstrated its generation moving OFF NVDA silicon at
+  BETTER efficiency, on merchant models including DeepSeek and Kimi.** ⇒ **Not an NVDA-killer
+  (training and general acceleration stand), but the custom-ASIC threat moved from "cheaper but
+  worse" to "first silicon, already better at the serving metric that prices inference."**
+  ⇒ **Add to NVDA's basket-entry disconfirmer list.** *(Analysis.)*
+- **★★★★★★ AND IT CORROBORATES THE VAULT'S BANDWIDTH FINDING FROM THE DESIGN SIDE: JALAPEÑO IS A
+  BANDWIDTH-FIRST CHIP — HBM4 at 15.4 TB/s per package.** The DeepSeek decode repricing (4.71× output
+  vs 3.14× input) said BANDWIDTH binds inference; Rubin Ultra's capacity-cut/bandwidth-hold said NVDA
+  knows it; **an inference ASIC built around maximum per-package bandwidth is the third independent
+  confirmation, in silicon.** *(Analysis.)*
+- **★★★★★ THE AVGO RECONCILIATION IS THE COHERENT ONE, AND IT RESOLVES AN APPARENT CONTRADICTION THE
+  VAULT HAS CARRIED FOR DAYS: AVGO CDS AT ALL-TIME WIDES *AND* AVGO's BUSINESS DELIVERING ITS
+  STRONGEST EVIDENCE YET ARE THE SAME STORY.** The CDS prices the $100B SPV FINANCING structure; the
+  Jalapeño result is the BUSINESS the financing builds. ⇒ **"Great business, levered structure" is
+  exactly what 127bp-idiosyncratic-vs-calm-IG means — the credit market charging for the balance
+  sheet while the product wins.** ⇒ **The basket excluded AVGO on the CREDIT story; this is the
+  strongest BUSINESS-side counterweight on file.** 🚩 **Re-examine the exclusion at the next audit —
+  one vendor benchmark does not flip it today.** *(Analysis.)*
+- **⭐ THE REST OF THE BASKET IS UNTOUCHED OR HELPED: TSM (N3P — the toll collects either way) ·
+  MU/HBM (displacement changes WHO INTEGRATES HBM, not whether it is bought) · optics/interconnect
+  (Tomahawk 6 + 1.6T optics = the transfer trade's beneficiary set again).** ⇒ **Custom-ASIC
+  displacement redistributes the stack's rent AWAY from the GPU vendor and TOWARD foundry, memory,
+  and networking — which is three of the basket's four Tier-1/2 silicon legs.** *(Analysis.)*
+- **⚠️ THE CAVEATS THAT KEEP THIS HONEST: (1) vendor-benchmarked on vendor-chosen workloads;
+  (2) the Rubin comparison crosses labs, dates and configs; (3) the spec-decode asymmetry cuts BOTH
+  ways — Jalapeño won without it, but deployed Rubin economics still get the 3-5×; (4) tok/s/kW at
+  peak is not $/token at fleet scale — utilisation, yield, and software maturity decide that;
+  (5) A0 hardware benchmarks are the best the chip will ever look relative to its software.**
+  *(Analysis.)*
+
+#### 📌 REGISTERED
+1. 🚩🚩🚩 **DOES A THIRD PARTY RUN JALAPEÑO?** Vendor-measured → independently-measured is the rung
+   that matters. ⬜
+2. 🚩🚩 **AVGO EXCLUSION RE-EXAMINATION at the next basket audit** — business evidence now strongly
+   positive against a credit-side exclusion.
+3. 🚩🚩 **NVDA's response curve: Rubin CPX / inference-specialised SKUs, and whether NVDA's roadmap
+   splits inference from training publicly.** ⬜
+4. 🚩 **OpenAI's NVDA purchase trajectory** — the displacement claim is testable in NVDA's own
+   disclosures about its largest customers' mix.
+**Links:** [[ai-capex-cycle]] · [[memory-regime-question]] · [[metered-compute]] · [[hyperscaler-credit]] · [[high-confidence-basket]] · [[etched-inference-challenger]]

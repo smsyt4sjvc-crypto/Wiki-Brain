@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **227 dated entries across 6 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 17:27 PDT**
+> **228 dated entries across 6 notes · 2026-05-22 → 2026-08-25 · refreshed 2026-08-25 18:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -199,14 +199,14 @@
 - `2026-08-18` [ai-financing-fragility.md:L6509](../ai-financing-fragility.md) — [2026-08-18] **NVIDIA is exclusive AI-compute infrastructure provider for SB Energy's Ohio project:
 - `2026-08-18` [ai-financing-fragility.md:L6512](../ai-financing-fragility.md) — [2026-08-18] **NVIDIA's announcement emphasises the infrastructure relationship and a $1.5B EQUITY
 - `2026-08-18` [ai-financing-fragility.md:L6514](../ai-financing-fragility.md) — [2026-08-18] **The "$105B" is graded QUALIFIED: *"media reporting discussed financing or guarantees
-- `2026-08-18` [hyperscaler-credit.md:L14](../hyperscaler-credit.md) — [2026-08-18] **NVDA 5Y CDS = 80.330bp** (last price on the chart Jake posted; series
+- `2026-08-18` [hyperscaler-credit.md:L13](../hyperscaler-credit.md) — [2026-08-18] **NVDA 5Y CDS = 80.330bp** (last price on the chart Jake posted; series
 - `2026-08-18` [rates-board.md:L20](../rates-board.md) — [2026-08-18] **30Y ~5.310% (intraday).** ⇒ **A GENUINE NEW HIGH: +4.5bp above the 8/16 secondary
 - `2026-08-18` [rates-board.md:L83](../rates-board.md) — 2026-08-18 ~11:55am PDT — ⛔⛔ **"BEAR STEEPENING PRECEDED 3 OF 4 MAJOR TOPS SINCE 1962" IS THE BASE RATE WITH A STORY. COMPUTED: P(3-or-4 of 4 | pure c
 - `2026-08-18` [rates-board.md:L132](../rates-board.md) — 2026-08-18 ~12:25pm PDT — ✅⛔⛔⛔ **THE SPREAD SERIES IS BUILT FROM THE PRIMARY SOURCE, AND IT DESTROYS THE CLAIM'S FIRST CLAUSE: BEAR STEEPENING IS NOT 
-- `2026-08-18` [transmission-chain.md:L32](../transmission-chain.md) — ⛔ AMENDMENT 2026-08-18 — STAGE 3 "RATIONING" NEEDS A QUALIFIER
+- `2026-08-18` [transmission-chain.md:L31](../transmission-chain.md) — ⛔ AMENDMENT 2026-08-18 — STAGE 3 "RATIONING" NEEDS A QUALIFIER
 - `2026-08-19` [ai-financing-fragility.md:L6548](../ai-financing-fragility.md) — 2026-08-19 ~7:30am PDT — ★★★★★★ **MARVELL ISSUES GOOGLE A $12.18B WARRANT TO WIN TPU-ECOSYSTEM SILICON. ⇒ THE CIRCULARITY THREAD GETS ITS PUREST INSTA
 - `2026-08-19` [ai-financing-fragility.md:L6613](../ai-financing-fragility.md) — 2026-08-19 ~4:25pm PDT — ⭐⭐⭐⭐⭐⭐ **HIS QUESTION IS ANSWERABLE AND I WENT AND ANSWERED IT FROM SEC PRIMARY — AND THE HEADLINE IS NOT DEBT: ⭐⭐⭐ ALPHABET 
-- `2026-08-19` [hyperscaler-credit.md:L58](../hyperscaler-credit.md) — 2026-08-19 ~4:00pm PDT — ⛔⭐⭐⭐⭐⭐ **"NVIDIA AT DOUBLE THE TREASURY YIELD" IS THE SPREAD-vs-YIELD CONFUSION, AND THIS NOTE'S OWN NUMBER IS WHY: THE *SPRE
+- `2026-08-19` [hyperscaler-credit.md:L57](../hyperscaler-credit.md) — 2026-08-19 ~4:00pm PDT — ⛔⭐⭐⭐⭐⭐ **"NVIDIA AT DOUBLE THE TREASURY YIELD" IS THE SPREAD-vs-YIELD CONFUSION, AND THIS NOTE'S OWN NUMBER IS WHY: THE *SPRE
 - `2026-08-19` [rates-board.md:L182](../rates-board.md) — 2026-08-19 ~7:00am PDT — ★★★★★★ **TREASURY DOUBLES LONG-END BUYBACKS ($2B → "AT LEAST" $4B/OPERATION, 10-20Y AND 20-30Y, FROM SEPT 9 TO NOV 4). ⇒ THE 
 - `2026-08-19` [rates-board.md:L243](../rates-board.md) — 2026-08-19 ~7:03am PDT (scanner 14:03 UTC) — ⭐⭐⭐⭐⭐ **THE BUYBACK TEST FIRED THE SAME MORNING AND IT FIRED IN FAVOUR: LONG YIELDS FELL SHARPLY, TLT +1.
 - `2026-08-19` [rates-board.md:L277](../rates-board.md) — 2026-08-19 ~9:15am PDT — ★★★★★★ **THE SHAPE SETTLES THE ATTRIBUTION AND MY 7:03am CAVEAT WAS TOO WEAK: 5Y −2bp · 10Y −6bp · 30Y −9bp IS A MONOTONIC BU
@@ -217,35 +217,36 @@
 - `2026-08-19` [rates-board.md:L623](../rates-board.md) — 2026-08-19 ~3:40pm PDT — ⛔✅★★★★★★ **THE CAUSAL DIRECTION IS INVERTED — CROWDING OUT RUNS GOVERNMENT→CORPORATE, AND THE TAPE SAYS CORPORATES ARE *LOSIN
 - `2026-08-19` [rates-board.md:L696](../rates-board.md) — 2026-08-19 ~4:45pm PDT — ★★★★★★ **YES, AND IT ALREADY HAPPENS — BUT IT SHOWS UP IN *SWAPS*, NOT IN CORPORATE SPREADS, AND THE MECHANISM IS BALANCE SHE
 - `2026-08-19` [rates-board.md:L944](../rates-board.md) — DATA (MEASURED — SOMA per-CUSIP, bucketed by years to maturity from 2026-08-19)
-- `2026-08-19` [transmission-chain.md:L25](../transmission-chain.md) — ⟲ THE CHAIN IS A LOOP, NOT A LADDER (added 2026-08-19 from the FOMC minutes, `:L162`)
-- `2026-08-19` [transmission-chain.md:L78](../transmission-chain.md) — ⛔⛔ AMENDMENT 2026-08-19 ~10:05am PDT — **TWO STRUCTURAL HOLES, AND THE SECOND IS THE MORE IMPORTANT: (a) STAGE 4 IS NOT ONE NUMBER — PART OF IT IS 15-
-- `2026-08-19` [transmission-chain.md:L162](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-19 ~1:05pm PDT — **THE FOMC INDEPENDENTLY DESCRIBES STAGES 2, 3 AND 4 OF THIS CHAIN, IN ITS OWN MINUTES, IN THE SAME ORDER — and it add
+- `2026-08-19` [transmission-chain.md:L24](../transmission-chain.md) — ⟲ THE CHAIN IS A LOOP, NOT A LADDER (added 2026-08-19 from the FOMC minutes, `:L162`)
+- `2026-08-19` [transmission-chain.md:L77](../transmission-chain.md) — ⛔⛔ AMENDMENT 2026-08-19 ~10:05am PDT — **TWO STRUCTURAL HOLES, AND THE SECOND IS THE MORE IMPORTANT: (a) STAGE 4 IS NOT ONE NUMBER — PART OF IT IS 15-
+- `2026-08-19` [transmission-chain.md:L161](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-19 ~1:05pm PDT — **THE FOMC INDEPENDENTLY DESCRIBES STAGES 2, 3 AND 4 OF THIS CHAIN, IN ITS OWN MINUTES, IN THE SAME ORDER — and it add
 - `2026-08-20` [ai-financing-fragility.md:L6693](../ai-financing-fragility.md) — 2026-08-20 ~1:10pm PDT — ★★★★★★ **BROADCOM IS IN TALKS FOR UP TO $100B — "THE LARGEST SPV DEAL EVER FUNDED" — AND IT WOULD *GUARANTEE* $60-70B OF THE 
-- `2026-08-20` [financing-fragility-gauge.md:L16](../financing-fragility-gauge.md) — ⚖️ CURRENT READING — 2026-08-20 — **TENSING, NOT BREAKING**
-- `2026-08-20` [financing-fragility-gauge.md:L55](../financing-fragility-gauge.md) — ⛔ AMENDMENT 2026-08-20 ~11:45am PDT — **"NO FORCED SELLER" IS THE WRONG CRITERION, AND THIS VAULT ALREADY LEARNED THAT ON 7/30**
-- `2026-08-20` [hyperscaler-credit.md:L116](../hyperscaler-credit.md) — 2026-08-20 ~10:30am PDT — ⭐⭐⭐⭐⭐⭐ **THE CROSS-SECTION ARRIVES AND IT TURNS THIS NOTE FROM ONE NAME INTO A LADDER. ✅ NVDA 82.565 IS A NEW WIDE ON THIS N
-- `2026-08-20` [hyperscaler-credit.md:L206](../hyperscaler-credit.md) — 2026-08-20 ~10:55am PDT — ⛔⛔⛔ **I CALLED ORCL A "NEW WIDE" AGAINST A STALE REFERENCE AND IT IS NOT ONE: the vault's carried ~198bp was 2026-07-12, but
-- `2026-08-20` [hyperscaler-credit.md:L306](../hyperscaler-credit.md) — 📖 REFERENCE — WHAT A CDS SPREAD ACTUALLY IS (added 2026-08-20 ~1:00pm PDT, Jake's question)
+- `2026-08-20` [financing-fragility-gauge.md:L15](../financing-fragility-gauge.md) — ⚖️ CURRENT READING — 2026-08-20 — **TENSING, NOT BREAKING**
+- `2026-08-20` [financing-fragility-gauge.md:L54](../financing-fragility-gauge.md) — ⛔ AMENDMENT 2026-08-20 ~11:45am PDT — **"NO FORCED SELLER" IS THE WRONG CRITERION, AND THIS VAULT ALREADY LEARNED THAT ON 7/30**
+- `2026-08-20` [hyperscaler-credit.md:L115](../hyperscaler-credit.md) — 2026-08-20 ~10:30am PDT — ⭐⭐⭐⭐⭐⭐ **THE CROSS-SECTION ARRIVES AND IT TURNS THIS NOTE FROM ONE NAME INTO A LADDER. ✅ NVDA 82.565 IS A NEW WIDE ON THIS N
+- `2026-08-20` [hyperscaler-credit.md:L205](../hyperscaler-credit.md) — 2026-08-20 ~10:55am PDT — ⛔⛔⛔ **I CALLED ORCL A "NEW WIDE" AGAINST A STALE REFERENCE AND IT IS NOT ONE: the vault's carried ~198bp was 2026-07-12, but
+- `2026-08-20` [hyperscaler-credit.md:L305](../hyperscaler-credit.md) — 📖 REFERENCE — WHAT A CDS SPREAD ACTUALLY IS (added 2026-08-20 ~1:00pm PDT, Jake's question)
 - `2026-08-20` [rates-board.md:L755](../rates-board.md) — 2026-08-20 ~7:40am PDT — ⛔✅ **THE BRIEF SAYS THE BUYBACK MOVE WAS "LARGELY ERASED." PRIMARY SAYS *HALF*, AND THE SHAPE OF THE GIVE-BACK IS THE FINDING
 - `2026-08-20` [rates-board.md:L817](../rates-board.md) — 2026-08-20 ~12:25pm PDT — ★★★★★★ **TODAY'S OPERATION IS ROUTINE AND SAYS NOTHING — BUT PULLING THE FULL HISTORY TO PROVE THAT FOUND THE REAL STORY: ⭐ 
-- `2026-08-20` [transmission-chain.md:L253](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-20 ~7:55am PDT — **STAGE 4b GETS BOTH A FEDERAL TEMPLATE *AND* A CONSTRAINT THE CHAIN HAS NO NODE FOR: THE "RATEPAYER PROTECTION PLEDGE
+- `2026-08-20` [transmission-chain.md:L252](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-20 ~7:55am PDT — **STAGE 4b GETS BOTH A FEDERAL TEMPLATE *AND* A CONSTRAINT THE CHAIN HAS NO NODE FOR: THE "RATEPAYER PROTECTION PLEDGE
 - `2026-08-21` [ai-financing-fragility.md:L6766](../ai-financing-fragility.md) — 2026-08-21 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE AVGO DEAL IS NOT NEW — IT IS THE SECOND TRANCHE OF A PLATFORM THIS VAULT ALREADY HELD, AND BROADCOM'S CONTINGENT
 - `2026-08-21` [ai-financing-fragility.md:L6838](../ai-financing-fragility.md) — 2026-08-21 ~8:45am PDT — ★★★★★★ **JAKE'S 2030 TIPPING-POINT READ IS RIGHT BY A BETTER ROUTE THAN HE STATED, AND THIS VAULT ALREADY HAS THE NATURAL EXP
-- `2026-08-21` [financing-fragility-gauge.md:L152](../financing-fragility-gauge.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-21 ~9:10am PDT — **THE 9× GAP IS NOT A CREDIT SPREAD. IT IS THE PRICE OF NOT KNOWING — AND IT MAKES THE MATURITY CURVE A DIRECT READING
-- `2026-08-21` [hyperscaler-credit.md:L470](../hyperscaler-credit.md) — ⭐⭐ WHAT THE PANEL SAYS TODAY (2026-08-21 clearing)
+- `2026-08-21` [financing-fragility-gauge.md:L151](../financing-fragility-gauge.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-21 ~9:10am PDT — **THE 9× GAP IS NOT A CREDIT SPREAD. IT IS THE PRICE OF NOT KNOWING — AND IT MAKES THE MATURITY CURVE A DIRECT READING
+- `2026-08-21` [hyperscaler-credit.md:L469](../hyperscaler-credit.md) — ⭐⭐ WHAT THE PANEL SAYS TODAY (2026-08-21 clearing)
 - `2026-08-22` [ai-financing-fragility.md:L6907](../ai-financing-fragility.md) — 2026-08-22 ~9:00am PDT — ⛔⛔⛔ **THE "$220B vs $12.5B, 17.6×" HEADLINE IS A YEAR-OVER-YEAR COMPARISON, AND THE VAULT'S OWN SEQUENTIAL TRACK SAYS THE ISS
 - `2026-08-22` [ai-financing-fragility.md:L6971](../ai-financing-fragility.md) — 2026-08-22 ~1:35pm PDT — ⛔ **POOLSIDE IS A MAP GAP, AND THE REASON MATTERS: NVDA ANNOUNCED A $1B INVESTMENT IN IT AT A $12B VALUATION IN *OCTOBER 2025
-- `2026-08-22` [financing-fragility-gauge.md:L216](../financing-fragility-gauge.md) — 2026-08-22 — ⭐⭐⭐⭐⭐ **THE GAUGE NOW HAS A PUBLIC-DATA LADDER UNDERNEATH IT, AND ITS FIRST READING CONTRADICTS THE HEADLINE: ONE STAGE LIT OF SEVEN. "CR
-- `2026-08-22` [financing-fragility-gauge.md:L277](../financing-fragility-gauge.md) — 2026-08-22 (later) — ⭐⭐⭐⭐ **BOTH SOLVABLE GAPS CLOSED: 24 SERIES NOW, DEALER REPO FINANCING AND THE FULL H.8 LARGE-vs-SMALL BANK SPLIT. ⛔ AND ADDING S
-- `2026-08-22` [hyperscaler-credit.md:L341](../hyperscaler-credit.md) — 2026-08-22 — ⭐⭐⭐⭐⭐⭐ **AVGO 121.19 IS THE ONLY NAME IN THIS COMPLEX DECISIVELY *THROUGH* ITS HIGH — ~20% ABOVE THE LATE-JULY PEAK — AND IT HAS LEFT THE
-- `2026-08-22` [hyperscaler-credit.md:L432](../hyperscaler-credit.md) — 2026-08-22 — ⭐⭐⭐⭐⭐⭐⭐ **THE SINGLE-NAME CDS GAP IS CLOSED. ICE CLEAR CREDIT PUBLISHES ALL 12 AI-COMPLEX NAMES FREE, DAILY, KEYLESS — AND THE DERIVED SP
+- `2026-08-22` [financing-fragility-gauge.md:L215](../financing-fragility-gauge.md) — 2026-08-22 — ⭐⭐⭐⭐⭐ **THE GAUGE NOW HAS A PUBLIC-DATA LADDER UNDERNEATH IT, AND ITS FIRST READING CONTRADICTS THE HEADLINE: ONE STAGE LIT OF SEVEN. "CR
+- `2026-08-22` [financing-fragility-gauge.md:L276](../financing-fragility-gauge.md) — 2026-08-22 (later) — ⭐⭐⭐⭐ **BOTH SOLVABLE GAPS CLOSED: 24 SERIES NOW, DEALER REPO FINANCING AND THE FULL H.8 LARGE-vs-SMALL BANK SPLIT. ⛔ AND ADDING S
+- `2026-08-22` [hyperscaler-credit.md:L340](../hyperscaler-credit.md) — 2026-08-22 — ⭐⭐⭐⭐⭐⭐ **AVGO 121.19 IS THE ONLY NAME IN THIS COMPLEX DECISIVELY *THROUGH* ITS HIGH — ~20% ABOVE THE LATE-JULY PEAK — AND IT HAS LEFT THE
+- `2026-08-22` [hyperscaler-credit.md:L431](../hyperscaler-credit.md) — 2026-08-22 — ⭐⭐⭐⭐⭐⭐⭐ **THE SINGLE-NAME CDS GAP IS CLOSED. ICE CLEAR CREDIT PUBLISHES ALL 12 AI-COMPLEX NAMES FREE, DAILY, KEYLESS — AND THE DERIVED SP
 - `2026-08-22` [rates-board.md:L893](../rates-board.md) — 2026-08-22 ~9:00am PDT — ⭐⭐⭐ **THE 30Y ROUND-TRIPPED IN THREE SESSIONS AND THE VAULT HAS EVERY LEG: 5.28 (8/18) → 5.19 (8/19 buyback) → 5.23 (8/20) → 
 - `2026-08-23` [ai-financing-fragility.md:L7031](../ai-financing-fragility.md) — 2026-08-23 ~4:55pm PDT — 🚩🚩🚩 **A CLAIM THAT WOULD RE-EXPLAIN THE WHOLE AI EQUITY MOVE, REGISTERED AND NOT ENDORSED: "THE CHIP/MEMORY TRADE PEAKED THE 
 - `2026-08-23` [ai-financing-fragility.md:L7092](../ai-financing-fragility.md) — 2026-08-23 ~5:40pm PDT — ⛔⛔⛔ **THE CHART ARRIVES LEGIBLE AND IT FALSIFIES ITS OWN CAPTION AT BOTH ENDS.** ★★★★★★ **PHASE 1 (Mar 25 → mid-May): FUNDING
 - `2026-08-23` [rates-board.md:L935](../rates-board.md) — 2026-08-23 ~4:35pm PDT — ✅✅✅ **TCHIR'S HEADLINE VERIFIED AGAINST THE PRIMARY AND IT IS EXACT: THE FED OWNS 52.5% OF EVERYTHING MATURING 2036-2041.** ⛔
 - `2026-08-24` [ai-financing-fragility.md:L7164](../ai-financing-fragility.md) — 2026-08-24 ~11:20pm PDT — 🕳️ **JAKE ASKS THE POLICY-PUT QUESTION AND THE VAULT HAS NO ENTRY FOR IT: WHAT IF TREASURY/THE FED PAID AN SPV TO LEVER CORP
-- `2026-08-24` [hyperscaler-credit.md:L517](../hyperscaler-credit.md) — DATA — THE FULL PANEL THE TWO-NAME CHART CANNOT SHOW (ICE, clearing 2026-08-24)
+- `2026-08-24` [hyperscaler-credit.md:L516](../hyperscaler-credit.md) — DATA — THE FULL PANEL THE TWO-NAME CHART CANNOT SHOW (ICE, clearing 2026-08-24)
 - `2026-08-24` [rates-board.md:L1025](../rates-board.md) — 2026-08-24 ~12:15am PDT — ⛔⛔⛔ **THE TGA REVELATION BREAKS THIS BOARD'S OWN LOAD-BEARING CONCLUSION, WRITTEN 8/19 AT `:L223`: *"TREASURY BUYBACKS ARE C
 - `2026-08-24` [rates-board.md:L1101](../rates-board.md) — 2026-08-24 ~11:45pm PDT — ★★★★★★ **JAKE'S WEARY-ROTATION THESIS, FILED AS HIS AND SHARPENED: AT 82bp OVER, THE EXIT FROM AI CREDIT INTO TREASURIES IS 
-- `2026-08-25` [hyperscaler-credit.md:L497](../hyperscaler-credit.md) — 2026-08-25 ~01:50 UTC (2026-08-24 ~6:50pm PDT) — ✅✅✅ **JAKE'S OWN TEST, RUN AGAINST THE INSTRUMENT INSTEAD OF ASSERTED — AND IT IS SATISFIED ON ALL FO
+- `2026-08-25` [hyperscaler-credit.md:L496](../hyperscaler-credit.md) — 2026-08-25 ~01:50 UTC (2026-08-24 ~6:50pm PDT) — ✅✅✅ **JAKE'S OWN TEST, RUN AGAINST THE INSTRUMENT INSTEAD OF ASSERTED — AND IT IS SATISFIED ON ALL FO
 - `2026-08-25` [rates-board.md:L1168](../rates-board.md) — 2026-08-25 ~2:10pm PDT — ✅✅ **THE BOND SCAN (8/25 close) ARRIVES AND CLOSES LAST NIGHT'S FLAG #1 EIGHTEEN HOURS AFTER REGISTRATION: AUCTION INTERNALS 
+- `2026-08-25` [rates-board.md:L1226](../rates-board.md) — Addendum 2026-08-25 ~2:35pm PDT — ✅ **RUNG UPGRADE: every block of the 8/25 scan now traces to a named primary, and the numbers came back IDENTICAL.**

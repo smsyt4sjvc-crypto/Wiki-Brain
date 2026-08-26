@@ -1,6 +1,6 @@
 # ⏱ CHAIN — merged timeline (the gate)
 
-> **5 dated entries across 1 notes · 2026-08-18 → 2026-08-20 · refreshed 2026-08-25 17:27 PDT**
+> **5 dated entries across 1 notes · 2026-08-18 → 2026-08-20 · refreshed 2026-08-25 18:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -13,8 +13,8 @@
 
 ## 2026-08
 
-- `2026-08-18` [transmission-chain.md:L32](../transmission-chain.md) — ⛔ AMENDMENT 2026-08-18 — STAGE 3 "RATIONING" NEEDS A QUALIFIER
-- `2026-08-19` [transmission-chain.md:L25](../transmission-chain.md) — ⟲ THE CHAIN IS A LOOP, NOT A LADDER (added 2026-08-19 from the FOMC minutes, `:L162`)
-- `2026-08-19` [transmission-chain.md:L78](../transmission-chain.md) — ⛔⛔ AMENDMENT 2026-08-19 ~10:05am PDT — **TWO STRUCTURAL HOLES, AND THE SECOND IS THE MORE IMPORTANT: (a) STAGE 4 IS NOT ONE NUMBER — PART OF IT IS 15-
-- `2026-08-19` [transmission-chain.md:L162](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-19 ~1:05pm PDT — **THE FOMC INDEPENDENTLY DESCRIBES STAGES 2, 3 AND 4 OF THIS CHAIN, IN ITS OWN MINUTES, IN THE SAME ORDER — and it add
-- `2026-08-20` [transmission-chain.md:L253](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-20 ~7:55am PDT — **STAGE 4b GETS BOTH A FEDERAL TEMPLATE *AND* A CONSTRAINT THE CHAIN HAS NO NODE FOR: THE "RATEPAYER PROTECTION PLEDGE
+- `2026-08-18` [transmission-chain.md:L31](../transmission-chain.md) — ⛔ AMENDMENT 2026-08-18 — STAGE 3 "RATIONING" NEEDS A QUALIFIER
+- `2026-08-19` [transmission-chain.md:L24](../transmission-chain.md) — ⟲ THE CHAIN IS A LOOP, NOT A LADDER (added 2026-08-19 from the FOMC minutes, `:L162`)
+- `2026-08-19` [transmission-chain.md:L77](../transmission-chain.md) — ⛔⛔ AMENDMENT 2026-08-19 ~10:05am PDT — **TWO STRUCTURAL HOLES, AND THE SECOND IS THE MORE IMPORTANT: (a) STAGE 4 IS NOT ONE NUMBER — PART OF IT IS 15-
+- `2026-08-19` [transmission-chain.md:L161](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-19 ~1:05pm PDT — **THE FOMC INDEPENDENTLY DESCRIBES STAGES 2, 3 AND 4 OF THIS CHAIN, IN ITS OWN MINUTES, IN THE SAME ORDER — and it add
+- `2026-08-20` [transmission-chain.md:L252](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-20 ~7:55am PDT — **STAGE 4b GETS BOTH A FEDERAL TEMPLATE *AND* A CONSTRAINT THE CHAIN HAS NO NODE FOR: THE "RATEPAYER PROTECTION PLEDGE
