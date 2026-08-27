@@ -2910,3 +2910,5 @@ revenue, margins, guidance); the thesis above is conditional on it; (2) 🚩🚩
 CRWD's reaction = confirmation #2/#3 for the group; (3) 🚩 IGV follow-through — one day is an
 event, a week is a rotation.
 **Links:** [[metered-compute]] · [[ai-capex-cycle]] · [[forest]] · [[high-confidence-basket]]
+
+#### Addendum 2026-08-27 ~1:10pm PDT — **CONFIRMATION #2, per Jake: OKTA +31% — a SECOND software name, in a DIFFERENT sub-sector (identity/security vs CRM's apps), repricing violently on earnings the same day.** Two sub-sectors moving 20-30% on results = a GROUP repricing, earnings-driven, not a single-name squeeze. The software-breakout series: CRM +23% · OKTA +31% · IGV +7.5% · WDAY tonight = #3's test.
