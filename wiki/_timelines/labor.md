@@ -1,6 +1,6 @@
 # ⏱ LABOR — merged timeline (the gate)
 
-> **121 dated entries across 1 notes · 2026-06-30 → 2026-08-26 · refreshed 2026-08-26 16:33 PDT**
+> **121 dated entries across 1 notes · 2026-06-30 → 2026-08-26 · refreshed 2026-08-26 17:09 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before

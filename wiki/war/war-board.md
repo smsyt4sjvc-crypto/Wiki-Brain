@@ -3699,3 +3699,41 @@ UKRAINE, not NATO (not over-read); Moldova object origin UNESTABLISHED at report
    second outlet corroborate from separate sourcing — "N outlets, one origin" check applies).
 5. 🚩 **Moldova object origin; Leipzig attribution finalization.**
 **Links:** [[war/war-rhetoric]] · [[oil-value-chain]] · [[rates-board]] · [[transmission-chain]] · [[forest]]
+
+## 2026-08-26 ~5:10pm PDT — ⭐⭐⭐⭐ **THE CHOKEPOINT TAX REACHES A NATIONAL IMPORT LEDGER: JAPAN GUIDES SEPTEMBER CRUDE IMPORTS TO 80% OF THE 2025 MONTHLY AVERAGE (August ran 100%) ON RED SEA REROUTING — TRANSIT TIME ROUGHLY DOUBLING (23 → 55 DAYS) — AND COVERS THE GAP BY DRAWING THE REMAINDER OF ITS MARCH 80M-BBL RESERVE RELEASE RATHER THAN ANNOUNCING A NEW ONE** ⛔ **The buffer is being CONSUMED, not rebuilt: a top-3 importer running on strategic stocks is lower fragility TODAY at the price of higher fragility at the NEXT shock**
+Source: ZH/OilPrice (Irina Slav), Akazawa via Reuters, 8/26 (Jake: "crude shipping showing up on
+a country's actual imports" — the destination-side confirmation of this board's Windward
+shipping-side series). ⚠️ **GEOGRAPHY ARTIFACT IN THE ARTICLE, flagged not repeated: "23 days via
+Bab el-Mandeb but 55 via the Suez Canal" is internally muddled — Suez and Bab el-Mandeb are the
+two ENDS of the same Red Sea corridor. The 55-day route avoiding Houthi threat is almost
+certainly the CAPE OF GOOD HOPE; the substance (transit roughly doubles) stands, the labels
+don't.** ⬜ Which supply legs actually route Red Sea for Japan-bound barrels (the diversified
+Atlantic/African/Azeri purchases, not Gulf-origin) — unverified.
+
+### DATA
+- Sept imports guided to **80% of 2025 monthly avg** (Aug = 100%) · gap covered from the
+  UNUSED PORTION of the March release (80M bbl ≈ 50 days demand, announced after the Feb
+  US/Israel-Iran strikes) · **no new release** · pre-war Middle East dependence ~95%, since
+  diversified (Canada/Azerbaijan/Africa) · **July import bill ALL-TIME HIGH $89.46B.**
+
+### THESIS (interpretation — NOT fact)
+- **★★★★ TRANSIT-TIME DOUBLING IS A SUPPLY CUT WITH ZERO PRODUCTION LOST: the same barrels
+  spend twice as long on the water, so inventory-in-transit doubles and monthly ARRIVALS fall —
+  the logistics version of the refining story filed today. The constraint keeps migrating to
+  CONVERSION AND CARRIAGE, not crude in the ground.** Tanker demand (ton-miles) rises
+  mechanically — the freight market keeps the move. *(Analysis.)*
+- **★★★ CONSISTENT WITH THE WEEK'S TAPE, both directions: Japan buying 20% fewer barrels for a
+  month is mildly BEARISH flat crude at the margin (alongside Hormuz diplomacy) while the
+  logistics/product tightness stays — one more reason the crack, not the barrel, is where the
+  war shows up.** And the de-escalation asymmetry: Hormuz diplomacy does NOT calm Bab
+  el-Mandeb — the Houthi leg runs on its own clock (this board's Tihamah/blockade-breach
+  series). *(Analysis.)*
+- **⭐ THE RATES-BOARD REGISTER: Japan's record energy import bill is a yen/trade-deficit wire —
+  a squeezed Japanese institutional sector (record import costs + FX-hedging costs) is one
+  candidate mechanism behind SOFT FOREIGN INDIRECTS at US duration auctions. Speculative,
+  unproven, but it connects two boards' open questions and the 7Y prints tomorrow.**
+  *(Analysis — mechanism candidate only.)*
+**📌 REGISTERED:** (1) 🚩🚩 Japan October guidance — does 80% persist (state) or normalize
+(incident)?; (2) 🚩 reserve-remainder size (how much March release is left = the real buffer);
+(3) 🚩 VLCC/ton-mile rates as the carriage-tax gauge. ⬜ none on file.
+**Links:** [[oil-value-chain]] · [[demand-destruction]] · [[rates-board]] · [[forest]]

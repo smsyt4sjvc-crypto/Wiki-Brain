@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **180 dated entries across 2 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 16:33 PDT**
+> **181 dated entries across 2 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 17:09 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -202,3 +202,4 @@
 - `2026-08-24` [war-board.md:L3513](../war/war-board.md) — Addendum 2026-08-24 ~10:55pm PDT — ⚖️ **JAKE COMMISSIONED THE RANKING ON *ESCALATION POTENTIAL*. Taking it on those terms, the board AGREES ON #1 AND 
 - `2026-08-26` [ai-capex-cycle.md:L3422](../ai-capex-cycle.md) — 2026-08-26 ~3:55pm PDT — ⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 — THE DEMAND HALF: $96.2B (+4.3% beat, +106% y/y) · DC $89.0B · Q3 GUIDE $108B (+3.7% over street) · AN
 - `2026-08-26` [war-board.md:L3545](../war/war-board.md) — 2026-08-26 ~4:30pm PDT — ⛔⛔⛔ **NEW FRONT ON THIS BOARD: THE RUSSIA→NATO ESCALATION ARC (Jul 30 → Aug 26), AND IT ARRIVES ALREADY AT THE BACKCHANNEL-OF
+- `2026-08-26` [war-board.md:L3609](../war/war-board.md) — 2026-08-26 ~5:10pm PDT — ⭐⭐⭐⭐ **THE CHOKEPOINT TAX REACHES A NATIONAL IMPORT LEDGER: JAPAN GUIDES SEPTEMBER CRUDE IMPORTS TO 80% OF THE 2025 MONTHLY A

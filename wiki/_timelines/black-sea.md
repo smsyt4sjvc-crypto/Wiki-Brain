@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **176 dated entries across 2 notes · 2026-03-13 → 2026-08-26 · refreshed 2026-08-26 16:33 PDT**
+> **177 dated entries across 2 notes · 2026-03-13 → 2026-08-26 · refreshed 2026-08-26 17:09 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -198,3 +198,4 @@
 - `2026-08-23` [oil-value-chain.md:L2008](../oil-value-chain.md) — 2026-08-23 ~8:05am PDT — ⛔⛔⛔ **JAKE: "AND YOU DO HAVE OUR FULL REFINERY BRANCH RIGHT? WE WENT OVER THIS EXTENSIVELY LAST WEEK." — HE IS RIGHT TO ASK. 
 - `2026-08-23` [oil-value-chain.md:L2113](../oil-value-chain.md) — 2026-08-23 ~11:15pm PDT — 🚩🚩🚩 **THE REFINER THESIS HAS THREE PHYSICAL DISCRIMINATORS AND ZERO POLITICAL ONES — AND A POLITICAL ONE IS NOW LIVE: A ~$2.
 - `2026-08-26` [oil-value-chain.md:L2164](../oil-value-chain.md) — 2026-08-26 ~4:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE DIVERGENCE THE VAULT FALSIFIED FOR JULY IS NOW LIVE IN AUGUST, WITH ITS CAUSE ATTACHED: WTI 87.06 (8/21) → ~81.7
+- `2026-08-26` [oil-value-chain.md:L2210](../oil-value-chain.md) — Addendum 2026-08-26 ~4:40pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE PULLS THE WPSR HIMSELF AND THE REFINER TEST CLOSES CONFIRMED — STRONGER THAN THE THESIS EXPECTED: UTIL

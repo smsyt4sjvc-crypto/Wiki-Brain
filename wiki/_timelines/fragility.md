@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **243 dated entries across 6 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 16:33 PDT**
+> **244 dated entries across 6 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 17:09 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -265,3 +265,4 @@
 - `2026-08-26` [rates-board.md:L1309](../rates-board.md) — 2026-08-26 ~11:15am PDT — WEEK TAPE (Mon→Wed 2pm ET, Jake's wrap) — ⭐⭐⭐⭐⭐ **THE 5Y WAS "MUCH LESS CONVINCING" WITH FOREIGN/INDIRECT BELOW AVERAGE — TH
 - `2026-08-26` [rates-board.md:L1360](../rates-board.md) — Addendum 2026-08-26 ~11:35am PDT — NEW HOME SALES −10.5% MoM (607k SAAR): ⚠️ **THE HEADLINE IS HUGE; THE SINGLE MONTH IS NOT TRUSTWORTHY — this Census
 - `2026-08-26` [rates-board.md:L1368](../rates-board.md) — 2026-08-26 ~1:20pm PDT — CLOSE SCAN (3:30pm ET curve) — ⭐⭐⭐⭐⭐ **THE 5Y INTERNALS LAND MID, NOT WEAK: 4.393% stop, +0.2bp TAIL, 2.37x, INDIRECTS 61.51%
+- `2026-08-26` [rates-board.md:L1407](../rates-board.md) — Addendum 2026-08-26 ~4:42pm PDT — **THE 7Y COLLISION RUBRIC (Jake's, adopted verbatim as the branch's quantitative bar).** Benchmarks: July 7Y = 0.2bp
