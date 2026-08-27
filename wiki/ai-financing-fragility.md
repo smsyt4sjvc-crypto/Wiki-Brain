@@ -7612,3 +7612,22 @@ included — Warsh Friday); (2) the §1 disclosure-mandate idea as standalone po
 - **The meta-tell strengthens: the refinement converges the design toward what Treasury is
   ALREADY half-doing (administered long end, conditional support). "Where the market points it"
   is one legislative step from current practice.** Warsh Friday, watched with this on file.
+
+#### Addendum 2026-08-26 ~10:00pm PDT — **JAKE'S SECOND REFINEMENT: THE HEDGE LEG'S CONVEXITY *IS* THE WAR CHEST — as spreads widen the protection leg gains mark-to-market, gets SOLD in the secondary market, and the proceeds fund the bid (buybacks or corporates); then a NEW hedge is struck AT-ISSUANCE/AT-THE-MONEY, carrying no accrued spread value — the book resets and re-arms.** ✅ **CONCEDED: this kills the funding half of the wrong-way objection. The facility never needs to raise money at the worst moment — the widening itself mints the intervention capital, mechanically, before the intervention is needed. Self-financing countercyclicality is the design's elegant core and it survives every round of this argument.**
+- **The two residuals that remain (smaller, but real):**
+  **(1) HARVEST LIQUIDITY: selling appreciated index protection in the stress state is selling
+  into a one-way market — everyone wants protection exactly when the facility is selling it.
+  Realized will run below marked; the war chest is worth less at the moment of use than on the
+  screen.** (Mitigant: index CDX is the most liquid credit instrument there is; this is a
+  haircut, not a refutation.)
+  **(2) SOMEONE IS STILL SHORT THE HARVESTED LEG. The netting is the fix and the remaining
+  design constraint: if Treasury BOTH writes protection (to real-money hedgers — who get PAID
+  in stress, stabilizing) and holds its long hedge leg, the book runs near-matched with a
+  modest long-protection tilt, premiums carrying the tilt. The state becomes a credit-risk
+  CLEARINGHOUSE with a countercyclical lean — the net drain on private balance sheets shrinks
+  to the tilt, not the notional.** Roll cost noted: re-striking at-the-money after harvest means
+  high running premium at wide spreads — the re-arm is expensive when calm returns.
+- **Standing: the design is now internally coherent — priced put + self-funding hedge +
+  conditional two-nozzle deployment + at-the-money resets. What remains are execution
+  parameters (tilt size, premium pricing vs adverse selection, harvest haircuts), not
+  structural breaks.** *(Jake's design; grading analysis.)*
