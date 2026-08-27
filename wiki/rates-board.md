@@ -1454,3 +1454,16 @@ buyback operations calendar (which CUSIPs, sizes) once September ops post.
 ### Addendum 2026-08-26 ~4:42pm PDT — **THE 7Y COLLISION RUBRIC (Jake's, adopted verbatim as the branch's quantitative bar).** Benchmarks: July 7Y = 0.2bp tail · 2.49x · 70.1% indirects · 13.0% dealers; six-auction avgs ≈ 0.3bp tail · 2.48x · 11.4% dealers. Secondary 7Y closed 4.51 (above July's 4.473 stop). **ABSORPTION: ≤0.3bp tail, ~2.48x+, low dealer take. CONFIRMATION: >1bp tail, BTC toward/below ~2.4x, dealers materially >13% — with refined-product inflation (WPSR: max utilization, collapsing distillate stocks) and AI/component-capex inflation (NVDA commitments/margins) arriving together, a weak 7Y completes the three-legged collision.** Branch state: WPSR ✅ CONFIRMED-STRONGER · NORSI ✅ CONFIRMED-OUTAGE (duration ⬜) · 7Y ⏳ 1:00 ET Thursday — score against this rubric same-day, say the result unprompted.
 
 ### Addendum 2026-08-26 ~8:20pm PDT — **CONSUMER CONFIDENCE DETAIL (Conference Board, Aug): the −0.8 headline (89.4) hides the real move — EXPECTATIONS −5.8 to 68.2 (lowest since Jan) while PRESENT SITUATION +6.8 to 121.2 (highest since May).** ⛔ **The SPLIT is the datum: today-fine/tomorrow-bad, with the Expectations−Present gap at −53 points — and Expectations at 68.2 sits far below the Conference Board's own ~80 recession-signal threshold.** Cited drags: gasoline/cost-of-living + hiring slowdown — **consumers naming FUEL as the pressure is another log on the kill-switch fire ([[oil-value-chain]]).** Discipline: a soft-data WARNING-state, not a trigger — its one calibrated signal (sub-80 expectations) is now flashing, and it corroborates the week's growth-soft leg (real spending flat, core capex orders decelerating) without timing anything. Watch: claims tomorrow, Michigan final Friday (same morning as Warsh).
+
+## 2026-08-27 ~6:30am PDT — **CLAIMS: 203K vs 208Ke (4wk 205.5K) · CONTINUING −18K to ~1.78M — THE NO-HIRE/NO-FIRE SPLIT HOLDS ON BOTH LEGS: firing outright LOW (203K is strong) while hiring stays stalled (payroll growth ~61K/mo avg 2026, per AP). Jake's read adopted: SLIGHTLY HAWKISH AT THE MARGIN — removes cut urgency without fixing the hiring stagnation** ⚠️ **The state-level chart is a MAGNITUDE-CHECK exhibit: its whole axis is ±1,000 claims — NY +~720 and CA −~800 are rounding error against a 203K national print, and the NSA state series is noise-dominated week to week. Do not read state stories into it.**
+Source: DOL weekly claims via Jake, 8/27 morning + ZH state chart (NSA).
+- **The macro joint it sharpens: yesterday's consumer EXPECTATIONS collapse (68.2) named
+  "hiring slowdown" as a driver — and today's data is exactly that shape: nobody is being fired
+  (claims 200K-class), and nobody is being hired (61K/mo payrolls). The no-hire/no-fire economy
+  is stable until it isn't: it has no shock absorber — the first real layoff cycle hits a
+  labor market with no hiring flow to catch the displaced.** *(Analysis.)*
+- **Fed path: hawkish-at-margin stacks onto the hot-PCE week into TODAY'S 7Y (1:00 ET, the
+  collision branch's last leg — strong claims = one less reason for a duration bid) and
+  WARSH TOMORROW 10am.** Today also: goods trade, KC Fed, Jackson Hole opens; MRVL/WDAY/ADSK
+  after the close. *(Analysis.)*
+**Links:** [[forest]] · [[consumption-vs-investment-crux]] · [[new-economy-regime]]
