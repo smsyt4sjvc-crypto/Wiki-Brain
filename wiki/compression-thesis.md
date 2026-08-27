@@ -2886,3 +2886,27 @@ claim is the falsifiable core; (2) 🚩🚩 OpenRouter ranking verification: was
 Chinese chips (Ascend? Cambricon? unnamed ⬜) and at what tokens/s/kW vs the Jalapeño/InferenceX
 curve; (4) 🚩 pricing table when published (the "one-tenth" denominator).
 **Links:** [[metered-compute]] · [[memory-regime-question]] · [[high-confidence-basket]] · [[forest]]
+
+## 2026-08-27 ~1:00pm PDT — ⭐⭐⭐⭐⭐ **TAPE-CONFIRMED (Yahoo, 3:57pm ET, header-reconciled ✓): SOFTWARE IS REPRICING VIOLENTLY — CRM +23.3% ($205.62→$253.50, off last night's earnings) · IGV +7.5% ($102.39→$110.12) — one of the largest single-day sector-ETF moves outside crash-bounces. THE AI-EATS-SAAS TRADE JUST TOOK ITS BIGGEST SINGLE-DAY REVERSAL** ⚠️ **Precision: a breakout from the BASE, not to new highs — IGV 110 vs 118 52wk high, CRM 253 vs 269; CRM +73% off its 146 low. And the CAUSE is unfetched: the +23% is confirmed tape; WHAT CRM reported (Agentforce/AI revenue? guidance?) is ⬜ — do not narrate the why until the print is read**
+Source: live WebFetch quotes (Jake's confirm request); both headers pass the reconciliation test
+(price − change = prev close, exactly).
+
+### THESIS (interpretation — NOT fact)
+- **★★★★ IF THE CAUSE IS AI-REVENUE-SHAPED, THIS IS THE MISSING LEG OF THE WHOLE CAPEX DEBATE:
+  the weary-rotation catalogue's core uncertainty is "~how~ the money is actually going to be
+  made" — an APPLICATION-layer earnings print that reprices a sector +7.5% in a day is the first
+  demand-side answer that doesn't route through the infrastructure loop itself.** The
+  return-on-capex question NVDA's tape asked last night gets answered, if at all, HERE — at the
+  app layer, not in more GPU orders. *(Analysis, conditional on the unread print.)*
+- **★★★ THE ROTATION FLAVOR FITS THE BASE CASE: out of crowded AI-infra, into the AI-victims-
+  turned-beneficiaries — software has FCF, moats, and had the year's most punished multiples
+  (the SaaS-pocalypse frame this note carries). "Weary of capex, hungry for cash flows" would
+  buy exactly this group on exactly this catalyst.** *(Analysis.)*
+- **⭐ Ramp-chart consistency: enterprises paying up for Opus-class models (the panel's upgrade
+  migration) and an enterprise-software vendor beating on AI products are the same adoption
+  fact, observed at two layers.** *(Analysis.)*
+**📌 REGISTERED:** (1) 🚩🚩🚩 THE CRM PRINT — what actually drove it (Agentforce/Data Cloud
+revenue, margins, guidance); the thesis above is conditional on it; (2) 🚩🚩 WDAY tonight +
+CRWD's reaction = confirmation #2/#3 for the group; (3) 🚩 IGV follow-through — one day is an
+event, a week is a rotation.
+**Links:** [[metered-compute]] · [[ai-capex-cycle]] · [[forest]] · [[high-confidence-basket]]
