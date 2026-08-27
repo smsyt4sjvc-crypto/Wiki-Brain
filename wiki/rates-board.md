@@ -1538,3 +1538,21 @@ second consecutive sub-average print with directs compensating = the rotation se
 confirmed. (2) 🚩🚩 TIC data next release — WHO stopped bidding (Japan the candidate). (3) 🚩
 Warsh tomorrow 10am — into an absorbed auction, the pressure case softens at the margin.
 **Links:** [[forest]] · [[balance-sheet-board]] · [[new-economy-regime]]
+
+### Addendum 2026-08-27 ~1:00pm PDT — ⭐⭐⭐⭐⭐ **THE COLLISION THESIS IN ONE CHART, IN THE RIGHT UNIT: UST + USD-IG ISSUANCE IN DV01 TERMS ($mn/bp), NET OF FED PURCHASES AND BUYBACKS — 2026-27 ≈ RECORD ~$3.8-3.9k mn/bp, EXCEEDING 2020-21, BECAUSE THE CRISIS YEARS' GROSS RECORDS WERE FED-ABSORBED (−$1.6k in 2020) AND THIS CYCLE HAS **ZERO ABSORBER**: private hands must take record duration risk with no central-bank offset for the first time in the QE era** ⛔ **AND THE ORANGE BUYBACK SLIVER IS JAKE'S SQUIRT GUN DRAWN TO SCALE — barely visible against the stack**
+Source: chart via Jake 8/27 (⬜ unattributed, bank-research style — author fetch registered).
+Archived `raw/2026-08-27-dv01-issuance-chart.png`. Components: gross UST + USD IG incl.
+hyperscalers − Fed net purchases − buybacks.
+- **★★★★ WHY DV01 IS THE HONEST UNIT: face-value issuance comparisons (the board's $132B/7mo
+  ladder) understate the point — duration-weighted, the private market's absorption burden is
+  the record, and this week's auction tape is the market clearing it in real time: foreign
+  indirects fading with tenor, directs stepping in, belly +80bp/6mo.** The chart and the week's
+  internals are the same fact at two frequencies. *(Analysis.)*
+- **★★★★ AND IT EXPLAINS THE BESSENT TEMPTATION MECHANICALLY: bills carry ~zero DV01 — a
+  WAM-shortening shift lets Treasury CUT the duration-supply bar without cutting borrowing.
+  The war-gamed November move is, in this chart's units, the only lever that visibly shrinks
+  the 2027 bar. Expect exactly that defense of it.** The counter stays: the duration doesn't
+  vanish — it becomes rollover exposure on the sovereign's own book. *(Analysis.)*
+**📌** (1) chart authorship/methodology (whose DV01 series); (2) re-mark the 2027 bar after
+Nov 4 — the bills-shift would compress it, the visible test of the twist.
+**Links:** [[forest]] · [[new-economy-regime]] · [[balance-sheet-board]]
