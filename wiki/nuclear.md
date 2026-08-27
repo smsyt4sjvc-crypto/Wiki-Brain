@@ -623,7 +623,7 @@ S-1s, new rounds, milestone hits/misses; no automation)
   currently one unverified claim each.**
 **Links:** [[power-not-petroleum]] · [[high-confidence-basket]] · [[data-sourcing-playbook]]
 
-### Addendum 2026-08-27 ~10:58am PDT — ⭐⭐⭐⭐ **THE JANUS NUMBER THAT DISCIPLINES THE WHOLE SMR-FOR-DATACENTERS STORY: WAKSMAN GUIDES ARMY PPA PRICES AT $0.20-0.30/kWh** ($200-300/MWh, location/use-case dependent) — and the $2.2B + Sept-2028 first-operational are now OFFICIAL via Waksman's own post ("the first fully operational commercial nuclear microreactor will be deployed at a U.S. Army installation in 2028"), upgrading yesterday's analyst-brief figures
+### Addendum 2026-08-27 ~12:37pm PDT — ⭐⭐⭐⭐ **THE JANUS NUMBER THAT DISCIPLINES THE WHOLE SMR-FOR-DATACENTERS STORY: WAKSMAN GUIDES ARMY PPA PRICES AT $0.20-0.30/kWh** ($200-300/MWh, location/use-case dependent) — and the $2.2B + Sept-2028 first-operational are now OFFICIAL via Waksman's own post ("the first fully operational commercial nuclear microreactor will be deployed at a U.S. Army installation in 2028"), upgrading yesterday's analyst-brief figures
 Source: ZH Janus piece + Waksman (@Waksman84) post, via Jake 8/27. New detail: FOAK→SOAK
 acceleration ("bending metal as quickly as possible"); base offtake agreements under discussion
 for first/second-of-a-kind units; DOE-Pilot-style fast regulatory pathway confirmed.
