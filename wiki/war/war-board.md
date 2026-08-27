@@ -91,7 +91,7 @@
 - `2026-08-24` `L3609` Addendum 2026-08-24 ~10:55pm PDT — ⚖️ **JAKE COMMISSIONED THE RANKING ON *ESCALATION POTENTIAL*. Taking it on those te
 - `2026-08-26` `L3641` 2026-08-26 ~4:30pm PDT — ⛔⛔⛔ **NEW FRONT ON THIS BOARD: THE RUSSIA→NATO ESCALATION ARC (Jul 30 → Aug 26), AND IT ARRIV
 - `2026-08-26` `L3705` 2026-08-26 ~5:10pm PDT — ⭐⭐⭐⭐ **THE CHOKEPOINT TAX REACHES A NATIONAL IMPORT LEDGER: JAPAN GUIDES SEPTEMBER CRUDE IMPO
-- `2026-08-26` `L3743` Addendum 2026-08-26 ~5:25pm PDT — ⭐⭐⭐⭐ **DESTINATION-SIDE LEDGER #2, SAME HOUR: INDIA — HORMUZ FREIGHT +411% (Ras Tanu
+- `2026-08-26` `L3743` Addendum 2026-08-26 ~5:12pm PDT — ⭐⭐⭐⭐ **DESTINATION-SIDE LEDGER #2, SAME HOUR: INDIA — HORMUZ FREIGHT +411% (Ras Tanu
 
 <!-- TIMELINE:END -->
 
@@ -3740,7 +3740,7 @@ Atlantic/African/Azeri purchases, not Gulf-origin) — unverified.
 (3) 🚩 VLCC/ton-mile rates as the carriage-tax gauge. ⬜ none on file.
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[rates-board]] · [[forest]]
 
-### Addendum 2026-08-26 ~5:25pm PDT — ⭐⭐⭐⭐ **DESTINATION-SIDE LEDGER #2, SAME HOUR: INDIA — HORMUZ FREIGHT +411% (Ras Tanura→India VLCC $0.85 → $4.34/bbl) · WAR-RISK INSURANCE $250k → UP TO $10M PER PASSAGE · Q2 IMPORT BILL +60% y/y, JULY +41%** ⛔ **AND THE AVOIDANCE ARBITRAGE IS THE FINDING: the routes AROUND Hormuz cost MORE than the route THROUGH it — Corpus Christi→India $15.86/bbl (+150%), Ust-Luga Suezmax $19.90 (+137%) vs Gulf-origin ~$4.34 + insurance. Distance beats danger; the Hormuz tax is cheaper to PAY than to avoid — which is WHY transits continue at reduced rates and why the constraint is a TAX, not a wall**
+### Addendum 2026-08-26 ~5:12pm PDT — ⭐⭐⭐⭐ **DESTINATION-SIDE LEDGER #2, SAME HOUR: INDIA — HORMUZ FREIGHT +411% (Ras Tanura→India VLCC $0.85 → $4.34/bbl) · WAR-RISK INSURANCE $250k → UP TO $10M PER PASSAGE · Q2 IMPORT BILL +60% y/y, JULY +41%** ⛔ **AND THE AVOIDANCE ARBITRAGE IS THE FINDING: the routes AROUND Hormuz cost MORE than the route THROUGH it — Corpus Christi→India $15.86/bbl (+150%), Ust-Luga Suezmax $19.90 (+137%) vs Gulf-origin ~$4.34 + insurance. Distance beats danger; the Hormuz tax is cheaper to PAY than to avoid — which is WHY transits continue at reduced rates and why the constraint is a TAX, not a wall**
 Source: ZH/OilPrice (Paraskova), Financial Express freight data, 8/26. ⚠️ **The article's "Iran
 CLOSED OFF the Strait" is an overstatement against this board's own measured series: Windward
 8/23 = 16 transits/day ≈ 11.4% of normal — REDUCED, not closed. The freight and insurance
