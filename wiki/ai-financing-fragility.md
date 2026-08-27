@@ -7585,3 +7585,30 @@ carries the watch.**
 **📌** (1) any official trial balloon resembling this (Treasury/Fed speeches, Jackson Hole
 included — Warsh Friday); (2) the §1 disclosure-mandate idea as standalone policy chatter.
 **Links:** [[rates-board]] · [[balance-sheet-board]] · [[transmission-chain]] · [[forest]]
+
+### Addendum 2026-08-26 ~10:05pm PDT — **JAKE'S REFINEMENT FLIPS THE CDS LEG AND DISSOLVES COUNTER #1: TREASURY IS THE PROTECTION WRITER, NOT THE BUYER — it SELLS the credit protection (collecting premium in calm, supplying loss-absorption in stress) — and the intervention pool is UNIFIED AND CONDITIONAL: the same capital goes to Treasury buybacks OR corporate purchases "where the market points it," instead of mechanically buying billions of Treasuries back on schedule**
+- **CONCEDED: the counterparty objection dies in this version.** Treasury-as-writer doesn't drain
+  dealer/insurer capital in stress — it supplies it. And **the unified conditional pool is the
+  design's strongest piece: the vault's own critique of the current buyback program (administered
+  30Y, ≥$4B/op on schedule regardless of conditions) is that it's mechanical. One
+  state-contingent facility with two nozzles — sovereign or corporate, allocated by the
+  relative-value break — is strictly more efficient per dollar than the scheduled version
+  Treasury runs today.** It also PRICES the put 2020 gave away free: the implicit backstop
+  exists either way (SMCCF proved it); selling it captures premium and defines terms —
+  the FDIC/TRIA precedent class. *(Analysis.)*
+- **⛔ THE TWO PROBLEMS THAT REPLACE THE ONE THAT DIED:**
+  **(1) WRONG-WAY RISK, contractual: the sovereign's payout obligation peaks at the exact moment
+  its own funding costs peak.** Discretionary puts (2020) let the state choose its moment;
+  written protection pays out on the correlation event by contract — the AI-credit tail lands on
+  the Treasury precisely when the belly is selling off. Premium income is calm-state comfort;
+  the S&L/2008 deposit-insurance asymmetry is the precedent's dark side.
+  **(2) ADVERSE-SELECTION PRICING: Treasury-insured corporates become quasi-sovereign + spread —
+  MORE attractive than Treasuries, defeating the crowding objective — unless the premium eats
+  most of the spread, at which point nobody buys protection in calm and everyone buys it in
+  stress.** The insurance death spiral is the design constraint; pricing it is the whole game.
+- **⭐ Legal chassis note: buybacks are statutory (31 USC 3111); Treasury-written derivatives at
+  scale and direct corporate purchases need ESF stretch or Congress — the 2020 Treasury-equity/
+  Fed-leverage split existed precisely to route around this.** *(Analysis.)*
+- **The meta-tell strengthens: the refinement converges the design toward what Treasury is
+  ALREADY half-doing (administered long end, conditional support). "Where the market points it"
+  is one legislative step from current practice.** Warsh Friday, watched with this on file.
