@@ -1539,7 +1539,7 @@ confirmed. (2) 🚩🚩 TIC data next release — WHO stopped bidding (Japan the
 Warsh tomorrow 10am — into an absorbed auction, the pressure case softens at the margin.
 **Links:** [[forest]] · [[balance-sheet-board]] · [[new-economy-regime]]
 
-### Addendum 2026-08-27 ~1:00pm PDT — ⭐⭐⭐⭐⭐ **THE COLLISION THESIS IN ONE CHART, IN THE RIGHT UNIT: UST + USD-IG ISSUANCE IN DV01 TERMS ($mn/bp), NET OF FED PURCHASES AND BUYBACKS — 2026-27 ≈ RECORD ~$3.8-3.9k mn/bp, EXCEEDING 2020-21, BECAUSE THE CRISIS YEARS' GROSS RECORDS WERE FED-ABSORBED (−$1.6k in 2020) AND THIS CYCLE HAS **ZERO ABSORBER**: private hands must take record duration risk with no central-bank offset for the first time in the QE era** ⛔ **AND THE ORANGE BUYBACK SLIVER IS JAKE'S SQUIRT GUN DRAWN TO SCALE — barely visible against the stack**
+### Addendum 2026-08-27 ~12:39pm PDT — ⭐⭐⭐⭐⭐ **THE COLLISION THESIS IN ONE CHART, IN THE RIGHT UNIT: UST + USD-IG ISSUANCE IN DV01 TERMS ($mn/bp), NET OF FED PURCHASES AND BUYBACKS — 2026-27 ≈ RECORD ~$3.8-3.9k mn/bp, EXCEEDING 2020-21, BECAUSE THE CRISIS YEARS' GROSS RECORDS WERE FED-ABSORBED (−$1.6k in 2020) AND THIS CYCLE HAS **ZERO ABSORBER**: private hands must take record duration risk with no central-bank offset for the first time in the QE era** ⛔ **AND THE ORANGE BUYBACK SLIVER IS JAKE'S SQUIRT GUN DRAWN TO SCALE — barely visible against the stack**
 Source: chart via Jake 8/27 (⬜ unattributed, bank-research style — author fetch registered).
 Archived `raw/2026-08-27-dv01-issuance-chart.png`. Components: gross UST + USD IG incl.
 hyperscalers − Fed net purchases − buybacks.
