@@ -37,7 +37,11 @@ major refineries offline (NORSI 8/26); the constraint is CONVERSION capacity, no
 8/26: the AI complex is a SECOND sovereign-scale duration supplier — hyperscaler issuance ~$35B/yr
 (2020-24) → $93B (2025) → $132B in 7mo (2026); foreign buyers took more US corporates ($390B) than
 Treasuries ($329B) T12M ([[rates-board]] 8/26). Inflation hot (PCE 3.7/3.3), breakevens anchored
-~2.3 — the repricing lives in the BELLY (policy path), not the 30Y.**
+~2.3 — the repricing lives in the BELLY (policy path), not the 30Y. **THE BIND (Jake, 8/26):
+monetary transmission is ASYMMETRIC — hikes ration housing (already breaking), not AI issuance
+(rate-insensitive, $132B/7mo); buybacks ($32B) can't out-buy the supply; the crash can't be
+permitted ⇒ by elimination the adjustment variable is the REAL YIELD — administered curve +
+above-target inflation = repression; gold is the residual claim ([[new-economy-regime]] 8/26).**
 
 ## ⚡ BRANCHES — if X does Y (dated in · pruned when resolved)
 | in | IF | THEN | instrument |
