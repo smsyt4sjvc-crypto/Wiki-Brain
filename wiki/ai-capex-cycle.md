@@ -3597,3 +3597,21 @@ positive (bookings "exceptionally robust," custom accelerating H2).
   custom-XPU vendor — hedging its own silicon bet with the competitor's equity.** *(Analysis.)*
 **📌** the $120B vest curve vs actual Custom revenue, quarterly; the GM floor as custom mixes up.
 **Links:** [[compression-thesis]] · [[balance-sheet-board]] · [[high-confidence-basket]]
+
+### Addendum 2026-08-27 ~3:35pm PDT — ⭐⭐⭐⭐ **THE MACRO-SHARE DATUM: HIGH-TECH CAPEX (equipment + software + R&D) = 55.2% OF TOTAL US NOMINAL CAPITAL SPENDING IN Q2 2026 — RECORD IN DATA TO 1960; +12pts since 2020; the DOT-COM PEAK WAS ~44%; the share didn't cross 25% until the 1980s. Plus: AMZN+GOOGL+MSFT+META combined capex projected >$1.1T by 2027 — exceeding US defense (~$900B) — which CROSS-CHECKS NVDA's customer forecast (top-5 ~$1.3T incl. the fifth name) ✓**
+Source: unattributed macro thread via Jake (BEA-NIPA-derivable; ⬜ author/exact series unfetched).
+- **⛔ THE DENOMINATOR DISCIPLINE, applied before the record gets quoted clean: a SHARE rises
+  two ways. The dot-com comparison proves it — the ~44% PEAK came "after the bubble burst"
+  because total capex COLLAPSED faster than tech capex. Today's 55.2% is part AI surge
+  (numerator) and part THE REST OF THE ECONOMY NOT INVESTING (denominator): ex-tech capex
+  stagnation is baked into the record.** The honest statement: the US investment engine now
+  runs on one sector. *(Analysis.)*
+- **★★★★ WHICH SHARPENS [[consumption-vs-investment-crux]] to a point: the post-COVID borrowing
+  IS building — but it is building ONE THING. A US capex recession and an AI capex cut are now
+  the SAME EVENT: there is no diversified investment base to absorb an AI pause. The
+  transmission chain's stage 4→5 (capex commitments → supplier orders) is no longer a sector
+  channel — it is THE economy's investment channel.** Ties the monetary-asymmetry bind: the
+  rate-insensitive sector is also the only sector investing. *(Analysis.)*
+**📌** the exact BEA series + author (verify 55.2%); ex-tech capex growth as its own line (the
+denominator's health = the diversification that no longer exists).
+**Links:** [[consumption-vs-investment-crux]] · [[new-economy-regime]] · [[transmission-chain]] · [[forest]]
