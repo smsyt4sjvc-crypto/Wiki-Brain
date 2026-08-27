@@ -622,3 +622,22 @@ S-1s, new rounds, milestone hits/misses; no automation)
   when disclosed (converts "contract value" to backlog); (4) ⬜ Valar/Aalo: build the file —
   currently one unverified claim each.**
 **Links:** [[power-not-petroleum]] · [[high-confidence-basket]] · [[data-sourcing-playbook]]
+
+### Addendum 2026-08-27 ~10:58am PDT — ⭐⭐⭐⭐ **THE JANUS NUMBER THAT DISCIPLINES THE WHOLE SMR-FOR-DATACENTERS STORY: WAKSMAN GUIDES ARMY PPA PRICES AT $0.20-0.30/kWh** ($200-300/MWh, location/use-case dependent) — and the $2.2B + Sept-2028 first-operational are now OFFICIAL via Waksman's own post ("the first fully operational commercial nuclear microreactor will be deployed at a U.S. Army installation in 2028"), upgrading yesterday's analyst-brief figures
+Source: ZH Janus piece + Waksman (@Waksman84) post, via Jake 8/27. New detail: FOAK→SOAK
+acceleration ("bending metal as quickly as possible"); base offtake agreements under discussion
+for first/second-of-a-kind units; DOE-Pilot-style fast regulatory pathway confirmed.
+- **★★★★ THE PRICE CUTS BOTH WAYS AND BOTH GET FILED: (1) FOR THE ARMY IT IS RATIONAL —
+  $0.20-0.30/kWh is roughly diesel-generator parity, bought as CONTINUOUS grid-independent
+  power for installations where electricity's value during a grid failure dwarfs wholesale
+  economics. Resilience priced at the backup-fuel benchmark, not the grid one.
+  (2) FOR THE COMMERCIAL/DATACENTER TRANSITION IT IS THE DISCIPLINE: hyperscale power runs
+  ~$0.06-0.12/kWh (Nscale's onsite gas campus class) — first-gen microreactor output at 2-4x
+  that is NOT competitive for DC load. The Army's own price guidance says the SMR-powers-AI
+  story needs a 2-3x cost-down through the learning curve BEFORE it reaches commercial offtake.
+  The Barakah lesson is the required path, not a bonus.** *(Analysis; DC power-cost comparator
+  is vault-class estimate ⬜ not a quoted Nscale figure.)*
+- **⭐ Rung upgrades: $2.2B and Sept-2028 move from analyst-brief to program-lead-stated.
+  The 2028 deadline is now the cohort's official ranking test in the principal's own words.**
+**📌** PPA terms per site when disclosed (the $0.20-0.30 range's actual prints = the FOAK cost
+series); first commercial offtake discussion outside DoD = the transition tell.
