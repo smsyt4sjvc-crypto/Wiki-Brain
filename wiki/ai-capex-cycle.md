@@ -3598,7 +3598,7 @@ positive (bookings "exceptionally robust," custom accelerating H2).
 **📌** the $120B vest curve vs actual Custom revenue, quarterly; the GM floor as custom mixes up.
 **Links:** [[compression-thesis]] · [[balance-sheet-board]] · [[high-confidence-basket]]
 
-### Addendum 2026-08-27 ~3:35pm PDT — ⭐⭐⭐⭐ **THE MACRO-SHARE DATUM: HIGH-TECH CAPEX (equipment + software + R&D) = 55.2% OF TOTAL US NOMINAL CAPITAL SPENDING IN Q2 2026 — RECORD IN DATA TO 1960; +12pts since 2020; the DOT-COM PEAK WAS ~44%; the share didn't cross 25% until the 1980s. Plus: AMZN+GOOGL+MSFT+META combined capex projected >$1.1T by 2027 — exceeding US defense (~$900B) — which CROSS-CHECKS NVDA's customer forecast (top-5 ~$1.3T incl. the fifth name) ✓**
+### Addendum 2026-08-27 ~4:09pm PDT — ⭐⭐⭐⭐ **THE MACRO-SHARE DATUM: HIGH-TECH CAPEX (equipment + software + R&D) = 55.2% OF TOTAL US NOMINAL CAPITAL SPENDING IN Q2 2026 — RECORD IN DATA TO 1960; +12pts since 2020; the DOT-COM PEAK WAS ~44%; the share didn't cross 25% until the 1980s. Plus: AMZN+GOOGL+MSFT+META combined capex projected >$1.1T by 2027 — exceeding US defense (~$900B) — which CROSS-CHECKS NVDA's customer forecast (top-5 ~$1.3T incl. the fifth name) ✓**
 Source: unattributed macro thread via Jake (BEA-NIPA-derivable; ⬜ author/exact series unfetched).
 - **⛔ THE DENOMINATOR DISCIPLINE, applied before the record gets quoted clean: a SHARE rises
   two ways. The dot-com comparison proves it — the ~44% PEAK came "after the bubble burst"
