@@ -1,6 +1,6 @@
 # ⏱ WAR/OIL — merged timeline (the gate)
 
-> **258 dated entries across 3 notes · 2026-03-13 → 2026-08-26 · refreshed 2026-08-26 17:09 PDT**
+> **260 dated entries across 3 notes · 2026-03-13 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -280,3 +280,5 @@
 - `2026-08-26` [oil-value-chain.md:L2210](../oil-value-chain.md) — Addendum 2026-08-26 ~4:40pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE PULLS THE WPSR HIMSELF AND THE REFINER TEST CLOSES CONFIRMED — STRONGER THAN THE THESIS EXPECTED: UTIL
 - `2026-08-26` [war-board.md:L3545](../war/war-board.md) — 2026-08-26 ~4:30pm PDT — ⛔⛔⛔ **NEW FRONT ON THIS BOARD: THE RUSSIA→NATO ESCALATION ARC (Jul 30 → Aug 26), AND IT ARRIVES ALREADY AT THE BACKCHANNEL-OF
 - `2026-08-26` [war-board.md:L3609](../war/war-board.md) — 2026-08-26 ~5:10pm PDT — ⭐⭐⭐⭐ **THE CHOKEPOINT TAX REACHES A NATIONAL IMPORT LEDGER: JAPAN GUIDES SEPTEMBER CRUDE IMPORTS TO 80% OF THE 2025 MONTHLY A
+- `2026-08-26` [war-board.md:L3647](../war/war-board.md) — Addendum 2026-08-26 ~5:12pm PDT — ⭐⭐⭐⭐ **DESTINATION-SIDE LEDGER #2, SAME HOUR: INDIA — HORMUZ FREIGHT +411% (Ras Tanura→India VLCC $0.85 → $4.34/bbl)
+- `2026-08-26` [war-board.md:L3668](../war/war-board.md) — 2026-08-26 ~7:51pm PDT — ⚠️⚠️ **UKMTO WARNING 121-26 (ATTACK): TANKER HIT BY UNKNOWN PROJECTILE IN THE STRAIT OF HORMUZ — fire extinguished, ALL CREW 

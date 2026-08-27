@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **62 dated entries across 3 notes · 2026-06-30 → 2026-08-26 · refreshed 2026-08-26 17:09 PDT**
+> **64 dated entries across 3 notes · 2026-06-30 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -81,3 +81,5 @@
 - `2026-08-24` [nuclear.md:L453](../nuclear.md) — 2026-08-24 ~7:15pm PDT — ★★★★★★ **THE $80B PROGRAM IS ARITHMETICALLY IMPOSSIBLE AT US CONSTRUCTION COSTS, AND THAT — NOT "capacity shortfall" — IS WHY
 - `2026-08-26` [buildout-bottleneck-map.md:L1340](../buildout-bottleneck-map.md) — 2026-08-26 ~9:14am PDT — ⭐⭐ **GEV × LS ELECTRIC: "GRID X TECHNOLOGY" VSC-HVDC JV (company-confirmed 8/26)** — South Korea next-gen grid/HVDC; joint so
 - `2026-08-26` [buildout-bottleneck-map.md:L1346](../buildout-bottleneck-map.md) — 2026-08-26 ~1:15pm PDT — ⚡⚡⚡ **EO 14420 (PRIMARY, signed today): IEEPA NATIONAL EMERGENCY ON THE BULK-POWER SYSTEM — A LEGAL WALL ON TOP OF THE PHYSIC
+- `2026-08-26` [nuclear.md:L534](../nuclear.md) — 2026-08-26 ~5:20pm PDT — ⭐⭐⭐⭐⭐ **JANUS AWARDS LAND (Army/DIU, Axios exclusive): ANTARES→FORT BRAGG · BWXT→FORT CAMPBELL · GENERAL ATOMICS→FORT HOOD · 
+- `2026-08-26` [nuclear.md:L570](../nuclear.md) — Addendum 2026-08-26 ~5:26pm PDT — ⭐⭐⭐⭐ **JAKE OPENS A STANDING WATCH: THE PRIVATE MICROREACTOR COHORT — TRACK THE COMPANIES AND ANY IPO/S-1** — and th

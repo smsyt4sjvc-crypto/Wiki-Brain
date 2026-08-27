@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **225 dated entries across 3 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 17:09 PDT**
+> **225 dated entries across 3 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before

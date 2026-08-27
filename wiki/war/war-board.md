@@ -3760,3 +3760,30 @@ numbers ARE the price of that constraint, and they are the better datum than the
 **📌 REGISTERED:** (1) 🚩 whether the $4.34 includes war-risk or stacks with it (changes the
 arbitrage math); (2) 🚩 Indian refiner margins (Reliance) vs US — the wedge's other side.
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[high-confidence-basket]]
+
+## 2026-08-26 ~7:51pm PDT — ⚠️⚠️ **UKMTO WARNING 121-26 (ATTACK): TANKER HIT BY UNKNOWN PROJECTILE IN THE STRAIT OF HORMUZ — fire extinguished, ALL CREW SAFE, no environmental impact, authorities investigating** ⛔ **THE TIMESTAMPS ARE THE STORY: incident REPORTED 25 Aug 1730 UTC · warning ISSUED 27 Aug (UTC) — a ~36-48hr lag — meaning THE ATTACK OCCURRED INSIDE THE SAME WINDOW THE "HORMUZ DIPLOMACY" NARRATIVE WAS BLEEDING −6% OUT OF CRUDE.** The market traded de-escalation for two days with an un-issued attack warning sitting in the queue.
+Source: UKMTO Warning 121-26 verbatim (Jake paste, 8/26 ~7:50pm PT). Three clocks logged per
+rule 12: incident report 25 Aug 1730 UTC · UKMTO issue 27 Aug UTC · paste 26 Aug ~7:50pm PT
+(= 27 Aug 02:50 UTC). Attribution: "unknown projectile," source "local authorities" — ⬜ no
+flag, no vessel name, no location detail, no attribution.
+
+### THESIS (interpretation — NOT fact)
+- **⛔ TRIPWIRE CHECK, run first: NOT MET. The ceiling triggers (US-flag casualty · warship
+  engagement · LNG release) all fail — crew safe, vessel unnamed/likely commercial tanker, fire
+  out.** This is another INCIDENT in the continuing campaign-state, ledger-add class, not an
+  escalation-rank change. *(Analysis.)*
+- **★★★ THE READ THAT MATTERS IS THE COLLISION WITH THE DIPLOMACY NARRATIVE: an attack DURING
+  the de-escalation window is the spoiler pattern — factions that lose from a deal (or a
+  deliberately unattributable actor) firing into the talks. ERROR CLASS 8: "unknown projectile"
+  with no attribution serves whoever wants the ambiguity.** The de-escalation trade (crude −6%
+  this week, the bond market's relief valve) now carries a dated counter-datum from INSIDE its
+  own window. *(Analysis.)*
+- **⭐ AND IT PRICES THE INDIA ENTRY RETROACTIVELY: the $10M-per-passage war-risk premium filed
+  this afternoon is underwriting exactly this event class — projectile, fire, survivable. The
+  premium is not stale fear; it is current actuarial pricing.** *(Analysis.)*
+**📌 REGISTERED:** (1) 🚩🚩 vessel identity/flag/attribution when named — a US/UK-linked flag
+would move this up the ladder; (2) 🚩🚩 crude + war-risk premium reaction now that the warning
+is PUBLIC (does the de-escalation bleed pause?); (3) 🚩 attack-ledger increment (IMO-series
+reconciliation next Windward daily); (4) 🚩 the UKMTO issue LAG itself — if systematic,
+"no incidents reported" on any given day means less than it reads.
+**Links:** [[oil-value-chain]] · [[demand-destruction]] · [[rates-board]] · [[forest]]

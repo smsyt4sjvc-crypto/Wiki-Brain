@@ -1,6 +1,6 @@
 # ⏱ MODEL-ECON — merged timeline (the gate)
 
-> **147 dated entries across 2 notes · 2026-07-16 → 2026-08-26 · refreshed 2026-08-26 17:09 PDT**
+> **150 dated entries across 2 notes · 2026-07-16 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -163,3 +163,6 @@
 - `2026-08-25` [compression-thesis.md:L2720](../compression-thesis.md) — Addendum 2026-08-25 ~11:55pm PDT — ⭐⭐⭐⭐⭐ **THE FULL PORTABLE COMPUTER ARTICLE (VentureBeat/Nuñez, 6am) LANDS THE NUMBER THE TOKEN THREAD HAS WANTED AL
 - `2026-08-25` [metered-compute.md:L2975](../metered-compute.md) — 2026-08-25 ~10:50pm PDT — ★★★★★ **THE RAMP MODEL-MIX CHART (FT): THE ROUTING THESIS SHOWS UP IN THE #1 LAB'S OWN REVENUE MIX — AND THE CHART'S BIGGEST
 - `2026-08-26` [compression-thesis.md:L2754](../compression-thesis.md) — 2026-08-26 ~9:10am PDT — ⭐⭐⭐ **EXPORT-CONTROL ENFORCEMENT GOES FROM HYPOTHETICAL TO INDICTMENT: TAIWAN PROSECUTORS CHARGE 9 — INCLUDING AN NVDA TAIWAN
+- `2026-08-26` [metered-compute.md:L3034](../metered-compute.md) — 2026-08-26 ~5:40pm PDT — ⭐⭐⭐⭐⭐ **"NVIDIA IN TALKS TO BUY HUGGING FACE FOR OVER $13B" (single-outlet INSIDER sourcing, TALKS-stage, no terms — REPORTED
+- `2026-08-26` [metered-compute.md:L3068](../metered-compute.md) — ⛔ CORRECTION 2026-08-26 ~7:05pm PDT (Jake's catch, within the hour) — **THE 5:40pm ENTRY CONFLATED TWO DOCUMENTS FROM THE SAME JULY WEEK, AND THE CORR
+- `2026-08-26` [metered-compute.md:L3087](../metered-compute.md) — Addendum 2026-08-26 ~7:08pm PDT — **THE PRIMARY ARTIFACT ARRIVES (Jake): Huang's 7/24 post — HIS FIRST EVER TWEET — sharing the letter. 66M views/173K

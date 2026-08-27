@@ -1,6 +1,6 @@
 # ⏱ SHEETS — merged timeline (the gate)
 
-> **191 dated entries across 2 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 17:09 PDT**
+> **192 dated entries across 2 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -213,3 +213,4 @@
 - `2026-08-26` [balance-sheet-board.md:L448](../balance-sheet-board.md) — 2026-08-26 ~9:05am PDT — ⭐⭐⭐⭐⭐ **NVDA JOINS THE MONITOR AS THE SIXTH NAME — THE VENDOR WING: MORGAN STANLEY (via FT) SIZES "BALANCE-SHEET-AS-A-SERVICE
 - `2026-08-26` [balance-sheet-board.md:L470](../balance-sheet-board.md) — 2026-08-26 ~3:45pm PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 10-Q: THE VENDOR WING CONVERTS FROM ANALYST ESTIMATE TO IN-A-FILING IN ONE DAY — MAX GUARANTEES $108
 - `2026-08-26` [balance-sheet-board.md:L549](../balance-sheet-board.md) — Addendum 2026-08-26 ~4:30pm PDT — SOURCE ATTRIBUTION CONFIRMED (gopher appendix): reported figures/platform breakdown/DSO/cash flow/commitments = NVDA
+- `2026-08-26` [balance-sheet-board.md:L551](../balance-sheet-board.md) — Addendum 2026-08-26 ~7:14pm PDT — ⛔⭐⭐⭐⭐⭐ **THE VENDOR WING GROWS AN ASSET-MANAGEMENT ARM: NVDA PARTNERS WITH APOLLO · BLACKROCK · BLACKSTONE · BROOKFI
