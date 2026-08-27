@@ -2914,3 +2914,14 @@ event, a week is a rotation.
 **Links:** [[metered-compute]] · [[ai-capex-cycle]] · [[forest]] · [[high-confidence-basket]]
 
 #### Addendum 2026-08-27 ~2:55pm PDT — **CONFIRMATION #2, per Jake: OKTA +31% — a SECOND software name, in a DIFFERENT sub-sector (identity/security vs CRM's apps), repricing violently on earnings the same day.** Two sub-sectors moving 20-30% on results = a GROUP repricing, earnings-driven, not a single-name squeeze. The software-breakout series: CRM +23% · OKTA +31% · IGV +7.5% · WDAY tonight = #3's test.
+
+#### Addendum 2026-08-27 ~3:20pm PDT — **JAKE REFRAMES THE SOFTWARE BREAKOUT AND HIS FRAME IS BETTER SUPPORTED BY THE WEEK'S DATA: "ACCUMULATION SIGNAL. Software can't function without the infrastructure... demand will always move mountains of money and demand is obviously robust. Supply will catch up."** — the COMPLEMENT read vs this note's rotation caution: app-layer monetization is the missing RETURN EVIDENCE, which compresses the risk premium ON infrastructure rather than pulling capital from it. Software running doesn't unclog a transformer queue or shorten a 128-week backlog — the bottleneck owners get paid THROUGH the catch-up regardless of which layer leads the tape.
+- **The week's evidence sides with him: demand exceeded supply at every node measured (NVDA
+  70-vs-100, MRVL's ratchet, AWS 3M GPUs, IREN sold out through 2026) — an app-layer profit
+  print lands on that backdrop as VALIDATION, not competition for capital.** This note's
+  rotation caution survives only as relative-performance risk, not as a fundamentals threat.
+- **⚡ THE DISCRIMINATOR, registered because both reads are now on file: the CORRELATION SIGN.
+  ROTATION = software green while infrastructure red (zero-sum capital). ACCUMULATION =
+  software leads, infrastructure follows up (validation). Watch IGV vs SOXX/basket day-move
+  correlation over the next 2-3 weeks — the sign settles which thesis owns the tape.**
+  *(Jake's thesis; discriminator = analysis.)*
