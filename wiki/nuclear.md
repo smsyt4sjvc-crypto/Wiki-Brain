@@ -641,3 +641,5 @@ for first/second-of-a-kind units; DOE-Pilot-style fast regulatory pathway confir
   The 2028 deadline is now the cohort's official ranking test in the principal's own words.**
 **📌** PPA terms per site when disclosed (the $0.20-0.30 range's actual prints = the FOAK cost
 series); first commercial offtake discussion outside DoD = the transition tell.
+
+#### Addendum 2026-08-27 ~12:45pm PDT — **BWXT JANUS SPECIFICS (holdings scan, company+Army confirmed): 20MWe BANR at Fort Campbell · GROUNDBREAKING LATE 2028 · OPERATIONS EARLY 2030s.** ⛔ **Which settles who the Sept-2028 first-operational deadline is actually FOR: not BWXT (breaking ground as the deadline passes) — the 2028 race is ANTARES/RADIANT-class (sub-MW to few-MW units, fast metal). The cohort splits into two weight classes: the microreactor sprinters (Antares 0.1-1MWe, 2027 demo target) and the 20MWe-class builders (BWXT, GA, Westinghouse) whose value is the FLEET program, not the deadline.** MU reorg noted same scan (Bhatia President/COO, DeBoer President/CTPO — "increasingly customer-specific memory products" = the custom-HBM/LTA direction, neutral-positive, thesis unchanged).
