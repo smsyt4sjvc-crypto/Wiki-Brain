@@ -1451,3 +1451,30 @@ a pre-qualified vendor whitelist, and FAR domestic-preference revisions (180d).
 3. 🚩🚩 **GEV/ETN backlog + pricing commentary next prints** — the statutory-moat confirmation.
 4. 🚩 **Utility sector: replacement-capex guidance** — the rate-base wave.
 **Links:** [[power-not-petroleum]] · [[new-economy-regime]] · [[high-confidence-basket]] · [[balance-sheet-board]] · [[forest]]
+
+## 2026-08-27 ~8:10am PDT — ⛔⛔ **THE SECOND COST-RAISING POLICY ON THE SAME BUILDOUT IN 48 HOURS: WHITE HOUSE MULLING NEW TARIFFS ON SEMICONDUCTORS AND DATA-CENTER SERVERS (Politico, four sources — REPORTED rung, framework "could still be substantially revised")** — Lutnick favors RELIEF-TIED-TO-US-INVESTMENT: the tariff-with-exemption instrument again, pay-to-play reshoring ⛔ **Stacked on EO 14420 (grid equipment walled Monday) and NVDA's announced Q1-FY28 price increases (memory pass-through), the $/GW cost stack now has THREE simultaneous policy/cost layers rising into a buildout the same administration calls a national priority — scarcity policy squared: declare the emergency, tax the inputs**
+Source: ZH/Politico via Jake, 8/27. Prior art on file: Jan-2026 25% tariff on high-end AI semis
+already in force; campaign-floated 100%-unless-you-build. **Embedded tweet (China Update, 8/24,
+⬜ unverified): Taiwanese manufacturers seeing DELAYS on GERMANIUM- and QUARTZ-based materials
+from China — Beijing testing supply-chain pressure on Taiwan at the MATERIALS layer.**
+- **★★★★ THE COST STACK, assembled: (1) EO 14420 — grid equipment import wall (transformers/
+  BESS/inverters); (2) this — servers/semis tariffs mulled, on top of the existing 25%; (3)
+  NVDA price increases Q1 FY28 on memory costs. All three land in the SAME $/GW (Nscale's
+  $52.6B/GW, 66% GPU/server share) — the denominator of every project-finance model the
+  funding-side board tracks. Higher $/GW = more debt per project = the shadow-leverage stack
+  compounds faster for the same capacity.** *(Analysis.)*
+- **★★★ TAXONOMY ([[new-economy-regime]]): relief-tied-to-investment is the tariff-as-toll
+  instrument — the state prices market access in capex commitments. Winners: those already
+  building domestic (TSM-AZ hedges basket #1; NVDA's US investments); losers: import-dependent
+  systems vendors (DELL/SMCI class) and every DC developer's BOM.** *(Analysis.)*
+- **★★★ THE GERMANIUM/QUARTZ TWEET IS THE ITEM TO VERIFY: quartz crucibles and germanium sit
+  BELOW the chip layer — a Chinese materials squeeze on Taiwan is escalation at the level this
+  map ranks most structural (the CLF/GOES logic, applied by Beijing). ⬜ One unverified tweet;
+  if corroborated it joins the Taiwan-concentration disconfirmer on TSM.** *(Analysis.)*
+- **⭐ The CNBC loophole line closes the morning's loop: Chinese access via overseas clouds +
+  GLM-5.3-Flash serving on domestic chips = the control regime leaking at BOTH ends — imports
+  through the side door, capability grown at home.** *(Analysis.)*
+**📌 REGISTERED:** (1) 🚩🚩 the actual tariff framework when published (rates, scope, phase-in,
+exemption terms — the toll price); (2) 🚩🚩 germanium/quartz delay corroboration (a second
+source); (3) 🚩 the overseas-cloud-access legislation's progress.
+**Links:** [[new-economy-regime]] · [[ai-financing-fragility]] · [[high-confidence-basket]] · [[compression-thesis]] · [[forest]]
