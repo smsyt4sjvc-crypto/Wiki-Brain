@@ -28,7 +28,10 @@ near highs on the same names. The off-sheet stack IG holds at 81bp grows **~33%/
 commitments+contingent support $575B (end-'24) → $3.2T (KBRA, rating-agency rung 8/26; the 5.6x
 implies 33.1%/qtr, matching the vault's measured +32.6% lease leg)** ([[balance-sheet-board]],
 [[rates-board]] 8/26). **No trigger fired**; IG/repo/MOVE(73)/dealers calm — **but the 30Y is now
-an ADMINISTERED price (buybacks ≥$4B/op: 5.31→5.18 since Aug 17); read fragility off the BELLY.** Warning-rich, trigger-empty ⇒ **base case = weary rotation**
+an ADMINISTERED price — street-consensus as of 8/27 (BofA "new regime," Bessent's own "Treasury
+twist"; buybacks ≥$4B/op: 5.31→5.18); read fragility off the BELLY. NOV 4 REFUNDING = the dated
+catalyst: war-gamed WAM-shortening (bills up, long end cut/held, Citi tail: 20Y eliminated —
+the 20Y at 5.177 vs 30Y 5.184 is the max-sensitivity duration expression).** Warning-rich, trigger-empty ⇒ **base case = weary rotation**
 (slow, uncorroborated widening; free exit at 82bp; delivers the long-end bid — [[rates-board]]).
 **Crack requires fast + corroborated (≥2 stages together). Not present.** Oil: **the divergence is
 LIVE — WTI −6% since 8/21 (Hormuz diplomacy) while the 3-2-1 ran 59.6→~67 (+12%): all of Lukoil's
@@ -78,7 +81,7 @@ above-target inflation = repression; gold is the residual claim ([[new-economy-r
 10. **VLO** — the divergence live: crack ~$67 while crude falls · **political kill-switch ARMING ($5.65 diesel headlines)** · `crack spread, 140%, NORSI, WPSR`
 
 ## 🔄 ROTATION BASKET (β for the weary-rotation branch — FIRST CUT 8/25, Jake to edit)
-- **Long-end duration (TLT-class)** — the rotation DELIVERS the long-end bid; Treasury buybacks
+- **Long-end duration — SPECIFIC EXPRESSION UPGRADED 8/27: the 20Y sector (0.7bp cheap to 30Y; Citi long-20Y rec; scarcity rallies it hardest if Nov 4 cuts it) over generic TLT-class** — the rotation DELIVERS the long-end bid; Treasury buybacks
   are the other arm · `weary rotation, long-end bid, buyback, TGA`
 - **MSFT over the commitment-shaped** — quality leg of the same rotation · `clean sheet, positive FCF`
 - **Gold (GLD-class)** — the debasement/detachment leg runs independent of the AI stack ·
