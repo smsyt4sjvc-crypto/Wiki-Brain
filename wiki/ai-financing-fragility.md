@@ -7586,7 +7586,7 @@ carries the watch.**
 included — Warsh Friday); (2) the §1 disclosure-mandate idea as standalone policy chatter.
 **Links:** [[rates-board]] · [[balance-sheet-board]] · [[transmission-chain]] · [[forest]]
 
-### Addendum 2026-08-26 ~10:05pm PDT — **JAKE'S REFINEMENT FLIPS THE CDS LEG AND DISSOLVES COUNTER #1: TREASURY IS THE PROTECTION WRITER, NOT THE BUYER — it SELLS the credit protection (collecting premium in calm, supplying loss-absorption in stress) — and the intervention pool is UNIFIED AND CONDITIONAL: the same capital goes to Treasury buybacks OR corporate purchases "where the market points it," instead of mechanically buying billions of Treasuries back on schedule**
+### Addendum 2026-08-26 ~9:52pm PDT — **JAKE'S REFINEMENT FLIPS THE CDS LEG AND DISSOLVES COUNTER #1: TREASURY IS THE PROTECTION WRITER, NOT THE BUYER — it SELLS the credit protection (collecting premium in calm, supplying loss-absorption in stress) — and the intervention pool is UNIFIED AND CONDITIONAL: the same capital goes to Treasury buybacks OR corporate purchases "where the market points it," instead of mechanically buying billions of Treasuries back on schedule**
 - **CONCEDED: the counterparty objection dies in this version.** Treasury-as-writer doesn't drain
   dealer/insurer capital in stress — it supplies it. And **the unified conditional pool is the
   design's strongest piece: the vault's own critique of the current buyback program (administered
