@@ -4634,3 +4634,25 @@ markets = the daily gauge** (Kalshi, ironically a named Trump-adjacent hedger it
 pre-election deal-rush behavior (the article's own tell: "rushing to get deals done... before a
 potential change in Congress") — watch for accelerated approvals/closings into November.
 **Links:** [[balance-sheet-board]] · [[ai-financing-fragility]] · [[demand-destruction]] · [[forest]]
+
+### ⛔ CORRECTION 2026-08-27 ~8:35pm PDT (Jake, immediately): **HIS MARCH CALL WAS NOT ABOUT DISCLOSURES — IT WAS ABOUT THE STATE TAKING *SHARES IN THE ACTUAL AI COMPANIES*. "They're already going on and on about it."** — and the vault already holds why this is a LIVE mechanism, not a hypothetical: **THE INSTRUMENT IS ALREADY BUILT, BY THE OTHER PARTY. The state-equity taxonomy on this note (`:L4455`): Intel ~10% · MP preferred · USAR · UUUU · up to 20% of Westinghouse — a REPUBLICAN administration constructed the public-shareholding instrument. A Democratic House doesn't have to invent anything; it extends a standing tool to the AI layer.**
+- **THE EXCHANGE LOGIC WRITES ITSELF FROM THIS WEEK'S BOARDS: the AI complex is consuming public
+  support at every layer — federal GPU carve-outs (100k, yesterday), EO-walled equipment
+  markets, tariff-relief-for-investment, grid interconnections, Army-priced PPAs, and the
+  implicit policy put the vault keeps re-deriving. "The public provided the moat; the public
+  takes shares" is the demand — and Jake's 8/23 catalogue already noted the irony that forcing
+  profit-sharing is nominally the DSA/Dem playbook that TRUMP implemented first. Bipartisan
+  instrument, contested only over who aims it.** *(Jake's thesis; assembly analysis.)*
+- **BOARD CONSEQUENCES, corrected: (1) the private labs' endgame forks — IPO (the Anthropic
+  path, cleared TODAY by the blacklist ruling) vs STATE-EQUITY DILUTION as the price of
+  continued support; racing to public listing is partly racing AHEAD of the state's claim.
+  (2) The policy put gets PRICED IN SHARES: any SMCCF-style rescue of the AI complex under a
+  Dem House plausibly carries warrants/equity (the 2008 TARP-warrant precedent) — Jake's
+  stabilizer design's premium, collected as stock. (3) 55.2%-of-capex concentration is the
+  political argument itself: the state will not leave the economy's only investment engine
+  fully privately owned while backstopping it.** *(Analysis.)*
+- **📌 Corrected registered items: (1) 🚩🚩🚩 Dem platform/committee language on AI equity
+  stakes/public ownership ("already going on and on" — collect the primary quotes ⬜ none on
+  file); (2) 🚩🚩 whether ANY federal AI support this fall carries warrants/equity kickers (the
+  tell that the instrument is migrating before the election); (3) subpoena risk DEMOTED to the
+  secondary mechanism — the lever that extracts the equity, not the end itself.**
