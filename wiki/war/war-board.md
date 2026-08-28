@@ -3805,3 +3805,10 @@ reconciliation next Windward daily); (4) 🚩 the UKMTO issue LAG itself — if 
   *(Analysis.)*
 **📌** the succession timeline ⬜ · Moscow/Beijing responses · any US security commitment
 attached to the deal.
+- **✔ UPDATE ~4:55pm — succession VERIFIED and BACKFILLED (it was old news, vault gap):**
+  Maduro CAPTURED by US special forces in Caracas ≈Dec 2025, arraigned on federal
+  narcoterrorism charges; Rodríguez (then running the petroleum ministry) sworn in interim
+  president early Feb 2026 with military backing. The War Department's role in today's oil
+  deal is continuous with the capture operation — the security state has been executing
+  Venezuela energy policy for nine months. The DEAL remains single-party-sourced; Venezuelan
+  government comment pending.

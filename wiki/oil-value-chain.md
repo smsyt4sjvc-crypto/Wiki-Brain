@@ -2377,3 +2377,32 @@ succession — what happened, when, and is "interim" real**; (3) 🚩🚩 China/
 crack-stable read is the testable prediction; (5) 🚩 Chevron/major license expansions named;
 (6) 🚩 production-ramp targets vs the ~1.0-1.1M b/d base.
 **Links:** [[war/war-board]] · [[demand-destruction]] · [[new-economy-regime]] · [[high-confidence-basket]] (VLO) · [[forest]]
+
+### Addendum 2026-08-28 ~4:55pm PDT — ✔⛔ **CORROBORATION RUN (Jake: "check for corroboration"; source = Trump's VERIFIED Truth account). THE SUCCESSION GATE RESOLVES: it was real and OLD — a vault gap, not a new event. THE DEAL remains single-party.**
+- **✔ ⬜(2) RESOLVED — MADURO WAS CAPTURED ~NINE MONTHS AGO (≈Dec 2025) by US special forces
+  in Caracas** (AP-syndicated reporting on today's deal; CBS/Hill/CBC profiles), faces
+  federal narcoterrorism/drug-trafficking charges in the US. **Delcy Rodríguez sworn in as
+  interim president early February 2026**, military-backed; her portfolio at capture time:
+  **running the petroleum industry.** ⛔ Vault gap logged: a US military capture of a sitting
+  head of state and a hemisphere-scale succession were NEVER FILED — the war-board carried
+  Russia/Iran and missed Venezuela entirely. The 8/28 entry's "implied regime change" flag
+  was right to gate but the event predates the vault's Venezuela thread by months.
+- **⚠️ THE DEAL ITSELF: STILL SINGLE-PARTY.** AP et al. report Trump's announcement; "further
+  details from the administration were not immediately available, and Venezuelan officials
+  did not immediately comment." Widely RELAYED ≠ second-party CONFIRMED; rung unchanged.
+  Context ladder found: prior $2B and $2.8B US-Venezuela oil export deals earlier this year —
+  the 137K→429K b/d licensed ramp the vault filed 8/9 was the on-ramp to today's claim.
+- **★★★ JAKE'S CANADA CATCH, FILED:** "it explains some of Trump not GAF about tariffs on
+  Canada." Canadian heavy (WCS) is the OTHER configured heavy-sour feedstock for US refiners;
+  majority control of Venezuelan heavy = a substitute heavy-barrel source that REDUCES
+  CANADA'S LEVERAGE in any tariff fight. The administration can risk Canadian-crude friction
+  precisely because it now holds the hemisphere's replacement heavy barrel. Consistent with
+  the toll-and-tap thesis: the license switch works on allies too. *(Jake's read + analysis.)*
+- **✔ CONSISTENCY CHECK AFFIRMED (Jake's challenge): the vault's standing conclusion (WPSR
+  CLOSED, 8/27) is that the 3-2-1 is a CONVERSION-CAPACITY story, not a crude-supply story.**
+  This entry holds that line: the deal adds barrels, not cokers — it cheapens the refiner's
+  INPUT while the product-side constraint stands, which if anything WIDENS the crack
+  arithmetic. No amendment needed; the two conclusions reinforce.
+**📌 updated:** ⬜(1) second-party/agreement-text confirmation STILL OPEN (the load-bearing
+gate) · NEW ⬜ how the capture (Dec 2025) escaped the vault — backfill a war-board line for the
+event itself ✔ done · Moscow/Beijing reactions · WTI/crack Monday.
