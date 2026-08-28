@@ -2406,3 +2406,10 @@ crack-stable read is the testable prediction; (5) 🚩 Chevron/major license exp
 **📌 updated:** ⬜(1) second-party/agreement-text confirmation STILL OPEN (the load-bearing
 gate) · NEW ⬜ how the capture (Dec 2025) escaped the vault — backfill a war-board line for the
 event itself ✔ done · Moscow/Beijing reactions · WTI/crack Monday.
+- **⟲ GAP CAUSE CORRECTED ~4:57pm (Jake): NOT a live-coverage miss — a MIGRATION LOSS.** The
+  Maduro capture WAS covered, PRE-REPO, in the original Claude project space; it got glossed
+  in the transfer/onboarding into wiki-brain. Same class as his ~March state-equity call
+  (also credited "pre-repo"). **Standing lesson for the error ledger: when something looks
+  "never filed," check whether it is PRE-REPO before calling it a gap — the vault's birth
+  date is a horizon, and an unknown number of pre-repo threads live only in Jake's memory.
+  When one surfaces, backfill it THAT TURN (as done here) and mark it pre-repo.**

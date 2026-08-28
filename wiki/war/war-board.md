@@ -3812,3 +3812,5 @@ attached to the deal.
   deal is continuous with the capture operation — the security state has been executing
   Venezuela energy policy for nine months. The DEAL remains single-party-sourced; Venezuelan
   government comment pending.
+  ⟲ cause corrected (Jake, ~4:57pm): covered PRE-REPO in the original project space; lost in
+  the wiki-brain migration — a transfer gloss, not a coverage miss. Backfilled above.
