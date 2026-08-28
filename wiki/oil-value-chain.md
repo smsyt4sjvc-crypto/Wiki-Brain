@@ -2299,3 +2299,11 @@ outages confirmed in the same report.
   before it happens. The trade's best evidence and its terminal risk are the same image.
   *(Analysis.)*
 **Links:** [[forest]] · [[high-confidence-basket]] (VLO) · [[war/war-board]] (NORSI)
+- **⛔ SHARPENED same minute (Jake): "And that's a truck stop."** Truck stops price diesel at
+  the BOTTOM of local retail — high-volume corridor competition (the lot behind the sign is
+  full of trailers; Thierman sits on the I-80 freight corridor). ⇒ **$6.59 is the CHEAP
+  price. The freight cost shock is worse than the sign implies:** a long-haul tractor at
+  ~6mpg/500mi-day burns ~80+ gal/day — every $1/gal of diesel ≈ +$80/truck/day, pass-through
+  into freight rates → CORE GOODS inflation, the supply-side kind a Fed hike cannot touch —
+  landing the same morning Warsh says the work is on prices. The India freight entry's law
+  ("avoidance costs more than the tax") now has a domestic pump print. *(Jake's catch.)*
