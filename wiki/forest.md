@@ -19,7 +19,7 @@ IF → THEN → INSTRUMENT, dated; **prune when resolved or aged out** (a resolv
 board, it does not linger) · holds the BASKETS with `vault_find` keywords so references pull in one
 command · short enough to read in one scroll; if it grows past that, prune before adding.
 
-**REFRESHED: 2026-08-26 ~8:40am PDT**
+**REFRESHED: 2026-08-28 ~8:20am PDT**
 
 ## STATE
 **Two-speed market.** AI **periphery repriced as CREDIT** (CRWV 817bp · ORCL 226bp · SPCX ~170 ·
@@ -31,7 +31,14 @@ implies 33.1%/qtr, matching the vault's measured +32.6% lease leg)** ([[balance-
 an ADMINISTERED price — street-consensus as of 8/27 (BofA "new regime," Bessent's own "Treasury
 twist"; buybacks ≥$4B/op: 5.31→5.18); read fragility off the BELLY. NOV 4 REFUNDING = the dated
 catalyst: war-gamed WAM-shortening (bills up, long end cut/held, Citi tail: 20Y eliminated —
-the 20Y at 5.177 vs 30Y 5.184 is the max-sensitivity duration expression).** Warning-rich, trigger-empty ⇒ **base case = weary rotation**
+the 20Y at 5.177 vs 30Y 5.184 is the max-sensitivity duration expression).** **8/28 JACKSON
+HOLE: a HAWK BLOC (Warsh · Schmid · Hammack) — Sept hike odds 35→46%, 2Y +6.6bp to 4.29 while the
+30Y FELL to ~5.17 = the bind's DIVISION OF LABOR printed on the curve: the Fed prices the SHORT
+end (short rates "the primary tool," no QT plan), Treasury administers the LONG end. The
+FLATTENER is the regime — and it lands on FLOATERS: the AI periphery's SOFR+ debt reprices with
+every hike while core IG fixed issuance shelters under the administered long end. Warsh cited
+the calm gauges (low spreads/vol) as the case FOR hiking, and refused the AI-productivity excuse
+([[rates-board]] 8/28).** Warning-rich, trigger-empty ⇒ **base case = weary rotation**
 (slow, uncorroborated widening; free exit at 82bp; delivers the long-end bid — [[rates-board]]).
 **Crack requires fast + corroborated (≥2 stages together). Not present.** Oil: **the divergence is
 LIVE — WTI −6% since 8/21 (Hormuz diplomacy) while the 3-2-1 ran 59.6→~67 (+12%): all of Lukoil's
