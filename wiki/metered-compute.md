@@ -3195,12 +3195,12 @@ neutrality test); (3) 🚩 regulatory review posture.
 - **(5) Deal figure now circulating: ~$12.9B** (8/26 wire said "over $13B"). Converging
   around ~$13B but ⚠️ still NOT confirmed by NVDA or HF — rung stays REPORTED. A refined
   figure ≠ the registered second-outlet confirm; gate unchanged.
-- **(6) ⬜ NEW FIGURE, NOT ON THE BOARD: ~$36B of NVDA commitments supporting AI-cloud
-  capacity.** The in-filing entry holds $108.5B max guarantees / $279B purchase commitments /
-  $366B total ([[balance-sheet-board]]) — the capacity-purchase backstop was a CLAUSE, not
-  a sized number. $36B is plausibly the multi-year cloud-service purchase line (the backstop
-  leg, sized). **Guard: do not conflate $36B with $366B — one digit, 10x apart.** VERIFY
-  against the 10-Q before it carries weight.
+- **(6) ~~⬜ NEW FIGURE, NOT ON THE BOARD~~ → ⛔ RESOLVED 8/27 ~9:25pm: WRONG — the $36B WAS
+  on the board the whole time: balance-sheet-board `:L506` "AI-cloud agreements $36B" (10-Q,
+  filed 8/26). ✓ Jake's figure = the filing's. My "not on the board" claim came from a
+  truncated grep instead of re-opening the entry's DATA section (STEP ZERO family; error
+  ledger). Terms + the PAUSE filed at balance-sheet-board `:L606`.** The conflation guard
+  stands: $36B ≠ $366B.
 
 ### THESIS (interpretation — NOT fact)
 - **★★★★ THE SANDWICH BECOMES A CIRCUIT.** 7/25 topology: NVDA (free weights below) + NOW
