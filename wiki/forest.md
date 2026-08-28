@@ -35,10 +35,15 @@ the 20Y at 5.177 vs 30Y 5.184 is the max-sensitivity duration expression).** **8
 HOLE: a HAWK BLOC (Warsh · Schmid · Hammack) — Sept hike odds 35→46%, 2Y +6.6bp to 4.29 while the
 30Y FELL to ~5.17 = the bind's DIVISION OF LABOR printed on the curve: the Fed prices the SHORT
 end (short rates "the primary tool," no QT plan), Treasury administers the LONG end. The
-FLATTENER is the regime — and it lands on FLOATERS: the AI periphery's SOFR+ debt reprices with
-every hike while core IG fixed issuance shelters under the administered long end. Warsh cited
-the calm gauges (low spreads/vol) as the case FOR hiking, and refused the AI-productivity excuse
-([[rates-board]] 8/28).** Warning-rich, trigger-empty ⇒ **base case = weary rotation**
+FLATTENER is the regime (2s30s ~97→~88bp) — and it lands on the PERIPHERY: floating/project/SPV
+financing exposed to SOFR, hedge locks and refinancing (CRWV must hedge ≥95% by ~mid-Feb-27 —
+the Fed's path prices INTO the lock), while core IG fixed issuance shelters under the long-end
+apparatus. ⚠️ Precision (Jake): this was the first successful STRESS TEST of the regime
+EXPECTATION — the doubled 10-30Y buybacks only go LIVE SEPT 9 (→ Nov 4); 30Y before-vs-after
+Sept 9 = the administered-price experiment. Warsh cited the calm gauges (low spreads/vol) as
+the case FOR hiking, and refused the AI-productivity excuse. GAUGE PAIR: 2s30s + (SOFR/2Y vs
+IG spreads) — front-end up with IG+MOVE calm = executing; IG+MOVE rising WITH the front end =
+the calm wing stopped insulating the core ([[rates-board]] 8/28).** Warning-rich, trigger-empty ⇒ **base case = weary rotation**
 (slow, uncorroborated widening; free exit at 82bp; delivers the long-end bid — [[rates-board]]).
 **Crack requires fast + corroborated (≥2 stages together). Not present.** Oil: **the divergence is
 LIVE — WTI −6% since 8/21 (Hormuz diplomacy) while the 3-2-1 ran 59.6→~67 (+12%): all of Lukoil's
