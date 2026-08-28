@@ -2287,7 +2287,7 @@ outages confirmed in the same report.
   condition while it lasts.
 **Links:** [[war/war-board]] · [[high-confidence-basket]] · [[rates-board]] · [[forest]]
 
-### Addendum 2026-08-28 ~10:00am PDT — **STREET-LEVEL PRIMARY (Jake's photo, Conoco/Jacksons, Thierman — Reno NV area): Regular $5.25⁹ · Auto Diesel $6.59⁹.** Archived `raw/2026-08-28-conoco-thierman-diesel-659-pump-sign.jpg`.
+### Addendum 2026-08-28 ~10:00am PDT — **STREET-LEVEL PRIMARY (Jake's photo, Conoco/Jacksons, Thierman & Broadway, SPOKANE WA — I-90 Broadway exit truck stop (location corrected by Jake 10:03am; I guessed Reno/I-80 — wrong)): Regular $5.25⁹ · Auto Diesel $6.59⁹.** Archived `raw/2026-08-28-conoco-thierman-diesel-659-pump-sign.jpg`.
 - **(DATA)** Pump diesel $6.59 vs the $5.65 NATIONAL-average headline on file (8/27) — West
   Coast retail runs ~$0.90-1.00 over national, consistent, not an anomaly. **Diesel-over-
   regular spread at the pump: $1.34/gal** — the distillate premium the 3-2-1 divergence
@@ -2301,7 +2301,7 @@ outages confirmed in the same report.
 **Links:** [[forest]] · [[high-confidence-basket]] (VLO) · [[war/war-board]] (NORSI)
 - **⛔ SHARPENED same minute (Jake): "And that's a truck stop."** Truck stops price diesel at
   the BOTTOM of local retail — high-volume corridor competition (the lot behind the sign is
-  full of trailers; Thierman sits on the I-80 freight corridor). ⇒ **$6.59 is the CHEAP
+  full of trailers; the I-90 freight corridor, Broadway exit, Spokane). ⇒ **$6.59 is the CHEAP
   price. The freight cost shock is worse than the sign implies:** a long-haul tractor at
   ~6mpg/500mi-day burns ~80+ gal/day — every $1/gal of diesel ≈ +$80/truck/day, pass-through
   into freight rates → CORE GOODS inflation, the supply-side kind a Fed hike cannot touch —
