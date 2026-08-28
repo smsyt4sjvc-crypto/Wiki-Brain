@@ -2286,3 +2286,16 @@ outages confirmed in the same report.
   spare conversion.** 📌 NORSI restart reporting = the branch's live watch; VLO = max-margin
   condition while it lasts.
 **Links:** [[war/war-board]] · [[high-confidence-basket]] · [[rates-board]] · [[forest]]
+
+### Addendum 2026-08-28 ~10:05am PDT — **STREET-LEVEL PRIMARY (Jake's photo, Conoco/Jacksons, Thierman — Reno NV area): Regular $5.25⁹ · Auto Diesel $6.59⁹.** Archived `raw/2026-08-28-conoco-thierman-diesel-659-pump-sign.jpg`.
+- **(DATA)** Pump diesel $6.59 vs the $5.65 NATIONAL-average headline on file (8/27) — West
+  Coast retail runs ~$0.90-1.00 over national, consistent, not an anomaly. **Diesel-over-
+  regular spread at the pump: $1.34/gal** — the distillate premium the 3-2-1 divergence
+  predicts, readable from a car window. Gasoline $5.25 with WTI FALLING = the crack, not the
+  barrel, is what the consumer is paying (the Goolsbee composition point, at retail).
+- **(THESIS)** Two reads, both live: **(1) the VLO margin is real all the way to the street**
+  — no demand destruction visible in the spread yet; **(2) this photo IS the kill-switch's
+  ammunition.** $6.59 on a corner sign is what a price-jawbone press conference looks like
+  before it happens. The trade's best evidence and its terminal risk are the same image.
+  *(Analysis.)*
+**Links:** [[forest]] · [[high-confidence-basket]] (VLO) · [[war/war-board]] (NORSI)
