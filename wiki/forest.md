@@ -32,10 +32,13 @@ an ADMINISTERED price — street-consensus as of 8/27 (BofA "new regime," Bessen
 twist"; buybacks ≥$4B/op: 5.31→5.18); read fragility off the BELLY. NOV 4 REFUNDING = the dated
 catalyst: war-gamed WAM-shortening (bills up, long end cut/held, Citi tail: 20Y eliminated —
 the 20Y at 5.177 vs 30Y 5.184 is the max-sensitivity duration expression).** **8/28 JACKSON
-HOLE: a HAWK BLOC (Warsh · Schmid · Hammack) — Sept hike odds 35→46%, 2Y +6.6bp to 4.29 while the
-30Y FELL to ~5.17 = the bind's DIVISION OF LABOR printed on the curve: the Fed prices the SHORT
-end (short rates "the primary tool," no QT plan), Treasury administers the LONG end. The
-FLATTENER is the regime (2s30s ~97→~88bp) — and it lands on the PERIPHERY: floating/project/SPV
+HOLE: a HAWK BLOC (Warsh · Schmid · Hammack) — Sept hike odds 35→58% in one day; CLOSE: 2Y +14bp
+to 4.34 vs 30Y +3bp to 5.22 (the long end barely responds to a hawkish shock) = the bind's
+DIVISION OF LABOR printed on the curve: the Fed prices the SHORT end (short rates "the primary
+tool," no QT plan), Treasury administers the LONG end. The selloff was REAL-YIELD (5Y TIPS +11bp),
+breakevens FLAT — the real cost of capital repriced, not inflation expectations. The
+FLATTENER is the regime (2s30s 99→88bp at the close; BNY 8/28: hyperscalers >12% of a record
+>$1.5T 2026 IG tape, long-end Treasury demand softening against it, issuance going NON-DOLLAR) — and it lands on the PERIPHERY: floating/project/SPV
 financing exposed to SOFR, hedge locks and refinancing (CRWV must hedge ≥95% by ~mid-Feb-27 —
 the Fed's path prices INTO the lock), while core IG fixed issuance shelters under the long-end
 apparatus. ⚠️ Precision (Jake): this was the first successful STRESS TEST of the regime
