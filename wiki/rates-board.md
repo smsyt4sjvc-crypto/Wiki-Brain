@@ -1557,3 +1557,38 @@ hyperscalers − Fed net purchases − buybacks.
 **📌** (1) chart authorship/methodology (whose DV01 series); (2) re-mark the 2027 bar after
 Nov 4 — the bills-shift would compress it, the visible test of the twist.
 **Links:** [[forest]] · [[new-economy-regime]] · [[balance-sheet-board]]
+
+## 2026-08-27 ~8:20pm PDT — ⭐⭐⭐⭐⭐ **JACKSON HOLE EVE (Reuters/Derby): THE COMMITTEE IS SPLIT EXACTLY ALONG THE LEVEL-vs-PULSE LINE THIS BOARD DREW YESTERDAY MORNING — the hawks argue the LEVEL (Hammack: "above target for more than five years... now is the time to act"; forecast ~3% end-2026, "maybe mid-twos at best" 2027) while Goolsbee concedes THE PULSE ("the recent three-month trend doesn't look terrible" = the board's 2.43%-annualized finding, in a Fed president's mouth)** ⛔ **AND SCHMID STATES THE BIND FROM INSIDE THE BUILDING: "I don't know what we're restricting currently with the rate policy that we're at today... I'm trying to figure out the DEMAND SIDE of what's driving both growth and inflation." The boards have his answer: 55.2% of US capex is ONE rate-insensitive sector; the rate-sensitive sector is already breaking. Policy restricts housing and nothing else — the Fed's confusion is the transmission-asymmetry's fingerprint**
+Source: Reuters (Derby), 8/27, via Jake. Facts: policy rate 3.50-3.75% held Jul 28-29 with
+THREE HIKE DISSENTS (Hammack among them) · futures lean against a Sept 15-16 hike but price
+STRONG odds of one by end-2026 · Collins the outlier dove-ish ("slightly restrictive," modal
+gradual disinflation) · **Warsh Friday: opposed to forward guidance and — per Reuters — "has
+even refrained, amid mounting controversy, from explaining how he reaches monetary policy
+decisions."** Goolsbee: political attacks on the Fed "put me on edge... inflation comes
+roaring back" where politics interferes.
+
+### THESIS (interpretation — NOT fact)
+- **★★★★ THE HAWKS' OWN PREMISE CONCEDES THE BIND: "policy is restraining nothing" is
+  simultaneously the case FOR hiking (Schmid/Hammack) and the case that hiking WON'T WORK on
+  the actual inflation sources — AI-capex cost-push (memory, power, tariffs, the 55.2%
+  concentration) and product-side energy. A hike that restricts nothing but housing raises the
+  political temperature (Goolsbee's own warning) without touching the drivers. The committee is
+  arguing about the throttle on an engine that isn't connected to the wheels.** *(Analysis.)*
+- **★★★ GOOLSBEE'S ENERGY COMPOSITION, corrected against this week's tape: "energy costs tied
+  to the war in Iran" — but crude FELL all week on Hormuz diplomacy; the household hit is
+  PRODUCTS (diesel $5.65, the crack at ~$67 on destroyed Russian refining + zero spare US
+  conversion). The inflation wire is the CRACK, not the barrel — a Fed reading "war = oil = 
+  inflation" will misattribute the next leg.** *(Analysis.)*
+- **★★★ HAMMACK'S PATH IS THE REPRESSION INPUT: ~3% end-2026, mid-2s at best 2027 = two-plus
+  MORE years above target, against an administered long end. Her own forecast, taken seriously,
+  IS the negative-real-return regime the bind predicts — stated as a warning, functioning as a
+  schedule.** Her "inflationary mindset embedding" vs breakevens anchored at 2.3: the market
+  still disagrees with her contacts; Michigan expectations tomorrow morning is that
+  discriminator's next print. *(Analysis.)*
+- **⭐ WARSH SETUP: an opaque chair, a split committee with a live hike faction, futures priced
+  against September but for year-end — maximal speech-vol conditions. The board's watch stands:
+  three constituencies (Treasury financing, White House catalogue, housing politics) converge
+  on the podium at 10am.** *(Analysis.)*
+**📌** Michigan final + inflation expectations 7am PT tomorrow · Warsh 10am ET · Sept 15-16
+odds repricing after both.
+**Links:** [[new-economy-regime]] · [[forest]] · [[oil-value-chain]] · [[consumption-vs-investment-crux]]
