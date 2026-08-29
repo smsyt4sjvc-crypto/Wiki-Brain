@@ -3814,3 +3814,9 @@ attached to the deal.
   government comment pending.
   ⟲ cause corrected (Jake, ~4:57pm): covered PRE-REPO in the original project space; lost in
   the wiki-brain migration — a transfer gloss, not a coverage miss. Backfilled above.
+  ⟲ date corrected + op backfilled (pre-repo recall, 8/28 ~5:25pm): capture = JANUARY 2026
+  (not "≈Dec 2025" — that was an unsupported inference), Operation Southern Spear/"Absolute
+  Resolve": Growlers + CyberCom/Space Command + Caracas blackout + directed-energy
+  incapacitation reports, no US casualties; "spectacular weapons" never attributed
+  (nonkinetic classified). Two-theater capacity confirmed by the op itself. Full thread:
+  [[oil-value-chain]] 8/28 ~5:25pm.
