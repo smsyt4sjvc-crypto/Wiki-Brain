@@ -53,8 +53,8 @@ LIVE — WTI −6% since 8/21 (Hormuz diplomacy) while the 3-2-1 ran 59.6→~67 
 major refineries offline (NORSI 8/26); the constraint is CONVERSION capacity, not crude
 ([[oil-value-chain]] 8/26). Diesel $5.65 = kill-switch risk rising with the trade — **8/28 4:50pm: the kill-switch's first
 firing chose the SUPPLY lever: Trump announces "majority US control of 65B barrels" of Venezuelan
-reserves (political-claim rung, unconfirmed; "Interim President Delcy Rodriguez" = an implied
-regime change ⬜). Supply headlines hit the BARREL, not the CRACK — benign branch for refiners;
+reserves (deal = political-claim rung, unconfirmed; succession VERIFIED: Maduro captured Jan 2026,
+Rodríguez interim since Feb — pre-repo thread backfilled). Supply headlines hit the BARREL, not the CRACK — benign branch for refiners;
 restrictions stay available ([[oil-value-chain]] 8/28).** Rates: Treasury, not the Fed, is the long-end policy arm. **NEW
 8/26: the AI complex is a SECOND sovereign-scale duration supplier — hyperscaler issuance ~$35B/yr
 (2020-24) → $93B (2025) → $132B in 7mo (2026); foreign buyers took more US corporates ($390B) than
