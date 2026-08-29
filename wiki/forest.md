@@ -51,7 +51,10 @@ the calm wing stopped insulating the core ([[rates-board]] 8/28).** Warning-rich
 **Crack requires fast + corroborated (≥2 stages together). Not present.** Oil: **the divergence is
 LIVE — WTI −6% since 8/21 (Hormuz diplomacy) while the 3-2-1 ran 59.6→~67 (+12%): all of Lukoil's
 major refineries offline (NORSI 8/26); the constraint is CONVERSION capacity, not crude
-([[oil-value-chain]] 8/26). Diesel $5.65 = kill-switch risk rising with the trade — **8/28 4:50pm: the kill-switch's first
+([[oil-value-chain]] 8/26) — 8/29: GS codifies it WITH DURATION: 2027 diesel margins ~$63 US (doubled
+from Feb, +66% since June 24), "no immediate release valve," long Cal-27 cracks — the street
+repricing into the board's thesis; refinery-shaped goods inflation = unhikeable, and the
+kill-switch re-arms on a 2027 fuse. Diesel $5.65 = kill-switch risk rising with the trade — **8/28 4:50pm: the kill-switch's first
 firing chose the SUPPLY lever: Trump announces "majority US control of 65B barrels" of Venezuelan
 reserves (deal = political-claim rung, unconfirmed; succession VERIFIED: Maduro captured Jan 2026,
 Rodríguez interim since Feb — pre-repo thread backfilled). Supply headlines hit the BARREL, not the CRACK — benign branch for refiners;
