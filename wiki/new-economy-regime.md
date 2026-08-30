@@ -4690,7 +4690,7 @@ potential change in Congress") — watch for accelerated approvals/closings into
 $90+ vs the Janus/PPA comps · any GSCI reversion WITHOUT crude = confirmation selectivity
 is right.
 
-### Addendum 2026-08-30 ~3:35pm PDT — ✔ **THE NUMERATOR CONFIRMS (Jake: "corroborates the numerator from earlier"): GSCI AGRICULTURE +11 consecutive sessions (matches 1994; >11 only 5 times in 125 YEARS, last the 1930s) · +13.4% over the streak, highest since July 2023 · WHEAT +22.9% IN AUGUST to $7.84/bu (highest since Feb 2023).** Chart archived `raw/2026-08-30-gsci-ag-streak-chart.png` (Turning Point/S&P GSCI).
+### Addendum 2026-08-30 ~3:45pm PDT — ✔ **THE NUMERATOR CONFIRMS (Jake: "corroborates the numerator from earlier"): GSCI AGRICULTURE +11 consecutive sessions (matches 1994; >11 only 5 times in 125 YEARS, last the 1930s) · +13.4% over the streak, highest since July 2023 · WHEAT +22.9% IN AUGUST to $7.84/bu (highest since Feb 2023).** Chart archived `raw/2026-08-30-gsci-ag-streak-chart.png` (Turning Point/S&P GSCI).
 - **(discipline)** The streak stat is attention, not signal — the SUBSTANCE is +13.4% and
   wheat +22.9%/month. Filed as the morning entry's decomposition playing out: the ratio
   reverts via commodities UP, in the SCARCE things, while stocks rip — both legs
