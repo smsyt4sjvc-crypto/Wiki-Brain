@@ -1825,3 +1825,5 @@ weekly + any official confirmation of cash-account funding (the technical→poli
 (3) Warsh commenting on the buyback program = the conflict-vs-complement resolution;
 (4) Sept 9 first doubled operation — size, and whether it exceeds $4B.
 **Links:** [[new-economy-regime]] (the bind/repression) · [[ai-financing-fragility]] · [[forest]] · [[bull-bear-ledger]] (Roberts scorecard)
+
+### Addendum 2026-08-30 ~2:20pm PDT — **the Druck PDF's charts, now rendered (poppler installed):** (1) the 1942-51 chart quantified — Fed's 2.5% ceiling on long bonds held while CPI hit +14.4% (1947); cap outlived WWII by 6 years; yield 2.94% after the 1951 Accord ⇒ the historical repression episode = DEEPLY negative real yields under an administered curve, the bind's endgame with numbers on it; (2) buyback-history chart (Daily Shot): **10-30Y buyback purchases DOUBLED from ~$7B/qtr (2024) to $15B/qtr (2026)** — the "doubling to ≥$4B/op" sits on an already-doubled base; the administration ramp predates the 8/19 announcement; (3) Roberts' sleeve for the record: TIPS 20% / belly 35% / long 10%, blended duration ~6.1yr (the own-the-belly disagreement stands as filed).
