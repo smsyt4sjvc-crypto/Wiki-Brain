@@ -4689,3 +4689,22 @@ potential change in Congress") — watch for accelerated approvals/closings into
 **📌** copper record vs the transformer/grid cost-stack (feeds the $/MW series) · uranium
 $90+ vs the Janus/PPA comps · any GSCI reversion WITHOUT crude = confirmation selectivity
 is right.
+
+### Addendum 2026-08-30 ~3:35pm PDT — ✔ **THE NUMERATOR CONFIRMS (Jake: "corroborates the numerator from earlier"): GSCI AGRICULTURE +11 consecutive sessions (matches 1994; >11 only 5 times in 125 YEARS, last the 1930s) · +13.4% over the streak, highest since July 2023 · WHEAT +22.9% IN AUGUST to $7.84/bu (highest since Feb 2023).** Chart archived `raw/2026-08-30-gsci-ag-streak-chart.png` (Turning Point/S&P GSCI).
+- **(discipline)** The streak stat is attention, not signal — the SUBSTANCE is +13.4% and
+  wheat +22.9%/month. Filed as the morning entry's decomposition playing out: the ratio
+  reverts via commodities UP, in the SCARCE things, while stocks rip — both legs
+  simultaneously, which is exactly the two-speed regime.
+- **(★★★ the stack this joins)** Wheat's August surge coincides with the air-campaign
+  intensification against a major Black Sea exporter — the two-theater escalation prices
+  into FOOD, not just fuel. ⇒ **The unhikeable-inflation stack now has three legs: diesel
+  cracks (conversion) → freight (the truck-stop pass-through) → ag raw materials — each
+  supply-shaped, each immune to the Fed's short-end tool, all landing while Warsh promises
+  "work to do."** El Niño (per today's ZH feed headline, hurricane-drought regime) = the
+  additive weather risk on yields into 2027. *(Jake's read + analysis.)*
+- **(expression note)** Rotation-basket adjacency: DBA-class ag baskets = the direct leg;
+  fertilizer equities (MOS/NTR-class) = the operating-leverage version. Not sized, not in
+  a basket — named so the option is visible.
+**📌** wheat vs Black Sea escalation (the war-food link) · El Niño yield forecasts ·
+food-CPI pass-through into the Fed's inflation prints (the political economy of $8 wheat +
+$6.59 diesel into the midterms).
