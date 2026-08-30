@@ -4038,3 +4038,24 @@ external-power restoration or generator-fuel status; (4) tanker-strike attributi
 (5) the China secondary-sanctions bank action this week (→ tariff/GLM threads);
 (6) Ukraine drone-rate evidence toward 1,000/day (refinery-outage engine scaling).
 **Links:** [[oil-value-chain]] · [[nuclear]] (ZNPP) · [[demand-destruction]] · [[buildout-bottleneck-map]] · [[forest]]
+
+### Addendum 2026-08-30 ~3:30pm PDT — **TARGET IDENTIFIED (Jake, OSINT): MUWAFFAQ SALTI AIR BASE (MSAB), Jordan — a US base, and specifically THE base where prior Iranian strikes produced publicized US KIA. Patriot interceptions over Jordan on video, ongoing.**
+- **(DATA)** Primary target of tonight's fires = MSAB (Azraq, Jordan). Precedent per Jake:
+  the last publicized US KIA from Iranian strikes came from strikes ON THIS BASE. Patriots
+  visibly intercepting over Jordan now.
+- **(THESIS)** Of the three registered escalation paths (US bases / Israel / shipping),
+  Iran chose the one with the HIGHEST branch potential: **US KIA tonight = the event that
+  jumps the response ladder** — and Iran picked the base where it has already drawn
+  American blood. Two readings, held open: **(a) calibrated-for-intercept** — the
+  telegraphed-retaliation pattern (strike the famous, heavily-defended target; honor
+  satisfied when the Patriots win; off-ramp preserved) — the volume/warning profile will
+  say; **(b) KIA-seeking** — continued waves, saturation tactics, or follow-on drones
+  behind the ballistics would say that instead. **The branch point for markets tonight is
+  a single number: American casualties, zero or not.** Zero → this round closes like the
+  telegraphed strikes before it, war premium fades into the week. Nonzero → the US
+  response reaches for Iranian energy/deeper targets and the 8/23 campaign signature
+  (crude + cracks together) goes live. Meanwhile the interceptor burn is on video — the
+  two-theater squeeze, in real time, at the exact base that proves why the stocks are
+  "beyond critical."
+**📌** MSAB casualty reports = THE watch tonight · wave count/saturation profile (reading
+a-vs-b) · US response posture language.
