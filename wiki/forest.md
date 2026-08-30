@@ -112,8 +112,7 @@ above-target inflation = repression; gold is the residual claim ([[new-economy-r
 - **Long-end duration — SPECIFIC EXPRESSION UPGRADED 8/27: the 20Y sector (0.7bp cheap to 30Y; Citi long-20Y rec; scarcity rallies it hardest if Nov 4 cuts it) over generic TLT-class** — the rotation DELIVERS the long-end bid; Treasury buybacks
   are the other arm · `weary rotation, long-end bid, buyback, TGA`
 - **MSFT over the commitment-shaped** — quality leg of the same rotation · `clean sheet, positive FCF`
-- **Gold (GLD-class)** — the debasement/detachment leg runs independent of the AI stack ·
-  `gold-flows, debasement, detachment-bid`
+- **Gold (GLD-class)** — the debasement/detachment leg runs independent of the AI stack — **8/30: the broad-commodity version (GSCI/SPX at 5-decade lows, Jefferies) filed as a warning-class odds-shader: chokepoint commodities already running (Cu record, U>$90); GSCI beta needs crude the base case doesn't supply** · `gold-flows, debasement, detachment-bid, mean reversion`
 - **AVOID/short leg: levered periphery equity** (ORCL · CRWV · neoclouds) — the rotation exits
   THEM first, and the policy put excludes their tier · `ORCL guarantee, CRWV 817, neocloud`
 - ⬜ **Not sized, not complete — this is the shape, not the book.**
