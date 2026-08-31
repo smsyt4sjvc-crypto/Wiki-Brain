@@ -4144,3 +4144,16 @@ bigger signal); (2) carrier/destroyer posture changes; (3) any Chinese posture p
   casualty number breaks nonzero.
 **📌** unchanged: MSAB casualties · UKMTO/USNI mine confirmations (now specifically in the
 GULF-OF-OMAN approaches) · minesweeper redeployment.
+- **⟲ ~6:05pm — JAKE'S COUNTER-READ, filed against the paragraph above (both live):** the
+  fact-check may be PREDICATE-LAYING, not de-escalation grammar. His evidence is an
+  OMISSION I under-weighted: **the post went up at 5:57pm — DURING the ballistic attack —
+  and acknowledges none of the incoming fire.** A command narrating a round closed says
+  "we are defending against retaliation"; a command building the record for a response
+  litigates WHO STARTED IT ("Iran created the threat") while ignoring the missiles in the
+  air. Establish causation first, respond second, and the story reads clean afterward.
+  Also coherent with the factional split: the non-concur leak = the commanders' output
+  (against extension); the fact-check = the civilian-messaging output (predicate for
+  more). **DISCRIMINATOR, 12-24hrs: US kinetic response beyond intercepts = Jake's read
+  wins (and the civilians overrode four commands — the bigger signal); round closes on
+  messaging = the de-escalation read holds.** *(Jake's read; scored as the stronger of
+  the two on the omission evidence.)*
