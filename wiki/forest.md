@@ -37,8 +37,11 @@ breakevens still anchored = REAL-yield/term-premium move again. ⚠️ THE CONTR
 live until Sept 9 — the unadministered long end is printing the BEFORE leg of the experiment;
 5.25+ SUSTAINED through Sept 9 = the apparatus is too small. CONFIRMATION SEQUENCE adopted
 ([[rates-board]] 8/31): 30Y >5.25-5.30 sustained → MOVE >85-90 → BBB >110-120 → HY >300 →
-new-issue concessions → a Level-2 name forced to add support. Credit still asleep = the central
-contradiction.** **8/28 JACKSON
+new-issue concessions → a Level-2 name forced to add support. **CLOSE 8/31: the 30Y closed AT
+5.25 official (gate 1 at threshold, control-week day 1; 30Y REAL ~3%) — while Friday's OAS
+HELD/TIGHTENED through the Warsh shock (IG 79 unch): credit is FADING Treasury stress, not
+lagging it. GS: hyperscaler issuance $250B '26 → $400B '27 (+60%) = the collision grows.**
+Credit still asleep = the central contradiction.** **8/28 JACKSON
 HOLE: a HAWK BLOC (Warsh · Schmid · Hammack) — Sept hike odds 35→58% in one day; CLOSE: 2Y +14bp
 to 4.34 vs 30Y +3bp to 5.22 (the long end barely responds to a hawkish shock) = the bind's
 DIVISION OF LABOR printed on the curve: the Fed prices the SHORT end (short rates "the primary
