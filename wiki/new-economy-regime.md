@@ -4814,3 +4814,35 @@ or fetch; US crude/LNG-to-China volumes = the deal's tell when the summit lands.
 **📌** ⬜ May-June Chinese customs data (THE test, now fetchable — offload candidate per
 the playbook) · ⬜ the demand-collapse disentanglement · Alaska LNG FID · the 20% US-oil
 tariff status. **Links:** [[oil-value-chain]] · [[war/war-board]] · [[demand-destruction]] · [[forest]]
+
+### Addendum 2026-08-31 ~10:05am PDT — ⭐⭐⭐⭐ **THE TETHER RE-UNDERWRITTEN FOR THE AUGUST WORLD (Jake: the thesis predates the open-source/token war, the rare-earth/tariff spats, the destruction of Russian refining, and the May→now Ukraine escalation). What survives, what changed, what to watch:**
+- **★★★★ SURVIVES, STRENGTHENED — the core:** squeeze China's discounted crude, sell US
+  supply as the relief. Economic Outcast literally operationalizes it; Venezuela's 65B-bbl
+  framework arms the west jaw at sovereign scale. The May thesis is now POLICY.
+- **★★★★ THE COMPLICATION THE MAY THESIS COULDN'T SEE — THE RUSSIAN THIRD SPIGOT, and it
+  cuts AGAINST the squeeze:** China's discounted complex was always THREE sources (Iran,
+  Venezuela, RUSSIA/ESPO). The US flipped one and is choking another — but Ukraine's
+  refinery campaign, paradoxically, may WIDEN the third: destroyed Russian refining
+  capacity frees CRUDE for export (domestic refining can't absorb it) even as it destroys
+  Russia's PRODUCT exports. **China's discounted-crude lifeline partially reroutes to
+  ESPO barrels unless Russian-crude buyers get the Economic Outcast treatment too. ⇒ THE
+  TELL: secondary sanctions extending to RUSSIAN-crude purchasers = the squeeze going
+  full-complex; absent that, the tether has a leak.** (Ukraine hitting export
+  infrastructure — ports/pipelines — instead of refineries would close the spigot
+  kinetically; the 1,000-drone/day ramp makes that watchable.) *(Analysis.)*
+- **★★★ THE NEGOTIATION BROADENED — the tether is now ONE LEVER OF FOUR:** the May summit
+  was oil/trade; the collection-round summit is energy + CHIPS (GLM/DeepSeek/Huawei — the
+  open-source war gave China genuine AI momentum it lacked in May) + RARE EARTHS (the
+  May "rare earths flowing" detente is DEAD — EO 14420, germanium/quartz, the 7.5%
+  tariff; China's strongest counter, the MP/UUUU/USAR buildout the US answer) + TAIWAN
+  (the swarm). Leverage shifted BOTH ways since May: US stronger on energy; China
+  stronger on rare earths + AI momentum; China's ECONOMY weaker (the demand-collapse
+  confound deepened — Xi needs the deal more, and the deal is bigger). *(Analysis.)*
+- **★★★ the Russia-China interaction the May frame lacked:** Russia cornered (NORSI +
+  Venezuela + trilateral maneuvering) = China's senior partner WEAKENING into the summit —
+  another increment of Xi's need to deal, and another reason Beijing's swarm-leverage is
+  the instrument of choice (cheap, deniable, reversible).
+**📌** THE NEW TELL: Economic Outcast extending to Russian-crude buyers (closes the leak) ·
+Ukraine targeting shifting refineries→export infrastructure · the customs test UNCHANGED
+as the confirm (now with a three-way disentanglement: rotation-to-US vs demand-collapse vs
+reroute-to-ESPO).
