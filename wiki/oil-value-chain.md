@@ -2555,3 +2555,30 @@ watch extended to match the thesis duration.
 
 ### Addendum 2026-08-31 ~7:45am PDT — ⛔⭐⭐⭐⭐⭐ **THE CAMPAIGN SIGNATURE PRINTS: US DIESEL CRACK APPROACHING $100/BBL while Brent runs $90+ — crude and cracks rising TOGETHER, the exact 8/23 branch signature ("refiners keep the move," the 140% pass-through).** ZH: "increasingly severe shortage" in refined products. The 8/23 branch's market leg is CONFIRMED ON THE TAPE even while the tripwire's kinetic leg sits at claimed-strike (war-board 8/31). For the book: VLO is long the tail that is now firing — GS's $63 2027 forecast was published 48 hours ago and spot is already blowing through it. **The kill-switch corollary, stated coldly: a $100 diesel crack at $91 Brent = pump diesel headed WELL past $6.59 — the political pressure this generates is the trade's terminal risk arriving at maximum velocity. The supply lever (Venezuela) cannot touch a crack this shape; export restrictions are the remaining tool. Watch for the first product-export jawbone — that is the exit bell, not a dip to buy.**
 **📌** today's 3-2-1 print vs $67 base · pump-price pass-through speed · the first export-restriction trial balloon (THE exit signal) · Cal-27 crack curve reaction (GS's rec marking to market).
+
+### Addendum 2026-08-31 ~10:30am PDT — ⭐⭐⭐⭐ **THE KILL-SWITCH'S SECOND FIRING ALSO SPARES THE CRACK (Jake's brief): EPA grants >1.8 BILLION RINs of Small Refinery Exemptions — ~2x what was contemplated, the largest waiver level since 2017; MPC and CVX among seekers; stated motivation = compliance costs + pump-price pressure during the Iran shock. A ~500M+ gallon addition to the 2027 mandate is being weighed to compensate the farm side.**
+- **(DATA)** SREs = EPA relief from Renewable Fuel Standard blending obligations (blend or
+  buy RIN credits); >1.8B RINs waived; largest since 2017; farm-side compensation under
+  consideration for 2027.
+- **★★★★ THE PATTERN, now two firings deep: the political response to pump prices KEEPS
+  CHOOSING LEVERS THAT DON'T ATTACK THE CRACK.** Firing 1 (Venezuela): the supply lever —
+  hits the barrel. Firing 2 (SREs): the REGULATORY-RELIEF lever — a direct reduction of
+  refiner compliance costs, i.e. a MARGIN ASSIST. The export-restriction lever (the exit
+  bell) remains untouched — and the revealed logic is legible: **you don't punish the
+  bottleneck you depend on. Max refinery runs are the only near-term diesel relief, so
+  policy subsidizes the refiners instead of squeezing them.** The exit-bell watch stands,
+  but its probability just dropped a second notch: two consecutive pro-refiner choices
+  under maximum pump-price pressure. *(Analysis.)*
+- **★★★ VLO SPECIFICS:** historically among the largest RIN-obligated parties (RIN costs
+  in the billions in high-RIN years) — SREs to "small" refineries collapse RIN prices
+  for EVERYONE obligated; lower compliance cost = a margin kicker ON TOP of the ~$100
+  crack. The brief's line adopted: no new physical capacity — the crack stays; the
+  economics improve. Policy assist #2 for the sleeve's heaviest weight. *(Analysis.)*
+- **⚠️ THE AG CROSS-CURRENT, flagged against yesterday's entry:** bearish RIN/ethanol/
+  biofuel economics = bearish CORN/SOY demand at the margin — a partial counter-current
+  to the GSCI-ag streak (which is wheat/softs-led; different grains, but the ag-complex
+  read shouldn't be monotone). The +500M-gallon 2027 compensation = the farm-state
+  midterm politics visible (can't anger Iowa before Nov 3).
+**📌** RIN price prints (the collapse = the everyone-benefits confirmation) · the 2027
+mandate addition (farm-side compensation = the political tell) · VLO RIN-cost line in the
+Q3 print (the kicker quantified).

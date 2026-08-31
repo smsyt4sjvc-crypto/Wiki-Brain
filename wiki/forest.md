@@ -65,7 +65,10 @@ kill-switch re-arms on a 2027 fuse. Diesel $5.65 = kill-switch risk rising with 
 firing chose the SUPPLY lever: Trump announces "majority US control of 65B barrels" of Venezuelan
 reserves (deal = political-claim rung, unconfirmed; succession VERIFIED: Maduro captured Jan 2026,
 Rodríguez interim since Feb — pre-repo thread backfilled). Supply headlines hit the BARREL, not the CRACK — benign branch for refiners;
-restrictions stay available ([[oil-value-chain]] 8/28).** Rates: Treasury, not the Fed, is the long-end policy arm. **NEW
+restrictions stay available ([[oil-value-chain]] 8/28). **8/31 SECOND FIRING: EPA waives >1.8B
+RINs (largest since 2017) = a refiner MARGIN ASSIST — two firings, both sparing the crack; the
+revealed logic: you don't punish the bottleneck you depend on. Exit-bell odds down a second
+notch ([[oil-value-chain]] 8/31).** Rates: Treasury, not the Fed, is the long-end policy arm. **NEW
 8/26: the AI complex is a SECOND sovereign-scale duration supplier — hyperscaler issuance ~$35B/yr
 (2020-24) → $93B (2025) → $132B in 7mo (2026); foreign buyers took more US corporates ($390B) than
 Treasuries ($329B) T12M ([[rates-board]] 8/26). Inflation hot (PCE 3.7/3.3), breakevens anchored
