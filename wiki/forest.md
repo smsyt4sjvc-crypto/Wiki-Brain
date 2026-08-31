@@ -19,7 +19,7 @@ IF → THEN → INSTRUMENT, dated; **prune when resolved or aged out** (a resolv
 board, it does not linger) · holds the BASKETS with `vault_find` keywords so references pull in one
 command · short enough to read in one scroll; if it grows past that, prune before adding.
 
-**REFRESHED: 2026-08-28 ~8:20am PDT**
+**REFRESHED: 2026-08-31 ~7:25am PDT**
 
 ## STATE
 **Two-speed market.** AI **periphery repriced as CREDIT** (CRWV 817bp · ORCL 226bp · SPCX ~170 ·
@@ -31,7 +31,14 @@ implies 33.1%/qtr, matching the vault's measured +32.6% lease leg)** ([[balance-
 an ADMINISTERED price — street-consensus as of 8/27 (BofA "new regime," Bessent's own "Treasury
 twist"; buybacks ≥$4B/op: 5.31→5.18); read fragility off the BELLY. NOV 4 REFUNDING = the dated
 catalyst: war-gamed WAM-shortening (bills up, long end cut/held, Citi tail: 20Y eliminated —
-the 20Y at 5.177 vs 30Y 5.184 is the max-sensitivity duration expression).** **8/28 JACKSON
+the 20Y at 5.177 vs 30Y 5.184 is the max-sensitivity duration expression).** **8/31 OPEN: the flattener PIVOTS to a WAR-PREMIUM STEEPENER — 2Y −1.3bp while the 30Y +3.6 to
+5.244 (both 20/30Y touch 5.25 intraday) on Brent +5.9% to ~$91 (the Iran night); Sept hike ~65%;
+breakevens still anchored = REAL-yield/term-premium move again. ⚠️ THE CONTROL WEEK: buybacks not
+live until Sept 9 — the unadministered long end is printing the BEFORE leg of the experiment;
+5.25+ SUSTAINED through Sept 9 = the apparatus is too small. CONFIRMATION SEQUENCE adopted
+([[rates-board]] 8/31): 30Y >5.25-5.30 sustained → MOVE >85-90 → BBB >110-120 → HY >300 →
+new-issue concessions → a Level-2 name forced to add support. Credit still asleep = the central
+contradiction.** **8/28 JACKSON
 HOLE: a HAWK BLOC (Warsh · Schmid · Hammack) — Sept hike odds 35→58% in one day; CLOSE: 2Y +14bp
 to 4.34 vs 30Y +3bp to 5.22 (the long end barely responds to a hawkish shock) = the bind's
 DIVISION OF LABOR printed on the curve: the Fed prices the SHORT end (short rates "the primary
