@@ -560,3 +560,19 @@ cron writes `data/fragility/*` on wb main directly, so its copy can be newer —
 - **⚠️ THE VAULT NOW LIVES IN ITS OWN REPO (`wiki-brain`), moved 2026-08-22.** The copy inside
   `INMA-/research-vault/` is STALE. Never edit both. Never touch the INMA business site — Pages
   there serves inmagent.com off `main`, and scheduled Actions only fire from a default branch.
+
+### ⛔ BOARD-CONSTRUCTION RULE — INVENTORY THE INHERITED STATE (set 2026-08-31, Jake's catch: "that should've definitely been in there")
+**The UAE left OPEC May 1, 2026 — a cartel-structure break in the vault's core domain — and no board
+held it until 8/31.** Not a migration loss and not a live-coverage miss: **the repo existed (Feb 14)
+but the oil lane didn't (demand-destruction built 7/1, oil-value-chain 7/20, war-board 7/24). A
+board built mid-year starts at "now" and treats the inherited state as continuous history — it never
+asks what BROKE in the preceding quarter.** Three gap classes now on the ledger: (1) PRE-REPO
+(before Feb 14 — lives in the project space; backfill when a thread reaches for it); (2) MIGRATION
+LOSS (covered in the project space, glossed in transfer); (3) **CONSTRUCTION BLIND SPOT (event fell
+between repo birth and the relevant board's birth).**
+⇒ **THE RULE: opening a NEW board requires a STRUCTURAL-EVENTS INVENTORY of the preceding ~quarter —
+regime changes, cartel/alliance breaks, capacity destruction, defaults, nationalizations — filed as
+the board's inherited-state header. The present is not the history.**
+⬜ **RETROACTIVE SWEEP OPEN: what else broke Feb-July that the July-built boards silently inherited?
+Three surfaced via Jake in four days (Maduro/January, the May 14-15 summit, UAE/May 1). Ask the
+project space; more are likely.**
