@@ -4756,3 +4756,22 @@ effective date + product scope; (3) Economic Outcast's next bank action (this we
 the 8/30 brief); (4) China's counter (rare-earth/germanium leverage = the MP/UUUU
 complex's other edge).
 **Links:** [[war/war-board]] · [[oil-value-chain]] · [[buildout-bottleneck-map]] · [[forest]]
+
+### Addendum 2026-08-31 ~9:50am PDT — ⟲⭐⭐⭐⭐ **JAKE'S STANDING CALL, CREDITED (pre-repo, ~January): he read the TWO-OCEAN CHINA SQUEEZE at the time of the Maduro capture and Iran attacks — actually BEFORE the attacks, off US Navy pre-positioning "a couple weeks" prior: Trump squeezing China from the WEST (Venezuela) and the EAST (Iran) to negotiate MORE US IMPORTS INTO CHINA — an agenda discussed at a Trump-Xi summit he places ~APRIL (Beijing). ⬜ The April summit is NOWHERE in the vault (pre-repo/early-gap — the vault's war thread opens 3/13 and never filed it): verify date + what was agreed on US imports.**
+- **The credit's substance:** today's G20 entry derived "dismantling China's discounted-oil
+  complex on both sources" from the 8/31 evidence. Jake had the DESIGN seven months ago,
+  from force posture — Navy pre-positioning weeks before kinetics = premeditation, the
+  operations as one architecture, not sequential reactions. The pre-repo arc now reads:
+  **January capture (west) → Iran campaign (east) → April summit (the ASK: US imports
+  into China) → August: Economic Outcast + tariffs + the NEXT summit (the collection
+  round).**
+- **★★★★ THE REFINEMENT HIS FRAME ADDS — the endgame isn't severing the discounts, it's
+  OWNING THE REPLACEMENT:** China must substitute the lost discounted barrels, and the US
+  now controls the substitutes — Venezuelan heavy under a US framework, plus US crude/LNG.
+  **Squeeze the cheap sources, then sell the relief: the toll-and-tap thesis at superpower
+  scale, with "more US imports into China" as the deal's stated object.** The upcoming
+  summit is the collection round of the April ask. Forest branch updated: the
+  summit-holds fork's payoff now includes US energy-export volumes to China as the
+  confirmable term. *(Jake's thesis, seven months standing; analysis on top.)*
+**📌** ⬜ backfill the April summit (date, agenda, the imports language) — pre-repo recall
+or fetch; US crude/LNG-to-China volumes = the deal's tell when the summit lands.
