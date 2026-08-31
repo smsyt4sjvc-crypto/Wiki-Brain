@@ -4497,7 +4497,7 @@ Source: BofA Global Fund Manager Survey via Jake, 2026-08-21. **180 participants
    chart's ANNOTATIONS, not off a computed forward-return study. **Asymmetry claimed, not measured.**
 **Links:** [[financing-fragility-gauge]] · [[concentration]] · [[transmission-chain]] · [[buying-at-highs]]
 
-## 2026-08-31 ~1:50pm PDT — ⭐⭐⭐⭐ **RECORD DISPERSION (Jake's paste): median 63-day stock-to-index correlation +0.10 — LOWEST ON RECORD (prior record +0.16, set post-dot-com-burst 2000; −71% in 5 months; March-2025 selloff peaked at +0.76). Jake's read adopted as the mechanism: "ANCHORS AND BALLOONS — which is why it just chops sideways."**
+## 2026-08-31 ~4:15pm PDT — ⭐⭐⭐⭐ **RECORD DISPERSION (Jake's paste): median 63-day stock-to-index correlation +0.10 — LOWEST ON RECORD (prior record +0.16, set post-dot-com-burst 2000; −71% in 5 months; March-2025 selloff peaked at +0.76). Jake's read adopted as the mechanism: "ANCHORS AND BALLOONS — which is why it just chops sideways."**
 - **(DATA)** Median 63d correlation +0.10 · prior ATL +0.16 (2000, POST-burst) · −71%/5mo ·
   stress reference: 0.76 (Mar-2025 selloff).
 - **★★★★ THE TWO-SPEED REGIME, QUANTIFIED AT A RECORD:** the forest's STATE line
