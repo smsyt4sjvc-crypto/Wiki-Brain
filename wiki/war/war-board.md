@@ -4144,7 +4144,7 @@ bigger signal); (2) carrier/destroyer posture changes; (3) any Chinese posture p
   casualty number breaks nonzero.
 **📌** unchanged: MSAB casualties · UKMTO/USNI mine confirmations (now specifically in the
 GULF-OF-OMAN approaches) · minesweeper redeployment.
-- **⟲ ~6:05pm — JAKE'S COUNTER-READ, filed against the paragraph above (both live):** the
+- **⟲ ~6:40pm — JAKE'S COUNTER-READ, filed against the paragraph above (both live):** the
   fact-check may be PREDICATE-LAYING, not de-escalation grammar. His evidence is an
   OMISSION I under-weighted: **the post went up at 5:57pm — DURING the ballistic attack —
   and acknowledges none of the incoming fire.** A command narrating a round closed says
