@@ -4775,3 +4775,42 @@ complex's other edge).
   confirmable term. *(Jake's thesis, seven months standing; analysis on top.)*
 **📌** ⬜ backfill the April summit (date, agenda, the imports language) — pre-repo recall
 or fetch; US crude/LNG-to-China volumes = the deal's tell when the summit lands.
+
+### Addendum 2026-08-31 ~9:55am PDT — ⟲⭐⭐⭐⭐⭐ **THE FULL PRE-REPO BACKFILL (Jake's project-space summary, memory current to ~late June, written Aug 4): THE IRAN-VENEZUELA TETHER THESIS, dated and graded. ⟲ CORRECTS the prior addendum: the Trump-Xi Beijing summit was MAY 14-15, 2026 (not ~April).**
+- **THE THESIS (Jake's, pre-summit):** Iran + Venezuela = a TETHERED PAIR — the two big
+  sanctioned heavy-crude producers; the US squeezing China's discounted-oil supply from
+  both ends (Iran constrained militarily, Venezuela reopened as the US-controlled
+  alternative) → **Iran's war chest erodes the moment China's purchases rotate — funding
+  collapse faster than military pressure alone.**
+- **THE PREDICTION, graded:** pre-summit Jake put ~35% on "minor oil negotiations" — Xi
+  committing to reduce Iranian imports (vs the project's distribution: theater 50 /
+  genuine 20 / failure 25). **Announced (Trump-verbal rung, ~30-50% historical delivery):
+  China to buy US oil (ships to TX/LA/AK) · China helps on Iran + NO MILITARY EQUIPMENT
+  TO TEHRAN (the one real concession) · Xi wanted Hormuz "open and free of tolls" ·
+  Alaska LNG "may take place" · ag + rare earths + fentanyl tariff 20→10%.** His
+  post-summit read (pinned May 21) BEAT consensus: China wasn't diversifying or trading
+  tariffs — it was positioning **US energy as the STRUCTURAL HEDGE against Iran
+  exposure.**
+- **THE THREE LOGGED CONSEQUENCES (May 21), scored against August:** (1) Iran funding
+  erodes → ceasefire pulls forward — **CONFIRMING: Iran's own officials now admit 35%
+  trade crippled, "dark red" reserves, MOU callbacks** (8/30 entries); (2) verification
+  mechanism = CHINESE CUSTOMS DATA (Iranian volumes −20%+ while US volumes appear) — ⬜
+  the May-June data EXISTS NOW, unfetched: the thesis's registered test is finally
+  runnable; (3) **Hormuz reopening becomes a CHINESE interest → China flips to active
+  de-escalator — partially confirming: the Oman corridor/Qatar-Pakistan mediation and
+  Xi's own "open and free of tolls" ask.** And the concession explains the battlefield:
+  no Chinese military equipment = why Iran's air defense degrades unreplenished.
+- **THE CONFOUND, carried honestly (late-June project item):** the CHINA DEMAND-COLLAPSE
+  thesis — GS China baskets (autos/RE/banks/consumption) in synchronized near-vertical
+  drops. Falling Iranian imports must be disentangled: rotation-to-US (the squeeze
+  working) vs China simply needing less oil (demand destruction). Both bear on Iran's
+  funding; only the first confirms the realignment mechanism. ⬜ still the open test.
+- **THE ARC, complete and dated:** Jan (Maduro captured — west jaw) → Jan-ongoing (Iran
+  campaign — east jaw) → **May 14-15 Beijing (the ask + the hedge signal)** → May 21
+  (consequences pinned) → Aug (Economic Outcast + tariffs = ENFORCING the rotation the
+  summit invited) → **next month's summit = the collection round.** Verification stack
+  for it: customs data · China's 20% US-oil tariff status · Alaska LNG FID · US
+  crude/LNG-to-China volumes.
+**📌** ⬜ May-June Chinese customs data (THE test, now fetchable — offload candidate per
+the playbook) · ⬜ the demand-collapse disentanglement · Alaska LNG FID · the 20% US-oil
+tariff status. **Links:** [[oil-value-chain]] · [[war/war-board]] · [[demand-destruction]] · [[forest]]
