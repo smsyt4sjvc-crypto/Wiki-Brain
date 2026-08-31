@@ -4128,3 +4128,19 @@ the leak worked; escalation despite it = the civilian side overrode four command
 bigger signal); (2) carrier/destroyer posture changes; (3) any Chinese posture probing
 (the window test); (4) WaPo primary ⬜.
 **Links:** [[oil-value-chain]] · [[buildout-bottleneck-map]] (Taiwan/TSM) · [[new-economy-regime]] (fiscal) · [[forest]]
+
+### Addendum 2026-08-30 ~6:00pm PDT — ✔ **CENTCOM GOES ON THE RECORD (official X post, 5:57pm, Jake's paste): US strikes were against "IRGC MINELAYING FORCES posing an IMMINENT THREAT in the Strait of Hormuz" — "Iran created the threat and the US military eliminated it."** Rung upgrade on the Larak entry: Axios-official → COMMAND-OFFICIAL, and CENTCOM's own language confirms the minelaying operation as fact, not claim.
+- **(the geographic tension, held precisely):** CENTCOM speaks in the PAST TENSE about
+  threats IN the strait ("eliminated it"); Zolfaghari's claim (~5:15pm entry) is PRESENT
+  TENSE about mining SOUTH of the strait — the Gulf-of-Oman approaches, outside the
+  strike's stated scope. **Both can be true: the minelaying displaced south of where
+  CENTCOM shot.** The Khasab tanker pattern sits exactly there. Mine-confirmation watch
+  unchanged; the tension is the watch.
+- **(the messaging read):** a fact-check-format post is de-escalation grammar — commands
+  narrating "limited, precise, threat-eliminated" are managing an exchange, not preparing
+  a campaign. Consistent with the non-concur leak's direction: the institutional current
+  runs toward containment tonight. The missiles + the counter-messaging + the leak all in
+  four hours = a calibrated round being narrated closed by both sides, UNLESS the MSAB
+  casualty number breaks nonzero.
+**📌** unchanged: MSAB casualties · UKMTO/USNI mine confirmations (now specifically in the
+GULF-OF-OMAN approaches) · minesweeper redeployment.
