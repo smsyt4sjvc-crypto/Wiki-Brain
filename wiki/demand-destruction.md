@@ -4011,3 +4011,41 @@ decree asymmetry). **Not a supersession — it operates one level ABOVE the mech
    ④ Moscow past the peak: PEAK UNDATED. **Current score on clean evidence: ZERO of three.**
 4. ⬜ **Russian seasonal gasoline/diesel demand profile** — needed to date trigger ④.
 **Links:** [[oil-value-chain]] · [[war/war-board]] · [[europe-energy-crunch]] · [[rates-board]]
+
+## 2026-08-31 ~10:15am PDT — ⭐⭐⭐⭐ **JAKE'S PUSHBACK ON THE CHINA DEMAND-COLLAPSE THESIS — GRADED: SUBSTANTIALLY CONCEDED, and it REDESIGNS the tether's verification test. His claim: the collapse is "bullshit" — no correlating reduction in oil/gas-dependent PRODUCTION; China has a CONSUMPTION problem, not a throughput problem; the missing imports are HIDDEN (Iran dark fleet · Russia/ESPO · possibly an OPEC-independent UAE ⬜) plus reserve draws**
+- **★★★★ HIS BEST EVIDENCE IS THE ADMINISTRATION'S OWN NUMBER: the $1.2T surplus.** Record
+  export manufacturing is oil/gas/power-INTENSIVE — you cannot run it on collapsed
+  industrial energy demand. The GS China baskets (autos/RE/banks/consumption) that
+  cratered are EQUITY PRICES OF THE DOMESTIC-FACING ECONOMY — a consumption-weakness
+  signal, not a physical-throughput gauge. Bessent's "exporting its way out" framing IS
+  the production-side boom claim. **⇒ Domestic consumption weak + export production
+  strong = aggregate oil demand resilient — and falling VISIBLE imports then mean
+  SOURCING SHIFTS AND HIDING, not shrinking.** *(Jake's thesis; conceded on the core.)*
+- **(the honest counter-edge, one clause each):** transport fuels ARE structurally eroding
+  (EV penetration, LNG trucking — gasoline peaked; real, multi-year, erosion not
+  collapse); petrochemical feedstock still growing. Middle: aggregate ~flat-to-resilient,
+  not booming — which is still JAKE'S side of the disagreement vs "collapse."
+- **★★★★ WHERE THE BARRELS HIDE (his list, instrumented):** (1) Iran dark fleet — the
+  Malaysia-transshipment label (customs shows "Malaysia" imports far above Malaysian
+  production); (2) Russia/ESPO — pipeline + seaborne, widening as refinery destruction
+  frees Russian crude (the third-spigot leak, filed 10:05); (3) **⬜ UAE "freshly
+  independent of OPEC" — VERIFY the OPEC status; the gCaptain "Gulf giants' ramp-up
+  accelerates" line supports Gulf producers pumping above historic quotas either way**;
+  (4) reserve draws — China's SPR/commercial tanks built in the cheap years can mask
+  import needs for quarters.
+- **★★★★★ THE TEST, REDESIGNED — customs data was the WRONG instrument all along if the
+  barrels are deliberately hidden:** the tether's verification moves to PHYSICAL PROXIES:
+  **(a) Chinese refinery run rates** (majors + teapots) — runs high while visible imports
+  fall = the gap IS the hidden supply; **(b) satellite storage estimates** (Kayrros-class)
+  — falling tank levels = reserve draws confirmed; **(c) "Malaysia" import volumes** —
+  the transshipment gauge; **(d) industrial electricity/diesel throughput** vs the
+  surplus. Customs stays useful for ONE thing only: US-origin volumes APPEARING (can't
+  hide barrels you're showcasing for a deal). *(Analysis on Jake's frame.)*
+- **(tether implication, carried honestly):** if the barrels are reaching China hidden,
+  **Economic Outcast bites SLOWER than Washington thinks → Iran's funding erodes slower →
+  the war runs longer** — which also extends the crack thesis's supply-disruption
+  duration. His pushback is simultaneously bearish for the squeeze's timeline and
+  BULLISH for the refining trade's.
+**📌 REGISTERED:** ⬜ UAE-OPEC status · Malaysia-import series · Chinese run-rate data ·
+Kayrros-class storage reads · the customs test DEMOTED to the US-volumes-appearing half
+only. **Links:** [[new-economy-regime]] (tether) · [[oil-value-chain]] · [[war/war-board]] · [[forest]]
