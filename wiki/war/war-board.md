@@ -4250,3 +4250,9 @@ Pacific carrier — the window stays open by the Pentagon's own assessment).
 **📌** vessel/owner/UKMTO confirm (unchanged, now with the Cooper forcing function) ·
 transit-count series (5/day = the new baseline datum) · the South Korean tanker bet ⬜ ·
 Empire State VII mission ⬜ · Tehran's conditions list (the off-ramp's paper trail).
+- **⟲ ~9:45am addendum to the Taiwan-swarm entry: ALTERNATIVE READ ADDED (Bessent/G20
+  fetch, [[new-economy-regime]] 8/31):** with a Trump-Xi summit planned next month and
+  Washington stacking tariffs/sanctions into it, the 244-ship swarm reads as Beijing's
+  PRE-SUMMIT COUNTER-LEVERAGE, not only window-probing — pressure-then-summit on both
+  sides (the Russia pattern, Chinese edition). Both reads live; the summit is the
+  resolution date.
