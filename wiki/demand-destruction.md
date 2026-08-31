@@ -4049,3 +4049,25 @@ decree asymmetry). **Not a supersession — it operates one level ABOVE the mech
 **📌 REGISTERED:** ⬜ UAE-OPEC status · Malaysia-import series · Chinese run-rate data ·
 Kayrros-class storage reads · the customs test DEMOTED to the US-volumes-appearing half
 only. **Links:** [[new-economy-regime]] (tether) · [[oil-value-chain]] · [[war/war-board]] · [[forest]]
+
+### Addendum 2026-08-31 ~10:20am PDT — ✔⭐⭐⭐⭐ **UAE-OPEC RESOLVED (Jake, same hour): the UAE OFFICIALLY LEFT OPEC MAY 1, 2026** (announced 4/28; 59-year membership ended; reason: quotas capping output at ~3.4M bpd vs a 5M bpd capacity target by 2027 + monetize-before-the-transition; OPEC down to 11 members; the Saudi policy rift widened). **⛔ Another May event the migration lost — the vault existed and never filed it; backfilled now.**
+- **★★★★ WHAT IT DOES TO THE BOARDS:** (1) **Jake's abundance thesis confirmed
+  structurally** — +1.6M bpd of unbound UAE headroom coming by 2027 is the third leg of
+  his "they're getting it somewhere" list, sanctions-free; the gCaptain "Gulf giants'
+  ramp-up accelerates" line now has its explanation. (2) **The divergence thesis gets its
+  crude-abundance side made PERMANENT: OPEC cohesion broken = supply discipline
+  structurally weaker = the flat-price ceiling, while conversion stays scarce — abundant
+  crude + scarce refining is now the REGIME, not a moment.** GS's "crude isn't the
+  problem anymore" institutionalized by cartel breakdown. (3) **The Saudi-rift tail:** a
+  weakened OPEC raises the pump-to-defend-share scenario — a crude price war would be
+  the REFINER'S DREAM REGIME (cheaper feedstock, cracks intact, margins widen); VLO's
+  upside tail fattens while the flat-price bulls' thins. (4) **The tether refined:** UAE
+  = a NON-sanctioned discount competitor for Chinese demand — which leaks the
+  force-them-to-US-barrels leg BUT still serves the Iran-DEFUNDING leg (any substitution
+  away from Iranian barrels starves Tehran; only US-origin volumes serve the deal). The
+  two legs now score separately. (5) UAE's monetization posture = another Gulf actor
+  whose interest is Hormuz OPEN (it intercepted an Iranian drone yesterday — posture
+  consistent). *(Analysis on Jake's verified fact.)*
+**📌** UAE ramp trajectory (3.4→5M bpd) as a supply series · Saudi response (quota
+discipline vs share defense = the price-war tell) · UAE-China volumes (the tether's
+substitution gauge).
