@@ -98,7 +98,7 @@ above-target inflation = repression; gold is the residual claim ([[new-economy-r
 
 ## 🧺 CONFIDENCE BASKET (≤10, audited 8/24 — [[high-confidence-basket]])
 *ticker · the call · the on-file disconfirmer · `vault_find` keywords*
-1. **TSM** — the chokepoint everyone pays · Taiwan concentration · `TSM, CoWoS, foundry`
+1. **TSM** — the chokepoint everyone pays · Taiwan concentration **— 8/30: fed concretely (Pentagon non-concur leak: no Pacific carrier, 1/4 destroyers ready, allies told interceptor shelf bare = the deterrence window visibly thinning)** · `TSM, CoWoS, foundry, non-concur`
 2. **MU** — bandwidth binds inference · HBM cycle history · `HBM4, bandwidth, DeepSeek decode`
 3. **GEV** — power is the constraint · valuation stretch **+ 8/30: the chokepoint attacked by its own customers (SpaceX in-house casting)** · `gas turbine, power queue, GEV, casting`
 4. **ETN** — grid/electrification toll · same crowd · `Eaton, grid, electrification`
