@@ -573,6 +573,6 @@ between repo birth and the relevant board's birth).**
 ⇒ **THE RULE: opening a NEW board requires a STRUCTURAL-EVENTS INVENTORY of the preceding ~quarter —
 regime changes, cartel/alliance breaks, capacity destruction, defaults, nationalizations — filed as
 the board's inherited-state header. The present is not the history.**
-⬜ **RETROACTIVE SWEEP OPEN: what else broke Feb-July that the July-built boards silently inherited?
+⬜→✔(partial 8/31: geopolitical/oil class CLOSED via project-gopher sweep — war-board inherited-state header; fiscal/legal/tech-policy classes still open) **RETROACTIVE SWEEP: what else broke Feb-July that the July-built boards silently inherited?
 Three surfaced via Jake in four days (Maduro/January, the May 14-15 summit, UAE/May 1). Ask the
 project space; more are likely.**
