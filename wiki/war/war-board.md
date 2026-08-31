@@ -4060,3 +4060,27 @@ external-power restoration or generator-fuel status; (4) tanker-strike attributi
   "beyond critical."
 **📌** MSAB casualty reports = THE watch tonight · wave count/saturation profile (reading
 a-vs-b) · US response posture language.
+
+### Addendum 2026-08-30 ~5:15pm PDT — ⛔⭐⭐⭐⭐⭐ **THE MINING CLAIM GOES OFFICIAL-ADJACENT WHILE THE MISSILES FLY (Jake, ZH reposts): Zolfaghari — IRGC Khatam al-Anbiya spokesman-class account — posts that Iran is "beautifying the illegal routes SOUTH of the Strait of Hormuz with our new and advanced naval mines" WHILE US forces defend MSAB. Fox/Yingst confirms bases in Jordan under active missile attack, intercepts underway.**
+- **(error-class-8 gate, run first):** speaker = IRGC central-headquarters spokesman class
+  (☫), not a random account — official-adjacent, and the taunting register is his wartime
+  house style. **Who gains if believed: IRAN, whether or not mines are actually in the
+  water** — a mining CLAIM alone moves war-risk insurance, tanker routing, and charter
+  rates. Psyops and real mining are both live readings; the claim is the weapon either way.
+- **(THESIS)** The structure, if the claim is operational: **the MSAB missiles are the
+  DIVERSION and the mining is the operation** — "while you are busy defending your bases."
+  Sequence: US clears the lanes → Larak re-mining attempt preempted (morning) → ballistic
+  attack pins attention and interceptors on Jordan → mining claimed SOUTH of the strait
+  (the Gulf-of-Oman approaches — where the Khasab tanker was hit 8/29, which now retro-
+  reads as part of the pattern). **The 8/23 tripwire instrument has moved: attempted →
+  preempted → CLAIMED ACTIVE in one day.**
+- **⛔ BRANCH STATUS, precisely: NOT FIRED.** The tripwire fires on CONFIRMED mining
+  (USNI/UKMTO/navies), a ship striking a mine, or a US-flag casualty — a spokesman's post
+  is not confirmation. **But the odds just jumped materially, and the ANNOUNCEMENT-EFFECT
+  version prices first: watch war-risk premia, Hormuz transit counts reversing off the
+  +400% recovery, tanker-rate spikes.** If any confirm: crude + cracks together, refiners
+  keep the move (the campaign signature), and the calm-stage flip watch extends to the oil
+  complex same-day — called unprompted per the standing rule.
+**📌** UKMTO/USNI mine confirmations · MSAB casualties (still THE branch point) · transit
+counts + war-risk quotes Monday · whether US minesweepers re-deploy (the clearing was just
+finished — re-clearing = confirmation by action).
