@@ -4496,3 +4496,30 @@ Source: BofA Global Fund Manager Survey via Jake, 2026-08-21. **180 participants
 3. ⬜ **The FMS's own top-vs-bottom hit rate, properly measured** — the base-rate reading above is off the
    chart's ANNOTATIONS, not off a computed forward-return study. **Asymmetry claimed, not measured.**
 **Links:** [[financing-fragility-gauge]] · [[concentration]] · [[transmission-chain]] · [[buying-at-highs]]
+
+## 2026-08-31 ~1:50pm PDT — ⭐⭐⭐⭐ **RECORD DISPERSION (Jake's paste): median 63-day stock-to-index correlation +0.10 — LOWEST ON RECORD (prior record +0.16, set post-dot-com-burst 2000; −71% in 5 months; March-2025 selloff peaked at +0.76). Jake's read adopted as the mechanism: "ANCHORS AND BALLOONS — which is why it just chops sideways."**
+- **(DATA)** Median 63d correlation +0.10 · prior ATL +0.16 (2000, POST-burst) · −71%/5mo ·
+  stress reference: 0.76 (Mar-2025 selloff).
+- **★★★★ THE TWO-SPEED REGIME, QUANTIFIED AT A RECORD:** the forest's STATE line
+  ("two-speed market") now has its cleanest statistic — the index is a handful of
+  balloons netted against a field of anchors; index-level chop IS offsetting internals.
+  Jake's corollary holds: the INDEX is uninformative in this regime — read components,
+  factors, and the credit boards instead (which is how the vault already operates).
+  WARNING-vs-TRIGGER: a record-low correlation is a STATE — it times nothing. One cycle
+  note filed without top-calling: the 2000 record was set AFTER the leaders broke;
+  today's is set with the leaders at highs — dispersion BEFORE a break has no precedent
+  in this series. *(Jake's read + analysis.)*
+- **★★★★ THE REFINEMENT IT FORCES ON THE CALM GAUGES: low correlation mechanically
+  SUPPRESSES index vol.** VIX 15.4 through a weekend of ballistic missiles is partly
+  dispersion arithmetic, not calm — offsetting single-name moves absorb shocks at the
+  index level. **⇒ Flip-watch caveat: VIX/index-vol gauges UNDERSTATE stress in this
+  regime; weight MOVE, spreads, and single-name/sector internals more. And the crack
+  scenario IS a correlation spike (0.10 → 0.7+ is what March-2025 did) — which makes
+  index hedges the cheap convexity on exactly the regime break the dam describes: priced
+  useless BECAUSE the regime says they're useless, paying only when it stops being
+  true.** Consistent with the policy-put branch's "index shorts don't pay" — in the
+  rotation base case they don't; in the correlated crack they finally do. *(Analysis.)*
+**📌** the correlation series joins the state dashboard (0.10 baseline) · a correlation
+SPIKE >0.4-0.5 = corroboration-class signal for the calm-stage flip (add to the ≥2-stages
+test as a confirming gauge, not a standalone trigger).
+**Links:** [[forest]] · [[rates-board]] · [[hyperscaler-credit]]

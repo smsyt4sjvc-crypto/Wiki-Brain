@@ -22,7 +22,7 @@ command · short enough to read in one scroll; if it grows past that, prune befo
 **REFRESHED: 2026-08-31 ~7:25am PDT**
 
 ## STATE
-**Two-speed market.** AI **periphery repriced as CREDIT** (CRWV 817bp · ORCL 226bp · SPCX ~170 ·
+**Two-speed market — now at a RECORD statistic: median stock-index correlation +0.10 (prior ATL 0.16, post-2000; Jake: "anchors and balloons — why it chops sideways"; VIX 15 through a missile weekend = dispersion arithmetic, not calm — index-vol gauges UNDERSTATE stress in this regime; a correlation spike >0.4-0.5 = flip-corroborator ([[market-fragility]] 8/31)).** AI **periphery repriced as CREDIT** (CRWV 817bp · ORCL 226bp · SPCX ~170 ·
 AVGO 127, at/near wides — [[hyperscaler-credit]]); **core has not** (IG ~82bp, MSFT 48bp), equities
 near highs on the same names. The off-sheet stack IG holds at 81bp grows **~33%/qtr — AI-7
 commitments+contingent support $575B (end-'24) → $3.2T (KBRA, rating-agency rung 8/26; the 5.6x
