@@ -2,8 +2,8 @@
 # Images: raw/2026-09-01-wh-energy-factsheet-p1.png / p2.png (authoritative).
 # OCR DROPS vs the images: "drive down gas refinerfor consumers… flow to U.S." → images read
 #   "drive down gas PRICES for consumers… flow to U.S. REFINERIES." (entry quotes the images)
-# DOCUMENT'S OWN ERROR (present in the image): "producing nearly 600,000 barrels each day" — garbled
-#   figure (US output ~13.5M b/d); not propagated.
+# "producing nearly 600,000 barrels each day" = the claimed INCREASE since inauguration (word "more"
+#   dropped), not total output. EIA-based comparisons: ~335-400K b/d increase → claim overstates ~1.5-1.8x (Jake).
 
 PRESIDENT TRUMP IS UNLEASHING AMERICAN ENERGY
 Today, President Trump will meet with highly respected refiners and distributors to discuss ways to expand the United States' refining capacity, with the ultimate goal of lowering gasoline prices for American consumers.
