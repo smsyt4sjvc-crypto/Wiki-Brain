@@ -3353,3 +3353,16 @@ core series; (2) frontier-share-of-SPEND (65.1% first reading) = the discriminat
 (3) DeepSeek/Gemini price actions = the capacity-interruption series; (4) 950PR shipped
 numbers vs the 750k target; (5) the 189GW proposed-gas series vs completions.
 **Links:** [[compression-thesis]] · [[buildout-bottleneck-map]] · [[ai-capex-cycle]] · [[forest]]
+
+### Addendum 2026-08-31 ~5:55pm PDT — **THE TOKEN INDEX BREAKS TO A RECORD LOW: Silicon Data LLM Token Expenditure Index 1.0018** (chart archived `raw/2026-08-31-silicon-data-token-index-record-low.png`) — **yesterday's +1.3% "rebound tick" already faded. And the chart's HISTORY confirms the capacity-interruption mechanism at index scale: TWO price-surge cycles (Jan peak ~1.8, May peak ~2.07) each followed by collapse — deflation is cyclical-interruptible, trend-down.**
+- **THE RECONCILIATION THE CHART FORCES (against yesterday's provider tape):** DeepSeek
+  raised prices 2-4x, Gemini has a scheduled doubling — yet the BLENDED index makes record
+  lows. Both true: the index is expenditure-weighted, and the MIX SHIFT to open/cheap
+  models (62% of tokens at the daily peak) drags the average down FASTER than individual
+  providers raise prices. **⇒ The record low is a MIX statement, not a pricing-power
+  statement — provider-level pricing power (Anthropic's 4.4x, DeepSeek's raises) and a
+  falling blended price coexist by construction. Read the barbell off the components,
+  never the blend** (the same anchors-and-balloons lesson as the equity correlation entry,
+  same day, different market). **📌** the index's next SURGE cycle = the capacity-
+  interruption tell at index scale (two priors: Jan, May); component-vs-blend divergence =
+  the standing read.
