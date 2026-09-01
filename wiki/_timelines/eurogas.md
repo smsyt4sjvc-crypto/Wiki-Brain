@@ -1,6 +1,6 @@
 # ⏱ EUROGAS — merged timeline (the gate)
 
-> **168 dated entries across 3 notes · 2026-07-23 → 2026-09-01 · refreshed 2026-09-01 12:33 PDT**
+> **170 dated entries across 3 notes · 2026-07-23 → 2026-09-01 · refreshed 2026-09-01 12:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -187,3 +187,5 @@
 - `2026-09-01` [war-board.md:L4302](../war/war-board.md) — Addendum 2026-09-01 ~11:25am PDT — ⭐⭐⭐⭐ **THE FORK, FIRST READ (ZH feed, wires): strikes reported across IRAN'S SOUTHERN REGIONS (state TV) — explosio
 - `2026-09-01` [war-board.md:L4304](../war/war-board.md) — Addendum 2026-09-01 ~11:58am PDT — ⭐⭐⭐⭐ **THIRD READ OF THE TARGET CLASS — PREEMPTIVE ANTI-MINING (Jake: "the small off chance that Trump took their t
 - `2026-09-01` [war-board.md:L4308](../war/war-board.md) — 2026-09-01 ~12:35pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **THE DISCRIMINATOR CLOSES IN 35 MINUTES: TRUMP (Truth Social, via ZH ~10:35am PT) — "large and powerful" strikes O
+- `2026-09-01` [war-board.md:L4321](../war/war-board.md) — Addendum 2026-09-01 ~12:35pm PDT — **Tape with the mining assertion in the market (header test ✓): Brent $95.00 +4.98% (3:19pm ET) · 30Y CLOSED 5.27 +
+- `2026-09-01` [war-board.md:L4323](../war/war-board.md) — 2026-09-01 ~12:50pm PDT — ⛔⛔✅⭐⭐⭐⭐⭐ **THE PRIMARY (Jake's screenshot, Truth Social 10:25am PT / 1:25pm ET, `raw/2026-09-01-trump-truth-hormuz-strikes.p

@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **738 dated entries · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 12:33 PDT**
+> **739 dated entries · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 12:42 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -760,6 +760,7 @@
 - `2026-09-01` **[1]** rates-board.md:L1922 — Addendum 2026-09-01 ~7:55am PDT — **two adds from the 9/1 intelligence brief:** (1) **UK 10Y ~5.25% — highest since 2008** (the 30Y at 5.9%/1998 filed
 - `2026-09-01` **[1]** rates-board.md:L1924 — Addendum 2026-09-01 ~9:32am PDT — **global-ring add (Rabobank via Jake): FRANCE 10Y HIGHEST SINCE 2008** joins Australia-2011/Bund-2011/JGB-1996/gilt-
 - `2026-09-01` **[1]** rates-board.md:L1926 — Addendum 2026-09-01 ~9:48am PDT — ⭐⭐⭐ **TAPE CHECK (ZH futures wrap): equities finally REACT — S&P fut −0.6%, Nasdaq −1.2%, semis −1.4%/memory −2.2%, 
+- `2026-09-01` **[1]** rates-board.md:L1928 — Addendum 2026-09-01 ~12:35pm PDT — ✅⭐⭐⭐⭐⭐ **BOND CLOSE, CONTROL-WEEK DAY 2 (Yahoo ^TYX, "at close 1:59pm CDT," header test ✓): 30Y 5.27 (+2bp from 5.2
 - `2026-09-01` **[1]** new-economy-regime.md:L4751 — Addendum 2026-09-01 ~8:00am PDT — ⭐⭐⭐⭐ **THE "CAROLINA PRINCIPLES" (Reuters, via 9/1 brief): the White House takes a HANDS-OFF-AI position to the same
 - `2026-09-01` **[1]** new-economy-regime.md:L4757 — Addendum 2026-09-01 ~8:25am PDT — ✅⭐⭐⭐ **JOLTS JULY (7am PT registered item, closed): the frozen-labor regime prints ANOTHER tick, with the freeze DEE
 - `2026-09-01` **[1]** new-economy-regime.md:L4763 — Addendum 2026-09-01 ~9:17am PDT — **Musk publicly backs the Carolina Principles at the G20 ("default legal, not default illegal"; favor startups/acces
