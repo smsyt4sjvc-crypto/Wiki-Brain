@@ -1,5 +1,38 @@
 [
  {
+  "date": "2025-03-12",
+  "term": "9-Year 11-Month",
+  "cusip": "91282CMM0",
+  "high_yield": 4.31,
+  "bid_to_cover": 2.59,
+  "indirect": 26232149600.0,
+  "direct": 7590682000.0,
+  "dealer": 5089809000.0,
+  "offering": 39000000000.0
+ },
+ {
+  "date": "2025-03-13",
+  "term": "29-Year 11-Month",
+  "cusip": "912810UG1",
+  "high_yield": 4.623,
+  "bid_to_cover": 2.37,
+  "indirect": 13275686000.0,
+  "direct": 4974800000.0,
+  "dealer": 3709140000.0,
+  "offering": 22000000000.0
+ },
+ {
+  "date": "2025-03-18",
+  "term": "19-Year 11-Month",
+  "cusip": "912810UJ5",
+  "high_yield": 4.632,
+  "bid_to_cover": 2.78,
+  "indirect": 8894788000.0,
+  "direct": 2888464300.0,
+  "dealer": 1138000000.0,
+  "offering": 13000000000.0
+ },
+ {
   "date": "2025-03-20",
   "term": "9-Year 10-Month",
   "cusip": "91282CML2",
