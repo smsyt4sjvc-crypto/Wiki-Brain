@@ -43,6 +43,7 @@ so a March entry lands on an August paste. The router prints the path on every m
 6. [[fragility-engine]] — the code that scores it all into one number
 6b. [[memory-regime-question]] — dip vs cliff vs revolving demand: THE question for the MU position (opened 7/28)
 7. [[portfolio-state]] — the running truth of the book (+ account constraints)
+8. [[grades]] — the 120-day investment ledger (rule 16c): one grade per name, moved only by material inbounds
 
 ## 🤖 AI capex / compression / financing
 - [[ai-capex-cycle]] — the buildout cycle

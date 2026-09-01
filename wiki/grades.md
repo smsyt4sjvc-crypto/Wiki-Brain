@@ -1,0 +1,20 @@
+# GRADES — the 120-day investment ledger (rule 16c)
+
+**One number per name: how it grades as an INVESTMENT over the next 120 days from the
+last material item that touched it.** 10 = very attractive/significant · 1 = benign/avoid.
+Grades move ONLY on material inbounds (no unsolicited re-grading); the MOVE is the product
+("6, down from 7"). Window rolls from each item's post date. Detail lives in the linked
+entry, never here.
+
+| Name | Grade | Prior | As of | Driver | Entry |
+|---|---|---|---|---|---|
+| NVDA | **6** | 7 (init) | 2026-09-01 | $108.5B gross guarantees at 1.9x liquid + prepaid forward + Lambda lease seat — vendor balance sheet deeper into the stack while demand prints ($35B Anthropic); Nov 3 oversight risk + rates 9 inside window; demand evidence caps the downgrade | [[balance-sheet-board]] 9/1 |
+| IREN | **6** | 5 (init) | 2026-09-01 | Ghost-MW purge relative winner: Childress connected, SW1 energized, SW2 executed pre-pause — secured MW re-rates scarcer; non-IG 9% financing in a rising-rate window caps it | [[buildout-bottleneck-map]] 9/1 |
+| CRWV | **3** | 4 (init) | 2026-09-01 | Most rate-sensitive node (SOFR+5.5 floating) with hike odds 65-70% and the Fed path pricing into the window; 817bp CDS; NJ JV reconsideration crawl | [[balance-sheet-board]] 9/1 |
+| SBE | **3** | — (init) | 2026-09-01 | Pre-revenue ($139M H1 vs $3.2B loss) IPO into a term-premium selloff; NVDA dependency SEC-filed; grade is the IPO as an investment, not the disclosure's importance | [[balance-sheet-board]] 9/1 |
+| HWM | **5** | — (init) | 2026-09-01 | Casting thesis live + G20 escalation, but roster UNVERIFIED and sentiment already moving — chase risk until backlog/IGT-mix check done (trade-blocking ⬜) | [[buildout-bottleneck-map]] 9/1 |
+| GEV | **7** | — (init) | 2026-09-01 | Executed BACKLOG (not queue) carries the chokepoint thesis through the purge; sold-out-through-2030; casting disconfirmer is beyond-window | [[buildout-bottleneck-map]] 9/1 |
+| VST/CEG/TLN | **7** | — (init) | 2026-09-01 | Deliverable-MW scarcity premium as ghosts purge; existing generation = the moat side of the audit | [[buildout-bottleneck-map]] 9/1 |
+
+**Not grades: the macro overlay** (rates/oil complex) is the environment, not a name —
+it moves names' grades through entries, and lives on [[rates-board]]/[[forest]].

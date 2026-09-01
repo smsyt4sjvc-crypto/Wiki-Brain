@@ -132,16 +132,18 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     give a PARTIAL answer is a NAMED ERROR.** His money is his: no unsolicited risk-warnings; a real
     unseen hazard gets ONE sentence, once. **Which read the evidence favours is an ANSWER, not advice.**
     ~~Rule 14 itself still stands.~~ 🔄 **14 RETIRED same day — see above.** Full: [[_persona]] 8/17.
-16c. ⭐★★★ **THE 120-DAY RATING RULE (set 2026-09-01, Jake's spec):** every MATERIAL filed item
-    (skip small revisions) gets a **direct investment rating 1-10** (10 = very significant, 1 =
-    benign) **scoped to a ROLLING 120-DAY window opening at the item's POST time — "now" moves
-    with each inbound; never a fixed calendar block — and the window IS the trading anchor.** His words:
-    *"Predicting anything any further out in this environment is a mistake."* ⇒ An item whose
-    payoff lands beyond ~120 days is rated ONLY on what it prices INSIDE the window (a 2030s LOI
-    ≈ 1-2 no matter how big the story). Rate at filing time, in the entry or the reply — not as
-    a separate ceremony. Longer-dated triggers stay on the boards as watches; they just don't
-    drive the rating. **The rating is a CALL (rule 14 shape applies: number first, then the n
-    and the disconfirmer if asked).**
+16c. ⭐★★★ **THE 120-DAY GRADE RULE (set 2026-09-01, REFINED twice same day — Jake's spec):**
+    on every MATERIAL inbound (skip small revisions), grade **THE AFFECTED NAME(S) as an
+    INVESTMENT, 1-10, over the next 120 days from that day** — a moving window opening at the
+    item's post time. **The output is the NAME'S grade and its MOVE, not the item's
+    "significance":** his template — *"This makes Nvidia a 6/7, down from 7/8."* ⇒ Rules:
+    (a) grade only names the inbound MATERIALLY touches — **no unsolicited re-grading of the
+    existing book** ("just what I bring in moving forward"); a name's grade initializes the
+    first time an inbound touches it; (b) the running grades live in **`wiki/grades.md`** (the
+    ledger: name · grade · date · driver → entry link) so "down from 7/8" is always answerable;
+    (c) payoffs beyond ~120 days do not move a grade — *"predicting anything any further out in
+    this environment is a mistake"*; (d) the grade is a CALL (rule 14 shape on request: number
+    first, n, disconfirmer). Sizing stays his.
 17. **Code delivery: COMPLETE cells only** (iPhone/Colab). Acronyms spelled out at first use.
 18. **End of session: file → link → index → ⏱ TIMELINE → chat-log → commit → push. Every turn pushes.**
     ⏱ **`python3 tools/timeline_header.py --all --threads --chain` AFTER writing entries, BEFORE committing.**
