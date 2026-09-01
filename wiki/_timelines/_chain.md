@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **734 dated entries · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 09:44 PDT**
+> **735 dated entries · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 11:05 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -765,6 +765,7 @@
 - `2026-09-01` **[1]** new-economy-regime.md:L4763 — Addendum 2026-09-01 ~9:17am PDT — **Musk publicly backs the Carolina Principles at the G20 ("default legal, not default illegal"; favor startups/acces
 - `2026-09-01` **[1]** new-economy-regime.md:L4765 — Addendum 2026-09-01 ~9:20am PDT — **CAROLINA PRINCIPLES, FULL TEXT VIA KRATSIOS' PREPARED REMARKS (Reuters obtained, Jake's brief): the framework is b
 - `2026-09-01` **[1]** new-economy-regime.md:L4767 — 2026-09-01 ~9:30am PDT — ⭐⭐⭐⭐ **RABOBANK/PICTON ON THE G20 (ZH, Jake's paste): "DEATH BY A THOUSAND CUTS" — the Economic Outcast campaign gets its ALL
+- `2026-09-01` **[1]** new-economy-regime.md:L4783 — Addendum 2026-09-01 ~10:20am PDT — **SACKS AT THE G20 (AFP via Jake): the light-touch doctrine gets its OPERATIONAL edge — explicit rejection of any p
 - `2026-09-01` **[3]** balance-sheet-board.md:L728 — 2026-09-01 ~7:45am PDT — ⭐⭐⭐⭐⭐ **SB ENERGY FILES THE IPO (ticker SBE) — the registered S-1 watch CLOSES with the structure now public: $5-7B raise · ~
 - `2026-09-01` **[3]** balance-sheet-board.md:L729 — DATA (9/1 opening scan, `raw/2026-09-01-bond-opening-scan.txt`)
 - `2026-09-01` **[3]** balance-sheet-board.md:L742 — Addendum 2026-09-01 ~7:57am PDT — **S-1 rung-up (9/1 brief, SEC-filed language):** SBE lists on NASDAQ · **NVDA expected to ACQUIRE SHARES around the 

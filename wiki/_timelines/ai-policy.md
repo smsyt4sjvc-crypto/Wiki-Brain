@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **460 dated entries across 4 notes · 2026-05-22 → 2026-09-01 · refreshed 2026-09-01 09:44 PDT**
+> **460 dated entries across 4 notes · 2026-05-22 → 2026-09-01 · refreshed 2026-09-01 11:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before

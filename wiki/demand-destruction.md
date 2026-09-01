@@ -4132,3 +4132,5 @@ layer: 2024-26 Chinese SPR/storage commissioning inventory vs the 140Mb (locate,
 infer — gopher-scale task); (4) ESPO forward-buying; (5) the 137Mb float's customs
 clearance (arrivals spike ≠ new buying).
 **Links:** [[oil-value-chain]] · [[new-economy-regime]] (tether) · [[war/war-board]] · [[forest]]
+
+### Addendum 2026-09-01 ~11:07am PDT — **RELEASE VALVE CAPPED (DNB/Kelly Chen via ZH, Jake's paste — full entry → [[oil-value-chain]] 11:05am):** July quota raise "well below 2025 levels"; China has the spare refining but the incentive runs against exporting products — US pressure off Iranian crude means scarce-barrel competition or SPR draw, and "China has already tapped its own buffers" (the hidden-buffer draw, independently corroborated). Plus a strategic reason to let Western diesel burn: EV/energy-tech export demand. ⇒ The quota series (:L4121, "the one release valve") stays a watch but its ceiling is now argued by a desk: don't expect the EXIT BELL while the tether is being pulled. Spot-return catalyst sharpens (buffers drawn + Iran squeezed + Saudi VLCCs hit).

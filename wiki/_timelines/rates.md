@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **314 dated entries across 3 notes · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 09:44 PDT**
+> **315 dated entries across 3 notes · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 11:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -334,6 +334,7 @@
 - `2026-09-01` [new-economy-regime.md:L4763](../new-economy-regime.md) — Addendum 2026-09-01 ~9:17am PDT — **Musk publicly backs the Carolina Principles at the G20 ("default legal, not default illegal"; favor startups/acces
 - `2026-09-01` [new-economy-regime.md:L4765](../new-economy-regime.md) — Addendum 2026-09-01 ~9:20am PDT — **CAROLINA PRINCIPLES, FULL TEXT VIA KRATSIOS' PREPARED REMARKS (Reuters obtained, Jake's brief): the framework is b
 - `2026-09-01` [new-economy-regime.md:L4767](../new-economy-regime.md) — 2026-09-01 ~9:30am PDT — ⭐⭐⭐⭐ **RABOBANK/PICTON ON THE G20 (ZH, Jake's paste): "DEATH BY A THOUSAND CUTS" — the Economic Outcast campaign gets its ALL
+- `2026-09-01` [new-economy-regime.md:L4783](../new-economy-regime.md) — Addendum 2026-09-01 ~10:20am PDT — **SACKS AT THE G20 (AFP via Jake): the light-touch doctrine gets its OPERATIONAL edge — explicit rejection of any p
 - `2026-09-01` [rates-board.md:L1905](../rates-board.md) — 2026-09-01 ~7:40am PDT — ⭐⭐⭐⭐⭐ **TUESDAY OPEN (9/1 scan, compiled ~6:30am PT): GATE 1 PRINTS *INSIDE* THE BAND ON CONTROL-WEEK DAY 2 — 30Y 5.274 (>5.2
 - `2026-09-01` [rates-board.md:L1906](../rates-board.md) — DATA (scan, `raw/2026-09-01-bond-opening-scan.txt`; ICE BofA = 8/28 obs, NOT live)
 - `2026-09-01` [rates-board.md:L1922](../rates-board.md) — Addendum 2026-09-01 ~7:55am PDT — **two adds from the 9/1 intelligence brief:** (1) **UK 10Y ~5.25% — highest since 2008** (the 30Y at 5.9%/1998 filed

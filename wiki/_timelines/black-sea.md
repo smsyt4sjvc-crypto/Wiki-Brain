@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **192 dated entries across 2 notes · 2026-03-13 → 2026-09-01 · refreshed 2026-09-01 09:44 PDT**
+> **195 dated entries across 2 notes · 2026-03-13 → 2026-09-01 · refreshed 2026-09-01 11:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -214,6 +214,9 @@
 
 ## 2026-09
 
+- `2026-09-01` [demand-destruction.md:L3983](../demand-destruction.md) — Addendum 2026-09-01 ~11:07am PDT — **RELEASE VALVE CAPPED (DNB/Kelly Chen via ZH, Jake's paste — full entry → [[oil-value-chain]] 11:05am):** July quo
 - `2026-09-01` [oil-value-chain.md:L2521](../oil-value-chain.md) — 2026-09-01 ~9:42am PDT — ⛔⭐⭐⭐⭐⭐ **A STORM IS AIMED AT THE BOTTLENECK: TROPICAL STORM EDOUARD ~90mi SE of PORT ARTHUR, landfall near the TX-LA border L
 - `2026-09-01` [oil-value-chain.md:L2522](../oil-value-chain.md) — DATA (ZH/NHC, `raw/2026-09-01-zh-feed-scan.txt`)
 - `2026-09-01` [oil-value-chain.md:L2529](../oil-value-chain.md) — Addendum 2026-09-01 ~9:44am PDT — ⭐⭐⭐⭐ **BESSENT SAYS THE ENDGAME ALOUD: HORMUZ WILL BE A "WORTHLESS PIECE OF WATER" IN TWO YEARS (ZH) — the tether/Ec
+- `2026-09-01` [oil-value-chain.md:L2534](../oil-value-chain.md) — Addendum 2026-09-01 ~9:50am PDT — **Jake's Q: "When does Venezuela relieve Brent?" — answered (rule 14 shape), and the watch sharpened.** THE CALL: no
+- `2026-09-01` [oil-value-chain.md:L2536](../oil-value-chain.md) — 2026-09-01 ~11:05am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CAMPAIGN SIGNATURE BREACHES $100 AND KEEPS GOING: NYMEX 1-MONTH HEATING-OIL/CRUDE SPREAD (HOCL1) THROUGH $100 

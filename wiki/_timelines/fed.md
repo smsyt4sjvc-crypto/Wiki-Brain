@@ -1,6 +1,6 @@
 # ⏱ FED — merged timeline (the gate)
 
-> **254 dated entries across 2 notes · 2026-06-30 → 2026-09-01 · refreshed 2026-09-01 09:44 PDT**
+> **255 dated entries across 2 notes · 2026-06-30 → 2026-09-01 · refreshed 2026-09-01 11:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -276,3 +276,4 @@
 - `2026-09-01` [new-economy-regime.md:L4763](../new-economy-regime.md) — Addendum 2026-09-01 ~9:17am PDT — **Musk publicly backs the Carolina Principles at the G20 ("default legal, not default illegal"; favor startups/acces
 - `2026-09-01` [new-economy-regime.md:L4765](../new-economy-regime.md) — Addendum 2026-09-01 ~9:20am PDT — **CAROLINA PRINCIPLES, FULL TEXT VIA KRATSIOS' PREPARED REMARKS (Reuters obtained, Jake's brief): the framework is b
 - `2026-09-01` [new-economy-regime.md:L4767](../new-economy-regime.md) — 2026-09-01 ~9:30am PDT — ⭐⭐⭐⭐ **RABOBANK/PICTON ON THE G20 (ZH, Jake's paste): "DEATH BY A THOUSAND CUTS" — the Economic Outcast campaign gets its ALL
+- `2026-09-01` [new-economy-regime.md:L4783](../new-economy-regime.md) — Addendum 2026-09-01 ~10:20am PDT — **SACKS AT THE G20 (AFP via Jake): the light-touch doctrine gets its OPERATIONAL edge — explicit rejection of any p

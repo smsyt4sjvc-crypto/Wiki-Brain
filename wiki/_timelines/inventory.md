@@ -1,6 +1,6 @@
 # ⏱ INVENTORY — merged timeline (the gate)
 
-> **137 dated entries across 1 notes · 2026-03-13 → 2026-08-31 · refreshed 2026-09-01 09:44 PDT**
+> **138 dated entries across 1 notes · 2026-03-13 → 2026-09-01 · refreshed 2026-09-01 11:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -159,3 +159,7 @@
 - `2026-08-31` [demand-destruction.md:L3865](../demand-destruction.md) — 2026-08-31 ~10:15am PDT — ⭐⭐⭐⭐ **JAKE'S PUSHBACK ON THE CHINA DEMAND-COLLAPSE THESIS — GRADED: SUBSTANTIALLY CONCEDED, and it REDESIGNS the tether's v
 - `2026-08-31` [demand-destruction.md:L3903](../demand-destruction.md) — Addendum 2026-08-31 ~10:20am PDT — ✔⭐⭐⭐⭐ **UAE-OPEC RESOLVED (Jake, same hour): the UAE OFFICIALLY LEFT OPEC MAY 1, 2026** (announced 4/28; 59-year me
 - `2026-08-31` [demand-destruction.md:L3925](../demand-destruction.md) — 2026-08-31 ~1:30pm PDT — ⭐⭐⭐⭐⭐ **THE CHINA CRUDE BALANCE, RUN BACKWARD (Jake + gopher; customs/NBS/Kpler/Vortexa-sourced): THE MORNING'S "THEY'RE HIDI
+
+## 2026-09
+
+- `2026-09-01` [demand-destruction.md:L3983](../demand-destruction.md) — Addendum 2026-09-01 ~11:07am PDT — **RELEASE VALVE CAPPED (DNB/Kelly Chen via ZH, Jake's paste — full entry → [[oil-value-chain]] 11:05am):** July quo
