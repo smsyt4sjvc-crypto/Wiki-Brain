@@ -30,5 +30,14 @@ entry, never here.
 
 | MU | **6** | — (init) | 2026-09-01 | Taiwan union-strike headline (−2% pre-mkt, unverified scope) vs sold-out HBM fundamentals; moves on strike detail | [[ai-capex-cycle]] 9/1 |
 
+| VLO | **8** | — (init) | 2026-09-01 | Cracks $106 + release valve capped = margin capture at record; Gulf export leverage; ⚠️ Port Arthur in Edouard's track TODAY (outage = lost volumes even as peers' margins soar) | [[oil-value-chain]] 9/1 |
+| MPC | **8** | — (init) | 2026-09-01 | Same regime, Galveston Bay Gulf exposure + national footprint diversifies storm risk; scale in the export crack | [[oil-value-chain]] 9/1 |
+| PBF | **8** | — (init) | 2026-09-01 | Highest earnings torque to the crack (small, levered, coastal); rising-rate window is the balance-sheet cap; less exposed to a Gulf export-restriction strike than the exporters | [[oil-value-chain]] 9/1 |
+| PSX | **7** | — (init) | 2026-09-01 | Gulf refining in the regime but midstream/chem mix dilutes the crack torque | [[oil-value-chain]] 9/1 |
+| PARR | **7** | — (init) | 2026-09-01 | Pacific/Singapore-linked cracks = the Hormuz product disruption's direct beneficiary in Asia-Pac; small/levered; less Gulf policy exposure | [[oil-value-chain]] 9/1 |
+| DINO | **7** | — (init) | 2026-09-01 | Inland Mid-Con/Rockies cracks tight but capture less of the Gulf export blowout; lowest policy-strike exposure | [[oil-value-chain]] 9/1 |
+
+**Refinery basket disconfirmers (shared):** (1) the kill-switch's THIRD firing NOT sparing the crack — a product-export restriction/jawbone (the EXIT BELL) into midterms compresses export cracks immediately, Gulf exporters first (VLO/MPC/PSX > PBF/DINO/PARR); (2) Edouard physical damage — an outage name underperforms peers even in a margin windfall (VLO Port Arthur, MPC Galveston Bay, PSX Lake Charles all in/near the corridor); (3) ⬜ where the equities sit vs the crack — record cracks may be priced; no tape on file for the six.
+
 **Not grades: the macro overlay** (rates/oil complex) is the environment, not a name —
 it moves names' grades through entries, and lives on [[rates-board]]/[[forest]].
