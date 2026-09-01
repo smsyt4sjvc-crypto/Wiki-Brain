@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **195 dated entries across 2 notes · 2026-03-13 → 2026-09-01 · refreshed 2026-09-01 12:42 PDT**
+> **196 dated entries across 2 notes · 2026-03-13 → 2026-09-01 · refreshed 2026-09-01 13:00 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -220,3 +220,4 @@
 - `2026-09-01` [oil-value-chain.md:L2529](../oil-value-chain.md) — Addendum 2026-09-01 ~9:44am PDT — ⭐⭐⭐⭐ **BESSENT SAYS THE ENDGAME ALOUD: HORMUZ WILL BE A "WORTHLESS PIECE OF WATER" IN TWO YEARS (ZH) — the tether/Ec
 - `2026-09-01` [oil-value-chain.md:L2534](../oil-value-chain.md) — Addendum 2026-09-01 ~9:50am PDT — **Jake's Q: "When does Venezuela relieve Brent?" — answered (rule 14 shape), and the watch sharpened.** THE CALL: no
 - `2026-09-01` [oil-value-chain.md:L2536](../oil-value-chain.md) — 2026-09-01 ~11:05am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CAMPAIGN SIGNATURE BREACHES $100 AND KEEPS GOING: NYMEX 1-MONTH HEATING-OIL/CRUDE SPREAD (HOCL1) THROUGH $100 
+- `2026-09-01` [oil-value-chain.md:L2549](../oil-value-chain.md) — Addendum 2026-09-01 ~1:05pm PDT — ⭐⭐⭐⭐⭐ **THE CONVERSION-CAPACITY REGIME GETS ITS MEASURED DENOMINATOR (Goldman/Struyven via ZH wrap): GLOBAL REFINERY

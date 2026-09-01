@@ -1,6 +1,6 @@
 # ⏱ EUROGAS — merged timeline (the gate)
 
-> **170 dated entries across 3 notes · 2026-07-23 → 2026-09-01 · refreshed 2026-09-01 12:42 PDT**
+> **176 dated entries across 3 notes · 2026-07-23 → 2026-09-01 · refreshed 2026-09-01 13:00 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -180,6 +180,7 @@
 - `2026-09-01` [oil-value-chain.md:L2529](../oil-value-chain.md) — Addendum 2026-09-01 ~9:44am PDT — ⭐⭐⭐⭐ **BESSENT SAYS THE ENDGAME ALOUD: HORMUZ WILL BE A "WORTHLESS PIECE OF WATER" IN TWO YEARS (ZH) — the tether/Ec
 - `2026-09-01` [oil-value-chain.md:L2534](../oil-value-chain.md) — Addendum 2026-09-01 ~9:50am PDT — **Jake's Q: "When does Venezuela relieve Brent?" — answered (rule 14 shape), and the watch sharpened.** THE CALL: no
 - `2026-09-01` [oil-value-chain.md:L2536](../oil-value-chain.md) — 2026-09-01 ~11:05am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CAMPAIGN SIGNATURE BREACHES $100 AND KEEPS GOING: NYMEX 1-MONTH HEATING-OIL/CRUDE SPREAD (HOCL1) THROUGH $100 
+- `2026-09-01` [oil-value-chain.md:L2549](../oil-value-chain.md) — Addendum 2026-09-01 ~1:05pm PDT — ⭐⭐⭐⭐⭐ **THE CONVERSION-CAPACITY REGIME GETS ITS MEASURED DENOMINATOR (Goldman/Struyven via ZH wrap): GLOBAL REFINERY
 - `2026-09-01` [war-board.md:L4275](../war/war-board.md) — 2026-09-01 ~7:50am PDT — ⛔⭐⭐⭐⭐⭐ **EVENT CLASS, UNDER THE STANDING FILTER: TWO SAUDI-CRUDE SUPERTANKERS HIT IN HORMUZ (Reuters/Kpler, via 9/1 intellige
 - `2026-09-01` [war-board.md:L4287](../war/war-board.md) — Addendum 2026-09-01 ~9:46am PDT — **ZH feed scan, three war-board items:** (1) **IRAN OFFERS A CONDITIONAL CEASEFIRE** — Pezeshkian: return to talks I
 - `2026-09-01` [war-board.md:L4289](../war/war-board.md) — 2026-09-01 ~9:45am PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE US IS STRIKING IRGC TARGETS INSIDE IRAN — CENTCOM (posted ~9:36am PT): "Today at 12 p.m. ET, U.S. forces began
@@ -188,4 +189,9 @@
 - `2026-09-01` [war-board.md:L4304](../war/war-board.md) — Addendum 2026-09-01 ~11:58am PDT — ⭐⭐⭐⭐ **THIRD READ OF THE TARGET CLASS — PREEMPTIVE ANTI-MINING (Jake: "the small off chance that Trump took their t
 - `2026-09-01` [war-board.md:L4308](../war/war-board.md) — 2026-09-01 ~12:35pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **THE DISCRIMINATOR CLOSES IN 35 MINUTES: TRUMP (Truth Social, via ZH ~10:35am PT) — "large and powerful" strikes O
 - `2026-09-01` [war-board.md:L4321](../war/war-board.md) — Addendum 2026-09-01 ~12:35pm PDT — **Tape with the mining assertion in the market (header test ✓): Brent $95.00 +4.98% (3:19pm ET) · 30Y CLOSED 5.27 +
-- `2026-09-01` [war-board.md:L4323](../war/war-board.md) — 2026-09-01 ~12:50pm PDT — ⛔⛔✅⭐⭐⭐⭐⭐ **THE PRIMARY (Jake's screenshot, Truth Social 10:25am PT / 1:25pm ET, `raw/2026-09-01-trump-truth-hormuz-strikes.p
+- `2026-09-01` [war-board.md:L4323](../war/war-board.md) — 2026-09-01 ~12:45pm PDT — ⛔⛔✅⭐⭐⭐⭐⭐ **THE PRIMARY (Jake's screenshot, Truth Social 10:25am PT / 1:25pm ET, `raw/2026-09-01-trump-truth-hormuz-strikes.p
+- `2026-09-01` [war-board.md:L4340](../war/war-board.md) — Addendum 2026-09-01 ~12:45pm PDT — ⚠️ **UNVERIFIED (Jake): reports of Iran retaliating "literally right now."** If confirmed, this is the TIER-2 TRIGG
+- `2026-09-01` [war-board.md:L4342](../war/war-board.md) — Addendum 2026-09-01 ~12:55pm PDT — **IRIB (Iranian state broadcaster), 12:18pm PT: "more blasts heard in Chabahar."** That is ~3h18m after the 12pm-ET
+- `2026-09-01` [war-board.md:L4344](../war/war-board.md) — 2026-09-01 ~12:55pm PDT — ⛔⭐⭐⭐⭐⭐ **IRAN'S RETALIATION WAVE FIRMS TO IRGC-MEDIA-SOURCED (AP citing Fars/Tasnim, 12:54pm PT / 3:54pm ET, via Jake): Iran
+- `2026-09-01` [war-board.md:L4355](../war/war-board.md) — Addendum 2026-09-01 ~1:00pm PDT — **Tape with the retaliation headline in (header tests ✓): Brent $95.05 +5.04% (3:45pm ET, unchanged from the 3:19pm 
+- `2026-09-01` [war-board.md:L4357](../war/war-board.md) — 2026-09-01 ~1:00pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **ZH LIVE WRAP (Jake's paste, `raw/2026-09-01-zh-iran-retaliation-wrap.txt`): (1) RETALIATION TARGET = US BASES IN J

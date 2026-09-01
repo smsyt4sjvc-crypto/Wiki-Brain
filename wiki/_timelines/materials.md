@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **162 dated entries across 3 notes · 2026-07-09 → 2026-09-01 · refreshed 2026-09-01 12:42 PDT**
+> **167 dated entries across 3 notes · 2026-07-09 → 2026-09-01 · refreshed 2026-09-01 13:00 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -180,4 +180,9 @@
 - `2026-09-01` [war-board.md:L4304](../war/war-board.md) — Addendum 2026-09-01 ~11:58am PDT — ⭐⭐⭐⭐ **THIRD READ OF THE TARGET CLASS — PREEMPTIVE ANTI-MINING (Jake: "the small off chance that Trump took their t
 - `2026-09-01` [war-board.md:L4308](../war/war-board.md) — 2026-09-01 ~12:35pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **THE DISCRIMINATOR CLOSES IN 35 MINUTES: TRUMP (Truth Social, via ZH ~10:35am PT) — "large and powerful" strikes O
 - `2026-09-01` [war-board.md:L4321](../war/war-board.md) — Addendum 2026-09-01 ~12:35pm PDT — **Tape with the mining assertion in the market (header test ✓): Brent $95.00 +4.98% (3:19pm ET) · 30Y CLOSED 5.27 +
-- `2026-09-01` [war-board.md:L4323](../war/war-board.md) — 2026-09-01 ~12:50pm PDT — ⛔⛔✅⭐⭐⭐⭐⭐ **THE PRIMARY (Jake's screenshot, Truth Social 10:25am PT / 1:25pm ET, `raw/2026-09-01-trump-truth-hormuz-strikes.p
+- `2026-09-01` [war-board.md:L4323](../war/war-board.md) — 2026-09-01 ~12:45pm PDT — ⛔⛔✅⭐⭐⭐⭐⭐ **THE PRIMARY (Jake's screenshot, Truth Social 10:25am PT / 1:25pm ET, `raw/2026-09-01-trump-truth-hormuz-strikes.p
+- `2026-09-01` [war-board.md:L4340](../war/war-board.md) — Addendum 2026-09-01 ~12:45pm PDT — ⚠️ **UNVERIFIED (Jake): reports of Iran retaliating "literally right now."** If confirmed, this is the TIER-2 TRIGG
+- `2026-09-01` [war-board.md:L4342](../war/war-board.md) — Addendum 2026-09-01 ~12:55pm PDT — **IRIB (Iranian state broadcaster), 12:18pm PT: "more blasts heard in Chabahar."** That is ~3h18m after the 12pm-ET
+- `2026-09-01` [war-board.md:L4344](../war/war-board.md) — 2026-09-01 ~12:55pm PDT — ⛔⭐⭐⭐⭐⭐ **IRAN'S RETALIATION WAVE FIRMS TO IRGC-MEDIA-SOURCED (AP citing Fars/Tasnim, 12:54pm PT / 3:54pm ET, via Jake): Iran
+- `2026-09-01` [war-board.md:L4355](../war/war-board.md) — Addendum 2026-09-01 ~1:00pm PDT — **Tape with the retaliation headline in (header tests ✓): Brent $95.05 +5.04% (3:45pm ET, unchanged from the 3:19pm 
+- `2026-09-01` [war-board.md:L4357](../war/war-board.md) — 2026-09-01 ~1:00pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **ZH LIVE WRAP (Jake's paste, `raw/2026-09-01-zh-iran-retaliation-wrap.txt`): (1) RETALIATION TARGET = US BASES IN J
