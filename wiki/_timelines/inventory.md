@@ -1,6 +1,6 @@
 # ⏱ INVENTORY — merged timeline (the gate)
 
-> **134 dated entries across 1 notes · 2026-03-13 → 2026-08-19 · refreshed 2026-08-26 19:51 PDT**
+> **137 dated entries across 1 notes · 2026-03-13 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -156,3 +156,6 @@
 - `2026-08-19` [demand-destruction.md:L3651](../demand-destruction.md) — 2026-08-19 ~7:55am PDT — ⭐⭐⭐ **RATIONING REACHES MOSCOW AND RUSSIA IS NOW *IMPORTING* PRODUCT — but the shortage is a GASOLINE shortage, and the regio
 - `2026-08-19` [demand-destruction.md:L3713](../demand-destruction.md) — 2026-08-19 ~8:30am PDT — ⛔★★★★★ **THE "BIG CRUDE BUILD" IS AN SPR TRANSFER AND TOTAL US CRUDE ACTUALLY FELL: commercial +4.4 against SPR −5.3 ⇒ −0.9.*
 - `2026-08-19` [demand-destruction.md:L3777](../demand-destruction.md) — 2026-08-19 ~9:25am PDT — ★★★★★★ **JAKE'S CRUDE-vs-CAPACITY SEPARATION RECONCILES TWO FINDINGS THIS NOTE HAS BEEN CARRYING SIDE BY SIDE WITHOUT JOINING
+- `2026-08-31` [demand-destruction.md:L3865](../demand-destruction.md) — 2026-08-31 ~10:15am PDT — ⭐⭐⭐⭐ **JAKE'S PUSHBACK ON THE CHINA DEMAND-COLLAPSE THESIS — GRADED: SUBSTANTIALLY CONCEDED, and it REDESIGNS the tether's v
+- `2026-08-31` [demand-destruction.md:L3903](../demand-destruction.md) — Addendum 2026-08-31 ~10:20am PDT — ✔⭐⭐⭐⭐ **UAE-OPEC RESOLVED (Jake, same hour): the UAE OFFICIALLY LEFT OPEC MAY 1, 2026** (announced 4/28; 59-year me
+- `2026-08-31` [demand-destruction.md:L3925](../demand-destruction.md) — 2026-08-31 ~1:30pm PDT — ⭐⭐⭐⭐⭐ **THE CHINA CRUDE BALANCE, RUN BACKWARD (Jake + gopher; customs/NBS/Kpler/Vortexa-sourced): THE MORNING'S "THEY'RE HIDI

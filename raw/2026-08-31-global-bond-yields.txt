@@ -1,0 +1,649 @@
+GLOBAL BOND YIELDS — AUGUST 31, 2026
+
+Yes. This is a genuinely global bond selloff, not just a U.S. Treasury story.
+
+The important qualification is that the exact “highest since” date varies by country and maturity. But across much of the developed world, long-term sovereign borrowing costs are either near multi-year highs or at levels not seen in a decade or more.
+
+CURRENT 10-YEAR SOVEREIGN YIELDS
+
+UNITED STATES
+10Y Treasury: ~4.76%
+
+• Highest since January 2025
+• Roughly a 19-month high
+• Not technically a multi-year high yet
+• U.S. 30Y yields have also been trading around/above 5%
+
+Source:
+https://www.barrons.com/livecoverage/stock-market-news-today-083126/card/10-year-treasury-yield-hits-4-76-highest-since-early-2025-VWQwHZ4W6JrVzVpbyQhI
+
+UNITED KINGDOM
+10Y Gilt: ~5.07%
+
+• Extremely elevated
+• U.K. government borrowing costs are around multi-decade highs in portions of the curve
+• A recent 7-year government bond sale priced at its highest yield since 2002
+
+Source:
+https://www.thetimes.com/business/economics/article/andy-burnham-faces-debt-crisis-wq7fg59m2
+
+GERMANY
+10Y Bund: ~3.32%
+
+• Highest since approximately 2011
+• Roughly a 15-year high
+
+Source:
+https://www.marketscreener.com/news/nervousness-in-the-bond-market-10-year-bund-yield-hits-15-year-high-ce7858dcdf80f522
+
+JAPAN
+10Y JGB: ~2.95%
+
+• Highest since approximately September 1996
+• Roughly a 30-year high
+
+Source:
+https://www.wsj.com/finance/jgbs-edge-lower-tracking-declines-across-most-u-s-treasurys-00b63ada
+
+AUSTRALIA
+10Y: ~5.11%
+
+• Around the highest levels since 2011
+• Roughly 15-year extremes
+
+Source:
+https://www.rba.gov.au/publications/smp/2026/may/financial-conditions.html
+
+FRANCE
+10Y: ~4.17%
+
+• Very elevated
+
+ITALY
+10Y: ~4.16%
+
+• Very elevated
+
+CANADA
+10Y: ~3.75%
+
+• Elevated
+
+SPAIN
+10Y: ~3.77%
+
+• Elevated
+
+Cross-country yield data:
+https://countryeconomy.com/bonds
+
+THE GLOBAL PICTURE
+
+The easiest way to characterize the current environment is:
+
+JAPAN:
+~30-year yield extremes
+
+UNITED KINGDOM:
+Borrowing costs at or near multi-decade extremes in portions of the curve
+
+GERMANY:
+~15-year extremes
+
+AUSTRALIA:
+~15-year extremes
+
+UNITED STATES:
+~19-month high in the 10Y, with the 30Y around 5%+
+
+This is therefore not simply:
+
+“Fed rates are high.”
+
+It is increasingly:
+
+“THE GLOBAL COST OF LONG-TERM CAPITAL IS RISING.”
+
+WHY IT IS HAPPENING
+
+Several forces are hitting sovereign bonds simultaneously.
+
+1. STICKY INFLATION
+
+Inflation has not disappeared sufficiently for bond markets to confidently price aggressive monetary easing.
+
+Higher expected inflation means investors demand higher nominal yields to hold long-duration government debt.
+
+2. ENERGY INFLATION
+
+The Middle East conflict and Strait of Hormuz disruption introduce another inflation impulse through:
+
+• crude oil
+• diesel
+• LNG
+• shipping
+• petrochemicals
+• transportation
+• electricity
+• manufacturing inputs
+
+Higher energy prices simultaneously weaken growth and increase inflation.
+
+That is particularly hostile to long-duration bonds.
+
+3. MASSIVE GOVERNMENT BORROWING
+
+Governments are issuing extraordinary amounts of debt to finance:
+
+• deficits
+• defense
+• infrastructure
+• energy security
+• industrial policy
+• social spending
+• interest expense on existing debt
+
+More bond supply requires either:
+
+A) more buyers
+
+or
+
+B) higher yields
+
+to clear the market.
+
+4. FISCAL RISK / TERM PREMIUM
+
+Investors increasingly want more compensation for lending governments money for 10, 20 or 30 years.
+
+That additional compensation is the term premium.
+
+Markets are effectively saying:
+
+“If you want me to lock up capital for decades while deficits remain enormous and inflation uncertainty is elevated, you need to pay me more.”
+
+5. GLOBAL CAPITAL COMPETITION
+
+Governments are no longer borrowing in isolation.
+
+They are competing for capital against an enormous private investment cycle involving:
+
+• AI
+• data centers
+• semiconductors
+• power generation
+• transmission
+• grid infrastructure
+• defense
+• manufacturing reshoring
+• energy infrastructure
+
+This is important.
+
+AI infrastructure does not need to directly cause inflation for it to influence bond markets.
+
+It creates another massive source of demand for:
+
+CAPITAL
+LABOR
+POWER
+STEEL
+COPPER
+TRANSFORMERS
+TURBINES
+SEMICONDUCTORS
+CONSTRUCTION
+
+Governments and corporations are effectively bidding against one another for the same finite pool of resources and capital.
+
+6. CENTRAL BANKS HAVE LESS ROOM TO CUT
+
+If inflation remains sticky while energy prices rise, central banks cannot easily respond to weaker growth by aggressively cutting rates.
+
+That removes one of the normal supports for long-duration bonds.
+
+THE UNUSUAL GEOPOLITICAL SIGNAL
+
+Normally when geopolitical risk explodes, investors seek safety in government bonds.
+
+Typical reaction:
+
+GEOPOLITICAL SHOCK
+↓
+BUY TREASURIES
+↓
+BOND PRICES RISE
+↓
+YIELDS FALL
+
+But the current environment is behaving differently.
+
+The geopolitical shock is being interpreted heavily as:
+
+ENERGY SHOCK
++
+INFLATION SHOCK
++
+FISCAL SHOCK
+
+Therefore:
+
+GEOPOLITICAL ESCALATION
+↓
+OIL / ENERGY HIGHER
+↓
+INFLATION EXPECTATIONS HIGHER
+↓
+CENTRAL BANK CUTS BECOME HARDER
+↓
+BONDS SELL OFF
+↓
+YIELDS RISE
+
+That is an important regime signal.
+
+Safe-haven demand is not currently overwhelming inflation and fiscal concerns.
+
+G7 FINANCING COSTS
+
+The Financial Times estimates that the increase in yields following the U.S.-Iran conflict has already added approximately:
+
+$16 BILLION
+
+to expected G7 financing costs.
+
+If yields remain elevated, the additional financing cost could reach roughly:
+
+$34 BILLION
+
+by Q1 2027.
+
+Source:
+https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629
+
+IMPLICATIONS
+
+1. EQUITY VALUATIONS FACE A HIGHER DISCOUNT RATE
+
+The higher the risk-free rate becomes, the less investors should theoretically pay today for earnings expected far in the future.
+
+That particularly affects:
+
+• high-P/E growth stocks
+• unprofitable technology
+• long-duration equities
+• speculative software
+• biotech
+• companies dependent on repeated refinancing
+
+A 5% Treasury yield creates a much higher hurdle rate for owning risky assets than a 2% Treasury yield.
+
+2. AI STOCKS FACE AN INTERESTING SPLIT
+
+AI demand can remain extremely strong while AI equity valuations become more difficult to sustain.
+
+The infrastructure itself may still experience:
+
+• accelerating GPU demand
+• HBM shortages
+• networking growth
+• power demand
+• grid investment
+• semiconductor capex
+
+But higher bond yields increase the required return investors demand from those future cash flows.
+
+Therefore:
+
+AI FUNDAMENTALS CAN IMPROVE
+WHILE
+AI VALUATION MULTIPLES COMPRESS
+
+Both can happen simultaneously.
+
+3. HIGHLY LEVERAGED AI INFRASTRUCTURE BECOMES MORE VULNERABLE
+
+This is especially important given the enormous amount of AI infrastructure increasingly financed through:
+
+• private credit
+• asset-backed securities
+• structured finance
+• equipment financing
+• data-center debt
+• long-term leases
+• project finance
+
+If the risk-free rate rises, all of those financing structures become more expensive.
+
+A project that works economically with:
+
+6% financing
+
+may look considerably worse at:
+
+8–10% financing
+
+especially when utilization assumptions are aggressive.
+
+4. PRIVATE CREDIT GETS MORE DANGEROUS
+
+Higher sovereign yields pull corporate borrowing costs higher.
+
+Credit spreads do not even need to widen dramatically for absolute borrowing costs to become problematic.
+
+Example:
+
+Treasury = 3%
+Credit spread = 300 bp
+Corporate yield = 6%
+
+versus:
+
+Treasury = 5%
+Same 300 bp spread
+Corporate yield = 8%
+
+Nothing technically “broke” in the credit spread.
+
+But the company’s refinancing cost increased by 200 basis points.
+
+That matters enormously for leveraged borrowers.
+
+5. REFINANCING RISK RISES
+
+Companies that issued cheap debt between 2020–2022 eventually have to refinance.
+
+Debt issued around:
+
+2%
+3%
+4%
+
+may roll into:
+
+6%
+7%
+8%+
+
+That means a larger percentage of corporate cash flow goes toward interest rather than:
+
+• hiring
+• capex
+• dividends
+• buybacks
+• acquisitions
+
+6. GOVERNMENTS ENTER A DEBT-INTEREST FEEDBACK LOOP
+
+Higher government borrowing costs increase interest expense.
+
+Higher interest expense increases deficits.
+
+Larger deficits require more bond issuance.
+
+More issuance can push yields higher.
+
+That creates the potential feedback loop:
+
+HIGHER YIELDS
+↓
+HIGHER GOVERNMENT INTEREST EXPENSE
+↓
+LARGER DEFICITS
+↓
+MORE DEBT ISSUANCE
+↓
+MORE SUPPLY
+↓
+HIGHER YIELDS
+
+This does not automatically become a sovereign debt crisis.
+
+But it increasingly constrains fiscal policy.
+
+7. CENTRAL BANKS FACE A WORSE TRADEOFF
+
+If economic growth weakens while inflation remains elevated, central banks face:
+
+CUT RATES
+→ support growth
+→ risk inflation/currency weakness
+
+KEEP RATES HIGH
+→ fight inflation
+→ increase financial stress
+
+That is much harder than a conventional recession where inflation collapses and central banks can cut aggressively.
+
+8. HOUSING REMAINS PRESSURED
+
+Long-term sovereign yields heavily influence mortgage rates.
+
+If Treasury yields remain elevated:
+
+• mortgage rates remain high
+• affordability remains weak
+• transaction volumes stay suppressed
+• builders face higher financing costs
+• commercial real estate refinancing remains difficult
+
+Even if the Fed eventually cuts its overnight rate, mortgage rates do not necessarily collapse if long-duration Treasury yields stay elevated.
+
+9. BANKS FACE MIXED EFFECTS
+
+Higher yields can increase bank lending margins.
+
+But rapid increases in long yields also create:
+
+• unrealized bond losses
+• deposit competition
+• commercial real estate stress
+• borrower defaults
+• refinancing problems
+
+The speed of the yield increase matters enormously.
+
+10. THE DOLLAR’S REACTION BECOMES IMPORTANT
+
+Ordinarily higher U.S. yields support the dollar.
+
+But if yields rise because investors demand greater compensation for U.S. fiscal/inflation risk, the relationship becomes more complicated.
+
+A particularly concerning combination would be:
+
+TREASURY YIELDS UP
++
+DOLLAR DOWN
+
+That would suggest foreigners are demanding higher yields without simultaneously increasing demand for the currency.
+
+That would be a much more serious fiscal/term-premium signal.
+
+11. GOLD CAN RISE ALONGSIDE YIELDS
+
+Normally high real yields are a headwind for gold.
+
+But gold can still appreciate if investors become concerned about:
+
+• fiscal sustainability
+• currency debasement
+• geopolitical instability
+• sanctions
+• reserve diversification
+• sovereign creditworthiness
+
+Gold rising simultaneously with long-term sovereign yields would reinforce the idea that this is partly a confidence/fiscal-risk trade rather than simply strong economic growth.
+
+12. COMMODITY PRODUCERS CAN OUTPERFORM
+
+Persistent inflation and geopolitical supply constraints can favor companies tied to:
+
+• oil
+• natural gas
+• uranium
+• copper
+• defense materials
+• refining
+• pipelines
+• electrical equipment
+
+particularly when their revenues rise with inflation while existing debt remains fixed-rate.
+
+13. REFINERS MAY HAVE AN ADVANTAGE
+
+If crude/product disruptions push diesel, gasoline and jet-fuel cracks higher, refiners can benefit even while the wider economy suffers from higher energy costs.
+
+This creates another unusual split:
+
+BAD FOR ECONOMY
+≠
+BAD FOR ENERGY EARNINGS
+
+14. UTILITIES AND POWER INFRASTRUCTURE SPLIT
+
+Traditional regulated utilities can struggle when Treasury yields rise because investors compare their dividend yields against safer government bonds.
+
+But companies directly exposed to:
+
+• data-center power
+• nuclear
+• gas generation
+• transformers
+• transmission
+• grid equipment
+
+can experience sufficiently strong earnings growth to offset some valuation pressure.
+
+15. SMALL CAPS ARE PARTICULARLY EXPOSED
+
+Small companies generally:
+
+• carry more floating-rate debt
+• refinance more frequently
+• have weaker balance sheets
+• have less access to cheap capital
+
+Therefore prolonged high yields tend to favor large profitable companies with strong balance sheets over heavily leveraged small caps.
+
+16. TREASURY MARKET VOLATILITY MATTERS BEYOND TREASURIES
+
+Treasuries are the foundation of global collateral markets.
+
+Higher Treasury volatility affects:
+
+• repo
+• derivatives
+• hedge funds
+• mortgage-backed securities
+• bank balance sheets
+• foreign reserve managers
+• insurance portfolios
+• pension funds
+
+The danger is not simply that yields reach 5%.
+
+The danger is that yields reach those levels extremely quickly.
+
+17. JAPAN MAY BE ONE OF THE MOST IMPORTANT MARKETS TO WATCH
+
+Japanese yields near multi-decade highs matter globally because Japan has historically supplied enormous amounts of cheap capital to the rest of the world.
+
+If Japanese investors can suddenly earn attractive yields domestically, they have less incentive to own:
+
+• U.S. Treasuries
+• European sovereign bonds
+• foreign corporate bonds
+
+Capital returning to Japan could remove an important marginal buyer from Western bond markets.
+
+18. GLOBAL SYNCHRONIZATION MAKES THIS MORE IMPORTANT
+
+One country’s yields rising can often reflect local fiscal or political problems.
+
+But when yields rise simultaneously across:
+
+U.S.
+UK
+Germany
+Japan
+Australia
+France
+Italy
+Canada
+
+the signal is different.
+
+It suggests a broader repricing of:
+
+INFLATION
++
+FISCAL RISK
++
+TERM PREMIUM
++
+CAPITAL SCARCITY
+
+rather than an isolated national event.
+
+THE MOST IMPORTANT THING TO WATCH
+
+The danger level rises considerably if we begin seeing several of these together:
+
+• U.S. 10Y decisively above 5%
+• U.S. 30Y continuing materially above 5%
+• German Bund yields making fresh cycle highs
+• Japanese yields continuing to break multi-decade highs
+• UK gilt yields accelerating higher
+• corporate credit spreads widening simultaneously
+• Treasury auction tails worsening
+• foreign demand at Treasury auctions weakening
+• dollar falling despite higher U.S. yields
+• gold rising alongside yields
+• equities falling as yields rise
+• MOVE Index / bond volatility accelerating
+• mortgage rates moving materially higher
+• investment-grade and high-yield refinancing costs jumping
+
+That would indicate the market is moving beyond:
+
+“HIGHER FOR LONGER”
+
+and toward:
+
+“THE PRICE OF GLOBAL CAPITAL IS BEING STRUCTURALLY REPRICED HIGHER.”
+
+BOTTOM LINE
+
+Yes — globally, sovereign yields are extraordinarily elevated.
+
+Not every country’s 10-year bond is literally at a multi-year record on the same day, but the synchronization is unusual:
+
+Japan is near 30-year yield extremes.
+Germany and Australia are around 15-year extremes.
+The U.K. is experiencing multi-decade borrowing-cost pressure.
+The U.S. 10Y is near 4.8% and the 30Y is around 5%+.
+
+The biggest implication is that this isn’t merely tighter monetary policy anymore.
+
+The bond market is increasingly pricing a world with:
+
+MORE DEBT
++
+MORE GOVERNMENT SPENDING
++
+MORE DEFENSE SPENDING
++
+MORE AI/INFRASTRUCTURE CAPEX
++
+MORE ENERGY CONSTRAINTS
++
+STICKIER INFLATION
++
+LESS CENTRAL-BANK FLEXIBILITY
+
+There is an enormous amount of capital competing for a finite pool of savings and real resources.
+
+If that persists, the structurally important market variable may no longer be simply where the Fed sets overnight rates.
+
+It may be how high the global economy must raise LONG-TERM REAL RETURNS to attract enough capital to finance everything being demanded of it.

@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **389 dated entries across 6 notes · 2026-03-13 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
+> **404 dated entries across 6 notes · 2026-03-13 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -411,3 +411,18 @@
 - `2026-08-23` [new-economy-regime.md:L4294](../new-economy-regime.md) — 2026-08-23 ~11:45pm PDT — ⛔⛔ **HE ADDS INTEL AND MP AND THAT CONCEDES MY OWN PUSHBACK: STATE EQUITY *IS* THE OWNERSHIP TRANSFER I SAID WAS ABSENT.** ★
 - `2026-08-26` [new-economy-regime.md:L4373](../new-economy-regime.md) — 2026-08-26 ~11:50am PDT — ⭐⭐⭐⭐ **JAKE'S HOUSING-POLICY CALL: THE AFFORDABILITY LEVER WILL BE RED TAPE, NOT RATES — "the only 'free' option that leaves
 - `2026-08-26` [new-economy-regime.md:L4406](../new-economy-regime.md) — Addendum 2026-08-26 ~12:55pm PDT — ⭐⭐⭐⭐⭐ **JAKE CLOSES HIS OWN LOOP AND THE CONCLUSION INVERTS THE "FREE OPTION": STATES WILL NEVER PULL THE DEREG LEV
+- `2026-08-26` [new-economy-regime.md:L4440](../new-economy-regime.md) — 2026-08-26 ~10:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE CLOSES THE WEEK'S ARGUMENT WITH THE BIND, STATED PLAIN: "POINTING MONEY AT LONG-DURATION TREASURIES IS A SQUIR
+- `2026-08-27` [new-economy-regime.md:L4468](../new-economy-regime.md) — 2026-08-27 ~8:20pm PDT — ⭐⭐⭐⭐⭐ **THE FIFTH DISCLOSURE TRIGGER IS POLITICAL: WSJ — CORPORATE AMERICA IS PREPPING FOR SUBPOENAS IF THE HOUSE FLIPS (Nov 
+- `2026-08-27` [new-economy-regime.md:L4500](../new-economy-regime.md) — ⛔ CORRECTION 2026-08-27 ~8:35pm PDT (Jake, immediately): **HIS MARCH CALL WAS NOT ABOUT DISCLOSURES — IT WAS ABOUT THE STATE TAKING *SHARES IN THE ACT
+- `2026-08-30` [new-economy-regime.md:L4522](../new-economy-regime.md) — 2026-08-30 ~1:50pm PDT — ⭐⭐⭐ **"THE MOTHER OF ALL MEAN REVERSIONS" (ZH: Jefferies/LaFemina + UBS): GSCI-to-S&P ratio near its lowest in 5+ DECADES — f
+- `2026-08-30` [new-economy-regime.md:L4553](../new-economy-regime.md) — Addendum 2026-08-30 ~3:45pm PDT — ✔ **THE NUMERATOR CONFIRMS (Jake: "corroborates the numerator from earlier"): GSCI AGRICULTURE +11 consecutive sessi
+- `2026-08-31` [demand-destruction.md:L3865](../demand-destruction.md) — 2026-08-31 ~10:15am PDT — ⭐⭐⭐⭐ **JAKE'S PUSHBACK ON THE CHINA DEMAND-COLLAPSE THESIS — GRADED: SUBSTANTIALLY CONCEDED, and it REDESIGNS the tether's v
+- `2026-08-31` [demand-destruction.md:L3903](../demand-destruction.md) — Addendum 2026-08-31 ~10:20am PDT — ✔⭐⭐⭐⭐ **UAE-OPEC RESOLVED (Jake, same hour): the UAE OFFICIALLY LEFT OPEC MAY 1, 2026** (announced 4/28; 59-year me
+- `2026-08-31` [demand-destruction.md:L3925](../demand-destruction.md) — 2026-08-31 ~1:30pm PDT — ⭐⭐⭐⭐⭐ **THE CHINA CRUDE BALANCE, RUN BACKWARD (Jake + gopher; customs/NBS/Kpler/Vortexa-sourced): THE MORNING'S "THEY'RE HIDI
+- `2026-08-31` [market-fragility.md:L4370](../market-fragility.md) — 2026-08-31 ~4:15pm PDT — ⭐⭐⭐⭐ **RECORD DISPERSION (Jake's paste): median 63-day stock-to-index correlation +0.10 — LOWEST ON RECORD (prior record +0.1
+- `2026-08-31` [new-economy-regime.md:L4572](../new-economy-regime.md) — Addendum 2026-08-31 ~9:40am PDT — **THE INDUSTRY COUNTER-MOBILIZES (8/31 scan): a pro-AI advocacy group launches a $50M campaign starting in KANSAS, O
+- `2026-08-31` [new-economy-regime.md:L4574](../new-economy-regime.md) — 2026-08-31 ~9:45am PDT — ⭐⭐⭐⭐ **BESSENT'S G20 (ZH fetch, Jake's pointer): "the world cannot have a China with a $1.2 TRILLION trade surplus" — G20 fin
+- `2026-08-31` [new-economy-regime.md:L4617](../new-economy-regime.md) — Addendum 2026-08-31 ~9:50am PDT — ⟲⭐⭐⭐⭐ **JAKE'S STANDING CALL, CREDITED (pre-repo, ~January): he read the TWO-OCEAN CHINA SQUEEZE at the time of the 
+- `2026-08-31` [new-economy-regime.md:L4636](../new-economy-regime.md) — Addendum 2026-08-31 ~9:55am PDT — ⟲⭐⭐⭐⭐⭐ **THE FULL PRE-REPO BACKFILL (Jake's project-space summary, memory current to ~late June, written Aug 4): THE
+- `2026-08-31` [new-economy-regime.md:L4675](../new-economy-regime.md) — Addendum 2026-08-31 ~10:05am PDT — ⭐⭐⭐⭐ **THE TETHER RE-UNDERWRITTEN FOR THE AUGUST WORLD (Jake: the thesis predates the open-source/token war, the ra
+- `2026-08-31` [new-economy-regime.md:L4707](../new-economy-regime.md) — 2026-08-31 ~12:35pm PDT — ⭐⭐⭐⭐⭐ **CLASS B INHERITED-STATE (project-gopher second pass — the fiscal/legal/monetary/tech-policy stack, Feb-July; rung: p

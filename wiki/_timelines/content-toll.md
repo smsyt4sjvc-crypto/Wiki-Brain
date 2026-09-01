@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **156 dated entries across 3 notes · 2026-07-01 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
+> **167 dated entries across 3 notes · 2026-07-01 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -172,3 +172,14 @@
 - `2026-08-26` [metered-compute.md:L3034](../metered-compute.md) — 2026-08-26 ~5:40pm PDT — ⭐⭐⭐⭐⭐ **"NVIDIA IN TALKS TO BUY HUGGING FACE FOR OVER $13B" (single-outlet INSIDER sourcing, TALKS-stage, no terms — REPORTED
 - `2026-08-26` [metered-compute.md:L3068](../metered-compute.md) — ⛔ CORRECTION 2026-08-26 ~7:05pm PDT (Jake's catch, within the hour) — **THE 5:40pm ENTRY CONFLATED TWO DOCUMENTS FROM THE SAME JULY WEEK, AND THE CORR
 - `2026-08-26` [metered-compute.md:L3087](../metered-compute.md) — Addendum 2026-08-26 ~7:08pm PDT — **THE PRIMARY ARTIFACT ARRIVES (Jake): Huang's 7/24 post — HIS FIRST EVER TWEET — sharing the letter. 66M views/173K
+- `2026-08-27` [compression-thesis.md:L2765](../compression-thesis.md) — 2026-08-27 ~8:00am PDT — ⭐⭐⭐⭐⭐ **GLM-5.3-FLASH (Zhipu/Z.ai, vendor announcement): 320B total / 18B ACTIVE, "one-tenth the price" of GLM-5.2, "APPROACH
+- `2026-08-27` [compression-thesis.md:L2794](../compression-thesis.md) — 2026-08-27 ~1:00pm PDT — ⭐⭐⭐⭐⭐ **TAPE-CONFIRMED (Yahoo, 3:57pm ET, header-reconciled ✓): SOFTWARE IS REPRICING VIOLENTLY — CRM +23.3% ($205.62→$253.50
+- `2026-08-27` [compression-thesis.md:L2818](../compression-thesis.md) — Addendum 2026-08-27 ~2:55pm PDT — **CONFIRMATION #2, per Jake: OKTA +31% — a SECOND software name, in a DIFFERENT sub-sector (identity/security vs CRM
+- `2026-08-27` [compression-thesis.md:L2820](../compression-thesis.md) — Addendum 2026-08-27 ~3:20pm PDT — **JAKE REFRAMES THE SOFTWARE BREAKOUT AND HIS FRAME IS BETTER SUPPORTED BY THE WEEK'S DATA: "ACCUMULATION SIGNAL. So
+- `2026-08-27` [compression-thesis.md:L2831](../compression-thesis.md) — 2026-08-27 ~8:10pm PDT — ⭐⭐⭐⭐⭐⭐ **THE ANTHROPIC BLACKLIST FALLS: JUDGE RITA LIN (N.D. Cal.) VACATES THE PENTAGON'S SUPPLY-CHAIN-RISK DESIGNATION — FIR
+- `2026-08-27` [metered-compute.md:L3089](../metered-compute.md) — 2026-08-27 ~9:15pm PDT — ⭐⭐⭐⭐ **THE TRIANGLE CLOSES: NVDA–NOW–HUGGING FACE (Jake's chain). The vault held two edges — the 7/25 sandwich topology (NVDA
+- `2026-08-28` [compression-thesis.md:L2859](../compression-thesis.md) — Addendum 2026-08-28 ~9:40am PDT — **SOFTWARE TEST #3 (WDAY): PASSED, softly.** Beat on adj-EPS + revenue; **AI >25% of new ACV** (the accumulation sig
+- `2026-08-28` [metered-compute.md:L3150](../metered-compute.md) — 2026-08-28 ~7:35pm PDT — ⭐⭐⭐⭐ **OPENAI CUTS CURSOR OFF (statement via Jake, "the petty"): partnership ends following CURSOR'S ACQUISITION BY SPACEX; "
+- `2026-08-28` [metered-compute.md:L3182](../metered-compute.md) — Addendum 2026-08-28 ~7:35pm PDT (full statement, same hour) — **THE FULL TEXT UPGRADES THE READ THREE WAYS: it's a CHANGE-OF-CONTROL clause exercised 
+- `2026-08-31` [metered-compute.md:L3212](../metered-compute.md) — 2026-08-31 ~9:35am PDT — ⭐⭐⭐⭐⭐ **TOKEN-ECONOMICS WEEKLY (Jake's brief, sources verified per-item): THE BARBELL CONFIRMS IN PRODUCTION DATA — Vercel Ju
+- `2026-08-31` [metered-compute.md:L3270](../metered-compute.md) — Addendum 2026-08-31 ~6:55pm PDT — **THE TOKEN INDEX BREAKS TO A RECORD LOW: Silicon Data LLM Token Expenditure Index 1.0018** (chart archived `raw/202

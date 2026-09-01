@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **177 dated entries across 2 notes · 2026-03-13 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
+> **189 dated entries across 2 notes · 2026-03-13 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -199,3 +199,15 @@
 - `2026-08-23` [oil-value-chain.md:L2113](../oil-value-chain.md) — 2026-08-23 ~11:15pm PDT — 🚩🚩🚩 **THE REFINER THESIS HAS THREE PHYSICAL DISCRIMINATORS AND ZERO POLITICAL ONES — AND A POLITICAL ONE IS NOW LIVE: A ~$2.
 - `2026-08-26` [oil-value-chain.md:L2164](../oil-value-chain.md) — 2026-08-26 ~4:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE DIVERGENCE THE VAULT FALSIFIED FOR JULY IS NOW LIVE IN AUGUST, WITH ITS CAUSE ATTACHED: WTI 87.06 (8/21) → ~81.7
 - `2026-08-26` [oil-value-chain.md:L2210](../oil-value-chain.md) — Addendum 2026-08-26 ~4:40pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE PULLS THE WPSR HIMSELF AND THE REFINER TEST CLOSES CONFIRMED — STRONGER THAN THE THESIS EXPECTED: UTIL
+- `2026-08-28` [oil-value-chain.md:L2233](../oil-value-chain.md) — Addendum 2026-08-28 ~10:00am PDT — **STREET-LEVEL PRIMARY (Jake's photo, Conoco/Jacksons, Thierman & Broadway, SPOKANE WA — I-90 Broadway exit truck s
+- `2026-08-28` [oil-value-chain.md:L2254](../oil-value-chain.md) — 2026-08-28 ~4:50pm PDT — ⭐⭐⭐⭐⭐ **TRUMP ANNOUNCES "THE BIGGEST OIL DEAL IN WORLD HISTORY" (Truth Social, 3:47pm ET): "majority U.S. control of more tha
+- `2026-08-28` [oil-value-chain.md:L2322](../oil-value-chain.md) — Addendum 2026-08-28 ~4:55pm PDT — ✔⛔ **CORROBORATION RUN (Jake: "check for corroboration"; source = Trump's VERIFIED Truth account). THE SUCCESSION GA
+- `2026-08-28` [oil-value-chain.md:L2358](../oil-value-chain.md) — 2026-08-28 ~5:25pm PDT — ⭐⭐⭐⭐⭐ **PRE-REPO BACKFILL: THE VENEZUELA THREAD, JANUARY→JUNE (Jake's recall from the original project space — the thread the
+- `2026-08-28` [oil-value-chain.md:L2425](../oil-value-chain.md) — Addendum 2026-08-28 ~7:35pm PDT — ✔⭐⭐⭐⭐⭐ **SECOND-PARTY CONFIRMATION (Jake: official Venezuelan government statement, Spanish, archived `raw/2026-08-2
+- `2026-08-29` [oil-value-chain.md:L2455](../oil-value-chain.md) — 2026-08-29 ~12:40pm PDT — ⭐⭐⭐⭐ **GOLDMAN CODIFIES THE DIVERGENCE — WITH A 2027 DATE ON IT (Jake's brief, "higher for longer, diesel edition"): 2027 di
+- `2026-08-31` [demand-destruction.md:L3865](../demand-destruction.md) — 2026-08-31 ~10:15am PDT — ⭐⭐⭐⭐ **JAKE'S PUSHBACK ON THE CHINA DEMAND-COLLAPSE THESIS — GRADED: SUBSTANTIALLY CONCEDED, and it REDESIGNS the tether's v
+- `2026-08-31` [demand-destruction.md:L3903](../demand-destruction.md) — Addendum 2026-08-31 ~10:20am PDT — ✔⭐⭐⭐⭐ **UAE-OPEC RESOLVED (Jake, same hour): the UAE OFFICIALLY LEFT OPEC MAY 1, 2026** (announced 4/28; 59-year me
+- `2026-08-31` [demand-destruction.md:L3925](../demand-destruction.md) — 2026-08-31 ~1:30pm PDT — ⭐⭐⭐⭐⭐ **THE CHINA CRUDE BALANCE, RUN BACKWARD (Jake + gopher; customs/NBS/Kpler/Vortexa-sourced): THE MORNING'S "THEY'RE HIDI
+- `2026-08-31` [oil-value-chain.md:L2489](../oil-value-chain.md) — Addendum 2026-08-31 ~7:25am PDT — **THE WAR PREMIUM ARRIVES ON SCHEDULE: Brent +5.9% to ~$91.21, WTI +3.5% to ~$86.33 at the Monday open (the MSAB/min
+- `2026-08-31` [oil-value-chain.md:L2491](../oil-value-chain.md) — Addendum 2026-08-31 ~7:45am PDT — ⛔⭐⭐⭐⭐⭐ **THE CAMPAIGN SIGNATURE PRINTS: US DIESEL CRACK APPROACHING $100/BBL while Brent runs $90+ — crude and crack
+- `2026-08-31` [oil-value-chain.md:L2494](../oil-value-chain.md) — Addendum 2026-08-31 ~10:30am PDT — ⭐⭐⭐⭐ **THE KILL-SWITCH'S SECOND FIRING ALSO SPARES THE CRACK (Jake's brief): EPA grants >1.8 BILLION RINs of Small 

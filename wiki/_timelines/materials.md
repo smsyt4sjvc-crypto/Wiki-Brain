@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **125 dated entries across 3 notes · 2026-07-09 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
+> **149 dated entries across 3 notes · 2026-07-09 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -141,3 +141,27 @@
 - `2026-08-26` [war-board.md:L3609](../war/war-board.md) — 2026-08-26 ~5:10pm PDT — ⭐⭐⭐⭐ **THE CHOKEPOINT TAX REACHES A NATIONAL IMPORT LEDGER: JAPAN GUIDES SEPTEMBER CRUDE IMPORTS TO 80% OF THE 2025 MONTHLY A
 - `2026-08-26` [war-board.md:L3647](../war/war-board.md) — Addendum 2026-08-26 ~5:12pm PDT — ⭐⭐⭐⭐ **DESTINATION-SIDE LEDGER #2, SAME HOUR: INDIA — HORMUZ FREIGHT +411% (Ras Tanura→India VLCC $0.85 → $4.34/bbl)
 - `2026-08-26` [war-board.md:L3668](../war/war-board.md) — 2026-08-26 ~7:51pm PDT — ⚠️⚠️ **UKMTO WARNING 121-26 (ATTACK): TANKER HIT BY UNKNOWN PROJECTILE IN THE STRAIT OF HORMUZ — fire extinguished, ALL CREW 
+- `2026-08-27` [buildout-bottleneck-map.md:L1400](../buildout-bottleneck-map.md) — 2026-08-27 ~8:10am PDT — ⛔⛔ **THE SECOND COST-RAISING POLICY ON THE SAME BUILDOUT IN 48 HOURS: WHITE HOUSE MULLING NEW TARIFFS ON SEMICONDUCTORS AND D
+- `2026-08-28` [buildout-bottleneck-map.md:L1427](../buildout-bottleneck-map.md) — 2026-08-28 ~9:35am PDT — ⭐⭐⭐ **THE BOTTLENECK THESIS REACHES THE FRONT PAGE (Market Ear via ZH, Jake: "like I said"): AI power demand ~26GW (2025) → ~
+- `2026-08-28` [buildout-bottleneck-map.md:L1452](../buildout-bottleneck-map.md) — 2026-08-28 ~5:30pm PDT — ⭐⭐⭐ **ENHANCED GEOTHERMAL (EGS) ENTERS THE AI-POWER STACK (ZH/Bloomberg via Jake): the Utah FORGE-class test — shale-drilling
+- `2026-08-28` [war-board.md:L3695](../war/war-board.md) — 2026-08-28 ~4:55pm PDT — **VENEZUELA: "INTERIM PRESIDENT DELCY RODRIGUEZ" — a regime change surfacing as a subordinate clause in Trump's oil-deal post
+- `2026-08-28` [war-board.md:L3726](../war/war-board.md) — 2026-08-28 ~7:45pm PDT — ⭐⭐⭐⭐ **RUSSIAN DEPOT STRIKE IN UKRAINE — POSSIBLY THE NEWLY-DELIVERED PATRIOT SHIPMENT (⚠️ THE PATRIOT PART IS UNCONFIRMED — 
+- `2026-08-29` [buildout-bottleneck-map.md:L1484](../buildout-bottleneck-map.md) — Addendum 2026-08-29 ~8:58am PDT — **UUUU: ASM acquisition CLOSED 8/28** — adds the operating Korean Metals Plant (NdFeB alloy 1,300 t/y now, 3,600 t/y
+- `2026-08-30` [buildout-bottleneck-map.md:L1486](../buildout-bottleneck-map.md) — 2026-08-30 ~1:25pm PDT — ⭐⭐⭐⭐ **MUSK ATTACKS THE CHOKEPOINT LAYER (ZH/The Information): SpaceX prepping a Bastrop TX factory to CAST HIGH-TEMP TURBINE
+- `2026-08-30` [war-board.md:L3763](../war/war-board.md) — 2026-08-30 ~1:30pm PDT — ⭐⭐⭐⭐ **FIRST US STRIKES ON IRAN IN WEEKS (ZH/Axios/CENTCOM): two launchers hit on LARAK ISLAND — IRGC observed preparing to l
+- `2026-08-30` [war-board.md:L3806](../war/war-board.md) — 2026-08-30 ~2:05pm PDT — ⭐⭐⭐⭐ **THE RATCLIFFE MOSCOW VISIT GETS ITS PURPOSE (ZH/Axios, fetched from the ZH feed): he proposed a TRUMP-PUTIN-ZELENSKY T
+- `2026-08-30` [war-board.md:L3841](../war/war-board.md) — 2026-08-30 ~3:15pm PDT — ⛔⭐⭐⭐⭐ **IRAN RETALIATES WITHIN HOURS OF LARAK (Jake's paste: ZH wire + OSINTdefender reposts, source stamps ~2:30-3:10pm PT):
+- `2026-08-30` [war-board.md:L3870](../war/war-board.md) — 2026-08-30 ~3:30pm PDT — ⭐⭐⭐⭐⭐ **TWO-THEATER SITUATION BRIEF (Jake, compiled ~3:20pm — pre-dating the ballistic launches by minutes; the launches ARE 
+- `2026-08-30` [war-board.md:L3939](../war/war-board.md) — Addendum 2026-08-30 ~3:30pm PDT — **TARGET IDENTIFIED (Jake, OSINT): MUWAFFAQ SALTI AIR BASE (MSAB), Jordan — a US base, and specifically THE base whe
+- `2026-08-30` [war-board.md:L3960](../war/war-board.md) — Addendum 2026-08-30 ~5:15pm PDT — ⛔⭐⭐⭐⭐⭐ **THE MINING CLAIM GOES OFFICIAL-ADJACENT WHILE THE MISSILES FLY (Jake, ZH reposts): Zolfaghari — IRGC Khatam
+- `2026-08-30` [war-board.md:L3984](../war/war-board.md) — 2026-08-30 ~5:20pm PDT — ⭐⭐⭐⭐⭐ **THE PENTAGON NON-CONCUR LEAK (WaPo via Jake, landing DURING the MSAB attack): EUCOM + PACOM + SOUTHCOM commanders + t
+- `2026-08-30` [war-board.md:L4026](../war/war-board.md) — Addendum 2026-08-30 ~6:00pm PDT — ✔ **CENTCOM GOES ON THE RECORD (official X post, 5:57pm, Jake's paste): US strikes were against "IRGC MINELAYING FOR
+- `2026-08-31` [buildout-bottleneck-map.md:L1538](../buildout-bottleneck-map.md) — Addendum 2026-08-31 ~9:38am PDT — **USAR/Serra Verde: shareholder approval CONFIRMED by 8-K (this morning): 126,849,307-share issuance approved, ~98.7
+- `2026-08-31` [buildout-bottleneck-map.md:L1540](../buildout-bottleneck-map.md) — Addendum 2026-08-31 ~9:44am PDT — ⭐⭐⭐ **CALIFORNIA'S UTILITY LESSON + THE GAS-PROPOSAL EXPLOSION (Jake's brief):** (1) the narrower wildfire package (
+- `2026-08-31` [buildout-bottleneck-map.md:L1542](../buildout-bottleneck-map.md) — Addendum 2026-08-31 ~12:42pm PDT — ⚡ **THE RARE-EARTH CLIFF IS DATED (Class B sweep): China's Oct-2025 export controls are suspended only through NOV 
+- `2026-08-31` [buildout-bottleneck-map.md:L1544](../buildout-bottleneck-map.md) — Addendum 2026-08-31 ~5:45pm PDT — ⭐⭐⭐ **GS UPGRADES ITS HUMANOID FORECAST 4x, warehouses = the first deployment ground (ZH via Jake). Jake's read — "B
+- `2026-08-31` [war-board.md:L4055](../war/war-board.md) — 2026-08-31 ~7:40am PDT — ⛔⭐⭐⭐⭐⭐ **THE MINE-STRIKE CLAIM (ZH feed fetch): IRGC claims an "unidentified supertanker" struck TWO NAVAL MINES in the Strai
+- `2026-08-31` [war-board.md:L4088](../war/war-board.md) — 2026-08-31 ~7:42am PDT — ⭐⭐⭐⭐ **THE CHINA-WINDOW TEST ANSWERS IN 24 HOURS (ZH feed fetch): RECORD 244-vessel Chinese swarm around Taiwan — ~60% coast 
+- `2026-08-31` [war-board.md:L4105](../war/war-board.md) — Addendum 2026-08-31 ~8:10am PDT — ⭐⭐⭐⭐⭐ **THE MARITIME PICTURE (gCaptain front page, Jake's pointer — industry-primary rung): VISIBLE HORMUZ TRANSITS 
+- `2026-08-31` [war-board.md:L4150](../war/war-board.md) — 2026-08-31 ~12:30pm PDT — ⭐⭐⭐⭐⭐ **THE INHERITED-STATE HEADER (project-gopher sweep, per the 8/31 construction rule — the Feb-July structural set this 
+- `2026-08-31` [war-board.md:L4215](../war/war-board.md) — 2026-08-31 ~5:40pm PDT — ⭐⭐⭐⭐⭐ **REUTERS WRAP (Jake's paste): the overnight watches resolve — US military DENIES the supertanker mine-strike · Larak t

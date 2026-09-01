@@ -1,6 +1,6 @@
 # ⏱ SANCTIONS — merged timeline (the gate)
 
-> **310 dated entries across 5 notes · 2026-03-13 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
+> **337 dated entries across 5 notes · 2026-03-13 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -332,3 +332,30 @@
 - `2026-08-26` [war-board.md:L3609](../war/war-board.md) — 2026-08-26 ~5:10pm PDT — ⭐⭐⭐⭐ **THE CHOKEPOINT TAX REACHES A NATIONAL IMPORT LEDGER: JAPAN GUIDES SEPTEMBER CRUDE IMPORTS TO 80% OF THE 2025 MONTHLY A
 - `2026-08-26` [war-board.md:L3647](../war/war-board.md) — Addendum 2026-08-26 ~5:12pm PDT — ⭐⭐⭐⭐ **DESTINATION-SIDE LEDGER #2, SAME HOUR: INDIA — HORMUZ FREIGHT +411% (Ras Tanura→India VLCC $0.85 → $4.34/bbl)
 - `2026-08-26` [war-board.md:L3668](../war/war-board.md) — 2026-08-26 ~7:51pm PDT — ⚠️⚠️ **UKMTO WARNING 121-26 (ATTACK): TANKER HIT BY UNKNOWN PROJECTILE IN THE STRAIT OF HORMUZ — fire extinguished, ALL CREW 
+- `2026-08-28` [oil-value-chain.md:L2233](../oil-value-chain.md) — Addendum 2026-08-28 ~10:00am PDT — **STREET-LEVEL PRIMARY (Jake's photo, Conoco/Jacksons, Thierman & Broadway, SPOKANE WA — I-90 Broadway exit truck s
+- `2026-08-28` [oil-value-chain.md:L2254](../oil-value-chain.md) — 2026-08-28 ~4:50pm PDT — ⭐⭐⭐⭐⭐ **TRUMP ANNOUNCES "THE BIGGEST OIL DEAL IN WORLD HISTORY" (Truth Social, 3:47pm ET): "majority U.S. control of more tha
+- `2026-08-28` [oil-value-chain.md:L2322](../oil-value-chain.md) — Addendum 2026-08-28 ~4:55pm PDT — ✔⛔ **CORROBORATION RUN (Jake: "check for corroboration"; source = Trump's VERIFIED Truth account). THE SUCCESSION GA
+- `2026-08-28` [oil-value-chain.md:L2358](../oil-value-chain.md) — 2026-08-28 ~5:25pm PDT — ⭐⭐⭐⭐⭐ **PRE-REPO BACKFILL: THE VENEZUELA THREAD, JANUARY→JUNE (Jake's recall from the original project space — the thread the
+- `2026-08-28` [oil-value-chain.md:L2425](../oil-value-chain.md) — Addendum 2026-08-28 ~7:35pm PDT — ✔⭐⭐⭐⭐⭐ **SECOND-PARTY CONFIRMATION (Jake: official Venezuelan government statement, Spanish, archived `raw/2026-08-2
+- `2026-08-28` [war-board.md:L3695](../war/war-board.md) — 2026-08-28 ~4:55pm PDT — **VENEZUELA: "INTERIM PRESIDENT DELCY RODRIGUEZ" — a regime change surfacing as a subordinate clause in Trump's oil-deal post
+- `2026-08-28` [war-board.md:L3726](../war/war-board.md) — 2026-08-28 ~7:45pm PDT — ⭐⭐⭐⭐ **RUSSIAN DEPOT STRIKE IN UKRAINE — POSSIBLY THE NEWLY-DELIVERED PATRIOT SHIPMENT (⚠️ THE PATRIOT PART IS UNCONFIRMED — 
+- `2026-08-29` [oil-value-chain.md:L2455](../oil-value-chain.md) — 2026-08-29 ~12:40pm PDT — ⭐⭐⭐⭐ **GOLDMAN CODIFIES THE DIVERGENCE — WITH A 2027 DATE ON IT (Jake's brief, "higher for longer, diesel edition"): 2027 di
+- `2026-08-30` [war-board.md:L3763](../war/war-board.md) — 2026-08-30 ~1:30pm PDT — ⭐⭐⭐⭐ **FIRST US STRIKES ON IRAN IN WEEKS (ZH/Axios/CENTCOM): two launchers hit on LARAK ISLAND — IRGC observed preparing to l
+- `2026-08-30` [war-board.md:L3806](../war/war-board.md) — 2026-08-30 ~2:05pm PDT — ⭐⭐⭐⭐ **THE RATCLIFFE MOSCOW VISIT GETS ITS PURPOSE (ZH/Axios, fetched from the ZH feed): he proposed a TRUMP-PUTIN-ZELENSKY T
+- `2026-08-30` [war-board.md:L3841](../war/war-board.md) — 2026-08-30 ~3:15pm PDT — ⛔⭐⭐⭐⭐ **IRAN RETALIATES WITHIN HOURS OF LARAK (Jake's paste: ZH wire + OSINTdefender reposts, source stamps ~2:30-3:10pm PT):
+- `2026-08-30` [war-board.md:L3870](../war/war-board.md) — 2026-08-30 ~3:30pm PDT — ⭐⭐⭐⭐⭐ **TWO-THEATER SITUATION BRIEF (Jake, compiled ~3:20pm — pre-dating the ballistic launches by minutes; the launches ARE 
+- `2026-08-30` [war-board.md:L3939](../war/war-board.md) — Addendum 2026-08-30 ~3:30pm PDT — **TARGET IDENTIFIED (Jake, OSINT): MUWAFFAQ SALTI AIR BASE (MSAB), Jordan — a US base, and specifically THE base whe
+- `2026-08-30` [war-board.md:L3960](../war/war-board.md) — Addendum 2026-08-30 ~5:15pm PDT — ⛔⭐⭐⭐⭐⭐ **THE MINING CLAIM GOES OFFICIAL-ADJACENT WHILE THE MISSILES FLY (Jake, ZH reposts): Zolfaghari — IRGC Khatam
+- `2026-08-30` [war-board.md:L3984](../war/war-board.md) — 2026-08-30 ~5:20pm PDT — ⭐⭐⭐⭐⭐ **THE PENTAGON NON-CONCUR LEAK (WaPo via Jake, landing DURING the MSAB attack): EUCOM + PACOM + SOUTHCOM commanders + t
+- `2026-08-30` [war-board.md:L4026](../war/war-board.md) — Addendum 2026-08-30 ~6:00pm PDT — ✔ **CENTCOM GOES ON THE RECORD (official X post, 5:57pm, Jake's paste): US strikes were against "IRGC MINELAYING FOR
+- `2026-08-31` [demand-destruction.md:L3865](../demand-destruction.md) — 2026-08-31 ~10:15am PDT — ⭐⭐⭐⭐ **JAKE'S PUSHBACK ON THE CHINA DEMAND-COLLAPSE THESIS — GRADED: SUBSTANTIALLY CONCEDED, and it REDESIGNS the tether's v
+- `2026-08-31` [demand-destruction.md:L3903](../demand-destruction.md) — Addendum 2026-08-31 ~10:20am PDT — ✔⭐⭐⭐⭐ **UAE-OPEC RESOLVED (Jake, same hour): the UAE OFFICIALLY LEFT OPEC MAY 1, 2026** (announced 4/28; 59-year me
+- `2026-08-31` [demand-destruction.md:L3925](../demand-destruction.md) — 2026-08-31 ~1:30pm PDT — ⭐⭐⭐⭐⭐ **THE CHINA CRUDE BALANCE, RUN BACKWARD (Jake + gopher; customs/NBS/Kpler/Vortexa-sourced): THE MORNING'S "THEY'RE HIDI
+- `2026-08-31` [oil-value-chain.md:L2489](../oil-value-chain.md) — Addendum 2026-08-31 ~7:25am PDT — **THE WAR PREMIUM ARRIVES ON SCHEDULE: Brent +5.9% to ~$91.21, WTI +3.5% to ~$86.33 at the Monday open (the MSAB/min
+- `2026-08-31` [oil-value-chain.md:L2491](../oil-value-chain.md) — Addendum 2026-08-31 ~7:45am PDT — ⛔⭐⭐⭐⭐⭐ **THE CAMPAIGN SIGNATURE PRINTS: US DIESEL CRACK APPROACHING $100/BBL while Brent runs $90+ — crude and crack
+- `2026-08-31` [oil-value-chain.md:L2494](../oil-value-chain.md) — Addendum 2026-08-31 ~10:30am PDT — ⭐⭐⭐⭐ **THE KILL-SWITCH'S SECOND FIRING ALSO SPARES THE CRACK (Jake's brief): EPA grants >1.8 BILLION RINs of Small 
+- `2026-08-31` [war-board.md:L4055](../war/war-board.md) — 2026-08-31 ~7:40am PDT — ⛔⭐⭐⭐⭐⭐ **THE MINE-STRIKE CLAIM (ZH feed fetch): IRGC claims an "unidentified supertanker" struck TWO NAVAL MINES in the Strai
+- `2026-08-31` [war-board.md:L4088](../war/war-board.md) — 2026-08-31 ~7:42am PDT — ⭐⭐⭐⭐ **THE CHINA-WINDOW TEST ANSWERS IN 24 HOURS (ZH feed fetch): RECORD 244-vessel Chinese swarm around Taiwan — ~60% coast 
+- `2026-08-31` [war-board.md:L4105](../war/war-board.md) — Addendum 2026-08-31 ~8:10am PDT — ⭐⭐⭐⭐⭐ **THE MARITIME PICTURE (gCaptain front page, Jake's pointer — industry-primary rung): VISIBLE HORMUZ TRANSITS 
+- `2026-08-31` [war-board.md:L4150](../war/war-board.md) — 2026-08-31 ~12:30pm PDT — ⭐⭐⭐⭐⭐ **THE INHERITED-STATE HEADER (project-gopher sweep, per the 8/31 construction rule — the Feb-July structural set this 
+- `2026-08-31` [war-board.md:L4215](../war/war-board.md) — 2026-08-31 ~5:40pm PDT — ⭐⭐⭐⭐⭐ **REUTERS WRAP (Jake's paste): the overnight watches resolve — US military DENIES the supertanker mine-strike · Larak t

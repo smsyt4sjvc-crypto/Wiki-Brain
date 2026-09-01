@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **419 dated entries across 3 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
+> **440 dated entries across 3 notes · 2026-05-22 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -439,5 +439,26 @@
 - `2026-08-24` [ai-financing-fragility.md:L7164](../ai-financing-fragility.md) — 2026-08-24 ~11:20pm PDT — 🕳️ **JAKE ASKS THE POLICY-PUT QUESTION AND THE VAULT HAS NO ENTRY FOR IT: WHAT IF TREASURY/THE FED PAID AN SPV TO LEVER CORP
 - `2026-08-25` [ai-financing-fragility.md:L7227](../ai-financing-fragility.md) — 2026-08-25 ~10:25pm PDT — ⭐⭐⭐⭐⭐ **THE WALTER INVESTIGATION IS ARROW 1 OF A CHAIN THIS NOTE HAS HELD SINCE MAY 22 FINALLY GETTING A LIVE CATALYST — AND
 - `2026-08-26` [ai-financing-fragility.md:L7295](../ai-financing-fragility.md) — 2026-08-26 ~4:20pm PDT — ⭐⭐⭐⭐⭐ **ANTHROPIC × NSCALE WEST VIRGINIA: $45B / 6 YEARS FOR 460MW OF VERA RUBIN — AND THE ARITHMETIC MAKES IT A FINANCING ST
+- `2026-08-26` [ai-financing-fragility.md:L7334](../ai-financing-fragility.md) — 2026-08-26 ~9:45pm PDT — ⭐⭐⭐⭐⭐ **JAKE COMPLETES HIS 8/24 POLICY-PUT QUESTION INTO A FULL DESIGN: A TREASURY-DEMAND STABILIZER SPV — pre-designated IG 
+- `2026-08-26` [ai-financing-fragility.md:L7390](../ai-financing-fragility.md) — Addendum 2026-08-26 ~9:52pm PDT — **JAKE'S REFINEMENT FLIPS THE CDS LEG AND DISSOLVES COUNTER #1: TREASURY IS THE PROTECTION WRITER, NOT THE BUYER — i
+- `2026-08-26` [ai-financing-fragility.md:L7417](../ai-financing-fragility.md) — Addendum 2026-08-26 ~10:00pm PDT — **JAKE'S SECOND REFINEMENT: THE HEDGE LEG'S CONVEXITY *IS* THE WAR CHEST — as spreads widen the protection leg gain
 - `2026-08-26` [new-economy-regime.md:L4373](../new-economy-regime.md) — 2026-08-26 ~11:50am PDT — ⭐⭐⭐⭐ **JAKE'S HOUSING-POLICY CALL: THE AFFORDABILITY LEVER WILL BE RED TAPE, NOT RATES — "the only 'free' option that leaves
 - `2026-08-26` [new-economy-regime.md:L4406](../new-economy-regime.md) — Addendum 2026-08-26 ~12:55pm PDT — ⭐⭐⭐⭐⭐ **JAKE CLOSES HIS OWN LOOP AND THE CONCLUSION INVERTS THE "FREE OPTION": STATES WILL NEVER PULL THE DEREG LEV
+- `2026-08-26` [new-economy-regime.md:L4440](../new-economy-regime.md) — 2026-08-26 ~10:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE CLOSES THE WEEK'S ARGUMENT WITH THE BIND, STATED PLAIN: "POINTING MONEY AT LONG-DURATION TREASURIES IS A SQUIR
+- `2026-08-27` [ai-financing-fragility.md:L7436](../ai-financing-fragility.md) — 2026-08-27 ~3:12pm PDT — ⛔⛔⭐⭐⭐⭐⭐ **IREN: THE PERIPHERY'S FINANCING MECHANICS IN FULL DAYLIGHT — Jake's line adopted as the entry's frame: "DEMAND ITSE
+- `2026-08-27` [new-economy-regime.md:L4468](../new-economy-regime.md) — 2026-08-27 ~8:20pm PDT — ⭐⭐⭐⭐⭐ **THE FIFTH DISCLOSURE TRIGGER IS POLITICAL: WSJ — CORPORATE AMERICA IS PREPPING FOR SUBPOENAS IF THE HOUSE FLIPS (Nov 
+- `2026-08-27` [new-economy-regime.md:L4500](../new-economy-regime.md) — ⛔ CORRECTION 2026-08-27 ~8:35pm PDT (Jake, immediately): **HIS MARCH CALL WAS NOT ABOUT DISCLOSURES — IT WAS ABOUT THE STATE TAKING *SHARES IN THE ACT
+- `2026-08-28` [ai-financing-fragility.md:L7467](../ai-financing-fragility.md) — Addendum 2026-08-28 ~9:50am PDT — ⭐⭐⭐⭐ **IREN RESULTS + FINANCING STACK (8/28 scan): the GPU-financing rate ladder prints INSIDE ONE ISSUER — $3.6B in
+- `2026-08-29` [ai-financing-fragility.md:L7498](../ai-financing-fragility.md) — 2026-08-29 ~8:55am PDT — ⭐⭐⭐⭐⭐ **IREN 10-K (SEC-filed, 8/29 scan): THE PERIPHERY CONSOLIDATES ITS SPV WHILE THE CORE DOESN'T — IE US Hardware 3 LLC (t
+- `2026-08-30` [ai-financing-fragility.md:L7540](../ai-financing-fragility.md) — 2026-08-30 ~10:05am PDT — ⭐⭐⭐⭐⭐ **JAKE'S QUESTION — "are they taking profits and GTFO while they can?" — ANSWERED WITH THE STACK-POSITION FRAME: the a
+- `2026-08-30` [new-economy-regime.md:L4522](../new-economy-regime.md) — 2026-08-30 ~1:50pm PDT — ⭐⭐⭐ **"THE MOTHER OF ALL MEAN REVERSIONS" (ZH: Jefferies/LaFemina + UBS): GSCI-to-S&P ratio near its lowest in 5+ DECADES — f
+- `2026-08-30` [new-economy-regime.md:L4553](../new-economy-regime.md) — Addendum 2026-08-30 ~3:45pm PDT — ✔ **THE NUMERATOR CONFIRMS (Jake: "corroborates the numerator from earlier"): GSCI AGRICULTURE +11 consecutive sessi
+- `2026-08-31` [ai-financing-fragility.md:L7615](../ai-financing-fragility.md) — Addendum 2026-08-31 ~12:38pm PDT — **the conveyor gains its RETIREMENT LEG and a hidden-leverage flag (Class B sweep, [[new-economy-regime]] 8/31): EO
+- `2026-08-31` [ai-financing-fragility.md:L7617](../ai-financing-fragility.md) — Addendum 2026-08-31 ~1:28pm PDT — ⭐⭐⭐⭐ **LAMBDA'S $926M GPU-BACKED SPV TERM LOAN B (8/31 scan tail): the first INVESTMENT-GRADE-RATED (Baa2) GPU-colla
+- `2026-08-31` [market-fragility.md:L4370](../market-fragility.md) — 2026-08-31 ~4:15pm PDT — ⭐⭐⭐⭐ **RECORD DISPERSION (Jake's paste): median 63-day stock-to-index correlation +0.10 — LOWEST ON RECORD (prior record +0.1
+- `2026-08-31` [new-economy-regime.md:L4572](../new-economy-regime.md) — Addendum 2026-08-31 ~9:40am PDT — **THE INDUSTRY COUNTER-MOBILIZES (8/31 scan): a pro-AI advocacy group launches a $50M campaign starting in KANSAS, O
+- `2026-08-31` [new-economy-regime.md:L4574](../new-economy-regime.md) — 2026-08-31 ~9:45am PDT — ⭐⭐⭐⭐ **BESSENT'S G20 (ZH fetch, Jake's pointer): "the world cannot have a China with a $1.2 TRILLION trade surplus" — G20 fin
+- `2026-08-31` [new-economy-regime.md:L4617](../new-economy-regime.md) — Addendum 2026-08-31 ~9:50am PDT — ⟲⭐⭐⭐⭐ **JAKE'S STANDING CALL, CREDITED (pre-repo, ~January): he read the TWO-OCEAN CHINA SQUEEZE at the time of the 
+- `2026-08-31` [new-economy-regime.md:L4636](../new-economy-regime.md) — Addendum 2026-08-31 ~9:55am PDT — ⟲⭐⭐⭐⭐⭐ **THE FULL PRE-REPO BACKFILL (Jake's project-space summary, memory current to ~late June, written Aug 4): THE
+- `2026-08-31` [new-economy-regime.md:L4675](../new-economy-regime.md) — Addendum 2026-08-31 ~10:05am PDT — ⭐⭐⭐⭐ **THE TETHER RE-UNDERWRITTEN FOR THE AUGUST WORLD (Jake: the thesis predates the open-source/token war, the ra
+- `2026-08-31` [new-economy-regime.md:L4707](../new-economy-regime.md) — 2026-08-31 ~12:35pm PDT — ⭐⭐⭐⭐⭐ **CLASS B INHERITED-STATE (project-gopher second pass — the fiscal/legal/monetary/tech-policy stack, Feb-July; rung: p

@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **184 dated entries across 2 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
+> **205 dated entries across 2 notes · 2026-05-22 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -202,7 +202,28 @@
 - `2026-08-24` [war-board.md:L3513](../war/war-board.md) — Addendum 2026-08-24 ~10:55pm PDT — ⚖️ **JAKE COMMISSIONED THE RANKING ON *ESCALATION POTENTIAL*. Taking it on those terms, the board AGREES ON #1 AND 
 - `2026-08-26` [ai-capex-cycle.md:L3422](../ai-capex-cycle.md) — 2026-08-26 ~3:55pm PDT — ⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 — THE DEMAND HALF: $96.2B (+4.3% beat, +106% y/y) · DC $89.0B · Q3 GUIDE $108B (+3.7% over street) · AN
 - `2026-08-26` [ai-capex-cycle.md:L3446](../ai-capex-cycle.md) — Addendum 2026-08-26 ~7:12pm PDT — ⭐⭐⭐⭐⭐⭐ **CALL FOLLOW-THROUGH, AND JAKE NAMES THE NEW PIECE CORRECTLY: 70% FY28 IS THE *SUPPLY* NUMBER — CUSTOMER FOR
+- `2026-08-26` [ai-capex-cycle.md:L3467](../ai-capex-cycle.md) — Addendum 2026-08-26 ~8:13pm PDT — **AWS DECOMPOSITION + TAPE:** the +2M GPUs are INCREMENTAL to a prior 1M+ AWS plan starting 2026 — the publicly disc
 - `2026-08-26` [war-board.md:L3545](../war/war-board.md) — 2026-08-26 ~4:30pm PDT — ⛔⛔⛔ **NEW FRONT ON THIS BOARD: THE RUSSIA→NATO ESCALATION ARC (Jul 30 → Aug 26), AND IT ARRIVES ALREADY AT THE BACKCHANNEL-OF
 - `2026-08-26` [war-board.md:L3609](../war/war-board.md) — 2026-08-26 ~5:10pm PDT — ⭐⭐⭐⭐ **THE CHOKEPOINT TAX REACHES A NATIONAL IMPORT LEDGER: JAPAN GUIDES SEPTEMBER CRUDE IMPORTS TO 80% OF THE 2025 MONTHLY A
 - `2026-08-26` [war-board.md:L3647](../war/war-board.md) — Addendum 2026-08-26 ~5:12pm PDT — ⭐⭐⭐⭐ **DESTINATION-SIDE LEDGER #2, SAME HOUR: INDIA — HORMUZ FREIGHT +411% (Ras Tanura→India VLCC $0.85 → $4.34/bbl)
 - `2026-08-26` [war-board.md:L3668](../war/war-board.md) — 2026-08-26 ~7:51pm PDT — ⚠️⚠️ **UKMTO WARNING 121-26 (ATTACK): TANKER HIT BY UNKNOWN PROJECTILE IN THE STRAIT OF HORMUZ — fire extinguished, ALL CREW 
+- `2026-08-27` [ai-capex-cycle.md:L3469](../ai-capex-cycle.md) — 2026-08-27 ~3:10pm PDT — ⭐⭐⭐⭐⭐ **MRVL: THE DEMAND RATCHET CONTINUES — $2.739B (+37% y/y), DC $2.172B (+46% y/y, 79% of company), Q3 guide $3.15B (+15%
+- `2026-08-27` [ai-capex-cycle.md:L3482](../ai-capex-cycle.md) — Addendum 2026-08-27 ~4:09pm PDT — ⭐⭐⭐⭐ **THE MACRO-SHARE DATUM: HIGH-TECH CAPEX (equipment + software + R&D) = 55.2% OF TOTAL US NOMINAL CAPITAL SPEND
+- `2026-08-28` [ai-capex-cycle.md:L3500](../ai-capex-cycle.md) — Addendum 2026-08-28 ~9:50am PDT — **MRVL: the selloff's stated cause CONFIRMS the filed structure rather than contradicting it.** Scan detail: managem
+- `2026-08-28` [war-board.md:L3695](../war/war-board.md) — 2026-08-28 ~4:55pm PDT — **VENEZUELA: "INTERIM PRESIDENT DELCY RODRIGUEZ" — a regime change surfacing as a subordinate clause in Trump's oil-deal post
+- `2026-08-28` [war-board.md:L3726](../war/war-board.md) — 2026-08-28 ~7:45pm PDT — ⭐⭐⭐⭐ **RUSSIAN DEPOT STRIKE IN UKRAINE — POSSIBLY THE NEWLY-DELIVERED PATRIOT SHIPMENT (⚠️ THE PATRIOT PART IS UNCONFIRMED — 
+- `2026-08-29` [ai-capex-cycle.md:L3502](../ai-capex-cycle.md) — Addendum 2026-08-29 ~8:57am PDT — ⭐⭐⭐⭐ **MRVL 10-Q (8/28): foundry/test purchase commitments $2.757B → $8.519B (+209% q/q, +$5.76B), capex commitments
+- `2026-08-30` [war-board.md:L3763](../war/war-board.md) — 2026-08-30 ~1:30pm PDT — ⭐⭐⭐⭐ **FIRST US STRIKES ON IRAN IN WEEKS (ZH/Axios/CENTCOM): two launchers hit on LARAK ISLAND — IRGC observed preparing to l
+- `2026-08-30` [war-board.md:L3806](../war/war-board.md) — 2026-08-30 ~2:05pm PDT — ⭐⭐⭐⭐ **THE RATCLIFFE MOSCOW VISIT GETS ITS PURPOSE (ZH/Axios, fetched from the ZH feed): he proposed a TRUMP-PUTIN-ZELENSKY T
+- `2026-08-30` [war-board.md:L3841](../war/war-board.md) — 2026-08-30 ~3:15pm PDT — ⛔⭐⭐⭐⭐ **IRAN RETALIATES WITHIN HOURS OF LARAK (Jake's paste: ZH wire + OSINTdefender reposts, source stamps ~2:30-3:10pm PT):
+- `2026-08-30` [war-board.md:L3870](../war/war-board.md) — 2026-08-30 ~3:30pm PDT — ⭐⭐⭐⭐⭐ **TWO-THEATER SITUATION BRIEF (Jake, compiled ~3:20pm — pre-dating the ballistic launches by minutes; the launches ARE 
+- `2026-08-30` [war-board.md:L3939](../war/war-board.md) — Addendum 2026-08-30 ~3:30pm PDT — **TARGET IDENTIFIED (Jake, OSINT): MUWAFFAQ SALTI AIR BASE (MSAB), Jordan — a US base, and specifically THE base whe
+- `2026-08-30` [war-board.md:L3960](../war/war-board.md) — Addendum 2026-08-30 ~5:15pm PDT — ⛔⭐⭐⭐⭐⭐ **THE MINING CLAIM GOES OFFICIAL-ADJACENT WHILE THE MISSILES FLY (Jake, ZH reposts): Zolfaghari — IRGC Khatam
+- `2026-08-30` [war-board.md:L3984](../war/war-board.md) — 2026-08-30 ~5:20pm PDT — ⭐⭐⭐⭐⭐ **THE PENTAGON NON-CONCUR LEAK (WaPo via Jake, landing DURING the MSAB attack): EUCOM + PACOM + SOUTHCOM commanders + t
+- `2026-08-30` [war-board.md:L4026](../war/war-board.md) — Addendum 2026-08-30 ~6:00pm PDT — ✔ **CENTCOM GOES ON THE RECORD (official X post, 5:57pm, Jake's paste): US strikes were against "IRGC MINELAYING FOR
+- `2026-08-31` [ai-capex-cycle.md:L3504](../ai-capex-cycle.md) — Addendum 2026-08-31 ~9:37am PDT — **AMD/HUMAIN goes LIVE (company-confirmed): MI355X/EPYC in production serving Saudi customers NOW; next phase up to 
+- `2026-08-31` [war-board.md:L4055](../war/war-board.md) — 2026-08-31 ~7:40am PDT — ⛔⭐⭐⭐⭐⭐ **THE MINE-STRIKE CLAIM (ZH feed fetch): IRGC claims an "unidentified supertanker" struck TWO NAVAL MINES in the Strai
+- `2026-08-31` [war-board.md:L4088](../war/war-board.md) — 2026-08-31 ~7:42am PDT — ⭐⭐⭐⭐ **THE CHINA-WINDOW TEST ANSWERS IN 24 HOURS (ZH feed fetch): RECORD 244-vessel Chinese swarm around Taiwan — ~60% coast 
+- `2026-08-31` [war-board.md:L4105](../war/war-board.md) — Addendum 2026-08-31 ~8:10am PDT — ⭐⭐⭐⭐⭐ **THE MARITIME PICTURE (gCaptain front page, Jake's pointer — industry-primary rung): VISIBLE HORMUZ TRANSITS 
+- `2026-08-31` [war-board.md:L4150](../war/war-board.md) — 2026-08-31 ~12:30pm PDT — ⭐⭐⭐⭐⭐ **THE INHERITED-STATE HEADER (project-gopher sweep, per the 8/31 construction rule — the Feb-July structural set this 
+- `2026-08-31` [war-board.md:L4215](../war/war-board.md) — 2026-08-31 ~5:40pm PDT — ⭐⭐⭐⭐⭐ **REUTERS WRAP (Jake's paste): the overnight watches resolve — US military DENIES the supertanker mine-strike · Larak t

@@ -19,7 +19,7 @@ IF → THEN → INSTRUMENT, dated; **prune when resolved or aged out** (a resolv
 board, it does not linger) · holds the BASKETS with `vault_find` keywords so references pull in one
 command · short enough to read in one scroll; if it grows past that, prune before adding.
 
-**REFRESHED: 2026-08-31 ~7:25am PDT**
+**REFRESHED: 2026-08-31 ~7:15pm PDT**
 
 ## STATE
 **Two-speed market — now at a RECORD statistic: median stock-index correlation +0.10 (prior ATL 0.16, post-2000; Jake: "anchors and balloons — why it chops sideways"; VIX 15 through a missile weekend = dispersion arithmetic, not calm — index-vol gauges UNDERSTATE stress in this regime; a correlation spike >0.4-0.5 = flip-corroborator ([[market-fragility]] 8/31)).** AI **periphery repriced as CREDIT** (CRWV 817bp · ORCL 226bp · SPCX ~170 ·
@@ -41,7 +41,14 @@ new-issue concessions → a Level-2 name forced to add support. **CLOSE 8/31: th
 5.25 official (gate 1 at threshold, control-week day 1; 30Y REAL ~3%) — while Friday's OAS
 HELD/TIGHTENED through the Warsh shock (IG 79 unch): credit is FADING Treasury stress, not
 lagging it. GS: hyperscaler issuance $250B '26 → $400B '27 (+60%) = the collision grows.**
-Credit still asleep = the central contradiction.** **8/28 JACKSON
+Credit still asleep = the central contradiction.** **8/31 EVE — THE BIND GOES GLOBAL
+([[rates-board]] 7:10pm): the long-end selloff is SYNCHRONIZED — JGB ~2.95 (30-YEAR high) ·
+Bund ~3.32 (15yr) · gilt ~5.07 (7Y sale highest since 2002) · Australia ~5.11 (15yr) — and the
+SAFE-HAVEN REACTION IS INVERTED: escalation sells bonds (energy+inflation+fiscal shock read).
+FT: G7 financing costs +$16B already, ~$34B by Q1-27. No foreign long end left to absorb ours —
+Japan repatriation (price incentive + Bessent-urges-BoJ-hike accelerant) is THE marginal-buyer
+watch. Sequence gains a GLOBAL RING (additions): dollar down despite yields up · gold up WITH
+yields · Bund/JGB fresh highs · gilt acceleration.** **8/28 JACKSON
 HOLE: a HAWK BLOC (Warsh · Schmid · Hammack) — Sept hike odds 35→58% in one day; CLOSE: 2Y +14bp
 to 4.34 vs 30Y +3bp to 5.22 (the long end barely responds to a hawkish shock) = the bind's
 DIVISION OF LABOR printed on the curve: the Fed prices the SHORT end (short rates "the primary

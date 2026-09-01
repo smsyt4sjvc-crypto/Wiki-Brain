@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **270 dated entries across 3 notes · 2026-06-30 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
+> **302 dated entries across 3 notes · 2026-06-30 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -283,9 +283,41 @@
 - `2026-08-25` [rates-board.md:L1226](../rates-board.md) — Addendum 2026-08-25 ~2:35pm PDT — ✅ **RUNG UPGRADE: every block of the 8/25 scan now traces to a named primary, and the numbers came back IDENTICAL.**
 - `2026-08-26` [new-economy-regime.md:L4373](../new-economy-regime.md) — 2026-08-26 ~11:50am PDT — ⭐⭐⭐⭐ **JAKE'S HOUSING-POLICY CALL: THE AFFORDABILITY LEVER WILL BE RED TAPE, NOT RATES — "the only 'free' option that leaves
 - `2026-08-26` [new-economy-regime.md:L4406](../new-economy-regime.md) — Addendum 2026-08-26 ~12:55pm PDT — ⭐⭐⭐⭐⭐ **JAKE CLOSES HIS OWN LOOP AND THE CONCLUSION INVERTS THE "FREE OPTION": STATES WILL NEVER PULL THE DEREG LEV
+- `2026-08-26` [new-economy-regime.md:L4440](../new-economy-regime.md) — 2026-08-26 ~10:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE CLOSES THE WEEK'S ARGUMENT WITH THE BIND, STATED PLAIN: "POINTING MONEY AT LONG-DURATION TREASURIES IS A SQUIR
 - `2026-08-26` [rates-board.md:L1228](../rates-board.md) — 2026-08-26 ~8:35am PDT — DAILY OPENING SCAN #2 (8/26, 6:04-6:14am PT quotes) — ⭐⭐⭐⭐ **THE GENUINELY NEW SERIES IN TODAY'S SCAN IS THE ISSUANCE LADDER:
 - `2026-08-26` [rates-board.md:L1281](../rates-board.md) — Addendum 2026-08-26 ~8:55am PDT — ⭐⭐⭐⭐ **THE PCE DETAIL REVERSES THE MORNING READ'S EMPHASIS: +0.2% MoM ANNUALIZES TO 2.43% — THE INCOMING PULSE IS NE
 - `2026-08-26` [rates-board.md:L1309](../rates-board.md) — 2026-08-26 ~11:15am PDT — WEEK TAPE (Mon→Wed 2pm ET, Jake's wrap) — ⭐⭐⭐⭐⭐ **THE 5Y WAS "MUCH LESS CONVINCING" WITH FOREIGN/INDIRECT BELOW AVERAGE — TH
 - `2026-08-26` [rates-board.md:L1360](../rates-board.md) — Addendum 2026-08-26 ~11:35am PDT — NEW HOME SALES −10.5% MoM (607k SAAR): ⚠️ **THE HEADLINE IS HUGE; THE SINGLE MONTH IS NOT TRUSTWORTHY — this Census
 - `2026-08-26` [rates-board.md:L1368](../rates-board.md) — 2026-08-26 ~1:20pm PDT — CLOSE SCAN (3:30pm ET curve) — ⭐⭐⭐⭐⭐ **THE 5Y INTERNALS LAND MID, NOT WEAK: 4.393% stop, +0.2bp TAIL, 2.37x, INDIRECTS 61.51%
 - `2026-08-26` [rates-board.md:L1407](../rates-board.md) — Addendum 2026-08-26 ~4:42pm PDT — **THE 7Y COLLISION RUBRIC (Jake's, adopted verbatim as the branch's quantitative bar).** Benchmarks: July 7Y = 0.2bp
+- `2026-08-26` [rates-board.md:L1409](../rates-board.md) — Addendum 2026-08-26 ~8:20pm PDT — **CONSUMER CONFIDENCE DETAIL (Conference Board, Aug): the −0.8 headline (89.4) hides the real move — EXPECTATIONS −5
+- `2026-08-27` [new-economy-regime.md:L4468](../new-economy-regime.md) — 2026-08-27 ~8:20pm PDT — ⭐⭐⭐⭐⭐ **THE FIFTH DISCLOSURE TRIGGER IS POLITICAL: WSJ — CORPORATE AMERICA IS PREPPING FOR SUBPOENAS IF THE HOUSE FLIPS (Nov 
+- `2026-08-27` [new-economy-regime.md:L4500](../new-economy-regime.md) — ⛔ CORRECTION 2026-08-27 ~8:35pm PDT (Jake, immediately): **HIS MARCH CALL WAS NOT ABOUT DISCLOSURES — IT WAS ABOUT THE STATE TAKING *SHARES IN THE ACT
+- `2026-08-27` [rates-board.md:L1411](../rates-board.md) — 2026-08-27 ~6:30am PDT — **CLAIMS: 203K vs 208Ke (4wk 205.5K) · CONTINUING −18K to ~1.78M — THE NO-HIRE/NO-FIRE SPLIT HOLDS ON BOTH LEGS: firing outri
+- `2026-08-27` [rates-board.md:L1424](../rates-board.md) — Addendum 2026-08-27 ~6:46am PDT — THURSDAY OPENING APPENDIX (the scan body re-ran Wednesday's; the appendix is the new data): **(1) 5Y CHARACTERIZATIO
+- `2026-08-27` [rates-board.md:L1426](../rates-board.md) — 2026-08-27 ~8:15am PDT — ⭐⭐⭐⭐⭐⭐ **BLOOMBERG CONFIRMS THE BOARD'S "ADMINISTERED 30Y" FINDING AS STREET CONSENSUS WITHIN 24 HOURS: BofA — "A NEW REGIME,
+- `2026-08-27` [rates-board.md:L1463](../rates-board.md) — 2026-08-27 ~10:30am PDT — ⚡ **BRANCH RESOLUTION, CALLED PER THE STANDING RULE: THE 7Y SCORES *ABSORPTION* ON JAKE'S RUBRIC — THE DURATION-COLLISION BR
+- `2026-08-27` [rates-board.md:L1491](../rates-board.md) — Addendum 2026-08-27 ~12:39pm PDT — ⭐⭐⭐⭐⭐ **THE COLLISION THESIS IN ONE CHART, IN THE RIGHT UNIT: UST + USD-IG ISSUANCE IN DV01 TERMS ($mn/bp), NET OF 
+- `2026-08-27` [rates-board.md:L1509](../rates-board.md) — 2026-08-27 ~8:20pm PDT — ⭐⭐⭐⭐⭐ **JACKSON HOLE EVE (Reuters/Derby): THE COMMITTEE IS SPLIT EXACTLY ALONG THE LEVEL-vs-PULSE LINE THIS BOARD DREW YESTER
+- `2026-08-28` [rates-board.md:L1544](../rates-board.md) — 2026-08-28 ~8:15am PDT — ⭐⭐⭐⭐⭐ **WARSH AT JACKSON HOLE (Jake's post-speech brief): A HAWK BLOC FORMS, SEPT HIKE ODDS 35%→46% — AND THE CURVE PRINTS TH
+- `2026-08-28` [rates-board.md:L1609](../rates-board.md) — Addendum 2026-08-28 ~9:35am PDT — ⛔⭐⭐⭐⭐ **JAKE'S TWO REFINEMENTS TO THE MORNING ENTRY, BOTH GRADED RIGHT — one relabels the regime claim, one CORRECTS
+- `2026-08-28` [rates-board.md:L1655](../rates-board.md) — 2026-08-28 ~1:50pm PDT — ⭐⭐⭐⭐⭐ **CLOSE (Warsh day, full scan): BEAR-FLATTENER CONFIRMED AT THE CLOSE — 2Y +14bp to 4.34 vs 30Y +3bp to 5.22 (2s30s 99→
+- `2026-08-29` [rates-board.md:L1712](../rates-board.md) — Addendum 2026-08-29 ~9:00am PDT — official Treasury close refinement (8/29 scan): **2Y 4.348% (+11.8bp) · 10Y 4.721%** (vs the close scan's 4.34/+14 —
+- `2026-08-30` [new-economy-regime.md:L4522](../new-economy-regime.md) — 2026-08-30 ~1:50pm PDT — ⭐⭐⭐ **"THE MOTHER OF ALL MEAN REVERSIONS" (ZH: Jefferies/LaFemina + UBS): GSCI-to-S&P ratio near its lowest in 5+ DECADES — f
+- `2026-08-30` [new-economy-regime.md:L4553](../new-economy-regime.md) — Addendum 2026-08-30 ~3:45pm PDT — ✔ **THE NUMERATOR CONFIRMS (Jake: "corroborates the numerator from earlier"): GSCI AGRICULTURE +11 consecutive sessi
+- `2026-08-30` [rates-board.md:L1714](../rates-board.md) — 2026-08-30 ~10:25am PDT — ⭐⭐⭐⭐⭐ **DRUCKENMILLER'S WARNING VIA ROBERTS/ZH (8/24 WSJ op-ed, reported 8/30 — archived `raw/2026-08-30-zh-roberts-druckenm
+- `2026-08-30` [rates-board.md:L1771](../rates-board.md) — Addendum 2026-08-30 ~1:55pm PDT — **the Druck PDF's charts, now rendered (poppler installed):** (1) the 1942-51 chart quantified — Fed's 2.5% ceiling 
+- `2026-08-31` [market-fragility.md:L4370](../market-fragility.md) — 2026-08-31 ~4:15pm PDT — ⭐⭐⭐⭐ **RECORD DISPERSION (Jake's paste): median 63-day stock-to-index correlation +0.10 — LOWEST ON RECORD (prior record +0.1
+- `2026-08-31` [new-economy-regime.md:L4572](../new-economy-regime.md) — Addendum 2026-08-31 ~9:40am PDT — **THE INDUSTRY COUNTER-MOBILIZES (8/31 scan): a pro-AI advocacy group launches a $50M campaign starting in KANSAS, O
+- `2026-08-31` [new-economy-regime.md:L4574](../new-economy-regime.md) — 2026-08-31 ~9:45am PDT — ⭐⭐⭐⭐ **BESSENT'S G20 (ZH fetch, Jake's pointer): "the world cannot have a China with a $1.2 TRILLION trade surplus" — G20 fin
+- `2026-08-31` [new-economy-regime.md:L4617](../new-economy-regime.md) — Addendum 2026-08-31 ~9:50am PDT — ⟲⭐⭐⭐⭐ **JAKE'S STANDING CALL, CREDITED (pre-repo, ~January): he read the TWO-OCEAN CHINA SQUEEZE at the time of the 
+- `2026-08-31` [new-economy-regime.md:L4636](../new-economy-regime.md) — Addendum 2026-08-31 ~9:55am PDT — ⟲⭐⭐⭐⭐⭐ **THE FULL PRE-REPO BACKFILL (Jake's project-space summary, memory current to ~late June, written Aug 4): THE
+- `2026-08-31` [new-economy-regime.md:L4675](../new-economy-regime.md) — Addendum 2026-08-31 ~10:05am PDT — ⭐⭐⭐⭐ **THE TETHER RE-UNDERWRITTEN FOR THE AUGUST WORLD (Jake: the thesis predates the open-source/token war, the ra
+- `2026-08-31` [new-economy-regime.md:L4707](../new-economy-regime.md) — 2026-08-31 ~12:35pm PDT — ⭐⭐⭐⭐⭐ **CLASS B INHERITED-STATE (project-gopher second pass — the fiscal/legal/monetary/tech-policy stack, Feb-July; rung: p
+- `2026-08-31` [rates-board.md:L1773](../rates-board.md) — 2026-08-31 ~7:20am PDT — ⭐⭐⭐⭐⭐ **OPENING SCAN (Mon 8/31): THE STRUCTURE PIVOTS — Friday's bear-flattener becomes a WAR-PREMIUM STEEPENER. 2Y −1.3bp (4
+- `2026-08-31` [rates-board.md:L1821](../rates-board.md) — Addendum 2026-08-31 ~9:42am PDT — **the week's catalyst calendar + a discriminator adopted (Jake's brief):** JOLTS Tue 10:00 ET · **payrolls Fri 8:30 
+- `2026-08-31` [rates-board.md:L1823](../rates-board.md) — 2026-08-31 ~1:25pm PDT — ⭐⭐⭐⭐⭐ **MONDAY CLOSE (8/31 scan tail; the pasted top = Friday's close, already filed): THE 30Y CLOSES AT 5.25 OFFICIAL / 5.24
+- `2026-08-31` [rates-board.md:L1855](../rates-board.md) — Addendum 2026-08-31 ~5:45pm PDT — ⭐⭐⭐⭐ **BESSENT TELLS JAPAN RATE HIKES ARE NEEDED (NHK, wire via Jake) — the Treasury Secretary lobbying the BoJ to h
+- `2026-08-31` [rates-board.md:L1868](../rates-board.md) — 2026-08-31 ~7:10pm PDT — ⭐⭐⭐⭐⭐ **THE BIND GOES GLOBAL (Jake's compiled global-yields brief, source-dated 8/31, pasted ~7:00pm): a SYNCHRONIZED develop
+- `2026-08-31` [rates-board.md:L1869](../rates-board.md) — DATA (Jake's brief, `raw/2026-08-31-global-bond-yields.txt`; source links per country in the raw file)
+- `2026-08-31` [rates-board.md:L1883](../rates-board.md) — Addendum 2026-08-31 ~7:12pm PDT — **THE CONFIRMATION SEQUENCE GAINS A GLOBAL RING (extends the adopted ladder — additions, not replacements):** alongs

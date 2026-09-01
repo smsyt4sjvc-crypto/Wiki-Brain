@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **433 dated entries across 4 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
+> **459 dated entries across 4 notes · 2026-05-22 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -450,8 +450,34 @@
 - `2026-08-25` [metered-compute.md:L2975](../metered-compute.md) — 2026-08-25 ~10:50pm PDT — ★★★★★ **THE RAMP MODEL-MIX CHART (FT): THE ROUTING THESIS SHOWS UP IN THE #1 LAB'S OWN REVENUE MIX — AND THE CHART'S BIGGEST
 - `2026-08-26` [ai-capex-cycle.md:L3422](../ai-capex-cycle.md) — 2026-08-26 ~3:55pm PDT — ⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 — THE DEMAND HALF: $96.2B (+4.3% beat, +106% y/y) · DC $89.0B · Q3 GUIDE $108B (+3.7% over street) · AN
 - `2026-08-26` [ai-capex-cycle.md:L3446](../ai-capex-cycle.md) — Addendum 2026-08-26 ~7:12pm PDT — ⭐⭐⭐⭐⭐⭐ **CALL FOLLOW-THROUGH, AND JAKE NAMES THE NEW PIECE CORRECTLY: 70% FY28 IS THE *SUPPLY* NUMBER — CUSTOMER FOR
+- `2026-08-26` [ai-capex-cycle.md:L3467](../ai-capex-cycle.md) — Addendum 2026-08-26 ~8:13pm PDT — **AWS DECOMPOSITION + TAPE:** the +2M GPUs are INCREMENTAL to a prior 1M+ AWS plan starting 2026 — the publicly disc
 - `2026-08-26` [ai-financing-fragility.md:L7295](../ai-financing-fragility.md) — 2026-08-26 ~4:20pm PDT — ⭐⭐⭐⭐⭐ **ANTHROPIC × NSCALE WEST VIRGINIA: $45B / 6 YEARS FOR 460MW OF VERA RUBIN — AND THE ARITHMETIC MAKES IT A FINANCING ST
+- `2026-08-26` [ai-financing-fragility.md:L7334](../ai-financing-fragility.md) — 2026-08-26 ~9:45pm PDT — ⭐⭐⭐⭐⭐ **JAKE COMPLETES HIS 8/24 POLICY-PUT QUESTION INTO A FULL DESIGN: A TREASURY-DEMAND STABILIZER SPV — pre-designated IG 
+- `2026-08-26` [ai-financing-fragility.md:L7390](../ai-financing-fragility.md) — Addendum 2026-08-26 ~9:52pm PDT — **JAKE'S REFINEMENT FLIPS THE CDS LEG AND DISSOLVES COUNTER #1: TREASURY IS THE PROTECTION WRITER, NOT THE BUYER — i
+- `2026-08-26` [ai-financing-fragility.md:L7417](../ai-financing-fragility.md) — Addendum 2026-08-26 ~10:00pm PDT — **JAKE'S SECOND REFINEMENT: THE HEDGE LEG'S CONVEXITY *IS* THE WAR CHEST — as spreads widen the protection leg gain
 - `2026-08-26` [compression-thesis.md:L2754](../compression-thesis.md) — 2026-08-26 ~9:10am PDT — ⭐⭐⭐ **EXPORT-CONTROL ENFORCEMENT GOES FROM HYPOTHETICAL TO INDICTMENT: TAIWAN PROSECUTORS CHARGE 9 — INCLUDING AN NVDA TAIWAN
 - `2026-08-26` [metered-compute.md:L3034](../metered-compute.md) — 2026-08-26 ~5:40pm PDT — ⭐⭐⭐⭐⭐ **"NVIDIA IN TALKS TO BUY HUGGING FACE FOR OVER $13B" (single-outlet INSIDER sourcing, TALKS-stage, no terms — REPORTED
 - `2026-08-26` [metered-compute.md:L3068](../metered-compute.md) — ⛔ CORRECTION 2026-08-26 ~7:05pm PDT (Jake's catch, within the hour) — **THE 5:40pm ENTRY CONFLATED TWO DOCUMENTS FROM THE SAME JULY WEEK, AND THE CORR
 - `2026-08-26` [metered-compute.md:L3087](../metered-compute.md) — Addendum 2026-08-26 ~7:08pm PDT — **THE PRIMARY ARTIFACT ARRIVES (Jake): Huang's 7/24 post — HIS FIRST EVER TWEET — sharing the letter. 66M views/173K
+- `2026-08-27` [ai-capex-cycle.md:L3469](../ai-capex-cycle.md) — 2026-08-27 ~3:10pm PDT — ⭐⭐⭐⭐⭐ **MRVL: THE DEMAND RATCHET CONTINUES — $2.739B (+37% y/y), DC $2.172B (+46% y/y, 79% of company), Q3 guide $3.15B (+15%
+- `2026-08-27` [ai-capex-cycle.md:L3482](../ai-capex-cycle.md) — Addendum 2026-08-27 ~4:09pm PDT — ⭐⭐⭐⭐ **THE MACRO-SHARE DATUM: HIGH-TECH CAPEX (equipment + software + R&D) = 55.2% OF TOTAL US NOMINAL CAPITAL SPEND
+- `2026-08-27` [ai-financing-fragility.md:L7436](../ai-financing-fragility.md) — 2026-08-27 ~3:12pm PDT — ⛔⛔⭐⭐⭐⭐⭐ **IREN: THE PERIPHERY'S FINANCING MECHANICS IN FULL DAYLIGHT — Jake's line adopted as the entry's frame: "DEMAND ITSE
+- `2026-08-27` [compression-thesis.md:L2765](../compression-thesis.md) — 2026-08-27 ~8:00am PDT — ⭐⭐⭐⭐⭐ **GLM-5.3-FLASH (Zhipu/Z.ai, vendor announcement): 320B total / 18B ACTIVE, "one-tenth the price" of GLM-5.2, "APPROACH
+- `2026-08-27` [compression-thesis.md:L2794](../compression-thesis.md) — 2026-08-27 ~1:00pm PDT — ⭐⭐⭐⭐⭐ **TAPE-CONFIRMED (Yahoo, 3:57pm ET, header-reconciled ✓): SOFTWARE IS REPRICING VIOLENTLY — CRM +23.3% ($205.62→$253.50
+- `2026-08-27` [compression-thesis.md:L2818](../compression-thesis.md) — Addendum 2026-08-27 ~2:55pm PDT — **CONFIRMATION #2, per Jake: OKTA +31% — a SECOND software name, in a DIFFERENT sub-sector (identity/security vs CRM
+- `2026-08-27` [compression-thesis.md:L2820](../compression-thesis.md) — Addendum 2026-08-27 ~3:20pm PDT — **JAKE REFRAMES THE SOFTWARE BREAKOUT AND HIS FRAME IS BETTER SUPPORTED BY THE WEEK'S DATA: "ACCUMULATION SIGNAL. So
+- `2026-08-27` [compression-thesis.md:L2831](../compression-thesis.md) — 2026-08-27 ~8:10pm PDT — ⭐⭐⭐⭐⭐⭐ **THE ANTHROPIC BLACKLIST FALLS: JUDGE RITA LIN (N.D. Cal.) VACATES THE PENTAGON'S SUPPLY-CHAIN-RISK DESIGNATION — FIR
+- `2026-08-27` [metered-compute.md:L3089](../metered-compute.md) — 2026-08-27 ~9:15pm PDT — ⭐⭐⭐⭐ **THE TRIANGLE CLOSES: NVDA–NOW–HUGGING FACE (Jake's chain). The vault held two edges — the 7/25 sandwich topology (NVDA
+- `2026-08-28` [ai-capex-cycle.md:L3500](../ai-capex-cycle.md) — Addendum 2026-08-28 ~9:50am PDT — **MRVL: the selloff's stated cause CONFIRMS the filed structure rather than contradicting it.** Scan detail: managem
+- `2026-08-28` [ai-financing-fragility.md:L7467](../ai-financing-fragility.md) — Addendum 2026-08-28 ~9:50am PDT — ⭐⭐⭐⭐ **IREN RESULTS + FINANCING STACK (8/28 scan): the GPU-financing rate ladder prints INSIDE ONE ISSUER — $3.6B in
+- `2026-08-28` [compression-thesis.md:L2859](../compression-thesis.md) — Addendum 2026-08-28 ~9:40am PDT — **SOFTWARE TEST #3 (WDAY): PASSED, softly.** Beat on adj-EPS + revenue; **AI >25% of new ACV** (the accumulation sig
+- `2026-08-28` [metered-compute.md:L3150](../metered-compute.md) — 2026-08-28 ~7:35pm PDT — ⭐⭐⭐⭐ **OPENAI CUTS CURSOR OFF (statement via Jake, "the petty"): partnership ends following CURSOR'S ACQUISITION BY SPACEX; "
+- `2026-08-28` [metered-compute.md:L3182](../metered-compute.md) — Addendum 2026-08-28 ~7:35pm PDT (full statement, same hour) — **THE FULL TEXT UPGRADES THE READ THREE WAYS: it's a CHANGE-OF-CONTROL clause exercised 
+- `2026-08-29` [ai-capex-cycle.md:L3502](../ai-capex-cycle.md) — Addendum 2026-08-29 ~8:57am PDT — ⭐⭐⭐⭐ **MRVL 10-Q (8/28): foundry/test purchase commitments $2.757B → $8.519B (+209% q/q, +$5.76B), capex commitments
+- `2026-08-29` [ai-financing-fragility.md:L7498](../ai-financing-fragility.md) — 2026-08-29 ~8:55am PDT — ⭐⭐⭐⭐⭐ **IREN 10-K (SEC-filed, 8/29 scan): THE PERIPHERY CONSOLIDATES ITS SPV WHILE THE CORE DOESN'T — IE US Hardware 3 LLC (t
+- `2026-08-30` [ai-financing-fragility.md:L7540](../ai-financing-fragility.md) — 2026-08-30 ~10:05am PDT — ⭐⭐⭐⭐⭐ **JAKE'S QUESTION — "are they taking profits and GTFO while they can?" — ANSWERED WITH THE STACK-POSITION FRAME: the a
+- `2026-08-31` [ai-capex-cycle.md:L3504](../ai-capex-cycle.md) — Addendum 2026-08-31 ~9:37am PDT — **AMD/HUMAIN goes LIVE (company-confirmed): MI355X/EPYC in production serving Saudi customers NOW; next phase up to 
+- `2026-08-31` [ai-financing-fragility.md:L7615](../ai-financing-fragility.md) — Addendum 2026-08-31 ~12:38pm PDT — **the conveyor gains its RETIREMENT LEG and a hidden-leverage flag (Class B sweep, [[new-economy-regime]] 8/31): EO
+- `2026-08-31` [ai-financing-fragility.md:L7617](../ai-financing-fragility.md) — Addendum 2026-08-31 ~1:28pm PDT — ⭐⭐⭐⭐ **LAMBDA'S $926M GPU-BACKED SPV TERM LOAN B (8/31 scan tail): the first INVESTMENT-GRADE-RATED (Baa2) GPU-colla
+- `2026-08-31` [metered-compute.md:L3212](../metered-compute.md) — 2026-08-31 ~9:35am PDT — ⭐⭐⭐⭐⭐ **TOKEN-ECONOMICS WEEKLY (Jake's brief, sources verified per-item): THE BARBELL CONFIRMS IN PRODUCTION DATA — Vercel Ju
+- `2026-08-31` [metered-compute.md:L3270](../metered-compute.md) — Addendum 2026-08-31 ~6:55pm PDT — **THE TOKEN INDEX BREAKS TO A RECORD LOW: Silicon Data LLM Token Expenditure Index 1.0018** (chart archived `raw/202

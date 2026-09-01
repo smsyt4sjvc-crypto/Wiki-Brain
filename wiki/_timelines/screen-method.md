@@ -1,6 +1,6 @@
 # ⏱ SCREEN-METHOD — merged timeline (the gate)
 
-> **144 dated entries across 5 notes · 2026-07-01 → 2026-08-21 · refreshed 2026-08-26 19:51 PDT**
+> **145 dated entries across 5 notes · 2026-07-01 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -160,3 +160,4 @@
 - `2026-08-19` [quiet-health-screen.md:L137](../quiet-health-screen.md) — 2026-08-19 ~10:10am PDT — ⭐⭐⭐⭐ **MODERNA +125% ON A PHASE 3 CANCER-VACCINE READOUT, AND THE VAULT-RELEVANT FINDING IS NOT MODERNA: ⛔ IT CONTAMINATES T
 - `2026-08-19` [quiet-health-screen.md:L144](../quiet-health-screen.md) — DATA (MEASURED — live tape 2026-08-19 ~10:08am PDT vs 8/18 close)
 - `2026-08-21` [market-fragility.md:L4311](../market-fragility.md) — 2026-08-21 ~10:45am PDT — ⭐⭐⭐⭐⭐ **THE FMS CASH LEVEL IS THE LOAD-BEARING NUMBER, NOT THE 8.0 SENTIMENT READING — AND IT IS A *CLEANER* INSTRUMENT THAN
+- `2026-08-31` [market-fragility.md:L4370](../market-fragility.md) — 2026-08-31 ~4:15pm PDT — ⭐⭐⭐⭐ **RECORD DISPERSION (Jake's paste): median 63-day stock-to-index correlation +0.10 — LOWEST ON RECORD (prior record +0.1

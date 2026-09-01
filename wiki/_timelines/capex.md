@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **121 dated entries across 3 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
+> **137 dated entries across 3 notes · 2026-05-22 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -138,8 +138,24 @@
 - `2026-08-25` [balance-sheet-board.md:L389](../balance-sheet-board.md) — 2026-08-25 ~11:40pm PDT — ⛔⛔⛔ **THE MSFT "CLEAN ONE" LABEL GETS ITS OPTICS LEVER: EXTENDING DATA-CENTER USEFUL LIVES 15→25 YEARS FLIPS THE NEW-LEASE P
 - `2026-08-26` [ai-capex-cycle.md:L3422](../ai-capex-cycle.md) — 2026-08-26 ~3:55pm PDT — ⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 — THE DEMAND HALF: $96.2B (+4.3% beat, +106% y/y) · DC $89.0B · Q3 GUIDE $108B (+3.7% over street) · AN
 - `2026-08-26` [ai-capex-cycle.md:L3446](../ai-capex-cycle.md) — Addendum 2026-08-26 ~7:12pm PDT — ⭐⭐⭐⭐⭐⭐ **CALL FOLLOW-THROUGH, AND JAKE NAMES THE NEW PIECE CORRECTLY: 70% FY28 IS THE *SUPPLY* NUMBER — CUSTOMER FOR
+- `2026-08-26` [ai-capex-cycle.md:L3467](../ai-capex-cycle.md) — Addendum 2026-08-26 ~8:13pm PDT — **AWS DECOMPOSITION + TAPE:** the +2M GPUs are INCREMENTAL to a prior 1M+ AWS plan starting 2026 — the publicly disc
 - `2026-08-26` [balance-sheet-board.md:L448](../balance-sheet-board.md) — 2026-08-26 ~9:05am PDT — ⭐⭐⭐⭐⭐ **NVDA JOINS THE MONITOR AS THE SIXTH NAME — THE VENDOR WING: MORGAN STANLEY (via FT) SIZES "BALANCE-SHEET-AS-A-SERVICE
 - `2026-08-26` [balance-sheet-board.md:L470](../balance-sheet-board.md) — 2026-08-26 ~3:45pm PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 10-Q: THE VENDOR WING CONVERTS FROM ANALYST ESTIMATE TO IN-A-FILING IN ONE DAY — MAX GUARANTEES $108
 - `2026-08-26` [balance-sheet-board.md:L549](../balance-sheet-board.md) — Addendum 2026-08-26 ~4:30pm PDT — SOURCE ATTRIBUTION CONFIRMED (gopher appendix): reported figures/platform breakdown/DSO/cash flow/commitments = NVDA
 - `2026-08-26` [balance-sheet-board.md:L551](../balance-sheet-board.md) — Addendum 2026-08-26 ~7:14pm PDT — ⛔⭐⭐⭐⭐⭐ **THE VENDOR WING GROWS AN ASSET-MANAGEMENT ARM: NVDA PARTNERS WITH APOLLO · BLACKROCK · BLACKSTONE · BROOKFI
 - `2026-08-26` [cepi.md:L530](../cepi.md) — Addendum 2026-08-26 ~4:05pm PDT — ⛔⭐⭐⭐⭐ **NVDA Q2: THE QUALITY-OF-EARNINGS SPLIT'S FIRST READING — $7.8B EQUITY-MARK GAINS = 13.1% OF GAAP NI (GAAP EP
+- `2026-08-27` [ai-capex-cycle.md:L3469](../ai-capex-cycle.md) — 2026-08-27 ~3:10pm PDT — ⭐⭐⭐⭐⭐ **MRVL: THE DEMAND RATCHET CONTINUES — $2.739B (+37% y/y), DC $2.172B (+46% y/y, 79% of company), Q3 guide $3.15B (+15%
+- `2026-08-27` [ai-capex-cycle.md:L3482](../ai-capex-cycle.md) — Addendum 2026-08-27 ~4:09pm PDT — ⭐⭐⭐⭐ **THE MACRO-SHARE DATUM: HIGH-TECH CAPEX (equipment + software + R&D) = 55.2% OF TOTAL US NOMINAL CAPITAL SPEND
+- `2026-08-27` [balance-sheet-board.md:L571](../balance-sheet-board.md) — Addendum 2026-08-27 ~6:48am PDT — ⭐⭐⭐⭐ **COREWEAVE JOINS THE MONITOR — THE PERIPHERY WING: Q2 filing shows commitments to TWO unconsolidated DC-develo
+- `2026-08-27` [balance-sheet-board.md:L582](../balance-sheet-board.md) — Addendum 2026-08-27 ~9:25pm PDT — ⭐⭐⭐⭐ **THE BACKSTOP BOOK GETS TERMS, THEN GETS PAUSED (Jake's brief, rung REPORTED): under some AI-cloud arrangement
+- `2026-08-28` [ai-capex-cycle.md:L3500](../ai-capex-cycle.md) — Addendum 2026-08-28 ~9:50am PDT — **MRVL: the selloff's stated cause CONFIRMS the filed structure rather than contradicting it.** Scan detail: managem
+- `2026-08-28` [balance-sheet-board.md:L636](../balance-sheet-board.md) — Addendum 2026-08-28 ~9:52am PDT — **The 8/28 holdings scan independently re-derives the 8/26 in-filing entry from the 10-Q** ("newly surfaced" on the 
+- `2026-08-28` [balance-sheet-board.md:L638](../balance-sheet-board.md) — Addendum 2026-08-28 ~1:55pm PDT — ✔⭐⭐⭐ **THE PAUSE GETS ITS SECOND SOURCE AND ITS NAME (close scan): WSJ — NVDA paused revenue-sharing arrangements un
+- `2026-08-29` [ai-capex-cycle.md:L3502](../ai-capex-cycle.md) — Addendum 2026-08-29 ~8:57am PDT — ⭐⭐⭐⭐ **MRVL 10-Q (8/28): foundry/test purchase commitments $2.757B → $8.519B (+209% q/q, +$5.76B), capex commitments
+- `2026-08-30` [cepi.md:L539](../cepi.md) — 2026-08-30 ~4:15pm PDT — ⭐⭐⭐⭐⭐ **THE SCISSORS CHART (Jake: "FCF" — archived `raw/2026-08-30-hyperscaler-ni-vs-fcf-scissors-chart.png`, source ⬜ unattr
+- `2026-08-31` [ai-capex-cycle.md:L3504](../ai-capex-cycle.md) — Addendum 2026-08-31 ~9:37am PDT — **AMD/HUMAIN goes LIVE (company-confirmed): MI355X/EPYC in production serving Saudi customers NOW; next phase up to 
+- `2026-08-31` [balance-sheet-board.md:L666](../balance-sheet-board.md) — Addendum 2026-08-31 ~7:25am PDT — **8/31 opening scan's monitor pass: the NVDA block = the vault's 8/26 entry finally reaching the scan's own monitor 
+- `2026-08-31` [balance-sheet-board.md:L684](../balance-sheet-board.md) — Addendum 2026-08-31 ~9:35am PDT — ⭐⭐⭐⭐ **THE VENDOR-BANK OPENS A CONVERTIBLE DESK (8/31 scan, company-confirmed): NVDA invests $3.5B in MEDIATEK CONVE
+- `2026-08-31` [balance-sheet-board.md:L705](../balance-sheet-board.md) — Addendum 2026-08-31 ~9:40am PDT — ⭐⭐⭐⭐⭐ **THE TENANT GETS PAID IN EQUITY (WSJ via Jake's brief): SB ENERGY OFFERED OPENAI ~$5.5B OF WARRANTS to secure
+- `2026-08-31` [balance-sheet-board.md:L724](../balance-sheet-board.md) — Addendum 2026-08-31 ~12:40pm PDT — **the Musk-complex monitor gets its BIRTH CERTIFICATE (Class B sweep): SpaceX/xAI consolidated FEB 2, 2026 — ~$1.25
+- `2026-08-31` [balance-sheet-board.md:L726](../balance-sheet-board.md) — Addendum 2026-08-31 ~1:30pm PDT — **two monitor items from the 8/31 close scan:** (1) **EL PASO QUANTIFIED: BlackRock funds 80% / META 20% · ~$14B pro

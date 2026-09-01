@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **245 dated entries across 6 notes · 2026-05-22 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
+> **283 dated entries across 6 notes · 2026-05-22 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -257,6 +257,9 @@
 - `2026-08-25` [rates-board.md:L1168](../rates-board.md) — 2026-08-25 ~2:10pm PDT — ✅✅ **THE BOND SCAN (8/25 close) ARRIVES AND CLOSES LAST NIGHT'S FLAG #1 EIGHTEEN HOURS AFTER REGISTRATION: AUCTION INTERNALS 
 - `2026-08-25` [rates-board.md:L1226](../rates-board.md) — Addendum 2026-08-25 ~2:35pm PDT — ✅ **RUNG UPGRADE: every block of the 8/25 scan now traces to a named primary, and the numbers came back IDENTICAL.**
 - `2026-08-26` [ai-financing-fragility.md:L7295](../ai-financing-fragility.md) — 2026-08-26 ~4:20pm PDT — ⭐⭐⭐⭐⭐ **ANTHROPIC × NSCALE WEST VIRGINIA: $45B / 6 YEARS FOR 460MW OF VERA RUBIN — AND THE ARITHMETIC MAKES IT A FINANCING ST
+- `2026-08-26` [ai-financing-fragility.md:L7334](../ai-financing-fragility.md) — 2026-08-26 ~9:45pm PDT — ⭐⭐⭐⭐⭐ **JAKE COMPLETES HIS 8/24 POLICY-PUT QUESTION INTO A FULL DESIGN: A TREASURY-DEMAND STABILIZER SPV — pre-designated IG 
+- `2026-08-26` [ai-financing-fragility.md:L7390](../ai-financing-fragility.md) — Addendum 2026-08-26 ~9:52pm PDT — **JAKE'S REFINEMENT FLIPS THE CDS LEG AND DISSOLVES COUNTER #1: TREASURY IS THE PROTECTION WRITER, NOT THE BUYER — i
+- `2026-08-26` [ai-financing-fragility.md:L7417](../ai-financing-fragility.md) — Addendum 2026-08-26 ~10:00pm PDT — **JAKE'S SECOND REFINEMENT: THE HEDGE LEG'S CONVEXITY *IS* THE WAR CHEST — as spreads widen the protection leg gain
 - `2026-08-26` [balance-sheet-board.md:L448](../balance-sheet-board.md) — 2026-08-26 ~9:05am PDT — ⭐⭐⭐⭐⭐ **NVDA JOINS THE MONITOR AS THE SIXTH NAME — THE VENDOR WING: MORGAN STANLEY (via FT) SIZES "BALANCE-SHEET-AS-A-SERVICE
 - `2026-08-26` [balance-sheet-board.md:L470](../balance-sheet-board.md) — 2026-08-26 ~3:45pm PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐ **NVDA Q2 FY27 10-Q: THE VENDOR WING CONVERTS FROM ANALYST ESTIMATE TO IN-A-FILING IN ONE DAY — MAX GUARANTEES $108
 - `2026-08-26` [balance-sheet-board.md:L549](../balance-sheet-board.md) — Addendum 2026-08-26 ~4:30pm PDT — SOURCE ATTRIBUTION CONFIRMED (gopher appendix): reported figures/platform breakdown/DSO/cash flow/commitments = NVDA
@@ -267,3 +270,38 @@
 - `2026-08-26` [rates-board.md:L1360](../rates-board.md) — Addendum 2026-08-26 ~11:35am PDT — NEW HOME SALES −10.5% MoM (607k SAAR): ⚠️ **THE HEADLINE IS HUGE; THE SINGLE MONTH IS NOT TRUSTWORTHY — this Census
 - `2026-08-26` [rates-board.md:L1368](../rates-board.md) — 2026-08-26 ~1:20pm PDT — CLOSE SCAN (3:30pm ET curve) — ⭐⭐⭐⭐⭐ **THE 5Y INTERNALS LAND MID, NOT WEAK: 4.393% stop, +0.2bp TAIL, 2.37x, INDIRECTS 61.51%
 - `2026-08-26` [rates-board.md:L1407](../rates-board.md) — Addendum 2026-08-26 ~4:42pm PDT — **THE 7Y COLLISION RUBRIC (Jake's, adopted verbatim as the branch's quantitative bar).** Benchmarks: July 7Y = 0.2bp
+- `2026-08-26` [rates-board.md:L1409](../rates-board.md) — Addendum 2026-08-26 ~8:20pm PDT — **CONSUMER CONFIDENCE DETAIL (Conference Board, Aug): the −0.8 headline (89.4) hides the real move — EXPECTATIONS −5
+- `2026-08-27` [ai-financing-fragility.md:L7436](../ai-financing-fragility.md) — 2026-08-27 ~3:12pm PDT — ⛔⛔⭐⭐⭐⭐⭐ **IREN: THE PERIPHERY'S FINANCING MECHANICS IN FULL DAYLIGHT — Jake's line adopted as the entry's frame: "DEMAND ITSE
+- `2026-08-27` [balance-sheet-board.md:L571](../balance-sheet-board.md) — Addendum 2026-08-27 ~6:48am PDT — ⭐⭐⭐⭐ **COREWEAVE JOINS THE MONITOR — THE PERIPHERY WING: Q2 filing shows commitments to TWO unconsolidated DC-develo
+- `2026-08-27` [balance-sheet-board.md:L582](../balance-sheet-board.md) — Addendum 2026-08-27 ~9:25pm PDT — ⭐⭐⭐⭐ **THE BACKSTOP BOOK GETS TERMS, THEN GETS PAUSED (Jake's brief, rung REPORTED): under some AI-cloud arrangement
+- `2026-08-27` [rates-board.md:L1411](../rates-board.md) — 2026-08-27 ~6:30am PDT — **CLAIMS: 203K vs 208Ke (4wk 205.5K) · CONTINUING −18K to ~1.78M — THE NO-HIRE/NO-FIRE SPLIT HOLDS ON BOTH LEGS: firing outri
+- `2026-08-27` [rates-board.md:L1424](../rates-board.md) — Addendum 2026-08-27 ~6:46am PDT — THURSDAY OPENING APPENDIX (the scan body re-ran Wednesday's; the appendix is the new data): **(1) 5Y CHARACTERIZATIO
+- `2026-08-27` [rates-board.md:L1426](../rates-board.md) — 2026-08-27 ~8:15am PDT — ⭐⭐⭐⭐⭐⭐ **BLOOMBERG CONFIRMS THE BOARD'S "ADMINISTERED 30Y" FINDING AS STREET CONSENSUS WITHIN 24 HOURS: BofA — "A NEW REGIME,
+- `2026-08-27` [rates-board.md:L1463](../rates-board.md) — 2026-08-27 ~10:30am PDT — ⚡ **BRANCH RESOLUTION, CALLED PER THE STANDING RULE: THE 7Y SCORES *ABSORPTION* ON JAKE'S RUBRIC — THE DURATION-COLLISION BR
+- `2026-08-27` [rates-board.md:L1491](../rates-board.md) — Addendum 2026-08-27 ~12:39pm PDT — ⭐⭐⭐⭐⭐ **THE COLLISION THESIS IN ONE CHART, IN THE RIGHT UNIT: UST + USD-IG ISSUANCE IN DV01 TERMS ($mn/bp), NET OF 
+- `2026-08-27` [rates-board.md:L1509](../rates-board.md) — 2026-08-27 ~8:20pm PDT — ⭐⭐⭐⭐⭐ **JACKSON HOLE EVE (Reuters/Derby): THE COMMITTEE IS SPLIT EXACTLY ALONG THE LEVEL-vs-PULSE LINE THIS BOARD DREW YESTER
+- `2026-08-28` [ai-financing-fragility.md:L7467](../ai-financing-fragility.md) — Addendum 2026-08-28 ~9:50am PDT — ⭐⭐⭐⭐ **IREN RESULTS + FINANCING STACK (8/28 scan): the GPU-financing rate ladder prints INSIDE ONE ISSUER — $3.6B in
+- `2026-08-28` [balance-sheet-board.md:L636](../balance-sheet-board.md) — Addendum 2026-08-28 ~9:52am PDT — **The 8/28 holdings scan independently re-derives the 8/26 in-filing entry from the 10-Q** ("newly surfaced" on the 
+- `2026-08-28` [balance-sheet-board.md:L638](../balance-sheet-board.md) — Addendum 2026-08-28 ~1:55pm PDT — ✔⭐⭐⭐ **THE PAUSE GETS ITS SECOND SOURCE AND ITS NAME (close scan): WSJ — NVDA paused revenue-sharing arrangements un
+- `2026-08-28` [rates-board.md:L1544](../rates-board.md) — 2026-08-28 ~8:15am PDT — ⭐⭐⭐⭐⭐ **WARSH AT JACKSON HOLE (Jake's post-speech brief): A HAWK BLOC FORMS, SEPT HIKE ODDS 35%→46% — AND THE CURVE PRINTS TH
+- `2026-08-28` [rates-board.md:L1609](../rates-board.md) — Addendum 2026-08-28 ~9:35am PDT — ⛔⭐⭐⭐⭐ **JAKE'S TWO REFINEMENTS TO THE MORNING ENTRY, BOTH GRADED RIGHT — one relabels the regime claim, one CORRECTS
+- `2026-08-28` [rates-board.md:L1655](../rates-board.md) — 2026-08-28 ~1:50pm PDT — ⭐⭐⭐⭐⭐ **CLOSE (Warsh day, full scan): BEAR-FLATTENER CONFIRMED AT THE CLOSE — 2Y +14bp to 4.34 vs 30Y +3bp to 5.22 (2s30s 99→
+- `2026-08-29` [ai-financing-fragility.md:L7498](../ai-financing-fragility.md) — 2026-08-29 ~8:55am PDT — ⭐⭐⭐⭐⭐ **IREN 10-K (SEC-filed, 8/29 scan): THE PERIPHERY CONSOLIDATES ITS SPV WHILE THE CORE DOESN'T — IE US Hardware 3 LLC (t
+- `2026-08-29` [rates-board.md:L1712](../rates-board.md) — Addendum 2026-08-29 ~9:00am PDT — official Treasury close refinement (8/29 scan): **2Y 4.348% (+11.8bp) · 10Y 4.721%** (vs the close scan's 4.34/+14 —
+- `2026-08-30` [ai-financing-fragility.md:L7540](../ai-financing-fragility.md) — 2026-08-30 ~10:05am PDT — ⭐⭐⭐⭐⭐ **JAKE'S QUESTION — "are they taking profits and GTFO while they can?" — ANSWERED WITH THE STACK-POSITION FRAME: the a
+- `2026-08-30` [rates-board.md:L1714](../rates-board.md) — 2026-08-30 ~10:25am PDT — ⭐⭐⭐⭐⭐ **DRUCKENMILLER'S WARNING VIA ROBERTS/ZH (8/24 WSJ op-ed, reported 8/30 — archived `raw/2026-08-30-zh-roberts-druckenm
+- `2026-08-30` [rates-board.md:L1771](../rates-board.md) — Addendum 2026-08-30 ~1:55pm PDT — **the Druck PDF's charts, now rendered (poppler installed):** (1) the 1942-51 chart quantified — Fed's 2.5% ceiling 
+- `2026-08-31` [ai-financing-fragility.md:L7615](../ai-financing-fragility.md) — Addendum 2026-08-31 ~12:38pm PDT — **the conveyor gains its RETIREMENT LEG and a hidden-leverage flag (Class B sweep, [[new-economy-regime]] 8/31): EO
+- `2026-08-31` [ai-financing-fragility.md:L7617](../ai-financing-fragility.md) — Addendum 2026-08-31 ~1:28pm PDT — ⭐⭐⭐⭐ **LAMBDA'S $926M GPU-BACKED SPV TERM LOAN B (8/31 scan tail): the first INVESTMENT-GRADE-RATED (Baa2) GPU-colla
+- `2026-08-31` [balance-sheet-board.md:L666](../balance-sheet-board.md) — Addendum 2026-08-31 ~7:25am PDT — **8/31 opening scan's monitor pass: the NVDA block = the vault's 8/26 entry finally reaching the scan's own monitor 
+- `2026-08-31` [balance-sheet-board.md:L684](../balance-sheet-board.md) — Addendum 2026-08-31 ~9:35am PDT — ⭐⭐⭐⭐ **THE VENDOR-BANK OPENS A CONVERTIBLE DESK (8/31 scan, company-confirmed): NVDA invests $3.5B in MEDIATEK CONVE
+- `2026-08-31` [balance-sheet-board.md:L705](../balance-sheet-board.md) — Addendum 2026-08-31 ~9:40am PDT — ⭐⭐⭐⭐⭐ **THE TENANT GETS PAID IN EQUITY (WSJ via Jake's brief): SB ENERGY OFFERED OPENAI ~$5.5B OF WARRANTS to secure
+- `2026-08-31` [balance-sheet-board.md:L724](../balance-sheet-board.md) — Addendum 2026-08-31 ~12:40pm PDT — **the Musk-complex monitor gets its BIRTH CERTIFICATE (Class B sweep): SpaceX/xAI consolidated FEB 2, 2026 — ~$1.25
+- `2026-08-31` [balance-sheet-board.md:L726](../balance-sheet-board.md) — Addendum 2026-08-31 ~1:30pm PDT — **two monitor items from the 8/31 close scan:** (1) **EL PASO QUANTIFIED: BlackRock funds 80% / META 20% · ~$14B pro
+- `2026-08-31` [rates-board.md:L1773](../rates-board.md) — 2026-08-31 ~7:20am PDT — ⭐⭐⭐⭐⭐ **OPENING SCAN (Mon 8/31): THE STRUCTURE PIVOTS — Friday's bear-flattener becomes a WAR-PREMIUM STEEPENER. 2Y −1.3bp (4
+- `2026-08-31` [rates-board.md:L1821](../rates-board.md) — Addendum 2026-08-31 ~9:42am PDT — **the week's catalyst calendar + a discriminator adopted (Jake's brief):** JOLTS Tue 10:00 ET · **payrolls Fri 8:30 
+- `2026-08-31` [rates-board.md:L1823](../rates-board.md) — 2026-08-31 ~1:25pm PDT — ⭐⭐⭐⭐⭐ **MONDAY CLOSE (8/31 scan tail; the pasted top = Friday's close, already filed): THE 30Y CLOSES AT 5.25 OFFICIAL / 5.24
+- `2026-08-31` [rates-board.md:L1855](../rates-board.md) — Addendum 2026-08-31 ~5:45pm PDT — ⭐⭐⭐⭐ **BESSENT TELLS JAPAN RATE HIKES ARE NEEDED (NHK, wire via Jake) — the Treasury Secretary lobbying the BoJ to h
+- `2026-08-31` [rates-board.md:L1868](../rates-board.md) — 2026-08-31 ~7:10pm PDT — ⭐⭐⭐⭐⭐ **THE BIND GOES GLOBAL (Jake's compiled global-yields brief, source-dated 8/31, pasted ~7:00pm): a SYNCHRONIZED develop
+- `2026-08-31` [rates-board.md:L1869](../rates-board.md) — DATA (Jake's brief, `raw/2026-08-31-global-bond-yields.txt`; source links per country in the raw file)
+- `2026-08-31` [rates-board.md:L1883](../rates-board.md) — Addendum 2026-08-31 ~7:12pm PDT — **THE CONFIRMATION SEQUENCE GAINS A GLOBAL RING (extends the adopted ladder — additions, not replacements):** alongs

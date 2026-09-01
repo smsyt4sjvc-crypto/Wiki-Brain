@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **64 dated entries across 3 notes · 2026-06-30 → 2026-08-26 · refreshed 2026-08-26 19:51 PDT**
+> **75 dated entries across 3 notes · 2026-06-30 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -83,3 +83,14 @@
 - `2026-08-26` [buildout-bottleneck-map.md:L1346](../buildout-bottleneck-map.md) — 2026-08-26 ~1:15pm PDT — ⚡⚡⚡ **EO 14420 (PRIMARY, signed today): IEEPA NATIONAL EMERGENCY ON THE BULK-POWER SYSTEM — A LEGAL WALL ON TOP OF THE PHYSIC
 - `2026-08-26` [nuclear.md:L534](../nuclear.md) — 2026-08-26 ~5:20pm PDT — ⭐⭐⭐⭐⭐ **JANUS AWARDS LAND (Army/DIU, Axios exclusive): ANTARES→FORT BRAGG · BWXT→FORT CAMPBELL · GENERAL ATOMICS→FORT HOOD · 
 - `2026-08-26` [nuclear.md:L570](../nuclear.md) — Addendum 2026-08-26 ~5:26pm PDT — ⭐⭐⭐⭐ **JAKE OPENS A STANDING WATCH: THE PRIVATE MICROREACTOR COHORT — TRACK THE COMPANIES AND ANY IPO/S-1** — and th
+- `2026-08-27` [buildout-bottleneck-map.md:L1400](../buildout-bottleneck-map.md) — 2026-08-27 ~8:10am PDT — ⛔⛔ **THE SECOND COST-RAISING POLICY ON THE SAME BUILDOUT IN 48 HOURS: WHITE HOUSE MULLING NEW TARIFFS ON SEMICONDUCTORS AND D
+- `2026-08-27` [nuclear.md:L595](../nuclear.md) — Addendum 2026-08-27 ~12:37pm PDT — ⭐⭐⭐⭐ **THE JANUS NUMBER THAT DISCIPLINES THE WHOLE SMR-FOR-DATACENTERS STORY: WAKSMAN GUIDES ARMY PPA PRICES AT $0.
+- `2026-08-27` [nuclear.md:L614](../nuclear.md) — Addendum 2026-08-27 ~12:45pm PDT — **BWXT JANUS SPECIFICS (holdings scan, company+Army confirmed): 20MWe BANR at Fort Campbell · GROUNDBREAKING LATE 2
+- `2026-08-28` [buildout-bottleneck-map.md:L1427](../buildout-bottleneck-map.md) — 2026-08-28 ~9:35am PDT — ⭐⭐⭐ **THE BOTTLENECK THESIS REACHES THE FRONT PAGE (Market Ear via ZH, Jake: "like I said"): AI power demand ~26GW (2025) → ~
+- `2026-08-28` [buildout-bottleneck-map.md:L1452](../buildout-bottleneck-map.md) — 2026-08-28 ~5:30pm PDT — ⭐⭐⭐ **ENHANCED GEOTHERMAL (EGS) ENTERS THE AI-POWER STACK (ZH/Bloomberg via Jake): the Utah FORGE-class test — shale-drilling
+- `2026-08-29` [buildout-bottleneck-map.md:L1484](../buildout-bottleneck-map.md) — Addendum 2026-08-29 ~8:58am PDT — **UUUU: ASM acquisition CLOSED 8/28** — adds the operating Korean Metals Plant (NdFeB alloy 1,300 t/y now, 3,600 t/y
+- `2026-08-30` [buildout-bottleneck-map.md:L1486](../buildout-bottleneck-map.md) — 2026-08-30 ~1:25pm PDT — ⭐⭐⭐⭐ **MUSK ATTACKS THE CHOKEPOINT LAYER (ZH/The Information): SpaceX prepping a Bastrop TX factory to CAST HIGH-TEMP TURBINE
+- `2026-08-31` [buildout-bottleneck-map.md:L1538](../buildout-bottleneck-map.md) — Addendum 2026-08-31 ~9:38am PDT — **USAR/Serra Verde: shareholder approval CONFIRMED by 8-K (this morning): 126,849,307-share issuance approved, ~98.7
+- `2026-08-31` [buildout-bottleneck-map.md:L1540](../buildout-bottleneck-map.md) — Addendum 2026-08-31 ~9:44am PDT — ⭐⭐⭐ **CALIFORNIA'S UTILITY LESSON + THE GAS-PROPOSAL EXPLOSION (Jake's brief):** (1) the narrower wildfire package (
+- `2026-08-31` [buildout-bottleneck-map.md:L1542](../buildout-bottleneck-map.md) — Addendum 2026-08-31 ~12:42pm PDT — ⚡ **THE RARE-EARTH CLIFF IS DATED (Class B sweep): China's Oct-2025 export controls are suspended only through NOV 
+- `2026-08-31` [buildout-bottleneck-map.md:L1544](../buildout-bottleneck-map.md) — Addendum 2026-08-31 ~5:45pm PDT — ⭐⭐⭐ **GS UPGRADES ITS HUMANOID FORECAST 4x, warehouses = the first deployment ground (ZH via Jake). Jake's read — "B
