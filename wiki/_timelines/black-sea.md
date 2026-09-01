@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **189 dated entries across 2 notes · 2026-03-13 → 2026-08-31 · refreshed 2026-09-01 09:29 PDT**
+> **192 dated entries across 2 notes · 2026-03-13 → 2026-09-01 · refreshed 2026-09-01 09:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -211,3 +211,9 @@
 - `2026-08-31` [oil-value-chain.md:L2489](../oil-value-chain.md) — Addendum 2026-08-31 ~7:25am PDT — **THE WAR PREMIUM ARRIVES ON SCHEDULE: Brent +5.9% to ~$91.21, WTI +3.5% to ~$86.33 at the Monday open (the MSAB/min
 - `2026-08-31` [oil-value-chain.md:L2491](../oil-value-chain.md) — Addendum 2026-08-31 ~7:45am PDT — ⛔⭐⭐⭐⭐⭐ **THE CAMPAIGN SIGNATURE PRINTS: US DIESEL CRACK APPROACHING $100/BBL while Brent runs $90+ — crude and crack
 - `2026-08-31` [oil-value-chain.md:L2494](../oil-value-chain.md) — Addendum 2026-08-31 ~10:30am PDT — ⭐⭐⭐⭐ **THE KILL-SWITCH'S SECOND FIRING ALSO SPARES THE CRACK (Jake's brief): EPA grants >1.8 BILLION RINs of Small 
+
+## 2026-09
+
+- `2026-09-01` [oil-value-chain.md:L2521](../oil-value-chain.md) — 2026-09-01 ~9:42am PDT — ⛔⭐⭐⭐⭐⭐ **A STORM IS AIMED AT THE BOTTLENECK: TROPICAL STORM EDOUARD ~90mi SE of PORT ARTHUR, landfall near the TX-LA border L
+- `2026-09-01` [oil-value-chain.md:L2522](../oil-value-chain.md) — DATA (ZH/NHC, `raw/2026-09-01-zh-feed-scan.txt`)
+- `2026-09-01` [oil-value-chain.md:L2529](../oil-value-chain.md) — Addendum 2026-09-01 ~9:44am PDT — ⭐⭐⭐⭐ **BESSENT SAYS THE ENDGAME ALOUD: HORMUZ WILL BE A "WORTHLESS PIECE OF WATER" IN TWO YEARS (ZH) — the tether/Ec

@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **313 dated entries across 3 notes · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 09:29 PDT**
+> **314 dated entries across 3 notes · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 09:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -338,3 +338,4 @@
 - `2026-09-01` [rates-board.md:L1906](../rates-board.md) — DATA (scan, `raw/2026-09-01-bond-opening-scan.txt`; ICE BofA = 8/28 obs, NOT live)
 - `2026-09-01` [rates-board.md:L1922](../rates-board.md) — Addendum 2026-09-01 ~7:55am PDT — **two adds from the 9/1 intelligence brief:** (1) **UK 10Y ~5.25% — highest since 2008** (the 30Y at 5.9%/1998 filed
 - `2026-09-01` [rates-board.md:L1924](../rates-board.md) — Addendum 2026-09-01 ~9:32am PDT — **global-ring add (Rabobank via Jake): FRANCE 10Y HIGHEST SINCE 2008** joins Australia-2011/Bund-2011/JGB-1996/gilt-
+- `2026-09-01` [rates-board.md:L1926](../rates-board.md) — Addendum 2026-09-01 ~9:48am PDT — ⭐⭐⭐ **TAPE CHECK (ZH futures wrap): equities finally REACT — S&P fut −0.6%, Nasdaq −1.2%, semis −1.4%/memory −2.2%, 

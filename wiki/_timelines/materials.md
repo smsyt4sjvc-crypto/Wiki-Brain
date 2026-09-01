@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **152 dated entries across 3 notes · 2026-07-09 → 2026-09-01 · refreshed 2026-09-01 09:29 PDT**
+> **154 dated entries across 3 notes · 2026-07-09 → 2026-09-01 · refreshed 2026-09-01 09:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -170,4 +170,6 @@
 
 - `2026-09-01` [buildout-bottleneck-map.md:L1556](../buildout-bottleneck-map.md) — Addendum 2026-09-01 ~9:15am PDT — ⭐⭐⭐⭐ **MUSK TAKES THE CASTING CLAIM TO THE G20 STAGE (Reuters/Barron's via Jake's brief): a coming "CRISIS OF POWER"
 - `2026-09-01` [buildout-bottleneck-map.md:L1563](../buildout-bottleneck-map.md) — 2026-09-01 ~9:20am PDT — ⭐⭐⭐⭐⭐ **THE GHOST-MW PURGE (Reuters quantification via 9/1 holdings scan; the policy pre-dates the scan): very-large-load req
+- `2026-09-01` [buildout-bottleneck-map.md:L1576](../buildout-bottleneck-map.md) — Addendum 2026-09-01 ~9:52am PDT — **critical-minerals adds (ZH scan):** (1) **US TUNGSTEN SCRAP EXPORT BAN took effect end of last week** — the decoup
 - `2026-09-01` [war-board.md:L4275](../war/war-board.md) — 2026-09-01 ~7:50am PDT — ⛔⭐⭐⭐⭐⭐ **EVENT CLASS, UNDER THE STANDING FILTER: TWO SAUDI-CRUDE SUPERTANKERS HIT IN HORMUZ (Reuters/Kpler, via 9/1 intellige
+- `2026-09-01` [war-board.md:L4287](../war/war-board.md) — Addendum 2026-09-01 ~9:46am PDT — **ZH feed scan, three war-board items:** (1) **IRAN OFFERS A CONDITIONAL CEASEFIRE** — Pezeshkian: return to talks I

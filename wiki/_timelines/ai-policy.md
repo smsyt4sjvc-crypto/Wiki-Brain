@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **459 dated entries across 4 notes · 2026-05-22 → 2026-08-31 · refreshed 2026-09-01 09:29 PDT**
+> **460 dated entries across 4 notes · 2026-05-22 → 2026-09-01 · refreshed 2026-09-01 09:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -481,3 +481,7 @@
 - `2026-08-31` [ai-financing-fragility.md:L7617](../ai-financing-fragility.md) — Addendum 2026-08-31 ~1:28pm PDT — ⭐⭐⭐⭐ **LAMBDA'S $926M GPU-BACKED SPV TERM LOAN B (8/31 scan tail): the first INVESTMENT-GRADE-RATED (Baa2) GPU-colla
 - `2026-08-31` [metered-compute.md:L3212](../metered-compute.md) — 2026-08-31 ~9:35am PDT — ⭐⭐⭐⭐⭐ **TOKEN-ECONOMICS WEEKLY (Jake's brief, sources verified per-item): THE BARBELL CONFIRMS IN PRODUCTION DATA — Vercel Ju
 - `2026-08-31` [metered-compute.md:L3270](../metered-compute.md) — Addendum 2026-08-31 ~6:55pm PDT — **THE TOKEN INDEX BREAKS TO A RECORD LOW: Silicon Data LLM Token Expenditure Index 1.0018** (chart archived `raw/202
+
+## 2026-09
+
+- `2026-09-01` [ai-capex-cycle.md:L3506](../ai-capex-cycle.md) — Addendum 2026-09-01 ~9:50am PDT — ⚠️⭐⭐⭐ **MU −2% PRE-MARKET ON A REPORTED LABOR-UNION STRIKE AT MICRON'S TAIWAN OPERATIONS (ZH futures wrap — headline

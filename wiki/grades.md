@@ -16,5 +16,7 @@ entry, never here.
 | GEV | **7** | — (init) | 2026-09-01 | Executed BACKLOG (not queue) carries the chokepoint thesis through the purge; sold-out-through-2030; casting disconfirmer is beyond-window | [[buildout-bottleneck-map]] 9/1 |
 | VST/CEG/TLN | **7** | — (init) | 2026-09-01 | Deliverable-MW scarcity premium as ghosts purge; existing generation = the moat side of the audit | [[buildout-bottleneck-map]] 9/1 |
 
+| MU | **6** | — (init) | 2026-09-01 | Taiwan union-strike headline (−2% pre-mkt, unverified scope) vs sold-out HBM fundamentals; moves on strike detail | [[ai-capex-cycle]] 9/1 |
+
 **Not grades: the macro overlay** (rates/oil complex) is the environment, not a name —
 it moves names' grades through entries, and lives on [[rates-board]]/[[forest]].
