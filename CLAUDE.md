@@ -114,6 +114,11 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     the verified clock is CORRECT — no fix commits, no error logging for stamp drift under 30 min.**
     His words: *"we're wasting a lot of time and energy fixing time stamps that are largely irrelevant."*
     The rule exists to catch WRONG-DAY / WRONG-SESSION / UTC-drift errors (hours), not minutes.
+    ⭐ **HOOK (set 2026-09-01, Jake: "Claude really needs to just add a timestamp to every prompt"):
+    `/home/user/INMA-/.claude/settings.json` carries a UserPromptSubmit hook that injects
+    `VERIFIED CLOCK (hook): <Pacific time>` into context on EVERY prompt. When that line is present,
+    it IS the clock call — stamp from it; no separate `date` needed. (Lives on the vault branch of
+    INMA-; wb_push does not carry it — the Wiki-Brain checkout needs its own copy if ever used as cwd.)**
 12. **Source time ≠ paste time — log both.** A board stamped 8/7 ingested 8/8 is 8/7 data.
 13. **New calendar day → `chat_log.py --new` BEFORE any writing.**
 
