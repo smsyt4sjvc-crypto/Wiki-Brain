@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **149 dated entries across 3 notes · 2026-07-09 → 2026-08-31 · refreshed 2026-09-01 07:37 PDT**
+> **150 dated entries across 3 notes · 2026-07-09 → 2026-09-01 · refreshed 2026-09-01 07:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -165,3 +165,7 @@
 - `2026-08-31` [war-board.md:L4105](../war/war-board.md) — Addendum 2026-08-31 ~8:10am PDT — ⭐⭐⭐⭐⭐ **THE MARITIME PICTURE (gCaptain front page, Jake's pointer — industry-primary rung): VISIBLE HORMUZ TRANSITS 
 - `2026-08-31` [war-board.md:L4150](../war/war-board.md) — 2026-08-31 ~12:30pm PDT — ⭐⭐⭐⭐⭐ **THE INHERITED-STATE HEADER (project-gopher sweep, per the 8/31 construction rule — the Feb-July structural set this 
 - `2026-08-31` [war-board.md:L4215](../war/war-board.md) — 2026-08-31 ~5:40pm PDT — ⭐⭐⭐⭐⭐ **REUTERS WRAP (Jake's paste): the overnight watches resolve — US military DENIES the supertanker mine-strike · Larak t
+
+## 2026-09
+
+- `2026-09-01` [war-board.md:L4275](../war/war-board.md) — 2026-09-01 ~7:50am PDT — ⛔⭐⭐⭐⭐⭐ **EVENT CLASS, UNDER THE STANDING FILTER: TWO SAUDI-CRUDE SUPERTANKERS HIT IN HORMUZ (Reuters/Kpler, via 9/1 intellige

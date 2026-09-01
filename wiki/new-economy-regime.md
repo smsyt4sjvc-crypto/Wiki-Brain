@@ -4894,3 +4894,9 @@ reroute-to-ESPO).
 = the rails leg incomplete) · EO 14330 flow data when 401(k) allocations print · the
 OpenAI-5% proposal's current status (the state-equity branch's live edge).
 **Links:** [[ai-financing-fragility]] · [[balance-sheet-board]] · [[rates-board]] · [[forest]]
+
+### Addendum 2026-09-01 ~8:00am PDT — ⭐⭐⭐⭐ **THE "CAROLINA PRINCIPLES" (Reuters, via 9/1 brief): the White House takes a HANDS-OFF-AI position to the same G20 where Bessent ran the Economic Outcast campaign — no new AI regulatory bodies/rules "unless genuinely new risks require them," more basic research + commercialization. Musk, Sacks, Dina Powell McCormick speak today; Altman and Huang TOMORROW.**
+- **The Class B read (analysis):** the state-capital architecture gets its AI-policy leg — the same government holding OpenAI-stake proposals, MP/Intel equity, and the CBDC-ban/GENIUS plumbing now formalizes NON-regulation of the sector it part-owns. That is not neutrality; it is the state as aligned shareholder. **It extends the financing cycle rather than disciplining it** (brief's phrase, adopted) — every month of hands-off is another month the conveyor sells residuals into retirement accounts under EO 14330 with no countervailing rulebook.
+- **The collision with Nov 3 (branch link):** a federal hands-off posture RAISES the stakes of the House flip — subpoena task forces and SPV-disclosure demands become the ONLY discipline channel if the executive won't build one. The $50M industry campaign (8/31 entry) and the Carolina Principles are the same mobilization, inside and outside government.
+- **📌** G20 AI-session outputs · Altman/Huang remarks tomorrow (any financing-structure language) · first Democratic response naming the principles.
+**Links:** [[balance-sheet-board]] · [[ai-financing-fragility]] · [[forest]]

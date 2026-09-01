@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **258 dated entries across 3 notes · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 07:37 PDT**
+> **259 dated entries across 3 notes · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 07:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -286,3 +286,4 @@
 
 - `2026-09-01` [rates-board.md:L1905](../rates-board.md) — 2026-09-01 ~7:40am PDT — ⭐⭐⭐⭐⭐ **TUESDAY OPEN (9/1 scan, compiled ~6:30am PT): GATE 1 PRINTS *INSIDE* THE BAND ON CONTROL-WEEK DAY 2 — 30Y 5.274 (>5.2
 - `2026-09-01` [rates-board.md:L1906](../rates-board.md) — DATA (scan, `raw/2026-09-01-bond-opening-scan.txt`; ICE BofA = 8/28 obs, NOT live)
+- `2026-09-01` [rates-board.md:L1922](../rates-board.md) — Addendum 2026-09-01 ~7:55am PDT — **two adds from the 9/1 intelligence brief:** (1) **UK 10Y ~5.25% — highest since 2008** (the 30Y at 5.9%/1998 filed

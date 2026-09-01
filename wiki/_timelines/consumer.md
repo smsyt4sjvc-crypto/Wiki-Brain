@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **404 dated entries across 6 notes · 2026-03-13 → 2026-08-31 · refreshed 2026-09-01 07:37 PDT**
+> **405 dated entries across 6 notes · 2026-03-13 → 2026-09-01 · refreshed 2026-09-01 07:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -426,3 +426,7 @@
 - `2026-08-31` [new-economy-regime.md:L4636](../new-economy-regime.md) — Addendum 2026-08-31 ~9:55am PDT — ⟲⭐⭐⭐⭐⭐ **THE FULL PRE-REPO BACKFILL (Jake's project-space summary, memory current to ~late June, written Aug 4): THE
 - `2026-08-31` [new-economy-regime.md:L4675](../new-economy-regime.md) — Addendum 2026-08-31 ~10:05am PDT — ⭐⭐⭐⭐ **THE TETHER RE-UNDERWRITTEN FOR THE AUGUST WORLD (Jake: the thesis predates the open-source/token war, the ra
 - `2026-08-31` [new-economy-regime.md:L4707](../new-economy-regime.md) — 2026-08-31 ~12:35pm PDT — ⭐⭐⭐⭐⭐ **CLASS B INHERITED-STATE (project-gopher second pass — the fiscal/legal/monetary/tech-policy stack, Feb-July; rung: p
+
+## 2026-09
+
+- `2026-09-01` [new-economy-regime.md:L4751](../new-economy-regime.md) — Addendum 2026-09-01 ~8:00am PDT — ⭐⭐⭐⭐ **THE "CAROLINA PRINCIPLES" (Reuters, via 9/1 brief): the White House takes a HANDS-OFF-AI position to the same
