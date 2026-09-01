@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **408 dated entries across 6 notes · 2026-03-13 → 2026-09-01 · refreshed 2026-09-01 09:16 PDT**
+> **409 dated entries across 6 notes · 2026-03-13 → 2026-09-01 · refreshed 2026-09-01 09:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -433,3 +433,4 @@
 - `2026-09-01` [new-economy-regime.md:L4757](../new-economy-regime.md) — Addendum 2026-09-01 ~8:25am PDT — ✅⭐⭐⭐ **JOLTS JULY (7am PT registered item, closed): the frozen-labor regime prints ANOTHER tick, with the freeze DEE
 - `2026-09-01` [new-economy-regime.md:L4763](../new-economy-regime.md) — Addendum 2026-09-01 ~9:17am PDT — **Musk publicly backs the Carolina Principles at the G20 ("default legal, not default illegal"; favor startups/acces
 - `2026-09-01` [new-economy-regime.md:L4765](../new-economy-regime.md) — Addendum 2026-09-01 ~9:20am PDT — **CAROLINA PRINCIPLES, FULL TEXT VIA KRATSIOS' PREPARED REMARKS (Reuters obtained, Jake's brief): the framework is b
+- `2026-09-01` [new-economy-regime.md:L4767](../new-economy-regime.md) — 2026-09-01 ~9:30am PDT — ⭐⭐⭐⭐ **RABOBANK/PICTON ON THE G20 (ZH, Jake's paste): "DEATH BY A THOUSAND CUTS" — the Economic Outcast campaign gets its ALL
