@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **718 dated entries · 2026-05-22 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
+> **720 dated entries · 2026-02-10 → 2026-08-31 · refreshed 2026-08-31 22:20 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -17,6 +17,10 @@
 - **4. CAPEX COMMITMENTS** — `wiki/ai-capex-cycle.md`, `wiki/cepi.md`
 - **5. SUPPLIER ORDERS** — `wiki/metered-compute.md`, `wiki/memory-regime-question.md`, `wiki/compression-thesis.md`
 
+
+## 2026-02
+
+- `2026-02-10` **[1]** rates-board.md:L1887 — DATA (`raw/2026-02-dallasfed-ai-debt-duration.pdf`, dallasfed.org "In Depth," pub. 2026-02-10; charts rendered via pdfimages)
 
 ## 2026-05
 
@@ -731,6 +735,7 @@
 - `2026-08-31` **[1]** rates-board.md:L1868 — 2026-08-31 ~7:10pm PDT — ⭐⭐⭐⭐⭐ **THE BIND GOES GLOBAL (Jake's compiled global-yields brief, source-dated 8/31, pasted ~7:00pm): a SYNCHRONIZED develop
 - `2026-08-31` **[1]** rates-board.md:L1869 — DATA (Jake's brief, `raw/2026-08-31-global-bond-yields.txt`; source links per country in the raw file)
 - `2026-08-31` **[1]** rates-board.md:L1883 — Addendum 2026-08-31 ~7:12pm PDT — **THE CONFIRMATION SEQUENCE GAINS A GLOBAL RING (extends the adopted ladder — additions, not replacements):** alongs
+- `2026-08-31` **[1]** rates-board.md:L1886 — 2026-08-31 ~10:20pm PDT — ⭐⭐⭐⭐⭐ **DALLAS FED FORMALIZED THE DURATION COLLISION IN FEBRUARY (De Vere/Ramaswamy/Searls, Feb 10, 2026 — Jake's upload: "F
 - `2026-08-31` **[1]** new-economy-regime.md:L4572 — Addendum 2026-08-31 ~9:40am PDT — **THE INDUSTRY COUNTER-MOBILIZES (8/31 scan): a pro-AI advocacy group launches a $50M campaign starting in KANSAS, O
 - `2026-08-31` **[1]** new-economy-regime.md:L4574 — 2026-08-31 ~9:45am PDT — ⭐⭐⭐⭐ **BESSENT'S G20 (ZH fetch, Jake's pointer): "the world cannot have a China with a $1.2 TRILLION trade surplus" — G20 fin
 - `2026-08-31` **[1]** new-economy-regime.md:L4617 — Addendum 2026-08-31 ~9:50am PDT — ⟲⭐⭐⭐⭐ **JAKE'S STANDING CALL, CREDITED (pre-repo, ~January): he read the TWO-OCEAN CHINA SQUEEZE at the time of the 

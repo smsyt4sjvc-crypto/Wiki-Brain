@@ -57,7 +57,9 @@ breakevens FLAT — the real cost of capital repriced, not inflation expectation
 FLATTENER is the regime (2s30s 99→88bp at the close; BNY 8/28: hyperscalers >12% of a record
 >$1.5T 2026 IG tape, long-end Treasury demand softening against it, issuance going NON-DOLLAR) — and it lands on the PERIPHERY: floating/project/SPV
 financing exposed to SOFR, hedge locks and refinancing (CRWV must hedge ≥95% by ~mid-Feb-27 —
-the Fed's path prices INTO the lock), while core IG fixed issuance shelters under the long-end
+the Fed's path prices INTO the lock; **8/31: Dallas Fed Feb-10 piece formalizes those hedges as
+SYNTHETIC DURATION SUPPLY (pay-fixed swaps, ~$50B 10-yr eq in Q4-25 alone; direct AI IG ≈ 1/8 of
+Treasury duration supply) — the hedge window = a dated swap-spread pulse, [[rates-board]] 10:20pm**), while core IG fixed issuance shelters under the long-end
 apparatus. ⚠️ Precision (Jake): this was the first successful STRESS TEST of the regime
 EXPECTATION — the doubled 10-30Y buybacks only go LIVE SEPT 9 (→ Nov 4); 30Y before-vs-after
 Sept 9 = the administered-price experiment. Warsh cited the calm gauges (low spreads/vol) as

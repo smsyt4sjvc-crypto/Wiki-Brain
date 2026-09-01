@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **283 dated entries across 6 notes · 2026-05-22 → 2026-08-31 · refreshed 2026-08-31 19:08 PDT**
+> **285 dated entries across 6 notes · 2026-02-10 → 2026-08-31 · refreshed 2026-08-31 22:20 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -10,6 +10,10 @@
 
 **Notes merged:** `wiki/financing-fragility-gauge.md` · `wiki/rates-board.md` · `wiki/balance-sheet-board.md` · `wiki/transmission-chain.md` · `wiki/hyperscaler-credit.md` · `wiki/ai-financing-fragility.md`
 
+
+## 2026-02
+
+- `2026-02-10` [rates-board.md:L1887](../rates-board.md) — DATA (`raw/2026-02-dallasfed-ai-debt-duration.pdf`, dallasfed.org "In Depth," pub. 2026-02-10; charts rendered via pdfimages)
 
 ## 2026-05
 
@@ -305,3 +309,4 @@
 - `2026-08-31` [rates-board.md:L1868](../rates-board.md) — 2026-08-31 ~7:10pm PDT — ⭐⭐⭐⭐⭐ **THE BIND GOES GLOBAL (Jake's compiled global-yields brief, source-dated 8/31, pasted ~7:00pm): a SYNCHRONIZED develop
 - `2026-08-31` [rates-board.md:L1869](../rates-board.md) — DATA (Jake's brief, `raw/2026-08-31-global-bond-yields.txt`; source links per country in the raw file)
 - `2026-08-31` [rates-board.md:L1883](../rates-board.md) — Addendum 2026-08-31 ~7:12pm PDT — **THE CONFIRMATION SEQUENCE GAINS A GLOBAL RING (extends the adopted ladder — additions, not replacements):** alongs
+- `2026-08-31` [rates-board.md:L1886](../rates-board.md) — 2026-08-31 ~10:20pm PDT — ⭐⭐⭐⭐⭐ **DALLAS FED FORMALIZED THE DURATION COLLISION IN FEBRUARY (De Vere/Ramaswamy/Searls, Feb 10, 2026 — Jake's upload: "F
