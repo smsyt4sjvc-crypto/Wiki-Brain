@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **447 dated entries across 3 notes · 2026-05-22 → 2026-09-01 · refreshed 2026-09-01 13:00 PDT**
+> **448 dated entries across 3 notes · 2026-05-22 → 2026-09-01 · refreshed 2026-09-01 13:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -465,6 +465,7 @@
 
 ## 2026-09
 
+- `2026-09-01` [ai-financing-fragility.md:L7633](../ai-financing-fragility.md) — Addendum 2026-09-01 ~1:22pm PDT — ⭐⭐⭐⭐ **THE LADDER'S TOP RUNG WAS ABSORBED BY A SPONSOR (9/1 close scan, xAI→SpaceX debt migration): legacy xAI/X sec
 - `2026-09-01` [new-economy-regime.md:L4751](../new-economy-regime.md) — Addendum 2026-09-01 ~8:00am PDT — ⭐⭐⭐⭐ **THE "CAROLINA PRINCIPLES" (Reuters, via 9/1 brief): the White House takes a HANDS-OFF-AI position to the same
 - `2026-09-01` [new-economy-regime.md:L4757](../new-economy-regime.md) — Addendum 2026-09-01 ~8:25am PDT — ✅⭐⭐⭐ **JOLTS JULY (7am PT registered item, closed): the frozen-labor regime prints ANOTHER tick, with the freeze DEE
 - `2026-09-01` [new-economy-regime.md:L4763](../new-economy-regime.md) — Addendum 2026-09-01 ~9:17am PDT — **Musk publicly backs the Carolina Principles at the G20 ("default legal, not default illegal"; favor startups/acces

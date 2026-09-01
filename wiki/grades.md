@@ -37,6 +37,8 @@ entry, never here.
 | PARR | **8** | 7 | 2026-09-01 | ↑ Workup: $571M adj EBITDA/qtr on $3.9B cap, Hawaii $46/bbl, −6.8% shares; concentration = the cap. Pacific/Singapore-linked cracks = the Hormuz product disruption's direct beneficiary in Asia-Pac; small/levered; less Gulf policy exposure | [[oil-value-chain]] 9/1 |
 | DINO | **8** | 7 | 2026-09-01 | ↑ Workup: 7.4x, 12.7% FCF yield, ~net-debt-free, −3.4% shares (separation beyond-window). Inland Mid-Con/Rockies cracks tight but capture less of the Gulf export blowout; lowest policy-strike exposure | [[oil-value-chain]] 9/1 |
 
+| ORCL | **4** | — (init) | 2026-09-01 | $260B uncommenced, BBB-/~226bp CDS, and a $3.3B guaranteed-lessor borrowing MATURING SEPT 2026 into a 6.24% long-IG tape; basket's avoid-leg name; refi outcome moves it either way | [[balance-sheet-board]] 9/1 close |
+
 **Refinery basket disconfirmers (shared):** (1) the kill-switch's THIRD firing NOT sparing the crack — a product-export restriction/jawbone (the EXIT BELL) into midterms compresses export cracks immediately, Gulf exporters first (VLO/MPC/PSX > PBF/DINO/PARR); (2) Edouard physical damage — an outage name underperforms peers even in a margin windfall (VLO Port Arthur, MPC Galveston Bay, PSX Lake Charles all in/near the corridor); (3) ~~⬜ where the equities sit vs the crack~~ ✅ CLOSED 11:20am: NOT priced as a bubble — fwd P/E 4-9x, FCF yields 6-13%, earnings outran price; the risk is crack NORMALIZATION (agents: release valve/kill-switch/Venezuela — all rated slow or capped this week). In-window catalyst: Q3 prints vs Q2's $23-36/bbl realized margins with the crack at $106.
 
 **Not grades: the macro overlay** (rates/oil complex) is the environment, not a name —

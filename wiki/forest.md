@@ -19,7 +19,7 @@ IF → THEN → INSTRUMENT, dated; **prune when resolved or aged out** (a resolv
 board, it does not linger) · holds the BASKETS with `vault_find` keywords so references pull in one
 command · short enough to read in one scroll; if it grows past that, prune before adding.
 
-**REFRESHED: 2026-09-01 ~7:50am PDT**
+**REFRESHED: 2026-09-01 ~1:25pm PDT**
 
 ## STATE
 **Two-speed market — now at a RECORD statistic: median stock-index correlation +0.10 (prior ATL 0.16, post-2000; Jake: "anchors and balloons — why it chops sideways"; VIX 15 through a missile weekend = dispersion arithmetic, not calm — index-vol gauges UNDERSTATE stress in this regime; a correlation spike >0.4-0.5 = flip-corroborator ([[market-fragility]] 8/31)).** AI **periphery repriced as CREDIT** (CRWV 817bp · ORCL 226bp · SPCX ~170 ·
@@ -41,7 +41,14 @@ new-issue concessions → a Level-2 name forced to add support. **CLOSE 8/31: th
 5.25 official (30Y REAL ~3%) — 9/1 OPEN: 5.274, gate 1 INSIDE the band on day 2; 10Y 4.79;
 UK 30Y gilt 5.9% (1998 high) extends the global ring; Aug IG FINAL $164B record, Sept cut to
 ~$190B on prefunding; SEPT 10 = the 30Y REOPENING one day after buybacks go live — the
-apparatus's live-fire date ([[rates-board]] 9/1). SB Energy FILES the IPO (SBE; NVDA adds a
+apparatus's live-fire date ([[rates-board]] 9/1). **9/1 CLOSE: day 2 = 5.27 (gate 1 sustains);
+the FLIP TEST printed — IG +1 to 80 (contradiction extends) but CCC +16 to 1,042 = the first
+bottom-rung crack (transmission, if it comes, arrives bottom-up); MOVE 75 (gate 2 stirring, needs
+85-90); today's engine = INFLATION COMPENSATION (real flat, breakevens +4-6 on $95 Brent) — three
+engines in three sessions; bear-FLATTENER at the close (belly led on oil, soft data overridden =
+payrolls discriminator's oil-override branch); Q3 borrowing $739B (+$68B), buybacks $38B+$25B
+"not debt cancellation"; ⚡ ORCL $3.3B lessor guarantee MATURES THIS MONTH = nearest dated Level-2
+trigger. Tomorrow's OAS obs = the compounded test.** SB Energy FILES the IPO (SBE; NVDA adds a
 $1.5B prepaid forward; Anthropic-$35B/Lambda/Hut-8/NVDA-lease chain new — [[balance-sheet-board]] 9/1) — while Friday's OAS
 HELD/TIGHTENED through the Warsh shock (IG 79 unch): credit is FADING Treasury stress, not
 lagging it. GS: hyperscaler issuance $250B '26 → $400B '27 (+60%) = the collision grows.**

@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **220 dated entries across 2 notes · 2026-05-22 → 2026-09-01 · refreshed 2026-09-01 13:00 PDT**
+> **222 dated entries across 2 notes · 2026-05-22 → 2026-09-01 · refreshed 2026-09-01 13:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -245,3 +245,5 @@
 - `2026-09-01` [war-board.md:L4344](../war/war-board.md) — 2026-09-01 ~12:55pm PDT — ⛔⭐⭐⭐⭐⭐ **IRAN'S RETALIATION WAVE FIRMS TO IRGC-MEDIA-SOURCED (AP citing Fars/Tasnim, 12:54pm PT / 3:54pm ET, via Jake): Iran
 - `2026-09-01` [war-board.md:L4355](../war/war-board.md) — Addendum 2026-09-01 ~1:00pm PDT — **Tape with the retaliation headline in (header tests ✓): Brent $95.05 +5.04% (3:45pm ET, unchanged from the 3:19pm 
 - `2026-09-01` [war-board.md:L4357](../war/war-board.md) — 2026-09-01 ~1:00pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **ZH LIVE WRAP (Jake's paste, `raw/2026-09-01-zh-iran-retaliation-wrap.txt`): (1) RETALIATION TARGET = US BASES IN J
+- `2026-09-01` [war-board.md:L4375](../war/war-board.md) — Addendum 2026-09-01 ~1:05pm PDT — ✅ **THE MoU DATE ⬜ RESOLVES (Jake, recollection): two dates of ONE collapse — DE JURE and DE FACTO.** ~~The Islamaba
+- `2026-09-01` [war-board.md:L4377](../war/war-board.md) — Addendum 2026-09-01 ~1:10pm PDT — ✅⭐⭐⭐⭐ **THE MoU, AT TERMS LEVEL (Jake's gopher summary — supersedes the 1:05pm recollection on the numbers): JUNE 17

@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **295 dated entries across 6 notes · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 13:00 PDT**
+> **298 dated entries across 6 notes · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 13:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -313,13 +313,16 @@
 
 ## 2026-09
 
+- `2026-09-01` [ai-financing-fragility.md:L7633](../ai-financing-fragility.md) — Addendum 2026-09-01 ~1:22pm PDT — ⭐⭐⭐⭐ **THE LADDER'S TOP RUNG WAS ABSORBED BY A SPONSOR (9/1 close scan, xAI→SpaceX debt migration): legacy xAI/X sec
 - `2026-09-01` [balance-sheet-board.md:L728](../balance-sheet-board.md) — 2026-09-01 ~7:45am PDT — ⭐⭐⭐⭐⭐ **SB ENERGY FILES THE IPO (ticker SBE) — the registered S-1 watch CLOSES with the structure now public: $5-7B raise · ~
 - `2026-09-01` [balance-sheet-board.md:L729](../balance-sheet-board.md) — DATA (9/1 opening scan, `raw/2026-09-01-bond-opening-scan.txt`)
 - `2026-09-01` [balance-sheet-board.md:L742](../balance-sheet-board.md) — Addendum 2026-09-01 ~7:57am PDT — **S-1 rung-up (9/1 brief, SEC-filed language):** SBE lists on NASDAQ · **NVDA expected to ACQUIRE SHARES around the 
 - `2026-09-01` [balance-sheet-board.md:L744](../balance-sheet-board.md) — Addendum 2026-09-01 ~11:30am PDT — **IPO-window datum for the SBE listing (ZH): Shein's HK debut FLOPPED — $1.7B raised, ~$26B cap vs ~$100B in 2022, 
+- `2026-09-01` [balance-sheet-board.md:L746](../balance-sheet-board.md) — Addendum 2026-09-01 ~1:20pm PDT — ⭐⭐⭐⭐ **CLOSE-SCAN SHEETS ADDS (most of the ladder = re-derivations of today's 7:45am filing; the NEW items):** (1) *
 - `2026-09-01` [rates-board.md:L1905](../rates-board.md) — 2026-09-01 ~7:40am PDT — ⭐⭐⭐⭐⭐ **TUESDAY OPEN (9/1 scan, compiled ~6:30am PT): GATE 1 PRINTS *INSIDE* THE BAND ON CONTROL-WEEK DAY 2 — 30Y 5.274 (>5.2
 - `2026-09-01` [rates-board.md:L1906](../rates-board.md) — DATA (scan, `raw/2026-09-01-bond-opening-scan.txt`; ICE BofA = 8/28 obs, NOT live)
 - `2026-09-01` [rates-board.md:L1922](../rates-board.md) — Addendum 2026-09-01 ~7:55am PDT — **two adds from the 9/1 intelligence brief:** (1) **UK 10Y ~5.25% — highest since 2008** (the 30Y at 5.9%/1998 filed
 - `2026-09-01` [rates-board.md:L1924](../rates-board.md) — Addendum 2026-09-01 ~9:32am PDT — **global-ring add (Rabobank via Jake): FRANCE 10Y HIGHEST SINCE 2008** joins Australia-2011/Bund-2011/JGB-1996/gilt-
 - `2026-09-01` [rates-board.md:L1926](../rates-board.md) — Addendum 2026-09-01 ~9:48am PDT — ⭐⭐⭐ **TAPE CHECK (ZH futures wrap): equities finally REACT — S&P fut −0.6%, Nasdaq −1.2%, semis −1.4%/memory −2.2%, 
 - `2026-09-01` [rates-board.md:L1928](../rates-board.md) — Addendum 2026-09-01 ~12:35pm PDT — ✅⭐⭐⭐⭐⭐ **BOND CLOSE, CONTROL-WEEK DAY 2 (Yahoo ^TYX, "at close 1:59pm CDT," header test ✓): 30Y 5.27 (+2bp from 5.2
+- `2026-09-01` [rates-board.md:L1930](../rates-board.md) — 2026-09-01 ~1:15pm PDT — ⭐⭐⭐⭐⭐⭐ **TUESDAY CLOSE (9/1 scan, `raw/2026-09-01-bond-close-scan.txt`): THE FLIP TEST RESULT IS IN — Monday's OAS obs (war p

@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **461 dated entries across 4 notes · 2026-05-22 → 2026-09-01 · refreshed 2026-09-01 13:00 PDT**
+> **462 dated entries across 4 notes · 2026-05-22 → 2026-09-01 · refreshed 2026-09-01 13:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -485,4 +485,5 @@
 ## 2026-09
 
 - `2026-09-01` [ai-capex-cycle.md:L3506](../ai-capex-cycle.md) — Addendum 2026-09-01 ~9:50am PDT — ⚠️⭐⭐⭐ **MU −2% PRE-MARKET ON A REPORTED LABOR-UNION STRIKE AT MICRON'S TAIWAN OPERATIONS (ZH futures wrap — headline
+- `2026-09-01` [ai-financing-fragility.md:L7633](../ai-financing-fragility.md) — Addendum 2026-09-01 ~1:22pm PDT — ⭐⭐⭐⭐ **THE LADDER'S TOP RUNG WAS ABSORBED BY A SPONSOR (9/1 close scan, xAI→SpaceX debt migration): legacy xAI/X sec
 - `2026-09-01` [metered-compute.md:L3283](../metered-compute.md) — Addendum 2026-09-01 ~11:27am PDT — ⭐⭐⭐ **THE CURSOR NATURAL EXPERIMENT GETS ITS DENOMINATOR (Epoch Times via ZH): OpenAI models serve only ~5% OF CURS

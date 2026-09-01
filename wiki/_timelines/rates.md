@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **317 dated entries across 3 notes · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 13:00 PDT**
+> **318 dated entries across 3 notes · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 13:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -342,3 +342,4 @@
 - `2026-09-01` [rates-board.md:L1924](../rates-board.md) — Addendum 2026-09-01 ~9:32am PDT — **global-ring add (Rabobank via Jake): FRANCE 10Y HIGHEST SINCE 2008** joins Australia-2011/Bund-2011/JGB-1996/gilt-
 - `2026-09-01` [rates-board.md:L1926](../rates-board.md) — Addendum 2026-09-01 ~9:48am PDT — ⭐⭐⭐ **TAPE CHECK (ZH futures wrap): equities finally REACT — S&P fut −0.6%, Nasdaq −1.2%, semis −1.4%/memory −2.2%, 
 - `2026-09-01` [rates-board.md:L1928](../rates-board.md) — Addendum 2026-09-01 ~12:35pm PDT — ✅⭐⭐⭐⭐⭐ **BOND CLOSE, CONTROL-WEEK DAY 2 (Yahoo ^TYX, "at close 1:59pm CDT," header test ✓): 30Y 5.27 (+2bp from 5.2
+- `2026-09-01` [rates-board.md:L1930](../rates-board.md) — 2026-09-01 ~1:15pm PDT — ⭐⭐⭐⭐⭐⭐ **TUESDAY CLOSE (9/1 scan, `raw/2026-09-01-bond-close-scan.txt`): THE FLIP TEST RESULT IS IN — Monday's OAS obs (war p
