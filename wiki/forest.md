@@ -19,7 +19,7 @@ IF → THEN → INSTRUMENT, dated; **prune when resolved or aged out** (a resolv
 board, it does not linger) · holds the BASKETS with `vault_find` keywords so references pull in one
 command · short enough to read in one scroll; if it grows past that, prune before adding.
 
-**REFRESHED: 2026-08-31 ~7:15pm PDT**
+**REFRESHED: 2026-09-01 ~7:50am PDT**
 
 ## STATE
 **Two-speed market — now at a RECORD statistic: median stock-index correlation +0.10 (prior ATL 0.16, post-2000; Jake: "anchors and balloons — why it chops sideways"; VIX 15 through a missile weekend = dispersion arithmetic, not calm — index-vol gauges UNDERSTATE stress in this regime; a correlation spike >0.4-0.5 = flip-corroborator ([[market-fragility]] 8/31)).** AI **periphery repriced as CREDIT** (CRWV 817bp · ORCL 226bp · SPCX ~170 ·
@@ -38,7 +38,11 @@ live until Sept 9 — the unadministered long end is printing the BEFORE leg of 
 5.25+ SUSTAINED through Sept 9 = the apparatus is too small. CONFIRMATION SEQUENCE adopted
 ([[rates-board]] 8/31): 30Y >5.25-5.30 sustained → MOVE >85-90 → BBB >110-120 → HY >300 →
 new-issue concessions → a Level-2 name forced to add support. **CLOSE 8/31: the 30Y closed AT
-5.25 official (gate 1 at threshold, control-week day 1; 30Y REAL ~3%) — while Friday's OAS
+5.25 official (30Y REAL ~3%) — 9/1 OPEN: 5.274, gate 1 INSIDE the band on day 2; 10Y 4.79;
+UK 30Y gilt 5.9% (1998 high) extends the global ring; Aug IG FINAL $164B record, Sept cut to
+~$190B on prefunding; SEPT 10 = the 30Y REOPENING one day after buybacks go live — the
+apparatus's live-fire date ([[rates-board]] 9/1). SB Energy FILES the IPO (SBE; NVDA adds a
+$1.5B prepaid forward; Anthropic-$35B/Lambda/Hut-8/NVDA-lease chain new — [[balance-sheet-board]] 9/1) — while Friday's OAS
 HELD/TIGHTENED through the Warsh shock (IG 79 unch): credit is FADING Treasury stress, not
 lagging it. GS: hyperscaler issuance $250B '26 → $400B '27 (+60%) = the collision grows.**
 Credit still asleep = the central contradiction.** **8/31 EVE — THE BIND GOES GLOBAL

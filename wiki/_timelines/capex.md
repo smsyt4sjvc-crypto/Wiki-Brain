@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **137 dated entries across 3 notes · 2026-05-22 → 2026-08-31 · refreshed 2026-08-31 22:20 PDT**
+> **139 dated entries across 3 notes · 2026-05-22 → 2026-09-01 · refreshed 2026-09-01 07:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -159,3 +159,8 @@
 - `2026-08-31` [balance-sheet-board.md:L705](../balance-sheet-board.md) — Addendum 2026-08-31 ~9:40am PDT — ⭐⭐⭐⭐⭐ **THE TENANT GETS PAID IN EQUITY (WSJ via Jake's brief): SB ENERGY OFFERED OPENAI ~$5.5B OF WARRANTS to secure
 - `2026-08-31` [balance-sheet-board.md:L724](../balance-sheet-board.md) — Addendum 2026-08-31 ~12:40pm PDT — **the Musk-complex monitor gets its BIRTH CERTIFICATE (Class B sweep): SpaceX/xAI consolidated FEB 2, 2026 — ~$1.25
 - `2026-08-31` [balance-sheet-board.md:L726](../balance-sheet-board.md) — Addendum 2026-08-31 ~1:30pm PDT — **two monitor items from the 8/31 close scan:** (1) **EL PASO QUANTIFIED: BlackRock funds 80% / META 20% · ~$14B pro
+
+## 2026-09
+
+- `2026-09-01` [balance-sheet-board.md:L728](../balance-sheet-board.md) — 2026-09-01 ~7:45am PDT — ⭐⭐⭐⭐⭐ **SB ENERGY FILES THE IPO (ticker SBE) — the registered S-1 watch CLOSES with the structure now public: $5-7B raise · ~
+- `2026-09-01` [balance-sheet-board.md:L729](../balance-sheet-board.md) — DATA (9/1 opening scan, `raw/2026-09-01-bond-opening-scan.txt`)

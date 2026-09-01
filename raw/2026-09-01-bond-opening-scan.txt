@@ -1,0 +1,818 @@
+U.S. BOND-MARKET OPENING FRAGILITY SCAN
+Tuesday, Sep. 1, 2026 — ~9:30 a.m. ET
+
+OPENING READ
+
+This is the most important long-end move in the scan so far.
+
+GLOBAL sovereign bonds are selling off together.
+
+U.S. 10Y — ~4.79% | highest since Jan. 2025
+U.S. 30Y — ~5.27% | approaching its 2007-era highs
+U.S. 2Y — ~4.36%
+
+Brent — ~$92
+WTI — ~$87-$88
+
+Drivers:
+renewed U.S.-Iran escalation
+oil/inflation risk
+hawkish Fed expectations
+large sovereign deficits
+record corporate/AI bond supply
+global duration selling
+
+Japan 10Y — ~3.0% | highest since 1996
+UK 30Y gilt — ~5.9% | highest since 1998
+German yields also at multi-year highs.
+
+This is no longer an isolated U.S. Treasury move.
+
+CREDIT STILL ISN'T CONFIRMING IT.
+
+Latest IG OAS — 79 bp
+BBB — 97 bp
+HY — 260 bp
+CCC/lower — 1,026 bp
+
+That divergence is becoming more extreme.
+
+
+TREASURY CURVE — NEAR 9:30 ET
+Indicative live/near-live quotes; 20Y feed was less timely than the surrounding maturities.
+
+4W — 3.69% [latest official close, Aug. 28]
+3M — 3.865%
+6M — 4.018%
+1Y — 4.147%
+2Y — ~4.36%
+3Y — 4.406%
+5Y — 4.529%
+7Y — 4.643%
+10Y — 4.789%
+20Y — approximately 5.25%-5.26%
+30Y — 5.274%
+
+2s10s — approximately +43 bp
+5s30s — approximately +74.5 bp
+
+20s30s — only a few basis points positive.
+30Y is again modestly above 20Y.
+No meaningful 20s30s inversion.
+
+READ:
+The entire curve is high, but today's stress remains concentrated farther out.
+
+10Y pushing 4.8% and 30Y pushing 5.3% is materially more important for:
+corporate duration
+mortgages
+utilities
+project finance
+data-center leases
+and residual-value assumptions
+than another couple of basis points at the short end.
+
+
+PRIOR CLOSE REFERENCE — AUG. 31
+
+2Y — ~4.35%
+5Y — ~4.51%
+10Y — ~4.75%-4.76%
+30Y — ~5.25%
+
+VIX close — 14.92
+
+Today's move:
+10Y roughly +3 bp
+30Y roughly +2-3 bp
+
+So the selloff that began Friday and accelerated Monday is extending into September.
+
+
+REAL YIELDS / INFLATION
+LATEST OFFICIAL OBSERVATIONS — AUG. 28
+
+5Y TIPS — 2.18%
+10Y TIPS — 2.42%
+30Y TIPS — 2.96%
+
+5Y breakeven — ~2.30%
+10Y breakeven — 2.31%
+
+EFFR — 3.63%
+SOFR — 3.65%
+
+July headline PCE — 3.7% YoY
+July core PCE — 3.3% YoY
+
+READ:
+This remains one of the most important signals.
+
+The Treasury selloff is NOT being driven by runaway breakevens.
+
+5Y/10Y inflation compensation remains around 2.3%.
+
+Instead, long-term REAL yields are extraordinarily high:
+
+10Y real — 2.42%
+30Y real — 2.96%
+
+The market is demanding enormous real compensation for duration.
+
+That increasingly points toward:
+fiscal supply
+capital competition
+term premium
+and policy uncertainty
+
+in addition to inflation itself.
+
+
+FED PRICING
+
+September Fed hike probability — approximately 65%-70%.
+
+Warsh's Jackson Hole comments materially shifted the rate path.
+
+Higher oil is reinforcing that move.
+
+The front end therefore now has BOTH:
+sticky inflation
++
+renewed energy pressure
+
+working against easing.
+
+
+TREASURY QUARTERLY ANCHORS
+2Y / 5Y / 10Y / 30Y
+
+NOW:
+4.36 / 4.53 / 4.79 / 5.27
+
+~3 MONTHS AGO — late May:
+3.98 / 4.13 / 4.45 / 4.99
+
+CHANGE:
++38 / +40 / +34 / +28 bp
+
+~6 MONTHS AGO — late February:
+3.38 / 3.51 / 3.97 / 4.64
+
+CHANGE:
++98 / +102 / +82 / +63 bp
+
+~9 MONTHS AGO — late November:
+3.47 / 3.59 / 4.02 / 4.67
+
+CHANGE:
++89 / +94 / +77 / +60 bp
+
+~12 MONTHS AGO — late Aug. 2025:
+3.59 / 3.68 / 4.23 / 4.92
+
+CHANGE:
++77 / +85 / +56 / +35 bp
+
+READ:
+The 5Y has still undergone the largest cumulative repricing.
+
+But the most recent impulse is shifting toward the long end.
+
+
+ICE BOFA CORPORATE CREDIT
+LATEST PUBLISHED DAILY INDEX DATA — AUG. 28
+NOT LIVE OPENING QUOTES.
+
+IG TOTAL — yield 5.44% | OAS +79 bp
+AAA — 5.31% | +41 bp
+AA — 5.29% | +58 bp
+A — 5.30% | +66 bp
+BBB — 5.62% | +97 bp
+
+HY TOTAL — yield 7.02% | OAS +260 bp
+BB — 5.92% | +150 bp
+B — 7.15% | +272 bp
+CCC & LOWER — 14.62% | +1,026 bp
+
+IG MATURITY YIELDS:
+1-3Y — 4.81%
+7-10Y — 5.58%
+15Y+ — 6.18%
+
+CREDIT READ:
+
+Credit actually became marginally CALMER into Friday.
+
+Prior:
+BBB — 98 bp
+HY — 263 bp
+CCC — 1,031 bp
+
+Latest:
+BBB — 97 bp
+HY — 260 bp
+CCC — 1,026 bp
+
+This is remarkable given what Treasuries are doing.
+
+A 15Y+ investment-grade borrower is already paying roughly 6.2% before today's Treasury selloff is incorporated.
+
+If Treasury yields stay here, effective corporate borrowing costs rise even WITHOUT spread widening.
+
+That is the first transmission mechanism.
+
+The much more dangerous second transmission mechanism would be:
+Treasury yields ↑
+AND
+credit spreads ↑ simultaneously.
+
+That has not happened yet.
+
+
+RATE / RISK VOLATILITY
+
+VIX Aug. 31 close — 14.92
+
+Still very low.
+
+Treasury volatility is elevated from summer lows but has not entered dysfunction territory.
+
+READ:
+The price of long-duration money is moving much faster than conventional stress indicators.
+
+That discrepancy remains the central fragility signal.
+
+
+TREASURY SUPPLY
+
+TODAY:
+6-week bill auction
+52-week bill auction
+
+No coupon auction today.
+
+Tomorrow:
+17-week bill.
+
+Thursday, Sep. 3:
+Treasury announces next week's major coupon slate.
+
+Expected auction dates:
+Sep. 8 — 3Y
+Sep. 9 — 10Y reopening
+Sep. 10 — 30Y reopening
+
+That 10Y/30Y supply becomes increasingly important if yields remain around:
+10Y ~4.8%
+30Y ~5.3%.
+
+The next long-bond auction is now a genuine fragility checkpoint.
+
+
+TREASURY BUYBACKS
+
+Beginning Sep. 9:
+
+10Y-20Y liquidity-support buyback maximum:
+$2B → at least $4B per operation
+
+20Y-30Y:
+$2B → at least $4B
+
+Effective through Nov. 4.
+
+Important:
+Treasury describes these explicitly as LIQUIDITY SUPPORT.
+
+They can improve off-the-run market functioning.
+
+They do NOT eliminate:
+the deficit
+gross issuance
+net borrowing requirements
+or private-sector competition for duration capital.
+
+
+CORPORATE / AI BOND SUPPLY
+
+NEW DATA:
+
+August U.S. IG corporate issuance — $164B
+RECORD AUGUST.
+
+AI investment was a major contributor.
+
+BofA's current September estimate — ~$190B.
+
+Prior September expectations had been:
+$200B-$250B.
+
+Reason for reduction:
+companies appear to have prefunded aggressively in August.
+
+READ:
+Even after prefunding, the market may have to absorb roughly another $190B of IG corporate supply this month while Treasury yields are at multi-year highs.
+
+That is exactly the Treasury-versus-AI capital competition we are tracking.
+
+
+AI SPV / SHADOW LEVERAGE
+
+MAJOR NEW DEVELOPMENT TODAY:
+SB ENERGY IPO FILING.
+
+This is extremely useful because a previously opaque private infrastructure node is becoming publicly disclosed.
+
+
+SB ENERGY — NEW LEVEL 2 COUNTERPARTY
+
+SB Energy filed to list as SBE.
+
+Reported planned IPO raise:
+~$5B-$7B.
+
+Current data-center operating capacity:
+essentially zero.
+
+Contracted future data-center capacity:
+~8.8 GW.
+
+Solar/battery portfolio:
+~5.5 GW.
+
+PORTS-Pike alone may ultimately require:
+~10 GW of power.
+
+Key counterparties:
+SoftBank
+OpenAI
+NVIDIA
+Ares
+
+NVIDIA investment commitment:
+$3.0B total.
+
+Structure:
+$1.5B concurrent private placement
++
+$1.5B prepaid forward.
+
+OpenAI warrants:
+~4 million shares
+estimated current value ~ $5.5B.
+
+OpenAI retains board representation subject to ownership conditions.
+
+First-half 2026:
+Revenue — ~$139M
+Net loss — ~$3.2B
+
+The large loss is heavily influenced by warrant-related liabilities rather than purely operating cash burn.
+
+This is now one of the most important shadow-finance counterparties to monitor.
+
+
+NVIDIA / SB ENERGY / OPENAI — LEVEL 2 HIGH
+
+NVIDIA PORTS-Pike residual-value guarantees:
+maximum gross exposure — $105B
+
+Other NVIDIA AI-cloud guarantees:
+$3.5B
+
+TOTAL MAXIMUM GROSS GUARANTEE EXPOSURE:
+$108.5B
+
+NVIDIA liquid cash + marketable debt securities:
+$56.6B
+
+Guarantee cap / liquid cash+debt securities:
+~1.9x
+
+IMPORTANT QUALIFICATION:
+$108.5B is NOT an immediate liability.
+
+The $105B guarantee:
+becomes effective phase-by-phase
+only as facilities become ready for service
+is triggered by specified tenant defaults
+declines as OpenAI makes lease payments
+covers defined portions of obligations
+and can terminate under specified conditions.
+
+OpenAI has agreed to reimburse/indemnify NVIDIA for amounts NVIDIA actually pays.
+
+Still:
+NVIDIA is now explicitly using its balance sheet to make an enormous third-party infrastructure development financeable.
+
+
+NEW TODAY — NVIDIA / LAMBDA / HUT 8 / ANTHROPIC
+
+Anthropic has agreed to:
+~$35B cloud-compute contract with Lambda.
+
+Underlying Texas capacity:
+~350 MW associated with the reported deal.
+
+Developer:
+Hut 8.
+
+Critical structural detail:
+NVIDIA itself reportedly holds the underlying data-center lease.
+
+Lambda:
+operates the GPU cloud.
+
+Anthropic:
+buys the compute.
+
+NVIDIA:
+supplies the GPUs
++ invests in Lambda
++ holds the real-estate/capacity lease.
+
+Hut 8:
+develops the site.
+
+This creates another chain:
+
+Hut 8 asset
+→ NVIDIA lease/credit
+→ Lambda compute operator
+→ Anthropic end customer.
+
+This is NOT currently a VIE/consolidation trigger.
+
+But it is exactly the kind of economic interdependence the shadow-leverage monitor is intended to capture.
+
+The same dollars support:
+data-center developer revenue
+GPU sales
+cloud-provider revenue
+and AI-lab compute capacity.
+
+
+NVIDIA OTHER BALANCE-SHEET SIGNALS
+
+Supply/capacity commitments:
+prior quarter — $119B
+latest — $279B
++134% QoQ
+
+Accounts receivable — $63.1B
+
+DSO:
+45 days → 60 days
+
+Reason:
+extended payment terms on large multi-quarter agreements with investment-grade customers.
+
+This remains a major watch item:
+vendor credit is increasing at the same time NVIDIA is providing infrastructure guarantees and strategic capital.
+
+
+META — LEVEL 2
+
+Uncommenced leases:
+$182.88B → $278.99B
++52.6%
+
+Plus ~$68B additional leases signed in July.
+
+Contractual commitments:
+$237.67B → $349.31B
++47%
+
+Louisiana VIE max exposure:
+~$46B
+essentially flat.
+
+Primary-beneficiary conclusion:
+UNCHANGED.
+
+El Paso:
+expected META ownership ~20%
+asset contribution ~$2.3B
+residual-value guarantee up to ~$13B
+META becomes tenant.
+
+NO NEW LEVEL 3+ EVENT FOUND.
+
+
+GOOGL — LEVEL 2
+
+Uncommenced DC leases:
+$75.6B → $85.2B
++12.7%
+
+Active credit-derivative backstops:
+$28.4B → $43.8B
++54.2%
+
+Financial guarantees:
+$7.6B latest.
+
+Future DC/energy backstops:
+~$24.1B.
+
+Primary-beneficiary conclusion:
+UNCHANGED.
+
+NO NEW ESCALATION FOUND.
+
+
+MSFT — LEVEL 1
+
+Uncommenced DC leases:
+$196.6B → $329.1B
++67.4%
+
+Still no comparable disclosed material DC-VIE consolidation issue.
+
+NO NEW ESCALATION.
+
+
+AMZN — LEVEL 2
+
+Uncommenced leases:
+$106.35B → $137.21B
++29%
+
+Purchase obligations:
+$103.77B → $130.07B
++25%
+
+Anthropic financing facility:
+up to $20B
+linked to AWS compute-delivery milestones.
+
+No primary-beneficiary reversal identified.
+
+
+ORCL — LEVEL 2
+
+Uncommenced DC leases:
+~$260B
+
+DC-lessor borrowing guarantee:
+$2.2B → $3.3B
++50%
+
+Power/related obligations:
+~$11B → ~$13.3B
++21%
+
+Subsequent infrastructure commitments:
++$19B
+
+No new Level 3+ event.
+
+
+SPACEX / SPACEXAI / xAI — LEVEL 2
+
+Other / failed-sale-leaseback financing:
+Q1 — $9.105B
+Q2 — $13.406B
++47%
+
+Valor-related financing:
+Dec. 2025 — ~$4.5B
+Jun. 2026 — ~$13.3B
+
+Debt + finance leases:
+~$39.5B.
+
+AI capex:
+Q1 — $7.723B
+Q2 — $15.828B
++105%
+
+No new Valor accounting change
+no new forced consolidation
+no material new public contractor-lien escalation found this morning.
+
+
+STATELINE / COLOSSUS
+
+Solaris — 50.1%
+MZX/SpaceXAI-related — 49.9%
+
+Solaris remains PRIMARY BENEFICIARY.
+
+VIE remains consolidated by Solaris.
+
+No reconsideration event found.
+
+
+TSLA — LEVEL 0
+
+SpaceX investment — ~$2B.
+
+No new disclosed:
+SpaceX/xAI debt guarantee
+Valor guarantee
+Colossus backstop
+or capital-support agreement.
+
+No escalation.
+
+
+COREWEAVE — LEVEL 2
+
+DC-development VIE commitments:
+~$1.2B → ~$1.7B
++41.7%
+
+NJ JV ownership:
+15% → 35%.
+
+Still concludes it is NOT primary beneficiary.
+
+Equipment-lessor VIE payments:
+~$1.8B committed.
+
+Delayed-draw financing:
+$2.6B capacity
+Term SOFR + 5.50%.
+
+CoreWeave remains one of the most rate-sensitive nodes because its financing cost is drastically above the hyperscaler group.
+
+
+CURRENT SHADOW-LEVERAGE LADDER
+
+LEVEL 0:
+TSLA
+
+LEVEL 1:
+MSFT
+
+LEVEL 2:
+NVIDIA
+SB Energy
+META
+GOOGL
+AMZN
+ORCL
+SpaceX/SpaceXAI
+CoreWeave
+
+WATCH:
+Lambda / Hut 8 / Anthropic structure
+Nscale / Anthropic
+
+KNOWN COUNTERPARTY VIE ALREADY CONSOLIDATED:
+Stateline Power → Solaris
+
+LEVEL 3 — SEC data-center VIE/consolidation challenge:
+NONE NEW FOUND
+
+LEVEL 4 — auditor/VIE accounting problem:
+NONE NEW FOUND
+
+LEVEL 5 — primary-beneficiary reversal / forced consolidation:
+NONE FOUND
+
+LEVEL 6 — restatement / multi-company reassessment:
+NONE
+
+
+IMPORTANT SEC NOTE
+
+There IS fresh SEC interest in SPVs selling access to private startup shares.
+
+That is a separate issue involving private-market ownership/investor protections.
+
+It is NOT evidence that the SEC has challenged hyperscaler data-center VIE consolidation accounting.
+
+Do not count it as Level 3 in this framework.
+
+
+MACRO READ
+
+OBSERVED:
+
+2Y — ~4.36%
+5Y — ~4.53%
+10Y — ~4.79%
+30Y — ~5.27%
+
+10Y real — 2.42%
+30Y real — 2.96%
+
+Brent — ~$92
+
+Fed hike probability — roughly 65%-70%.
+
+IG OAS — 79 bp.
+BBB — 97 bp.
+HY — 260 bp.
+
+August IG issuance — record $164B.
+September estimated supply — ~$190B.
+
+NVIDIA guarantees — max gross $108.5B.
+META uncommenced leases — ~$279B + another ~$68B signed.
+MSFT uncommenced DC leases — ~$329B.
+GOOGL active credit backstops — $43.8B.
+ORCL lessor guarantee — $3.3B.
+SpaceX AI financing — accelerating.
+CoreWeave financing — SOFR + 5.5%.
+
+INTERPRETATION:
+
+This morning is a meaningful escalation.
+
+For the first time in this series, the long-end selloff is clearly GLOBAL.
+
+Japan.
+Germany.
+UK.
+United States.
+
+That weakens the argument that today's Treasury move is merely:
+poor U.S. dealer positioning
+or a quirky 20Y technical.
+
+The common factors are:
+fiscal supply
+inflation persistence
+oil
+central-bank tightening risk
+and enormous private capital demand.
+
+The AI capital cycle now matters at the sovereign-bond level because it is simultaneously generating:
+
+corporate bond supply
+project-finance debt
+lease obligations
+power financing
+vendor financing
+guarantees
+and equity capital requirements.
+
+Yet credit spreads remain extraordinarily compressed.
+
+That leaves us with an increasingly unstable-looking equilibrium:
+
+TREASURY YIELDS:
+stressed.
+
+REAL YIELDS:
+very restrictive.
+
+CORPORATE ABSOLUTE YIELDS:
+rising.
+
+AI COMMITMENTS:
+accelerating.
+
+CREDIT SPREADS:
+calm.
+
+VOLATILITY:
+calm.
+
+CURRENT VERDICT:
+
+FRAGILITY ESCALATING — STILL NOT A CREDIT BREAK.
+
+The key confirmation threshold is getting closer.
+
+Watch for:
+
+10Y sustaining >4.80%
+30Y sustaining >5.30%
+20Y/30Y becoming materially distorted
+MOVE >85-90
+BBB OAS >110-120 bp
+HY OAS >300 bp
+new AI bonds requiring visibly larger concessions
+CoreWeave/private-credit refinancing pressure
+or any Level-2 SPV requiring incremental guarantees/control.
+
+The first combination of:
+HIGH TREASURY YIELDS
++
+WIDENING IG CREDIT
++
+A NEW SPV SUPPORT EVENT
+
+would change the diagnosis from
+"fragility building"
+to
+"transmission beginning."
+
+The Treasury move is independently confirmed across several fresh sources: the 10-year reached about 4.79%, its highest since January 2025, while the 30-year approached 5.274%; the selloff is global, with Japanese, German and U.K. sovereign yields simultaneously reaching multi-year or multi-decade highs. Brent was around $92, adding a renewed inflation shock to already heavy fiscal and corporate supply. 
+
+The latest fully published Fed/Treasury close still has 5Y/10Y/30Y TIPS at 2.18%/2.42%/2.96%, with 5Y/10Y breakevens around 2.30%/2.31%. That is why the long-end move looks more like a real-rate/term-premium/supply problem than an outright unanchoring of long-term inflation expectations. Monday’s VIX closed at only 14.92, underscoring the divergence between rapidly rising duration costs and conventional stress gauges. 
+
+The ICE BofA numbers above are Aug. 28 daily closing-index observations, not live Tuesday opening spreads. Broad credit remained extremely tight: IG OAS 79 bp, BBB 97 bp, HY 260 bp, and CCC/lower 1,026 bp, while effective yields were already 5.44% for total IG and 6.18% for 15Y+ IG before today’s further Treasury selloff. That is why the absence of spread widening remains the most important missing confirmation of systemic stress.
+
+Treasury’s next long-end test comes next week: the regular schedule calls for the 3-year on Sept. 8, 10-year reopening on Sept. 9, and 30-year reopening on Sept. 10. Separately, Treasury’s enlarged long-end liquidity-support buybacks begin Sept. 9, with operation limits rising from $2B to at least $4B in both the 10Y–20Y and 20Y–30Y sectors. 
+
+Corporate supply is adding directly to that competition for duration: August IG issuance hit a record $164B, heavily influenced by AI investment, and BofA currently expects roughly $190B more in September. 
+
+The most important new shadow-leverage disclosure is the SB Energy IPO filing. Nvidia’s SEC filings confirm a $105B maximum PORTS-Pike residual-value guarantee, plus another $3.5B of AI-cloud guarantees, for $108.5B maximum gross exposure; the obligations phase in as facilities enter service and decline as OpenAI performs under the leases. Nvidia reports only $56.6B of cash, equivalents and marketable debt securities, although OpenAI has agreed to indemnify Nvidia for amounts actually paid under the guarantee. 
+
+SB Energy’s now-public structure makes the capital chain unusually visible: Nvidia is committing $3B of equity/prepaid-forward capital, OpenAI holds roughly 4 million warrants, and SB Energy has about 8.8 GW of contracted future data-center capacity despite essentially no operating data-center capacity today. Separately, Anthropic’s newly reported $35B Lambda compute agreement uses a Hut 8 Texas development where Nvidia reportedly holds the underlying lease—another direct example of Nvidia’s credit/lease position helping bridge the developer, cloud operator and AI customer.

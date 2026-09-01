@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **304 dated entries across 3 notes · 2026-02-10 → 2026-08-31 · refreshed 2026-08-31 22:20 PDT**
+> **306 dated entries across 3 notes · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 07:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -326,3 +326,8 @@
 - `2026-08-31` [rates-board.md:L1869](../rates-board.md) — DATA (Jake's brief, `raw/2026-08-31-global-bond-yields.txt`; source links per country in the raw file)
 - `2026-08-31` [rates-board.md:L1883](../rates-board.md) — Addendum 2026-08-31 ~7:12pm PDT — **THE CONFIRMATION SEQUENCE GAINS A GLOBAL RING (extends the adopted ladder — additions, not replacements):** alongs
 - `2026-08-31` [rates-board.md:L1886](../rates-board.md) — 2026-08-31 ~10:20pm PDT — ⭐⭐⭐⭐⭐ **DALLAS FED FORMALIZED THE DURATION COLLISION IN FEBRUARY (De Vere/Ramaswamy/Searls, Feb 10, 2026 — Jake's upload: "F
+
+## 2026-09
+
+- `2026-09-01` [rates-board.md:L1905](../rates-board.md) — 2026-09-01 ~7:40am PDT — ⭐⭐⭐⭐⭐ **TUESDAY OPEN (9/1 scan, compiled ~6:30am PT): GATE 1 PRINTS *INSIDE* THE BAND ON CONTROL-WEEK DAY 2 — 30Y 5.274 (>5.2
+- `2026-09-01` [rates-board.md:L1906](../rates-board.md) — DATA (scan, `raw/2026-09-01-bond-opening-scan.txt`; ICE BofA = 8/28 obs, NOT live)

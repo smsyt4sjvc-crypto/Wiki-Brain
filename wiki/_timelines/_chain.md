@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **720 dated entries · 2026-02-10 → 2026-08-31 · refreshed 2026-08-31 22:20 PDT**
+> **724 dated entries · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 07:37 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -752,3 +752,10 @@
 - `2026-08-31` **[4]** ai-capex-cycle.md:L3504 — Addendum 2026-08-31 ~9:37am PDT — **AMD/HUMAIN goes LIVE (company-confirmed): MI355X/EPYC in production serving Saudi customers NOW; next phase up to 
 - `2026-08-31` **[5]** metered-compute.md:L3212 — 2026-08-31 ~9:35am PDT — ⭐⭐⭐⭐⭐ **TOKEN-ECONOMICS WEEKLY (Jake's brief, sources verified per-item): THE BARBELL CONFIRMS IN PRODUCTION DATA — Vercel Ju
 - `2026-08-31` **[5]** metered-compute.md:L3270 — Addendum 2026-08-31 ~6:55pm PDT — **THE TOKEN INDEX BREAKS TO A RECORD LOW: Silicon Data LLM Token Expenditure Index 1.0018** (chart archived `raw/202
+
+## 2026-09
+
+- `2026-09-01` **[1]** rates-board.md:L1905 — 2026-09-01 ~7:40am PDT — ⭐⭐⭐⭐⭐ **TUESDAY OPEN (9/1 scan, compiled ~6:30am PT): GATE 1 PRINTS *INSIDE* THE BAND ON CONTROL-WEEK DAY 2 — 30Y 5.274 (>5.2
+- `2026-09-01` **[1]** rates-board.md:L1906 — DATA (scan, `raw/2026-09-01-bond-opening-scan.txt`; ICE BofA = 8/28 obs, NOT live)
+- `2026-09-01` **[3]** balance-sheet-board.md:L728 — 2026-09-01 ~7:45am PDT — ⭐⭐⭐⭐⭐ **SB ENERGY FILES THE IPO (ticker SBE) — the registered S-1 watch CLOSES with the structure now public: $5-7B raise · ~
+- `2026-09-01` **[3]** balance-sheet-board.md:L729 — DATA (9/1 opening scan, `raw/2026-09-01-bond-opening-scan.txt`)
