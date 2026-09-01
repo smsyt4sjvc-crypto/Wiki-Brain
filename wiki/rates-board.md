@@ -1914,7 +1914,7 @@ FOMC odds series (65%); (5) MOVE today vs 70.97.
 5.25 in the data) · JOLTS 10am ET · the $400B-2027 projection vs the Nov 4 refunding
 math. **Links:** [[balance-sheet-board]] · [[ai-financing-fragility]] · [[forest]]
 
-### Addendum 2026-08-31 ~5:50pm PDT — ⭐⭐⭐⭐ **BESSENT TELLS JAPAN RATE HIKES ARE NEEDED (NHK, wire via Jake) — the Treasury Secretary lobbying the BoJ to hike, which CUTS AGAINST HIS OWN LONG-END APPARATUS: BoJ hikes → yen strengthens → Japanese carry/repatriation flows → LESS Japanese demand for Treasuries — the indirect-fade series (66.0→61.5→60.78; TIC "who stopped: Japan candidate") gains a POLICY ACCELERANT from inside the US government.**
+### Addendum 2026-08-31 ~5:45pm PDT — ⭐⭐⭐⭐ **BESSENT TELLS JAPAN RATE HIKES ARE NEEDED (NHK, wire via Jake) — the Treasury Secretary lobbying the BoJ to hike, which CUTS AGAINST HIS OWN LONG-END APPARATUS: BoJ hikes → yen strengthens → Japanese carry/repatriation flows → LESS Japanese demand for Treasuries — the indirect-fade series (66.0→61.5→60.78; TIC "who stopped: Japan candidate") gains a POLICY ACCELERANT from inside the US government.**
 - **The read:** the trade agenda (the G20 surplus campaign extended to currency — a weak
   yen is a manufacturing-competitiveness problem in the same frame as China's $1.2T) is
   colliding with the funding agenda (Sept 9 buybacks, the administered long end). One arm
