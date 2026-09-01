@@ -110,6 +110,10 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
 ### TIME RULES
 11. **Clock runs as its OWN call, output READ, before composing any dated entry.** Label in Pacific.
     Verify the zone string echoed back ("PDT"/"PST" — a typo silently falls back to UTC, caught 8/8).
+    ⭐ **TOLERANCE (Jake, 2026-09-01): round to the nearest QUARTER HOUR; anything within 30 minutes of
+    the verified clock is CORRECT — no fix commits, no error logging for stamp drift under 30 min.**
+    His words: *"we're wasting a lot of time and energy fixing time stamps that are largely irrelevant."*
+    The rule exists to catch WRONG-DAY / WRONG-SESSION / UTC-drift errors (hours), not minutes.
 12. **Source time ≠ paste time — log both.** A board stamped 8/7 ingested 8/8 is 8/7 data.
 13. **New calendar day → `chat_log.py --new` BEFORE any writing.**
 
