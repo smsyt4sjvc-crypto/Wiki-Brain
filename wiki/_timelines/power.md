@@ -1,6 +1,6 @@
 # ⏱ POWER — merged timeline (the gate)
 
-> **76 dated entries across 3 notes · 2026-06-30 → 2026-09-01 · refreshed 2026-09-01 09:15 PDT**
+> **77 dated entries across 3 notes · 2026-06-30 → 2026-09-01 · refreshed 2026-09-01 09:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -98,3 +98,4 @@
 ## 2026-09
 
 - `2026-09-01` [buildout-bottleneck-map.md:L1556](../buildout-bottleneck-map.md) — Addendum 2026-09-01 ~9:15am PDT — ⭐⭐⭐⭐ **MUSK TAKES THE CASTING CLAIM TO THE G20 STAGE (Reuters/Barron's via Jake's brief): a coming "CRISIS OF POWER"
+- `2026-09-01` [buildout-bottleneck-map.md:L1563](../buildout-bottleneck-map.md) — 2026-09-01 ~9:20am PDT — ⭐⭐⭐⭐⭐ **THE GHOST-MW PURGE (Reuters quantification via 9/1 holdings scan; the policy pre-dates the scan): very-large-load req
