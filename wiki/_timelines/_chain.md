@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **728 dated entries · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 08:22 PDT**
+> **729 dated entries · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 09:14 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -760,6 +760,7 @@
 - `2026-09-01` **[1]** rates-board.md:L1922 — Addendum 2026-09-01 ~7:55am PDT — **two adds from the 9/1 intelligence brief:** (1) **UK 10Y ~5.25% — highest since 2008** (the 30Y at 5.9%/1998 filed
 - `2026-09-01` **[1]** new-economy-regime.md:L4751 — Addendum 2026-09-01 ~8:00am PDT — ⭐⭐⭐⭐ **THE "CAROLINA PRINCIPLES" (Reuters, via 9/1 brief): the White House takes a HANDS-OFF-AI position to the same
 - `2026-09-01` **[1]** new-economy-regime.md:L4757 — Addendum 2026-09-01 ~8:25am PDT — ✅⭐⭐⭐ **JOLTS JULY (7am PT registered item, closed): the frozen-labor regime prints ANOTHER tick, with the freeze DEE
+- `2026-09-01` **[1]** new-economy-regime.md:L4763 — Addendum 2026-09-01 ~9:17am PDT — **Musk publicly backs the Carolina Principles at the G20 ("default legal, not default illegal"; favor startups/acces
 - `2026-09-01` **[3]** balance-sheet-board.md:L728 — 2026-09-01 ~7:45am PDT — ⭐⭐⭐⭐⭐ **SB ENERGY FILES THE IPO (ticker SBE) — the registered S-1 watch CLOSES with the structure now public: $5-7B raise · ~
 - `2026-09-01` **[3]** balance-sheet-board.md:L729 — DATA (9/1 opening scan, `raw/2026-09-01-bond-opening-scan.txt`)
 - `2026-09-01` **[3]** balance-sheet-board.md:L742 — Addendum 2026-09-01 ~7:57am PDT — **S-1 rung-up (9/1 brief, SEC-filed language):** SBE lists on NASDAQ · **NVDA expected to ACQUIRE SHARES around the 

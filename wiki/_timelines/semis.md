@@ -1,6 +1,6 @@
 # ⏱ SEMIS — merged timeline (the gate)
 
-> **58 dated entries across 2 notes · 2026-07-09 → 2026-08-31 · refreshed 2026-09-01 08:22 PDT**
+> **59 dated entries across 2 notes · 2026-07-09 → 2026-09-01 · refreshed 2026-09-01 09:14 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -74,3 +74,7 @@
 - `2026-08-31` [buildout-bottleneck-map.md:L1540](../buildout-bottleneck-map.md) — Addendum 2026-08-31 ~9:44am PDT — ⭐⭐⭐ **CALIFORNIA'S UTILITY LESSON + THE GAS-PROPOSAL EXPLOSION (Jake's brief):** (1) the narrower wildfire package (
 - `2026-08-31` [buildout-bottleneck-map.md:L1542](../buildout-bottleneck-map.md) — Addendum 2026-08-31 ~12:42pm PDT — ⚡ **THE RARE-EARTH CLIFF IS DATED (Class B sweep): China's Oct-2025 export controls are suspended only through NOV 
 - `2026-08-31` [buildout-bottleneck-map.md:L1544](../buildout-bottleneck-map.md) — Addendum 2026-08-31 ~5:45pm PDT — ⭐⭐⭐ **GS UPGRADES ITS HUMANOID FORECAST 4x, warehouses = the first deployment ground (ZH via Jake). Jake's read — "B
+
+## 2026-09
+
+- `2026-09-01` [buildout-bottleneck-map.md:L1556](../buildout-bottleneck-map.md) — Addendum 2026-09-01 ~9:15am PDT — ⭐⭐⭐⭐ **MUSK TAKES THE CASTING CLAIM TO THE G20 STAGE (Reuters/Barron's via Jake's brief): a coming "CRISIS OF POWER"
