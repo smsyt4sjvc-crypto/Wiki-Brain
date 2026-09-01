@@ -1603,3 +1603,15 @@ solar claims — any capex/factory evidence ever.
 ### Addendum 2026-08-31 ~9:44am PDT — ⭐⭐⭐ **CALIFORNIA'S UTILITY LESSON + THE GAS-PROPOSAL EXPLOSION (Jake's brief):** (1) the narrower wildfire package (no broad liability shield; $21B fund without replenishment) hit PCG −20% / EIX −20% / SRE −3-5% in one session, BMO/Mizuho downgrades — **the AI-power-demand bull case can be overwhelmed OVERNIGHT by a liability regime: utilities finance the buildout at regulated returns while carrying legislatively-resettable tail risk. The vault's basket construction VALIDATED by omission — the power leg holds equipment/services (GEV/ETN, +PWR/VRT named by the brief), never utilities.** ⚠️ Jake's scan roster DOES hold utility-class names (VST/CEG/TLN/ETR — merchant/IPP-tilted, not CA-regulated, but the risk-premium lesson reads across). (2) **Proposed US gas generation for data centers: ~97GW → ~189GW in six months (+95%)** — proposed ≠ built (ladder), but the proposal slope is the demand signal feeding the turbine/casting chokepoint (Musk entry 8/30) and the +185GW chart. Gartner: AI-server power 175 TWh '26 (+84%). [[metered-compute]] · [[oil-value-chain]]
 
 ### Addendum 2026-08-31 ~12:42pm PDT — ⚡ **THE RARE-EARTH CLIFF IS DATED (Class B sweep): China's Oct-2025 export controls are suspended only through NOV 10, 2026 — THEN FULL PROHIBITION.** The MP/UUUU/USAR/ALOY thesis has a hard calendar edge — and it lands ONE WEEK after the midterms, SIX days after the refunding, creating the NOVEMBER CLUSTER (11/3 midterms · 11/4 refunding · 11/10 rare-earth cliff · 11/12 Cursor cutoff). The Xi summit (~Sept/Oct) sits 5-6 weeks BEFORE the cliff — **the cliff IS China's dated leverage in the collection round; extending the suspension = a deal concession to watch; letting it lapse = the magnet-supply shock the domestic buildout (ASM close, Serra Verde, VAC) is racing.** [[new-economy-regime]] · [[forest]]
+
+### Addendum 2026-08-31 ~5:52pm PDT — ⭐⭐⭐ **GS UPGRADES ITS HUMANOID FORECAST 4x, warehouses = the first deployment ground (ZH via Jake). Jake's read — "BULLISH MAGNETS" — is the board's standing conclusion (`:L1260`: the investable edge is Western MINE-TO-MAGNET capacity, "not humanoid unit counts"), now with the demand leg upgraded 4x INTO the Nov 10 supply cliff.**
+- Humanoids are magnet-dense (kg-class NdFeB per unit); a 4x unit-forecast revision is a
+  4x-class NdPr/Dy/Tb demand revision at the material layer — landing while China's
+  export-control suspension expires Nov 10 into full prohibition. **Demand shocked UP by
+  forecast, supply cliff DATED: the squeeze from both ends is the MP/UUUU/USAR/ALOY case
+  compressed into one quarter.** Warehouses-first = logistics deployments pull the demand
+  NEARER (before factory/humanoid-at-home timelines). Discipline held: GS forecast =
+  sell-side rung; the vault plays the material chokepoint, not robot unit counts — Jake's
+  three words = the entire filed thesis. **📌** the GS note's unit numbers ⬜ · magnet-maker
+  order books (the ASM Korean plant's 1,300→3,600 t/y ramp just gained a demand casus) ·
+  the Nov 10 branch carries the kicker. [[forest]] · [[new-economy-regime]]
