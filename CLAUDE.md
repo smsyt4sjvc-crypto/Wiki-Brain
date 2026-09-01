@@ -134,7 +134,8 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     ~~Rule 14 itself still stands.~~ 🔄 **14 RETIRED same day — see above.** Full: [[_persona]] 8/17.
 16c. ⭐★★★ **THE 120-DAY RATING RULE (set 2026-09-01, Jake's spec):** every MATERIAL filed item
     (skip small revisions) gets a **direct investment rating 1-10** (10 = very significant, 1 =
-    benign) **scoped to the NOW→120-DAY window — the window IS the trading anchor.** His words:
+    benign) **scoped to a ROLLING 120-DAY window opening at the item's POST time — "now" moves
+    with each inbound; never a fixed calendar block — and the window IS the trading anchor.** His words:
     *"Predicting anything any further out in this environment is a mistake."* ⇒ An item whose
     payoff lands beyond ~120 days is rated ONLY on what it prices INSIDE the window (a 2030s LOI
     ≈ 1-2 no matter how big the story). Rate at filing time, in the entry or the reply — not as
