@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **156 dated entries across 3 notes · 2026-07-09 → 2026-09-01 · refreshed 2026-09-01 11:05 PDT**
+> **158 dated entries across 3 notes · 2026-07-09 → 2026-09-01 · refreshed 2026-09-01 11:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -171,7 +171,9 @@
 - `2026-09-01` [buildout-bottleneck-map.md:L1556](../buildout-bottleneck-map.md) — Addendum 2026-09-01 ~9:15am PDT — ⭐⭐⭐⭐ **MUSK TAKES THE CASTING CLAIM TO THE G20 STAGE (Reuters/Barron's via Jake's brief): a coming "CRISIS OF POWER"
 - `2026-09-01` [buildout-bottleneck-map.md:L1563](../buildout-bottleneck-map.md) — 2026-09-01 ~9:20am PDT — ⭐⭐⭐⭐⭐ **THE GHOST-MW PURGE (Reuters quantification via 9/1 holdings scan; the policy pre-dates the scan): very-large-load req
 - `2026-09-01` [buildout-bottleneck-map.md:L1576](../buildout-bottleneck-map.md) — Addendum 2026-09-01 ~9:52am PDT — **critical-minerals adds (ZH scan):** (1) **US TUNGSTEN SCRAP EXPORT BAN took effect end of last week** — the decoup
+- `2026-09-01` [buildout-bottleneck-map.md:L1578](../buildout-bottleneck-map.md) — Addendum 2026-09-01 ~11:10am PDT — **MUSK'S G20 NUMBER IS THE BOARD'S 8/30 NUMBER (:L1554 — "consensus ~15GW of 2027 AI compute cannot be turned on"),
 - `2026-09-01` [war-board.md:L4275](../war/war-board.md) — 2026-09-01 ~7:50am PDT — ⛔⭐⭐⭐⭐⭐ **EVENT CLASS, UNDER THE STANDING FILTER: TWO SAUDI-CRUDE SUPERTANKERS HIT IN HORMUZ (Reuters/Kpler, via 9/1 intellige
 - `2026-09-01` [war-board.md:L4287](../war/war-board.md) — Addendum 2026-09-01 ~9:46am PDT — **ZH feed scan, three war-board items:** (1) **IRAN OFFERS A CONDITIONAL CEASEFIRE** — Pezeshkian: return to talks I
 - `2026-09-01` [war-board.md:L4289](../war/war-board.md) — 2026-09-01 ~9:45am PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE US IS STRIKING IRGC TARGETS INSIDE IRAN — CENTCOM (posted ~9:36am PT): "Today at 12 p.m. ET, U.S. forces began
 - `2026-09-01` [war-board.md:L4300](../war/war-board.md) — Addendum 2026-09-01 ~9:55am PDT — ✅⭐⭐⭐⭐ **THE TAPE, ~34 MIN INTO THE STRIKES (Yahoo, 12:34pm ET, header reconciliation ✓ both quotes): BRENT $94.29 +4
+- `2026-09-01` [war-board.md:L4302](../war/war-board.md) — Addendum 2026-09-01 ~11:25am PDT — ⭐⭐⭐⭐ **THE FORK, FIRST READ (ZH feed, wires): strikes reported across IRAN'S SOUTHERN REGIONS (state TV) — explosio

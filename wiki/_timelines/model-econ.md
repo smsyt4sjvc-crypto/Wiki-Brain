@@ -1,6 +1,6 @@
 # ⏱ MODEL-ECON — merged timeline (the gate)
 
-> **161 dated entries across 2 notes · 2026-07-16 → 2026-08-31 · refreshed 2026-09-01 11:05 PDT**
+> **162 dated entries across 2 notes · 2026-07-16 → 2026-09-01 · refreshed 2026-09-01 11:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -177,3 +177,7 @@
 - `2026-08-28` [metered-compute.md:L3182](../metered-compute.md) — Addendum 2026-08-28 ~7:35pm PDT (full statement, same hour) — **THE FULL TEXT UPGRADES THE READ THREE WAYS: it's a CHANGE-OF-CONTROL clause exercised 
 - `2026-08-31` [metered-compute.md:L3212](../metered-compute.md) — 2026-08-31 ~9:35am PDT — ⭐⭐⭐⭐⭐ **TOKEN-ECONOMICS WEEKLY (Jake's brief, sources verified per-item): THE BARBELL CONFIRMS IN PRODUCTION DATA — Vercel Ju
 - `2026-08-31` [metered-compute.md:L3270](../metered-compute.md) — Addendum 2026-08-31 ~6:55pm PDT — **THE TOKEN INDEX BREAKS TO A RECORD LOW: Silicon Data LLM Token Expenditure Index 1.0018** (chart archived `raw/202
+
+## 2026-09
+
+- `2026-09-01` [metered-compute.md:L3283](../metered-compute.md) — Addendum 2026-09-01 ~11:27am PDT — ⭐⭐⭐ **THE CURSOR NATURAL EXPERIMENT GETS ITS DENOMINATOR (Epoch Times via ZH): OpenAI models serve only ~5% OF CURS

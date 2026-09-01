@@ -1,6 +1,6 @@
 # ⏱ POWER — merged timeline (the gate)
 
-> **78 dated entries across 3 notes · 2026-06-30 → 2026-09-01 · refreshed 2026-09-01 11:05 PDT**
+> **79 dated entries across 3 notes · 2026-06-30 → 2026-09-01 · refreshed 2026-09-01 11:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -100,3 +100,4 @@
 - `2026-09-01` [buildout-bottleneck-map.md:L1556](../buildout-bottleneck-map.md) — Addendum 2026-09-01 ~9:15am PDT — ⭐⭐⭐⭐ **MUSK TAKES THE CASTING CLAIM TO THE G20 STAGE (Reuters/Barron's via Jake's brief): a coming "CRISIS OF POWER"
 - `2026-09-01` [buildout-bottleneck-map.md:L1563](../buildout-bottleneck-map.md) — 2026-09-01 ~9:20am PDT — ⭐⭐⭐⭐⭐ **THE GHOST-MW PURGE (Reuters quantification via 9/1 holdings scan; the policy pre-dates the scan): very-large-load req
 - `2026-09-01` [buildout-bottleneck-map.md:L1576](../buildout-bottleneck-map.md) — Addendum 2026-09-01 ~9:52am PDT — **critical-minerals adds (ZH scan):** (1) **US TUNGSTEN SCRAP EXPORT BAN took effect end of last week** — the decoup
+- `2026-09-01` [buildout-bottleneck-map.md:L1578](../buildout-bottleneck-map.md) — Addendum 2026-09-01 ~11:10am PDT — **MUSK'S G20 NUMBER IS THE BOARD'S 8/30 NUMBER (:L1554 — "consensus ~15GW of 2027 AI compute cannot be turned on"),
