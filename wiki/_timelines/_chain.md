@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **742 dated entries · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 13:16 PDT**
+> **745 dated entries · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 16:18 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -762,6 +762,7 @@
 - `2026-09-01` **[1]** rates-board.md:L1926 — Addendum 2026-09-01 ~9:48am PDT — ⭐⭐⭐ **TAPE CHECK (ZH futures wrap): equities finally REACT — S&P fut −0.6%, Nasdaq −1.2%, semis −1.4%/memory −2.2%, 
 - `2026-09-01` **[1]** rates-board.md:L1928 — Addendum 2026-09-01 ~12:35pm PDT — ✅⭐⭐⭐⭐⭐ **BOND CLOSE, CONTROL-WEEK DAY 2 (Yahoo ^TYX, "at close 1:59pm CDT," header test ✓): 30Y 5.27 (+2bp from 5.2
 - `2026-09-01` **[1]** rates-board.md:L1930 — 2026-09-01 ~1:15pm PDT — ⭐⭐⭐⭐⭐⭐ **TUESDAY CLOSE (9/1 scan, `raw/2026-09-01-bond-close-scan.txt`): THE FLIP TEST RESULT IS IN — Monday's OAS obs (war p
+- `2026-09-01` **[1]** rates-board.md:L1948 — Addendum 2026-09-01 ~1:30pm PDT — ✅⭐⭐⭐⭐ **THE FRAGILITY LADDER CORROBORATES THE BOTTOM-RUNG READ FROM A SECOND INSTRUMENT (feed refreshed in-session, 
 - `2026-09-01` **[1]** new-economy-regime.md:L4751 — Addendum 2026-09-01 ~8:00am PDT — ⭐⭐⭐⭐ **THE "CAROLINA PRINCIPLES" (Reuters, via 9/1 brief): the White House takes a HANDS-OFF-AI position to the same
 - `2026-09-01` **[1]** new-economy-regime.md:L4757 — Addendum 2026-09-01 ~8:25am PDT — ✅⭐⭐⭐ **JOLTS JULY (7am PT registered item, closed): the frozen-labor regime prints ANOTHER tick, with the freeze DEE
 - `2026-09-01` **[1]** new-economy-regime.md:L4763 — Addendum 2026-09-01 ~9:17am PDT — **Musk publicly backs the Carolina Principles at the G20 ("default legal, not default illegal"; favor startups/acces
@@ -769,6 +770,7 @@
 - `2026-09-01` **[1]** new-economy-regime.md:L4767 — 2026-09-01 ~9:30am PDT — ⭐⭐⭐⭐ **RABOBANK/PICTON ON THE G20 (ZH, Jake's paste): "DEATH BY A THOUSAND CUTS" — the Economic Outcast campaign gets its ALL
 - `2026-09-01` **[1]** new-economy-regime.md:L4783 — Addendum 2026-09-01 ~10:20am PDT — **SACKS AT THE G20 (AFP via Jake): the light-touch doctrine gets its OPERATIONAL edge — explicit rejection of any p
 - `2026-09-01` **[1]** new-economy-regime.md:L4787 — Addendum 2026-09-01 ~11:29am PDT — ⭐⭐⭐⭐ **GS/FEILER: "WORSE UNDER THE HOOD" — CONSUMER STOCKS CRACKING (ZH): retail −6.5% in August, −5% vs the market
+- `2026-09-01` **[1]** new-economy-regime.md:L4791 — Addendum 2026-09-01 ~4:20pm PDT — **Administered-price ledger add (WH "Unleashing American Energy" fact sheet → full entry [[oil-value-chain]] 4:15pm)
 - `2026-09-01` **[3]** ai-financing-fragility.md:L7633 — Addendum 2026-09-01 ~1:22pm PDT — ⭐⭐⭐⭐ **THE LADDER'S TOP RUNG WAS ABSORBED BY A SPONSOR (9/1 close scan, xAI→SpaceX debt migration): legacy xAI/X sec
 - `2026-09-01` **[3]** balance-sheet-board.md:L728 — 2026-09-01 ~7:45am PDT — ⭐⭐⭐⭐⭐ **SB ENERGY FILES THE IPO (ticker SBE) — the registered S-1 watch CLOSES with the structure now public: $5-7B raise · ~
 - `2026-09-01` **[3]** balance-sheet-board.md:L729 — DATA (9/1 opening scan, `raw/2026-09-01-bond-opening-scan.txt`)
@@ -777,3 +779,4 @@
 - `2026-09-01` **[3]** balance-sheet-board.md:L746 — Addendum 2026-09-01 ~1:20pm PDT — ⭐⭐⭐⭐ **CLOSE-SCAN SHEETS ADDS (most of the ladder = re-derivations of today's 7:45am filing; the NEW items):** (1) *
 - `2026-09-01` **[4]** ai-capex-cycle.md:L3506 — Addendum 2026-09-01 ~9:50am PDT — ⚠️⭐⭐⭐ **MU −2% PRE-MARKET ON A REPORTED LABOR-UNION STRIKE AT MICRON'S TAIWAN OPERATIONS (ZH futures wrap — headline
 - `2026-09-01` **[5]** metered-compute.md:L3283 — Addendum 2026-09-01 ~11:27am PDT — ⭐⭐⭐ **THE CURSOR NATURAL EXPERIMENT GETS ITS DENOMINATOR (Epoch Times via ZH): OpenAI models serve only ~5% OF CURS
+- `2026-09-01` **[5]** metered-compute.md:L3285 — Addendum 2026-09-01 ~4:00pm PDT — ⭐⭐⭐ **THE TOKEN INDEX BREAKS $1 — Silicon Data LLM Token Expenditure Index 0.9665 (chart via Jake, `raw/2026-09-01-s

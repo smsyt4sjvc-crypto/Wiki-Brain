@@ -1,6 +1,6 @@
 # ⏱ EUROGAS — merged timeline (the gate)
 
-> **178 dated entries across 3 notes · 2026-07-23 → 2026-09-01 · refreshed 2026-09-01 13:16 PDT**
+> **179 dated entries across 3 notes · 2026-07-23 → 2026-09-01 · refreshed 2026-09-01 16:18 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -181,6 +181,7 @@
 - `2026-09-01` [oil-value-chain.md:L2534](../oil-value-chain.md) — Addendum 2026-09-01 ~9:50am PDT — **Jake's Q: "When does Venezuela relieve Brent?" — answered (rule 14 shape), and the watch sharpened.** THE CALL: no
 - `2026-09-01` [oil-value-chain.md:L2536](../oil-value-chain.md) — 2026-09-01 ~11:05am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CAMPAIGN SIGNATURE BREACHES $100 AND KEEPS GOING: NYMEX 1-MONTH HEATING-OIL/CRUDE SPREAD (HOCL1) THROUGH $100 
 - `2026-09-01` [oil-value-chain.md:L2549](../oil-value-chain.md) — Addendum 2026-09-01 ~1:05pm PDT — ⭐⭐⭐⭐⭐ **THE CONVERSION-CAPACITY REGIME GETS ITS MEASURED DENOMINATOR (Goldman/Struyven via ZH wrap): GLOBAL REFINERY
+- `2026-09-01` [oil-value-chain.md:L2551](../oil-value-chain.md) — 2026-09-01 ~4:15pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE KILL-SWITCH FIRES A THIRD TIME — AND SPARES THE CRACK A THIRD TIME. White House fact sheet "President Trump Is 
 - `2026-09-01` [war-board.md:L4275](../war/war-board.md) — 2026-09-01 ~7:50am PDT — ⛔⭐⭐⭐⭐⭐ **EVENT CLASS, UNDER THE STANDING FILTER: TWO SAUDI-CRUDE SUPERTANKERS HIT IN HORMUZ (Reuters/Kpler, via 9/1 intellige
 - `2026-09-01` [war-board.md:L4287](../war/war-board.md) — Addendum 2026-09-01 ~9:46am PDT — **ZH feed scan, three war-board items:** (1) **IRAN OFFERS A CONDITIONAL CEASEFIRE** — Pezeshkian: return to talks I
 - `2026-09-01` [war-board.md:L4289](../war/war-board.md) — 2026-09-01 ~9:45am PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE US IS STRIKING IRGC TARGETS INSIDE IRAN — CENTCOM (posted ~9:36am PT): "Today at 12 p.m. ET, U.S. forces began
