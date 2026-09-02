@@ -1,0 +1,131 @@
+DAILY HOLDINGS SCAN — MATERIAL CHANGES
+Sep. 2, 2026 — morning
+Window: since prior Sep. 1 scan
+Plus two material late-caught filings clearly labeled below
+
+HIGHEST IMPACT
+
+DELL — Q2 FY27 MASSIVE AI SERVER BEAT + FULL-YEAR OUTLOOK RAISED $25B — COMPANY + SEC CONFIRMED
+Q2 revenue — $47.0B, +58% YoY.
+Non-GAAP EPS — $7.04, +203% YoY.
+AI-optimized server revenue — $16.4B, +100% YoY.
+AI server orders booked in Q2 — $60.9B.
+AI server backlog exiting Q2 — record $95B.
+FY27 total revenue guide — $192B vs $167B previously.
+FY27 AI-server revenue guide — $74B vs $60B previously.
+FY27 non-GAAP EPS guide — $25.50 vs $17.90 previously.
+Q3 revenue guide — $49B.
+WHY IT MATTERS — This is one of the strongest hard-demand confirmations yet for the physical AI build. Dell booked almost 4x its quarterly AI-server revenue in new AI orders during the quarter, so backlog is still expanding despite enormous shipments.
+PORTFOLIO READ — Strong positive demand read-through for NVDA, MU/HBM, MRVL/CRDO/COHR/LITE interconnect, TSM and semiconductor equipment. Also reinforces the concern that hyperscaler/neocloud infrastructure commitments are still accelerating rather than normalizing.
+
+CRDO — Q1 FY27 BEAT + OPTICS OUTLOOK RAISED, BUT EXPECTATIONS WERE EVEN HIGHER — COMPANY + SEC CONFIRMED
+Q1 revenue — $479.0M, +9.6% QoQ / +114.7% YoY.
+Non-GAAP EPS — $1.20.
+Non-GAAP gross margin — 68.0%.
+Q2 revenue guide — $525M-$535M.
+Q2 non-GAAP gross margin guide — 67%-69%.
+FY27 revenue growth outlook — >85% YoY.
+FY27 optical revenue outlook — >$600M.
+Management expects ZeroFlap Optics, silicon-photonics PICs and optical DSPs to EACH contribute >$100M in FY27.
+Initial 1.6T optical-DSP revenue remains expected later in FY27.
+Top four customers — approximately 33%, 28%, 13% and 10% of Q1 revenue.
+Inventory — $313.1M, +$62.2M QoQ as Credo builds ahead of the optical ramp.
+WHY STOCK IS DOWN — The beat and guide were strong in absolute terms but smaller than elevated buy-side expectations; optical ramp timing and gross-margin progression appear to be the main disappointment rather than a demand collapse.
+PORTFOLIO READ — Fundamental AI-connectivity thesis remains strong. Important positive read-through for the transition from copper/AEC dominance toward 800G/1.6T optics, silicon photonics and eventually NPO/CPO.
+
+RATES / OIL — FINANCING PRESSURE WORSENS AGAIN THIS MORNING
+U.S. 10Y Treasury — briefly ~4.81%, near a three-year high.
+Brent — traded around $95-$96/bbl amid renewed U.S.-Iran/Hormuz tension.
+WHY IT MATTERS — The AI demand data from DELL/CRDO is strengthening at exactly the same time the discount rate and infrastructure-financing cost are moving higher.
+PORTFOLIO READ — Biggest sensitivity remains CRWV, IREN, NBIS, ORCL and other capital-intensive/neocloud infrastructure. Higher rates also pressure pre-revenue nuclear developers such as OKLO/SMR.
+
+TAIWAN / U.S. SEMICONDUCTOR LOCALIZATION — NEW $20B INVESTMENT SIGNAL — REUTERS
+Taiwan's economy minister said Taiwanese companies are planning another approximately $20B of U.S. investment, driven by AI demand.
+Specific companies/projects were not identified.
+WHY IT MATTERS — Reinforces the structural movement of semiconductor/AI manufacturing capacity toward the U.S., but there is not enough disclosure yet to assign a specific dollar benefit to TSM or another portfolio holding.
+PORTFOLIO READ — Broadly positive U.S. semiconductor-capex signal; relevant to TSM, AMAT, LRCX, KLAC and ASML.
+
+LATE-CATCH — IMPORTANT FILINGS MISSED BY PRIOR SCAN
+
+NVDA / SB ENERGY — COUNTERPARTY S-1 EXPOSES THE ECONOMICS UNDER NVIDIA'S $105B GUARANTEE — SB ENERGY SEC FILING, FILED AUG. 31
+This is NOT a new Sep. 2 Nvidia filing; the S-1 surfaced after the prior scan.
+SB Energy says Nvidia is a strategic investor AND residual-value guarantor at PORTS-Pike.
+Nvidia IPO-linked commitment — $3.0B total:
+$1.5B private placement.
+$1.5B prepaid-forward contract.
+SB Energy contracted data-center portfolio — approximately 8.8GW.
+Operating data centers at filing date — zero.
+H1 2026 revenue — approximately $138.7M, mostly legacy power operations.
+H1 2026 net loss — approximately $3.2B.
+SB Energy explicitly says it is substantially dependent on OpenAI as tenant/investor for near-term revenue, financing and development.
+OpenAI holds roughly 4M SB Energy warrants and has board-designation rights subject to ownership thresholds.
+Nvidia's previously disclosed PORTS-Pike residual-value guarantee remains capped at $105B for the initial approximately 4.25GW.
+WHY IT MATTERS — The guarantee itself was already in NVDA's 10-Q; the NEW VALUE of the counterparty filing is seeing what sits behind it: zero operating DC capacity today, enormous contracted future capacity, large losses and heavy OpenAI concentration.
+SHADOW-LEVERAGE READ — Materially increases transparency, not necessarily the nominal exposure. It confirms our concern that Nvidia's credit support is enabling financing for infrastructure whose economics depend heavily on OpenAI actually taking and paying for future capacity.
+
+OKLO — PJM REMOVED 750MW OHIO PROJECT FROM INTERCONNECTION CYCLE; FERC COMPLAINT FILED AUG. 28 — LATE-CATCH
+This filing predates yesterday's scan but became a material market issue after that run.
+Project — 750MW total:
+150MW advanced nuclear.
+300MW fuel cells.
+300MW gas generation.
+PJM removed the application from Cycle 1.
+Oklo filed FERC complaint EL26-101-000 seeking fast-track relief and restoration.
+Reported consequence if not restored — at least ~14-month delay plus higher development costs.
+The project sits within the broader Pike County, Ohio development associated with Oklo's Meta-backed power strategy.
+WHY IT MATTERS — This is direct evidence that INTERCONNECTION execution, not just reactor licensing, is a material bottleneck for advanced-nuclear/data-center projects.
+PORTFOLIO READ — Negative OKLO execution signal. Also reinforces why already-connected generation at VST/CEG/TLN can deserve a scarcity premium versus greenfield projects.
+
+TODAY'S MAJOR CATALYST
+
+AVGO — Q3 FY26 EARNINGS AFTER CLOSE TODAY
+Call — 2:00 p.m. PT / 5:00 p.m. ET.
+Street revenue expectation — roughly $29.2B.
+Street adjusted EPS — roughly $3.21-$3.22.
+WATCH — custom AI accelerator revenue, Google's TPU trajectory, OpenAI/custom-XPU programs, networking/optics, FY27 AI-revenue outlook and any update on the roughly $29B data-center/SPV lease exposure previously disclosed.
+PORTFOLIO READ — Probably today's single most important cross-portfolio event for NVDA/MRVL/CRDO/COHR/LITE/TSM.
+
+CROSS-PORTFOLIO THEMES
+
+AI CAPEX — STRENGTHENED
+DELL: $60.9B AI orders in ONE quarter and $95B backlog.
+CRDO: >85% FY27 growth outlook and >$600M optics.
+Hard demand remains substantially stronger than the macro/rates backdrop would imply.
+
+OPTICS / INTERCONNECT — STRENGTHENED
+CRDO explicitly expects optics >$600M FY27 with three separate optical categories each >$100M.
+Dell's $95B AI-server backlog provides another large underlying system-demand pool.
+Positive read-through: CRDO, MRVL, COHR, LITE, ALAB, MTSI.
+
+MEMORY — POSITIVE DEMAND / SUPPLY PRESSURE
+Dell's server ramp adds another hard demand datapoint on top of Nvidia's previously disclosed $279B supply/capacity commitments.
+Read-through remains positive MU/HBM and semiconductor equipment.
+
+AI SHADOW LEVERAGE — TRANSPARENCY IMPROVED, RISK STILL RISING
+SB Energy's S-1 lets us see the operating counterparty behind Nvidia's giant residual-value guarantee.
+The structure increasingly looks like:
+AI lab lease commitment
+→ developer builds multi-GW campus
+→ Nvidia provides residual-value/credit support
+→ outside lenders finance construction
+→ Nvidia/OpenAI/SoftBank take equity/warrants.
+This remains one of the portfolio's most important systemic risks.
+
+POWER AVAILABILITY / GRID — BOTTLENECK CONFIRMED
+Oklo's PJM fight shows a project can have customer backing and technology plans yet still lose more than a year to interconnection process risk.
+Scarce existing MW remain strategically valuable.
+
+NUCLEAR — MIXED
+OKLO — negative interconnection execution development.
+No new material CEG/VST/TLN/BWXT/SMR event since prior scan.
+
+CHINA / TAIWAN — LOCALIZATION CONTINUES
+Taiwan companies planning another ~$20B in U.S. investment supports domestic-fab/tool demand, but no new semiconductor export-control rule was identified since yesterday.
+
+CRITICAL MINERALS — NO NEW MATERIAL EVENT
+USAR Serra Verde shareholder approval remains confirmed; I still do not find an official filing announcing transaction CLOSE.
+No new material UUUU, MP or ALOY development since prior scan.
+
+NO OTHER MATERIAL NEW HOLDING-SPECIFIC DEVELOPMENT FOUND
+
+INTC, NVDA excluding late-catch above, ASX, MCHP, KLAC, ON, MRVL, QCOM, AMD, NXPI, TXN, LRCX, TSM, ADI, AMAT, MU, ALAB, TER, MTSI, MPWR, ASML, ALOY, UUUU, USAR, MP, VST, CEG, TLN, BWXT, GEV, SMR, ETR, RNW, RIVN, IREN, QRVO, CRWV, GFS, ORCL, SWKS, EWY, NBIS, COHR, ARM, LITE.

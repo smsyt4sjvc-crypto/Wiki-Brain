@@ -44,9 +44,10 @@ entry, never here.
 | BE | **6** | — (init) | 2026-09-02 | Fuel cells = "immediately" in the BTM architecture; execution/dilution history caps | [[buildout-bottleneck-map]] 9/2 |
 | CEG | **7** | — (init) | 2026-09-02 | Existing nuclear generation; same scarce-deliverable-MW logic as VST/TLN | [[buildout-bottleneck-map]] 9/2 |
 | BWXT | **6** | — (init) | 2026-09-02 | Nuclear manufacturing; in-window catalysts thin (NB LOI 2030s) | [[buildout-bottleneck-map]] 9/2 |
-| OKLO | **5** | — (init) | 2026-09-02 | SMR optionality; revenue beyond window; narrative-driven | [[buildout-bottleneck-map]] 9/2 |
+| OKLO | **4** | 5 | 2026-09-02 | ↓ PJM removed the 750MW Pike County OH project from Cycle 1; FERC complaint EL26-101; ≥14-mo delay if not restored — execution risk realized; FERC ruling = in-window catalyst | [[buildout-bottleneck-map]] 9/2 8:47am |
 
-| DELL | **7** | — (init) | 2026-09-02 | Raised annual sales forecast by ~$25B (AI servers); hardware buoyed on a risk-off tape; capex-recipient side of the chain; margin/mix is the cap | [[rates-board]] 9/2 8:40am (ZH wrap) |
+| DELL | **8** | 7 | 2026-09-02 | ↑ Full print: AI orders $60.9B ≈ 3.7x shipped, backlog $95B record, FY27 EPS guide $25.50 (+42%), AI-server guide $74B; margin/mix is the cap | [[ai-capex-cycle]] 9/2 |
+| CRDO | **6** | — (init) | 2026-09-02 | +115% y/y, >85% FY27 guide, optics >$600M — but stock down on elevated expectations/margin timing; two customers = 61% of revenue | [[ai-capex-cycle]] 9/2 |
 
 **Refinery basket disconfirmers (shared):** (1) ~~the kill-switch's THIRD firing NOT sparing the crack~~ ✅ RESOLVED 9/1 4:15pm: firing #3 = refiner summit/expansion + Venezuelan feedstock + SREs — spared the crack (n=3). Residual: the summit READOUT (any price/export restraint ask) = same-day reversal trigger, Gulf exporters first; (2) Edouard physical damage — an outage name underperforms peers even in a margin windfall (VLO Port Arthur, MPC Galveston Bay, PSX Lake Charles all in/near the corridor); (3) ~~⬜ where the equities sit vs the crack~~ ✅ CLOSED 11:20am: NOT priced as a bubble — fwd P/E 4-9x, FCF yields 6-13%, earnings outran price; the risk is crack NORMALIZATION (agents: release valve/kill-switch/Venezuela — all rated slow or capped this week). In-window catalyst: Q3 prints vs Q2's $23-36/bbl realized margins with the crack at $106.
 
