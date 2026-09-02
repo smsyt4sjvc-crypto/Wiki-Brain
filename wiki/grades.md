@@ -46,6 +46,8 @@ entry, never here.
 | BWXT | **6** | — (init) | 2026-09-02 | Nuclear manufacturing; in-window catalysts thin (NB LOI 2030s) | [[buildout-bottleneck-map]] 9/2 |
 | OKLO | **5** | — (init) | 2026-09-02 | SMR optionality; revenue beyond window; narrative-driven | [[buildout-bottleneck-map]] 9/2 |
 
+| DELL | **7** | — (init) | 2026-09-02 | Raised annual sales forecast by ~$25B (AI servers); hardware buoyed on a risk-off tape; capex-recipient side of the chain; margin/mix is the cap | [[rates-board]] 9/2 8:40am (ZH wrap) |
+
 **Refinery basket disconfirmers (shared):** (1) ~~the kill-switch's THIRD firing NOT sparing the crack~~ ✅ RESOLVED 9/1 4:15pm: firing #3 = refiner summit/expansion + Venezuelan feedstock + SREs — spared the crack (n=3). Residual: the summit READOUT (any price/export restraint ask) = same-day reversal trigger, Gulf exporters first; (2) Edouard physical damage — an outage name underperforms peers even in a margin windfall (VLO Port Arthur, MPC Galveston Bay, PSX Lake Charles all in/near the corridor); (3) ~~⬜ where the equities sit vs the crack~~ ✅ CLOSED 11:20am: NOT priced as a bubble — fwd P/E 4-9x, FCF yields 6-13%, earnings outran price; the risk is crack NORMALIZATION (agents: release valve/kill-switch/Venezuela — all rated slow or capped this week). In-window catalyst: Q3 prints vs Q2's $23-36/bbl realized margins with the crack at $106.
 
 **Not grades: the macro overlay** (rates/oil complex) is the environment, not a name —

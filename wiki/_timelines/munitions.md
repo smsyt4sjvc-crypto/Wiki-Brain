@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **223 dated entries across 2 notes · 2026-05-22 → 2026-09-01 · refreshed 2026-09-02 08:10 PDT**
+> **225 dated entries across 2 notes · 2026-05-22 → 2026-09-02 · refreshed 2026-09-02 08:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -248,3 +248,5 @@
 - `2026-09-01` [war-board.md:L4375](../war/war-board.md) — Addendum 2026-09-01 ~1:05pm PDT — ✅ **THE MoU DATE ⬜ RESOLVES (Jake, recollection): two dates of ONE collapse — DE JURE and DE FACTO.** ~~The Islamaba
 - `2026-09-01` [war-board.md:L4377](../war/war-board.md) — Addendum 2026-09-01 ~1:10pm PDT — ✅⭐⭐⭐⭐ **THE MoU, AT TERMS LEVEL (Jake's gopher summary — supersedes the 1:05pm recollection on the numbers): JUNE 17
 - `2026-09-01` [war-board.md:L4383](../war/war-board.md) — 2026-09-01 ~7:55pm PDT — ⛔⭐⭐⭐⭐ **THE OFFICIAL HORMUZ VOLUME CLAIM vs THE VESSEL DATA (Jake's flag + primary pulled): Energy Secretary Wright, Sept 1 (
+- `2026-09-02` [ai-capex-cycle.md:L3509](../ai-capex-cycle.md) — 2026-09-02 ~8:25am PDT — ✅⭐⭐⭐⭐⭐ **SOCIAL LICENSE IS NOW A CABINET-LEVEL CONSTRAINT — AND THE 7/05 PREDICTION GRADES CONFIRMED. Bessent (Chapel Hill, v
+- `2026-09-02` [war-board.md:L4396](../war/war-board.md) — 2026-09-02 ~8:35am PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE OVERNIGHT, ASSESSED (ZH feed scan, `raw/2026-09-02-zh-feed-scan.txt`): (1) IRANIAN TOLL 18, including an alleg

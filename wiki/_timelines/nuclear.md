@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **79 dated entries across 3 notes · 2026-06-30 → 2026-09-01 · refreshed 2026-09-02 08:10 PDT**
+> **81 dated entries across 3 notes · 2026-06-30 → 2026-09-02 · refreshed 2026-09-02 08:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -101,3 +101,5 @@
 - `2026-09-01` [buildout-bottleneck-map.md:L1563](../buildout-bottleneck-map.md) — 2026-09-01 ~9:20am PDT — ⭐⭐⭐⭐⭐ **THE GHOST-MW PURGE (Reuters quantification via 9/1 holdings scan; the policy pre-dates the scan): very-large-load req
 - `2026-09-01` [buildout-bottleneck-map.md:L1576](../buildout-bottleneck-map.md) — Addendum 2026-09-01 ~9:52am PDT — **critical-minerals adds (ZH scan):** (1) **US TUNGSTEN SCRAP EXPORT BAN took effect end of last week** — the decoup
 - `2026-09-01` [buildout-bottleneck-map.md:L1578](../buildout-bottleneck-map.md) — Addendum 2026-09-01 ~11:10am PDT — **MUSK'S G20 NUMBER IS THE BOARD'S 8/30 NUMBER (:L1554 — "consensus ~15GW of 2027 AI compute cannot be turned on"),
+- `2026-09-02` [buildout-bottleneck-map.md:L1583](../buildout-bottleneck-map.md) — 2026-09-02 ~8:15am PDT — ⭐⭐⭐⭐⭐ **CHAPEL HILL, TWO DAYS (Jake's summary, `raw/2026-09-02-g20-innovation-ministerial-summary.txt`): "AI CAPEX IS BECOMIN
+- `2026-09-02` [buildout-bottleneck-map.md:L1597](../buildout-bottleneck-map.md) — Addendum 2026-09-02 ~8:27am PDT — **Layer added to the map: SOCIAL LICENSE / community acceptance (Bessent "horrendous job," Trump "PR help," the Rate

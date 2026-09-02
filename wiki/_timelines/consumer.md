@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **416 dated entries across 6 notes · 2026-03-13 → 2026-09-02 · refreshed 2026-09-02 08:10 PDT**
+> **419 dated entries across 6 notes · 2026-03-13 → 2026-09-02 · refreshed 2026-09-02 08:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -440,4 +440,7 @@
 - `2026-09-01` [new-economy-regime.md:L4791](../new-economy-regime.md) — Addendum 2026-09-01 ~4:20pm PDT — **Administered-price ledger add (WH "Unleashing American Energy" fact sheet → full entry [[oil-value-chain]] 4:15pm)
 - `2026-09-01` [new-economy-regime.md:L4793](../new-economy-regime.md) — Addendum 2026-09-01 ~5:15pm PDT — ⭐⭐⭐⭐ **THE MINISTERIAL-RESPONSE WATCH RESOLVES WITH THE ONE SIGNATORY NOBODY REGISTERED: CHINA SIGNED THE CAROLINA P
 - `2026-09-01` [new-economy-regime.md:L4798](../new-economy-regime.md) — Addendum 2026-09-01 ~5:25pm PDT — ⭐⭐⭐⭐ **THE OTHER HALF OF THE SAME AFTERNOON (Axios/Brown, Jake's paste): G20 FINANCE COMMUNIQUÉ FAILS — CHINA THE LO
+- `2026-09-02` [demand-destruction.md:L3985](../demand-destruction.md) — 2026-09-02 ~8:42am PDT — ⭐⭐⭐⭐⭐ **THE IRAN LEG OF THE TETHER, MEASURED (Reuters via ZH): "Iran has gone about SEVEN WEEKS without shipping meaningful c
 - `2026-09-02` [new-economy-regime.md:L4805](../new-economy-regime.md) — 2026-09-02 ~7:50am PDT — ⭐⭐⭐ **ADP AUGUST +38K (cons +48K; July rev +46K from +44K) — the frozen-churn regime's next tick, now with SECTOR SHAPE: good
+- `2026-09-02` [new-economy-regime.md:L4811](../new-economy-regime.md) — 2026-09-02 ~8:20am PDT — **Chapel Hill Day 2 (Jake's summary → full entry [[buildout-bottleneck-map]] 9/2): LUTNICK — the administration's inclination
+- `2026-09-02` [new-economy-regime.md:L4813](../new-economy-regime.md) — Addendum 2026-09-02 ~8:47am PDT — **Two ZH items to the regime threads:** (1) **UBER cuts ~10% (~3,600) — "removing layers," reallocating to delivery,

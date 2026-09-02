@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **199 dated entries across 2 notes · 2026-03-13 → 2026-09-02 · refreshed 2026-09-02 08:10 PDT**
+> **202 dated entries across 2 notes · 2026-03-13 → 2026-09-02 · refreshed 2026-09-02 08:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -222,5 +222,8 @@
 - `2026-09-01` [oil-value-chain.md:L2536](../oil-value-chain.md) — 2026-09-01 ~11:05am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CAMPAIGN SIGNATURE BREACHES $100 AND KEEPS GOING: NYMEX 1-MONTH HEATING-OIL/CRUDE SPREAD (HOCL1) THROUGH $100 
 - `2026-09-01` [oil-value-chain.md:L2549](../oil-value-chain.md) — Addendum 2026-09-01 ~1:05pm PDT — ⭐⭐⭐⭐⭐ **THE CONVERSION-CAPACITY REGIME GETS ITS MEASURED DENOMINATOR (Goldman/Struyven via ZH wrap): GLOBAL REFINERY
 - `2026-09-01` [oil-value-chain.md:L2551](../oil-value-chain.md) — 2026-09-01 ~4:15pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE KILL-SWITCH FIRES A THIRD TIME — AND SPARES THE CRACK A THIRD TIME. White House fact sheet "President Trump Is 
+- `2026-09-02` [demand-destruction.md:L3985](../demand-destruction.md) — 2026-09-02 ~8:42am PDT — ⭐⭐⭐⭐⭐ **THE IRAN LEG OF THE TETHER, MEASURED (Reuters via ZH): "Iran has gone about SEVEN WEEKS without shipping meaningful c
 - `2026-09-02` [oil-value-chain.md:L2566](../oil-value-chain.md) — 2026-09-02 ~7:50am PDT — ⭐⭐⭐⭐ **EIA WEEKLY (Jake): CRUDE −4.45MM vs +60K expected · gasoline −1.17MM · distillates +796K · Cushing +80K · production +
 - `2026-09-02` [oil-value-chain.md:L2572](../oil-value-chain.md) — 2026-09-02 ~8:20am PDT — **VENEZUELA WILL NOT REFILL THE SPR (Jake: said "at the G20," speaker ⬜ — filed as recollection pending the quote).** If so, 
+- `2026-09-02` [oil-value-chain.md:L2574](../oil-value-chain.md) — Addendum 2026-09-02 ~8:35am PDT — ✅⭐⭐⭐⭐ **THE SPR-REFILL QUESTION, SOURCED (extends 8:20am): the G20 speaker Jake recalls is still ⬜, but the substanc
+- `2026-09-02` [oil-value-chain.md:L2579](../oil-value-chain.md) — 2026-09-02 ~8:45am PDT — ⭐⭐⭐ **Two corroborations (ZH scan):** (1) **"Feedstock is not fuel" (Karl Miller via Larry Johnson): Venezuelan crude "is the
