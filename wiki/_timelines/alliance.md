@@ -1,6 +1,6 @@
 # ⏱ ALLIANCE — merged timeline (the gate)
 
-> **311 dated entries across 3 notes · 2026-03-13 → 2026-09-01 · refreshed 2026-09-01 16:18 PDT**
+> **314 dated entries across 3 notes · 2026-03-13 → 2026-09-02 · refreshed 2026-09-02 08:10 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -336,3 +336,6 @@
 - `2026-09-01` [war-board.md:L4357](../war/war-board.md) — 2026-09-01 ~1:00pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **ZH LIVE WRAP (Jake's paste, `raw/2026-09-01-zh-iran-retaliation-wrap.txt`): (1) RETALIATION TARGET = US BASES IN J
 - `2026-09-01` [war-board.md:L4375](../war/war-board.md) — Addendum 2026-09-01 ~1:05pm PDT — ✅ **THE MoU DATE ⬜ RESOLVES (Jake, recollection): two dates of ONE collapse — DE JURE and DE FACTO.** ~~The Islamaba
 - `2026-09-01` [war-board.md:L4377](../war/war-board.md) — Addendum 2026-09-01 ~1:10pm PDT — ✅⭐⭐⭐⭐ **THE MoU, AT TERMS LEVEL (Jake's gopher summary — supersedes the 1:05pm recollection on the numbers): JUNE 17
+- `2026-09-01` [war-board.md:L4383](../war/war-board.md) — 2026-09-01 ~7:55pm PDT — ⛔⭐⭐⭐⭐ **THE OFFICIAL HORMUZ VOLUME CLAIM vs THE VESSEL DATA (Jake's flag + primary pulled): Energy Secretary Wright, Sept 1 (
+- `2026-09-02` [oil-value-chain.md:L2566](../oil-value-chain.md) — 2026-09-02 ~7:50am PDT — ⭐⭐⭐⭐ **EIA WEEKLY (Jake): CRUDE −4.45MM vs +60K expected · gasoline −1.17MM · distillates +796K · Cushing +80K · production +
+- `2026-09-02` [oil-value-chain.md:L2572](../oil-value-chain.md) — 2026-09-02 ~8:20am PDT — **VENEZUELA WILL NOT REFILL THE SPR (Jake: said "at the G20," speaker ⬜ — filed as recollection pending the quote).** If so, 

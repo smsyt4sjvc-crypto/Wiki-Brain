@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **320 dated entries across 3 notes · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 16:18 PDT**
+> **326 dated entries across 3 notes · 2026-02-10 → 2026-09-02 · refreshed 2026-09-02 08:10 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -337,6 +337,8 @@
 - `2026-09-01` [new-economy-regime.md:L4783](../new-economy-regime.md) — Addendum 2026-09-01 ~10:20am PDT — **SACKS AT THE G20 (AFP via Jake): the light-touch doctrine gets its OPERATIONAL edge — explicit rejection of any p
 - `2026-09-01` [new-economy-regime.md:L4787](../new-economy-regime.md) — Addendum 2026-09-01 ~11:29am PDT — ⭐⭐⭐⭐ **GS/FEILER: "WORSE UNDER THE HOOD" — CONSUMER STOCKS CRACKING (ZH): retail −6.5% in August, −5% vs the market
 - `2026-09-01` [new-economy-regime.md:L4791](../new-economy-regime.md) — Addendum 2026-09-01 ~4:20pm PDT — **Administered-price ledger add (WH "Unleashing American Energy" fact sheet → full entry [[oil-value-chain]] 4:15pm)
+- `2026-09-01` [new-economy-regime.md:L4793](../new-economy-regime.md) — Addendum 2026-09-01 ~5:15pm PDT — ⭐⭐⭐⭐ **THE MINISTERIAL-RESPONSE WATCH RESOLVES WITH THE ONE SIGNATORY NOBODY REGISTERED: CHINA SIGNED THE CAROLINA P
+- `2026-09-01` [new-economy-regime.md:L4798](../new-economy-regime.md) — Addendum 2026-09-01 ~5:25pm PDT — ⭐⭐⭐⭐ **THE OTHER HALF OF THE SAME AFTERNOON (Axios/Brown, Jake's paste): G20 FINANCE COMMUNIQUÉ FAILS — CHINA THE LO
 - `2026-09-01` [rates-board.md:L1905](../rates-board.md) — 2026-09-01 ~7:40am PDT — ⭐⭐⭐⭐⭐ **TUESDAY OPEN (9/1 scan, compiled ~6:30am PT): GATE 1 PRINTS *INSIDE* THE BAND ON CONTROL-WEEK DAY 2 — 30Y 5.274 (>5.2
 - `2026-09-01` [rates-board.md:L1906](../rates-board.md) — DATA (scan, `raw/2026-09-01-bond-opening-scan.txt`; ICE BofA = 8/28 obs, NOT live)
 - `2026-09-01` [rates-board.md:L1922](../rates-board.md) — Addendum 2026-09-01 ~7:55am PDT — **two adds from the 9/1 intelligence brief:** (1) **UK 10Y ~5.25% — highest since 2008** (the 30Y at 5.9%/1998 filed
@@ -345,3 +347,7 @@
 - `2026-09-01` [rates-board.md:L1928](../rates-board.md) — Addendum 2026-09-01 ~12:35pm PDT — ✅⭐⭐⭐⭐⭐ **BOND CLOSE, CONTROL-WEEK DAY 2 (Yahoo ^TYX, "at close 1:59pm CDT," header test ✓): 30Y 5.27 (+2bp from 5.2
 - `2026-09-01` [rates-board.md:L1930](../rates-board.md) — 2026-09-01 ~1:15pm PDT — ⭐⭐⭐⭐⭐⭐ **TUESDAY CLOSE (9/1 scan, `raw/2026-09-01-bond-close-scan.txt`): THE FLIP TEST RESULT IS IN — Monday's OAS obs (war p
 - `2026-09-01` [rates-board.md:L1948](../rates-board.md) — Addendum 2026-09-01 ~1:30pm PDT — ✅⭐⭐⭐⭐ **THE FRAGILITY LADDER CORROBORATES THE BOTTOM-RUNG READ FROM A SECOND INSTRUMENT (feed refreshed in-session, 
+- `2026-09-02` [new-economy-regime.md:L4805](../new-economy-regime.md) — 2026-09-02 ~7:50am PDT — ⭐⭐⭐ **ADP AUGUST +38K (cons +48K; July rev +46K from +44K) — the frozen-churn regime's next tick, now with SECTOR SHAPE: good
+- `2026-09-02` [rates-board.md:L1950](../rates-board.md) — 2026-09-02 ~7:50am PDT — ⭐⭐⭐ **CONTROL-WEEK DAY 3 OPEN + THE DISCRIMINATOR'S REHEARSAL (ADP +38K soft; header tests ✓ all three): 5Y 4.55 (−0.7bp; ran
+- `2026-09-02` [rates-board.md:L1954](../rates-board.md) — 2026-09-02 ~8:10am PDT — ⭐⭐⭐⭐⭐ **CONTROL-WEEK DAY 3, THE OVERNIGHT (9/2 opening scan + Jake): BOTH SCAN THRESHOLDS BREACHED ON IRAN'S RETALIATION — 10
+- `2026-09-02` [rates-board.md:L1955](../rates-board.md) — DATA (`raw/2026-09-02-bond-opening-scan.txt`)

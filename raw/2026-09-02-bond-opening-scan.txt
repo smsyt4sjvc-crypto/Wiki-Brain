@@ -1,0 +1,1303 @@
+Somebody I think at the G20 specifically said that Venezuela would not fill the SPR. Also, the 30 year did cross 5.3 on Iran retaliation and then gave a little bit of it back this morning.  
+
+
+U.S. BOND-MARKET OPENING FRAGILITY SCAN
+Wednesday, Sep. 2, 2026 — ~9:30 a.m. ET
+OPENING VERDICT
+FRAGILITY ESCALATED OVERNIGHT, THEN PARTIALLY FADED AFTER WEAK ADP.
+The important development:
+10Y overnight/intraday high — 4.8172%
+30Y overnight/intraday high — 5.3028%
+Those crossed two of our warning levels:
+10Y >4.80%
+30Y >5.30%
+BUT they did not hold.
+After ADP private payrolls came in at only +38K:
+10Y — ~4.78%
+30Y — ~5.252%
+So this morning gave us a useful stress test:
+weak labor data still produces meaningful Treasury buying despite the oil/fiscal/AI-supply pressure.
+Credit is beginning to show SMALL nits:
+BBB OAS +1 bp
+HY OAS +3 bp
+CCC/lower OAS +16 bp
+But broad IG credit is still nowhere near a transmission event.
+TREASURY CURVE — INDICATIVE ~9:30 ET
+Quotes are asynchronous across feeds; 4W is latest official observation.
+4W — 3.69%
+3M — ~3.88%-3.91%
+6M — ~4.02%
+1Y — ~4.17%-4.18%
+2Y — ~4.39%
+3Y — ~4.46%
+5Y — ~4.54%
+7Y — ~4.65%
+10Y — ~4.780%
+20Y — ~5.25%-5.26%
+30Y — ~5.252%
+INTRADAY EXTREMES:
+10Y — 4.8172%
+30Y — 5.3028%
+Prior Sep. 1 close:
+2Y — 4.39%
+5Y — ~4.55%
+10Y — 4.79%
+20Y — ~5.27%
+30Y — ~5.27%
+CURVES
+2s10s — ~+39 bp
+5s30s — ~+71 bp
+20s30s — essentially 0 bp.
+Still no meaningful 20Y/30Y inversion.
+The 20Y/30Y relationship remains unusually flat, but this is not yet the persistent +3-5 bp 20Y-over-30Y distortion we want to flag.
+WHAT CHANGED THIS MORNING
+Before ADP:
+oil near $95 Brent
+10Y >4.81%
+30Y >5.30%
+Fed hike probability ~70%
+After ADP:
+August private payrolls — +38K
+Consensus — roughly +47K/+48K
+July revised — +46K
+Goods-producing — -10K
+Services — +48K
+Manufacturing — -17K
+10Y fell back to ~4.78%
+30Y fell to ~5.252%
+Fed hike probability fell toward ~63%.
+This is an important offsetting signal:
+INFLATION/OIL/FISCAL pressure is pushing long yields up,
+but LABOR weakness is now sufficiently visible to pull them back.
+REAL YIELDS / INFLATION
+Latest official real-yield observations:
+5Y TIPS — 2.18%
+10Y TIPS — 2.44%
+30Y TIPS — 2.99%
+5Y breakeven — ~2.37%
+10Y breakeven — ~2.35%
+Prior:
+5Y breakeven — ~2.31%
+10Y breakeven — ~2.31%
+Approximate one-day increase:
+5Y — +6 bp
+10Y — +4 bp
+THIS IS A CHANGE FROM LAST WEEK.
+Previously:
+long yields were rising primarily through real yields / term premium.
+Now:
+oil is beginning to lift inflation compensation as well.
+At the same time:
+10Y real — 2.44%
+30Y real — 2.99%
+remain extraordinarily restrictive.
+So today's long-end pressure has BOTH components:
+higher expected inflation
++
+very high real required return.
+OVERNIGHT RATES
+EFFR — 3.63%
+SOFR — 3.66%
+Fed target range — 3.50%-3.75%.
+QUARTERLY TREASURY ANCHORS
+2Y / 5Y / 10Y / 30Y
+NOW:
+4.39 / 4.54 / 4.78 / 5.25
+~3 MONTHS — June 1:
+4.05 / 4.18 / 4.47 / 4.99
+CHANGE:
++34 / +36 / +31 / +26 bp
+~6 MONTHS — Feb. 27:
+3.38 / 3.51 / 3.97 / 4.64
+CHANGE:
++101 / +103 / +81 / +61 bp
+~9 MONTHS — Dec. 3:
+3.49 / 3.62 / 4.06 / 4.73
+CHANGE:
++90 / +92 / +72 / +52 bp
+~12 MONTHS — Sep. 3, 2025:
+3.61 / 3.69 / 4.22 / 4.90
+CHANGE:
++78 / +85 / +56 / +35 bp
+READ:
+The belly still has the largest cumulative repricing.
+But the latest impulse has clearly migrated toward:
+oil
+inflation compensation
+global sovereign supply
+and long-duration capital competition.
+ICE BOFA CORPORATE CREDIT
+LATEST COMPLETE DAILY INDEX DATA — AUG. 31
+NOT LIVE SEP. 2 OPENING QUOTES.
+IG TOTAL — yield 5.48% | OAS +80 bp
+AAA — 5.37% | +42 bp
+AA — 5.34% | +59 bp
+A — 5.34% | +67 bp
+BBB — 5.66% | +98 bp
+HY TOTAL — yield 7.12% | OAS +263 bp
+BB — 6.02% | +152 bp
+B — 7.21% | +272 bp
+CCC & LOWER — 14.81% | +1,042 bp
+IG MATURITY YIELDS:
+1-3Y — 4.82%
+7-10Y — 5.63%
+15Y+ — 6.24%
+CREDIT CHANGE VS AUG. 28
+IG:
+yield 5.44% → 5.48%
+OAS 79 → 80 bp
+BBB:
+yield 5.62% → 5.66%
+OAS 97 → 98 bp
+HY:
+yield 7.02% → 7.12%
+OAS 260 → 263 bp
+CCC/lower:
+yield 14.62% → 14.81%
+OAS 1,026 → 1,042 bp
+THIS IS WORTH NOTING.
+For several scans, spreads did virtually nothing while Treasuries sold off.
+Now the weakest credit tail is beginning to move.
+But:
+BBB +98 bp
+HY +263 bp
+remain extremely calm.
+I would classify this as:
+FIRST CREDIT NITS
+NOT CREDIT TRANSMISSION.
+ABSOLUTE CORPORATE FINANCING COST
+15Y+ IG yield — 6.24% BEFORE yesterday/today's full Treasury selloff flows through the index.
+That matters even without OAS widening.
+A corporation refinancing long-duration debt now faces a substantially higher coupon simply because the Treasury base rate has repriced.
+If spreads eventually widen simultaneously, the move compounds.
+VOLATILITY
+VIX Sep. 1 close — 16.34
+Prior — 14.92
++9.5% on the day.
+Still not a stress level.
+MOVE — no sufficiently fresh same-time observation available for this opening snapshot, so I am not inventing one.
+READ:
+equity volatility has noticed the bond/oil move,
+but there is still no volatility-regime break.
+TREASURY SUPPLY
+No major nominal coupon auction at today's open.
+The important upcoming sequence is next week's Treasury coupon supply, particularly:
+10Y reopening — next week
+30Y reopening — next week
+Those have become meaningful fragility tests because the market has now demonstrated that it can trade:
+10Y >4.80%
+30Y >5.30%.
+Demand/auction tails at those levels matter considerably more than they did several weeks ago.
+TREASURY BUYBACKS
+Effective Sep. 9:
+Treasury long-end liquidity-support buybacks increase by at least 2x.
+10Y-20Y sector:
+maximum $2B → at least $4B per operation
+20Y-30Y sector:
+maximum $2B → at least $4B per operation
+Effective through Nov. 4.
+Treasury explicitly calls these:
+LIQUIDITY SUPPORT.
+They can address poor trading/liquidity in long off-the-run securities.
+They do NOT eliminate:
+federal deficits
+net borrowing
+gross issuance
+or duration competition from corporate borrowers.
+CORPORATE / AI SUPPLY
+August U.S. IG issuance — $164B
+RECORD AUGUST.
+BofA September forecast — ~$190B
+Prior expectations — ~$200B-$250B.
+Why lower:
+much of September's normal borrowing appears to have been prefunded during August.
+Still:
+$190B would be enormous September corporate supply while Treasuries themselves are trading near multi-year highs.
+AI investment was a major contributor to August's record issuance.
+NEW AI DEBT SIGNAL
+Global convertible issuance through Sep. 1:
+~$186.8B
+362 deals
+A significant portion is being pulled by AI enthusiasm.
+Some AI-linked borrowers can still issue zero-coupon convertible debt despite conventional yields being extremely high.
+That tells us capital access has become highly bifurcated:
+high-quality / equity-option-rich AI exposure:
+capital remains extremely abundant.
+ordinary/project/private-credit borrowers:
+capital costs can be very high.
+That distinction matters for CoreWeave and the SPV layer.
+AI SPV / SHADOW LEVERAGE
+NO NEW LEVEL 3-6 EVENT FOUND THIS MORNING.
+No new identified:
+SEC hyperscaler data-center consolidation challenge
+auditor resignation/disagreement
+Item 4.02 event
+VIE accounting restatement
+primary-beneficiary reversal
+forced consolidation of a previously unconsolidated data-center VIE.
+COREWEAVE — LEVEL 2
+IMPORTANT ACCOUNTING NIT IDENTIFIED
+This is the most interesting accounting item in today's SPV scan.
+During Q2 CoreWeave explicitly:
+REASSESSED a data-center service provider as a VIE.
+Reason:
+changes affecting the adequacy of the provider's equity investment at risk.
+That is EXACTLY the kind of VIE re-determination mechanism we wanted to monitor.
+Result:
+CoreWeave still concluded it was NOT the primary beneficiary.
+Reason:
+it says it does not direct the activities that most significantly affect the provider's economics.
+Therefore:
+NO CONSOLIDATION.
+BUT:
+CoreWeave's maximum exposure includes a commitment to fund remaining completion work.
+That commitment:
+HAS NO CONTRACTUAL CAP.
+CoreWeave currently estimates the remaining obligation is not material.
+Recovery rights:
+contingent
+unsecured.
+This remains LEVEL 2 because:
+there was an actual VIE reassessment
+but no regulator challenge
+no auditor break
+and no consolidation.
+This is now one of the most important footnotes to diff next quarter.
+COREWEAVE OTHER VIE EXPOSURE
+Two data-center development JVs:
+Funding commitment — up to $1.7B
+Incremental Q2 commitment — ~$500M
+Q1 equivalent — ~ $1.2B
+QoQ — +41.7%
+Still NOT primary beneficiary.
+NJ JV ownership:
+15% → 35%
+CoreWeave:
+provides construction management
+provides admin/property management
+will lease the facility for 15 years.
+Still says it lacks power over the most economically significant activities.
+Separate Equipment Lessor VIE:
+committed payments — ~$1.8B
+CoreWeave receives substantially all economic benefits of the equipment
+BUT still says it lacks directing power.
+No consolidation.
+COREWEAVE FINANCING
+Total debt at Jun. 30 — ~$35.6B
+New August DDTL:
+capacity — $2.6B
+pricing — Term SOFR + 5.50%
+At current SOFR:
+rough nominal floating borrowing cost ≈ 9.2%
+This remains the most obvious rate-sensitive node in the AI infrastructure chain.
+ORCL — LEVEL 2
+IMMEDIATE CALENDAR WATCH
+Uncommenced DC leases — ~$260B
+Guarantee of data-center lessor borrowing:
+prior — ~$2.2B
+latest — up to $3.3B
++50%
+IMPORTANT:
+that guaranteed borrowing MATURES IN SEPTEMBER 2026.
+That means this is no longer a distant footnote.
+We now watch specifically for:
+repayment
+refinancing
+extension
+replacement guarantee
+increased guarantee
+or Oracle assuming additional support.
+Any material incremental support would be another Level-2 escalation.
+Data-center power/related obligations:
+~$13.31B
+Additional subsequent cloud-infrastructure commitments:
++$19B.
+META — LEVEL 2
+Uncommenced leases:
+$182.88B → $278.99B
++52.6%
+Plus ~$68B additional DC leases signed in July.
+Contractual commitments:
+$237.67B → $349.31B
++47%
+Restricted infrastructure cash:
+~$10.8B latest.
+Louisiana VIE max exposure:
+~$46.03B
+Primary-beneficiary conclusion:
+UNCHANGED.
+META still says it lacks power over the activities most significantly affecting the venture.
+NO CONSOLIDATION CHANGE.
+GOOGL — LEVEL 2
+Uncommenced DC leases:
+$75.6B → $85.2B
++12.7%
+Plus:
+~$5.8B short-term lease commencing Q3.
+Credit-derivative backstops:
+$28.4B → $43.8B
++54.2%
+Financial guarantees — $7.6B
+Future infrastructure backstops — ~$24.1B
+Primary-beneficiary conclusion for the unconsolidated lease/backstop VIEs:
+UNCHANGED.
+One useful distinction:
+Alphabet's Intersect energy/data-center development acquisition IS a VIE and Alphabet IS its primary beneficiary.
+Alphabet therefore consolidates Intersect.
+That was an acquisition/consolidation from inception under Alphabet — NOT a forced reassessment of one of the existing off-balance-sheet lease VIEs.
+Do not count it as Level 5.
+MSFT — LEVEL 1
+Uncommenced datacenter leases:
+$196.6B → $329.1B
++67.4%
+No comparable material unconsolidated data-center VIE primary-beneficiary issue currently disclosed.
+Still Level 1.
+AMZN — LEVEL 2
+Uncommenced leases:
+$106.35B → $137.21B
++29%
+Unconditional purchase obligations:
+$103.77B → $130.07B
++25%
+Anthropic financing facility:
+up to $20B
+availability linked to AWS compute-delivery milestones.
+No new primary-beneficiary reversal identified.
+SPACEX / SPACEXAI / xAI — LEVEL 2
+This remains our live example of accounting substance winning over legal form.
+Valor AI-equipment transactions:
+deemed FAILED SALE-LEASEBACKS.
+Valor-related recognized debt:
+Dec. 31:
+$0.455B current
++$4.052B noncurrent
+= $4.507B
+Jun. 30:
+$2.039B current
++$11.290B noncurrent
+= $13.329B
+Increase:
++$8.822B
++196%
+Q2 Valor-related interest expense — $327M
+H1 — $513M
+Total "other financings":
+Dec. 31 — $4.562B
+Jun. 30 — $13.406B
+Total SpaceX debt + finance leases:
+$39.512B
+AI CAPEX:
+Q1 — $7.723B
+Q2 — $15.828B
++105%
+H1 — $23.551B
+No new Valor accounting change or forced consolidation found this morning.
+TSLA — LEVEL 0
+SpaceX equity investment — $2.0B
+Ownership — <1%
+Tesla revenue from SpaceX Megapacks:
+Q2 — $318M
+H1 — $405M
+Other SpaceX-related transactions described as immaterial.
+Still no disclosed Tesla:
+SpaceX/xAI debt guarantee
+Valor backstop
+Colossus financing guarantee
+or incremental capital-support agreement.
+CURRENT SHADOW-LEVERAGE LADDER
+LEVEL 0:
+TSLA
+LEVEL 1:
+MSFT
+LEVEL 2:
+META
+GOOGL
+AMZN
+ORCL
+SpaceX/SpaceXAI
+CoreWeave
+KNOWN CONSOLIDATED VIE EXAMPLES:
+Alphabet / Intersect
+Solaris / Stateline Power
+LEVEL 3 — SEC VIE/consolidation scrutiny:
+NONE NEW
+LEVEL 4 — auditor/accounting-policy break:
+NONE NEW
+LEVEL 5 — primary-beneficiary reversal / forced consolidation:
+NONE
+LEVEL 6 — restatement / multi-company reassessment:
+NONE
+MOST IMPORTANT SPV CHANGE TODAY
+COREWEAVE.
+Not because it consolidated.
+Because it explicitly had to REASSESS whether a data-center counterparty was a VIE after the counterparty's equity-at-risk condition changed.
+That proves this determination is not static.
+The actual sequence was:
+economics/capitalization of provider changed
+→ VIE status reassessed
+→ primary-beneficiary test rerun
+→ CoreWeave still concluded no consolidation.
+That is almost exactly the precursor mechanism we registered.
+MACRO READ
+OBSERVED:
+10Y hit — 4.8172%
+30Y hit — 5.3028%
+After weak ADP:
+10Y — ~4.78%
+30Y — ~5.25%
+ADP — +38K
+Oil — ~$95 Brent
+5Y breakeven — ~2.37%
+10Y breakeven — ~2.35%
+10Y real — 2.44%
+30Y real — 2.99%
+IG OAS — 80 bp
+BBB — 98 bp
+HY — 263 bp
+CCC — 1,042 bp
+August IG issuance — record $164B
+September forecast — ~$190B
+INTERPRETATION:
+Today's information cuts in BOTH directions.
+FRAGILITY SIDE:
+Long-end warning thresholds were actually breached.
+30Y >5.30%
+10Y >4.80%
+Inflation breakevens have now started moving higher.
+Oil is near $95.
+Real yields remain extremely restrictive.
+Corporate supply remains enormous.
+The weakest credit tier finally widened noticeably.
+SPV exposure continues growing.
+And we found an actual CoreWeave VIE re-determination event.
+STABILIZING SIDE:
+Weak labor data immediately produced Treasury demand.
+The 10Y and 30Y failed to sustain their warning thresholds.
+BBB and broad HY spreads remain very tight.
+No SPV primary-beneficiary reversal occurred.
+No SEC/auditor consolidation challenge surfaced.
+No Treasury-market dysfunction signal has appeared.
+CURRENT VERDICT:
+FRAGILITY ESCALATED OVERNIGHT,
+BUT TRANSMISSION HAS NOT STARTED.
+Today's most important signal may actually be the FAILURE to hold:
+10Y >4.80%
+30Y >5.30%.
+If those yields return and remain above those levels DESPITE weak labor data, the market would be telling us that fiscal/inflation/duration supply is overwhelming the normal growth-sensitive Treasury bid.
+NEXT CONFIRMATION LEVEL:
+10Y sustains >4.80%
+30Y sustains >5.30%
++
+BBB OAS >110-120 bp
+HY OAS >300 bp
++
+new-issue concessions widen
++
+ORCL must increase/roll its September lessor guarantee
+or CoreWeave's VIE/funding exposure becomes materially larger.
+That combination would move this from:
+PRESSURE ACCUMULATION
+to:
+CREDIT/SPV TRANSMISSION BEGINNING.
+
+The key market reversal is confirmed by fresh reporting: the 10-year reached 4.8172% and the 30-year 5.3028%, then fell to about 4.78% and 5.2518% after the labor data. Brent was trading around $95 as Middle East tensions continued to feed inflation concerns. 
+
+ADP reported just 38,000 private jobs added in August, versus roughly 48,000 expected by the Reuters survey, with July revised to 46,000. Goods-producing employment fell 10,000, including a 17,000 manufacturing decline. 
+
+The latest official Fed H.15 observations put 5Y/10Y/30Y real Treasury yields at 2.18%/2.44%/2.99%, with EFFR at 3.63%. The jump in nominal yields relative to those real yields is consistent with 5Y/10Y breakevens moving to roughly 2.37%/2.35% on September 1. 
+
+The ICE BofA data in the report are prior-close daily index observations, not live opening spreads. The notable change is still small at investment grade—BBB OAS was 98 bp on Aug. 31 versus 97 bp previously—while the weakest credit tail moved more materially. 
+
+Corporate supply remains an important competing source of duration: U.S. investment-grade borrowers issued a record $164 billion in August, and BofA currently expects about $190 billion in September despite the jump in Treasury yields.  Treasury’s enlarged long-end liquidity-support buybacks begin September 9, increasing the maximum from $2 billion to at least $4 billion per operation in both the 10Y-20Y and 20Y-30Y sectors. 
+
+The most consequential accounting detail in this run comes directly from CoreWeave’s Q2 10-Q. CoreWeave says it reassessed a data-center service provider as a VIE during Q2 because changes affected the adequacy of the provider’s equity at risk, but still determined it was not the primary beneficiary and therefore did not consolidate it. Its remaining completion-funding commitment has no contractual cap, although CoreWeave currently estimates the obligation as immaterial.  Its two other data-center-development VIE commitments reached $1.7 billion, and it continues to classify the $1.8 billion equipment-lessor structure as unconsolidated. 
+
+Oracle’s filing makes September particularly relevant: its approximately $260 billion uncommenced lease stack includes a lease whose lessor borrowing Oracle guarantees up to $3.3 billion, maturing in September 2026. Its data-center power/other obligations were $13.309 billion, with another $19 billion of cloud-infrastructure commitments entered after year-end. 
+
+SpaceX’s filings continue to provide the clearest demonstration of the accounting-substance mechanism: Valor AI-equipment transactions were deemed failed sale-leasebacks, resulting in $2.039 billion current plus $11.290 billion noncurrent debt at June 30. Total “other financings” were $13.406 billion, while Q2 AI-segment capital expenditures were $15.828 billion. 
+
+Meta, Alphabet, Microsoft and Tesla’s latest primary filings continue to support the existing Level 0-2 classifications: Meta reports $278.99 billion of uncommenced leases and $349.31 billion of contractual commitments; Alphabet reports $85.2 billion of uncommenced leases, $43.8 billion of credit-derivative backstops and $7.6 billion of financial guarantees; Microsoft reports the enormous datacenter lease stack without an equivalent disclosed off-balance-sheet VIE issue; and Tesla’s direct Musk-AI exposure remains primarily its $2 billion SpaceX investment plus $405 million of H1 SpaceX-related Megapack revenue. 
+
+
+U.S. BOND-MARKET OPENING FRAGILITY SCAN
+Wednesday, Sep. 2, 2026 — ~9:30 a.m. ET
+
+OPENING VERDICT
+
+FRAGILITY ESCALATED OVERNIGHT, THEN PARTIALLY FADED AFTER WEAK ADP.
+
+The important development:
+
+10Y overnight/intraday high — 4.8172%
+30Y overnight/intraday high — 5.3028%
+
+Those crossed two of our warning levels:
+10Y >4.80%
+30Y >5.30%
+
+BUT they did not hold.
+
+After ADP private payrolls came in at only +38K:
+10Y — ~4.78%
+30Y — ~5.252%
+
+So this morning gave us a useful stress test:
+weak labor data still produces meaningful Treasury buying despite the oil/fiscal/AI-supply pressure.
+
+Credit is beginning to show SMALL nits:
+BBB OAS +1 bp
+HY OAS +3 bp
+CCC/lower OAS +16 bp
+
+But broad IG credit is still nowhere near a transmission event.
+
+
+TREASURY CURVE — INDICATIVE ~9:30 ET
+
+Quotes are asynchronous across feeds; 4W is latest official observation.
+
+4W — 3.69%
+3M — ~3.88%-3.91%
+6M — ~4.02%
+1Y — ~4.17%-4.18%
+2Y — ~4.39%
+3Y — ~4.46%
+5Y — ~4.54%
+7Y — ~4.65%
+10Y — ~4.780%
+20Y — ~5.25%-5.26%
+30Y — ~5.252%
+
+INTRADAY EXTREMES:
+10Y — 4.8172%
+30Y — 5.3028%
+
+Prior Sep. 1 close:
+2Y — 4.39%
+5Y — ~4.55%
+10Y — 4.79%
+20Y — ~5.27%
+30Y — ~5.27%
+
+CURVES
+
+2s10s — ~+39 bp
+5s30s — ~+71 bp
+
+20s30s — essentially 0 bp.
+Still no meaningful 20Y/30Y inversion.
+
+The 20Y/30Y relationship remains unusually flat, but this is not yet the persistent +3-5 bp 20Y-over-30Y distortion we want to flag.
+
+
+WHAT CHANGED THIS MORNING
+
+Before ADP:
+oil near $95 Brent
+10Y >4.81%
+30Y >5.30%
+Fed hike probability ~70%
+
+After ADP:
+August private payrolls — +38K
+Consensus — roughly +47K/+48K
+July revised — +46K
+
+Goods-producing — -10K
+Services — +48K
+Manufacturing — -17K
+
+10Y fell back to ~4.78%
+30Y fell to ~5.252%
+Fed hike probability fell toward ~63%.
+
+This is an important offsetting signal:
+INFLATION/OIL/FISCAL pressure is pushing long yields up,
+but LABOR weakness is now sufficiently visible to pull them back.
+
+
+REAL YIELDS / INFLATION
+
+Latest official real-yield observations:
+
+5Y TIPS — 2.18%
+10Y TIPS — 2.44%
+30Y TIPS — 2.99%
+
+5Y breakeven — ~2.37%
+10Y breakeven — ~2.35%
+
+Prior:
+5Y breakeven — ~2.31%
+10Y breakeven — ~2.31%
+
+Approximate one-day increase:
+5Y — +6 bp
+10Y — +4 bp
+
+THIS IS A CHANGE FROM LAST WEEK.
+
+Previously:
+long yields were rising primarily through real yields / term premium.
+
+Now:
+oil is beginning to lift inflation compensation as well.
+
+At the same time:
+
+10Y real — 2.44%
+30Y real — 2.99%
+
+remain extraordinarily restrictive.
+
+So today's long-end pressure has BOTH components:
+
+higher expected inflation
++
+very high real required return.
+
+
+OVERNIGHT RATES
+
+EFFR — 3.63%
+SOFR — 3.66%
+
+Fed target range — 3.50%-3.75%.
+
+
+QUARTERLY TREASURY ANCHORS
+2Y / 5Y / 10Y / 30Y
+
+NOW:
+4.39 / 4.54 / 4.78 / 5.25
+
+~3 MONTHS — June 1:
+4.05 / 4.18 / 4.47 / 4.99
+
+CHANGE:
++34 / +36 / +31 / +26 bp
+
+~6 MONTHS — Feb. 27:
+3.38 / 3.51 / 3.97 / 4.64
+
+CHANGE:
++101 / +103 / +81 / +61 bp
+
+~9 MONTHS — Dec. 3:
+3.49 / 3.62 / 4.06 / 4.73
+
+CHANGE:
++90 / +92 / +72 / +52 bp
+
+~12 MONTHS — Sep. 3, 2025:
+3.61 / 3.69 / 4.22 / 4.90
+
+CHANGE:
++78 / +85 / +56 / +35 bp
+
+READ:
+The belly still has the largest cumulative repricing.
+
+But the latest impulse has clearly migrated toward:
+oil
+inflation compensation
+global sovereign supply
+and long-duration capital competition.
+
+
+ICE BOFA CORPORATE CREDIT
+LATEST COMPLETE DAILY INDEX DATA — AUG. 31
+NOT LIVE SEP. 2 OPENING QUOTES.
+
+IG TOTAL — yield 5.48% | OAS +80 bp
+AAA — 5.37% | +42 bp
+AA — 5.34% | +59 bp
+A — 5.34% | +67 bp
+BBB — 5.66% | +98 bp
+
+HY TOTAL — yield 7.12% | OAS +263 bp
+BB — 6.02% | +152 bp
+B — 7.21% | +272 bp
+CCC & LOWER — 14.81% | +1,042 bp
+
+IG MATURITY YIELDS:
+1-3Y — 4.82%
+7-10Y — 5.63%
+15Y+ — 6.24%
+
+
+CREDIT CHANGE VS AUG. 28
+
+IG:
+yield 5.44% → 5.48%
+OAS 79 → 80 bp
+
+BBB:
+yield 5.62% → 5.66%
+OAS 97 → 98 bp
+
+HY:
+yield 7.02% → 7.12%
+OAS 260 → 263 bp
+
+CCC/lower:
+yield 14.62% → 14.81%
+OAS 1,026 → 1,042 bp
+
+THIS IS WORTH NOTING.
+
+For several scans, spreads did virtually nothing while Treasuries sold off.
+
+Now the weakest credit tail is beginning to move.
+
+But:
+BBB +98 bp
+HY +263 bp
+
+remain extremely calm.
+
+I would classify this as:
+FIRST CREDIT NITS
+NOT CREDIT TRANSMISSION.
+
+
+ABSOLUTE CORPORATE FINANCING COST
+
+15Y+ IG yield — 6.24% BEFORE yesterday/today's full Treasury selloff flows through the index.
+
+That matters even without OAS widening.
+
+A corporation refinancing long-duration debt now faces a substantially higher coupon simply because the Treasury base rate has repriced.
+
+If spreads eventually widen simultaneously, the move compounds.
+
+
+VOLATILITY
+
+VIX Sep. 1 close — 16.34
+Prior — 14.92
+
++9.5% on the day.
+
+Still not a stress level.
+
+MOVE — no sufficiently fresh same-time observation available for this opening snapshot, so I am not inventing one.
+
+READ:
+equity volatility has noticed the bond/oil move,
+but there is still no volatility-regime break.
+
+
+TREASURY SUPPLY
+
+No major nominal coupon auction at today's open.
+
+The important upcoming sequence is next week's Treasury coupon supply, particularly:
+
+10Y reopening — next week
+30Y reopening — next week
+
+Those have become meaningful fragility tests because the market has now demonstrated that it can trade:
+
+10Y >4.80%
+30Y >5.30%.
+
+Demand/auction tails at those levels matter considerably more than they did several weeks ago.
+
+
+TREASURY BUYBACKS
+
+Effective Sep. 9:
+
+Treasury long-end liquidity-support buybacks increase by at least 2x.
+
+10Y-20Y sector:
+maximum $2B → at least $4B per operation
+
+20Y-30Y sector:
+maximum $2B → at least $4B per operation
+
+Effective through Nov. 4.
+
+Treasury explicitly calls these:
+LIQUIDITY SUPPORT.
+
+They can address poor trading/liquidity in long off-the-run securities.
+
+They do NOT eliminate:
+federal deficits
+net borrowing
+gross issuance
+or duration competition from corporate borrowers.
+
+
+CORPORATE / AI SUPPLY
+
+August U.S. IG issuance — $164B
+RECORD AUGUST.
+
+BofA September forecast — ~$190B
+
+Prior expectations — ~$200B-$250B.
+
+Why lower:
+much of September's normal borrowing appears to have been prefunded during August.
+
+Still:
+
+$190B would be enormous September corporate supply while Treasuries themselves are trading near multi-year highs.
+
+AI investment was a major contributor to August's record issuance.
+
+
+NEW AI DEBT SIGNAL
+
+Global convertible issuance through Sep. 1:
+~$186.8B
+362 deals
+
+A significant portion is being pulled by AI enthusiasm.
+
+Some AI-linked borrowers can still issue zero-coupon convertible debt despite conventional yields being extremely high.
+
+That tells us capital access has become highly bifurcated:
+
+high-quality / equity-option-rich AI exposure:
+capital remains extremely abundant.
+
+ordinary/project/private-credit borrowers:
+capital costs can be very high.
+
+That distinction matters for CoreWeave and the SPV layer.
+
+
+AI SPV / SHADOW LEVERAGE
+
+NO NEW LEVEL 3-6 EVENT FOUND THIS MORNING.
+
+No new identified:
+SEC hyperscaler data-center consolidation challenge
+auditor resignation/disagreement
+Item 4.02 event
+VIE accounting restatement
+primary-beneficiary reversal
+forced consolidation of a previously unconsolidated data-center VIE.
+
+
+COREWEAVE — LEVEL 2
+IMPORTANT ACCOUNTING NIT IDENTIFIED
+
+This is the most interesting accounting item in today's SPV scan.
+
+During Q2 CoreWeave explicitly:
+
+REASSESSED a data-center service provider as a VIE.
+
+Reason:
+changes affecting the adequacy of the provider's equity investment at risk.
+
+That is EXACTLY the kind of VIE re-determination mechanism we wanted to monitor.
+
+Result:
+CoreWeave still concluded it was NOT the primary beneficiary.
+
+Reason:
+it says it does not direct the activities that most significantly affect the provider's economics.
+
+Therefore:
+NO CONSOLIDATION.
+
+BUT:
+
+CoreWeave's maximum exposure includes a commitment to fund remaining completion work.
+
+That commitment:
+HAS NO CONTRACTUAL CAP.
+
+CoreWeave currently estimates the remaining obligation is not material.
+
+Recovery rights:
+contingent
+unsecured.
+
+This remains LEVEL 2 because:
+there was an actual VIE reassessment
+but no regulator challenge
+no auditor break
+and no consolidation.
+
+This is now one of the most important footnotes to diff next quarter.
+
+
+COREWEAVE OTHER VIE EXPOSURE
+
+Two data-center development JVs:
+
+Funding commitment — up to $1.7B
+Incremental Q2 commitment — ~$500M
+
+Q1 equivalent — ~ $1.2B
+QoQ — +41.7%
+
+Still NOT primary beneficiary.
+
+NJ JV ownership:
+15% → 35%
+
+CoreWeave:
+provides construction management
+provides admin/property management
+will lease the facility for 15 years.
+
+Still says it lacks power over the most economically significant activities.
+
+Separate Equipment Lessor VIE:
+committed payments — ~$1.8B
+
+CoreWeave receives substantially all economic benefits of the equipment
+BUT still says it lacks directing power.
+
+No consolidation.
+
+
+COREWEAVE FINANCING
+
+Total debt at Jun. 30 — ~$35.6B
+
+New August DDTL:
+capacity — $2.6B
+pricing — Term SOFR + 5.50%
+
+At current SOFR:
+rough nominal floating borrowing cost ≈ 9.2%
+
+This remains the most obvious rate-sensitive node in the AI infrastructure chain.
+
+
+ORCL — LEVEL 2
+IMMEDIATE CALENDAR WATCH
+
+Uncommenced DC leases — ~$260B
+
+Guarantee of data-center lessor borrowing:
+prior — ~$2.2B
+latest — up to $3.3B
++50%
+
+IMPORTANT:
+that guaranteed borrowing MATURES IN SEPTEMBER 2026.
+
+That means this is no longer a distant footnote.
+
+We now watch specifically for:
+
+repayment
+refinancing
+extension
+replacement guarantee
+increased guarantee
+or Oracle assuming additional support.
+
+Any material incremental support would be another Level-2 escalation.
+
+Data-center power/related obligations:
+~$13.31B
+
+Additional subsequent cloud-infrastructure commitments:
++$19B.
+
+
+META — LEVEL 2
+
+Uncommenced leases:
+$182.88B → $278.99B
++52.6%
+
+Plus ~$68B additional DC leases signed in July.
+
+Contractual commitments:
+$237.67B → $349.31B
++47%
+
+Restricted infrastructure cash:
+~$10.8B latest.
+
+Louisiana VIE max exposure:
+~$46.03B
+
+Primary-beneficiary conclusion:
+UNCHANGED.
+
+META still says it lacks power over the activities most significantly affecting the venture.
+
+NO CONSOLIDATION CHANGE.
+
+
+GOOGL — LEVEL 2
+
+Uncommenced DC leases:
+$75.6B → $85.2B
++12.7%
+
+Plus:
+~$5.8B short-term lease commencing Q3.
+
+Credit-derivative backstops:
+$28.4B → $43.8B
++54.2%
+
+Financial guarantees — $7.6B
+Future infrastructure backstops — ~$24.1B
+
+Primary-beneficiary conclusion for the unconsolidated lease/backstop VIEs:
+UNCHANGED.
+
+One useful distinction:
+Alphabet's Intersect energy/data-center development acquisition IS a VIE and Alphabet IS its primary beneficiary.
+
+Alphabet therefore consolidates Intersect.
+
+That was an acquisition/consolidation from inception under Alphabet — NOT a forced reassessment of one of the existing off-balance-sheet lease VIEs.
+
+Do not count it as Level 5.
+
+
+MSFT — LEVEL 1
+
+Uncommenced datacenter leases:
+$196.6B → $329.1B
++67.4%
+
+No comparable material unconsolidated data-center VIE primary-beneficiary issue currently disclosed.
+
+Still Level 1.
+
+
+AMZN — LEVEL 2
+
+Uncommenced leases:
+$106.35B → $137.21B
++29%
+
+Unconditional purchase obligations:
+$103.77B → $130.07B
++25%
+
+Anthropic financing facility:
+up to $20B
+availability linked to AWS compute-delivery milestones.
+
+No new primary-beneficiary reversal identified.
+
+
+SPACEX / SPACEXAI / xAI — LEVEL 2
+
+This remains our live example of accounting substance winning over legal form.
+
+Valor AI-equipment transactions:
+deemed FAILED SALE-LEASEBACKS.
+
+Valor-related recognized debt:
+
+Dec. 31:
+$0.455B current
++$4.052B noncurrent
+= $4.507B
+
+Jun. 30:
+$2.039B current
++$11.290B noncurrent
+= $13.329B
+
+Increase:
++$8.822B
++196%
+
+Q2 Valor-related interest expense — $327M
+H1 — $513M
+
+Total "other financings":
+Dec. 31 — $4.562B
+Jun. 30 — $13.406B
+
+Total SpaceX debt + finance leases:
+$39.512B
+
+AI CAPEX:
+Q1 — $7.723B
+Q2 — $15.828B
++105%
+
+H1 — $23.551B
+
+No new Valor accounting change or forced consolidation found this morning.
+
+
+TSLA — LEVEL 0
+
+SpaceX equity investment — $2.0B
+Ownership — <1%
+
+Tesla revenue from SpaceX Megapacks:
+Q2 — $318M
+H1 — $405M
+
+Other SpaceX-related transactions described as immaterial.
+
+Still no disclosed Tesla:
+SpaceX/xAI debt guarantee
+Valor backstop
+Colossus financing guarantee
+or incremental capital-support agreement.
+
+
+CURRENT SHADOW-LEVERAGE LADDER
+
+LEVEL 0:
+TSLA
+
+LEVEL 1:
+MSFT
+
+LEVEL 2:
+META
+GOOGL
+AMZN
+ORCL
+SpaceX/SpaceXAI
+CoreWeave
+
+KNOWN CONSOLIDATED VIE EXAMPLES:
+Alphabet / Intersect
+Solaris / Stateline Power
+
+LEVEL 3 — SEC VIE/consolidation scrutiny:
+NONE NEW
+
+LEVEL 4 — auditor/accounting-policy break:
+NONE NEW
+
+LEVEL 5 — primary-beneficiary reversal / forced consolidation:
+NONE
+
+LEVEL 6 — restatement / multi-company reassessment:
+NONE
+
+
+MOST IMPORTANT SPV CHANGE TODAY
+
+COREWEAVE.
+
+Not because it consolidated.
+
+Because it explicitly had to REASSESS whether a data-center counterparty was a VIE after the counterparty's equity-at-risk condition changed.
+
+That proves this determination is not static.
+
+The actual sequence was:
+
+economics/capitalization of provider changed
+→ VIE status reassessed
+→ primary-beneficiary test rerun
+→ CoreWeave still concluded no consolidation.
+
+That is almost exactly the precursor mechanism we registered.
+
+
+MACRO READ
+
+OBSERVED:
+
+10Y hit — 4.8172%
+30Y hit — 5.3028%
+
+After weak ADP:
+10Y — ~4.78%
+30Y — ~5.25%
+
+ADP — +38K
+Oil — ~$95 Brent
+5Y breakeven — ~2.37%
+10Y breakeven — ~2.35%
+10Y real — 2.44%
+30Y real — 2.99%
+
+IG OAS — 80 bp
+BBB — 98 bp
+HY — 263 bp
+CCC — 1,042 bp
+
+August IG issuance — record $164B
+September forecast — ~$190B
+
+INTERPRETATION:
+
+Today's information cuts in BOTH directions.
+
+FRAGILITY SIDE:
+
+Long-end warning thresholds were actually breached.
+
+30Y >5.30%
+10Y >4.80%
+
+Inflation breakevens have now started moving higher.
+
+Oil is near $95.
+
+Real yields remain extremely restrictive.
+
+Corporate supply remains enormous.
+
+The weakest credit tier finally widened noticeably.
+
+SPV exposure continues growing.
+
+And we found an actual CoreWeave VIE re-determination event.
+
+
+STABILIZING SIDE:
+
+Weak labor data immediately produced Treasury demand.
+
+The 10Y and 30Y failed to sustain their warning thresholds.
+
+BBB and broad HY spreads remain very tight.
+
+No SPV primary-beneficiary reversal occurred.
+
+No SEC/auditor consolidation challenge surfaced.
+
+No Treasury-market dysfunction signal has appeared.
+
+
+CURRENT VERDICT:
+
+FRAGILITY ESCALATED OVERNIGHT,
+BUT TRANSMISSION HAS NOT STARTED.
+
+Today's most important signal may actually be the FAILURE to hold:
+
+10Y >4.80%
+30Y >5.30%.
+
+If those yields return and remain above those levels DESPITE weak labor data, the market would be telling us that fiscal/inflation/duration supply is overwhelming the normal growth-sensitive Treasury bid.
+
+NEXT CONFIRMATION LEVEL:
+
+10Y sustains >4.80%
+30Y sustains >5.30%
++
+BBB OAS >110-120 bp
+HY OAS >300 bp
++
+new-issue concessions widen
++
+ORCL must increase/roll its September lessor guarantee
+or CoreWeave's VIE/funding exposure becomes materially larger.
+
+That combination would move this from:
+PRESSURE ACCUMULATION
+
+to:
+CREDIT/SPV TRANSMISSION BEGINNING.

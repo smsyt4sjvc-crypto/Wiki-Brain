@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **143 dated entries across 3 notes · 2026-05-22 → 2026-09-01 · refreshed 2026-09-01 16:18 PDT**
+> **144 dated entries across 3 notes · 2026-05-22 → 2026-09-02 · refreshed 2026-09-02 08:10 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -168,3 +168,4 @@
 - `2026-09-01` [balance-sheet-board.md:L742](../balance-sheet-board.md) — Addendum 2026-09-01 ~7:57am PDT — **S-1 rung-up (9/1 brief, SEC-filed language):** SBE lists on NASDAQ · **NVDA expected to ACQUIRE SHARES around the 
 - `2026-09-01` [balance-sheet-board.md:L744](../balance-sheet-board.md) — Addendum 2026-09-01 ~11:30am PDT — **IPO-window datum for the SBE listing (ZH): Shein's HK debut FLOPPED — $1.7B raised, ~$26B cap vs ~$100B in 2022, 
 - `2026-09-01` [balance-sheet-board.md:L746](../balance-sheet-board.md) — Addendum 2026-09-01 ~1:20pm PDT — ⭐⭐⭐⭐ **CLOSE-SCAN SHEETS ADDS (most of the ladder = re-derivations of today's 7:45am filing; the NEW items):** (1) *
+- `2026-09-02` [balance-sheet-board.md:L748](../balance-sheet-board.md) — 2026-09-02 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE TRIGGER-3 PRECURSOR FIRED AT THE COUNTERPARTY LEVEL (9/2 opening scan, CRWV Q2 10-Q): during Q2 CoreWeave REASSE

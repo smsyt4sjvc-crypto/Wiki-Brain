@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **745 dated entries · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 16:18 PDT**
+> **753 dated entries · 2026-02-10 → 2026-09-02 · refreshed 2026-09-02 08:10 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -771,6 +771,8 @@
 - `2026-09-01` **[1]** new-economy-regime.md:L4783 — Addendum 2026-09-01 ~10:20am PDT — **SACKS AT THE G20 (AFP via Jake): the light-touch doctrine gets its OPERATIONAL edge — explicit rejection of any p
 - `2026-09-01` **[1]** new-economy-regime.md:L4787 — Addendum 2026-09-01 ~11:29am PDT — ⭐⭐⭐⭐ **GS/FEILER: "WORSE UNDER THE HOOD" — CONSUMER STOCKS CRACKING (ZH): retail −6.5% in August, −5% vs the market
 - `2026-09-01` **[1]** new-economy-regime.md:L4791 — Addendum 2026-09-01 ~4:20pm PDT — **Administered-price ledger add (WH "Unleashing American Energy" fact sheet → full entry [[oil-value-chain]] 4:15pm)
+- `2026-09-01` **[1]** new-economy-regime.md:L4793 — Addendum 2026-09-01 ~5:15pm PDT — ⭐⭐⭐⭐ **THE MINISTERIAL-RESPONSE WATCH RESOLVES WITH THE ONE SIGNATORY NOBODY REGISTERED: CHINA SIGNED THE CAROLINA P
+- `2026-09-01` **[1]** new-economy-regime.md:L4798 — Addendum 2026-09-01 ~5:25pm PDT — ⭐⭐⭐⭐ **THE OTHER HALF OF THE SAME AFTERNOON (Axios/Brown, Jake's paste): G20 FINANCE COMMUNIQUÉ FAILS — CHINA THE LO
 - `2026-09-01` **[3]** ai-financing-fragility.md:L7633 — Addendum 2026-09-01 ~1:22pm PDT — ⭐⭐⭐⭐ **THE LADDER'S TOP RUNG WAS ABSORBED BY A SPONSOR (9/1 close scan, xAI→SpaceX debt migration): legacy xAI/X sec
 - `2026-09-01` **[3]** balance-sheet-board.md:L728 — 2026-09-01 ~7:45am PDT — ⭐⭐⭐⭐⭐ **SB ENERGY FILES THE IPO (ticker SBE) — the registered S-1 watch CLOSES with the structure now public: $5-7B raise · ~
 - `2026-09-01` **[3]** balance-sheet-board.md:L729 — DATA (9/1 opening scan, `raw/2026-09-01-bond-opening-scan.txt`)
@@ -780,3 +782,9 @@
 - `2026-09-01` **[4]** ai-capex-cycle.md:L3506 — Addendum 2026-09-01 ~9:50am PDT — ⚠️⭐⭐⭐ **MU −2% PRE-MARKET ON A REPORTED LABOR-UNION STRIKE AT MICRON'S TAIWAN OPERATIONS (ZH futures wrap — headline
 - `2026-09-01` **[5]** metered-compute.md:L3283 — Addendum 2026-09-01 ~11:27am PDT — ⭐⭐⭐ **THE CURSOR NATURAL EXPERIMENT GETS ITS DENOMINATOR (Epoch Times via ZH): OpenAI models serve only ~5% OF CURS
 - `2026-09-01` **[5]** metered-compute.md:L3285 — Addendum 2026-09-01 ~4:00pm PDT — ⭐⭐⭐ **THE TOKEN INDEX BREAKS $1 — Silicon Data LLM Token Expenditure Index 0.9665 (chart via Jake, `raw/2026-09-01-s
+- `2026-09-02` **[1]** rates-board.md:L1950 — 2026-09-02 ~7:50am PDT — ⭐⭐⭐ **CONTROL-WEEK DAY 3 OPEN + THE DISCRIMINATOR'S REHEARSAL (ADP +38K soft; header tests ✓ all three): 5Y 4.55 (−0.7bp; ran
+- `2026-09-02` **[1]** rates-board.md:L1954 — 2026-09-02 ~8:10am PDT — ⭐⭐⭐⭐⭐ **CONTROL-WEEK DAY 3, THE OVERNIGHT (9/2 opening scan + Jake): BOTH SCAN THRESHOLDS BREACHED ON IRAN'S RETALIATION — 10
+- `2026-09-02` **[1]** rates-board.md:L1955 — DATA (`raw/2026-09-02-bond-opening-scan.txt`)
+- `2026-09-02` **[1]** new-economy-regime.md:L4805 — 2026-09-02 ~7:50am PDT — ⭐⭐⭐ **ADP AUGUST +38K (cons +48K; July rev +46K from +44K) — the frozen-churn regime's next tick, now with SECTOR SHAPE: good
+- `2026-09-02` **[3]** ai-financing-fragility.md:L7635 — 2026-09-02 ~8:18am PDT — ⭐⭐⭐⭐ **CAPITAL ACCESS IS BIFURCATED, MEASURED (9/2 opening scan): global convertible issuance ~$186.8B across 362 deals YTD t
+- `2026-09-02` **[3]** balance-sheet-board.md:L748 — 2026-09-02 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE TRIGGER-3 PRECURSOR FIRED AT THE COUNTERPARTY LEVEL (9/2 opening scan, CRWV Q2 10-Q): during Q2 CoreWeave REASSE

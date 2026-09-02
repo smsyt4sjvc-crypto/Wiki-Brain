@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **463 dated entries across 4 notes · 2026-05-22 → 2026-09-01 · refreshed 2026-09-01 16:18 PDT**
+> **464 dated entries across 4 notes · 2026-05-22 → 2026-09-02 · refreshed 2026-09-02 08:10 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -488,3 +488,4 @@
 - `2026-09-01` [ai-financing-fragility.md:L7633](../ai-financing-fragility.md) — Addendum 2026-09-01 ~1:22pm PDT — ⭐⭐⭐⭐ **THE LADDER'S TOP RUNG WAS ABSORBED BY A SPONSOR (9/1 close scan, xAI→SpaceX debt migration): legacy xAI/X sec
 - `2026-09-01` [metered-compute.md:L3283](../metered-compute.md) — Addendum 2026-09-01 ~11:27am PDT — ⭐⭐⭐ **THE CURSOR NATURAL EXPERIMENT GETS ITS DENOMINATOR (Epoch Times via ZH): OpenAI models serve only ~5% OF CURS
 - `2026-09-01` [metered-compute.md:L3285](../metered-compute.md) — Addendum 2026-09-01 ~4:00pm PDT — ⭐⭐⭐ **THE TOKEN INDEX BREAKS $1 — Silicon Data LLM Token Expenditure Index 0.9665 (chart via Jake, `raw/2026-09-01-s
+- `2026-09-02` [ai-financing-fragility.md:L7635](../ai-financing-fragility.md) — 2026-09-02 ~8:18am PDT — ⭐⭐⭐⭐ **CAPITAL ACCESS IS BIFURCATED, MEASURED (9/2 opening scan): global convertible issuance ~$186.8B across 362 deals YTD t

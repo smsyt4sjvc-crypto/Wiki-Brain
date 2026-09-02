@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **299 dated entries across 6 notes · 2026-02-10 → 2026-09-01 · refreshed 2026-09-01 16:18 PDT**
+> **304 dated entries across 6 notes · 2026-02-10 → 2026-09-02 · refreshed 2026-09-02 08:10 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -327,3 +327,8 @@
 - `2026-09-01` [rates-board.md:L1928](../rates-board.md) — Addendum 2026-09-01 ~12:35pm PDT — ✅⭐⭐⭐⭐⭐ **BOND CLOSE, CONTROL-WEEK DAY 2 (Yahoo ^TYX, "at close 1:59pm CDT," header test ✓): 30Y 5.27 (+2bp from 5.2
 - `2026-09-01` [rates-board.md:L1930](../rates-board.md) — 2026-09-01 ~1:15pm PDT — ⭐⭐⭐⭐⭐⭐ **TUESDAY CLOSE (9/1 scan, `raw/2026-09-01-bond-close-scan.txt`): THE FLIP TEST RESULT IS IN — Monday's OAS obs (war p
 - `2026-09-01` [rates-board.md:L1948](../rates-board.md) — Addendum 2026-09-01 ~1:30pm PDT — ✅⭐⭐⭐⭐ **THE FRAGILITY LADDER CORROBORATES THE BOTTOM-RUNG READ FROM A SECOND INSTRUMENT (feed refreshed in-session, 
+- `2026-09-02` [ai-financing-fragility.md:L7635](../ai-financing-fragility.md) — 2026-09-02 ~8:18am PDT — ⭐⭐⭐⭐ **CAPITAL ACCESS IS BIFURCATED, MEASURED (9/2 opening scan): global convertible issuance ~$186.8B across 362 deals YTD t
+- `2026-09-02` [balance-sheet-board.md:L748](../balance-sheet-board.md) — 2026-09-02 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE TRIGGER-3 PRECURSOR FIRED AT THE COUNTERPARTY LEVEL (9/2 opening scan, CRWV Q2 10-Q): during Q2 CoreWeave REASSE
+- `2026-09-02` [rates-board.md:L1950](../rates-board.md) — 2026-09-02 ~7:50am PDT — ⭐⭐⭐ **CONTROL-WEEK DAY 3 OPEN + THE DISCRIMINATOR'S REHEARSAL (ADP +38K soft; header tests ✓ all three): 5Y 4.55 (−0.7bp; ran
+- `2026-09-02` [rates-board.md:L1954](../rates-board.md) — 2026-09-02 ~8:10am PDT — ⭐⭐⭐⭐⭐ **CONTROL-WEEK DAY 3, THE OVERNIGHT (9/2 opening scan + Jake): BOTH SCAN THRESHOLDS BREACHED ON IRAN'S RETALIATION — 10
+- `2026-09-02` [rates-board.md:L1955](../rates-board.md) — DATA (`raw/2026-09-02-bond-opening-scan.txt`)
