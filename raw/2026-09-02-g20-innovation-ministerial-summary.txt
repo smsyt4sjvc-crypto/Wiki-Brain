@@ -1,0 +1,115 @@
+G20: G20 INNOVATION MINISTERIAL — CHAPEL HILL
+SEPT. 1–2, 2026 | 2-DAY SUMMARY
+
+DAY 1 — SEPT. 1
+
+• ELON MUSK — POWER IS THE NEXT AI BOTTLENECK
+  - Warned of a significant AI-power shortfall in 2027, citing ~15 GW as a possible deficit.
+  - Said AI-chip production is growing ~40–50% annually versus only ~10–20% growth in available power outside China.
+  - Urged countries to rapidly add generation to attract AI data centers.
+  - Said his companies are already building generation alongside data centers.
+  - Explicitly linked GPU export controls to geography: China has enormous power availability but cannot freely access the newest U.S. accelerators.
+
+  MARKET READ:
+  AI constraint is moving downstream:
+  GPUs → electricity → turbines → blades/vanes → transformers → switchgear → construction.
+  Bullish thesis: GEV, BE, HWM, ETN, PWR; longer term CEG/BWXT/OKLO.
+
+• DAVID SACKS — “BUILD YOUR OWN POWER”
+  - Estimated U.S. AI-related infrastructure investment at roughly $800B in 2026 and potentially ~$1.4T in 2027.
+  - Compared the buildout with the scale of the railroad boom.
+  - Explicitly supported behind-the-meter generation.
+  - Argued data centers should add net-new power instead of forcing utilities/ratepayers to absorb their incremental load.
+  - Suggested surplus private generation could eventually feed the grid and support grid upgrades.
+
+  MARKET READ:
+  Behind-the-meter power is moving from an engineering workaround toward preferred policy architecture.
+
+• AI REGULATION — CAROLINA PRINCIPLES
+  - U.S. pushed a light-touch AI framework:
+      • No “FDA for AI” requiring preapproval of new models.
+      • Use existing fraud/privacy/discrimination/copyright/product-liability law where possible.
+      • Add AI-specific rules mainly where genuinely new risks arise.
+      • Favor disclosures/testing/auditing over licensing.
+  - China reportedly signed onto the principles.
+  - Michael Kratsios held a bilateral meeting with Chinese Science & Technology Minister Yin Hejun.
+  - No chip/export-control concession emerged from that meeting.
+
+• MUSK VS. EUROPE
+  - Musk argued technology should be “default legal” rather than “default illegal.”
+  - Directly criticized Europe’s heavy AI regulatory model.
+  - Reinforced a growing split:
+      U.S. → permissionless/light-touch deployment
+      EU → ex-ante regulation/enforcement
+
+• DATA-CENTER LABOR BOTTLENECK
+  - Mark Zuckerberg said hyperscalers are struggling to find enough electricians, pipefitters and other skilled tradespeople to build planned data centers.
+  - Adds LABOR/CONSTRUCTION CAPACITY to GPUs and electricity as a major physical constraint.
+
+
+DAY 2 — SEPT. 2
+
+• HOWARD LUTNICK — DIRECTIONALLY LIGHTER AI/TECH POLICY
+  - Said the administration’s inclination toward AI releases/imports/exports is “the opposite” of a heavier regulatory hand.
+  - Important because Commerce controls BIS and semiconductor export policy.
+  - Not yet a formal relaxation of Nvidia/China controls.
+
+• JENSEN HUANG — GOVERNMENTS SHOULD BUILD AI ECONOMIES
+  - Backed regulating actual demonstrated harms rather than theoretical AI harms.
+  - Encouraged countries to accelerate domestic AI infrastructure and build their own AI economies.
+  - Effectively reinforced the “sovereign AI” thesis:
+      local GPUs + local data centers + local power infrastructure.
+  - Said he had not discussed additional semiconductor tariffs with officials at the event.
+
+  MARKET READ:
+  Global AI capex can broaden beyond U.S. hyperscalers into sovereign/national infrastructure spending.
+
+• EXPORT CONTROLS REMAIN THE BIG UNRESOLVED ISSUE
+  - Washington still needs to determine what ultimately replaces the Biden-era AI Diffusion Rule.
+  - This is materially more important to NVDA than the nonbinding regulatory principles.
+  - No new China GPU concession has been announced.
+
+• SAM ALTMAN
+  - Scheduled for Day 2 with Lutnick.
+  - As of the latest check, no comparably meaningful new Altman policy announcement, financing deal or infrastructure commitment had surfaced.
+
+
+BOTTOM LINE
+
+The dominant message from Chapel Hill was not merely “AI is growing.”
+
+It was:
+
+AI CAPEX IS BECOMING PHYSICAL INFRASTRUCTURE POLICY.
+
+The emerging architecture is:
+
+AI campus
+   ↓
+bring/build/buy dedicated power
+   ↓
+behind-the-meter generation
+   ↓
+gas turbines / fuel cells immediately
+   ↓
+batteries + private substations + microgrids
+   ↓
+closed-loop liquid cooling
+   ↓
+eventually nuclear / SMRs
+   ↓
+potential surplus generation returned to the grid
+
+The most important investable shift is that AI infrastructure spending is broadening from:
+
+NVDA / GPUs
+
+to:
+
+POWER GENERATION + TURBINES + TURBINE COMPONENTS + ELECTRICAL EQUIPMENT + GRID CONSTRUCTION + NUCLEAR.
+
+Our concentrated AI-energy expressions:
+BE / GEV / TLN / HWM / OKLO
+
+More conservative infrastructure additions:
+ETN / PWR / CEG / BWXT.
