@@ -1,0 +1,17 @@
+Axios (Maria Curi, Sept 3 2026) — pasted by Jake ~8:53am PDT
+
+Top Pentagon official reaffirms Anthropic blacklist despite Lutnick comments
+Maria CuriSep 3, 2026
+Pentagon official Emil Michael on Thursday said that Anthropic is still considered a "supply chain risk," a day after Commerce Secretary Howard Lutnick said the company is "back on the right side."
+
+Why it matters: The Trump administration is not entirely aligned on one of the world's leading AI labs following months of fighting over how the military can use its models.
+
+What they're saying: "Anthropic is still a designated Supply Chain Risk at @DeptofWar and for the Defense Industrial Base. Thank you for your attention to this matter!" Michael posted on X.
+
+Catch up quick: Lutnick told Axios' Mike Allen on the sidelines of the G20 Innovation Summit this week: "We trust Anthropic."
+
+"They've done what we asked. They're back on the right side. So the answer is: Yes," Lutnick said when asked if he trusts Anthropic CEO Dario Amodei.
+Personality differences under Amodei's leadership added fuel to the fire in a clash between the Trump administration and Anthropic earlier this year, but the company has been elevating co-founder Tom Brown's role in its relationship with the White House.
+Yes, but: A federal judge in August struck down the Pentagon's blacklisting of Anthropic as a supply-chain risk, but the company is still fighting a separate Pentagon designation under a different statute in the D.C. Circuit.
+
+The bottom line: Anthropic is not completely out of the woods with the Trump administration as Brown increasingly takes center stage.
