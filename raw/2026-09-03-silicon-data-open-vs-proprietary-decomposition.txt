@@ -1,0 +1,71 @@
+Silicon Data Open vs Proprietary LLM decomposition (as of Sept 2 2026) — pasted by Jake 2026-09-03 ~10:10am PDT
+
+AI COMPUTE / TOKEN ECONOMICS — CURRENT READ
+
+Silicon Data’s Open and Proprietary LLM decomposition rejects the simple “barbell” explanation that frontier pricing is holding while only cheap/open models deflate.
+
+As of September 2, 2026:
+
+• Open LLM Index: $0.52/M tokens, down 18.4% over 30 days
+  30-day range: $0.47–$0.64
+
+• Proprietary LLM Index: $2.08/M tokens, down 25.4%
+  30-day range: $2.08–$2.79
+
+• Broad SDLLMTK: $0.98/M tokens, down 23.1%
+
+• H100 Rental Index: $2.66/GPU-hour, down only 2.9%
+
+The proprietary/open price premium compressed from approximately 4.36× to 4.00×, an 8% contraction. Proprietary effective pricing therefore weakened more than open-model pricing—not less.
+
+This means August was broad token commoditization, with the larger decline occurring in the proprietary segment. Possible causes include direct provider repricing, usage moving from expensive frontier models toward cheaper proprietary models, changing input/output-token mix, or declining expenditure weight for premium models.
+
+Meanwhile, the underlying merchant-compute market barely repriced:
+
+Token prices: −23.1%
+Proprietary tokens: −25.4%
+Open tokens: −18.4%
+H100 rental price: −2.9%
+
+That divergence does not confirm physical compute oversupply. It shows that revenue earned per token is falling much faster than the market-clearing price of compute.
+
+CURRENT REGIME
+
+Token commoditization: CONFIRMED
+Frontier pricing-power deterioration: CONFIRMED
+Open-only/barbell explanation: REJECTED for August
+Physical compute glut: NOT CONFIRMED
+Future compute-excess risk: ELEVATED
+Jevons/workload absorption: Still consistent with GPU pricing
+
+The immediate economic pressure is therefore concentrated among frontier model/API providers and customers carrying expensive long-duration compute commitments. Their effective revenue per token is falling while compute rental economics remain comparatively firm.
+
+Compute excess would require corroboration from the physical market:
+
+1. H100/H200/B200 transaction rents falling together.
+2. Immediate cluster availability increasing.
+3. Spot interruption risk declining.
+4. Longer fixed-price contracts offered at widening discounts.
+5. Minimum commitments and take-or-pay obligations weakening.
+6. Active/connected MW and revenue/MW deteriorating.
+7. Backlog conversion slowing or accelerator orders being pushed out.
+
+The core instrument should track:
+
+• Broad SDLLMTK
+• Open LLM Token Expenditure Index
+• Proprietary LLM Token Expenditure Index
+• Proprietary/Open price premium
+• H100/H200/B200 rental prices
+• Spot versus long-term contract pricing
+• Availability and utilization proxies
+
+Silicon Data’s Basic account provides the latest 30 days, including current price, 30-day change, maximum and minimum. Three-month, one-year and full daily histories require a paid plan.
+
+BOTTOM LINE
+
+August was not merely cheap open-source models taking share while frontier pricing held. Proprietary token economics deteriorated even faster.
+
+The strongest current conclusion is:
+
+“Model monetization is deflating much faster than compute costs, but the physical compute market has not yet cracked.”
