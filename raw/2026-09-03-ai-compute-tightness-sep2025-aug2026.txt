@@ -1,0 +1,105 @@
+AI Compute Tightness Sep 2025 - Aug 2026 (Jake's upload, .docx, 2026-09-03 ~9:45am PDT)
+
+MARKET STRUCTURE / AI INFRASTRUCTURE
+AI Compute Tightness
+Has token deflation become compute excess?
+SEPTEMBER 2025 — AUGUST 2026
+TOKEN MONETIZATION
+Confirmed decline
+PHYSICAL GLUT
+Not confirmed
+FORWARD EXCESS RISK
+Elevated
+Executive read
+The token-price collapse has not yet become a merchant-compute glut. From May through August, effective token expenditure fell roughly 54%, while the public H100 rental benchmark finished near $2.64–$2.66 per GPU-hour. Earlier, one-year H100 pricing rose sharply and on-demand capacity sold out. The cleanest current interpretation is token commoditization plus Jevons-style workload absorption—not idle aggregate compute.
+
+Investment implication  The immediate pressure sits with model/API monetization and buyers carrying long-duration compute commitments. A hardware-demand break requires falling GPU rents, easier availability and looser contract terms together.
+
+1  The scarcity cycle was real
+Headline H100 rent was almost unchanged from September through April. The term market told a different story: the midpoint of quoted one-year contracts rose about 37%, and on-demand capacity was marked sold out from February through April.
+
+Figure 1. Public H100 pricing history. One-year midpoint uses the midpoint of SemiAnalysis’ 25th–75th percentile range; 3+ month pricing typically assumes 25% prepayment.
+Why it matters
+Buyers paid materially more to secure duration even though the composite spot price barely changed.
+Sold-out on-demand supply is a direct availability signal, not a valuation inference.
+That combination is inconsistent with an already-developed physical glut during early 2026.
+
+2  Token monetization broke downward
+Silicon Data’s broad-market expenditure benchmark nearly doubled from inception to May, then unwound rapidly. The August move was particularly sharp: approximately −29% during the month and about −54% from the May peak.
+
+Figure 2. Selected publicly reported SDLLMTK anchors; intervening months are intentionally not interpolated.
+Period
+Reading
+Interpretation
+Dec 2025
+$1.09/M
+Index inception area
+May 2026
+$2.12/M
+Peak; premium model/workload mix
+Jul 2026
+$1.62/M
+About 24% below peak
+Aug 31, 2026
+$0.967/M
+About 54% below peak
+Important classification note
+SDLLMTK is not an open-source-only series. It is a broad, usage-weighted market benchmark spanning open-weight and proprietary models. Silicon Data separately maintains Open LLM and Proprietary LLM views. The broad index can fall because of provider repricing, routing toward cheaper/open models, changing input/output mix, or basket composition—not only because demand weakened.
+
+3  The divergence is the signal
+Normalizing both prices to May exposes the central tension. Tokens lost more than half their effective price, but H100 rental economics were approximately flat. Efficiency and mix are lowering revenue per token without yet clearing the physical compute market at materially lower prices.
+
+Figure 3. May = 100. Token points use selected reported readings; H100 points are rounded public benchmark observations and should be read directionally.
+What would confirm compute excess?
+1
+Rental repricing
+H100/H200/B200 transaction rents fall together.
+2
+Availability loosens
+Immediate capacity rises; interruption risk declines.
+3
+Term concessions
+Fixed terms lengthen as discounts widen and obligations weaken.
+4
+Utilization slips
+Active/connected MW and revenue/MW deteriorate.
+5
+Backlog weakens
+Conversion slows; cancellations or pushouts rise.
+
+4  Preliminary regime assessment
+BOTTOM LINE  Compute excess is not confirmed. Future excess risk is elevated; token commoditization is confirmed; Jevons absorption remains the best fit to the observed clearing data.
+Three gauges—not one opaque score
+Compute Demand Index — Workload pressure: task count × tokens/task × compute intensity.
+Compute Tightness Index — Scarcity: rental prices, term structure, availability, utilization and contract behavior.
+Compute Monetization Index — Revenue extracted per unit of useful output or effective compute consumed.
+Provisional reading
+Gauge
+Reading
+Confidence
+Demand
+Strong / absorbing efficiency
+Medium
+Tightness
+Firm, below peak scarcity
+Medium-high
+Monetization
+Deteriorating rapidly
+High
+Excess risk
+Elevated, not confirmed
+Medium
+Methodology and limitations
+Market-clearing baseline only; public contract and availability data become sparse after April 2026.
+Contract midpoint omits bundle, topology, quantity, prepayment and credit differences.
+SDLLMTK is effective expenditure per million tokens—not raw volume or total revenue.
+The supplied chart shows H100 at $2.64; Silicon Data showed about $2.66 on Sep. 2.
+Sources
+Silicon Data — LLM Token Expenditure Index
+https://www.silicondata.com/products/silicon-index/llm-token-expenditure-index
+SemiAnalysis — H100 Daily & Contract Pricing Index
+https://gpu-index.semianalysis.com/
+Silicon Data — GPU Rental Price Indices
+https://www.silicondata.com/products/silicon-index
+OpenRouter — usage rankings and market activity
+https://openrouter.ai/rankings
