@@ -1,6 +1,6 @@
 # ⏱ VOL — merged timeline (the gate)
 
-> **158 dated entries across 4 notes · 2026-07-01 → 2026-09-01 · refreshed 2026-09-03 09:01 PDT**
+> **159 dated entries across 4 notes · 2026-07-01 → 2026-09-03 · refreshed 2026-09-03 09:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -177,3 +177,4 @@
 
 - `2026-09-01` [portfolio-state.md:L1078](../portfolio-state.md) — 2026-09-01 ~11:15am PDT — **REFINERY BASKET DISCLOSED (Jake): PBF · DINO (HF Sinclair) · PARR (Par Pacific) · PSX · MPC · VLO.** ⛔ Corrects two same-d
 - `2026-09-01` [portfolio-state.md:L1080](../portfolio-state.md) — Addendum 2026-09-01 ~11:20am PDT — ⭐⭐⭐⭐⭐ **THE REFINERY BASKET, WORKED UP (Jake's data pull, `raw/2026-09-01-refinery-basket-workup.md`; 6M return ari
+- `2026-09-03` [market-fragility.md:L4397](../market-fragility.md) — Addendum 2026-09-03 ~9:05am PDT — **THE POSITIONING/VOL LEG OF THE GOLDMAN SPLIT (full entry → [[metered-compute]] 9:05am):** GS Prime — "a material d

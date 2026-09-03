@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **790 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 09:01 PDT**
+> **791 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 09:05 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -822,6 +822,7 @@
 - `2026-09-03` **[4]** ai-capex-cycle.md:L3558 — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **AVGO CALL DISCLOSURES (holdings scan Sept 3, raw/2026-09-03-holdings-scan.txt): AI $58B FY26 → $115B FY27 → $230B FY2
 - `2026-09-03` **[4]** ai-capex-cycle.md:L3573 — Addendum 2026-09-03 ~9:00am PDT — **AVGO cash session −5 to −6% (Daily Market Brief) — corrects this morning's "partially bought" (7:30am/8:30am, off 
 - `2026-09-03` **[5]** metered-compute.md:L3295 — Addendum 2026-09-03 ~8:40am PDT — ⭐⭐⭐ **THE 9/1 TOKEN-INDEX READ IS INDEPENDENTLY VERIFIED ("mostly confirmed") — gopher check of the ZH chart against
+- `2026-09-03` **[5]** metered-compute.md:L3302 — 2026-09-03 ~9:05am PDT — ⭐⭐⭐⭐⭐ **THE HOUSE IS SPLIT, WITH NAMES: GOLDMAN RESEARCH REITERATES BUY ON AVGO WHILE ITS OWN DELTA ONE DESK CALLS COMPUTE OV
 - `2026-09-03` **[5]** compression-thesis.md:L2888 — Addendum 2026-09-03 ~7:35am PDT — **THE DIGIKEY READ GETS A NATIONAL-SURVEY RESPONDENT (ISM Services Aug, Retail Trade, via Jake's paste — full entry 
 - `2026-09-03` **[5]** compression-thesis.md:L2890 — Addendum 2026-09-03 ~8:30am PDT — **THE BUYER NAMES MEMORY AS THE MARGIN TRANSFER: AVGO call (holdings scan) — consolidated GM 75% → 73% guided (78% a
 - `2026-09-03` **[5]** compression-thesis.md:L2892 — Addendum 2026-09-03 ~8:55am PDT — ⭐⭐⭐⭐ **"SIGNAL, NOT RELIEF" CONFIRMED IN 24 HOURS — AND BY THE PENTAGON ITSELF: Emil Michael (X, Thursday): "Anthrop

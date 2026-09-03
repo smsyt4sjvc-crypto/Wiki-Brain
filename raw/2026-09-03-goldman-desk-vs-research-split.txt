@@ -1,0 +1,7 @@
+Goldman internal split (research Schneider vs Delta One Privorotsky, GS Prime, STS vol desk) — pasted by Jake 2026-09-03 ~9:03am PDT
+
+Goldman's own trading desk is undercutting Goldman's own AI bull case. On the research side, Jim Schneider reiterates Buy on Broadcom after management guided AI semi revenue to double to $115bn in FY27(10GW of datacenter deployments) and double again to $230bn (20GW), naming Anthropic as its largest FY27 customer with OpenAI and Meta "material" in FY28 - a note that waves away the two biggest bear points (Google diversification, margin dilution). 
+
+But Rich Privorotsky's Delta One desk flags the Silicon Data token index down -29% in August, arguing falling cost-per-token means "more demand + lower prices is not automatically bullish" and that compute oversupply is becoming plausible. 
+
+GS Prime confirms the tension: "a material decline in positioning related to AI capex beneficiaries." And the STS vol desk shows the pain in the tape - GS Semiconductor Long Vol -782bps and Mag7 Long Vol -314bps in August as single-name dispersion spiked.

@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **339 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 09:01 PDT**
+> **340 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 09:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -356,6 +356,7 @@
 - `2026-09-02` [rates-board.md:L1955](../rates-board.md) — DATA (`raw/2026-09-02-bond-opening-scan.txt`)
 - `2026-09-02` [rates-board.md:L1968](../rates-board.md) — Addendum 2026-09-02 ~8:40am PDT — ⭐⭐⭐⭐ **THE BESSENT-BoJ THREAD GETS A PRICE: YEN THROUGH 160/USD, then a sudden spike stronger as the G20 closes — "i
 - `2026-09-02` [rates-board.md:L1970](../rates-board.md) — Addendum 2026-09-02 ~9:30am PDT — ⭐⭐⭐ **THE 30Y IN ANNUAL FRAME (Bloomberg chart + wire stats via Jake, `raw/2026-09-02-bloomberg-30y-avg-yield-since-
+- `2026-09-03` [market-fragility.md:L4397](../market-fragility.md) — Addendum 2026-09-03 ~9:05am PDT — **THE POSITIONING/VOL LEG OF THE GOLDMAN SPLIT (full entry → [[metered-compute]] 9:05am):** GS Prime — "a material d
 - `2026-09-03` [new-economy-regime.md:L4822](../new-economy-regime.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
 - `2026-09-03` [new-economy-regime.md:L4831](../new-economy-regime.md) — Addendum 2026-09-03 ~8:30am PDT — **Semi tariffs: status moves from press report to Commerce-Secretary confirmation (holdings scan).** Lutnick confirm
 - `2026-09-03` [rates-board.md:L1975](../rates-board.md) — 2026-09-03 ~7:15am PDT — ⭐⭐⭐⭐⭐ **THURSDAY OPEN (9/3 scan, `raw/2026-09-03-bond-opening-scan.txt`): A RELIEF RALLY WITH THE RIGHT SHAPE — WALLER LEANS 

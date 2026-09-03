@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **178 dated entries across 3 notes · 2026-07-01 → 2026-09-03 · refreshed 2026-09-03 09:01 PDT**
+> **179 dated entries across 3 notes · 2026-07-01 → 2026-09-03 · refreshed 2026-09-03 09:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -197,3 +197,4 @@
 - `2026-09-03` [compression-thesis.md:L2890](../compression-thesis.md) — Addendum 2026-09-03 ~8:30am PDT — **THE BUYER NAMES MEMORY AS THE MARGIN TRANSFER: AVGO call (holdings scan) — consolidated GM 75% → 73% guided (78% a
 - `2026-09-03` [compression-thesis.md:L2892](../compression-thesis.md) — Addendum 2026-09-03 ~8:55am PDT — ⭐⭐⭐⭐ **"SIGNAL, NOT RELIEF" CONFIRMED IN 24 HOURS — AND BY THE PENTAGON ITSELF: Emil Michael (X, Thursday): "Anthrop
 - `2026-09-03` [metered-compute.md:L3295](../metered-compute.md) — Addendum 2026-09-03 ~8:40am PDT — ⭐⭐⭐ **THE 9/1 TOKEN-INDEX READ IS INDEPENDENTLY VERIFIED ("mostly confirmed") — gopher check of the ZH chart against
+- `2026-09-03` [metered-compute.md:L3302](../metered-compute.md) — 2026-09-03 ~9:05am PDT — ⭐⭐⭐⭐⭐ **THE HOUSE IS SPLIT, WITH NAMES: GOLDMAN RESEARCH REITERATES BUY ON AVGO WHILE ITS OWN DELTA ONE DESK CALLS COMPUTE OV

@@ -1,6 +1,6 @@
 # ⏱ KOREA — merged timeline (the gate)
 
-> **117 dated entries across 1 notes · 2026-07-01 → 2026-08-31 · refreshed 2026-09-03 09:01 PDT**
+> **118 dated entries across 1 notes · 2026-07-01 → 2026-09-03 · refreshed 2026-09-03 09:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -133,3 +133,7 @@
 - `2026-08-19` [market-fragility.md:L4259](../market-fragility.md) — 2026-08-19 ~5:11am KST (2026-08-18 ~1:11pm PDT) — ⛔ **"SIDECAR ACTIVATED" READS LIKE A CRASH; THE ARC SAYS GIVE-BACK. KOSPI 6,441.39 (−6.24%) IS **+15
 - `2026-08-21` [market-fragility.md:L4311](../market-fragility.md) — 2026-08-21 ~10:45am PDT — ⭐⭐⭐⭐⭐ **THE FMS CASH LEVEL IS THE LOAD-BEARING NUMBER, NOT THE 8.0 SENTIMENT READING — AND IT IS A *CLEANER* INSTRUMENT THAN
 - `2026-08-31` [market-fragility.md:L4370](../market-fragility.md) — 2026-08-31 ~4:15pm PDT — ⭐⭐⭐⭐ **RECORD DISPERSION (Jake's paste): median 63-day stock-to-index correlation +0.10 — LOWEST ON RECORD (prior record +0.1
+
+## 2026-09
+
+- `2026-09-03` [market-fragility.md:L4397](../market-fragility.md) — Addendum 2026-09-03 ~9:05am PDT — **THE POSITIONING/VOL LEG OF THE GOLDMAN SPLIT (full entry → [[metered-compute]] 9:05am):** GS Prime — "a material d
