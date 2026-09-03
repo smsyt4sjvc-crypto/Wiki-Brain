@@ -52,6 +52,8 @@ entry, never here.
 | AVGO | **8** | — (init) | 2026-09-02 | Q3: AI semi +221% y/y accelerating to +236% guided, FCF 46% of revenue, capex 1.7%; −6.8% on a 0.71% guide miss = de-rating on accelerating fundamentals (cheaper entry); caps = the expectations bar + ⬜ 10-Q lease/SPV financier test | [[ai-capex-cycle]] 9/2 1:50pm |
 | MRVL | **6** | — (init) | 2026-09-02 | Custom-ASIC read-through positive on volume; negative on the mix-margin math AVGO just guided (66% vs 67.9%) | [[ai-capex-cycle]] 9/2 1:50pm |
 
+| VRT | **7** | — (init) | 2026-09-02 | DC power/cooling — the BTM stack's thermal layer; demand now policy-backed (ratepayer pledge → self-generation → closed-loop cooling); execution/competition the cap | [[buildout-bottleneck-map]] 9/2 7:12pm |
+
 **Refinery basket disconfirmers (shared):** (1) ~~the kill-switch's THIRD firing NOT sparing the crack~~ ✅ RESOLVED 9/1 4:15pm: firing #3 = refiner summit/expansion + Venezuelan feedstock + SREs — spared the crack (n=3). Residual: the summit READOUT (any price/export restraint ask) = same-day reversal trigger, Gulf exporters first; (2) Edouard physical damage — an outage name underperforms peers even in a margin windfall (VLO Port Arthur, MPC Galveston Bay, PSX Lake Charles all in/near the corridor); (3) ~~⬜ where the equities sit vs the crack~~ ✅ CLOSED 11:20am: NOT priced as a bubble — fwd P/E 4-9x, FCF yields 6-13%, earnings outran price; the risk is crack NORMALIZATION (agents: release valve/kill-switch/Venezuela — all rated slow or capped this week). In-window catalyst: Q3 prints vs Q2's $23-36/bbl realized margins with the crack at $106.
 
 **Not grades: the macro overlay** (rates/oil complex) is the environment, not a name —
