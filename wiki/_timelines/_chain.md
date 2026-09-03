@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **798 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 14:13 PDT**
+> **801 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 14:16 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -815,6 +815,7 @@
 - `2026-09-03` **[1]** rates-board.md:L2048 — 2026-09-03 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐ **BOND CLOSE, DAY 4: TWO ITEMS CHANGE THE BOARD — WALLER ARTICULATES *THE BIND* FROM INSIDE THE FED, AND TREASURY *CUT
 - `2026-09-03` **[1]** new-economy-regime.md:L4822 — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
 - `2026-09-03` **[1]** new-economy-regime.md:L4831 — Addendum 2026-09-03 ~8:30am PDT — **Semi tariffs: status moves from press report to Commerce-Secretary confirmation (holdings scan).** Lutnick confirm
+- `2026-09-03` **[1]** new-economy-regime.md:L4833 — Addendum 2026-09-03 ~2:25pm PDT — **THE CAROLINA PRINCIPLES' OWN EXCEPTION GOT SWITCHED ON BY THE FIRM THAT BENEFITS FROM IT (full grading → [[danger-
 - `2026-09-03` **[3]** ai-financing-fragility.md:L7637 — 2026-09-03 ~7:25am PDT — **GPU LADDER, CRWV RUNGS FILLED IN (Q2 10-Q via 9/3 scan):** CRWV carries THREE fixed rungs (8.50% euro · 9.625% · 9.75%) and
 - `2026-09-03` **[3]** ai-financing-fragility.md:L7639 — 2026-09-03 ~8:45am PDT — ⭐⭐⭐⭐ **F2 STEPS UP FROM SLOWER INFLOWS TO OUTRIGHT REDEMPTION: "CLIFFWATER PRIVATE CREDIT FUND SEES 16% REDEMPTION REQUESTS" 
 - `2026-09-03` **[3]** ai-financing-fragility.md:L7648 — Addendum 2026-09-03 ~8:55am PDT — **F17 (Anthropic IPO) — the risk factor is REAFFIRMED by the Pentagon a day after Commerce said "we trust Anthropic"
@@ -824,11 +825,13 @@
 - `2026-09-03` **[4]** ai-capex-cycle.md:L3556 — Addendum 2026-09-03 ~7:30am PDT — **AVGO next-morning tape (ZH scan): −3% premarket vs −6.8% after-hours = registered item #5 half-answered — the head
 - `2026-09-03` **[4]** ai-capex-cycle.md:L3558 — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **AVGO CALL DISCLOSURES (holdings scan Sept 3, raw/2026-09-03-holdings-scan.txt): AI $58B FY26 → $115B FY27 → $230B FY2
 - `2026-09-03` **[4]** ai-capex-cycle.md:L3573 — Addendum 2026-09-03 ~9:00am PDT — **AVGO cash session −5 to −6% (Daily Market Brief) — corrects this morning's "partially bought" (7:30am/8:30am, off 
+- `2026-09-03` **[4]** ai-capex-cycle.md:L3575 — Addendum 2026-09-03 ~2:25pm PDT — **A PROPOSED NEW BOTTLENECK LAYER — "SAFETY VALIDATION" — GRADED, NOT ADOPTED (full grading → [[danger-disclosure-pl
 - `2026-09-03` **[5]** metered-compute.md:L3295 — Addendum 2026-09-03 ~8:40am PDT — ⭐⭐⭐ **THE 9/1 TOKEN-INDEX READ IS INDEPENDENTLY VERIFIED ("mostly confirmed") — gopher check of the ZH chart against
 - `2026-09-03` **[5]** metered-compute.md:L3302 — 2026-09-03 ~9:05am PDT — ⭐⭐⭐⭐⭐ **THE HOUSE IS SPLIT, WITH NAMES: GOLDMAN RESEARCH REITERATES BUY ON AVGO WHILE ITS OWN DELTA ONE DESK CALLS COMPUTE OV
 - `2026-09-03` **[5]** metered-compute.md:L3314 — 2026-09-03 ~9:45am PDT — ⭐⭐⭐⭐⭐ **"AI COMPUTE TIGHTNESS: HAS TOKEN DEFLATION BECOME COMPUTE EXCESS?" (Jake's upload, Sept 2025–Aug 2026 workup, `raw/20
 - `2026-09-03` **[5]** metered-compute.md:L3334 — 2026-09-03 ~10:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE DECOMPOSITION GOT BUILT IN 25 MINUTES AND IT REJECTS THE BARBELL'S DYNAMIC: PROPRIETARY TOKENS FELL FASTER THAN
 - `2026-09-03` **[5]** metered-compute.md:L3357 — Addendum 2026-09-03 ~2:20pm PDT — ⭐⭐⭐⭐⭐ **THE ANTI-GLUT DATUM ARRIVES FROM OUTSIDE THE GPU COMPLEX ENTIRELY: ISM ADDED **GPUs** TO ITS COMMODITIES-IN-
+- `2026-09-03` **[5]** metered-compute.md:L3364 — Addendum 2026-09-03 ~2:25pm PDT — ⭐⭐⭐⭐ **GPT-6 ASTRA IS THE NATURAL EXPERIMENT FOR THIS MORNING'S UNRESOLVED QUESTION (launch via Jake; full grading →
 - `2026-09-03` **[5]** compression-thesis.md:L2888 — Addendum 2026-09-03 ~7:35am PDT — **THE DIGIKEY READ GETS A NATIONAL-SURVEY RESPONDENT (ISM Services Aug, Retail Trade, via Jake's paste — full entry 
 - `2026-09-03` **[5]** compression-thesis.md:L2890 — Addendum 2026-09-03 ~8:30am PDT — **THE BUYER NAMES MEMORY AS THE MARGIN TRANSFER: AVGO call (holdings scan) — consolidated GM 75% → 73% guided (78% a
 - `2026-09-03` **[5]** compression-thesis.md:L2892 — Addendum 2026-09-03 ~8:55am PDT — ⭐⭐⭐⭐ **"SIGNAL, NOT RELIEF" CONFIRMED IN 24 HOURS — AND BY THE PENTAGON ITSELF: Emil Michael (X, Thursday): "Anthrop

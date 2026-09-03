@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **183 dated entries across 3 notes · 2026-07-01 → 2026-09-03 · refreshed 2026-09-03 14:13 PDT**
+> **184 dated entries across 3 notes · 2026-07-01 → 2026-09-03 · refreshed 2026-09-03 14:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -202,3 +202,4 @@
 - `2026-09-03` [metered-compute.md:L3314](../metered-compute.md) — 2026-09-03 ~9:45am PDT — ⭐⭐⭐⭐⭐ **"AI COMPUTE TIGHTNESS: HAS TOKEN DEFLATION BECOME COMPUTE EXCESS?" (Jake's upload, Sept 2025–Aug 2026 workup, `raw/20
 - `2026-09-03` [metered-compute.md:L3334](../metered-compute.md) — 2026-09-03 ~10:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE DECOMPOSITION GOT BUILT IN 25 MINUTES AND IT REJECTS THE BARBELL'S DYNAMIC: PROPRIETARY TOKENS FELL FASTER THAN
 - `2026-09-03` [metered-compute.md:L3357](../metered-compute.md) — Addendum 2026-09-03 ~2:20pm PDT — ⭐⭐⭐⭐⭐ **THE ANTI-GLUT DATUM ARRIVES FROM OUTSIDE THE GPU COMPLEX ENTIRELY: ISM ADDED **GPUs** TO ITS COMMODITIES-IN-
+- `2026-09-03` [metered-compute.md:L3364](../metered-compute.md) — Addendum 2026-09-03 ~2:25pm PDT — ⭐⭐⭐⭐ **GPT-6 ASTRA IS THE NATURAL EXPERIMENT FOR THIS MORNING'S UNRESOLVED QUESTION (launch via Jake; full grading →

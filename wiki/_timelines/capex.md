@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **156 dated entries across 3 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 14:13 PDT**
+> **157 dated entries across 3 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 14:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -178,6 +178,7 @@
 - `2026-09-03` [ai-capex-cycle.md:L3556](../ai-capex-cycle.md) — Addendum 2026-09-03 ~7:30am PDT — **AVGO next-morning tape (ZH scan): −3% premarket vs −6.8% after-hours = registered item #5 half-answered — the head
 - `2026-09-03` [ai-capex-cycle.md:L3558](../ai-capex-cycle.md) — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **AVGO CALL DISCLOSURES (holdings scan Sept 3, raw/2026-09-03-holdings-scan.txt): AI $58B FY26 → $115B FY27 → $230B FY2
 - `2026-09-03` [ai-capex-cycle.md:L3573](../ai-capex-cycle.md) — Addendum 2026-09-03 ~9:00am PDT — **AVGO cash session −5 to −6% (Daily Market Brief) — corrects this morning's "partially bought" (7:30am/8:30am, off 
+- `2026-09-03` [ai-capex-cycle.md:L3575](../ai-capex-cycle.md) — Addendum 2026-09-03 ~2:25pm PDT — **A PROPOSED NEW BOTTLENECK LAYER — "SAFETY VALIDATION" — GRADED, NOT ADOPTED (full grading → [[danger-disclosure-pl
 - `2026-09-03` [balance-sheet-board.md:L763](../balance-sheet-board.md) — 2026-09-03 ~7:20am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CENTRAL CONTRADICTION BREAKS AT ITS WEAKEST NODE: COREWEAVE 5Y CDS >800bp (9/3 scan; MarketWatch: ~40-45% five-
 - `2026-09-03` [balance-sheet-board.md:L775](../balance-sheet-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **NVIDIA BUYS HUGGING FACE FOR $12.9B — THE VENDOR BUYS THE DISTRIBUTION JUNCTION (ZH/WSJ via ZH scan 7:25am — raw/2026-
 - `2026-09-03` [balance-sheet-board.md:L785](../balance-sheet-board.md) — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **THE FINANCIER TEST, ANSWERED ON THE CALL: AVGO DISCLOSES AN "AI XPV" PLATFORM WITH APOLLO AND BLACKSTONE — >20GW OF O
