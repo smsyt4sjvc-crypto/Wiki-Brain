@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **326 dated entries across 6 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 16:17 PDT**
+> **327 dated entries across 6 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 16:59 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -341,6 +341,7 @@
 - `2026-09-03` [balance-sheet-board.md:L763](../balance-sheet-board.md) — 2026-09-03 ~7:20am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CENTRAL CONTRADICTION BREAKS AT ITS WEAKEST NODE: COREWEAVE 5Y CDS >800bp (9/3 scan; MarketWatch: ~40-45% five-
 - `2026-09-03` [balance-sheet-board.md:L775](../balance-sheet-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **NVIDIA BUYS HUGGING FACE FOR $12.9B — THE VENDOR BUYS THE DISTRIBUTION JUNCTION (ZH/WSJ via ZH scan 7:25am — raw/2026-
 - `2026-09-03` [balance-sheet-board.md:L785](../balance-sheet-board.md) — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **THE FINANCIER TEST, ANSWERED ON THE CALL: AVGO DISCLOSES AN "AI XPV" PLATFORM WITH APOLLO AND BLACKSTONE — >20GW OF O
+- `2026-09-03` [balance-sheet-board.md:L796](../balance-sheet-board.md) — Addendum 2026-09-03 ~5:00pm PDT — ⭐⭐⭐⭐ **THE CROSS-THREAD NOBODY DREW TODAY: NVIDIA IS BUYING THE COMPANY AN OPENAI AGENT BREACHED SIX WEEKS AGO — AND
 - `2026-09-03` [rates-board.md:L1975](../rates-board.md) — 2026-09-03 ~7:15am PDT — ⭐⭐⭐⭐⭐ **THURSDAY OPEN (9/3 scan, `raw/2026-09-03-bond-opening-scan.txt`): A RELIEF RALLY WITH THE RIGHT SHAPE — WALLER LEANS 
 - `2026-09-03` [rates-board.md:L1989](../rates-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **WALLER'S CONDITION IS THE CPI; ISM SERVICES 55.4 ARGUES THE OTHER WAY; JAPAN'S 30Y TAILS AS THE GPIF STORY STARTS (ZH 
 - `2026-09-03` [rates-board.md:L2003](../rates-board.md) — Addendum 2026-09-03 ~7:35am PDT — ⭐⭐⭐⭐ **ISM SERVICES: THE HEADLINE IS 55.4, THE COMPOSITION IS A STAGFLATION PRINT — PRICES PAID 72.6, EMPLOYMENT 47.

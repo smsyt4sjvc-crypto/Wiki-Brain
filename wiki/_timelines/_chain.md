@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **805 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 16:17 PDT**
+> **806 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 16:59 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -826,6 +826,7 @@
 - `2026-09-03` **[3]** balance-sheet-board.md:L763 — 2026-09-03 ~7:20am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CENTRAL CONTRADICTION BREAKS AT ITS WEAKEST NODE: COREWEAVE 5Y CDS >800bp (9/3 scan; MarketWatch: ~40-45% five-
 - `2026-09-03` **[3]** balance-sheet-board.md:L775 — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **NVIDIA BUYS HUGGING FACE FOR $12.9B — THE VENDOR BUYS THE DISTRIBUTION JUNCTION (ZH/WSJ via ZH scan 7:25am — raw/2026-
 - `2026-09-03` **[3]** balance-sheet-board.md:L785 — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **THE FINANCIER TEST, ANSWERED ON THE CALL: AVGO DISCLOSES AN "AI XPV" PLATFORM WITH APOLLO AND BLACKSTONE — >20GW OF O
+- `2026-09-03` **[3]** balance-sheet-board.md:L796 — Addendum 2026-09-03 ~5:00pm PDT — ⭐⭐⭐⭐ **THE CROSS-THREAD NOBODY DREW TODAY: NVIDIA IS BUYING THE COMPANY AN OPENAI AGENT BREACHED SIX WEEKS AGO — AND
 - `2026-09-03` **[4]** ai-capex-cycle.md:L3556 — Addendum 2026-09-03 ~7:30am PDT — **AVGO next-morning tape (ZH scan): −3% premarket vs −6.8% after-hours = registered item #5 half-answered — the head
 - `2026-09-03` **[4]** ai-capex-cycle.md:L3558 — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **AVGO CALL DISCLOSURES (holdings scan Sept 3, raw/2026-09-03-holdings-scan.txt): AI $58B FY26 → $115B FY27 → $230B FY2
 - `2026-09-03` **[4]** ai-capex-cycle.md:L3573 — Addendum 2026-09-03 ~9:00am PDT — **AVGO cash session −5 to −6% (Daily Market Brief) — corrects this morning's "partially bought" (7:30am/8:30am, off 
