@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **286 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 16:05 PDT**
+> **287 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 16:17 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -314,3 +314,4 @@
 - `2026-09-03` [rates-board.md:L2069](../rates-board.md) — Addendum 2026-09-03 ~3:05pm PDT — ⭐⭐⭐⭐ **THE GUIDANCE PARADOX, AND JAKE CALLED IT IN A JOKE: THE REGIME THAT ABOLISHED FORWARD GUIDANCE ISSUED FORWARD
 - `2026-09-03` [rates-board.md:L2079](../rates-board.md) — Addendum 2026-09-03 ~4:00pm PDT — ⭐⭐⭐⭐⭐ **Jake's Q: "Aren't a stale-but-ok jobs report + yields falling + inflation the book for rate hikes?" — YES, T
 - `2026-09-03` [rates-board.md:L2089](../rates-board.md) — Addendum 2026-09-03 ~4:05pm PDT — ⭐⭐⭐⭐⭐⭐ **Jake's Q: "if raising rates lowers the 30Y, does corporate spread follow it down, or are the sheer numbers 
+- `2026-09-03` [rates-board.md:L2108](../rates-board.md) — Addendum 2026-09-03 ~4:20pm PDT — ⭐⭐⭐⭐⭐⭐ **Jake's Q: "What if they hike and the long end RISES because of debt service? Bessent is doubling Treasury s
