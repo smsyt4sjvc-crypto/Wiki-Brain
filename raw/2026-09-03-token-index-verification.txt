@@ -1,0 +1,42 @@
+Gopher verification of the Silicon Data token index chart (ZH), pasted by Jake 2026-09-03 ~8:40am PDT
+
+Mostly confirmed. The underlying divergence is real; the headline overstates what the chart proves.
+
+The exact ZeroHedge article is live, and its chart values match Silicon Data’s official benchmarks:
+
+* Effective LLM token expenditure: $0.97 per million tokens, down about 10% over seven days.
+* H100 rental price: $2.64 per GPU-hour, roughly stable over the same short window.
+
+The token benchmark is now below $1 for the first time and less than half its recent peak. 
+
+The important correction
+
+The green line is not actually demand. It is the rental price of H100 capacity. Rental prices can stay elevated because of supply constraints, contract structures or limited availability even while actual utilization changes.
+
+Likewise, the red line is not a pure provider price list. Silicon Data’s index is usage-weighted and can decline because:
+
+* Providers cut prices.
+* Customers route workloads toward cheaper models.
+* Open-weight models gain share.
+* Input/output token mixes change.
+* The index’s model composition changes.
+
+So the chart confirms that effective revenue received per token is collapsing relative to the hourly price of H100 capacity. It does not independently show that AI usage or token volume is falling. 
+
+There is another missing variable: tokens produced per GPU-hour. Better batching, quantization, caching, routing, utilization and newer chips can allow vastly more tokens to be generated from the same dollar of compute. Therefore, flat H100 rental prices do not necessarily mean that the cost per token is flat.
+
+That distinction matters because Goldman’s own public research has been arguing that inference compute cost per token is falling approximately 60%–70% annually, while forecasting token consumption to grow 24-fold from 2026 through 2030. Under that scenario, margins can still improve even while customer token prices decline. 
+
+Goldman’s latest public data-center discussion also said efficiency gains were being overwhelmed by expanding demand, while Goldman raised both hyperscaler-spending and data-center power-demand estimates. That makes this look more like a desk-level valuation and unit-economics warning than a reversal of Goldman’s broader AI-demand thesis. 
+
+Investment read
+
+This is directly negative for frontier model labs and API businesses carrying long-duration compute commitments: their realized revenue per unit of intelligence is declining while much of their infrastructure expense is fixed.
+
+It is more favorable for application companies and integrators, which can buy intelligence increasingly cheaply and monetize the finished outcome rather than the raw token.
+
+For hyperscalers, it is mixed: price competition hurts direct model monetization, but their own chips, routing systems, distribution and infrastructure ownership let them capture more of the efficiency improvement.
+
+For Nvidia, this is an important downstream warning, but it is not yet confirmation of a compute-demand break. The cleaner bearish confirmation would be token deflation followed by falling H100/B200 rental prices, lower utilization, weaker accelerator orders, delayed customer commitments or further extension of payment terms.
+
+Verdict: the monetization warning is legitimate. The claim that demand itself is deteriorating is not established by this chart.
