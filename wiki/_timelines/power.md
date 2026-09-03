@@ -1,6 +1,6 @@
 # ⏱ POWER — merged timeline (the gate)
 
-> **81 dated entries across 3 notes · 2026-06-30 → 2026-09-02 · refreshed 2026-09-02 08:29 PDT**
+> **83 dated entries across 3 notes · 2026-06-30 → 2026-09-02 · refreshed 2026-09-03 07:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -103,3 +103,5 @@
 - `2026-09-01` [buildout-bottleneck-map.md:L1578](../buildout-bottleneck-map.md) — Addendum 2026-09-01 ~11:10am PDT — **MUSK'S G20 NUMBER IS THE BOARD'S 8/30 NUMBER (:L1554 — "consensus ~15GW of 2027 AI compute cannot be turned on"),
 - `2026-09-02` [buildout-bottleneck-map.md:L1583](../buildout-bottleneck-map.md) — 2026-09-02 ~8:15am PDT — ⭐⭐⭐⭐⭐ **CHAPEL HILL, TWO DAYS (Jake's summary, `raw/2026-09-02-g20-innovation-ministerial-summary.txt`): "AI CAPEX IS BECOMIN
 - `2026-09-02` [buildout-bottleneck-map.md:L1597](../buildout-bottleneck-map.md) — Addendum 2026-09-02 ~8:27am PDT — **Layer added to the map: SOCIAL LICENSE / community acceptance (Bessent "horrendous job," Trump "PR help," the Rate
+- `2026-09-02` [buildout-bottleneck-map.md:L1599](../buildout-bottleneck-map.md) — Addendum 2026-09-02 ~8:47am PDT — ⭐⭐⭐⭐ **THE PURGE IS NOT TEXAS-ONLY: PJM REMOVED OKLO'S 750MW OHIO PROJECT FROM INTERCONNECTION CYCLE 1 (scan late-ca
+- `2026-09-02` [buildout-bottleneck-map.md:L1601](../buildout-bottleneck-map.md) — Addendum 2026-09-02 ~7:12pm PDT — **Jake's Chapel Hill ordering, adopted as the board's read of NEW information (not of absolute size): power generati

@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **465 dated entries across 4 notes · 2026-05-22 → 2026-09-02 · refreshed 2026-09-02 08:29 PDT**
+> **475 dated entries across 4 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 07:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -489,4 +489,14 @@
 - `2026-09-01` [metered-compute.md:L3283](../metered-compute.md) — Addendum 2026-09-01 ~11:27am PDT — ⭐⭐⭐ **THE CURSOR NATURAL EXPERIMENT GETS ITS DENOMINATOR (Epoch Times via ZH): OpenAI models serve only ~5% OF CURS
 - `2026-09-01` [metered-compute.md:L3285](../metered-compute.md) — Addendum 2026-09-01 ~4:00pm PDT — ⭐⭐⭐ **THE TOKEN INDEX BREAKS $1 — Silicon Data LLM Token Expenditure Index 0.9665 (chart via Jake, `raw/2026-09-01-s
 - `2026-09-02` [ai-capex-cycle.md:L3509](../ai-capex-cycle.md) — 2026-09-02 ~8:25am PDT — ✅⭐⭐⭐⭐⭐ **SOCIAL LICENSE IS NOW A CABINET-LEVEL CONSTRAINT — AND THE 7/05 PREDICTION GRADES CONFIRMED. Bessent (Chapel Hill, v
+- `2026-09-02` [ai-capex-cycle.md:L3518](../ai-capex-cycle.md) — 2026-09-02 ~8:40am PDT — ⭐⭐⭐⭐⭐ **THE HARD-DEMAND PRINTS ARRIVE ON THE SAME MORNING THE DISCOUNT RATE TOUCHES A THREE-YEAR HIGH (9/2 holdings scan, `ra
+- `2026-09-02` [ai-capex-cycle.md:L3530](../ai-capex-cycle.md) — Addendum 2026-09-02 ~8:45am PDT — 📌 **AVGO TONIGHT = THE YARDSTICK FOR THE CAPEX-vs-EARNINGS TUG-OF-WAR (Jake's framing, adopted; scorecard PRE-REGIST
+- `2026-09-02` [ai-capex-cycle.md:L3539](../ai-capex-cycle.md) — Addendum 2026-09-02 ~10:07am PDT — **FIRST LAB TO SIGN THE BARGAIN PUBLICLY: Anthropic's Tom Brown (Chapel Hill, via Jake) praised the pro-data-center
+- `2026-09-02` [ai-capex-cycle.md:L3541](../ai-capex-cycle.md) — 2026-09-02 ~1:50pm PDT — ⭐⭐⭐⭐⭐⭐ **AVGO Q3 FY26 GRADED AGAINST THE PRE-REGISTERED SCORECARD (release + ZH wires via Jake, `raw/2026-09-02-avgo-q3-print
 - `2026-09-02` [ai-financing-fragility.md:L7635](../ai-financing-fragility.md) — 2026-09-02 ~8:18am PDT — ⭐⭐⭐⭐ **CAPITAL ACCESS IS BIFURCATED, MEASURED (9/2 opening scan): global convertible issuance ~$186.8B across 362 deals YTD t
+- `2026-09-02` [compression-thesis.md:L2861](../compression-thesis.md) — Addendum 2026-09-02 ~10:05am PDT — ⭐⭐⭐⭐ **THE RESET, SIX DAYS AFTER THE COURT (Lutnick at Chapel Hill, via Jake): "We trust Anthropic… [they've] done 
+- `2026-09-02` [compression-thesis.md:L2863](../compression-thesis.md) — 2026-09-02 ~2:20pm PDT — ⭐⭐⭐⭐ **JAKE BUILT A CHANNEL-LEVEL MEMORY METER (his DigiKey list `digikey_memory_tracker_updated_2026-09-02.csv`, `raw/2026-0
+- `2026-09-02` [compression-thesis.md:L2864](../compression-thesis.md) — DATA (2026-09-02 snapshot)
+- `2026-09-02` [compression-thesis.md:L2881](../compression-thesis.md) — Addendum 2026-09-02 ~2:25pm PDT — ⭐⭐⭐⭐⭐ **THE PRODUCT PAGE SETTLES IT AND ADDS A PRICE (Jake, `raw/2026-09-02-digikey-MTC40F2046-product-page.pdf` — M
+- `2026-09-02` [metered-compute.md:L3290](../metered-compute.md) — 2026-09-02 ~7:10pm PDT — ⭐⭐⭐⭐ **HUANG vs ALTMAN, PUBLICLY SPLIT ON WHETHER COMPUTE MUST BE OWNED (Jake's catch, Chapel Hill): HUANG — AI is infrastruc
+- `2026-09-03` [ai-financing-fragility.md:L7637](../ai-financing-fragility.md) — 2026-09-03 ~7:25am PDT — **GPU LADDER, CRWV RUNGS FILLED IN (Q2 10-Q via 9/3 scan):** CRWV carries THREE fixed rungs (8.50% euro · 9.625% · 9.75%) and

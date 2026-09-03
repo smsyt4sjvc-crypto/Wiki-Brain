@@ -1,6 +1,6 @@
 # ⏱ TOKEN-ECON — merged timeline (the gate)
 
-> **174 dated entries across 3 notes · 2026-07-16 → 2026-09-01 · refreshed 2026-09-02 08:29 PDT**
+> **179 dated entries across 3 notes · 2026-07-16 → 2026-09-02 · refreshed 2026-09-03 07:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -193,3 +193,8 @@
 
 - `2026-09-01` [metered-compute.md:L3283](../metered-compute.md) — Addendum 2026-09-01 ~11:27am PDT — ⭐⭐⭐ **THE CURSOR NATURAL EXPERIMENT GETS ITS DENOMINATOR (Epoch Times via ZH): OpenAI models serve only ~5% OF CURS
 - `2026-09-01` [metered-compute.md:L3285](../metered-compute.md) — Addendum 2026-09-01 ~4:00pm PDT — ⭐⭐⭐ **THE TOKEN INDEX BREAKS $1 — Silicon Data LLM Token Expenditure Index 0.9665 (chart via Jake, `raw/2026-09-01-s
+- `2026-09-02` [compression-thesis.md:L2861](../compression-thesis.md) — Addendum 2026-09-02 ~10:05am PDT — ⭐⭐⭐⭐ **THE RESET, SIX DAYS AFTER THE COURT (Lutnick at Chapel Hill, via Jake): "We trust Anthropic… [they've] done 
+- `2026-09-02` [compression-thesis.md:L2863](../compression-thesis.md) — 2026-09-02 ~2:20pm PDT — ⭐⭐⭐⭐ **JAKE BUILT A CHANNEL-LEVEL MEMORY METER (his DigiKey list `digikey_memory_tracker_updated_2026-09-02.csv`, `raw/2026-0
+- `2026-09-02` [compression-thesis.md:L2864](../compression-thesis.md) — DATA (2026-09-02 snapshot)
+- `2026-09-02` [compression-thesis.md:L2881](../compression-thesis.md) — Addendum 2026-09-02 ~2:25pm PDT — ⭐⭐⭐⭐⭐ **THE PRODUCT PAGE SETTLES IT AND ADDS A PRICE (Jake, `raw/2026-09-02-digikey-MTC40F2046-product-page.pdf` — M
+- `2026-09-02` [metered-compute.md:L3290](../metered-compute.md) — 2026-09-02 ~7:10pm PDT — ⭐⭐⭐⭐ **HUANG vs ALTMAN, PUBLICLY SPLIT ON WHETHER COMPUTE MUST BE OWNED (Jake's catch, Chapel Hill): HUANG — AI is infrastruc

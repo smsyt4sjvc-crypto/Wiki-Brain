@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **154 dated entries across 2 notes · 2026-07-01 → 2026-09-02 · refreshed 2026-09-02 08:29 PDT**
+> **155 dated entries across 2 notes · 2026-07-01 → 2026-09-02 · refreshed 2026-09-03 07:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -173,3 +173,4 @@
 - `2026-09-01` [war-board.md:L4377](../war/war-board.md) — Addendum 2026-09-01 ~1:10pm PDT — ✅⭐⭐⭐⭐ **THE MoU, AT TERMS LEVEL (Jake's gopher summary — supersedes the 1:05pm recollection on the numbers): JUNE 17
 - `2026-09-01` [war-board.md:L4383](../war/war-board.md) — 2026-09-01 ~7:55pm PDT — ⛔⭐⭐⭐⭐ **THE OFFICIAL HORMUZ VOLUME CLAIM vs THE VESSEL DATA (Jake's flag + primary pulled): Energy Secretary Wright, Sept 1 (
 - `2026-09-02` [war-board.md:L4396](../war/war-board.md) — 2026-09-02 ~8:35am PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE OVERNIGHT, ASSESSED (ZH feed scan, `raw/2026-09-02-zh-feed-scan.txt`): (1) IRANIAN TOLL 18, including an alleg
+- `2026-09-02` [war-board.md:L4406](../war/war-board.md) — Addendum 2026-09-02 ~10:00am PDT — **IRIB official toll (wire via Jake): 18 killed, 108 injured in the overnight US strikes.** The 18 matches the 8:35

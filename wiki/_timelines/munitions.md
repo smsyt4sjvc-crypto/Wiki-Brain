@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **225 dated entries across 2 notes · 2026-05-22 → 2026-09-02 · refreshed 2026-09-02 08:29 PDT**
+> **230 dated entries across 2 notes · 2026-05-22 → 2026-09-02 · refreshed 2026-09-03 07:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -249,4 +249,9 @@
 - `2026-09-01` [war-board.md:L4377](../war/war-board.md) — Addendum 2026-09-01 ~1:10pm PDT — ✅⭐⭐⭐⭐ **THE MoU, AT TERMS LEVEL (Jake's gopher summary — supersedes the 1:05pm recollection on the numbers): JUNE 17
 - `2026-09-01` [war-board.md:L4383](../war/war-board.md) — 2026-09-01 ~7:55pm PDT — ⛔⭐⭐⭐⭐ **THE OFFICIAL HORMUZ VOLUME CLAIM vs THE VESSEL DATA (Jake's flag + primary pulled): Energy Secretary Wright, Sept 1 (
 - `2026-09-02` [ai-capex-cycle.md:L3509](../ai-capex-cycle.md) — 2026-09-02 ~8:25am PDT — ✅⭐⭐⭐⭐⭐ **SOCIAL LICENSE IS NOW A CABINET-LEVEL CONSTRAINT — AND THE 7/05 PREDICTION GRADES CONFIRMED. Bessent (Chapel Hill, v
+- `2026-09-02` [ai-capex-cycle.md:L3518](../ai-capex-cycle.md) — 2026-09-02 ~8:40am PDT — ⭐⭐⭐⭐⭐ **THE HARD-DEMAND PRINTS ARRIVE ON THE SAME MORNING THE DISCOUNT RATE TOUCHES A THREE-YEAR HIGH (9/2 holdings scan, `ra
+- `2026-09-02` [ai-capex-cycle.md:L3530](../ai-capex-cycle.md) — Addendum 2026-09-02 ~8:45am PDT — 📌 **AVGO TONIGHT = THE YARDSTICK FOR THE CAPEX-vs-EARNINGS TUG-OF-WAR (Jake's framing, adopted; scorecard PRE-REGIST
+- `2026-09-02` [ai-capex-cycle.md:L3539](../ai-capex-cycle.md) — Addendum 2026-09-02 ~10:07am PDT — **FIRST LAB TO SIGN THE BARGAIN PUBLICLY: Anthropic's Tom Brown (Chapel Hill, via Jake) praised the pro-data-center
+- `2026-09-02` [ai-capex-cycle.md:L3541](../ai-capex-cycle.md) — 2026-09-02 ~1:50pm PDT — ⭐⭐⭐⭐⭐⭐ **AVGO Q3 FY26 GRADED AGAINST THE PRE-REGISTERED SCORECARD (release + ZH wires via Jake, `raw/2026-09-02-avgo-q3-print
 - `2026-09-02` [war-board.md:L4396](../war/war-board.md) — 2026-09-02 ~8:35am PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE OVERNIGHT, ASSESSED (ZH feed scan, `raw/2026-09-02-zh-feed-scan.txt`): (1) IRANIAN TOLL 18, including an alleg
+- `2026-09-02` [war-board.md:L4406](../war/war-board.md) — Addendum 2026-09-02 ~10:00am PDT — **IRIB official toll (wire via Jake): 18 killed, 108 injured in the overnight US strikes.** The 18 matches the 8:35

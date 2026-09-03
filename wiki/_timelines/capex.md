@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **145 dated entries across 3 notes · 2026-05-22 → 2026-09-02 · refreshed 2026-09-02 08:29 PDT**
+> **151 dated entries across 3 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 07:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -169,4 +169,10 @@
 - `2026-09-01` [balance-sheet-board.md:L744](../balance-sheet-board.md) — Addendum 2026-09-01 ~11:30am PDT — **IPO-window datum for the SBE listing (ZH): Shein's HK debut FLOPPED — $1.7B raised, ~$26B cap vs ~$100B in 2022, 
 - `2026-09-01` [balance-sheet-board.md:L746](../balance-sheet-board.md) — Addendum 2026-09-01 ~1:20pm PDT — ⭐⭐⭐⭐ **CLOSE-SCAN SHEETS ADDS (most of the ladder = re-derivations of today's 7:45am filing; the NEW items):** (1) *
 - `2026-09-02` [ai-capex-cycle.md:L3509](../ai-capex-cycle.md) — 2026-09-02 ~8:25am PDT — ✅⭐⭐⭐⭐⭐ **SOCIAL LICENSE IS NOW A CABINET-LEVEL CONSTRAINT — AND THE 7/05 PREDICTION GRADES CONFIRMED. Bessent (Chapel Hill, v
+- `2026-09-02` [ai-capex-cycle.md:L3518](../ai-capex-cycle.md) — 2026-09-02 ~8:40am PDT — ⭐⭐⭐⭐⭐ **THE HARD-DEMAND PRINTS ARRIVE ON THE SAME MORNING THE DISCOUNT RATE TOUCHES A THREE-YEAR HIGH (9/2 holdings scan, `ra
+- `2026-09-02` [ai-capex-cycle.md:L3530](../ai-capex-cycle.md) — Addendum 2026-09-02 ~8:45am PDT — 📌 **AVGO TONIGHT = THE YARDSTICK FOR THE CAPEX-vs-EARNINGS TUG-OF-WAR (Jake's framing, adopted; scorecard PRE-REGIST
+- `2026-09-02` [ai-capex-cycle.md:L3539](../ai-capex-cycle.md) — Addendum 2026-09-02 ~10:07am PDT — **FIRST LAB TO SIGN THE BARGAIN PUBLICLY: Anthropic's Tom Brown (Chapel Hill, via Jake) praised the pro-data-center
+- `2026-09-02` [ai-capex-cycle.md:L3541](../ai-capex-cycle.md) — 2026-09-02 ~1:50pm PDT — ⭐⭐⭐⭐⭐⭐ **AVGO Q3 FY26 GRADED AGAINST THE PRE-REGISTERED SCORECARD (release + ZH wires via Jake, `raw/2026-09-02-avgo-q3-print
 - `2026-09-02` [balance-sheet-board.md:L748](../balance-sheet-board.md) — 2026-09-02 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE TRIGGER-3 PRECURSOR FIRED AT THE COUNTERPARTY LEVEL (9/2 opening scan, CRWV Q2 10-Q): during Q2 CoreWeave REASSE
+- `2026-09-02` [balance-sheet-board.md:L761](../balance-sheet-board.md) — Addendum 2026-09-02 ~8:45am PDT — **SB Energy S-1 (filed Aug 31; scan's late-catch) adds the OTHER dependency in SEC language: SB Energy is "substanti
+- `2026-09-03` [balance-sheet-board.md:L763](../balance-sheet-board.md) — 2026-09-03 ~7:20am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CENTRAL CONTRADICTION BREAKS AT ITS WEAKEST NODE: COREWEAVE 5Y CDS >800bp (9/3 scan; MarketWatch: ~40-45% five-

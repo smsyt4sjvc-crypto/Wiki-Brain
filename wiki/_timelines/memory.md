@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **121 dated entries across 2 notes · 2026-07-16 → 2026-08-28 · refreshed 2026-09-02 08:29 PDT**
+> **125 dated entries across 2 notes · 2026-07-16 → 2026-09-02 · refreshed 2026-09-03 07:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -137,3 +137,10 @@
 - `2026-08-27` [compression-thesis.md:L2820](../compression-thesis.md) — Addendum 2026-08-27 ~3:20pm PDT — **JAKE REFRAMES THE SOFTWARE BREAKOUT AND HIS FRAME IS BETTER SUPPORTED BY THE WEEK'S DATA: "ACCUMULATION SIGNAL. So
 - `2026-08-27` [compression-thesis.md:L2831](../compression-thesis.md) — 2026-08-27 ~8:10pm PDT — ⭐⭐⭐⭐⭐⭐ **THE ANTHROPIC BLACKLIST FALLS: JUDGE RITA LIN (N.D. Cal.) VACATES THE PENTAGON'S SUPPLY-CHAIN-RISK DESIGNATION — FIR
 - `2026-08-28` [compression-thesis.md:L2859](../compression-thesis.md) — Addendum 2026-08-28 ~9:40am PDT — **SOFTWARE TEST #3 (WDAY): PASSED, softly.** Beat on adj-EPS + revenue; **AI >25% of new ACV** (the accumulation sig
+
+## 2026-09
+
+- `2026-09-02` [compression-thesis.md:L2861](../compression-thesis.md) — Addendum 2026-09-02 ~10:05am PDT — ⭐⭐⭐⭐ **THE RESET, SIX DAYS AFTER THE COURT (Lutnick at Chapel Hill, via Jake): "We trust Anthropic… [they've] done 
+- `2026-09-02` [compression-thesis.md:L2863](../compression-thesis.md) — 2026-09-02 ~2:20pm PDT — ⭐⭐⭐⭐ **JAKE BUILT A CHANNEL-LEVEL MEMORY METER (his DigiKey list `digikey_memory_tracker_updated_2026-09-02.csv`, `raw/2026-0
+- `2026-09-02` [compression-thesis.md:L2864](../compression-thesis.md) — DATA (2026-09-02 snapshot)
+- `2026-09-02` [compression-thesis.md:L2881](../compression-thesis.md) — Addendum 2026-09-02 ~2:25pm PDT — ⭐⭐⭐⭐⭐ **THE PRODUCT PAGE SETTLES IT AND ADDS A PRICE (Jake, `raw/2026-09-02-digikey-MTC40F2046-product-page.pdf` — M

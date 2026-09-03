@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **757 dated entries · 2026-02-10 → 2026-09-02 · refreshed 2026-09-02 08:29 PDT**
+> **772 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 07:15 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -786,9 +786,24 @@
 - `2026-09-02` **[1]** rates-board.md:L1954 — 2026-09-02 ~8:10am PDT — ⭐⭐⭐⭐⭐ **CONTROL-WEEK DAY 3, THE OVERNIGHT (9/2 opening scan + Jake): BOTH SCAN THRESHOLDS BREACHED ON IRAN'S RETALIATION — 10
 - `2026-09-02` **[1]** rates-board.md:L1955 — DATA (`raw/2026-09-02-bond-opening-scan.txt`)
 - `2026-09-02` **[1]** rates-board.md:L1968 — Addendum 2026-09-02 ~8:40am PDT — ⭐⭐⭐⭐ **THE BESSENT-BoJ THREAD GETS A PRICE: YEN THROUGH 160/USD, then a sudden spike stronger as the G20 closes — "i
+- `2026-09-02` **[1]** rates-board.md:L1970 — Addendum 2026-09-02 ~9:30am PDT — ⭐⭐⭐ **THE 30Y IN ANNUAL FRAME (Bloomberg chart + wire stats via Jake, `raw/2026-09-02-bloomberg-30y-avg-yield-since-
 - `2026-09-02` **[1]** new-economy-regime.md:L4805 — 2026-09-02 ~7:50am PDT — ⭐⭐⭐ **ADP AUGUST +38K (cons +48K; July rev +46K from +44K) — the frozen-churn regime's next tick, now with SECTOR SHAPE: good
 - `2026-09-02` **[1]** new-economy-regime.md:L4811 — 2026-09-02 ~8:20am PDT — **Chapel Hill Day 2 (Jake's summary → full entry [[buildout-bottleneck-map]] 9/2): LUTNICK — the administration's inclination
 - `2026-09-02` **[1]** new-economy-regime.md:L4813 — Addendum 2026-09-02 ~8:47am PDT — **Two ZH items to the regime threads:** (1) **UBER cuts ~10% (~3,600) — "removing layers," reallocating to delivery,
+- `2026-09-02` **[1]** new-economy-regime.md:L4815 — 2026-09-02 ~7:05pm PDT — ⭐⭐⭐⭐⭐ **CHAPEL HILL'S TWO POLICY LEVERS THE BOARDS DIDN'T HAVE (Jake's synthesis): (1) COPYRIGHT — Lutnick pushed G20 members
 - `2026-09-02` **[3]** ai-financing-fragility.md:L7635 — 2026-09-02 ~8:18am PDT — ⭐⭐⭐⭐ **CAPITAL ACCESS IS BIFURCATED, MEASURED (9/2 opening scan): global convertible issuance ~$186.8B across 362 deals YTD t
 - `2026-09-02` **[3]** balance-sheet-board.md:L748 — 2026-09-02 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE TRIGGER-3 PRECURSOR FIRED AT THE COUNTERPARTY LEVEL (9/2 opening scan, CRWV Q2 10-Q): during Q2 CoreWeave REASSE
+- `2026-09-02` **[3]** balance-sheet-board.md:L761 — Addendum 2026-09-02 ~8:45am PDT — **SB Energy S-1 (filed Aug 31; scan's late-catch) adds the OTHER dependency in SEC language: SB Energy is "substanti
 - `2026-09-02` **[4]** ai-capex-cycle.md:L3509 — 2026-09-02 ~8:25am PDT — ✅⭐⭐⭐⭐⭐ **SOCIAL LICENSE IS NOW A CABINET-LEVEL CONSTRAINT — AND THE 7/05 PREDICTION GRADES CONFIRMED. Bessent (Chapel Hill, v
+- `2026-09-02` **[4]** ai-capex-cycle.md:L3518 — 2026-09-02 ~8:40am PDT — ⭐⭐⭐⭐⭐ **THE HARD-DEMAND PRINTS ARRIVE ON THE SAME MORNING THE DISCOUNT RATE TOUCHES A THREE-YEAR HIGH (9/2 holdings scan, `ra
+- `2026-09-02` **[4]** ai-capex-cycle.md:L3530 — Addendum 2026-09-02 ~8:45am PDT — 📌 **AVGO TONIGHT = THE YARDSTICK FOR THE CAPEX-vs-EARNINGS TUG-OF-WAR (Jake's framing, adopted; scorecard PRE-REGIST
+- `2026-09-02` **[4]** ai-capex-cycle.md:L3539 — Addendum 2026-09-02 ~10:07am PDT — **FIRST LAB TO SIGN THE BARGAIN PUBLICLY: Anthropic's Tom Brown (Chapel Hill, via Jake) praised the pro-data-center
+- `2026-09-02` **[4]** ai-capex-cycle.md:L3541 — 2026-09-02 ~1:50pm PDT — ⭐⭐⭐⭐⭐⭐ **AVGO Q3 FY26 GRADED AGAINST THE PRE-REGISTERED SCORECARD (release + ZH wires via Jake, `raw/2026-09-02-avgo-q3-print
+- `2026-09-02` **[5]** metered-compute.md:L3290 — 2026-09-02 ~7:10pm PDT — ⭐⭐⭐⭐ **HUANG vs ALTMAN, PUBLICLY SPLIT ON WHETHER COMPUTE MUST BE OWNED (Jake's catch, Chapel Hill): HUANG — AI is infrastruc
+- `2026-09-02` **[5]** compression-thesis.md:L2861 — Addendum 2026-09-02 ~10:05am PDT — ⭐⭐⭐⭐ **THE RESET, SIX DAYS AFTER THE COURT (Lutnick at Chapel Hill, via Jake): "We trust Anthropic… [they've] done 
+- `2026-09-02` **[5]** compression-thesis.md:L2863 — 2026-09-02 ~2:20pm PDT — ⭐⭐⭐⭐ **JAKE BUILT A CHANNEL-LEVEL MEMORY METER (his DigiKey list `digikey_memory_tracker_updated_2026-09-02.csv`, `raw/2026-0
+- `2026-09-02` **[5]** compression-thesis.md:L2864 — DATA (2026-09-02 snapshot)
+- `2026-09-02` **[5]** compression-thesis.md:L2881 — Addendum 2026-09-02 ~2:25pm PDT — ⭐⭐⭐⭐⭐ **THE PRODUCT PAGE SETTLES IT AND ADDS A PRICE (Jake, `raw/2026-09-02-digikey-MTC40F2046-product-page.pdf` — M
+- `2026-09-03` **[1]** rates-board.md:L1975 — 2026-09-03 ~7:15am PDT — ⭐⭐⭐⭐⭐ **THURSDAY OPEN (9/3 scan, `raw/2026-09-03-bond-opening-scan.txt`): A RELIEF RALLY WITH THE RIGHT SHAPE — WALLER LEANS 
+- `2026-09-03` **[3]** ai-financing-fragility.md:L7637 — 2026-09-03 ~7:25am PDT — **GPU LADDER, CRWV RUNGS FILLED IN (Q2 10-Q via 9/3 scan):** CRWV carries THREE fixed rungs (8.50% euro · 9.625% · 9.75%) and
+- `2026-09-03` **[3]** balance-sheet-board.md:L763 — 2026-09-03 ~7:20am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CENTRAL CONTRADICTION BREAKS AT ITS WEAKEST NODE: COREWEAVE 5Y CDS >800bp (9/3 scan; MarketWatch: ~40-45% five-

@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **202 dated entries across 2 notes · 2026-03-13 → 2026-09-02 · refreshed 2026-09-02 08:29 PDT**
+> **205 dated entries across 2 notes · 2026-03-13 → 2026-09-02 · refreshed 2026-09-03 07:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -227,3 +227,6 @@
 - `2026-09-02` [oil-value-chain.md:L2572](../oil-value-chain.md) — 2026-09-02 ~8:20am PDT — **VENEZUELA WILL NOT REFILL THE SPR (Jake: said "at the G20," speaker ⬜ — filed as recollection pending the quote).** If so, 
 - `2026-09-02` [oil-value-chain.md:L2574](../oil-value-chain.md) — Addendum 2026-09-02 ~8:35am PDT — ✅⭐⭐⭐⭐ **THE SPR-REFILL QUESTION, SOURCED (extends 8:20am): the G20 speaker Jake recalls is still ⬜, but the substanc
 - `2026-09-02` [oil-value-chain.md:L2579](../oil-value-chain.md) — 2026-09-02 ~8:45am PDT — ⭐⭐⭐ **Two corroborations (ZH scan):** (1) **"Feedstock is not fuel" (Karl Miller via Larry Johnson): Venezuelan crude "is the
+- `2026-09-02` [oil-value-chain.md:L2581](../oil-value-chain.md) — Addendum 2026-09-02 ~9:10am PDT — ⭐⭐⭐⭐⭐ **THE EIA PRINT WITH ITS CHARTS (ZH PDF via Jake, `raw/2026-09-02-zh-eia-wti-5wk-highs.pdf`; charts read): the
+- `2026-09-02` [oil-value-chain.md:L2587](../oil-value-chain.md) — Addendum 2026-09-02 ~9:15am PDT — **Jake's Q: "Can Venezuelan crude be traded for sweeter crude for the SPR?" — YES mechanically, NO inside the window
+- `2026-09-02` [oil-value-chain.md:L2589](../oil-value-chain.md) — Addendum 2026-09-02 ~9:20am PDT — ✅ **Jake's arithmetic on the SPR swap (adopted; corrects my 9:15am price objection):** government buys Venezuelan he
