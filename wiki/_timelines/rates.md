@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **332 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 07:15 PDT**
+> **334 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 07:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -356,4 +356,6 @@
 - `2026-09-02` [rates-board.md:L1955](../rates-board.md) — DATA (`raw/2026-09-02-bond-opening-scan.txt`)
 - `2026-09-02` [rates-board.md:L1968](../rates-board.md) — Addendum 2026-09-02 ~8:40am PDT — ⭐⭐⭐⭐ **THE BESSENT-BoJ THREAD GETS A PRICE: YEN THROUGH 160/USD, then a sudden spike stronger as the G20 closes — "i
 - `2026-09-02` [rates-board.md:L1970](../rates-board.md) — Addendum 2026-09-02 ~9:30am PDT — ⭐⭐⭐ **THE 30Y IN ANNUAL FRAME (Bloomberg chart + wire stats via Jake, `raw/2026-09-02-bloomberg-30y-avg-yield-since-
+- `2026-09-03` [new-economy-regime.md:L4822](../new-economy-regime.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
 - `2026-09-03` [rates-board.md:L1975](../rates-board.md) — 2026-09-03 ~7:15am PDT — ⭐⭐⭐⭐⭐ **THURSDAY OPEN (9/3 scan, `raw/2026-09-03-bond-opening-scan.txt`): A RELIEF RALLY WITH THE RIGHT SHAPE — WALLER LEANS 
+- `2026-09-03` [rates-board.md:L1989](../rates-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **WALLER'S CONDITION IS THE CPI; ISM SERVICES 55.4 ARGUES THE OTHER WAY; JAPAN'S 30Y TAILS AS THE GPIF STORY STARTS (ZH 

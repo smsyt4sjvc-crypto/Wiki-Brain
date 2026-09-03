@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **155 dated entries across 2 notes · 2026-07-01 → 2026-09-02 · refreshed 2026-09-03 07:15 PDT**
+> **156 dated entries across 2 notes · 2026-07-01 → 2026-09-03 · refreshed 2026-09-03 07:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -174,3 +174,4 @@
 - `2026-09-01` [war-board.md:L4383](../war/war-board.md) — 2026-09-01 ~7:55pm PDT — ⛔⭐⭐⭐⭐ **THE OFFICIAL HORMUZ VOLUME CLAIM vs THE VESSEL DATA (Jake's flag + primary pulled): Energy Secretary Wright, Sept 1 (
 - `2026-09-02` [war-board.md:L4396](../war/war-board.md) — 2026-09-02 ~8:35am PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE OVERNIGHT, ASSESSED (ZH feed scan, `raw/2026-09-02-zh-feed-scan.txt`): (1) IRANIAN TOLL 18, including an alleg
 - `2026-09-02` [war-board.md:L4406](../war/war-board.md) — Addendum 2026-09-02 ~10:00am PDT — **IRIB official toll (wire via Jake): 18 killed, 108 injured in the overnight US strikes.** The 18 matches the 8:35
+- `2026-09-03` [war-board.md:L4408](../war/war-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **THIRD WAVE REACHES THE UAE; TRUMP WEIGHS DECLARING THE WAR "OVER" WHILE THE BLOCKADE RUNS (ZH scan 7:25am; ZH/Tasnim/K

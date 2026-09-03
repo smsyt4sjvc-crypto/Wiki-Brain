@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **151 dated entries across 3 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 07:15 PDT**
+> **153 dated entries across 3 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 07:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -175,4 +175,6 @@
 - `2026-09-02` [ai-capex-cycle.md:L3541](../ai-capex-cycle.md) — 2026-09-02 ~1:50pm PDT — ⭐⭐⭐⭐⭐⭐ **AVGO Q3 FY26 GRADED AGAINST THE PRE-REGISTERED SCORECARD (release + ZH wires via Jake, `raw/2026-09-02-avgo-q3-print
 - `2026-09-02` [balance-sheet-board.md:L748](../balance-sheet-board.md) — 2026-09-02 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE TRIGGER-3 PRECURSOR FIRED AT THE COUNTERPARTY LEVEL (9/2 opening scan, CRWV Q2 10-Q): during Q2 CoreWeave REASSE
 - `2026-09-02` [balance-sheet-board.md:L761](../balance-sheet-board.md) — Addendum 2026-09-02 ~8:45am PDT — **SB Energy S-1 (filed Aug 31; scan's late-catch) adds the OTHER dependency in SEC language: SB Energy is "substanti
+- `2026-09-03` [ai-capex-cycle.md:L3556](../ai-capex-cycle.md) — Addendum 2026-09-03 ~7:30am PDT — **AVGO next-morning tape (ZH scan): −3% premarket vs −6.8% after-hours = registered item #5 half-answered — the head
 - `2026-09-03` [balance-sheet-board.md:L763](../balance-sheet-board.md) — 2026-09-03 ~7:20am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CENTRAL CONTRADICTION BREAKS AT ITS WEAKEST NODE: COREWEAVE 5Y CDS >800bp (9/3 scan; MarketWatch: ~40-45% five-
+- `2026-09-03` [balance-sheet-board.md:L775](../balance-sheet-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **NVIDIA BUYS HUGGING FACE FOR $12.9B — THE VENDOR BUYS THE DISTRIBUTION JUNCTION (ZH/WSJ via ZH scan 7:25am — raw/2026-

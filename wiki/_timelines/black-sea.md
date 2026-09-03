@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **205 dated entries across 2 notes · 2026-03-13 → 2026-09-02 · refreshed 2026-09-03 07:15 PDT**
+> **206 dated entries across 2 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 07:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -230,3 +230,4 @@
 - `2026-09-02` [oil-value-chain.md:L2581](../oil-value-chain.md) — Addendum 2026-09-02 ~9:10am PDT — ⭐⭐⭐⭐⭐ **THE EIA PRINT WITH ITS CHARTS (ZH PDF via Jake, `raw/2026-09-02-zh-eia-wti-5wk-highs.pdf`; charts read): the
 - `2026-09-02` [oil-value-chain.md:L2587](../oil-value-chain.md) — Addendum 2026-09-02 ~9:15am PDT — **Jake's Q: "Can Venezuelan crude be traded for sweeter crude for the SPR?" — YES mechanically, NO inside the window
 - `2026-09-02` [oil-value-chain.md:L2589](../oil-value-chain.md) — Addendum 2026-09-02 ~9:20am PDT — ✅ **Jake's arithmetic on the SPR swap (adopted; corrects my 9:15am price objection):** government buys Venezuelan he
+- `2026-09-03` [oil-value-chain.md:L2591](../oil-value-chain.md) — Addendum 2026-09-03 ~7:30am PDT — **RETAIL DIESEL $5.783 (Wednesday, highest since mid-2022, "approaching a record"); LNG STILL AT A STANDSTILL — Qata

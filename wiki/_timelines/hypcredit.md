@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **273 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 07:15 PDT**
+> **274 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 07:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -301,3 +301,4 @@
 - `2026-09-02` [rates-board.md:L1970](../rates-board.md) — Addendum 2026-09-02 ~9:30am PDT — ⭐⭐⭐ **THE 30Y IN ANNUAL FRAME (Bloomberg chart + wire stats via Jake, `raw/2026-09-02-bloomberg-30y-avg-yield-since-
 - `2026-09-03` [ai-financing-fragility.md:L7637](../ai-financing-fragility.md) — 2026-09-03 ~7:25am PDT — **GPU LADDER, CRWV RUNGS FILLED IN (Q2 10-Q via 9/3 scan):** CRWV carries THREE fixed rungs (8.50% euro · 9.625% · 9.75%) and
 - `2026-09-03` [rates-board.md:L1975](../rates-board.md) — 2026-09-03 ~7:15am PDT — ⭐⭐⭐⭐⭐ **THURSDAY OPEN (9/3 scan, `raw/2026-09-03-bond-opening-scan.txt`): A RELIEF RALLY WITH THE RIGHT SHAPE — WALLER LEANS 
+- `2026-09-03` [rates-board.md:L1989](../rates-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **WALLER'S CONDITION IS THE CPI; ISM SERVICES 55.4 ARGUES THE OTHER WAY; JAPAN'S 30Y TAILS AS THE GPIF STORY STARTS (ZH 

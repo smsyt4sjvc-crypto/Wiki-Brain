@@ -1,0 +1,763 @@
+===== Thu, 03 Sep 2026 14:05:00 +0000 | US PMI Surveys Signal Growth Rebound In Q3, Strongest Among Global Peers
+US PMI Surveys Signal Growth Rebound In Q3, Strongest Among Global Peers
+
+            Following the mixed/weak Manufacturing PMI survey data earlier in the week, today's Services PMIs were expected to be just as mixed with S&P Global higher and ISM flat.
+
+	S&P Global Services PMI for August rose from 54.6 to 56.5 (below the preliminary 56.8 but still up bigly) - the highest since Dec 2024
+
+	
+
+	
+	ISM Services PMI for August rose from 54.1 to 55.4 (better than the 54.1 exp) - the highest since Feb 2026
+
+	
+
+These improvements come as hard data languishes...
+
+The S&P Global US Composite PMI recorded 56.0 in August, up from 54.5 in July and pushed the index to a 52-month high. A stronger rise in services activity coincided with sustained, albeit slower growth in manufacturing. This puts the US economy ahead of the rest of the world based on survey data...
+
+“Business activity growth across the private sector accelerated in August, marking a clear shift in gear for the US economy," said Usamah Bhatti, Economist at S&P Global Market Intelligence.
+
+Survey data now point to GDP growing at an annualized rate of 3.0% in the third quarter, up solidly from the meagre 1.5% recorded in the previous quarter...
+
+Alongside a renewed improvement in new business intakes, growth appears likely to continue at least in the near term.
+
+“There was also a welcome acceleration in jobs growth during August, with employers becoming more confident across both the manufacturing and service sectors. 
+
+Job creation was commonly linked to efforts to keep pace with demand requirements, but also to prepare for future growth as concerns regarding the conflict in the Middle East started to fade."
+
+That said, Bhatti points out that "supply delays remained elevated, notably for manufacturers, while aggregate price pressures also stayed above their historical average."
+
+Growth momentum appears to have shifted from manufacturing to services, with the latter seeing the pace of expansion surge to the highest since the end of 2024.
+
+"Manufacturing growth, meanwhile, was unchanged as both output and new orders rose at weaker rates."
+
+Is strong growth and elevated prices enough to trigger Warsh to pull the trigger in two weeks? Waller's comments this morning dampened the market's enthusiasm for a hike.
+
+      Tyler Durden
+Thu, 09/03/2026 - 10:05
+
+===== Thu, 03 Sep 2026 13:45:00 +0000 | Dowd: Lower Yields Are Coming... And Nobody Will Like Why
+Dowd: Lower Yields Are Coming... And Nobody Will Like Why
+
+            Authored by Ed Dowd via 'Beyond the Narrative' substack,
+
+On August 19th the Treasury announced it would increase the size of its nominal long-end liquidity support buybacks beginning September 9. The long end yields declined on the headline. Cue the usual chorus of X hot takes: stealth QE, yield-curve control lite, money printing etc.
+
+The reality is much less bombastic...it is mostly a jawboning exercise.
+
+The Treasury Is Not the Fed...The Treasury Cannot Create Money
+
+Buybacks of this type are a recycling operation. You issue more bills and notes on the front end and you take some longer paper off the street. You can tidy up liquidity in off-the-run issues. You can send a signal that you would prefer the 30-year not print a fresh multi-decade highs on a Tuesday. What you cannot do is print reserves, expand the monetary base, or run a proper balance sheet policy the way the Federal Reserve can. Confusing the two is how people talk themselves into thinking a few billion of "liquidity support" is 2020 all over again.
+
+The size tells the story. Coupon supply at the long end is still large. Doubling a buyback program that was already small relative to annual issuance is, at best, a band-aid. Markets gave it a day. Then they remembered the calendar. The signal from Bessent is not nothing but it is not as big as it seems in the broader picture.
+
+Who is actually in charge of the long end of the yield curve? It is not the Fed. It is not Scott Bessent's operations desk. It is priced by growth expectations and inflation expectations or said differently the boom/bust cycle.
+
+Who is in charge of that? The laws of nature and God.
+
+Bessent Will Get Lower Yields...He Won't Like Why
+
+Bessent will get lower long end yields eventually, however he won't like the reasons why. That is not a shot at the man. It is a description of the cycle. You can rearrange the maturity mix. You can jawbone fiscal consolidation.
+
+You can tell reporters that yields do not reflect fundamentals. None of that overrides a growth scare once the growth scare arrives. That reality is not what Bessent or Trump want to manifest especially before the midterm elections.
+
+Look at China if you want the preview: bond yields collapsing because the economy is in a disinflationary grind, not because Beijing discovered a clever buyback program.
+
+Three Pillars of Risk: Growth Scare Ahead
+
+At Phinance Technologies we put our US economic outlook on paper in January. An Emerging slowdown with yields set to drop starting in 2026. A deflationary scare is on the horizon. The risks outlined below are not exotic.
+
+They are the white swans sitting on the lawn.
+
+	Housing: Roughly 20% of GDP. Forty percent of CPI when you let the shelter component speak. Home prices still too high...call it 30% on our work. New home data has been ugly for months. Builders talking about persistent headwinds with high rates, affordability and cautious buyers. The border closing removed a bid that was quietly holding up rents and prices in a lot of metros. That floor is unwinding slowly, which is how housing always dies...not a bang...a rollover. Southeast first, then the map fills in. A frozen housing market is a frozen chunk of the real economy whether the S&P is making a high or not.
+
+	
+
+	
+	The AI bubble peaking: In my post on July 23rd I outlined that the AI Capex party was approaching closing time. First the private credit market is undergoing flow issues and credit stress making financing more expensive. Since that post Nvidia confirmed those issues on their recent earnings call by disclosing that their balance sheet exploded with extra commitments to suppliers and sweeter payment terms to their customers. They want to become a bank to their customers much like Lucent did in the dotcom days, which did not end well for Lucent. Second Enterprise demand is cracking with ROI skepticism and token pricing backlash. Third power constraints are hitting hard with the grid needing massive additional supply that won't be ready in time for the proposed amount of datacenter projects announced. Finally there is open-source pricing pressure as many users are embracing cheaper models. They call them capex cycles for a reason. The order book always gets inflated near the top, credit is always the disciplinarian.
+
+	
+
+	
+	China entering acute phase of crisis: Factory of the world with fixed-asset investment falling, construction in contraction, real estate still working off a multi-year start collapse, and demographics that do not bottom until 2032. Contagion does not need a press conference. It eventually shows up in Asian supply chains, commodity demand, and the global credit impulse decelerating.
+
+	
+
+Bottom Line
+
+Put those three looming risks on the table at the same time and Bessent will get lower long-end US yields. This is currently not consensus thinking but as the risks manifest themselves and the business cycle exerts its natural downturn the narrative will quickly change. The US long bond is the scoreboard and we believe soon it will begin to respond to these headwinds as we roll through the rest of the year and into the next. In hindsight the current Bessent intervention will be seen as ironic.
+
+The Treasury is not the Fed. The Fed is not the long end. The long end is the cycle.
+
+The signs are not hiding. They are just inconvenient for the people who need the narratives to keep the party going.
+
+      Tyler Durden
+Thu, 09/03/2026 - 09:45
+
+===== Thu, 03 Sep 2026 13:30:00 +0000 | Iran Unleashes Fresh Attack Waves On Kuwait, UAE As Trump Signals De-escalation Ahead Of Midterms
+Iran Unleashes Fresh Attack Waves On Kuwait, UAE As Trump Signals De-escalation Ahead Of Midterms
+
+            Iran's retaliatory attacks on US bases and the regional countries hosting them actually continued overnight into Thursday, despite CENTCOM having on Wednesday announced the cessation of the US bombing operation.
+
+This week's round of US attacks saw six Iranian navy personnel killed, Tasnim is reporting, with Iran's Health Ministry stating that 18 Iranians were killed and over 140 wounded since August 30. The ministry also indicates most of the casualties were women and children, especially due to the reported US bombing of a wedding in the coastal town of Kuhestak along the Strait of Hormuz in southern Iran.  
+
+Getty Images/People Magazine
+
+Many of the victims' funerals have commenced on Thursday, regional media reports. The NY Times and other Western media have been seeking to verify details amid ongoing investigations. "Dozens of guests, according to a witness and accounts in local news media, had already arrived at the Malahi family’s home and surrounding buildings in the southern city of Kuhestak to celebrate a young bride and groom," NYT writes.
+
+"Around 9:30 p.m. on Tuesday, the wedding was struck by a bomb that, according to a weapons expert and a visual analysis by The New York Times, had been released by American forces as they carried out intense attacks in southern Iran," the report continues. "At least five wedding guests were killed, including a 6-year-old boy, and at least 67 other people were wounded, according to Iran’s Red Crescent Society, a humanitarian aid group."
+
+President Trump and his Treasury Secretary Scott Bessent have meanwhile expressed dismay over why the Iranians don't 'rise up' - but rarely do populations under assault want to openly side with the country attacking them and bombing weddings, hospitals, and girls schools. This is certainly not a strategy for 'winning over' the population.
+
+As for the latest military action, while Iran launched ballistic missiles and/or drones on Bahrain and Jordan on Wednesday as part of the initial salvo, the Kuwaiti government is confirming that its territory has alco come under attack Thursday:
+
+Sirens sounded in Kuwait early Thursday, where air defenses intercepted missile and drones during a "blatant Iranian aggression," the Ministry of Defense said on X.
+
+Kuwait's foreign ministry promptly condemned this the latest attack that began before dawn - slamming the flagrant violation of its sovereignty and a direct threat to its security.
+
+"The continuation of these brazen assaults reflects a hostile approach and constitutes a dangerous escalation that threatens the security and stability of the region," the ministry state. It added that "the attacks represented a systematic undermining of diplomatic efforts aimed at de-escalation and calm" - and said it reserves the right to respond.
+
+Crucially, Tehran is also saying Thursday that it targeted UAE, in a rarity - though it's unclear if there have been any impacts, or the nature of the attack wave. According to a Tasnim press release of the Iranian Army statement [machine translated]:
+
+In retaliation for the blood of innocent people and the brave men of the armed forces, early this morning the Islamic Republic of Iran's Army struck the satellite communications systems, equipment storage facilities, and fighter aircraft hangars of the U.S. military at Ahmad al-Jaber Air Base in Kuwait with missiles and attack drones.
+
+	These attacks caused damage to the communications systems and fighter aircraft hangars.
+
+	Also, as part of this powerful operation, the troop deployment areas and radar systems of the U.S. military at Al Minhad Air Base in the UAE came under attack by missiles and drones launched by the Army.
+
+	Ahmad al-Jaber Air Base plays a central role in the logistics and support of the U.S. military in West Asia and has a major role in the country's aerial and surveillance operations.
+
+	Al Minhad Air Base is also considered one of the important centers for the logistical support and air transportation of foreign forces.
+
+	The response of the brave men of the Army to any attack by the terrorist U.S. military will be harsh...
+
+UAE Strongly Condemns Hostile Iranian Attack on Kuwait, but has not initially confirmed if its own territory was hit as well
+
+الإمارات تُدين بشدة الهجوم الإيراني العدواني على الكويت
+
+UAE Strongly Condemns Hostile Iranian Attack on Kuwait pic.twitter.com/YWLxYjUEoe
+
+— MoFA وزارة الخارجية (@mofauae) September 3, 2026
+As for the Trump administration's moves from here, or the 'what's next?' - Bloomberg on Thursday states the obvious (which is a headline that might as well have been on repeat throughout the whole summer): 'We Are Stalled': US-Iran Conflict Stuck With No End in Sight. The below headline also hints at what could be a conflict lull ahead of midterms, now that each side perhaps 'escalated to de-escalate' this week...
+
+Is Trump ending Iran war? 'Operation Fury' naming ends, Hegseth extends troop plan to 2027 as prez appears tired ahead of midterms
+
+Also, Goldman Sachs Delta One Desk offers the following analysis and market angle [emphasis zh]:
+
+The most important headline overnight may be the WSJ report that "Privately, Trump is having discussions with senior aides about whether to declare the Iran war over, U.S. officials said, noting Trump has said he favors the idea."  Trump said, “I like our position now much better, with almost total control of the Hormuz Strait, and their economy totally collapsing.” That feels like US reflexivity becoming explicit. Oil >$90, product markets are tight, gasoline matters politically and interceptor inventories are reportedly stretched. My bias remain that this is an  escalate to de-escalate... that on the other side of Labor day there might be a different approach. Perhaps optimistically,  that makes me think we are closer to the high end than the low end of the near term energy range.
+
+On the other side of the conflict, the Iranians have shown a keen understanding of how energy markets and the growing unpopularity of the war among the American public factor into the November midterms.
+
+He can declare it whatever he wants, but if American warships are still blockading Iranian ports and escorting oil tankers through Hormuz then, um, it's not actually over https://t.co/1b42qkONOb
+
+— Gregg Carlstrom (@glcarlstrom) September 3, 2026
+Al Jazeera highlights the view from Tehran, offering the analysis of Sultan Barakat, Professor of Public Policy at Hamad bin Khalifa University in Qatar:
+
+"I think Iran is just holding their breath to see what happens with the midterm elections in the United States," Barakat told Al Jazeera. "If that election goes against what Trump wishes, then you could see the president being impeached. I think the Democrats will probably ask for a halt on the war and go back to negotiation."
+
+While, "impeached" is a highly unlikely scenario and a bit strong in this context, Barakat pointed out that this is "major gambling on the Iranian side," since "Trump has nothing to lose now. He can actually take actions that were not anticipated in the past, or maybe were far-fetched in the past." Trump himself on Wednesday brushed off midterm election concerns:
+
+Trump on Iran:
+
+I’m not affected by the election. I’m not running. My party is running.
+
+I think my party respects the fact that we are not allowing Iran to have a nuclear weapon. pic.twitter.com/jF4rYkvupq
+
+— Clash Report (@clashreport) September 2, 2026
+Prof. Barakat continued by saying "the ultimate losers, really, are still the Gulf States" now "past six months" into the economic strain, and yet still with no unified effort or momentum "to talk directly to the Iranians to come with a solution to the current problem."
+
+More Latest Developments
+
+...via Newsquawk
+
+US President Trump said regarding Iran that the US is winning that one very big and controls the Hormuz Strait.
+
+	US Secretary of State Rubio instructed all US embassies around the world earlier this week to send an official diplomatic demarche about Operation Economic Outcast to the most senior level of their host governments, according to Axios citing US officials.
+
+	US Ambassador to NATO Whitaker said Iran is a bankrupt country and will not be able to pay anyone in its military, civil service or government, nor subsidise its society. He stated the people of Iran will not be happy with the current state of affairs and should blame their government and regime, adding that they should ask for change and a different way forward.
+
+	US Envoy Witkoff met last weekend with the UAE's national security adviser to discuss next steps on Iran, according to Axios. The report added that "One of the officials said a special message was sent to U.S. diplomatic posts in Abu Dhabi, Muscat, Hong Kong, Doha, London, Berlin and several Central Asian capitals. The missive instructed them to demand that their host governments shut down all branches of Iran's Melli and Saderat banks that are affiliated with the IRGC."
+
+	Iran reportedly threatened the US with a large-scale attack if Israel launches an attack on the Ali al-Taher ridge in southern Lebanon, Reuters reported citing sources.
+
+	Iranian Chairman of the National Security and Foreign Policy Commission said the Strait of Hormuz cannot be opened without Iran’s will, IRIB reported.
+
+	Kuwait Army said it was repelling missile and hostile drone attacks, while local news outlets were attributing the attacks to Iranian aggression and Arab sources said the US base in Kuwait was hit by a strike with smoke reported.
+
+	A senior Yemeni official said Yemen’s armed forces are conducting new military drills in the Red Sea to prepare for a possible confrontation with Israel and the US, IRNA reported.
+
+	Military sources said clashes broke out between Yemeni government forces and Houthis in the Al-Kadha area west of Taizz, Yemen.
+
+	Geopolitics: Ukraine
+
+	Russian President Putin said that Russia and Ukraine should agree first and noted that there is an opportunity to reach a peace agreement. Putin added that contacts with the US continue, adding that Russia is in favour of restoration of relations with the US. He said US President Trump is ready for positive and constructive works and that there are contacts with Ukraine.
+
+	Russian President Putin said attacks on three oil refineries have been repelled, adding that Russia must respond in kind.
+
+	US Ambassador to NATO Whitaker said Russia’s aggressive actions, invasion of Ukraine and prior annexation of Crimea lead the US to believe that Russia can be unpredictable and could be willing to take action against a NATO country. Furthermore, he said recent statements by Russian President Putin do not leave him optimistic, while he added that Ukraine needs to be able to defend itself as long as it takes until the war can be brought to an end.
+
+      Tyler Durden
+Thu, 09/03/2026 - 09:30
+
+===== Thu, 03 Sep 2026 13:15:00 +0000 | NVIDIA To Buy Hugging Face For $12.9 Billion
+NVIDIA To Buy Hugging Face For $12.9 Billion
+
+            Nvidia has agreed to buy AI startup Hugging Face for roughly $12.93 billion, putting the world's most important open-model hub under the same roof as the most dominant AI chip company on the planet, according to The Wall Street Journal. 
+
+Image via FT
+
+CEO Jensen Huang announced the deal on Thursday, a day after NVIDIA filed that it had signed a definitive agreement. The transaction includes about $11.9 billion for Hugging Face stockholders and an equity retention package of up to $1 billion for employees who join NVIDIA. Closing is expected in the first half of 2027, pending regulatory approvals.
+
+Huang said NVIDIA will “scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide.” Hugging Face, he added, “will remain an open platform for the entire AI ecosystem,” and NVIDIA compute will not be required to build or deploy on it.
+
+Hugging Face - where people can find, publish, fine-tune, and deploy open-weight models, has over 18 million developers, researchers, and creators who have shared over 3 million models, 500,000 datasets, and one million applications. Over 200,000 companies use the platform to discover, evaluate, customize, and deploy AI, according to AIM. 
+
+Founded in 2016 in New York by French co-founders Clément Delangue, Julien Chaumond, and Thomas Wolf, it last raised a $235 million Series D in 2023 at a $4.5 billion valuation. NVIDIA was already an investor, alongside Google, Amazon, Salesforce, AMD, Intel, IBM, and Qualcomm.
+
+Why NVIDIA wanted it
+
+The deal is about the distribution layer. NVIDIA already sells the GPUs most labs use to train and run models. Hugging Face is where those models live, get versioned, and get downloaded. Whoever owns that junction influences which models get used and, downstream, which hardware they run on.
+
+That matters more as OpenAI, Anthropic, Google, and others design their own accelerators to reduce reliance on NVIDIA. Open models still need someone else’s chips. Hugging Face is where a large share of that demand originates.
+
+Hugging Face had previously kept NVIDIA at arm’s length. Late last year it rejected a $500 million NVIDIA investment that would have valued the company at $7 billion, saying it did not want a single dominant investor that could sway decisions. Delangue has argued that concentration of power is the biggest risk in AI. This time he framed NVIDIA as a partner that would keep the platform “open, independent and compute-agnostic,” with a goal of making open source “the default way to build AI” and empowering “100 million AI builders to own their intelligence rather than rent it.”
+
+      Tyler Durden
+Thu, 09/03/2026 - 09:15
+
+===== Thu, 03 Sep 2026 12:45:00 +0000 | Fed's Waller Pushed Rate-Hike Hopes Lower After Stating The Obvious
+Fed's Waller Pushed Rate-Hike Hopes Lower After Stating The Obvious
+
+            A top Federal Reserve official said he would be “inclined” to keep interest rates on hold, highlighting divisions among the US central bank’s governors as they prepare for a crucial vote this month.
+
+Outspoken Fed Governor Chris Waller clarified this morning what many knew... that he would support holding rates steady at the central bank's meeting in two weeks if August inflation data continue the recent progress seen in June and July, but that he could favor a rate increase if that progress reverses.
+
+Recent data have shown signs of improvement on inflation, and "if this continues in the data due over the next two weeks, I would be inclined to support holding the target for the federal funds rate at its current setting," Waller said in remarks during a Reuters virtual event.
+
+Additionally, he offered some optimism that price pressures were showing signs of improvement.
+
+“While inflation remains meaningfully above the Federal Open Market Committee’s 2% goal, recent data suggest we are finally seeing some signs of disinflation,” he said.
+
+The remarks marked a slight shift in tone from July, when Waller said the Fed was at "a crossroads" and, sounding less patient, said the central bank would need to consider tightening if evidence materialized of firmer inflation
+
+And that slight shift pushed rate-hike odds for September back to a coin-flip...
+
+Market bets on a rate rise moved dramatically after a hawkish speech at Jackson Hole by Fed chair Kevin Warsh last week.
+
+Warsh said the Fed had “work to do” unless there was swift progress in bringing prices under control.
+
+Three of the 12 voters on the FOMC backed a quarter-point rate rise at the central bank’s last meeting in July.
+
+Interestingly, Waller said by communicating his outlook, businesses and households are offered a clearer picture of where policy may be headed. He also said there is a role for forward guidance.
+
+“I agree with Chairman Warsh that forward guidance isn’t appropriate now or in many other situations,” Waller said. 
+
+“But when it is truly needed, I believe it should be used.”
+
+Waller's remarks also pushed stocks up modestly and yields down more notably (especially at the short-end)...
+
+Gold and Bitcoin also gained.
+
+So, everything hings of August's inflation data (CPI next Friday).
+
+      Tyler Durden
+Thu, 09/03/2026 - 08:45
+
+===== Thu, 03 Sep 2026 12:33:06 +0000 | 'Low Hire, Ho Fire' Economy Confirmed By Latest Jobless Claims Data
+'Low Hire, Ho Fire' Economy Confirmed By Latest Jobless Claims Data
+
+            The number of Americans filing for unemployment benefits for the first time remains near multi-decade lows at 206k last week in line with expectations and flat to the prior month...
+
+Continuing jobless claims ticked up modestly but remain near two-year lows, below the 1.8mm Maginot line...
+
+However, surveys (Conference Board) remain sure it is 'hard to get a job' in this labor market...
+
+But, the official data (BLS) shows that the American workforce is growing...
+
+So, today's data reinforces the 'low hire, no fire' economy - hardly a regime that warrants rate-hikes as it seems CEOs are on tenterhooks for what comes next and tightening financial conditions doesn't seem like a positive path... in fact it could be the straw that breaks the camel's back for many firms.
+
+      Tyler Durden
+Thu, 09/03/2026 - 08:33
+
+===== Thu, 03 Sep 2026 12:30:42 +0000 | Futures Flat As Yields Ignore Oil Meltup
+Futures Flat As Yields Ignore Oil Meltup
+
+            Futures are flats with Tech in line and small caps lagging even as bond yields dip 1bp across the curve, ignoring the continued rise in oil. In a quiet session ahead of tomorrow's jobs report, Japan remains the standout, with the yen strengthening on more hawkish BOJ repricing and intervention speculation, pressuring exporters.  Risk is modestly bid after yesterday’s reprieve in energy and rates (although Korean memory has faded again and only buybacks prop up the Korean market with retail now puking daily). As of 8:00am ET, S&P futures are unchanged, while Nasdaq futures down 0.1% with memory lagging with both Mag7 and Software (SNOW surging) higher. Cyclicals are higher led by Indus / Materials but there are also bids to HC / Staples. The Dollar is weaker, too, giving a sense of the return to the Debasement trade as US stocks lag EU and DM bonds are outperforming US. Crude prices are up but fuel prices are lower. Metals are bid led by Iron and Precious as Ags are under pressure. Today's US economic data calendar includes July trade balance, 2Q final productivity and unit labor costs and weekly jobless claims (8:30am), August final S&P Global US services PMI (9:45am) and August ISM services (10am), Fed speaker slate includes Waller (8:30am), Hammack (3pm) and Goolsbee (3:55pm). The risk comes from inflation (Prices Paid index) as investors consider a Fed rate hike with market-implied odds of a hike ~64%.
+
+In premarket trading, Mag 7 stocks are mostly higher: Meta released its most powerful artificial intelligence model yet. Shares are up about 0.7%; elsewhere Tesla +1.2%, Alphabet +0.3%, Amazon +0.2%, Microsoft +0.5%, Nvidia -0.4%, Apple -0.2%
+
+Advasa (ADBT) falls 11% after the Japan-based financial technology company, which is listed in the US, said CFO Katharyn Field had resigned.
+
+	Argan (AGX) rises 6% after the construction company reported revenue for the second quarter that beat the average analyst estimate.
+
+	Broadcom (AVGO) falls 3% after the chipmaker’s results and forecast were seen as underwhelming. The company predicted a boom in artificial intelligence chip sales over the next two years.
+
+	Campbell’s (CPB) falls 5% after the food company cut its dividend and provided disappointing guidance.
+
+	Ciena (CIEN) rises 1% after the maker of equipment used by telecom companies posted third quarter results.
+
+	Envista (NVST) climbs 2% after JPMorgan upgraded the dental company to overweight, saying the firm is entering its investor day event later this month from a position of improved execution.
+
+	Hewlett Packard Enterprise (HPE) falls 4% after reporting increasing sales that didn’t meet high expectations from investors.
+
+	NetApp (NTAP) is down 8%, even after the data storage and management company raised its full-year forecast. The stock has been a strong performer this year, up nearly 70% as of its last close.
+
+	Snowflake (SNOW) jumps 24% after the software company’s second-quarter results beat expectations and the company raised its full-year forecast for product revenue. Analysts note another quarter of product revenue acceleration driven by AI demand.
+
+	Ultragenyx Pharmaceutical (RARE) plunges 44% after the biotech’s experimental drug aimed at treating a rare genetic disorder failed to meet its primary endpoint in a study. The disappointment prompted several brokerages to downgrade their ratings on the stock.
+
+	Victoria’s Secret (VSXY) falls 18% after the company boosted guidance but showed a slower pace of growth.
+
+In other corporate news Elliott has built a stake in Deutsche Telekom and indicated the company should ditch a potential merger with T-Mobile US. A unit of Jefferies won a worldwide freezing order against Radiant World and its founder Pinkesh Nahar. Ultragenyx Pharmaceutical plunged in premarket trading after the biotech said apazunersen (GTX-102), its experimental drug to treat a rare genetic disorder, failed to meet its primary endpoint.
+
+Stocks are headed for a flat open despite resumption in oil’s advance, which will not calm the inflation angst that’s been driving yields higher. There was some reassurance for AI bulls as Broadcom predicts a boom in demand for its chips that support the technology, although how the company has visibility into 2028 (like Nvidia) remains a mystery. Anyway, all is fair to get that last marginal bid we suppose. Volumes remain light in equity trading, as does volatility. The latter might be set to change, with VIX reactivity likely in closer focus over coming weeks given a seasonally elevated period and as investors once again assess the value of convex hedges.
+
+As Bloomberg notes, Thursday’s nervy moves come after a cautious start to September, when global bond yields soared as renewed fighting in Iran drove oil higher, fueling inflation concerns and bets on a Federal Reserve interest-rate hike this month. With earnings season largely over, attention is shifting to Friday’s jobs report for clues on the US economy and the policy outlook.
+
+“There’s no structural trend in the direction of travel and the market typically follows short-term moves on oil,” said Nadege Dufosse, head of multi-asset at Candriam. “It’s a market which is complicated to navigate.”
+
+Broadcom said it expects AI chip revenue will double to about $115 billion in fiscal 2027 and soar to $230 billion the following year. CEO Hock Tan’s discussion of customer mix is noteworthy, with Google expected to move down the pecking order. Anthropic is projected to become the biggest customer for custom chips in 2027, with OpenAI emerging as the second biggest. Broadcom needs to allow its customers to grow into product deliveries, while Nvidia “has the ability to pull demand forward since it offers financing along with the sale,” notes JonesTrading chief strategist Mike O’Rourke.
+
+Speaking of AI, 80% of enterprise revenues at OpenAI and Anthropic come from 1% of their customers, a level of concentration risk unseen in any other software category according to Ramp data. Snowflake touted rapid adoption of its AI-assisted coding tool, suggesting AI-driven consumption trends are coming through. Positioning, according to Goldman Sachs’s Prime Desk, paints a picture of short and hedge positions being added faster than longs. Today’s Taking Stock explores how the setup leaves the market primed for a potential to melt-up, regardless of volatility.
+
+In other assets, a month of gradual decline in the yen has reversed sharply over the past 24 hours as intervention risk weighs on the minds of traders. And, sift through the filings of pension funds and insurers around the world and one thing stands out — some of the biggest holders of US assets have little protection against a weaker dollar. In geopolitics, G20 members agreed to adopt guidelines proposed by the US that call for a lighter touch toward governing AI and other emerging technologies. A disagreement between Chinese and US officials at the G20 meeting revolved around the phrase “non-market” in a sentence addressing trade imbalances.
+
+Attention turned again on the yen, which was on track for its best day since Tokyo and Washington entered the market to prop up the currency just over a month ago. Investors have turned their focus on factors supporting the currency, after weeks of questioning the long-term effectiveness of intervention to support it. Speculation that the nation’s biggest pension fund may boost its allocation to Japanese bonds also supported gains. The yen briefly pared its advance after Bloomberg News reported that BOJ officials are leaning toward raising the benchmark rate by a quarter point this month, cooling bets on a bigger hike.
+
+“Any sustainable turn lower in USD/JPY now probably requires a much more hawkish Bank of Japan and some new initiatives to encourage domestic investment in Japan,” said Chris Turner, head of foreign exchange strategy at ING Bank.
+
+ 
+
+European stocks gain slightly in early Thursday trading as oil and bond markets stabilized,  as the Stoxx 600 rises 0.3% to 647.58. Deutsche Telekom advances on news that activist investor Elliott Investment Management has built a sizeable stake. Here are the biggest movers:
+
+ 
+
+Soitec surges as much as 15%, the most since July 23, as the French chip material company lifted its revenue guidance, citing accelerating Photonics-SOI demand
+
+	Deutsche Telekom shares rise as much as 2.3%, with analysts saying a move into the stock by Elliott Investment Management could reduce the chances of a T-Mobile US merger and boost shareholder payouts
+
+	Publicis shares in Paris rise as much as 3.8%, most since Aug. 14, following gains in its US-listed shares, after beverage giant PepsiCo announced it’s shifting its $1.7 billion global media account to the advertising agency
+
+	Clas Ohlson gains as much as 7.2%, the most since March, after the Swedish retail group’s latest earnings, which DNB Carnegie described as impressive, noting strong Ebit growth and better-than-expected gross margins
+
+	Hilton Food Group rises as much as 14%, the most since January 2023, as Peel Hunt says the meat producer’s first-half results and guidance upgrade demonstrate improved visibility
+
+	Transgene surges as much as 23% after the French biotech company published a report showing that all 16 patients treated with TG4050 remained disease-free at three years in a Phase 1 trial in head and neck cancer
+
+	CD Projekt Red rises as much as 4.7% in early trading in Warsaw following strong 2Q earnings, supported by a new IP licensing revenue stream and an upbeat outlook for The Witcher 3 expansion
+
+	Jet2 shares rise as much as 4.1%, the most in five weeks after the budget airline said it hopes to move its shares to the main market of the London Stock Exchange before the end of the fiscal year
+
+	Fuchs advances as much as 3.3%, to the highest since October 2025, as Kepler Cheuvreux removes the only negative analyst rating on the German manufacturer of automotive and industrial lubricants, moving to hold from reduce
+
+	Dunelm Group shares rise as much as 4.7%, rebounding from a seven-week low, after Deutsche Bank upgraded the homeware retailer, saying it has received “little credit” for earnings upside potential from faster store openings
+
+	Crest Nicholson plunges as much as 14% and hit a new all-time low after the UK housebuilder said it now expects to report an Ebit loss this year and warned of some “slippage” in the timetable of refinancing talks with lenders
+
+	Voltalia shares sink as much as 21%, to the lowest since Feb. 2014, after the electricity generator said it now expects to record a net loss in 2026, with Morgan Stanley noting Voltalia expects a net loss in 2H as well
+
+	Intercos shares drop as much as 8.4% after CP7 Beauty Luxco Sarl, a shareholder in the Italian cosmetics manufacturer, placed shares at a discount
+
+Asian stocks rose in line with overnight gains in the US market, led by advances in financials as wagers on interest-rate hikes grew. The MSCI Asia Pacific Index climbed as much as 1.2% before paring some of those gains, with Mitsubishi UFJ Financial, TSMC and Mitsubishi Corp. among the biggest contributors. An Asian financial stocks gauge rallied to a record on expectations that rising rates would boost bank margins. The technology sector lost momentum during the session with Korea’s Kospi erasing almost all of its gains. The move in financials came after Bank of Japan Governor Kazuo Ueda hinted Wednesday that an interest-rate hike is likely when the board meets later this month.  Boomberg News reported on Thursday that the BOJ is leaning toward raising its benchmark rate by a quarter point this month. Bank stocks in the US rallied Wednesday, sending KBW Bank Index up the most since early July. Asian equity markets also rebounded as concerns over developed-market government bond yields eased and risk appetite returned, said Song Zhe, senior investment specialist at BNP Paribas Asset Management. Most markets in the region edged higher, led by Jakarta’s 1.1% in Indonesia. Taiwan and Hong Kong fell.
+
+In FX, the Bloomberg Dollar Spot Index falls 0.3%. The Japanese yen continued its ascent, rising 1.4% against the greenback and dragging USD/JPY below 157 for the first time in around four weeks, a more than 1% gain. It did trim gains briefly after Bloomberg reported the Bank of Japan is leaning toward raising its benchmark interest rate by a quarter point this month. The Swiss franc is the other notable mover, rising 0.5% after Swiss inflation surprised to the upside.
+
+In rates, treasuries are little changed after erasing gains, lagging European bonds despite higher oil prices. US yields are back within a basis point of Wednesday’s closing levels after erasing declines, trailing European bonds despite oil benchmarks having risen at least 2% toward early-June levels. US 10-year yields are around 4.77%, with curve spreads steady, 2s10s around 41bp, 5s30s around 72bp. IG dollar issuance slate includes one deal so far. Two names priced just over $1 billion on Wednesday, leaving this week on track to be the slowest two-week period of the year. Other focal points of Thursday’s US session include weekly jobless claims data and ISM services gauge and three Fed officials scheduled to speak.
+
+In commodities, Brent crude futures are higher rising above $97 a barrel having erased an earlier fall. Precious metals advance as does Bitcoin. Meanwhile, natural gas futures in Europe gained for a fourth day to head for the highest close since early 2023. US retail diesel prices hit the highest since mid-2022, topping a peak seen during the early stages of the Iran war to approach a record. The national average pump price climbed to $5.783 a gallon on Wednesday. Base metals prices also advanced, with copper in London trading less than $300 a ton below the record set in January. Gold rose 1% to about $4,427 an ounce.
+
+Today's US economic data calendar includes July trade balance, 2Q final productivity and unit labor costs and weekly jobless claims (8:30am), August final S&P Global US services PMI (9:45am) and August ISM services (10am), Fed speaker slate includes Waller (8:30am), Hammack (3pm) and Goolsbee (3:55pm)
+
+Market Snapshot
+
+Top Overnight news
+
+US Secretary of War Hegseth will extend troop deployments in the Middle East through 2027, increasing strain on US forces: WSJ.
+
+	The US and Iran have intensified tit-for-tat military strikes, with Iran hitting merchant vessels and the US striking Islamic Revolutionary Guard Corps sites: BBG
+
+	Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections: RTRS
+
+	Putin cites chance of peace deal, Ukraine sees 'new dynamic': RTRS
+
+	The Bank of Japan is leaning toward raising its benchmark interest rate by a quarter point this month in response to upward price risks: BBG
+
+	Nvidia Corp. has agreed to acquire artificial intelligence startup Hugging Face in a transaction valued at about $13 billion.
+
+	A lender alleged in a filing to Singapore's High Court that iron ore trader Radiant World used Glencore invoices that had already been paid, supported by fake contracts, to raise $31.7 million: BBG
+
+	Norway seizes Russian ship to enforce $4.2 billion claim by Ukrainian energy firm: RTRS
+
+	Chinese Warships Are Cruising Too Close for Comfort Off Japan’s Shores: WSJ
+
+	A US judge blocked the Trump administration from enforcing the executive order restricting birthright citizenship.
+
+	UK Business Secretary Reynolds seeks to quell fears of an exit tax on companies spun out from UK universities that move abroad: FT.
+
+	Kennedy asked to remove Pennsylvania measles death from CDC tally: RTRS
+
+	White House confirmed that US President Trump signed a stopgap funding bill into law, funding the government to December 11th.
+
+	Hundreds of Colleges Are Sending Acceptance Letters to Kids Who Didn’t Even Apply: WSJ
+
+A more detailed look at global markets courtesy of Nesquawk
+
+APAC stocks eventually traded mixed after initially posting gains. The stocks lost steam heading into the European open despite a lack of newsflow at the time. ASX 200 was led by outperformance in the top-weighted financial sector and miners, but with further gains capped amid quiet newsflow and mixed trade data. Nikkei 225 initially traded with cautious gains before faltering amid recent currency moves and hawkish BoJ rate hike bets following the recent commentary from BoJ Governor Ueda and hawkish dissenter Takata. KOSPI outperformed early in the session with some tech and energy names among the notable gainers. The index fell into red later in the session. Hang Seng and Shanghai Comp were mixed with some encouragement from stronger-than-expected Chinese RatingDog Services PMI data, although the PBoC's open market operations amount remained at zero. Both indices then traded in the red.
+
+Top Asian News
+
+Japan's GPIF’s unusual August management committee meeting has fuelled speculation it may raise its 25% domestic bond allocation target, Bloomberg reported.
+
+	Japan's government is reportedly looking to convene an extraordinary Diet session in early October, Asahi reported, with the focus expected to be on consumption tax cuts and a reduction in the number of seats.
+
+	BoJ accounts show there was no large-scale yen intervention on Wednesday.
+
+	Japan's Top Currency Diplomat Mimura said they continue to stand ready on FX but declined to comment on if rate checks were conducted.
+
+	Japanese Finance Minister Katayama said no direct requests to do anything has been given from US Treasury Secretary Bessent.
+
+	Japan Chief Secretary Kihara said there has been no change to PM Takaichi government policies about attaining a strong economy and fiscal sustainability
+
+	BoJ will hold a meeting on market operations scheduled for October 14th 2026.
+
+	China Prelim Retail Passenger Vehicle Sales (Aug) +11% M/M (prev. -8.8%); -4% Y/Y (prev. -20.9%) .
+
+European bourses hold a slight positive tilt. Spain's IBEX 35 outperforms while the AEX is modestly lower. Updates on the Middle East conflict have been light thus far, however, Reuters reported that Iran threatened the US with a large-scale attack if Israel launches an attack on the Ali al-Taher ridge in southern Lebanon. The more pronounced move came following comments by Russian President Putin, in which he said there is an opportunity to reach a peace agreement with Ukraine and that contacts with the US continue. Sectors point slightly higher. Media tops the sector pile, with Telecoms and Basic Resources completing the sector outperformers. To the downside lies Consumer Products & Services, followed by Energy and Utilities. US equity futures are mixed, but ultimately trade on either side of the unchanged mark. Focus after-hours was on Broadcom (-2.1% pre-market) earnings, in which they reported Q3 metrics that beat estimates, however its Q4 revenue and margin outlooks came in below expectations.
+
+Top European News
+
+UK Business Secretary Reynolds seeks to quell fears of an exit tax on companies spun out from UK universities that move abroad, according to FT.
+
+	Germany's IFW lifted its 2026 GDP forecast to 1.3% (prev. saw 0.8%) and leaves 2027 GDP at 1%, citing acceleration in economic activity and improving business confidence.
+
+	German Ifo raised its 2026 growth forecast to 1.4% (prev. 0.8%) and 1.2% in 2027 (prev. 0.8%).
+
+FX
+
+Further Yen strength which has led to the Buck underperforming against all G10 peers.
+
+	JPY sees outperformance vs USD with the pair halted just short of 156.00 from a peak above 160 on Wednesday. The move comes absent of a headline driver, but there are several factors which weigh on the pair at the moment. Some suggest potential intervention/rate checks, however price action is more gradual, therefore not consistent with previous bouts, while others say the GPIF’s meeting has fuelled speculation it may raise domestic allocation targets. Other factors which have weighed in the past weeks are the clearer US influence on Japanese policy after Bessent met with various Japanese officials, this hawkish intent also evident in Ueda and Takata's remarks, the latter more so. This morning however, Bloomberg sources said the BoJ is set to favour a 25bps hike and a "flexible" future pace in policy; a report which sparked a dead cat bounce in USD/JPY which lifted back above 157.00.
+
+	DXY (-0.3%) is being driven by JPY moves today with the index falling to a 99.16 trough before paring some of the move after the aforementioned Bloomberg sources. Some of that pressure can also be attributed to falling domestic yields.
+
+	CHF is the second best performer, after hotter than expected GDP and CPI data. Following the inflation print, USD/CHF moved lower by 15 pips within a minute then extended the move to c. 25 pips within ten minutes at a 0.8083 low following the release. GDP also indicated a hot Swiss economy in Q2, albeit caveated by the chemical and pharma metrics which surged +10.5% during the period.
+
+Fixed Income
+
+Global fixed income benchmarks are firmer this morning, rebounding from recent losses as the yield situation attempts to improve.
+
+	USTs (+3+ ticks) are stronger this morning, holding at the top end of a 107-15+ to 107-21 range. Elsewhere, Bunds (+20 ticks) and Gilts (+51 ticks) benefit from cooling energy prices. The geopolitical situation remains tense; however, focus has been on comments from President Trump. He stated that their renewed campaign against Iran will not continue for too long. Separately, the WSJ reported that Trump is said to be having discussions with senior aides regarding whether to call the Iran war over – the piece suggests he is favouring the idea. US yields have moved off their multi-year peaks, with the 10yr (4.77%) holding off the 4.81% high made on Wednesday.
+
+	JGBs (+40 ticks) are firmer this morning, with an accumulation of factors helping sentiment for the region. As mentioned earlier, oil prices are helping global yields lower; focus has also been on a surprise GPIF management committee, which Bloomberg opined has helped raise speculation that it may raise its 25% domestic bond allocation target. Elsewhere, a 30-year auction overnight was relatively well received, further boding well for the benchmark. On the monetary policy front, money markets have continued to up their bets of a BoJ rate hike this month. This was further corroborated by a Bloomberg sources piece earlier, which highlighted that the Bank is favouring a 25bps hike and a flexible future pace.
+
+	Bunds and Gilts follow the bullish bias, benefiting from lower oil prices. Most recently, constructive comments from Russian President Putin spurred another bout of pressure in the oil complex – which in turn helped to lift the fixed income space. He stated that there is an opportunity to reach a peace agreement with Ukraine, adding that there are contacts with them. Bunds (U26) jumped c. 10 ticks to make a fresh peak at 122.95.
+
+	France sells EUR 13.497bln vs exp. EUR 11.5-13.5bln 1.25% 2036, 3.70% 2036, 0.50% 2040 and 4.10% 2046 OAT.
+
+	Spain sells EUR 5.634bln vs exp. EUR 5-6bln 2.35% 2029, 2.60% 2031 and 3.30% 2036 Bono and EUR 0.639bln vs exp. EUR 0.25-0.75bln 2.05% 2039 I/L Bono.
+
+	UK sells GBP 900mln 1.875% I/L Gilt: b/c 3.58x (prev. 3.20x), real yield 2.496% (prev. 2.165%).
+
+	Japan sells JPY 456.2bln 30-yr JGBs; b/c 3.79x (prev. 3.86x), average yield 4.079% (prev. 3.952%), Tail in price 0.28 vs prev. 0.21.
+
+Commodities
+
+Crude futures have pulled back from extremes following a three-day rally and amid a lack of military action overnight. On Wednesday, President Trump said renewed Iran strikes would likely be brief, and officials pointed towards steady Strait of Hormuz flows. That being said, Trump added the US was prepared to conduct another attack on Iran. Meanwhile, US Treasury Secretary Bessent said Ukrainian strikes on Russian energy assets and the Iran conflict are driving a global energy shock and higher prices. Meanwhile, some weakness was seen across the crude complex after Russian President Putin struck a more conciliatory tone as he suggested Russia and Ukraine should agree first and that there is an opportunity to reach a peace agreement. Brent Nov trades in a USD 94.03-96.20/bbl range (vs yesterday’s 93.52-97.04/bbl range) while WTI Oct resides in a USD 89.57-91.53/bbl parameter (vs yesterday’s 88.97-92.29/bbl band).
+
+	Dutch TTF prices are also on a softer footing but off worst levels, with the front-month contract remaining elevated above EUR 72.50/MWh where the support was found before moving north of EUR 73/MWh. Analysts at ING suggested in yesterday’s note “Escalation in the Persian Gulf pushes back hopes of any recovery in LNG exports from the region. This remains a concern for Europe, given lower-than-usual storage levels. LNG netbacks favour sending spot LNG to Europe over Asia. But as we move closer to the Northern Hemisphere winter, competition between the two regions is likely to pick up, particularly if Qatari LNG remains largely absent from the market through year-end”.
+
+	Metals are mixed, with precious metals cheering the pullback in the USD as they attempt to trim recent losses. Spot gold resides in a USD 4,381-4,443/oz range after topping its 100 DMA (USD 4,358/oz) yesterday. Spot silver resides in a relatively narrow USD 65.21-66.25/oz range, still under Tuesday’s USD 67.08/oz high and below the 100 DMA (USD 67.64/oz). Base metals fail to benefit from the USD pullback as elevated energy prices weigh on the growth picture, whilst hawkish central banks also cap gains for the complex. 3M LME copper trades in a tight USD 14,208.88- 14,278.00/t range at the time of writing.
+
+	Kazakhstan’s August oil and gas condensate production rose 11% M/M, according to sources.
+
+	Russian Deputy PM Novak said OPEC's role in the market remains important and will continue to exert significant influence on the oil market because of its high output. Novak added that Russia is to slightly lower oil output in 2026.
+
+Trade/Tariffs
+
+US House Republicans pressed USTR Greer on Wednesday on Capitol Hill about the harm a trade war with Canada could do to their local economies, according to Politico citing sources.
+
+	US Commerce Secretary Lutnick said a further easing of US export curbs is not on the table and that relaxing tech export controls for China is not necessary.
+
+	India's Trade Minister said a final trade agreement between US and India will be published as soon as the US can provide India with tariff advantages.
+
+Central banks
+
+BoJ is reportedly favouring 25bps hike and a flexible future pace, sources suggest.
+
+	RBNZ Governor Breman said a gradual removal of monetary stimulus is appropriate to return inflation to target while still supporting growth and employment. Breman said she sees risk of more indirect inflation from fuel and stated there is real risk that unless we respond in monetary policy, inflation expectations will get out of hand.
+
+Geopolitics: Middle East
+
+US President Trump said regarding Iran that the US is winning that one very big and controls the Hormuz Strait.
+
+	US Secretary of State Rubio instructed all US embassies around the world earlier this week to send an official diplomatic demarche about Operation Economic Outcast to the most senior level of their host governments, according to Axios citing US officials.
+
+	US Ambassador to NATO Whitaker said Iran is a bankrupt country and will not be able to pay anyone in its military, civil service or government, nor subsidise its society. He stated the people of Iran will not be happy with the current state of affairs and should blame their government and regime, adding that they should ask for change and a different way forward.
+
+	US Envoy Witkoff met last weekend with the UAE's national security adviser to discuss next steps on Iran, according to Axios. The report added that "One of the officials said a special message was sent to U.S. diplomatic posts in Abu Dhabi, Muscat, Hong Kong, Doha, London, Berlin and several Central Asian capitals. The missive instructed them to demand that their host governments shut down all branches of Iran's Melli and Saderat banks that are affiliated with the IRGC."
+
+	Iran reportedly threatened the US with a large-scale attack if Israel launches an attack on the Ali al-Taher ridge in southern Lebanon, Reuters reported citing sources.
+
+	Iranian Chairman of the National Security and Foreign Policy Commission said the Strait of Hormuz cannot be opened without Iran’s will, IRIB reported.
+
+	Kuwait Army said it was repelling missile and hostile drone attacks, while local news outlets were attributing the attacks to Iranian aggression and Arab sources said the US base in Kuwait was hit by a strike with smoke reported.
+
+	A senior Yemeni official said Yemen’s armed forces are conducting new military drills in the Red Sea to prepare for a possible confrontation with Israel and the US, IRNA reported.
+
+	Military sources said clashes broke out between Yemeni government forces and Houthis in the Al-Kadha area west of Taizz, Yemen.
+
+Geopolitics: Ukraine
+
+Russian President Putin said that Russia and Ukraine should agree first and noted that there is an opportunity to reach a peace agreement. Putin added that contacts with the US continue, adding that Russia is in favour of restoration of relations with the US. He said US President Trump is ready for positive and constructive works and that there are contacts with Ukraine.
+
+	Russian President Putin said attacks on three oil refineries have been repelled, adding that Russia must respond in kind.
+
+	US Ambassador to NATO Whitaker said Russia’s aggressive actions, invasion of Ukraine and prior annexation of Crimea lead the US to believe that Russia can be unpredictable and could be willing to take action against a NATO country. Furthermore, he said recent statements by Russian President Putin do not leave him optimistic, while he added that Ukraine needs to be able to defend itself as long as it takes until the war can be brought to an end.
+
+US Event Calendar
+
+8:30 am: Jul Trade Balance, est. -90.2b, prior -73.3b
+
+	8:30 am: Aug 29 Initial Jobless Claims, est. 205k, prior 203k
+
+	8:30 am: Aug 22 Continuing Claims, est. 1783.5k, prior 1778k
+
+	9:45 am: Aug F S&P Global US Services PMI, est. 56.8, prior 56.8
+
+	9:45 am: Aug F S&P Global US Composite PMI, est. 56.05, prior 56
+
+	10:00 am: Aug ISM Services Index, est. 54.05, prior 54.1
+
+Central bank speakers 
+
+8:30 am: Fed’s Waller in Moderated Conversation
+
+	3:00 pm: Fed’s Hammack Gives Opening Remarks
+
+	3:55 pm: Fed’s Goolsbee Gives Closing Remarks
+
+DB's Jim Reid concludes the overnight wrap
+
+If you listen carefully enough at around 8:30am this morning you may hear my wife let out an almighty cheer as the kids go back to school after 2 months of screaming, fighting, incessant talking and general all-round chaos. The odd, pleasant memory can be interspersed with the above. What won't be remembered well is 3 separate outbreaks of headlice that the whole family suffered from apart from me (bald) and the dog. This must be the most powerful strain in history as we've spent a fortune on three separate shampoos treatments with the associated painstaking application process. As I mentioned before hols it even involved my wife being blinded for a few days after accidentally getting some in her eye. So that was scary. So hopefully that's one summer visitor that's gone for good now.  
+
+Apologies if you're now itching on the way to work. To distract you, markets put in a divergent performance yesterday, with a sharp contrast on either side of the Atlantic. In the US it was actually a decent session, with Treasury yields coming down a bit from their Tuesday highs, whilst the S&P 500 (+0.46%) stabilised after three consecutive declines. But for Europe it was a very different story, as the continent’s exposure to natural gas prices meant bonds and equities took a fresh hit. Indeed, yields climbed to fresh records across the board, with the 10yr bund yield (+3.2bps) at another post-2011 high of 3.37%, whilst France’s 10yr OAT yield (+4.4bps) hit a post-2008 high of 4.25%.   
+
+We’ll start with Europe, where the relentless rise in natural gas prices showed no sign of easing. In fact, yesterday saw the front-month future (+1.96%) close at €73.60/MWh, which is its highest level since January 2023. And that was echoed further out the futures curve too, with the 6-month future (+2.54%) up to €67.43/MWh, also its highest level since 2023. So with investors pricing in a protracted period of high gas prices, that had knock-on effects for assets across Europe, which faces much higher natural gas prices than the US. The recent flareup between the US and Iran has led to fresh scepticism that energy flows through the Strait of Hormuz will normalise anytime soon. And that comes as Northern European countries are struggling to refill their gas reserves in time for the heating season after they had fallen to historically low levels following the cold winter last year.
+
+For now, the situation remains a long way from what happened in 2022, back when gas prices spent the entirety of Q3 above €150/MWh. But prices are now more than double their levels of a year ago. And with both headline and core inflation still lingering above target, that’s raised fears about a more forceful ECB response. So yesterday saw markets fully price in 3 more ECB hikes by the time of the June 2027 meeting, which if realised would take their deposit rate back up to 3% again.  
+
+That backdrop was very problematic for European sovereign bonds, with yields hitting multi-year highs across the continent. In Germany for example, the 10yr yield (+3.2bps) was up to 3.37%, and the 30yr yield (+1.9bps) reached 3.83%, which was the highest since 2011 for both. And it was a similar story for real yields too, with Germany’s 10yr real yield (+1.7bps) at a post-2011 high of 0.99%, suggesting this wasn’t just a story of high inflation expectations. Then in France, the 10yr yield (+4.4bps) hit a post-2008 high of 4.25%, whilst the 30yr yield (+3.2bps) even moved above 5% on an intraday basis, before closing slightly beneath that at a post-2008 high of 4.98%.  
+
+As all that was going on, the geopolitical situation remained volatile in the Middle East, with no sign of the US or Iran de-escalating. Indeed, US Secretary of State Marco Rubio said that the US would continue targeting Iran over its shipping attacks. But there were no major new developments, while Trump said he didn’t think the renewed strikes against Iran would last too long.  Initially, oil prices had moved sharply higher after the previous night’s attacks, with Brent crude peaking above $97/bbl in the small hours of yesterday. However, they then came down through the session, but ultimately still settled +1.04% higher at $95.63/bbl. This morning we're -0.39% lower at $95.29/bbl.  
+
+The turnaround from the highs in oil was sufficient for US Treasuries to finally stabilise yesterday. The 10yr yield was down -0.9bps by the close at 4.77% while the 2yr was -0.4bps at 4.37%. The pullback in yields was helped by a softer ADP release of private payrolls, which rose by +38k in August (vs. +47k expected), leading to questions about whether tomorrow’s jobs report might also come in on the softer side. So that led to a bit more doubt about whether the Fed might hike in a couple of weeks’ time, with market pricing for a September hike down on the day from 68% to 63%. In addition, we also heard some more dovish comments from NY Fed President Williams, who said “I am actually seeing the trend in inflation moving slowly down as some of the effects of the tariffs move into the rearview mirror.”  
+
+With that in mind, US equities finally stabilised yesterday, with the S&P 500 (+0.46%) recovering after 3 consecutive declines. That was lifted by a decent rally for the Mag 7 (+0.76%) which in turn were lifted by Nvidia (+3.21%) and Meta (+2.47%). But it was a different story in Europe, where the STOXX 600 (-0.24%) hit a five-week low, alongside declines for the DAX (-0.50%), the CAC 40 (-0.26%) and the FTSE 100 (-0.30%).  
+
+In Asia, sentiment is more positive with the KOSPI (+1.52%) leading gains, with technology names benefiting from the positive read-through from Broadcom’s aggressive outlook for chip sales overnight. This offset a slightly tepid current quarter for the US chipmaker. Meanwhile, the Nikkei (+0.34%), CSI 300 (+0.48%), Shanghai Composite (+0.42%), and S&P/ASX 200 (+0.43%) are all edging higher. US and European futures are all up less than a tenth of a percent.
+
+In terms of overnight data, Japan's services sector expanded at its fastest pace in five months in August, adding to evidence of resilient domestic activity and potentially strengthening the case for further BOJ policy tightening.
+
+This and intervention fears is bleeding through into the Japanese yen, which is up +0.55% against the US Dollar this morning following a sharp +0.93% jump yesterday. It first rose yesterday after the BoJ’s Takata had suggested there could be a bigger hike than usual, saying that a 25bp hike “is not necessarily set in stone”. Then later in the session, there was a fresh surge that led to questions about whether there’d been some kind of intervention or rate check. Nothing has materialised but now the market is on watch with chatter that intervention could occur around the thin trading conditions of the "Silver Week" holidays that see markets closed for three days immediately after the BoJ meeting concludes on Friday September 18th. The narrative has helped 10-year JGB yields ease about -4bps to 2.97% this morning, after briefly crossing the 3% threshold earlier this week for the first time since 1996.
+
+Other early morning data showed that China's services sector expanded faster than expected in August, supported by stronger business activity and new orders, while employment increased for a fourth consecutive month, signaling a modest improvement in domestic demand. The RatingDog Services PMI rose to 51.4 in August from 50.4 in July, surpassing market expectations of 50.6. However, the reading remained the second-lowest level in the past 14 months, highlighting that the pace of expansion is still relatively moderate. Meanwhile, the Composite PMI increased to 52.1 from 50.8, pointing to an acceleration in overall private-sector activity.
+
+Elsewhere, Australia’s trade surplus came in above expectations in July, although the surplus narrowed from the previous month as exports fell more sharply than imports. The country posted a trade surplus of A$1.92 billion, above the consensus forecast of A$1.50 billion, but down from a revised surplus of A$2.34 billion in June. Exports fell -3.3% m/m, reversing June’s +9.6% increase, while imports decreased -2.5%, following a 0.7% decline in the prior month. These will be followed later today by the services PMIs across Europe and the US, as well as the ISM reading in the latter.   
+
+In yesterday’s other news, the Bank of Canada kept their policy rate at 2.25%, in line with expectations. However, the decision was received hawkishly, as their statement said that “the upside risks to inflation have increased”, and investors dialled up their expectations for a rate hike later this year. So that helped the Canadian dollar strengthen +0.39% against the US Dollar, whilst the 10yr yield surged +4.8bps yesterday to 3.79%. That was a bigger increase than 10yr yields saw in other G7 countries yesterday, and left the level of yields at its highest since April 2024.  
+
+Looking at the day ahead, US data releases include the ISM services index for August, the weekly initial jobless claims, and the July trade balance. Otherwise, we’ll get the final services and composite PMIs for August from the US and Europe, along with the Euro Area PPI reading for July. From central banks, we’ll hear from the Fed’s Waller, Hammack and Goolsbee.
+
+      Tyler Durden
+Thu, 09/03/2026 - 08:30
+
+===== Thu, 03 Sep 2026 12:27:20 +0000 | Yen Suddenly Surges To Bessent Intervention Highs... No One Knows Who/Why...
+Yen Suddenly Surges To Bessent Intervention Highs... No One Knows Who/Why...
+
+            Yesterday we noted the sudden spike in JPY which prompted numerous desks to speculate on an intervention.
+
+It wasn't large - which made many suggest it wasn't or that it was a tester for liquidity.
+
+Today, we are seeing something different - a steady bid for the Japanese currency lifting it to post-Bessent/BoJ highs...
+
+The slope (not entirely vertical) made some reject the idea of an intervention...
+
+“I don’t think the move was an intervention or rate check, but there is a lot of caution around the 160 level,” said Marito Ueda, president of SBI FX Trade.
+
+But maybe they have a new method of intervention rather than just dump a few billion dollars all at once and rip through all the stops.
+
+The move “shows how sensitive positioning has become,” said Nathan Thooft at Manulife Investment Management. 
+
+“The market got the message that the authorities want a stronger yen.”
+
+The yen began strengthening earlier on Wednesday, after a BOJ board member raised the possibility of outsize or back-to-back interest-rate hikes. 
+
+Overnight index swaps are now more than fully pricing in a standard 25 basis point rate hike at the BOJ’s September meeting. Pricing suggests only a very low likelihood of a 50 basis point move.
+
+“The yen’s gains followed comments from reliably hawkish BOJ board member Takata,” said Tony Sycamore, an analyst at IG Australia. 
+
+“It’s possible we saw some pre-positioning going through for a weak nonfarm payrolls report tomorrow night,” said Sycamore.
+
+“I am skeptical based on the size of the move,” said Andrew Hazlett, a foreign-exchange trader at Monex Inc., referring to the possibility of intervention on Wednesday.
+
+There is no official comment from either the US Treasury of Bank of Japan.
+
+      Tyler Durden
+Thu, 09/03/2026 - 08:27
+
+===== Thu, 03 Sep 2026 09:45:00 +0000 | Ukraine's Drone Warfare Devouring 4% Of Global Germanium Demand As China Chokes Supplies
+Ukraine's Drone Warfare Devouring 4% Of Global Germanium Demand As China Chokes Supplies
+
+            Our coverage of rare earths dates back to President Trump's first trade war, when we warned that "Rare Earths Are China's Most Potent Weapon In A Trade War."
+
+What followed was predictable. During the 2025 trade war, Beijing steadily tightened its control over exports of gallium, germanium, antimony, tungsten and a growing list of other critical industrial metals to the West and its allies. These restrictions represent another weapon in Beijing's economic-warfare toolkit, aimed squarely at the most vulnerable chokepoints in Western defense, semiconductor and advanced-manufacturing supply chains.
+
+The latest signals suggest that bilateral tensions are once again deteriorating. China was the sole G20 holdout on language addressing trade imbalances and an unsustainable export-oriented economic model, while Treasury has widened its Iran sanctions campaign to include Chinese entities, refiners and shipping networks.
+
+The response from the Trump administration and other Western governments has been to accelerate efforts to restart dormant mines, expand processing capacity and build critical minerals supply chains outside Beijing's control.
+
+Our coverage of this trade began with an April 2024 note titled "Next Big Mineral Trade Revealed By Morgan Stanley," which identified MP Materials as one of the miners best positioned to benefit from the Trump-era push to restore domestic critical material supply chains.
+
+By early July 2025, we again highlighted MP Materials as one of the clearest stocks for positioning around this decoupling theme. Just weeks later, shares of the rare earth miner surged from around $30 toward triple-digit territory.
+
+Wall Street may not fully recognize the decoupling theme until regulatory restrictions translate into physical shortages. Some analysts are beginning to understand the grim outlook facing the West. But Beijing does not need to announce a formal trade embargo to shock markets into a crisis. Slowing export approvals, restricting volumes, or denying shipments to select end users have already made it clear that the West must rebuild critical supply chains outside China, either domestically or through friend-shoring.
+
+Another indication that Western critical material supply chains could become a major decoupling theme for Wall Street is the emerging global rearmament cycle.
+
+BMO analyst George Heppel noted that the Russia-Ukraine war is expected to account for more than 4% of global germanium demand this year, with an estimated 15 million drones set to be deployed in an environment where China has weaponized critical materials supply chains, given its control of much of the space. 
+
+"With a staggering 15 million drones estimated to be deployed in the Russia-Ukraine war this year, it is safe to say that the world has entered the era of mass drone warfare," Heppel said.
+
+Heppel explained: "Our analysis suggests that gallium, germanium and NdFeB magnets are the most important enablers of drone warfare, with gallium and germanium (alongside heavy rare earths) also being vital components required for counterdrone systems."
+
+"Consequently, we expect gallium, germanium and rare earth supply security to continue to be a major priority in the West in the face of this growing threat," he added.
+
+Heppel said the massive deployment of drones has opened a new front in the global scramble for germanium, gallium and rare earth magnets. These critical materials are used throughout the drone and counter-drone parts ecosystem, including in systems designed to detect, track, jam and destroy one-way attack drones.
+
+The numbers surrounding drone-driven demand for critical materials are staggering:
+
+Drones now account for more than 80% of enemy targets destroyed by Ukrainian forces.
+
+	Governments and military alliances have pledged roughly $150 billion for drone and counter-drone capabilities since 2025.
+
+	About one-third of that planned spending is directed toward counter-drone systems.
+
+	Drone warfare could consume 4.3% of global germanium demand this year.
+
+Heppel said this is only the beginning of a "high-volume, high-precision" era of warfare that combines industrial-scale drone production with precision-strike capabilities. The transition in warfare technology is making militaries increasingly dependent on these obscure metals, much of whose production and processing is controlled by China. That represents a major vulnerability for the West.
+
+Heppel estimates that the average FPV drone contains 46 grams of neodymium-iron-boron magnet material, 0.1 gram of gallium and 1 gram of germanium. Across 15 million drones, this translates into annual battlefield demand of roughly:
+
+690 metric tons of NdFeB magnets
+
+	1.5 tons of gallium
+
+	15 tons of germanium
+
+Global germanium demand was estimated at just 343 tons in 2025, meaning the Russia-Ukraine battlefield could consume more than 4% of worldwide supply this year. That source of demand did not exist before the war. 
+
+The Squeeze On Prices...
+
+Germanium is used in thermal-imaging lenses and in the fiber-optic cables attached to tethered one-way attack drones.
+
+China's grip on germanium supply is becoming increasingly alarming (read here) as the US and allied governments commit an estimated $150 billion to drone and counter-drone capabilities.
+
+Heppel told clients that several publicly traded companies offer exposure to the critical minerals theme:
+
+MP Materials (MP-NYSE; $54.75; Outperform rated by Max Yerrill and Raj Ray) stands out for its NdPr magnet materials business, production of strategic rare earths such as samarium and gadolinium, and efforts to support drone manufacturing through Project Swarm.
+
+	Neo Performance Materials (NEO-TSX; $31.38; Outperform rated) provides downstream exposure through rare earth separation, magnet production and refined gallium products.
+
+	Energy Fuels (UUUU-NYSE; $14.75; Outperform rated) offers leverage to the redevelopment of a domestic US rare earth supply chain.
+
+	For gallium, Rio Tinto (RIO-LSE; £76.74; Outperform rated) and Alcoa (AA-NYSE; $49.95; Market Perform rated) are emerging as prospective Western suppliers, although gallium is unlikely to become a major revenue driver for either company.
+
+	For germanium, Teck Resources (TECK.B-TSX; $94.51; Restricted) remains a key non-Chinese producer and is evaluating a capacity expansion. Ivanhoe Mines (IVN-TSX; $12.11; Outperform rated) provides indirect exposure through the germanium- and gallium-bearing Kipushi deposit and its potential role in future US critical-mineral supply chains.
+
+"As a result, we expect drone and counterdrone technologies to become another important driver of government efforts to secure domestic production, strengthen processing capacity, and reduce dependence on vulnerable foreign supply chains," Heppel explained.
+
+We have already highlighted Piper Sandler's coverage of LightPath Technologies, whose germanium-free infrared materials offer a synthetic alternative for the West as Chinese export restrictions tighten the global germanium market.
+
+Beyond the critical materials covered by Heppel, Jefferies analysts initiated coverage on several critical minerals companies earlier Wednesday, including Almonty Industries. Jefferies assigned Almonty a "Buy" rating, highlighting the miner's direct public-market exposure to Western tungsten supply. 
+
+Jefferies initiates critical mineral companies Almonty, Materion, USA Rare Earth and Neo Performance with Buy; the firms are expected to benefit from increased demand for supply outside of China.
+
+Almonty (buy, PT $26.25)
+
+Sees Almonty offering public exposure to Western tungsten…
+
+— zerohedge (@zerohedge) September 2, 2026
+Read more here.
+
+      Tyler Durden
+Thu, 09/03/2026 - 05:45
+
+===== Thu, 03 Sep 2026 02:35:00 +0000 | Qatar And UAE Turn To Rare LNG Ship Transfers As Hormuz Crisis Drags On
+Qatar And UAE Turn To Rare LNG Ship Transfers As Hormuz Crisis Drags On
+
+            By Tsvetana Paraskova of OilPrice.com
+
+Three LNG carriers loaded from Qatar and the United Arab Emirates in the Persian Gulf have transferred their cargoes onto other vessels outside the Strait of Hormuz in the past month, a move that’s highly unusual for LNG cargoes but one that could raise the crippled LNG shipments from the region.
+
+LNG traffic at the Strait of Hormuz nevertheless remains at a standstill, even though oil flows are estimated to have rebounded in recent weeks.
+
+However, unlike crude oil, it’s much more difficult to shuttle-ship LNG through Hormuz and then reload it via a ship-to-ship (STS) transfer as Persian Gulf producers, including Qatar, have been doing in recent months to ship oil to customers.
+
+The UAE and Qatar appear to have done this with three LNG cargoes in August, Reuters reported on Wednesday, citing vessel-tracking data from Vortexa and Kpler.
+
+The three LNG carriers in question include Greek-owned GasLog Shanghai, which was involved in an “incident” in the Strait of Hormuz at the end of July, and transferred its cargo onto GasLog Savannah offshore Oman outside the Strait in late August.
+
+Qatar-owned Al Rekayyat, hit by a projectile near the Strait of Hormuz in early July, also conducted an STS transfer with Qatar-owned tanker Tembek in mid-August, according to the data compiled by Reuters.
+
+The cargo on the Tembek was delivered to India on August 31.
+
+ADNOC’s Mraweh LNG carrier also made an STS onto LNG Enugu outside the Strait offshore Oman in the middle of August, and is en route to deliver the cargo to Japan, according to the data.
+
+The lack of meaningful recovery of LNG flows from the Persian Gulf and Qatar’s extended force majeure on deliveries combined with the U.S.-Iran re-escalation to hike Asia’s spot LNG prices to a five-month high and Europe’s benchmark natural gas prices to a three-and-a-half-year high this week.
+
+      Tyler Durden
+Wed, 09/02/2026 - 22:35
+
+===== Thu, 03 Sep 2026 02:10:00 +0000 | Xi In Rare Egypt Visit Blasts 'External Interference' In Mideast, As Iran War Drags On
+Xi In Rare Egypt Visit Blasts 'External Interference' In Mideast, As Iran War Drags On
+
+            Chinese President Xi Jinping in a rare trip to the Cairo told his Egyptian counterpart on Wednesday that "external interference" in the Middle East should be opposed, Chinese state media reported.
+
+Talks in the Egyptian capital between Xi and Egyptian President Abdel Fattah El-Sisi were a first in a decade. Interestingly, Xi at one point pledged Beijing was willing to help protect maritime shipping - though it's anything but clear what specifics would look like, or what bodies of water he had in mind.
+
+via Reuters
+
+"China stands ready to work with countries in the region to safeguard the security of international shipping lanes, advance development cooperation… and eliminate the breeding grounds for conflict," Xi said as quoted in Xinhua.
+
+Ironically the 'offer' comes months after President Trump urged international powers to do just that, but which was met by resounding silence, even among European leaders. Naturally they don't want to get bogged down in yet another US foreign adventure, especially when there's been lack of strategy coupled with repeat contradictions along the way.
+
+As for his remarks about non-interference, Xi clearly had in mind the still-raging US-Iran war, which has turned into a bit of a quagmire for the US, having hit the six-month mark just this week:
+
+"We must uphold the principle that the people of the Middle East are the masters of their own affairs, oppose external interference [and] support regional countries in strengthening dialogue on peace and security."
+
+The other irony on display is that Egypt's is essentially a military government which is bought and paid for by the United States to the tune of around $2 billion or more in bilateral foreign assistance each year. This goes back to the historic peace with Israel, and the Egyptian 'deep state' has been closely cooperative with US intelligence ever since.
+
+Along with talk of how to advance diplomacy related to the Iran war, the two sides signed a significant Suez Canal investment deal:
+
+The talks covered the six-month US-Iran conflict, with both presidents urging "diplomatic solutions" to reach a "comprehensive agreement to end the war", according to a statement from Sisi's spokesperson.
+
+Sisi's office also said the two BRICS members signed an agreement to launch the third phase of the Egyptian-Chinese industrial zone at the Suez Canal, which officials say already hosts 200 companies and investments worth around $4 billion.
+
+The new investments – for which Egypt has not announced a figure – give Beijing even greater influence in the canal zone, a critical artery of global trade, as conflict in the region chokes other conduits.
+
+Regarding the White House's Economic D-Day sanctions on Iran, Beijing last month rejected cooperation with the policy meant to strangle the Islamic Republic.
+
+Egypt stays committed to 'One China'...
+
+Sisi’s statements are neither a personal opinion nor a passing remark; rather, they represent the official and steadfast stance of the Egyptian state for decades.
+
+​Egypt recognized the People’s Republic of China in 1956, voted in favor of United Nations General Assembly… https://t.co/Nsp8F2dCWv
+
+— khaled mahmoued (@khaledmahmoued1) September 2, 2026
+China has been pushing back against Trump administration pressure to be part of the "toughest sanctions in history" which has marked a new phase of conflict focused on extended economic warfare, as a military solution has proven increasingly unrealistic and unlikely.
+
+"Regarding the Iran issue, sanctions and pressure do not help resolve the problem," Reuters quoted a representative of the Chinese Embassy in Washington as saying in late August. The White House's recent plan hinges on on external countries imposing extreme isolation on the Islamic Republic.
+
+      Tyler Durden
+Wed, 09/02/2026 - 22:10

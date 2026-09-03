@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **457 dated entries across 3 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 07:15 PDT**
+> **458 dated entries across 3 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 07:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -482,3 +482,4 @@
 - `2026-09-02` [new-economy-regime.md:L4813](../new-economy-regime.md) — Addendum 2026-09-02 ~8:47am PDT — **Two ZH items to the regime threads:** (1) **UBER cuts ~10% (~3,600) — "removing layers," reallocating to delivery,
 - `2026-09-02` [new-economy-regime.md:L4815](../new-economy-regime.md) — 2026-09-02 ~7:05pm PDT — ⭐⭐⭐⭐⭐ **CHAPEL HILL'S TWO POLICY LEVERS THE BOARDS DIDN'T HAVE (Jake's synthesis): (1) COPYRIGHT — Lutnick pushed G20 members
 - `2026-09-03` [ai-financing-fragility.md:L7637](../ai-financing-fragility.md) — 2026-09-03 ~7:25am PDT — **GPU LADDER, CRWV RUNGS FILLED IN (Q2 10-Q via 9/3 scan):** CRWV carries THREE fixed rungs (8.50% euro · 9.625% · 9.75%) and
+- `2026-09-03` [new-economy-regime.md:L4822](../new-economy-regime.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU

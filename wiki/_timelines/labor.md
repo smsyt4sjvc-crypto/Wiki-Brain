@@ -1,6 +1,6 @@
 # ⏱ LABOR — merged timeline (the gate)
 
-> **146 dated entries across 1 notes · 2026-06-30 → 2026-09-02 · refreshed 2026-09-03 07:15 PDT**
+> **147 dated entries across 1 notes · 2026-06-30 → 2026-09-03 · refreshed 2026-09-03 07:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -168,3 +168,4 @@
 - `2026-09-02` [new-economy-regime.md:L4811](../new-economy-regime.md) — 2026-09-02 ~8:20am PDT — **Chapel Hill Day 2 (Jake's summary → full entry [[buildout-bottleneck-map]] 9/2): LUTNICK — the administration's inclination
 - `2026-09-02` [new-economy-regime.md:L4813](../new-economy-regime.md) — Addendum 2026-09-02 ~8:47am PDT — **Two ZH items to the regime threads:** (1) **UBER cuts ~10% (~3,600) — "removing layers," reallocating to delivery,
 - `2026-09-02` [new-economy-regime.md:L4815](../new-economy-regime.md) — 2026-09-02 ~7:05pm PDT — ⭐⭐⭐⭐⭐ **CHAPEL HILL'S TWO POLICY LEVERS THE BOARDS DIDN'T HAVE (Jake's synthesis): (1) COPYRIGHT — Lutnick pushed G20 members
+- `2026-09-03` [new-economy-regime.md:L4822](../new-economy-regime.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
