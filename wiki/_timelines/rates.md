@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **336 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 07:36 PDT**
+> **337 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 07:40 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -361,3 +361,4 @@
 - `2026-09-03` [rates-board.md:L1989](../rates-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **WALLER'S CONDITION IS THE CPI; ISM SERVICES 55.4 ARGUES THE OTHER WAY; JAPAN'S 30Y TAILS AS THE GPIF STORY STARTS (ZH 
 - `2026-09-03` [rates-board.md:L2003](../rates-board.md) — Addendum 2026-09-03 ~7:35am PDT — ⭐⭐⭐⭐ **ISM SERVICES: THE HEADLINE IS 55.4, THE COMPOSITION IS A STAGFLATION PRINT — PRICES PAID 72.6, EMPLOYMENT 47.
 - `2026-09-03` [rates-board.md:L2014](../rates-board.md) — Addendum 2026-09-03 ~7:40am PDT — **Jake's Q: "Does ISM/PMI lend to inflation? More demand for higher-priced goods?" — PARTLY, MOSTLY THROUGH THE WRON
+- `2026-09-03` [rates-board.md:L2016](../rates-board.md) — Addendum 2026-09-03 ~7:40am PDT — **Jake's Q: "What about PCE?" — WEAKER STILL FOR COST-PUSH, AND NOT AVAILABLE ON SEPT 16.** (1) **Substitution:** PC
