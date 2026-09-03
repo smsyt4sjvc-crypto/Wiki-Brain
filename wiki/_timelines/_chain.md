@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **780 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 07:40 PDT**
+> **784 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 08:34 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -810,8 +810,12 @@
 - `2026-09-03` **[1]** rates-board.md:L2014 — Addendum 2026-09-03 ~7:40am PDT — **Jake's Q: "Does ISM/PMI lend to inflation? More demand for higher-priced goods?" — PARTLY, MOSTLY THROUGH THE WRON
 - `2026-09-03` **[1]** rates-board.md:L2016 — Addendum 2026-09-03 ~7:40am PDT — **Jake's Q: "What about PCE?" — WEAKER STILL FOR COST-PUSH, AND NOT AVAILABLE ON SEPT 16.** (1) **Substitution:** PC
 - `2026-09-03` **[1]** new-economy-regime.md:L4822 — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
+- `2026-09-03` **[1]** new-economy-regime.md:L4831 — Addendum 2026-09-03 ~8:30am PDT — **Semi tariffs: status moves from press report to Commerce-Secretary confirmation (holdings scan).** Lutnick confirm
 - `2026-09-03` **[3]** ai-financing-fragility.md:L7637 — 2026-09-03 ~7:25am PDT — **GPU LADDER, CRWV RUNGS FILLED IN (Q2 10-Q via 9/3 scan):** CRWV carries THREE fixed rungs (8.50% euro · 9.625% · 9.75%) and
 - `2026-09-03` **[3]** balance-sheet-board.md:L763 — 2026-09-03 ~7:20am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CENTRAL CONTRADICTION BREAKS AT ITS WEAKEST NODE: COREWEAVE 5Y CDS >800bp (9/3 scan; MarketWatch: ~40-45% five-
 - `2026-09-03` **[3]** balance-sheet-board.md:L775 — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **NVIDIA BUYS HUGGING FACE FOR $12.9B — THE VENDOR BUYS THE DISTRIBUTION JUNCTION (ZH/WSJ via ZH scan 7:25am — raw/2026-
+- `2026-09-03` **[3]** balance-sheet-board.md:L785 — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **THE FINANCIER TEST, ANSWERED ON THE CALL: AVGO DISCLOSES AN "AI XPV" PLATFORM WITH APOLLO AND BLACKSTONE — >20GW OF O
 - `2026-09-03` **[4]** ai-capex-cycle.md:L3556 — Addendum 2026-09-03 ~7:30am PDT — **AVGO next-morning tape (ZH scan): −3% premarket vs −6.8% after-hours = registered item #5 half-answered — the head
+- `2026-09-03` **[4]** ai-capex-cycle.md:L3558 — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **AVGO CALL DISCLOSURES (holdings scan Sept 3, raw/2026-09-03-holdings-scan.txt): AI $58B FY26 → $115B FY27 → $230B FY2
 - `2026-09-03` **[5]** compression-thesis.md:L2888 — Addendum 2026-09-03 ~7:35am PDT — **THE DIGIKEY READ GETS A NATIONAL-SURVEY RESPONDENT (ISM Services Aug, Retail Trade, via Jake's paste — full entry 
+- `2026-09-03` **[5]** compression-thesis.md:L2890 — Addendum 2026-09-03 ~8:30am PDT — **THE BUYER NAMES MEMORY AS THE MARGIN TRANSFER: AVGO call (holdings scan) — consolidated GM 75% → 73% guided (78% a

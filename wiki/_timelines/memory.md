@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **126 dated entries across 2 notes · 2026-07-16 → 2026-09-03 · refreshed 2026-09-03 07:40 PDT**
+> **127 dated entries across 2 notes · 2026-07-16 → 2026-09-03 · refreshed 2026-09-03 08:34 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -145,3 +145,4 @@
 - `2026-09-02` [compression-thesis.md:L2864](../compression-thesis.md) — DATA (2026-09-02 snapshot)
 - `2026-09-02` [compression-thesis.md:L2881](../compression-thesis.md) — Addendum 2026-09-02 ~2:25pm PDT — ⭐⭐⭐⭐⭐ **THE PRODUCT PAGE SETTLES IT AND ADDS A PRICE (Jake, `raw/2026-09-02-digikey-MTC40F2046-product-page.pdf` — M
 - `2026-09-03` [compression-thesis.md:L2888](../compression-thesis.md) — Addendum 2026-09-03 ~7:35am PDT — **THE DIGIKEY READ GETS A NATIONAL-SURVEY RESPONDENT (ISM Services Aug, Retail Trade, via Jake's paste — full entry 
+- `2026-09-03` [compression-thesis.md:L2890](../compression-thesis.md) — Addendum 2026-09-03 ~8:30am PDT — **THE BUYER NAMES MEMORY AS THE MARGIN TRANSFER: AVGO call (holdings scan) — consolidated GM 75% → 73% guided (78% a

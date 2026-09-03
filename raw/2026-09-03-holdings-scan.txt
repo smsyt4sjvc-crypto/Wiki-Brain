@@ -1,0 +1,127 @@
+Daily holdings scan Sept 3 2026 (Jake's gopher, pasted ~8:30am PDT)
+
+DAILY HOLDINGS SCAN — MATERIAL CHANGES
+Sep. 3, 2026 — morning
+Window: since prior Sep. 2 morning scan
+HIGHEST IMPACT
+NVDA — $12.93B HUGGING FACE ACQUISITION — SEC + COMPANY CONFIRMED
+Nvidia signed a definitive agreement to acquire Hugging Face for $12.9303B.
+Purchase price to Hugging Face stockholders — approximately $11.9B.
+Employee retention program — up to approximately $1.0B.
+Expected close — H1 2027, subject to regulatory approvals/customary conditions.
+Hugging Face — >18M developers/researchers/creators, >3M models, 500k datasets, 1M applications, >200k companies.
+Nvidia explicitly committed to keep the platform open and continue supporting competing silicon vendors.
+WHY IT MATTERS — Nvidia is moving farther up the AI stack into the dominant open-model developer/distribution layer rather than relying solely on GPU economics. It potentially gives Nvidia much deeper visibility into model/developer adoption while preserving an open-platform posture to limit ecosystem backlash.
+PORTFOLIO READ — Strategically positive NVDA; meaningful regulatory-review risk because of Nvidia's already dominant AI infrastructure position. Intel/AMD were existing Hugging Face investors, but no material financial impact to either has been disclosed.
+AVGO — Q3 BEAT; AI REVENUE TRAJECTORY NOW $58B FY26 → $115B FY27 → $230B FY28 — COMPANY/SEC CONFIRMED
+Q3 revenue — $29.591B, +86% YoY.
+Adjusted EPS — $3.32.
+AI semiconductor revenue — $16.7B, +221% YoY / +54% QoQ.
+Q4 total revenue guide — approximately $34.8B.
+Q4 AI semiconductor guide — $21.7B, +236% YoY.
+FY26 AI semiconductor revenue — approximately $58B.
+FY27 AI revenue outlook — approximately $115B.
+FY28 AI revenue visibility — approximately $230B.
+Broadcom says demand EXCEEDS its FY27 outlook and it has secured supply for the stated FY27/FY28 targets.
+WHY STOCK IS LOWER — $34.8B Q4 total-revenue guide came in below the roughly $35B+ level investors were expecting despite extraordinary AI growth.
+PORTFOLIO READ — Underlying AI infrastructure demand strengthened materially; near-term expectation bar was even higher.
+AVGO / MRVL — GOOGLE RELATIONSHIP LOOKS MUCH STICKIER THAN A SIMPLE MARVELL-DISPLACEMENT THESIS — EARNINGS CALL
+Broadcom says its Google relationship "has never been stronger."
+New long-term agreement — future generations of Google TPUs + AI networking.
+Broadcom expects multi-tens-of-billions of dollars of Google TPU revenue ANNUALLY over the next several years.
+WHY IT MATTERS — This argues against interpreting Marvell's expanded Google relationship as a wholesale near-term replacement of Broadcom. Google appears increasingly willing to diversify/customize silicon while maintaining a very large Broadcom program.
+PORTFOLIO READ — AVGO positive; MRVL Google opportunity can still be substantial, but Broadcom clearly remains deeply embedded.
+AVGO — FRONTIER-LAB DEPLOYMENT NUMBERS ARE ENORMOUS — EARNINGS CALL
+Anthropic — 1GW Ironwood deployment in 2026; another 5GW TPU v8i in 2027; incremental 10GW visibility in 2028.
+OpenAI — 1.3GW Jalapeño deployment in 2027; >5GW Jalapeño/successor deployment visibility in 2028.
+Meta — approximately 3GW across three generations of MTIA through 2028.
+Broadcom says its six XPU customers collectively represent roughly 30GW of potential demand, although management explicitly cautioned that not all 30GW necessarily becomes operational by end-2028.
+Broadcom's stated confidence — roughly $350B of AI semiconductor shipments across FY27 + FY28.
+WHY IT MATTERS — The key bottleneck increasingly becomes WHETHER THE DATA-CENTER SHELL/POWER/FINANCING GETS BUILT ON TIME, not whether customers want silicon.
+AVGO — NEW AI FINANCING DISCLOSURE IS DIRECTLY RELEVANT TO OUR SHADOW-LEVERAGE MONITOR — EARNINGS CALL
+Broadcom disclosed an "AI XPV" platform established with Apollo and Blackstone.
+Target — enable >20GW of OpenAI + Anthropic compute infrastructure by end-2028.
+First tranche — $35B closed in June for Anthropic's initial 1GW deployment.
+Broadcom says outside financial partners independently underwrite/capitalize the assets rather than Broadcom directly lending the money.
+Broadcom says it MAY provide "modest" residual-value guarantees where necessary.
+IMPORTANT — CFO said there was NO NEW residual-value guarantee/backstop to announce on the call; previously disclosed exposure remains unchanged for now.
+WHY IT MATTERS — AVGO is joining NVDA in becoming an infrastructure-financing enabler for AI customers whose current cash generation does not cover the required upfront build.
+SHADOW-LEVERAGE READ — Structure risk increased; confirmed incremental contingent liability did NOT increase yet.
+AVGO / MU — MEMORY IS NOW EXPLICITLY PRESSURING BROADCOM MARGINS — COMPANY CALL
+Q3 consolidated gross margin — approximately 75%.
+Q4 guide — approximately 73% versus 78% a year ago.
+Broadcom attributes part of the compression to higher XPU mix and increasing memory content.
+Management specifically named HBM and system memory among major AI supply-chain bottlenecks.
+PORTFOLIO READ — Positive pricing/demand read-through MU; increasingly visible margin transfer from accelerator vendors toward memory suppliers.
+AVGO / COHR / LITE / CRDO / MTSI — OPTICAL DEMAND STRONG, BUT BROADCOM IS AGGRESSIVELY INTERNALIZING CAPACITY
+Broadcom expects AI-networking revenue to grow roughly as fast as XPU revenue.
+Laser demand — management says EML/CW laser demand is far surpassing industry supply.
+Broadcom is more than TRIPLING YoY capacity in EML, CW, VCSEL and indium-phosphide factories in the U.S. and Singapore.
+Q4 capex — $1.4B, including semiconductor/optical capacity.
+PORTFOLIO READ — Very strong demand confirmation for optical/interconnect infrastructure; however Broadcom's aggressive internal optical expansion is also a competitive risk for merchant component suppliers.
+ORCL — MULTI-YEAR GLOBAL HPE/JUNIPER NETWORKING DEPLOYMENT FOR OCI AI BUILD — COMPANY CONFIRMED
+Oracle plans potential multi-year global deployment of HPE Juniper PTX/MX routers and QFX/EX switches across OCI AI data centers.
+Agreement includes networking support services and financing capabilities.
+Oracle says Juniper networking already plays a key role in its AI clusters, regional data centers and edge networks.
+HPE issued Oracle warrants to purchase HPE common stock as part of the agreement.
+WHY IT MATTERS — Another hard infrastructure commitment behind Oracle's enormous AI-capex plan rather than simply backlog commentary.
+PORTFOLIO READ — Positive confirmation that OCI continues physically building AI network capacity at scale.
+SEMICONDUCTOR TARIFFS — STATUS ESCALATED FROM PRESS REPORT TO COMMERCE-SECRETARY CONFIRMATION
+Commerce Secretary Howard Lutnick confirmed the administration is developing a "targeted" semiconductor tariff policy.
+Core framework — companies manufacturing in the U.S. receive tariff relief; companies manufacturing abroad should expect tariffs.
+Exact rates, covered products and implementation date have NOT been published.
+Earlier proposals contemplated potentially extending tariffs beyond bare chips into products such as data-center servers, but that scope is still unconfirmed.
+PORTFOLIO READ — Relative positive INTC/GFS and potentially MU/TSM U.S. fabs; potential cost/supply-chain risk for imported semiconductors, packaging and server systems including ASX/DELL depending on final scope.
+DATA-CENTER POLITICAL RISK — TEXAS BACKLASH BROADENS — REUTERS, NOT YET NEW LAW
+Texas Gov. Abbott is now calling for broader data-center restrictions, repeal of construction tax incentives and limits on rural development.
+Only ~30% of respondents in an August Texas Politics Project poll supported a data center in their community.
+The previously reported Aug. 3 state audit has already paused approval of new Texas grid connections; today's new development is the political escalation heading into elections.
+Similar anti-data-center rhetoric/restriction proposals are appearing among candidates in multiple other states.
+PORTFOLIO READ — Political/permitting risk remains highest for unenergized multi-GW pipelines. Existing connected/contracted power becomes more valuable.
+Watch: IREN, ORCL, CRWV, NBIS, VST, CEG, TLN, ETR, GEV.
+OPTICS / NETWORKING EXTERNAL READ-THROUGH — CIENA RESULTS CONFIRM DEMAND
+Ciena Q3 revenue — $1.67B, +37% YoY.
+Adjusted EPS — $2.11, +215%.
+FY26 revenue guide raised to $6.42B.
+CEO explicitly attributes results to AI driving "compounding waves of network investment."
+PORTFOLIO READ — Positive demand confirmation for COHR/LITE/CRDO/MRVL/MTSI optical/interconnect exposure, though it is an industry read-through rather than a direct customer award.
+CROSS-PORTFOLIO THEMES
+AI CAPEX — STRENGTHENED
+AVGO's FY27/FY28 forecast and named GW deployments materially extend visibility through 2028.
+AI SHADOW LEVERAGE — WORSENED / BECOMING MORE SYSTEMATIC
+NVDA already has large guarantee/cloud/equity exposure.
+AVGO now openly describes an Apollo/Blackstone financing vehicle designed to bridge OpenAI/Anthropic's cash-flow gap.
+Chip vendors are increasingly helping FINANCE the infrastructure required to generate their own future silicon demand.
+CUSTOM SILICON — STRONGER
+AVGO's XPU trajectory is enormous despite NVDA's GPU dominance.
+MRVL's Google opportunity remains real, but Broadcom's long-term Google deal shows hyperscalers are likely using multiple silicon partners rather than making binary vendor switches.
+MEMORY — POSITIVE
+AVGO explicitly identifies HBM/system memory as a bottleneck and higher memory content as a gross-margin headwind.
+MU remains one of the clearest beneficiaries of rising dollars-per-rack flowing toward memory.
+OPTICS / INTERCONNECT — DEMAND STRONG; COMPETITIVE INTENSITY ALSO RISING
+AVGO internal optical capacity >3x YoY.
+Ciena revenue +37%.
+Network investment is accelerating, but Broadcom increasingly wants to capture more component economics internally.
+POWER AVAILABILITY — STILL THE PHYSICAL BOTTLENECK
+Broadcom can identify ~30GW of silicon demand, but management explicitly says actual shipments depend on data-center shells, power and deployment timing.
+NUCLEAR — NO NEW MATERIAL HOLDING-SPECIFIC EVENT SINCE PRIOR SCAN
+No new VST/CEG/TLN/BWXT/GEV/SMR/OKLO/ETR contract, regulatory approval or material filing crossed the threshold.
+CRITICAL MINERALS — NO NEW MATERIAL ECONOMIC EVENT
+USAR Serra Verde shareholder approval remains the latest confirmed transaction milestone; I still do not find an official closing announcement.
+No new material UUUU/MP/ALOY disclosure crossed the threshold.
+CHINA / TAIWAN — NO NEW EXPORT-CONTROL RULE
+The new development is semiconductor TARIFF policy moving closer to implementation; no new China-specific advanced-chip export-control rule was found in this window.
+NO OTHER MATERIAL NEW HOLDING-SPECIFIC DEVELOPMENT FOUND
+INTC, ASX, MCHP, KLAC, ON, QCOM, AMD, NXPI, TXN, LRCX, DELL, TSM, ADI, AMAT, CRDO, ALAB, TER, MTSI, MPWR, ASML, ALOY, UUUU, USAR, MP, VST, CEG, TLN, BWXT, GEV, SMR, OKLO, ETR, RNW, RIVN, IREN, QRVO, CRWV, GFS, SWKS, EWY, NBIS, COHR, ARM, LITE.
+
+Nvidia filed the Hugging Face acquisition with the SEC this morning: approximately $11.9B payable to stockholders plus up to $1.0B of employee retention equity, expected to close in H1 2027 subject to approvals. Nvidia separately says Hugging Face will remain open to other silicon vendors. 
+
+Broadcom’s SEC-filed release confirms $29.591B Q3 revenue, $3.32 adjusted EPS, $16.7B AI semiconductor revenue and $21.7B Q4 AI revenue guidance.  The earnings call provided the much larger forward disclosures: $115B FY27 and $230B FY28 AI revenue, Google’s multi-year TPU agreement, Anthropic/OpenAI/Meta GW deployment schedules, and roughly $350B of expected FY27-FY28 AI shipments. 
+
+The same Broadcom call disclosed the Apollo/Blackstone AI XPV platform targeting >20GW, with a $35B first tranche for Anthropic’s 1GW deployment. Management said third parties underwrite the assets; Broadcom may provide residual-value guarantees, but the CFO explicitly said there was no new RVG/backstop amount to announce.  Broadcom also said its optical factories are being expanded more than 3x YoY while EML/CW laser demand exceeds industry supply. 
+
+Oracle’s new multi-year infrastructure agreement is confirmed by HPE: HPE Juniper routing/switching will be deployed across OCI AI data centers globally, and HPE issued Oracle warrants as part of the arrangement. 
+
+Commerce Secretary Lutnick has now publicly confirmed that the administration is developing semiconductor tariffs structured around U.S.-manufacturing exemptions, although exact tariff rates and product coverage remain unresolved. 
+
+Reuters reports the Texas data-center backlash has escalated into calls from Gov. Abbott for repeal of construction tax incentives, rural-development restrictions and broader regulation; those are political proposals, not yet enacted law.  Ciena’s company release separately reported $1.67B Q3 revenue, +37% YoY, and raised FY26 revenue guidance to $6.42B, providing fresh confirmation that AI-driven optical/network spending remains strong.
