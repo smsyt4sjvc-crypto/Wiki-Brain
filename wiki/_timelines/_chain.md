@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **802 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 15:16 PDT**
+> **803 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 16:01 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -814,6 +814,7 @@
 - `2026-09-03` **[1]** rates-board.md:L2039 — Addendum 2026-09-03 ~2:15pm PDT — ⭐⭐⭐⭐ **THE CHART BEHIND THE 7:40am Q&A: ISM SERVICES PRICES PAID vs CPI (3-MONTH LAG), 2009-2026 (ZH chart via Jake,
 - `2026-09-03` **[1]** rates-board.md:L2048 — 2026-09-03 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐ **BOND CLOSE, DAY 4: TWO ITEMS CHANGE THE BOARD — WALLER ARTICULATES *THE BIND* FROM INSIDE THE FED, AND TREASURY *CUT
 - `2026-09-03` **[1]** rates-board.md:L2069 — Addendum 2026-09-03 ~3:05pm PDT — ⭐⭐⭐⭐ **THE GUIDANCE PARADOX, AND JAKE CALLED IT IN A JOKE: THE REGIME THAT ABOLISHED FORWARD GUIDANCE ISSUED FORWARD
+- `2026-09-03` **[1]** rates-board.md:L2079 — Addendum 2026-09-03 ~4:00pm PDT — ⭐⭐⭐⭐⭐ **Jake's Q: "Aren't a stale-but-ok jobs report + yields falling + inflation the book for rate hikes?" — YES, T
 - `2026-09-03` **[1]** new-economy-regime.md:L4822 — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
 - `2026-09-03` **[1]** new-economy-regime.md:L4831 — Addendum 2026-09-03 ~8:30am PDT — **Semi tariffs: status moves from press report to Commerce-Secretary confirmation (holdings scan).** Lutnick confirm
 - `2026-09-03` **[1]** new-economy-regime.md:L4833 — Addendum 2026-09-03 ~2:25pm PDT — **THE CAROLINA PRINCIPLES' OWN EXCEPTION GOT SWITCHED ON BY THE FIRM THAT BENEFITS FROM IT (full grading → [[danger-
