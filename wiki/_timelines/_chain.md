@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **793 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 10:14 PDT**
+> **794 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 14:06 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -810,6 +810,7 @@
 - `2026-09-03` **[1]** rates-board.md:L2014 — Addendum 2026-09-03 ~7:40am PDT — **Jake's Q: "Does ISM/PMI lend to inflation? More demand for higher-priced goods?" — PARTLY, MOSTLY THROUGH THE WRON
 - `2026-09-03` **[1]** rates-board.md:L2016 — Addendum 2026-09-03 ~7:40am PDT — **Jake's Q: "What about PCE?" — WEAKER STILL FOR COST-PUSH, AND NOT AVAILABLE ON SEPT 16.** (1) **Substitution:** PC
 - `2026-09-03` **[1]** rates-board.md:L2018 — Addendum 2026-09-03 ~9:00am PDT — **THE MARKET PRICED THE COMPOSITION, NOT THE HEADLINE (Daily Market Brief, raw/2026-09-03-daily-market-brief.txt):**
+- `2026-09-03` **[1]** rates-board.md:L2020 — Addendum 2026-09-03 ~2:10pm PDT — ✅⭐⭐⭐⭐⭐ **FLIP TEST ROUND 3 (Sept 2 OAS obs, registered since 9/1; `tools/fragility_feed.py` run in-session, 24 serie
 - `2026-09-03` **[1]** new-economy-regime.md:L4822 — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
 - `2026-09-03` **[1]** new-economy-regime.md:L4831 — Addendum 2026-09-03 ~8:30am PDT — **Semi tariffs: status moves from press report to Commerce-Secretary confirmation (holdings scan).** Lutnick confirm
 - `2026-09-03` **[3]** ai-financing-fragility.md:L7637 — 2026-09-03 ~7:25am PDT — **GPU LADDER, CRWV RUNGS FILLED IN (Q2 10-Q via 9/3 scan):** CRWV carries THREE fixed rungs (8.50% euro · 9.625% · 9.75%) and

@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **319 dated entries across 6 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 10:14 PDT**
+> **320 dated entries across 6 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 14:06 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -347,3 +347,4 @@
 - `2026-09-03` [rates-board.md:L2014](../rates-board.md) — Addendum 2026-09-03 ~7:40am PDT — **Jake's Q: "Does ISM/PMI lend to inflation? More demand for higher-priced goods?" — PARTLY, MOSTLY THROUGH THE WRON
 - `2026-09-03` [rates-board.md:L2016](../rates-board.md) — Addendum 2026-09-03 ~7:40am PDT — **Jake's Q: "What about PCE?" — WEAKER STILL FOR COST-PUSH, AND NOT AVAILABLE ON SEPT 16.** (1) **Substitution:** PC
 - `2026-09-03` [rates-board.md:L2018](../rates-board.md) — Addendum 2026-09-03 ~9:00am PDT — **THE MARKET PRICED THE COMPOSITION, NOT THE HEADLINE (Daily Market Brief, raw/2026-09-03-daily-market-brief.txt):**
+- `2026-09-03` [rates-board.md:L2020](../rates-board.md) — Addendum 2026-09-03 ~2:10pm PDT — ✅⭐⭐⭐⭐⭐ **FLIP TEST ROUND 3 (Sept 2 OAS obs, registered since 9/1; `tools/fragility_feed.py` run in-session, 24 serie
