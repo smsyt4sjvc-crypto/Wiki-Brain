@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **277 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 08:42 PDT**
+> **278 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 08:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -300,6 +300,7 @@
 - `2026-09-02` [rates-board.md:L1968](../rates-board.md) — Addendum 2026-09-02 ~8:40am PDT — ⭐⭐⭐⭐ **THE BESSENT-BoJ THREAD GETS A PRICE: YEN THROUGH 160/USD, then a sudden spike stronger as the G20 closes — "i
 - `2026-09-02` [rates-board.md:L1970](../rates-board.md) — Addendum 2026-09-02 ~9:30am PDT — ⭐⭐⭐ **THE 30Y IN ANNUAL FRAME (Bloomberg chart + wire stats via Jake, `raw/2026-09-02-bloomberg-30y-avg-yield-since-
 - `2026-09-03` [ai-financing-fragility.md:L7637](../ai-financing-fragility.md) — 2026-09-03 ~7:25am PDT — **GPU LADDER, CRWV RUNGS FILLED IN (Q2 10-Q via 9/3 scan):** CRWV carries THREE fixed rungs (8.50% euro · 9.625% · 9.75%) and
+- `2026-09-03` [ai-financing-fragility.md:L7639](../ai-financing-fragility.md) — 2026-09-03 ~8:45am PDT — ⭐⭐⭐⭐ **F2 STEPS UP FROM SLOWER INFLOWS TO OUTRIGHT REDEMPTION: "CLIFFWATER PRIVATE CREDIT FUND SEES 16% REDEMPTION REQUESTS" 
 - `2026-09-03` [rates-board.md:L1975](../rates-board.md) — 2026-09-03 ~7:15am PDT — ⭐⭐⭐⭐⭐ **THURSDAY OPEN (9/3 scan, `raw/2026-09-03-bond-opening-scan.txt`): A RELIEF RALLY WITH THE RIGHT SHAPE — WALLER LEANS 
 - `2026-09-03` [rates-board.md:L1989](../rates-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **WALLER'S CONDITION IS THE CPI; ISM SERVICES 55.4 ARGUES THE OTHER WAY; JAPAN'S 30Y TAILS AS THE GPIF STORY STARTS (ZH 
 - `2026-09-03` [rates-board.md:L2003](../rates-board.md) — Addendum 2026-09-03 ~7:35am PDT — ⭐⭐⭐⭐ **ISM SERVICES: THE HEADLINE IS 55.4, THE COMPOSITION IS A STAGFLATION PRINT — PRICES PAID 72.6, EMPLOYMENT 47.

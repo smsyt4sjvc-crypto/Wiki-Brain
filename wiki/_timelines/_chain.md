@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **785 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 08:42 PDT**
+> **786 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 08:45 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -812,6 +812,7 @@
 - `2026-09-03` **[1]** new-economy-regime.md:L4822 — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
 - `2026-09-03` **[1]** new-economy-regime.md:L4831 — Addendum 2026-09-03 ~8:30am PDT — **Semi tariffs: status moves from press report to Commerce-Secretary confirmation (holdings scan).** Lutnick confirm
 - `2026-09-03` **[3]** ai-financing-fragility.md:L7637 — 2026-09-03 ~7:25am PDT — **GPU LADDER, CRWV RUNGS FILLED IN (Q2 10-Q via 9/3 scan):** CRWV carries THREE fixed rungs (8.50% euro · 9.625% · 9.75%) and
+- `2026-09-03` **[3]** ai-financing-fragility.md:L7639 — 2026-09-03 ~8:45am PDT — ⭐⭐⭐⭐ **F2 STEPS UP FROM SLOWER INFLOWS TO OUTRIGHT REDEMPTION: "CLIFFWATER PRIVATE CREDIT FUND SEES 16% REDEMPTION REQUESTS" 
 - `2026-09-03` **[3]** balance-sheet-board.md:L763 — 2026-09-03 ~7:20am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CENTRAL CONTRADICTION BREAKS AT ITS WEAKEST NODE: COREWEAVE 5Y CDS >800bp (9/3 scan; MarketWatch: ~40-45% five-
 - `2026-09-03` **[3]** balance-sheet-board.md:L775 — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **NVIDIA BUYS HUGGING FACE FOR $12.9B — THE VENDOR BUYS THE DISTRIBUTION JUNCTION (ZH/WSJ via ZH scan 7:25am — raw/2026-
 - `2026-09-03` **[3]** balance-sheet-board.md:L785 — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **THE FINANCIER TEST, ANSWERED ON THE CALL: AVGO DISCLOSES AN "AI XPV" PLATFORM WITH APOLLO AND BLACKSTONE — >20GW OF O

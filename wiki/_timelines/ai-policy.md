@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **480 dated entries across 4 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 08:42 PDT**
+> **481 dated entries across 4 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 08:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -502,6 +502,7 @@
 - `2026-09-03` [ai-capex-cycle.md:L3556](../ai-capex-cycle.md) — Addendum 2026-09-03 ~7:30am PDT — **AVGO next-morning tape (ZH scan): −3% premarket vs −6.8% after-hours = registered item #5 half-answered — the head
 - `2026-09-03` [ai-capex-cycle.md:L3558](../ai-capex-cycle.md) — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **AVGO CALL DISCLOSURES (holdings scan Sept 3, raw/2026-09-03-holdings-scan.txt): AI $58B FY26 → $115B FY27 → $230B FY2
 - `2026-09-03` [ai-financing-fragility.md:L7637](../ai-financing-fragility.md) — 2026-09-03 ~7:25am PDT — **GPU LADDER, CRWV RUNGS FILLED IN (Q2 10-Q via 9/3 scan):** CRWV carries THREE fixed rungs (8.50% euro · 9.625% · 9.75%) and
+- `2026-09-03` [ai-financing-fragility.md:L7639](../ai-financing-fragility.md) — 2026-09-03 ~8:45am PDT — ⭐⭐⭐⭐ **F2 STEPS UP FROM SLOWER INFLOWS TO OUTRIGHT REDEMPTION: "CLIFFWATER PRIVATE CREDIT FUND SEES 16% REDEMPTION REQUESTS" 
 - `2026-09-03` [compression-thesis.md:L2888](../compression-thesis.md) — Addendum 2026-09-03 ~7:35am PDT — **THE DIGIKEY READ GETS A NATIONAL-SURVEY RESPONDENT (ISM Services Aug, Retail Trade, via Jake's paste — full entry 
 - `2026-09-03` [compression-thesis.md:L2890](../compression-thesis.md) — Addendum 2026-09-03 ~8:30am PDT — **THE BUYER NAMES MEMORY AS THE MARGIN TRANSFER: AVGO call (holdings scan) — consolidated GM 75% → 73% guided (78% a
 - `2026-09-03` [metered-compute.md:L3295](../metered-compute.md) — Addendum 2026-09-03 ~8:40am PDT — ⭐⭐⭐ **THE 9/1 TOKEN-INDEX READ IS INDEPENDENTLY VERIFIED ("mostly confirmed") — gopher check of the ZH chart against
