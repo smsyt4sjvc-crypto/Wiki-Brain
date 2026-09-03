@@ -152,7 +152,15 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     ledger: name · grade · date · driver → entry link) so "down from 7/8" is always answerable;
     (c) payoffs beyond ~120 days do not move a grade — *"predicting anything any further out in
     this environment is a mistake"*; (d) the grade is a CALL (rule 14 shape on request: number
-    first, n, disconfirmer). Sizing stays his.
+    first, n, disconfirmer). Sizing stays his. **(e) NOT-INVESTABLE IS A VALID GRADE — added
+    2026-09-03 on Jake's call ("And certainly not an investable one," 2:49pm, re Brockman's
+    "Welcome to the AGI era"). Some material items touch NO instrument the book can hold: a
+    private company's product event, a milestone with no operational definition, a regime claim
+    with no listed expression. Mark them NR — not investable — and say so in one line. DO NOT
+    manufacture an offsetting positive or a second-order name to make an item gradeable; an
+    item's importance and its investability are different axes, and conflating them is how a
+    ledger inflates. NR items still get filed, dated and reasoned; they just do not get a
+    number.**
 17. **Code delivery: COMPLETE cells only** (iPhone/Colab). Acronyms spelled out at first use.
 18. **End of session: file → link → index → ⏱ TIMELINE → chat-log → commit → push. Every turn pushes.**
     ⏱ **`python3 tools/timeline_header.py --all --threads --chain` AFTER writing entries, BEFORE committing.**
