@@ -1,0 +1,35 @@
+ZH/Axios: Brockman 'AGI era' + Astra critical cyber threshold + Huang G20 AGI remarks — pasted by Jake 2026-09-03 ~2:42pm PDT
+
+As if right on cue:: OpenAI President Declares The "AGI Era" Has Officially Begun
+​
+ Summarize
+​
+OpenAI President Greg Brockman said Thursday that he believes the company has reached artificial general intelligence, and that its latest model, GPT-6 Astra, marks the beginning of the so-called "AGI era," according to Axios.
+
+Greg Brockman Photographer: Jordan Vonderhaar/Bloomberg
+
+Speaking to reporters, Brockman called Astra a "generational leap" and said it could eventually be viewed as the moment AGI arrived. "I think it might be about this model," he said when asked whether Astra meets that definition.
+
+While there is no agreed-upon test for AGI, and Brockman said that he will leave the final judgment to users, he ended the call with reporters by saying, "Welcome to the AGI era."
+
+Brockman's comments raise the stakes for a model OpenAI is positioning as a step beyond chatbots toward systems that can carry out complex professional work with less human direction. Astra is OpenAI's first model designated as reaching a "critical" cybersecurity threshold under the company's preparedness framework. The company earlier delayed the release to add safety testing after concluding the model could hit that threshold.
+
+2/6 Created an underwater exploration game in one /goal prompt, all the 3D elements and sounds were made from scratch. pic.twitter.com/mTRTbjYAR7
+
+— Pietro Schirano (@skirano) September 3, 2026
+The designation means Astra can find previously unknown software vulnerabilities and build working exploits against hardened systems without being told where to look. OpenAI says the version available through standard access will refuse advanced cyber work, including exploit discovery, with broader access reserved for vetted defenders.
+
+Axios reports:
+
+GPT-6 Astra will first be available to a limited set of organizations in OpenAI's Daybreak Access program and will be available "in the coming days" for ChatGPT Plus, Pro, Business and Enterprise customers and API developers.
+
+"We will need to strengthen our ability to monitor these models either via extending chain-of-thought monitoring, integrating other ideas like activation monitoring, or finding more specific ways to get the models to be more verbose in their chain of thought," OpenAI chief scientist Jakub Pachocki said during the briefing with reporters.
+
+Brockman's AGI remarks come a day after Nvidia CEO Jensen Huang struck a similar tone about the current state of AI.
+
+$NVDA CEO @JensenHuang told Commerce Secretary @howardlutnick at the G20 @g20org today that we are practically at AGI. I think he is right about the direction. Credit to @howardlutnick. Howard has put Commerce at the center of the AI build, and he has treated this as industrial… pic.twitter.com/6RTO0iOQmu
+
+— Patrick F. Feeley (@PFFeeley) September 2, 2026
+In a fireside chat Wednesday with Commerce Secretary Howard Lutnick at the G20 Innovation Ministerial in Chapel Hill, North Carolina, Huang said systems would "achieve essentially what people call AGI" in the next couple of years, and that "we're practically there today." Whether that milestone "means a lot or it doesn't mean anything" is a separate question, the Nvidia chief continued.
+
+"Suppose, several hundred years ago, humans, in order to have a more civil society, manufactured one of the most important things in the world, which is called education intelligence. Through universities and schools we manufacture intelligence and we manufacture stability at scale," he added. "Without it, how would we have civilization? And so now we're creating the digital version of that. We're manufacturing now intelligence digitally at scale so that even countries and people who don't have access to the highest levels of education now have the benefits of the highest levels of education. Okay? And so that's the simplest way of thinking about what is happening right now."
