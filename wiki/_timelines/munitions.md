@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **233 dated entries across 2 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 08:54 PDT**
+> **235 dated entries across 2 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 09:01 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -257,4 +257,6 @@
 - `2026-09-02` [war-board.md:L4406](../war/war-board.md) — Addendum 2026-09-02 ~10:00am PDT — **IRIB official toll (wire via Jake): 18 killed, 108 injured in the overnight US strikes.** The 18 matches the 8:35
 - `2026-09-03` [ai-capex-cycle.md:L3556](../ai-capex-cycle.md) — Addendum 2026-09-03 ~7:30am PDT — **AVGO next-morning tape (ZH scan): −3% premarket vs −6.8% after-hours = registered item #5 half-answered — the head
 - `2026-09-03` [ai-capex-cycle.md:L3558](../ai-capex-cycle.md) — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **AVGO CALL DISCLOSURES (holdings scan Sept 3, raw/2026-09-03-holdings-scan.txt): AI $58B FY26 → $115B FY27 → $230B FY2
+- `2026-09-03` [ai-capex-cycle.md:L3573](../ai-capex-cycle.md) — Addendum 2026-09-03 ~9:00am PDT — **AVGO cash session −5 to −6% (Daily Market Brief) — corrects this morning's "partially bought" (7:30am/8:30am, off 
 - `2026-09-03` [war-board.md:L4408](../war/war-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **THIRD WAVE REACHES THE UAE; TRUMP WEIGHS DECLARING THE WAR "OVER" WHILE THE BLOCKADE RUNS (ZH scan 7:25am; ZH/Tasnim/K
+- `2026-09-03` [war-board.md:L4421](../war/war-board.md) — Addendum 2026-09-03 ~9:00am PDT — ⭐⭐⭐⭐ **THE THROUGHPUT DATUM: REUTERS — HORMUZ CROSSINGS BELOW AVERAGE WEDNESDAY; Brent ~$97.3 / WTI ~$93, fresh six-

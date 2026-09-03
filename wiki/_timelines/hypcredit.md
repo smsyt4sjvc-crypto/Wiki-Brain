@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **279 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 08:54 PDT**
+> **280 dated entries across 3 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 09:01 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -307,3 +307,4 @@
 - `2026-09-03` [rates-board.md:L2003](../rates-board.md) — Addendum 2026-09-03 ~7:35am PDT — ⭐⭐⭐⭐ **ISM SERVICES: THE HEADLINE IS 55.4, THE COMPOSITION IS A STAGFLATION PRINT — PRICES PAID 72.6, EMPLOYMENT 47.
 - `2026-09-03` [rates-board.md:L2014](../rates-board.md) — Addendum 2026-09-03 ~7:40am PDT — **Jake's Q: "Does ISM/PMI lend to inflation? More demand for higher-priced goods?" — PARTLY, MOSTLY THROUGH THE WRON
 - `2026-09-03` [rates-board.md:L2016](../rates-board.md) — Addendum 2026-09-03 ~7:40am PDT — **Jake's Q: "What about PCE?" — WEAKER STILL FOR COST-PUSH, AND NOT AVAILABLE ON SEPT 16.** (1) **Substitution:** PC
+- `2026-09-03` [rates-board.md:L2018](../rates-board.md) — Addendum 2026-09-03 ~9:00am PDT — **THE MARKET PRICED THE COMPOSITION, NOT THE HEADLINE (Daily Market Brief, raw/2026-09-03-daily-market-brief.txt):**

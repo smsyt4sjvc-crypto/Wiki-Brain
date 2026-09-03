@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **178 dated entries across 3 notes · 2026-07-09 → 2026-09-03 · refreshed 2026-09-03 08:54 PDT**
+> **180 dated entries across 3 notes · 2026-07-09 → 2026-09-03 · refreshed 2026-09-03 09:01 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -196,4 +196,6 @@
 - `2026-09-02` [war-board.md:L4396](../war/war-board.md) — 2026-09-02 ~8:35am PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE OVERNIGHT, ASSESSED (ZH feed scan, `raw/2026-09-02-zh-feed-scan.txt`): (1) IRANIAN TOLL 18, including an alleg
 - `2026-09-02` [war-board.md:L4406](../war/war-board.md) — Addendum 2026-09-02 ~10:00am PDT — **IRIB official toll (wire via Jake): 18 killed, 108 injured in the overnight US strikes.** The 18 matches the 8:35
 - `2026-09-03` [buildout-bottleneck-map.md:L1603](../buildout-bottleneck-map.md) — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐ **TEXAS: ABBOTT CALLS FOR BROADER DATA-CENTER RESTRICTIONS, REPEAL OF CONSTRUCTION TAX INCENTIVES, RURAL LIMITS (Reuters
+- `2026-09-03` [buildout-bottleneck-map.md:L1611](../buildout-bottleneck-map.md) — Addendum 2026-09-03 ~9:00am PDT — **GHOST-MW PURGE, PRECISION (Daily Market Brief citing Reuters' Texas investigation):** ERCOT tracking **>1,800 proj
 - `2026-09-03` [war-board.md:L4408](../war/war-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **THIRD WAVE REACHES THE UAE; TRUMP WEIGHS DECLARING THE WAR "OVER" WHILE THE BLOCKADE RUNS (ZH scan 7:25am; ZH/Tasnim/K
+- `2026-09-03` [war-board.md:L4421](../war/war-board.md) — Addendum 2026-09-03 ~9:00am PDT — ⭐⭐⭐⭐ **THE THROUGHPUT DATUM: REUTERS — HORMUZ CROSSINGS BELOW AVERAGE WEDNESDAY; Brent ~$97.3 / WTI ~$93, fresh six-

@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **84 dated entries across 3 notes · 2026-06-30 → 2026-09-03 · refreshed 2026-09-03 08:54 PDT**
+> **85 dated entries across 3 notes · 2026-06-30 → 2026-09-03 · refreshed 2026-09-03 09:01 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -106,3 +106,4 @@
 - `2026-09-02` [buildout-bottleneck-map.md:L1599](../buildout-bottleneck-map.md) — Addendum 2026-09-02 ~8:47am PDT — ⭐⭐⭐⭐ **THE PURGE IS NOT TEXAS-ONLY: PJM REMOVED OKLO'S 750MW OHIO PROJECT FROM INTERCONNECTION CYCLE 1 (scan late-ca
 - `2026-09-02` [buildout-bottleneck-map.md:L1601](../buildout-bottleneck-map.md) — Addendum 2026-09-02 ~7:12pm PDT — **Jake's Chapel Hill ordering, adopted as the board's read of NEW information (not of absolute size): power generati
 - `2026-09-03` [buildout-bottleneck-map.md:L1603](../buildout-bottleneck-map.md) — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐ **TEXAS: ABBOTT CALLS FOR BROADER DATA-CENTER RESTRICTIONS, REPEAL OF CONSTRUCTION TAX INCENTIVES, RURAL LIMITS (Reuters
+- `2026-09-03` [buildout-bottleneck-map.md:L1611](../buildout-bottleneck-map.md) — Addendum 2026-09-03 ~9:00am PDT — **GHOST-MW PURGE, PRECISION (Daily Market Brief citing Reuters' Texas investigation):** ERCOT tracking **>1,800 proj
