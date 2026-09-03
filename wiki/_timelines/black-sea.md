@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **207 dated entries across 2 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 15:03 PDT**
+> **208 dated entries across 2 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 15:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -232,3 +232,4 @@
 - `2026-09-02` [oil-value-chain.md:L2589](../oil-value-chain.md) — Addendum 2026-09-02 ~9:20am PDT — ✅ **Jake's arithmetic on the SPR swap (adopted; corrects my 9:15am price objection):** government buys Venezuelan he
 - `2026-09-03` [oil-value-chain.md:L2591](../oil-value-chain.md) — Addendum 2026-09-03 ~7:30am PDT — **RETAIL DIESEL $5.783 (Wednesday, highest since mid-2022, "approaching a record"); LNG STILL AT A STANDSTILL — Qata
 - `2026-09-03` [oil-value-chain.md:L2593](../oil-value-chain.md) — Addendum 2026-09-03 ~8:50am PDT — **THE SAME EIA WEEK (ended Aug 28) IN WSJ'S NUMBERS (Harrup, raw/2026-09-03-wsj-eia-weekly-aug28.txt) — precision ad
+- `2026-09-03` [oil-value-chain.md:L2595](../oil-value-chain.md) — 2026-09-03 ~3:15pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE REGISTERED REVERSAL TRIGGER RESOLVES — FAVORABLY, AND IT CLOSES: THE WHITE HOUSE REFINER SUMMIT ASKED FOR *MORE

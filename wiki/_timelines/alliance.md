@@ -1,6 +1,6 @@
 # ⏱ ALLIANCE — merged timeline (the gate)
 
-> **326 dated entries across 3 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 15:03 PDT**
+> **327 dated entries across 3 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 15:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -349,5 +349,6 @@
 - `2026-09-02` [war-board.md:L4406](../war/war-board.md) — Addendum 2026-09-02 ~10:00am PDT — **IRIB official toll (wire via Jake): 18 killed, 108 injured in the overnight US strikes.** The 18 matches the 8:35
 - `2026-09-03` [oil-value-chain.md:L2591](../oil-value-chain.md) — Addendum 2026-09-03 ~7:30am PDT — **RETAIL DIESEL $5.783 (Wednesday, highest since mid-2022, "approaching a record"); LNG STILL AT A STANDSTILL — Qata
 - `2026-09-03` [oil-value-chain.md:L2593](../oil-value-chain.md) — Addendum 2026-09-03 ~8:50am PDT — **THE SAME EIA WEEK (ended Aug 28) IN WSJ'S NUMBERS (Harrup, raw/2026-09-03-wsj-eia-weekly-aug28.txt) — precision ad
+- `2026-09-03` [oil-value-chain.md:L2595](../oil-value-chain.md) — 2026-09-03 ~3:15pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE REGISTERED REVERSAL TRIGGER RESOLVES — FAVORABLY, AND IT CLOSES: THE WHITE HOUSE REFINER SUMMIT ASKED FOR *MORE
 - `2026-09-03` [war-board.md:L4408](../war/war-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **THIRD WAVE REACHES THE UAE; TRUMP WEIGHS DECLARING THE WAR "OVER" WHILE THE BLOCKADE RUNS (ZH scan 7:25am; ZH/Tasnim/K
 - `2026-09-03` [war-board.md:L4421](../war/war-board.md) — Addendum 2026-09-03 ~9:00am PDT — ⭐⭐⭐⭐ **THE THROUGHPUT DATUM: REUTERS — HORMUZ CROSSINGS BELOW AVERAGE WEDNESDAY; Brent ~$97.3 / WTI ~$93, fresh six-

@@ -143,7 +143,7 @@ above-target inflation = repression; gold is the residual claim ([[new-economy-r
 7. **GOOGL** — funding-side survivor + distribution · **$811B obligations +144%/qtr** · `GOOGL obligations, backstops, SpaceX stake`
 8. **MP** — the state-equity magnet monopoly · policy dependence · `MP, rare earth, magnet, state equity`
 9. **CRDO** — networking toll on clusters · 1-day-old roadmap basis · `Credo, AEC, networking`
-10. **VLO** — the divergence live: crack ~$67 while crude falls · **political kill-switch ARMING ($5.65 diesel headlines)** · `crack spread, 140%, NORSI, WPSR`
+10. **VLO** — ✅ 9/3: the SUMMIT REVERSAL TRIGGER CLOSED FAVORABLY (Trump asked for MORE capacity — deregulation/permitting/Venezuela absorption — not lower margins; kill-switch n=4 all sparing the crack; EXIT BELL unrung). The state has now formally examined the bottleneck and cannot relieve it inside a decade (3-5yr builds; 400kb/d over 20 YEARS; 128 fewer refineries than 1982; newest 1977) ⇒ the moat is STRONGER after the meeting. New name-level risk: DEFERRED MAINTENANCE at >97% util. Basket HOLDS 9/9/8/8/8/7 — no upgrade, kill-switch #3 already contained the summit. — the divergence live: crack ~$67 while crude falls · **political kill-switch ARMING ($5.65 diesel headlines)** · `crack spread, 140%, NORSI, WPSR`
 
 ## 🔄 ROTATION BASKET (β for the weary-rotation branch — FIRST CUT 8/25, Jake to edit)
 - **Long-end duration — SPECIFIC EXPRESSION UPGRADED 8/27: the 20Y sector (0.7bp cheap to 30Y; Citi long-20Y rec; scarcity rallies it hardest if Nov 4 cuts it) over generic TLT-class** — the rotation DELIVERS the long-end bid; Treasury buybacks
