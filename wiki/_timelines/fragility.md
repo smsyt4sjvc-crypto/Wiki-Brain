@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **322 dated entries across 6 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 14:50 PDT**
+> **323 dated entries across 6 notes · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 15:03 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -350,3 +350,4 @@
 - `2026-09-03` [rates-board.md:L2020](../rates-board.md) — Addendum 2026-09-03 ~2:10pm PDT — ✅⭐⭐⭐⭐⭐ **FLIP TEST ROUND 3 (Sept 2 OAS obs, registered since 9/1; `tools/fragility_feed.py` run in-session, 24 serie
 - `2026-09-03` [rates-board.md:L2039](../rates-board.md) — Addendum 2026-09-03 ~2:15pm PDT — ⭐⭐⭐⭐ **THE CHART BEHIND THE 7:40am Q&A: ISM SERVICES PRICES PAID vs CPI (3-MONTH LAG), 2009-2026 (ZH chart via Jake,
 - `2026-09-03` [rates-board.md:L2048](../rates-board.md) — 2026-09-03 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐ **BOND CLOSE, DAY 4: TWO ITEMS CHANGE THE BOARD — WALLER ARTICULATES *THE BIND* FROM INSIDE THE FED, AND TREASURY *CUT
+- `2026-09-03` [rates-board.md:L2069](../rates-board.md) — Addendum 2026-09-03 ~3:05pm PDT — ⭐⭐⭐⭐ **THE GUIDANCE PARADOX, AND JAKE CALLED IT IN A JOKE: THE REGIME THAT ABOLISHED FORWARD GUIDANCE ISSUED FORWARD
