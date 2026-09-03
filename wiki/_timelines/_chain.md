@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **795 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 14:10 PDT**
+> **798 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 14:13 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -812,6 +812,7 @@
 - `2026-09-03` **[1]** rates-board.md:L2018 — Addendum 2026-09-03 ~9:00am PDT — **THE MARKET PRICED THE COMPOSITION, NOT THE HEADLINE (Daily Market Brief, raw/2026-09-03-daily-market-brief.txt):**
 - `2026-09-03` **[1]** rates-board.md:L2020 — Addendum 2026-09-03 ~2:10pm PDT — ✅⭐⭐⭐⭐⭐ **FLIP TEST ROUND 3 (Sept 2 OAS obs, registered since 9/1; `tools/fragility_feed.py` run in-session, 24 serie
 - `2026-09-03` **[1]** rates-board.md:L2039 — Addendum 2026-09-03 ~2:15pm PDT — ⭐⭐⭐⭐ **THE CHART BEHIND THE 7:40am Q&A: ISM SERVICES PRICES PAID vs CPI (3-MONTH LAG), 2009-2026 (ZH chart via Jake,
+- `2026-09-03` **[1]** rates-board.md:L2048 — 2026-09-03 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐ **BOND CLOSE, DAY 4: TWO ITEMS CHANGE THE BOARD — WALLER ARTICULATES *THE BIND* FROM INSIDE THE FED, AND TREASURY *CUT
 - `2026-09-03` **[1]** new-economy-regime.md:L4822 — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
 - `2026-09-03` **[1]** new-economy-regime.md:L4831 — Addendum 2026-09-03 ~8:30am PDT — **Semi tariffs: status moves from press report to Commerce-Secretary confirmation (holdings scan).** Lutnick confirm
 - `2026-09-03` **[3]** ai-financing-fragility.md:L7637 — 2026-09-03 ~7:25am PDT — **GPU LADDER, CRWV RUNGS FILLED IN (Q2 10-Q via 9/3 scan):** CRWV carries THREE fixed rungs (8.50% euro · 9.625% · 9.75%) and
@@ -827,6 +828,8 @@
 - `2026-09-03` **[5]** metered-compute.md:L3302 — 2026-09-03 ~9:05am PDT — ⭐⭐⭐⭐⭐ **THE HOUSE IS SPLIT, WITH NAMES: GOLDMAN RESEARCH REITERATES BUY ON AVGO WHILE ITS OWN DELTA ONE DESK CALLS COMPUTE OV
 - `2026-09-03` **[5]** metered-compute.md:L3314 — 2026-09-03 ~9:45am PDT — ⭐⭐⭐⭐⭐ **"AI COMPUTE TIGHTNESS: HAS TOKEN DEFLATION BECOME COMPUTE EXCESS?" (Jake's upload, Sept 2025–Aug 2026 workup, `raw/20
 - `2026-09-03` **[5]** metered-compute.md:L3334 — 2026-09-03 ~10:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE DECOMPOSITION GOT BUILT IN 25 MINUTES AND IT REJECTS THE BARBELL'S DYNAMIC: PROPRIETARY TOKENS FELL FASTER THAN
+- `2026-09-03` **[5]** metered-compute.md:L3357 — Addendum 2026-09-03 ~2:20pm PDT — ⭐⭐⭐⭐⭐ **THE ANTI-GLUT DATUM ARRIVES FROM OUTSIDE THE GPU COMPLEX ENTIRELY: ISM ADDED **GPUs** TO ITS COMMODITIES-IN-
 - `2026-09-03` **[5]** compression-thesis.md:L2888 — Addendum 2026-09-03 ~7:35am PDT — **THE DIGIKEY READ GETS A NATIONAL-SURVEY RESPONDENT (ISM Services Aug, Retail Trade, via Jake's paste — full entry 
 - `2026-09-03` **[5]** compression-thesis.md:L2890 — Addendum 2026-09-03 ~8:30am PDT — **THE BUYER NAMES MEMORY AS THE MARGIN TRANSFER: AVGO call (holdings scan) — consolidated GM 75% → 73% guided (78% a
 - `2026-09-03` **[5]** compression-thesis.md:L2892 — Addendum 2026-09-03 ~8:55am PDT — ⭐⭐⭐⭐ **"SIGNAL, NOT RELIEF" CONFIRMED IN 24 HOURS — AND BY THE PENTAGON ITSELF: Emil Michael (X, Thursday): "Anthrop
+- `2026-09-03` **[5]** compression-thesis.md:L2900 — Addendum 2026-09-03 ~2:20pm PDT — **THE MEMORY SHORTAGE IS NOW EIGHT MONTHS OLD BY ISM'S OWN COUNT, AND GPUs JOINED THE LIST (close scan):** ISM's Aug
