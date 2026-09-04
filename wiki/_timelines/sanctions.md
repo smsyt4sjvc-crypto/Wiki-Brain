@@ -1,6 +1,6 @@
 # ⏱ SANCTIONS — merged timeline (the gate)
 
-> **382 dated entries across 5 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 21:29 PDT**
+> **383 dated entries across 5 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 21:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -407,3 +407,4 @@
 - `2026-09-03` [war-board.md:L4421](../war/war-board.md) — Addendum 2026-09-03 ~9:00am PDT — ⭐⭐⭐⭐ **THE THROUGHPUT DATUM: REUTERS — HORMUZ CROSSINGS BELOW AVERAGE WEDNESDAY; Brent ~$97.3 / WTI ~$93, fresh six-
 - `2026-09-03` [war-board.md:L4423](../war/war-board.md) — 2026-09-03 ~9:20pm PDT — ⭐⭐⭐⭐⭐ **THE COALITION QUESTION MOVES, AND IT MOVES IN ASIA: SOUTH KOREA IS MAKING "CONCRETE PREPARATIONS" FOR A HORMUZ NAVAL 
 - `2026-09-03` [war-board.md:L4444](../war/war-board.md) — Addendum 2026-09-03 ~9:30pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S LINKAGE READ: "one day after Trump lays chip tariffs… if SK sweeps for mines 'independently' it give
+- `2026-09-03` [war-board.md:L4464](../war/war-board.md) — Addendum 2026-09-03 ~9:45pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE CONNECTS THREE ITEMS FILED SEPARATELY TODAY INTO AN EXIT ARCHITECTURE — AND IT DATES THE EXIT: "gettin
