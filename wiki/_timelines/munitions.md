@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **244 dated entries across 2 notes · 2026-05-22 → 2026-09-04 · refreshed 2026-09-04 15:32 PDT**
+> **245 dated entries across 2 notes · 2026-05-22 → 2026-09-04 · refreshed 2026-09-04 15:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -269,3 +269,4 @@
 - `2026-09-04` [war-board.md:L4510](../war/war-board.md) — ⟲ AMENDMENT 2026-09-04 ~7:10am PDT — ⛔ **I FILED THE KOREA ITEM AS "NR — NO INSTRUMENT" AND THAT WAS WRONG: EWY IS IN JAKE'S ROSTER.**
 - `2026-09-04` [war-board.md:L4517](../war/war-board.md) — Addendum 2026-09-04 ~7:20am PDT — ⭐⭐⭐⭐ **THE COALITION PARTNER'S WAR AIM IS INCOMPATIBLE WITH THE ADMINISTRATION'S DE-ESCALATION: NETANYAHU — TOPPLING
 - `2026-09-04` [war-board.md:L4523](../war/war-board.md) — Addendum 2026-09-04 ~2:20pm PDT — ⛔ **BESSENT CLAIMS THE EU "OFFICIALLY JOINED" ECONOMIC OUTCAST; THE EU'S OWN TEXT IS AN ENDORSEMENT, NOT A COMMITMEN
+- `2026-09-04` [war-board.md:L4531](../war/war-board.md) — Addendum 2026-09-04 ~3:45pm PDT — **THE BYPASS IS NOT CAPACITY-CONSTRAINED, IT IS ELIGIBILITY-CONSTRAINED — AND THIS BOARD ALREADY HELD THE BINDING FA

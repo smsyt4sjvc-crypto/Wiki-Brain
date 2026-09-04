@@ -1,0 +1,1030 @@
+INVESTOR PRESENTATION I AUGUST 2026
+                                                        Forward-Looking Statements / Disclaimers
+The information contained in this presentation has been prepared to assist you in making your own evaluation of the company and does not purport to contain all of the information you may consider important. Any estimates or
+projections with respect to future performance have been provided to assist you in your evaluation, but should not be relied upon as an accurate representation of future results. Certain statements, estimates, and ﬁnancial
+information contained in this presentation constitute forward-looking statements.
+
+Such forward-looking statements involve known and unknown risks and uncertainties that could cause actual events or results to diﬀer materially from the results implied or expressed in such forward-looking statements. While
+presented with numerical speciﬁcity, certain forward-looking statements are based upon assumptions with respect to future business decisions that are subject to change, and that are inherently subject to signiﬁcant economic,
+regulatory, environmental, seasonal and competitive uncertainties, contingencies and risks including, without limitation, our ability to maintain adequate liquidity, our ability to realize the potential benefit of our net operating loss tax
+carryforwards, our ability to obtain sufficient debt and equity ﬁnancing, our capital costs and operating costs, anticipated commodity pricing, diﬀerentials or crack spreads, anticipated or projected pricing information related to oil, NGLs,
+and natural gas, our ability to realize the potential benefits of our intermediation and ABL credit facilities, assumptions related to our investment in Laramie Energy, LLC, Laramie Energy, LLC’s financial and operational performance and
+plans, our ability to meet environmental and regulatory requirements, our ability to increase refinery throughput and profitability, estimated production, our ability to evaluate and pursue strategic and growth opportunities, our estimates
+of anticipated Adjusted EBITDA, Adjusted Net income per share, and Adjusted earnings per share, the amount and scope of anticipated capital expenditures and turnaround activities, expectations related to our potential renewable fuels
+projects, other maintenance and growth capital projects, anticipated 10 year and next 12 month turnaround schedule and expenditures, including costs, timing, and benefits, anticipated throughput, production costs, on-island and export
+sales expectations in Hawaii, anticipated throughput and distillate yield expectations, our estimates related to the annual gross margin impact of changes in RINs prices, our expectations regarding RINs prices and related small refinery
+exemptions, the Russia-Ukraine war, military conflicts in the Middle East, the political activity in Venezuela, Houthi-related disruptions in the Red Sea, the ongoing military conflict with Iran and disruptions in the Strait of Hormuz and their
+potential impacts on the global crude oil market and our business, estimated impact on annual free cash flow of key drivers, expectations regarding the commercial and other benefits anticipated from the renewables strategy and SAF
+project, and the Hawaii Renewables, LLC joint venture, including the anticipated benefits of the joint venture, expectations regarding Par Pacific’s mid-cycle financial profile and refining assumptions, posted market indices and the impact of
+tariffs, U.S. trade policy, and potential disruptions in international trade on our business; the other metrics we utilize (including free cash flow, Adjusted EBITDA, Adjusted Net Income, and Adjusted earnings per share), and other known and
+unknown risks (all of which are difficult to predict and many of which are beyond the company's control), some of which are further discussed in the company’s periodic and other filings with the SEC.
+
+There can be no assurance that the results implied or expressed in such forward-looking statements or the underlying assumptions will be realized and that actual results of operations or future events will not be materially diﬀerent from
+the results implied or expressed in such forward-looking statements. Under no circumstances should the inclusion of the forward-looking statements be regarded as a representation, undertaking, warranty, or prediction by the company
+or any other person with respect to the accuracy thereof or the accuracy of the underlying assumptions, or that the company will achieve or is likely to achieve any particular results. The forward-looking statements are made as of the date
+hereof and the company disclaims any intent or obligation to update publicly or to revise any of the forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required by applicable
+law. Recipients are cautioned that forward-looking statements are not guarantees of future performance and, accordingly, recipients are expressly cautioned not to put undue reliance on forward-looking statements due to the inherent
+uncertainty therein.
+
+This presentation contains non-GAAP financial measures, such as Adjusted EBITDA and Adjusted Net Income (loss). Beginning with financial results reported for periods in fiscal year 2022, the inventory valuation adjustment was modified to
+include the first-in, first-out (“FIFO”) inventory gains (losses) associated with our titled manufactured inventory in Hawaii. Beginning with financial results reported for the second quarter of 2022, Adjusted Net Income and Adjusted EBITDA
+also exclude the mark-to-market losses (gains) associated with our net RINs liability. Beginning with financial results reported for periods in fiscal year 2023, Adjusted Gross Margin, Adjusted Net Income (Loss), and Adjusted EBITDA exclude
+the mark-to-market losses (gains) associated with our net obligation related to the Washington Climate Commitment Act (“Washington CCA”) and Clean Fuel Standard effective beginning in 2023. These modifications were made to better
+reflect our operating performance and to improve comparability between periods. Beginning with financial results reported for periods in fiscal year 2023, Adjusted Net Income (loss) and Adjusted EBITDA also exclude the redevelopment
+and other costs for our Par West facility, which was shut down in 2020. This modification improves comparability between periods by excluding expenses incurred in connection with the strategic redevelopment of this non-operating
+facility. Beginning with financial results reported for the second quarter of 2023, Adjusted Gross Margin, Adjusted Net Income (Loss), and Adjusted EBITDA also exclude our portion of interest, taxes, and depreciation expense from our
+refining and logistics investments acquired on June 1, 2023, as part of the acquisition of Par Montana and the associated assets. Beginning with financial results reported for the fourth quarter of 2023, Adjusted Gross Margin, Adjusted Net
+Income (Loss), and Adjusted EBITDA exclude all hedge losses (gains) associated with our Washington ending inventory and LIFO layer increment impacts associated with our Washington inventory. We are also no longer adjusting for the
+contango (gains) and backwardation losses associated with our Washington intermediation agreement (terminated in the fourth quarter of 2023). In addition, we have modified our environmental obligation mark-to-market adjustment to
+include only the mark-to-market losses (gains) associated with our net RINs liability and net obligation associated with the Washington CCA and Clean Fuel Standard. This modification was made as part of our change in how we estimate our
+environmental obligation liabilities. Beginning with financial results reported for the fourth quarter of 2023, Adjusted Net Income (loss) excludes unrealized interest rate derivative losses (gains) and all Laramie Energy related impacts with
+the exception of cash distributions. Beginning with financial results reported for the first quarter of 2024, Adjusted Net Income (loss) also excludes other non-operating income and expenses. This modification improves comparability
+between periods by excluding income and expenses resulting from non-operating activities. Beginning with financial results reported for the fourth quarter of 2024, Adjusted Gross Margin, Adjusted Net Income (Loss) and Adjusted EBITDA
+also exclude our portion of accounting policy differences for turnaround costs and related amortization expense associated with major maintenance activities from our refining and logistics investments. This modification improves
+comparability between periods by excluding differences in expense recognition under the accounting policies adopted at our refining and logistics investments as compared to our own accounting policies. This modification improves
+comparability between periods by excluding income and expenses resulting from non-operating activities, as such, Adjusted Net Income and Adjusted EBITDA have been recast for prior periods when reported to conform to the modified
+presentation. Beginning with the financial results reported for the fourth quarter of 2025, Adjusted EBITDA by segment also excludes other operating gains and losses (which primarily includes the impacts of the noncash remeasurement of
+our environmental liabilities). This modification improves comparability between periods by excluding non-cash gains and losses that do not reflect ongoing underlying business operations. Please see the Appendix for the definitions and
+reconciliations to GAAP of the non-GAAP financial measures that are based on reconcilable historical information.         1
+                                         Company Highlights
+
+• Growing energy company providing renewable and conventional fuels to
+  the western United States
+• Integrated logistics network with 13 MMbbls of storage, and marine, rail,
+  and pipeline assets
+• System-wide refining capacity of 219,000 bpd
+• Peer-group leading distillate cut, driving higher margins
+• 116 fuel retail locations in Hawaii and the Pacific Northwest
+• Growing EBITDA contribution from retail and logistics segments
+• 46% ownership interest in Laramie Energy, a natural gas E&P company
+• Approximately $0.7 billion in federal tax attributes as of December 31, 2025
+
+
+
+ Disciplined Focus on Increasing Adjusted EPS and Free Cash Flow
+
+
+                                                         2
+                                               History of Successful Acquisitions
+• Successful expansion from single refinery to vertically
+  integrated multi-site platform over ten years
+• Increased refining scale and targeted geographic reach in
+  favorable markets through strategic bolt-on acquisitions
+• Demonstrated ability to integrate acquisitions into
+  operations with meaningful synergies
+
+
+
+
+                                                                3
+                                                                                                          Refining Overview
+                Refining Segment Highlights                                                                                  Refinery Crude Capacity      Mbpd
+                •       Focus on process safety, environmental compliance, and                                               Hawaii                              94
+                        operational reliability
+                                                                                                                             Montana                             63
+                •       System-wide crude capacity of 219,000 bpd
+                                                                                                                             Washington                          42
+                •       Throughput and yield optimized to serve local market needs
+                •       52% system-wide distillate & LSFO yield 1                                                            Wyoming                             20
+                •       19% system-wide exposure to Western Canadian Select                                                  Par Pacific System                  219
+                        (WCS) heavy crude 1
+
+
+             LTM 6/30/26 Crude Sourcing                                                                                     LTM 6/30/26 Combined Product Yield
+                                                                                      6% Powder
+                                                                                      River Basin                                                        38% Distillates
+      40% Other
+     Waterborne                                                                                   Inland exposure             5% Other
+                                                                                                  Waterborne exposure         Products
+                                                                                                                            7% Asphalt
+         4% ANS                                                                                15% Bakken
+
+                                                                                                                                                          36% Gasoline
+                                                                                  19% Canadian
+                                                                                  Heavy                                            14% LSFO
+                           16% Other Inland                                                                             4
+1.    Distillate & LSFO yield and WCS exposure as of the last twelve months ended 6/30/2026.
+                                                        Distillate-Oriented Yield Profile
+                        Distillate Cracks ($/bbl)                                                                  Advantaged Distillate Yield % 1
+$100
+$90
+$80
+                                                                                                            52%
+$70
+$60
+$50
+$40                                                                                                                                       41%
+                                                                                                                                                                         39%                           38%
+$30
+$20
+$10
+  $-
+
+
+
+
+        Jul-25
+        Jul-19
+
+
+
+
+        Jul-20
+
+
+
+
+        Jul-21
+
+
+
+
+        Jul-22
+
+
+
+
+        Jul-23
+
+
+
+
+        Jul-24
+
+
+
+
+        Jul-26
+       Apr-23
+       Apr-19
+
+
+
+
+       Apr-20
+
+
+
+
+       Apr-21
+
+
+
+
+       Apr-22
+
+
+
+
+       Apr-24
+
+
+
+
+       Apr-25
+
+
+
+
+       Apr-26
+       Jan-19
+
+
+
+
+       Jan-20
+
+
+
+
+       Jan-21
+
+
+
+
+       Jan-22
+
+
+
+
+       Jan-23
+
+
+
+
+       Jan-24
+
+
+
+
+       Jan-25
+
+
+
+
+       Jan-26
+       Oct-19
+
+
+
+
+       Oct-20
+
+
+
+
+       Oct-21
+
+
+
+
+       Oct-22
+
+
+
+
+       Oct-23
+
+
+
+
+       Oct-24
+
+
+
+
+       Oct-25
+       NYH ULSD crack to WTI   USGC ULSD crack to WTI     Spore Gasoil .001% crack to Brent
+
+
+                   LTM 6/30/26 Par Pacific Yield
+                                                         52% Distillates &
+                                                         Low Sulfur Fuel Oil
+12% Asphalt,
+VGO & Other
+
+                                                                                                  1.   Par Pacific distillate yields are based on results for the twelve months ended 6/30/2026. Peer distillate yields are
+                                                                                                       based on results for the twelve months ended 12/31/2025, as presented in their respective 12/31/2025 SEC filings.
+
+
+
+
+                                                                                              5
+           36% Gasoline
+                                    Multimodal Logistics System
+
+  Diverse logistics assets enable
+   flexibility and development
+of integrated downstream system
+
+
+
+
+                                                 6
+                                   Leading Retail Position in Attractive Markets
+Hawaii Retail
+• 87 locations across four islands
+• 33 company-operated convenience stores
+• Scarcity of land, high real estate costs and logistics complexity
+  strengthen competitive position
+• Dual-branded retail network to attract and retain broad
+  customer base
+      • Hele – proprietary local brand
+      • 76 – exclusive license
+• Expanding merchandise and food service offerings
+
+
+Northwest Retail
+• 29 company-operated locations in Washington and Idaho                                                    $68                          $76   $86        $77
+                                                                              $60
+• Proprietary nomnom brand
+• Attractive fuel supply opportunities enhancing margins
+                                                                             2022                        2023                         2024    2025   LTM 6/30/26
+• Expanding merchandising assortment and food offerings to
+  drive and increase margin capture
+                                                                                    Stable Adjusted EBITDA Contribution Through
+                                                                                               Various Market Cycles
+                                                                          Chart in $ millions. See appendix for non-GAAP reconciliations.
+
+                                                                      7
+                   Growing Contribution from Retail and Logistics Segments
+                                                                      Trending Retail & Logistics Adj. EBITDA ($MM) 1
+
+
+
+                                                                                                                        $212      $205
+                                                                                                     $196
+
+                                                                                     $165
+
+                                          $135                                                                          $126
+                                                                                                     $120                         $128
+
+                                                                                     $97
+                                           $74
+
+
+
+
+                                                                                                     $76                $86        $77
+                                           $60                                       $68
+
+
+
+                                         2022                                        2023            2024               2025   LTM 6/30/26
+
+                                                                                            Retail          Logistics
+
+
+                                                   Targeted term debt of 3-4x Retail and Logistics annual Adjusted EBITDA
+
+1. See appendix for non-GAAP reconciliations. Totals may not foot due to rounding.
+
+                                                                                                     8
+                                                                        Hawaii Renewables
+                       Hawaii Renewable Fuels Project                                                                 Hawaii Renewables JV Simplified Structure
+•   Renewable fuels facility capable of producing Renewable Diesel (RD), Sustainable
+    Aviation Fuel (SAF), and Renewable Naphtha
+
+•   Highly capital and operating efficient project, delivering 61 million gallons per year,
+                                                                                                   Mitsubishi                           ENEOS
+    leveraging Par Pacific’s existing resources, utilities, and distribution network,             Corporation                         Corporation
+    including pipeline connection to Honolulu Airport
+
+•   Flexibility to produce up to 60% SAF or 90% RD yield
+•   Produced on-specification RD in April 2026
+
+
+                      Hawaii Renewables Joint Venture
+•   Par Pacific announced the closing of Hawaii Renewables, a strategic joint venture
+                                                                                                                Alohi Renewable                                                  Par Pacific
+    with Mitsubishi Corporation and ENEOS Corporation, in October 2025                                               Energy                                                       Holdings
+•   Par Pacific contributed the renewable fuels project and retained a 63.5% controlling
+    ownership interest in Hawaii Renewables; Par Hawaii Refining operates the joint
+    venture
+                                                                                                                                      36.5%                                    63.5%
+•   Mitsubishi and ENEOS, through Alohi Renewable Energy, contributed $100 million to
+    Hawaii Renewables for a 36.5% ownership interest
+•   Strategic partnership brings commercial synergies, including global feedstock                                                                      Hawaii                          Operator                Par Hawaii
+    sourcing and market and customer access in the Asia-Pacific region, including                                                                    Renewables                                                 Refining
+    California
+                                                                                                  Note: Chart omits certain intermediate subsidiaries between parent and operating subsidiaries for brevity.
+
+
+
+                                                                                              9
+                                                                                           Strong Balance Sheet Position 1
+                                                        Total Liquidity 2                                                                     Term Debt / LTM Retail & Logistics Adj. EBITDA 3
+                                                                                                                                                               3-4x Target
+
+
+                                                                                                                    $1,412
+
+                                                                                              $915
+                       $577                    $644                   $614
+
+                                                                                                                                                 3.8x           3.3x         3.3x         3.0x        2.5x
+
+                  12/31/2022              12/31/2023             12/31/2024              12/31/2025              6/30/2026                    12/31/2022     12/31/2023   12/31/2024   12/31/2025   6/30/2026
+
+
+
+                                 Funded Working Capital Financing 4                                                                                      Net Working Capital, excl. Cash 5
+
+
+
+                                                                                                                                                                                                      $936
+
+                        $893                                                                                                                                                $484          $506
+                                                                                                                                                               $186
+                                               $709                    $677
+
+                                                                                                                      $405                      ($403)
+                                                                                              $336
+
+
+
+                    12/31/2022             12/31/2023             12/31/2024              12/31/2025              6/30/2026                   12/31/2022     12/31/2023   12/31/2024   12/31/2025   6/30/2026
+1. See appendix for non-GAAP reconciliations. All dollar values presented in millions.
+2. Total Liquidity consists of cash and cash equivalents and availability under the ABL Credit Facility.
+3. Term Debt excludes drawn portion of ABL Credit Facility related to working capital funding.                                           10
+4. Calculated as Intermediation Obligations and ABL Drawn Amount. Includes Hawaii Renewables Intermediation facility as of 12/31/2025.
+5. Calculated as Current Assets excluding Cash and Cash Equivalents, less Current Liabilities.
+                                                            Enhanced Financial Flexibility and Cost of Capital
+                           Funded Working Capital Financing versus Hydrocarbon and Renewable Inventory & Accounts Receivable (AR) 1
+
+                                  90%                                                       1                                                  3                                                                            4
+
+                                                                                            2
+
+
+
+                                                                                            59%
+                                                                                                                                                   56%
+
+
+                                                                                                                                                                                                                 $1,491
+                                                                                                  $115
+                                                                              $1,203                                                  $1,206                                         34%
+                      $987                                                                                                                                                  $995                                                27%
+                                         $893                                                                                                        $483
+                                                                                                  $594                                                                                                                          $243
+                                                                                                                                                                                       $175
+
+                                                                                                                                                     $194                              $161                                     $162
+
+                                    12/31/2022                                               12/31/2023                                            12/31/2024                       12/31/2025                               6/30/2026
+
+                                   Hydrocarbon and Renewable Inventory & AR                                 Intermediation Obligations                   ABL Drawn Amount          Percent Borrowed Against Hydrocarbon and Renewable Inventory & AR
+
+
+               1            June 2023 - Completed Billings Acquisition and upsized ABL from $150 million to $600 million.
+
+               2            October 2023 - Terminated Tacoma intermediation facility and upsized ABL from $600 million to $900 million, reducing cash funding costs by approximately $6 million annually.
+                            June 2024 - Replaced legacy Hawaii intermediation with smaller, crude-only intermediation and upsized ABL from $900 million to $1.4 billion, further reducing cash funding costs by
+               3
+                            approximately $10 million annually.
+               4            May 2026 - Extended and upsized ABL from $1.4 billion to $1.8 billion, providing further availability and financial flexibility.
+
+1. All dollar values presented in millions. Funded Working Capital Financing includes obligations under Inventory Financing Agreements and
+drawn portion of ABL Credit Facility. Percent Borrowed Against Hydrocarbon Inventory and AR is calculated as Funded Working Capital
+Financing divided by the book value of Hydrocarbon Inventory and AR. Hydrocarbon inventories are stated at the lower of cost and net                 11
+realizable value and include crude oil and feedstocks and refined products and blendstock.
+
+Note: Intermediation Obligations includes Hawaii Renewables Intermediation facility as of 12/31/2025.
+                                                                        Mid-Cycle Financial Profile
+Refining Assumptions 1, 2
+                                              Hawaii           Wyoming           Washington           Montana           Combined          Par Pacific Mid-Cycle ($MM) 1
+$/bbl unless otherwise noted
+
+Regional Index                              $8.00 – 9.00     $17.50 – 18.50       $8.50 – 9.50       $16.00 – 17.00    $11.00 – 12.00     Refining, excl. Small Refinery Exemption (SRE)           $365 - 395
+
+Capture %                                   105 – 115%          90 – 100%          85 – 95%            90 – 100%         95 – 105%        Logistics                                                   125
+
+Midpoint Throughput (bpd)                      85,000            17,500              40,000             55,000        195,000 – 200,000   Retail                                                      85
+
+Production Costs                            $4.25 – 4.75       $7.75 – 8.25       $3.75 – 4.25       $9.75 – 10.25      $6.00 – 6.50      Renewables 3                                                 -
+
+See appendix for historical regional index, USGC, and Singapore pricing, and footnote disclosures.                                        Corporate                                                   (90)
+
+                                                                                                                                          Mid-Cycle Adjusted EBITDA 4                              $485 – 515
+
+                                                                                                                                          Normalized Maintenance Capex & Amortized Turnarounds 5     (125)
+
+                                                                                                                                          Cash Interest 6                                             (50)
+
+                                                                                                                                          Cash Taxes 7                                                (10)
+
+                                                                                                                                          Modified Levered Free Cash Flow 4, 8                     $300 – 330
+
+                                                                                                                                          Potential SRE Benefit 9                                  170 - 340
+
+                                                                                                                                          Modified Levered Free Cash Flow incl. Potential SRE
+                                                                                                                                                                                                   $470 – 670
+                                                                                                                                          Benefit 4
+
+                                                                                                                                          6/30/26 Share Count (MM shares)                             49.3
+
+
+
+
+                                                                                                           12
+                       Accretive Shareholder Returns
+             ~20% reduction in shares outstanding following the Billings acquisition
+
+                               Opportunistic Share Repurchase History
+
+
+65                                                                                                                      $400
+
+
+                                                                                                                        $350
+      61
+                                                                                                                 $351
+60                                                                                                                      $300
+
+
+                                                                                                                        $250
+
+
+55                                                                                                                      $200
+
+
+                                                                                                                        $150
+
+
+50                                                                                                               49     $100
+
+
+                                                                                                                        $50
+
+
+45                                                                                                                      $0
+     Q2-23     Q3-23   Q4-23    Q1-24   Q2-24   Q3-24      Q4-24   Q1-25   Q2-25   Q3-25    Q4-25       Q1-26   Q2-26
+
+                          Ending Share Count (MM shares)           Cumulative Share Repurchases ($MM)
+
+
+
+                                                            13
+                                                              Capital Expenditure and Turnaround Summary
+                                                                                                                                                          $250
+
+                                                                                                       $209                                                                                             $190 - 220
+                                                                                                                                                          $101
+                                                                                                        $74                                                                                               $50 - 60
+                                                                                                                                                                                                                                                               $125
+                                                                                                                                                           $54                                            $35 - 45
+                                                      $88                                               $48                                                                                                                                                    $45
+                                                       $6
+                                                      $36                                                                                                                                               $105 - 115
+                                                                                                        $87                                                $95                                                                                                 $80
+                                                      $46
+
+                                                     2023                                              2024                                              2025                                      2026 Guidance1                                 Midcycle Guidance
+
+                                                                                                              Maintenance                           Growth                    Turnarounds
+
+
+                                                                                              Normalized Annual                                                                                                                Upcoming Major
+                       Location                                                                                                                                              Cycle
+                                                                                             Turnaround Outlay 2                                                                                                                 Turnaround
+                       Hawaii                                                                       $8 - 10 million                                                        5 years                                                          2026
+                       Washington                                                                    $7 - 8 million                                                        6 years                                                          2028
+                       Wyoming                                                                       $4 - 6 million                                                        5 years                                                          2027
+                       Montana                                                                     $24 - 26 million                                                      5-6 years                                                          2029
+Chart in $ millions.
+1.    2026 turnaround guidance includes approximately $10MM for planned maintenance in Washington. 2026 Maintenance cost includes approximately $20MM in catalyst costs, $15MM in Hawaii single point mooring (SPM) investments, and $10MM on Montana reliability investments. 2026 growth guidance includes
+      approximately $30MM in refining and logistics growth investments and $10MM in retail growth investments.
+2.    Expected annual spend over a 10-year cycle.
+                                                                                                                                                 14
+                           Company Highlights
+
+
+1   Growth Profile Underpinned by Successful Acquisitions
+
+
+
+2   Strong Balance Sheet
+
+
+
+3   Portfolio of Valuable Opportunities to Drive Future Growth
+
+
+
+4   Downside Protection from Diversified Businesses
+
+
+
+5   Federal Tax Attributes Enhance Free Cash Flow
+
+
+
+
+                                              15
+Appendix
+
+
+
+
+   16
+                                                                                                       Hawaii Index
+                                        50.00
+
+                                        45.00
+
+                                        40.00
+
+                                        35.00
+
+                                        30.00
+
+                                        25.00
+
+                                        20.00
+                                                                                                                                                       14.51
+                                        15.00
+
+                                        10.00
+
+                                         5.00
+
+                                            -
+                                                    Q1-23       Q2-23       Q3-23       Q4-23      Q1-24       Q2-24       Q3-24      Q4-24       Q1-25       Q2-25       Q3-25      Q4-25       Q1-26       Q2-26
+
+                                                                                                              Hawaii Index                5-Yr Average
+
+($/bbl)                         Q1-23        Q2-23         Q3-23          Q4-23          Q1-24          Q2-24         Q3-24          Q4-24          Q1-25          Q2-25         Q3-25          Q4-25          Q1-26            Q2-26   3-Yr Avg 5-Yr Avg 10-Yr Avg
+Hawaii Index                    13.32         8.43         17.88          12.48          12.07           7.41          4.49           5.52           8.13           8.57         10.27          15.38          31.11            46.06    14.92    14.51     10.37
+Singapore 3-1-2 Product Crack   21.22        13.72         23.39          19.44          18.67          12.49         11.00          11.69          13.12          13.56         16.34          21.43          36.01            49.99    20.57    20.03     14.18
+
+
+
+                                Three, five, and ten year averages are based on the quarterly averages for the referenced periods.
+                                We believe the Hawaii Index is the most representative market indicator for our operations in Hawaii. The Hawaii Index is calculated as the Singapore 3-1-2 Product Crack, or 1 part gasoline
+                                (RON 92) and 2 parts middle distillates (Sing Jet & Sing Gasoil) as created from a barrel of Brent Crude, less the Par Hawaii Crude Differential.
+
+
+
+                                                                                                                             17
+                                                                                                  Wyoming Index
+                                      35.00
+
+
+                                      30.00
+
+
+                                      25.00                                                                                                           21.27
+
+
+                                      20.00
+
+
+                                      15.00
+
+
+                                      10.00
+
+
+                                        5.00
+
+
+                                           -
+                                                   Q1-23       Q2-23       Q3-23       Q4-23       Q1-24       Q2-24        Q3-24       Q4-24       Q1-25       Q2-25       Q3-25       Q4-25       Q1-26       Q2-26
+
+                                                                                                             Wyoming Index                   5-Yr Average
+
+
+($/bbl)                       Q1-23        Q2-23          Q3-23          Q4-23          Q1-24          Q2-24          Q3-24          Q4-24           Q1-25          Q2-25          Q3-25          Q4-25          Q1-26          Q2-26   3-Yr Avg 5-Yr Avg 10-Yr Avg
+Wyoming Index                 27.89        23.11          30.32          16.58          17.23          17.45          17.56          13.36           20.31          21.41          19.87          18.31          19.30          28.73    20.03    21.27     17.25
+Wyoming 2-1-1 Product Crack   31.87        26.14          33.38          18.70          18.06          19.33          20.23          16.00           21.74          22.68          22.22          20.83          22.22          36.77    22.68    24.74     19.43
+USGC 2-1-1 Product Crack      32.24        21.57          31.60          18.38          24.20          19.13          14.88          12.49           15.89          17.20          20.14          20.72          25.71          40.32    21.71    23.50     17.98
+
+
+                               Three, five, and ten year averages are based on the quarterly averages for the referenced periods.
+                               We believe the Wyoming Index is the most representative market indicator for our operations in Wyoming. The Wyoming Index is calculated as the Wyoming 2-1-1 Product Crack, or 1 part gasoline
+                               (Rockies gasoline) and 1 part distillate (USGC ULSD and USGC Jet) as created from a barrel of WTI crude, less 100% of the RVO cost for gasoline and ULSD, less the Bakken Guernsey crude
+                               differential to WTI on a one-month lag, less other cost of sales, including inflation-adjusted product delivery costs and yield loss expense, based on historical averages and management estimates.
+                               The USGC 2-1-1 Product Crack is included in the table above for reference and is calculated using the same products as the Wyoming 2-1-1 Product Crack and USGC pricing.
+
+
+                                                                                                                              18
+                                                                                                                   Montana Index
+                                                        35.00
+
+
+                                                        30.00
+
+
+                                                        25.00
+
+                                                                                                                                                                    18.74
+                                                        20.00
+
+
+                                                        15.00
+
+
+                                                        10.00
+
+
+                                                         5.00
+
+
+                                                             -
+                                                                     Q1-23       Q2-23       Q3-23       Q4-23       Q1-24       Q2-24       Q3-24       Q4-24       Q1-25       Q2-25       Q3-25       Q4-25       Q1-26       Q2-26
+
+                                                                                                                              Montana Index                   5-Yr Average
+
+
+($/bbl)                              Q1-23           Q2-23           Q3-23           Q4-23           Q1-24            Q2-24           Q3-24           Q4-24           Q1-25           Q2-25           Q3-25           Q4-25           Q1-26           Q2-26          3-Yr Avg      5-Yr Avg 10-Yr Avg
+Montana Index                        21.81           30.14           28.04           14.80           17.09            19.15           15.32            5.75            7.07           20.29           17.99           11.14            4.84           25.76           15.62         18.74     15.56
+Montana 6-3-2-1 Product Crack        22.36           36.04           38.47           23.56           19.17            25.50           26.08           15.31           17.02           29.00           30.37           21.18           15.08           36.64           24.80         27.17     21.68
+USGC 6-3-2-1 Product Crack           21.08           17.33           23.51           11.87           17.40            14.41           11.53            9.22           11.89           14.86           17.15           16.77           14.36           30.17           16.09         17.37     13.55
+                       Three, five, and ten year averages are based on the quarterly averages for the referenced periods.
+                       We believe the Montana Index is the most representative market indicator for our operations in Montana. The Montana Index is calculated as the Montana 6-3-2-1 Product Crack, less Montana crude costs, less other costs of sales, including
+                       inflation-adjusted product delivery costs, yield loss expense, taxes and tariffs, and product discounts. The Montana 6.3.2.1 Product Crack is calculated by taking 3 parts gasoline (Billings E10 and Spokane E10), 2 parts distillate (Billings ULSD and
+                       Spokane ULSD), and 1 part asphalt (Rocky Mountain Rail Asphalt) as created from a barrel of WTI Crude, less 100% of the RVO cost for gasoline & ULSD. Asphalt pricing is lagged by one-month. The Montana crude cost is calculated as 60% WCS
+                       differential to WTI, 20% MSW differential to WTI, and 20% Syncrude differential to WTI. The Montana crude cost is lagged by three-months and includes an inflation-adjusted crude delivery cost. Other costs of sales and crude delivery costs are
+                       based on historical averages and management estimates. The USGC 6-3-2-1 Crack is included in the table above for reference and is calculated using the same products as the Montana 6-3-2-1 Product Crack and USGC pricing.
+
+
+                                                                                                                                               19
+                                                                                                               Washington Index
+                                                       25.00
+
+
+
+                                                       20.00
+
+
+
+                                                       15.00
+                                                                                                                                                                     10.97
+
+                                                       10.00
+
+
+
+                                                         5.00
+
+
+
+                                                            -
+
+
+
+                                                        (5.00)
+                                                                    Q1-23       Q2-23       Q3-23       Q4-23        Q1-24       Q2-24       Q3-24       Q4-24       Q1-25       Q2-25       Q3-25       Q4-25       Q1-26       Q2-26
+
+                                                                                                                            Washington Index                    5-Yr Average
+
+
+($/bbl)                                   Q1-23           Q2-23          Q3-23           Q4-23           Q1-24          Q2-24           Q3-24          Q4-24           Q1-25           Q2-25          Q3-25           Q4-25          Q1-26           Q2-26         3-Yr Avg       5-Yr Avg 10-Yr Avg
+Washington Index                           9.80           10.18          14.00            5.23            5.16           7.25            4.47          (0.62)           4.15           15.37          16.66            8.60           8.20           20.27           9.06          10.97     9.64
+Washington 3-1-1-1 Product Crack          16.78           19.76          24.20           10.83           11.50          15.76           12.62           8.29           12.01           24.16          26.14           17.03          16.55           33.75          17.74          19.74     16.12
+USGC 3-1-1-1 Product Crack                20.19           15.96          21.83           12.43           17.52          13.81           10.95           9.77           12.72           14.41          16.75           16.47          14.34           29.92          15.91          17.05     13.36
+
+                    Three, five, and ten year averages are based on the quarterly averages for the referenced periods.
+                    We believe the Washington Index is the most representative market indicator for our operations in Washington. The Washington Index is calculated as the Washington 3-1-1-1 Product Crack, less Washington crude costs, less other costs of sales,
+                    including inflation-adjusted product delivery costs, yield loss expense and state and local taxes. The Washington 3.1.1.1 Product Crack is calculated by taking 1 part gasoline (Tacoma E10), 1 part distillate (Tacoma ULSD) and 1 part secondary products
+                    (USGC VGO and Rocky Mountain Rail Asphalt) as created from a barrel of WTI Crude, less 100% of the RVO cost for gasoline & ULSD. Asphalt pricing is lagged by one-month. The Washington crude cost is calculated as 67% Bakken Williston differential to
+                    WTI and 33% WCS Hardisty differential to WTI. The Washington crude cost is lagged by one-month and includes an inflation-adjusted crude delivery cost. Other costs of sales and crude delivery costs are based on historical averages and management’s
+                    estimates. The USGC 3-1-1-1 Product Crack is included in the table above for reference and is calculated using the same products as the Washington 3-1-1-1 Product Crack and USGC pricing.
+
+                                                                                                                                               20
+                                                                                     Corporate Structure
+
+                                                                                                Par Pacific Holdings Inc.
+                                                                                                      NYSE: PARR
+
+                                                                                                                                                                                               Yellowstone                    Yellowstone                       Hawaii
+                                                                                                                                                                 Laramie
+                                                                                                                                                                                              Energy Limited                   Pipe Line                      Renewables,
+                                                                                                                                                                Energy, LLC
+                              $500 MM 7.375%                                                                                                                                                   Partnership                     Company                            LLC
+                                                                                                                                                                46% Interest
+                         Senior Notes, due 2034                                                                                                                                                  65% Interest                  40% Interest                   63.5% Interest
+                                                                                                     Par Petroleum, LLC
+                                ABL Credit Facility,
+                                       due 2031 1
+                                                                                                                                                                                                                                                               Renewables
+                                                                                                                                                                                                                                                             Intermediation
+
+
+
+
+                                                                               Hermes
+                                                                                                                                                                                                                                           Par Rocky
+ Par Hawaii                                                               Consolidated, LLC                                    U.S. Oil & Refining
+                        Par Hawaii, LLC                                                                                                                                              Par Montana, LLC                                      Mountain
+Refining, LLC                                                              d/b/a Wyoming                                               Co.
+                                                                                                                                                                                                                                         Midstream, LLC
+                                                                          Refining Company
+
+
+     Crude
+Intermediation   Note: Chart omits certain intermediate subsidiaries between parent and operating subsidiaries for brevity. Debt balances outstanding as of June 30, 2026, unless otherwise stated.
+
+                 1.    $1.8B ABL Credit Agreement with a sublimit of $180MM for swingline loans and a sublimit of $600MM for the issuance of standby or commercial letters of credit. Co-borrowers are Par Petroleum, LLC, a Delaware limited liability company, Par Hawaii, LLC,
+                       a Delaware limited liability company, Par Hawaii Refining, LLC, a Delaware limited liability company, Hermes Consolidated, LLC (d/b/a Wyoming Refining Company), a Delaware limited liability company, Wyoming Pipeline Company LLC, a Wyoming limited
+                       liability company, Par Montana, LLC, a Delaware limited liability company, Par Rocky Mountain Midstream, LLC, a Delaware limited liability company, and U.S. Oil & Refining Co, a Delaware corporation.
+
+                                                                                                                          21
+                                                                                  Trended Term Debt
+           $millions                                        12/31/2021                    12/31/2022     12/31/2023   12/31/2024   12/31/2025   6/30/2026
+
+           Total Term Debt 1                                       580                           515          551        644          640         506
+
+              Secured Term Debt                                    580                           515          546        640          634           -
+
+              Unsecured Term Debt                                    -                             -           -          -            -          500
+
+              Other Secured Debt                                     -                             -           5          4            6           6
+
+           Cash and Cash Equivalents                               112                           491          279        192          164         185
+
+           Net Term Debt                                          $468                           $24          $272      $452         $476         $321
+
+
+
+
+1.   Total Term Debt excludes drawn portion of ABL Credit Facility related to working capital funding.
+
+
+
+                                                                                                         22
+                                         Mid-Cycle Financial Profile Footnotes
+
+1. Refining Assumptions and Par Pacific Mid-Cycle Financial Profile updated in December of 2025 to reflect management’s current expectations and assumptions.
+2. Regional Indices are based on management’s estimates of location-specific product pricing and crude differentials. Reference the company’s SEC filings for more
+information on the Regional Indices. Mainland indices also include other costs of sales, approximating yield loss expense, product delivery costs, taxes and tariffs and
+discounts. Capture % is based on management’s estimates of annualized gross margin divided by the midpoint of the Regional Indices. Midpoint Throughput is based on
+management’s estimates of annualized crude throughput rates. Actual crude throughput varies due to seasonality and downtime related to planned
+turnarounds/maintenance and unplanned outages. Production Costs are based on management’s estimates of annualized operating expenditures.
+3. Renewables Mid-Cycle guidance to be provided after commissioning and ramp-up period of Hawaii renewable fuels project.
+4. Because this non-GAAP financial measure is forward-looking and based on management’s current expectations and assumptions, we cannot provide a reconciliation
+to Net Income, the most directly comparable GAAP measure without unreasonable effort.
+5. See slide 14 for more information on Normalized Maintenance Capex and Amortized Turnaround expenditures.
+6. Assumes SOFR rate of 3.25%.
+7. Assumes 3% state-level statutory tax rate. Assumes 0% federal-level tax rate due to NOL carryforward.
+8. Modified Levered Free Cash Flow is defined as Mid-Cycle Adjusted EBITDA less Normalized Maintenance Capex & Amortized Turnarounds less Cash Interest and Taxes.
+Because this non-GAAP financial measure is forward-looking and based on management’s current expectations and assumptions, we cannot provide a reconciliation to
+Net Income, the most directly comparable GAAP measure without unreasonable effort.
+9. Assumes a range of partial to full small refinery exemptions, based on 2026 RVO percentages and Par Pacific’s annual mainland RIN exposure of approximately
+170MM RINs at an average price of $2/RIN.
+
+
+
+
+                                                                                 23
+                                                                                     Non-GAAP Financial Measures
+      Consolidated Adjusted EBITDA by Segment Reconciliation (1)
+      For the twelve months ended June 30, 2026
+      ($ in thousands)
+                                                                                                                                                                                                   Corporate and
+                                                                                                                                   Refining             Logistics                 Retail               Other
+                                                             Operating income (loss)                                             $ 1,116,665          $     98,967           $       65,510        $    (123,493)
+                                                             Adjustments to operating income (loss):
+                                                             Depreciation and amortization                                              105,142                 24,633                10,813                 3,353
+                                                             Inventory valuation adjustment                                            (140,973)                    —                     —                     —
+                                                             Environmental credit mark-to-market adjustments                            (91,425)                    —                     —                     —
+                                                             Unrealized loss on commodity derivatives                                    60,214                     —                     —                     —
+                                                             Acquisition and integration costs                                               —                      —                     —                  4,399
+                                                             Severance costs and other non-operating expense                                 58                     26                    53                   149
+                                                             Par West redevelopment and other costs                                          —                      —                     —                 12,782
+                                                             Par's portion of accounting policy differences from
+                                                             investments                                                                  (1,647)                    —                     —                     —
+                                                             Other operating loss (gain), net                                             (5,486)                   123                   354                   161
+                                                             Par's portion of interest, taxes, and depreciation
+                                                             expense from refining and logistics investments                              3,740                 4,489                     —                     —
+                                                             Other loss, net                                                                 —                     —                      —                   (316)
+                                                             Adjusted EBITDA                                                     $    1,046,288       $       128,238        $        76,730       $      (102,965)
+_____________________________________________
+(1) Adjusted EBITDA by segment is defined as Operating income (loss) by segment excluding depreciation and amortization expense, inventory valuation adjustment (which adjusts for timing differences to reflect the economics of our inventory financing agreements, including
+     lower of cost or net realizable value adjustments, the impact of the embedded derivative repurchase or terminal obligations, hedge losses (gains) associated with our Washington ending inventory and intermediation obligation, purchase price allocation adjustments, and
+     LIFO layer increment and decrement impacts associated with our Washington inventory), Environmental obligation mark-to-market adjustments (which represents the mark-to-market losses (gains) associated with our net RINs liability and net obligation associated with the
+     Washington CCA and Clean Fuel Standard), unrealized (gain) loss on derivatives, acquisition and integration costs, redevelopment and other costs related to Par West, severance costs and other non-operating expense (income), other operating (gain) loss, impairment
+     expense, Par's portion of interest, taxes, and D&A expense from refining and logistics investments, and Par's portion of accounting policy differences from refining and logistics investments. Adjusted EBITDA by segment also includes Gain on curtailment of pension
+     obligation and Other income (loss), net, which are presented below Operating income (loss) on our condensed consolidated statements of operations. Beginning with financial results reported in the first quarter of 2024, Adjusted Net Income (loss) also excludes other non-
+     operating income and expenses. This modification improves comparability between periods by excluding income and expenses resulting from non-operating activities. Effective as of the fourth quarter of 2024, we have modified our definition of Adjusted Gross Margin,
+     Adjusted Net Income (Loss) and Adjusted EBITDA to align the accounting treatment for deferred turnaround costs from our refining and logistics investments with our accounting policy. Under this approach, we exclude our share of their turnaround expenses, which are
+     recorded as period costs in their financial statements, and instead defer and amortize these costs on a straight-line basis over the period estimated until the next planned turnaround. This modification enhances consistency and comparability across reporting periods.
+     Beginning with the financial results reported for the fourth quarter of 2025, Adjusted EBITDA by segment also excludes other operating gains and losses (which primarily includes the impacts of the noncash remeasurement of our environmental liabilities). This modification
+     improves comparability between periods by excluding non-cash gains and losses that do not reflect ongoing underlying business operations. Adjusted EBITDA by segment presented by other companies may not be comparable to our presentation as other companies may
+     define these terms differently. For the twelve months ended June 30, 2026, there was no change in value of contingent consideration, change in value of common stock warrants, impairment expense, impairments associated with our investment in Laramie Energy, or our
+     share of Laramie Energy’s asset impairment losses in excess of our basis difference.
+                                                                                                                                       24
+                                                                                     Non-GAAP Financial Measures
+      Consolidated Adjusted EBITDA by Segment Reconciliation (1)
+      For the twelve months ended December 31, 2025
+      ($ in thousands)
+                                                                                                                                                                                                    Corporate and
+                                                                                                                                   Refining              Logistics                 Retail               Other
+                                                             Operating income (loss)                                             $    487,032          $     97,558           $       74,706        $    (120,538)
+                                                             Adjustments to operating income (loss):
+                                                             Depreciation and amortization                                               104,385                 26,040                10,791                 3,109
+                                                             Inventory valuation adjustment                                              (27,200)                    —                     —                     —
+                                                             Environmental credit mark-to-market adjustments                             (14,360)                    —                     —                     —
+                                                             Unrealized loss on commodity derivatives                                    (26,664)                    —                     —                     —
+                                                             Acquisition and integration costs                                                —                      —                     —                  4,335
+                                                             Severance costs and other non-operating expense                                 259                    206                    44                   989
+                                                             Par West redevelopment and other costs                                           —                      —                     —                 14,793
+                                                             Par's portion of accounting policy differences from
+                                                             investments                                                                   (2,523)                   —                      —                      —
+                                                             Other operating loss (gain), net                                              (6,165)               (1,419)                   355                     9
+                                                             Par's portion of interest, taxes, and depreciation
+                                                             expense from refining and logistics investments                               4,485                 3,954                     —                     —
+                                                             Other loss, net                                                                  —                     —                      —                   (665)
+                                                             Adjusted EBITDA                                                     $       519,249       $       126,339        $        85,896       $       (97,968)
+_____________________________________________
+(1) Adjusted EBITDA by segment is defined as Operating income (loss) by segment excluding depreciation and amortization expense, inventory valuation adjustment (which adjusts for timing differences to reflect the economics of our inventory financing agreements, including
+     lower of cost or net realizable value adjustments, the impact of the embedded derivative repurchase or terminal obligations, hedge losses (gains) associated with our Washington ending inventory and intermediation obligation, purchase price allocation adjustments, and
+     LIFO layer increment and decrement impacts associated with our Washington inventory), Environmental obligation mark-to-market adjustments (which represents the mark-to-market losses (gains) associated with our net RINs liability and net obligation associated with the
+     Washington CCA and Clean Fuel Standard), unrealized (gain) loss on derivatives, acquisition and integration costs, redevelopment and other costs related to Par West, severance costs and other non-operating expense (income), other operating (gain) loss, impairment
+     expense, Par's portion of interest, taxes, and D&A expense from refining and logistics investments, and Par's portion of accounting policy differences from refining and logistics investments. Adjusted EBITDA by segment also includes Gain on curtailment of pension
+     obligation and Other income (loss), net, which are presented below Operating income (loss) on our condensed consolidated statements of operations. Beginning with financial results reported in the first quarter of 2024, Adjusted Net Income (loss) also excludes other non-
+     operating income and expenses. This modification improves comparability between periods by excluding income and expenses resulting from non-operating activities. Effective as of the fourth quarter of 2024, we have modified our definition of Adjusted Gross Margin,
+     Adjusted Net Income (Loss) and Adjusted EBITDA to align the accounting treatment for deferred turnaround costs from our refining and logistics investments with our accounting policy. Under this approach, we exclude our share of their turnaround expenses, which are
+     recorded as period costs in their financial statements, and instead defer and amortize these costs on a straight-line basis over the period estimated until the next planned turnaround. This modification enhances consistency and comparability across reporting periods.
+     Beginning with the financial results reported for the fourth quarter of 2025, Adjusted EBITDA by segment also excludes other operating gains and losses (which primarily includes the impacts of the noncash remeasurement of our environmental liabilities). This modification
+     improves comparability between periods by excluding non-cash gains and losses that do not reflect ongoing underlying business operations. Adjusted EBITDA by segment presented by other companies may not be comparable to our presentation as other companies may
+     define these terms differently. For the twelve months ended December 31, 2025, there was no change in value of contingent consideration, change in value of common stock warrants, impairment expense, impairments associated with our investment in Laramie Energy, or
+     our share of Laramie Energy’s asset impairment losses in excess of our basis difference.
+                                                                                                                                       25
+                                                                                                      Non-GAAP Financial Measures
+           Consolidated Adjusted EBITDA by Segment Reconciliation (1)
+           For the twelve months ended December 31, 2024
+           ($ in thousands)
+                                                                                                                                                                                                                                 Corporate and
+                                                                                                                                                  Refining                    Logistics                     Retail                   Other
+                                                                    Operating income (loss)                                                 $          17,412           $          89,351           $          64,800           $     (123,935)
+                                                                    Adjustments to operating income (loss):
+                                                                    Depreciation and amortization                                                         91,108                      27,033                      11,037                        2,412
+                                                                    Inventory valuation adjustment                                                          (490)                         —                           —                            —
+                                                                    Environmental credit mark-to-market
+                                                                    adjustments                                                                         (19,136)                            —                            —                         —
+                                                                    Unrealized loss on commodity derivatives                                             43,281                             —                            —                         —
+                                                                    Acquisition and integration costs                                                        —                              —                            —                        100
+                                                                    Severance costs and other non-operating
+                                                                    expense (2)                                                                               642                           —                         154                     14,006
+                                                                    Par West redevelopment and other costs                                                     —                            —                          —                      12,548
+                                                                    Par's portion of accounting policy differences
+                                                                    from investments                                                                       3,856                           —                            —                          —
+                                                                    Loss (gain) on sale of assets, net                                                         8                          124                          (10)                       100
+                                                                    Par's portion of interest, taxes, and depreciation
+                                                                    expense from refining and logistics investments                                       2,493                       3,651                           —                           —
+                                                                    Other income/expense                                                                     —                           —                            —                       (1,869)
+                                                                    Adjusted EBITDA                                                         $           139,174         $           120,159         $             75,981        $            (96,638)
+
+_____________________________________________
+(1)   Adjusted EBITDA by segment is defined as Operating income (loss) by segment excluding depreciation and amortization expense, inventory valuation adjustment (which adjusts for timing differences to reflect the economics of our inventory financing agreements, including lower of cost or net realizable value
+      adjustments, the impact of the embedded derivative repurchase or terminal obligations, hedge losses (gains) associated with our Washington ending inventory and intermediation obligation, purchase price allocation adjustments, and LIFO layer increment and decrement impacts associated with our Washington
+      inventory), Environmental obligation mark-to-market adjustments (which represents the mark-to-market losses (gains) associated with our net RINs liability and net obligation associated with the Washington CCA and Clean Fuel Standard), unrealized (gain) loss on derivatives, acquisition and integration costs,
+      redevelopment and other costs related to Par West, severance costs and other non-operating expense (income), other operating (gain) loss, impairment expense, Par's portion of interest, taxes, and D&A expense from refining and logistics investments, and Par's portion of accounting policy differences from refining and
+      logistics investments. Adjusted EBITDA by segment also includes Gain on curtailment of pension obligation and Other income (loss), net, which are presented below Operating income (loss) on our condensed consolidated statements of operations. Beginning with financial results reported for periods in fiscal year 2022,
+      the inventory valuation adjustment was modified to include the first-in, first-out (“FIFO”) inventory gains (losses) associated with our titled manufactured inventory in Hawaii. Beginning with financial results reported for the second quarter of 2022, Adjusted Net Income and Adjusted EBITDA also exclude the mark-to-
+      market losses (gains) associated with our net RINs liability. Beginning with the financial results reported in the first quarter of 2023, Adjusted Net Income and Adjusted EBITDA also exclude the mark-to-market losses (gains) associated with our net Washington CCA liability and the redevelopment and other costs of our
+      Par West facility. Beginning with financial results reported for the second quarter of 2023, Adjusted Gross Margin, Adjusted Net Income (Loss), and Adjusted EBITDA also exclude our portion of interest, taxes, and depreciation expense from our refining and logistics investments. This modification was made to better
+      reflect our operating performance and to improve comparability between periods. Adjusted EBITDA by segment has been recast for prior periods when reported to conform to the modified presentation. Beginning with financial results reported in the first quarter of 2024, Adjusted Net Income (loss) also excludes other
+      non-operating income and expenses. This modification improves comparability between periods by excluding income and expenses resulting from non-operating activities. Effective as of the fourth quarter of 2024, we have modified our definition of Adjusted Gross Margin, Adjusted Net Income (Loss) and Adjusted
+      EBITDA to align the accounting treatment for deferred turnaround costs from our refining and logistics investments with our accounting policy. Under this approach, we exclude our share of their turnaround expenses, which are recorded as period costs in their financial statements, and instead defer and amortize these
+      costs on a straight-line basis over the period estimated until the next planned turnaround. This modification enhances consistency and comparability across reporting periods. Adjusted EBITDA by segment presented by other companies may not be comparable to our presentation as other companies may define these
+      terms differently. For the twelve months ended December 31, 2024, there was no gain on curtailment of pension obligation and no change in value of common stock warrants, impairment expense, impairments associated with our investment in Laramie Energy, or our share of Laramie Energy's asset impairment losses
+
+(2)
+      in excess of our basis difference.                                                                                                                       26
+      For the year ended December 31, 2024, we incurred $13.1 million of stock based compensation expenses associated with accelerated vesting of equity awards and modification of vested equity awards related to our CEO transition and $0.8 million for a legal settlement unrelated to current operating activities.
+                                                                                   Non-GAAP Financial Measures
+   Consolidated Adjusted EBITDA by Segment Reconciliation (1)
+   For the twelve months ended December 31, 2023
+   ($ in thousands)
+                                                                                                                                                                                              Corporate and
+                                                                                                                       Refining                 Logistics                  Retail                 Other
+                                                  Operating income (loss)                                         $         676,161        $           69,744       $           56,603       $        (122,502)
+                                                  Adjustments to operating income (loss):
+                                                  Depreciation and amortization                                              81,017                    25,122                   11,462                     2,229
+                                                  Inventory valuation adjustment                                            102,710                        —                        —                         —
+                                                  Environmental credit mark-to-market
+                                                  adjustments                                                              (189,783)                         —                        —                        —
+                                                  Unrealized loss on commodity derivatives                                   (50,511)                        —                        —                      —
+                                                  Acquisition and integration costs                                               —                          —                        —                  17,482
+                                                  Severance costs and other non-operating
+                                                  expense                                                                         100                        —                       580                  1,105
+                                                  Par West redevelopment and other costs                                           —                         —                        —                  11,397
+                                                  Loss (gain) on sale of assets, net                                              219                        —                      (308)                    30
+                                                  Par's portion of interest, taxes, and depreciation
+                                                  expense from refining and logistics investments                             1,586                     1,857                       —                        —
+                                                  Other income/expense                                                           —                         —                        —                       (53)
+                                                  Adjusted EBITDA                                                 $         621,499        $           96,723       $           68,337       $          (90,312)
+
+_____________________________________________
+(1) Adjusted EBITDA by segment is defined as Operating income (loss) by segment excluding depreciation and amortization expense, inventory valuation adjustment (which adjusts for timing differences to reflect the economics of our inventory financing agreements,
+     including lower of cost or net realizable value adjustments, the impact of the embedded derivative repurchase or terminal obligations, contango (gains) and backwardation losses associated with our Washington inventory and intermediation obligation, and
+     purchase price allocation adjustments), the LIFO layer liquidation impacts associated with our Washington inventory, Environmental credit mark-to-market adjustments (which represents the income statement effect of reflecting our RINs liability and Washington
+     net emissions liability on a net basis), unrealized loss (gain) on derivatives, acquisition and integration costs, severance costs, other operating loss (gain), and impairment expense. Adjusted EBITDA by segment also includes Gain on curtailment of pension obligation
+     and Other income (expense), net, which are presented below operating income (loss) on our condensed consolidated statements of operations. Beginning with financial results reported for periods in fiscal year 2022, the inventory valuation adjustment was
+     modified to include the first-in, first-out (“FIFO”) inventory gains (losses) associated with our titled manufactured inventory in Hawaii. Beginning with financial results reported for the second quarter of 2022, Adjusted Net Income and Adjusted EBITDA also exclude
+     the mark-to-market losses (gains) associated with our net RINs liability. Beginning with the financial results reported in the first quarter of 2023, Adjusted Net Income and Adjusted EBITDA also exclude the mark-to-market losses (gains) associated with our net
+     Washington CCA liability and the redevelopment and other costs of our Par West facility. Beginning with financial results reported for the second quarter of 2023, Adjusted Gross Margin, Adjusted Net Income (Loss), and Adjusted EBITDA also exclude our portion of
+     interest, taxes, and depreciation expense from our refining and logistics investments. This modification was made to better reflect our operating performance and to improve comparability between periods. Adjusted EBITDA by segment has been recast for prior
+     periods when reported to conform to the modified presentation. Adjusted EBITDA by segment presented by other companies may not be comparable to our presentation as other companies may define these terms differently. For the twelve months ended
+     December 31, 2023, there was no gain on curtailment of pension obligation and no change in value of common stock warrants, impairment expense, impairments associated with our investment in Laramie Energy, our share of Laramie Energy's asset impairment
+     losses in excess of our basis difference, or impact in Operating income (loss) from accounting policy differences.
+                                                                                                                                     27
+                                                          Non-GAAP Financial Measures
+Consolidated Adjusted EBITDA by Segment Reconciliation (1)
+For the twelve months ended December 31, 2022
+($ in thousands)
+                                                                                                                                                                    Corporate and
+                                                                                                    Refining              Logistics                Retail               Other
+                                     Operating income (loss)                                   $        401,901      $          54,049      $          49,238      $         (67,285)
+                                     Adjustments to operating income (loss):
+                                     Depreciation and amortization                                        65,472                20,579                 10,971                  2,747
+                                     Inventory valuation adjustment                                      (15,712)                   —                      —                      —
+                                     Environmental credit mark-to-market
+                                     adjustments                                                        105,760                       —                      —                     —
+                                     Unrealized loss on commodity derivatives                              9,336                      —                      —                    —
+                                     Acquisition and integration costs                                        —                       —                      —                 3,663
+                                     Severance costs and other non-operating
+                                     expense                                                                   40                    13                     22                 2,197
+                                     Loss (gain) on sale of assets, net                                         1                  (253)                    56                    27
+                                     Other income/expense                                                      —                     —                      —                    613
+                                     Adjusted EBITDA                                           $        566,798      $          74,388      $          60,287      $         (58,038)
+
+
+                   _____________________________________________
+                   (1) Please read slide 24 for the definition of Adjusted EBITDA by segment used herein. For the twelve months ended December 31, 2022, there was no gain on curtailment of
+                       pension obligation or LIFO liquidation adjustment. Beginning with financial results reported for periods in fiscal year 2022, the inventory valuation adjustment was modified
+                       to include the first-in, first-out (“FIFO”) inventory gains (losses) associated with our titled manufactured inventory in Hawaii. Beginning with financial results reported for the
+                       second quarter of 2022, Adjusted Net Income and Adjusted EBITDA also exclude the mark-to-market losses (gains) associated with our net RINs liability. Beginning with the
+                       financial results reported in the first quarter of 2023, Adjusted Net Income and Adjusted EBITDA also exclude the mark-to-market losses (gains) associated with our net
+                       Washington CCA liability and the redevelopment and other costs of our Par West facility. Beginning with financial results reported for the second quarter of 2023, Adjusted
+                       Gross Margin, Adjusted Net Income (Loss), and Adjusted EBITDA also exclude our portion of interest, taxes, and depreciation expense from our refining and logistics
+                       investments. This modification was made to better reflect our operating performance and to improve comparability between periods. Adjusted EBITDA and Net Income by
+                       segment have been recast for prior periods when reported to conform to the modified presentation. For the year ended December 31, 2022, there was no impact in
+                       Operating income (loss) for accounting policy differences at our refining and logistics segments.
+
+                                                                                                        28
+

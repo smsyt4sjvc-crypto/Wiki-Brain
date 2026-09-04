@@ -1,6 +1,6 @@
 # ⏱ ALLIANCE — merged timeline (the gate)
 
-> **344 dated entries across 3 notes · 2026-03-13 → 2026-09-04 · refreshed 2026-09-04 15:32 PDT**
+> **346 dated entries across 3 notes · 2026-03-13 → 2026-09-04 · refreshed 2026-09-04 15:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -366,6 +366,8 @@
 - `2026-09-04` [oil-value-chain.md:L2638](../oil-value-chain.md) — Addendum 2026-09-04 ~2:20pm PDT — **THE DIESEL RECORD IS CONFIRMED AT $5.85 (surpassing the June 2022 peak) — AND GOLDMAN PUTS GULF EXPORTS AT 15-16 m
 - `2026-09-04` [oil-value-chain.md:L2645](../oil-value-chain.md) — REFERENCE 2026-09-04 ~3:30pm PDT — **WHAT "BRENT" ACTUALLY IS, AND WHY THE VAULT'S DIFFERENTIAL RULE FOLLOWS FROM IT (Jake's Q: "Where does Brent come
 - `2026-09-04` [oil-value-chain.md:L2655](../oil-value-chain.md) — 2026-09-04 ~3:35pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE ⬜ REGISTERED FIVE MINUTES AGO PRINTS: THE GRADE STACK HAS INVERTED. MIDDLE EAST SOURS NOW TRADE $3.70-10.60 *AB
+- `2026-09-04` [oil-value-chain.md:L2683](../oil-value-chain.md) — Addendum 2026-09-04 ~3:45pm PDT — **TWO ⬜ CLOSED AGAINST PRIMARIES, AND BOTH GO AGAINST ME: THE BYPASS IS NOT FULL, IT IS INELIGIBLE; AND PARR'S CRUDE
 - `2026-09-04` [war-board.md:L4510](../war/war-board.md) — ⟲ AMENDMENT 2026-09-04 ~7:10am PDT — ⛔ **I FILED THE KOREA ITEM AS "NR — NO INSTRUMENT" AND THAT WAS WRONG: EWY IS IN JAKE'S ROSTER.**
 - `2026-09-04` [war-board.md:L4517](../war/war-board.md) — Addendum 2026-09-04 ~7:20am PDT — ⭐⭐⭐⭐ **THE COALITION PARTNER'S WAR AIM IS INCOMPATIBLE WITH THE ADMINISTRATION'S DE-ESCALATION: NETANYAHU — TOPPLING
 - `2026-09-04` [war-board.md:L4523](../war/war-board.md) — Addendum 2026-09-04 ~2:20pm PDT — ⛔ **BESSENT CLAIMS THE EU "OFFICIALLY JOINED" ECONOMIC OUTCAST; THE EU'S OWN TEXT IS AN ENDORSEMENT, NOT A COMMITMEN
+- `2026-09-04` [war-board.md:L4531](../war/war-board.md) — Addendum 2026-09-04 ~3:45pm PDT — **THE BYPASS IS NOT CAPACITY-CONSTRAINED, IT IS ELIGIBILITY-CONSTRAINED — AND THIS BOARD ALREADY HELD THE BINDING FA

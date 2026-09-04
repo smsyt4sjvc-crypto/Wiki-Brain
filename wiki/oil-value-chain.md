@@ -2748,11 +2748,100 @@ Q3 print (the kicker quantified).
 ### THE SUPPLY DATA UNDERNEATH IT
 - **⭐ SAUDI ARABIA'S OIL EXPORTS AT THE LOWEST SINCE 2017** (Kpler/Vortexa via Bloomberg). ⇒ **the Hormuz constraint is binding on the largest exporter, which is the direct physical cause of the Middle East grade premium.**
 - **Hormuz throughput: 6-8 mb/d weekly average** — **and this needs reconciling against Goldman's "Gulf oil exports 15-16 mb/d, ~two-thirds of prewar" filed at 2:20pm.** **Different scopes: "via the Strait" vs "Gulf exports."** **Implied non-Strait routing = 7-10 mb/d, against nominal bypass capacity of roughly 6.5-6.8 mb/d (Saudi East-West to Yanbu ~5 + UAE Habshan-Fujairah ~1.5-1.8, RECALLED ⬜).** ⇒ **★★★★★ THE BYPASS PIPELINES ARE AT OR ABOVE NOMINAL CAPACITY. Any FURTHER reduction in Strait transit has nowhere to go.** **That is a fragility finding the crossing counts alone cannot produce, and it is why the vessel-count series (15 → 9 → 4) understates the system's tightness rather than overstating it.** ⬜ verify bypass capacities and current utilisation.
+  ⟲ SUPERSEDED 2026-09-04 → oil-value-chain.md:L2793 — IEA Hormuz factsheet (Feb 2026, 2025 Kpler data): Petroline runs ~2 of 5 mb/d design (40% utilisation) with 3-5 spare, ADCOP 0.7 spare, total bypass SPARE 3.5-5.5 mb/d. The bypass is NOT at or above capacity. My 7-10 mb/d 'implied non-Strait routing' was an artifact of subtracting two measures of the same quantity (IEA 14.95 mb/d crude via Strait vs Goldman's 15-16 mb/d Gulf exports); the '6-8 mb/d' input was unsourced. Conclusion survives for a different reason: 51% of Hormuz volume (Iraq/Iran/Kuwait/Qatar/Bahrain, 10.05 mb/d) plus all 4.93 mb/d of products have NO bypass eligibility at all. Not full - ineligible.
 - **Demand side:** Indian Oil Corp, PetroChina, plus South Korean and Japanese refiners. **Cargo delays pushing August loadings into September and October.** Asian buyers also stepping up **Brazil, Canada, Argentina**, with China and India buying **more Russian crude** — ⇒ **corroborates the 9/3 8:40pm ESPO substitution work from the demand side, and extends it to the Atlantic Basin.**
 ### ★★★★★ THE DAY'S SHARPEST ILLUSTRATION: PAPER TRADED THE HEADLINE, PHYSICAL TRADED THE BARRELS
 - **Brent and WTI DIPPED yesterday on a perceived PAUSE in strikes, while Middle East physical grades RALLIED toward and through $100.** ⇒ **the futures benchmarks priced a political interpretation; the physical grades priced availability.** **Trump's own line — "It was a very heavy attack last night, and we're prepared to do another one any time we want" — sat alongside the paper rally in the opposite direction.**
 - **⇒ FOR THE BOARD: when the vault reads "oil is down," it must now specify WHICH oil. The two markets are no longer telling the same story, and the physical one is the one refiners actually pay.**
 ### GRADES (16c) → [[grades]] — AND THE FIRST NAME-SPECIFIC NEGATIVE OF THE WEEK
+  ⟲ SUPERSEDED 2026-09-04 → oil-value-chain.md:L2835 — Par Pacific Aug-2026 deck: LTM 6/30/26 crude sourcing is 56% North American inland (19% WCS, 16% other inland, 15% Bakken, 6% PRB) and 44% waterborne of which 4pts is ANS; max Middle East exposure is the undisclosed 40% 'Other Waterborne'. Hawaii is 43% of 219 Mbpd capacity. Mechanism confirmed and named by the company (Hawaii Index = Singapore 3-1-2 crack over Brent LESS the Par Hawaii Crude Differential), but mis-sized: Hawaii Index Q2-26 $46.06 vs 5-yr $14.51 and mid-cycle $8.00-9.00, i.e. ~5x mid-cycle, so the crude differential is a second-order drag on a first-order windfall. The other 57% of capacity is WTI-linked and gets a feedstock TAILWIND from the same inversion. Flag withdrawn as a name-specific negative; PARR holds 8.
 - **⚠️ PARR 8 — FLAGGED, NOT MOVED.** Its driver reads *"Pacific/Singapore-linked cracks = the Hormuz product disruption's direct beneficiary in Asia-Pac"* — **but a Hawaii/Pacific refiner buys crude into the ASIAN market, where Dubai/Oman/Murban set the price, and those grades just went $3.70-10.60 OVER Brent.** ⇒ **the feedstock leg of PARR's spread is deteriorating even as the product leg tightens, and this is the first NAME-SPECIFIC negative to appear in the basket this week.** **HOLD at 8 pending the fact I do not have: PARR's actual crude slate and Middle East exposure.** ⬜ **PARR crude sourcing — promoted to the basket's highest-value open item.**
 - **VLO 9 · MPC 9 · PBF 8 · DINO 8 · PSX 7 unchanged** — US Gulf and inland refiners run domestic, Canadian and Latin American barrels and are largely insulated from the Middle East premium; **PBF's Chalmette heavy-sour configuration is the one to watch if Latin American differentials follow.**
 **📌 REGISTERED:** **the Murban-Brent spread as the fragmentation instrument (+$10.60 today)** · Saudi export volumes vs the 2017 low · **bypass-pipeline utilisation ⬜ — the "nowhere to go" finding rests on it** · PARR's crude slate ⬜ · whether Dubai/Oman/Murban volumes or contracts shift toward those benchmarks institutionally · Brent-Dubai as a tracked pair.
+
+---
+
+### Addendum 2026-09-04 ~3:45pm PDT — **TWO ⬜ CLOSED AGAINST PRIMARIES, AND BOTH GO AGAINST ME: THE BYPASS IS NOT FULL, IT IS INELIGIBLE; AND PARR'S CRUDE SLATE IS 56% NORTH AMERICAN INLAND.** *(Sources: IEA "Strait of Hormuz Factsheet," FEBRUARY 2026, full-year-2025 data via Kpler — raw/2026-02-iea-strait-of-hormuz-factsheet.pdf/.txt; Par Pacific investor presentation, AUGUST 2026 — raw/2026-08-parr-investor-presentation.pdf/.txt. Both fetched as primaries after the 3:30pm entry registered them as recalled-figure ⬜.)*
+
+## A. THE BYPASS FINDING — **MY CONCLUSION SURVIVES, ALL THREE OF MY STATED REASONS DO NOT**
+
+**What I filed at ~3:30pm (L2750):** *"Implied non-Strait routing = 7-10 mb/d, against nominal bypass capacity of roughly 6.5-6.8 mb/d… ⇒ THE BYPASS PIPELINES ARE AT OR ABOVE NOMINAL CAPACITY."*
+
+**What the IEA primary says (2025 full year, Kpler):**
+
+| Route | Nominal | In use | Spare |
+|---|---|---|---|
+| **Petroline (Abqaiq–Yanbu), Saudi** | **5.0 mb/d design** (2 lines); Aramco reported 7.0 in Mar-2025 but *"sustainable flows have not been tested at this level"* | **~2.0 mb/d** (early 2026) | **3–5 mb/d** |
+| **ADCOP (Habshan–Fujairah), UAE** | 1.5 nameplate, ~1.8 current | ~1.1 mb/d | **up to 0.7 mb/d** |
+| Abqaiq–Yanbu NGL | 0.3 mb/d | 0.3 | **0 — fully utilised** |
+| Goreh–Jask, Iran | 1.0 mb/d reported | **0** | **n/a — "not a viable crude export option"**; one test cargo late-2024, none since |
+| **TOTAL AVAILABLE** | — | — | **3.5–5.5 mb/d** |
+
+**Hormuz volume, 2025: 19.87 mb/d** = crude+condensate **14.95** + products **4.93**. By exporter: Saudi 6.23 · Iraq 3.63 · UAE 3.24 · Iran 2.41 · Kuwait 2.37 · Qatar 1.43 · Neutral Zone 0.35 · Bahrain 0.21.
+
+### THE THREE ERRORS, NAMED
+1. **★★ GROSS vs SPARE — a denominator error, the same class Jake caught on 9/3 with ESPO's 88%→83%.** I compared *nominal* capacity (6.8) against an *incremental* routing requirement. But ~3.1 mb/d of that nominal is already carrying baseline Saudi/UAE barrels that are not Strait-substitutes — they already flow. **The comparable quantity is SPARE: 3.5–5.5 mb/d.**
+2. **★★ "AT OR ABOVE NOMINAL CAPACITY" IS SIMPLY FALSE.** Petroline runs **~2 of 5 mb/d design — 40% utilisation.** The exact opposite of what I filed.
+3. **★★★ THE RESIDUAL WAS MANUFACTURED FROM TWO MEASURES OF THE SAME THING.** IEA: **14.95 mb/d of crude through Hormuz.** Goldman's *"Gulf exports 15-16 mb/d"* ≈ **the same quantity.** My "6-8 mb/d via Strait" was an unsourced recalled figure of a different scope. **Subtracting them produced a 7-10 mb/d "implied non-Strait routing" that was an ARTIFACT OF SCOPE MISMATCH, NOT A FLOW.** Same family as the Windward/Hormuz error — wrong SCOPE — except there I inherited the scope error and here **I generated it myself.**
+
+### ★★★★★★ BUT THE DIRECTIONAL FINDING SURVIVES AND GETS STRONGER — FOR A REASON I DID NOT GIVE
+**The binding constraint is not pipe throughput. It is BARREL ELIGIBILITY.**
+- **Only Saudi Arabia and the UAE have any bypass at all.** Iraq 3.63 + Iran 2.41 + Kuwait 2.37 + Qatar 1.43 + Bahrain 0.21 + Neutral Zone 0.35 = **10.05 mb/d — 51% of Hormuz volume — with NO bypass option of any kind.**
+- **Products (4.93 mb/d) have ZERO pipeline bypass.** Petroline and ADCOP are crude lines.
+- **Even the two eligible countries cannot all get out:** Saudi + UAE crude through Hormuz = **7.45 mb/d** against **3.5–5.5 spare** ⇒ **2–4 mb/d of even the ELIGIBLE barrels are stranded.**
+- **Coverage: 5.5 / 19.87 = 27.7%** — reproduces the "less than 30%" framing independently.
+- **LNG: 112 bcm, ~20% of world trade, and the IEA states flatly there is NO alternative route.**
+
+⇒ **RESTATED CORRECTLY: THE BYPASS IS NOT FULL — IT IS INELIGIBLE. Spare pipe exists and cannot be REACHED by 51% of the volume.** **"Nowhere to go" was right; "at capacity" was wrong; and the corrected version is the stronger claim, because spare capacity that cannot be reached is a PERMANENT constraint whereas a full pipe can be debottlenecked.**
+  ⟲ SUPERSEDES oil-value-chain.md:L2750 — IEA Hormuz factsheet (Feb 2026, 2025 Kpler data): Petroline runs ~2 of 5 mb/d design (40% utilisation) with 3-5 spare, ADCOP 0.7 spare, total bypass SPARE 3.5-5.5 mb/d. The bypass is NOT at or above capacity. My 7-10 mb/d 'implied non-Strait routing' was an artifact of subtracting two measures of the same quantity (IEA 14.95 mb/d crude via Strait vs Goldman's 15-16 mb/d Gulf exports); the '6-8 mb/d' input was unsourced. Conclusion survives for a different reason: 51% of Hormuz volume (Iraq/Iran/Kuwait/Qatar/Bahrain, 10.05 mb/d) plus all 4.93 mb/d of products have NO bypass eligibility at all. Not full - ineligible.
+
+### ★★★★★ THIS IS THE DIFFERENTIAL RULE AGAIN, IN CAPACITY FORM — INSTANCE SIX
+**"3.5–5.5 mb/d of bypass capacity" is the least informative number in the table, exactly as Brent is the least informative price.** It averages a Saudi barrel holding three options against a Qatari LNG cargo holding none. **The aggregate says 28% covered. The disaggregation says 51% of the volume is 0% covered.** *(Instances: H100 spot vs term · 30Y vs 15Y+ IG · Brent vs ESPO · Urals vs ESPO · the inverted grade stack · **now bypass capacity.** The rule has now survived six independent applications across three asset classes.)*
+
+### ★★★★★★ AND IT EXPLAINS THE MURBAN PREMIUM MECHANICALLY — WHICH I HAD BACKWARDS
+**Murban is UAE crude with ADCOP access, loading at Fujairah OUTSIDE the Strait.** It is the one Gulf grade that structurally **does not need** the chokepoint. It should therefore be the *easiest* barrel to obtain — **and it trades $10.60 OVER Brent, the widest premium in the stack.**
+⇒ **THE PREMIUM IS NOT A TRANSIT-RISK PREMIUM. IT IS A SCARCITY PREMIUM ON THE ONE GRADE THAT RELIABLY ARRIVES.** Buyers are paying up for **delivery certainty**, not being compensated for **delivery risk**. **Those are opposite trades and they price the same way.**
+⇒ **Murban-Brent is therefore a CLEANER fragmentation instrument than I claimed at 3:30pm, not a noisier one: it strips out flat-price and war-headline noise and prices pure deliverability.** **Elevate it from "tracked pair" to the theatre's primary physical instrument.**
+
+### ⚠️ VINTAGE — AND THE VAULT ALREADY HELD THE BETTER SOURCE
+- **The factsheet is FEBRUARY 2026 on FULL-YEAR-2025 data. It is a PRE-CRISIS BASELINE, not a current read.** *(The vault's own publication-date vs data-date discipline, third application.)* **The ELIGIBILITY STRUCTURE is durable; the UTILISATION numbers are stale.**
+- **★★★ AND THE LIVE CONTRADICTION IS ALREADY IN THE VAULT: [[war-board]] L1123-1129 — *"the bypass is being deliberately attacked… A bypass whose OUTLET is also blockaded is not a bypass"* — and L134: *"Yanbu (the Hormuz-BYPASS terminus) loadings −40% since 7/19."*** **Yanbu IS Petroline's terminus.** ⇒ **the IEA's 3–5 mb/d of Petroline spare assumes an outlet the vault has recorded as degraded 40%.** **True spare is BELOW the IEA's figure, and this cuts the same way as my original conclusion for a THIRD distinct reason.**
+- **⇒ SELF-SCORE: conclusion right, all three stated reasons wrong, and the vault ALREADY HELD the correct reason at war-board L1123 before I did the arithmetic.** **Error class: I did arithmetic on recalled figures when a primary was one tool call away — the IDENTICAL discipline failure as the USAR miss, one day later.** **The rule I wrote yesterday ("a question about whether an EVENT occurred is a primary-source question") needs its sibling: A QUANTITY THAT CARRIES A CONCLUSION IS A PRIMARY-SOURCE QUANTITY. Flagging a figure "RECALLED ⬜" is not a substitute for checking it before building a ★★★★★ finding on it.**
+
+## B. PARR — ⬜ CLOSED. **RIGHT MECHANISM, WRONG PROPORTION BY AN ORDER OF MAGNITUDE.**
+
+**LTM 6/30/26 crude sourcing (company deck, slide 3-4):** 40% Other Waterborne · **19% Canadian Heavy (WCS)** · 16% Other Inland · **15% Bakken** · 6% Powder River Basin · **4% ANS**.
+⇒ **INLAND / NORTH AMERICAN = 56%. WATERBORNE = 44%, of which 4pts is ANS (Alaskan).**
+⇒ **Maximum possible Middle East exposure = the 40% "Other Waterborne" bucket, and the deck does NOT disclose its origin split** — for a Hawaii refiner that bucket conventionally also carries Latin America, West Africa and Oceania. **The ⬜ is NARROWED to ≤40%, not fully closed.**
+
+**Capacity:** Hawaii **94** · Montana 63 · Washington 42 · Wyoming 20 = **219 Mbpd**. **Hawaii = 43% of system** (midpoint throughput 85,000 of 195–200,000, same 43%). System-wide **19% WCS exposure**; **52% distillate & LSFO yield**.
+
+### ★★★★★ THE DECK NAMES MY INSTRUMENT — THE MECHANISM WAS EXACTLY RIGHT
+**"The Hawaii Index is calculated as the Singapore 3-1-2 Product Crack… as created from a barrel of BRENT CRUDE, less the PAR HAWAII CRUDE DIFFERENTIAL."**
+⇒ **PARR's own margin index is quoted over BRENT while PARR's Hawaii barrels are bought in the market where Murban/Dubai/Oman now trade $3.70–10.60 ABOVE Brent.** **The Par Hawaii Crude Differential is precisely the line that absorbs that premium.** **The variable I inferred yesterday is the variable the company reports.**
+
+### ★★★★★★ AND THE PROPORTION IS WRONG BY ROUGHLY A FACTOR OF FIVE
+| Hawaii Index | Q1-26 | **Q2-26** | 5-yr avg | 10-yr avg | Company mid-cycle |
+|---|---|---|---|---|---|
+| $/bbl | **$31.11** | **$46.06** | **$14.51** | $10.37 | **$8.00–9.00** |
+
+*(Singapore 3-1-2 crack itself: Q2-26 **$49.99** vs 5-yr **$20.03**.)*
+⇒ **Q2-26 ran at 3.2x the five-year average and ~5.3x the company's own mid-cycle assumption.** **The product leg is not "tightening" — it has already delivered a five-times-mid-cycle print, and the crude differential is a SECOND-ORDER DRAG ON A FIRST-ORDER WINDFALL.**
+⇒ **Error class: PROPORTION, NOT FACT — the identical class as the 9/3 demotion of my two Brent explanations by the IEA demand-destruction data. SECOND INSTANCE THIS WEEK.** **📌 PATTERN REGISTERED: I am reliably identifying REAL second-order mechanisms and mis-sizing them against the first-order term. The fix is procedural — before filing a mechanism as a NEGATIVE, size it against the term it opposes.**
+
+### ★★★★ AND 56% OF THE BOOK GETS THE OPPOSITE SIGN FROM THE SAME EVENT
+Montana + Washington + Wyoming = **125 of 219 Mbpd (57%)**, running WCS, Bakken, PRB and Syncrude — all priced off **WTI**, and **WTI is −$4.10 to Brent and −$14.70 to Murban.**
+⇒ **for the majority of PARR's capacity the grade inversion is a feedstock TAILWIND: their crude is among the cheapest in the world while product cracks are set globally.**
+⇒ **THE DIFFERENTIAL RULE APPLIED TO PARR'S OWN BOOK: the company is long the cheap benchmark and short the expensive one, 56/44 in favour of the cheap one.**
+
+  ⟲ SUPERSEDES oil-value-chain.md:L2756 — Par Pacific Aug-2026 deck: LTM 6/30/26 crude sourcing is 56% North American inland (19% WCS, 16% other inland, 15% Bakken, 6% PRB) and 44% waterborne of which 4pts is ANS; max Middle East exposure is the undisclosed 40% 'Other Waterborne'. Hawaii is 43% of 219 Mbpd capacity. Mechanism confirmed and named by the company (Hawaii Index = Singapore 3-1-2 crack over Brent LESS the Par Hawaii Crude Differential), but mis-sized: Hawaii Index Q2-26 $46.06 vs 5-yr $14.51 and mid-cycle $8.00-9.00, i.e. ~5x mid-cycle, so the crude differential is a second-order drag on a first-order windfall. The other 57% of capacity is WTI-linked and gets a feedstock TAILWIND from the same inversion. Flag withdrawn as a name-specific negative; PARR holds 8.
+### GRADES (16c) → [[grades]]
+- **PARR 8 → HOLD 8. THE 9/4 FLAG IS WITHDRAWN AS A NEGATIVE.** The mechanism is real, but it is confined to ≤43% of capacity, capped at ≤40% of crude, swamped in-window by a Hawaii Index at 5x mid-cycle, and **partially hedged inside the company by 56% WTI-linked feedstock.**
+- **NO UPGRADE, and the reason is the vault's own anti-double-count discipline:** the 9/1 workup that took PARR to 8 already reads **"Hawaii $46/bbl"** — **that $46 IS the Q2-26 index print.** **The grade already contains this datum; re-rating on it now would double-count, exactly as refusing to re-upgrade the basket on the 9/3 summit readout did.** **What is genuinely new is only that a risk I introduced yesterday is smaller than I stated — and REMOVING A NEGATIVE I MYSELF INTRODUCED IS NOT A POSITIVE.**
+- Basket otherwise unchanged: **VLO 9 · MPC 9 · PBF 8 · PARR 8 · DINO 8 · PSX 7.**
+
+### ★★★★ RULE 20 GENERALISES — PROPOSED EXTENSION
+**The Hawaii Index has the identical shape as the nominal-yield decomposition: MARGIN Δ = PRODUCT-CRACK Δ − CRUDE-DIFFERENTIAL Δ.** Rule 20 says report the split before the level. **Applied here it IS the whole answer: yesterday I reported ONE LEG (the crude differential deteriorating) as if it were the margin.**
+⇒ **RULE 20 IS NOT A RATES RULE. IT IS A DECOMPOSITION RULE, AND EVERY TWO-LEGGED SPREAD IN THE VAULT IS SUBJECT TO IT** — nominal/real+breakeven · crack/product−crude · IG yield/UST+spread · Murban-Brent/quality+location. **Proposed for [[CLAUDE.md]] as 20(b), pending Jake.**
+
+**📌 REGISTERED:** **current Petroline/ADCOP throughput ⬜ (the IEA figures are pre-crisis)** · **the origin split inside PARR's "40% Other Waterborne" ⬜** · **the Par Hawaii Crude Differential as a reported series — the named instrument** · Q3-26 Hawaii Index vs the $46.06 Q2 print · **Murban-Brent promoted to the theatre's primary physical instrument** · Yanbu loadings vs the −40% (it gates the IEA's spare figure) · whether any Iraqi/Kuwaiti/Qatari bypass reaches FID (the 10.05 mb/d ineligible bloc is the structural trade).
