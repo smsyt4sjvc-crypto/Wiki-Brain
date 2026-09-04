@@ -1,6 +1,6 @@
 # ⏱ INVENTORY — merged timeline (the gate)
 
-> **143 dated entries across 1 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-04 07:08 PDT**
+> **144 dated entries across 1 notes · 2026-03-13 → 2026-09-04 · refreshed 2026-09-04 07:20 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -168,3 +168,4 @@
 - `2026-09-03` [demand-destruction.md:L4009](../demand-destruction.md) — ⟲ AMENDMENT 2026-09-03 ~9:00pm PDT — ⛔⛔ **JAKE IS RIGHT AND IT INVERTS THE READ: A SHARE IS NOT A VOLUME, AND THE DENOMINATOR WAS IN THE SAME ARTICLE.
 - `2026-09-03` [demand-destruction.md:L4030](../demand-destruction.md) — ⟲ AMENDMENT 2026-09-03 ~9:05pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE ON INSTRUMENT SCOPE: "one of the mechanisms we were using to reconcile China's consumption was look
 - `2026-09-03` [demand-destruction.md:L4047](../demand-destruction.md) — 2026-09-03 ~10:00pm PDT — ⭐⭐⭐⭐⭐⭐ **THE NOTE'S TITLE THESIS, QUANTIFIED BY ITS FORECASTERS — AND IT RESOLVES THE OIL REGIME'S CENTRAL PUZZLE. THIS ALSO
+- `2026-09-04` [demand-destruction.md:L4076](../demand-destruction.md) — 2026-09-04 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐ **ZH SCAN: JAKE'S REFINERY MECHANISM CONFIRMED VERBATIM BY THE SOURCE, AND RUSSIA'S TWO EXPORT GRADES NOW TRADE ~$44 A

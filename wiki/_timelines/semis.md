@@ -1,6 +1,6 @@
 # ⏱ SEMIS — merged timeline (the gate)
 
-> **68 dated entries across 2 notes · 2026-07-09 → 2026-09-03 · refreshed 2026-09-04 07:08 PDT**
+> **69 dated entries across 2 notes · 2026-07-09 → 2026-09-04 · refreshed 2026-09-04 07:20 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -87,3 +87,4 @@
 - `2026-09-02` [buildout-bottleneck-map.md:L1601](../buildout-bottleneck-map.md) — Addendum 2026-09-02 ~7:12pm PDT — **Jake's Chapel Hill ordering, adopted as the board's read of NEW information (not of absolute size): power generati
 - `2026-09-03` [buildout-bottleneck-map.md:L1603](../buildout-bottleneck-map.md) — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐ **TEXAS: ABBOTT CALLS FOR BROADER DATA-CENTER RESTRICTIONS, REPEAL OF CONSTRUCTION TAX INCENTIVES, RURAL LIMITS (Reuters
 - `2026-09-03` [buildout-bottleneck-map.md:L1611](../buildout-bottleneck-map.md) — Addendum 2026-09-03 ~9:00am PDT — **GHOST-MW PURGE, PRECISION (Daily Market Brief citing Reuters' Texas investigation):** ERCOT tracking **>1,800 proj
+- `2026-09-04` [buildout-bottleneck-map.md:L1613](../buildout-bottleneck-map.md) — Addendum 2026-09-04 ~7:25am PDT — **GEV: STUDSVIK PICKS GE VERNOVA HITACHI'S BWRX-300 FOR 1.2GW IN SWEDEN, BUILT BY SAMSUNG C&T (ZH scan).** Four BWRX

@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **162 dated entries across 2 notes · 2026-07-01 → 2026-09-04 · refreshed 2026-09-04 07:08 PDT**
+> **163 dated entries across 2 notes · 2026-07-01 → 2026-09-04 · refreshed 2026-09-04 07:20 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -181,3 +181,4 @@
 - `2026-09-03` [war-board.md:L4464](../war/war-board.md) — Addendum 2026-09-03 ~9:45pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE CONNECTS THREE ITEMS FILED SEPARATELY TODAY INTO AN EXIT ARCHITECTURE — AND IT DATES THE EXIT: "gettin
 - `2026-09-03` [war-board.md:L4484](../war/war-board.md) — Addendum 2026-09-03 ~9:50pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **THE ⬜ CLOSES AND THE SOURCED VERSION IS WORSE THAN THE RECONSTRUCTION: VANCE RECLASSIFIED THE WAR *IN DIR
 - `2026-09-04` [war-board.md:L4510](../war/war-board.md) — ⟲ AMENDMENT 2026-09-04 ~7:10am PDT — ⛔ **I FILED THE KOREA ITEM AS "NR — NO INSTRUMENT" AND THAT WAS WRONG: EWY IS IN JAKE'S ROSTER.**
+- `2026-09-04` [war-board.md:L4517](../war/war-board.md) — Addendum 2026-09-04 ~7:20am PDT — ⭐⭐⭐⭐ **THE COALITION PARTNER'S WAR AIM IS INCOMPATIBLE WITH THE ADMINISTRATION'S DE-ESCALATION: NETANYAHU — TOPPLING
