@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **822 dated entries · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 07:51 PDT**
+> **823 dated entries · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 12:05 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -854,6 +854,7 @@
 - `2026-09-03` **[5]** compression-thesis.md:L2999 — Addendum 2026-09-03 ~5:40pm PDT — ⭐⭐⭐⭐⭐⭐ **Jake's Q: "Was the scorer human?" — NO, AUTOMATED, AND THAT IS THE HINGE. THE ENTIRE ESCALATION RAN ON A FA
 - `2026-09-04` **[1]** rates-board.md:L2147 — 2026-09-04 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PAYROLL PRINT BREAKS THE BASE CASE — AGAINST ME AND FOR JAKE: +162K vs +56K, AND JULY REVISED FROM −23K TO +21K 
 - `2026-09-04` **[1]** rates-board.md:L2168 — 2026-09-04 ~7:55am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE OPENING SCAN HANDS US A TABLE THAT PARTIALLY UNDERCUTS THIS BOARD'S OWN FRAMING — AND THE 30Y CLOSED THE MOVE *
+- `2026-09-04` **[1]** rates-board.md:L2197 — Addendum 2026-09-04 ~12:05pm PDT — **JAKE: "No comment on jobs? Rate hike odds increase, that's why long yields down." — CORRECT, AND THE DECOMPOSITIO
 - `2026-09-04` **[1]** new-economy-regime.md:L4835 — Addendum 2026-09-04 ~7:05am PDT — ✅ **THE TARIFF-REFUND ⬜ CLOSES WITH A NUMBER, FROM A P&L: LULULEMON'S 60.5% GROSS MARGIN INCLUDED 560bp FROM $134.5M
 - `2026-09-04` **[3]** ai-financing-fragility.md:L7650 — Addendum 2026-09-04 ~7:05am PDT — **CAPITAL FORMATION IS STILL ACCELERATING, AND THE ROUND SHAPE IS THE TELL: GIMLET LABS $80M → $300M IN SIX MONTHS, 
 - `2026-09-04` **[4]** ai-capex-cycle.md:L3577 — Addendum 2026-09-04 ~7:05am PDT — **THE BAR, AGAIN: SAMSARA BEATS AND RUNS, ZSCALER BEATS AND FALLS (open scan).** **Samsara: ARR crossed $2.1B (+30%)
