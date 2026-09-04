@@ -1,0 +1,62 @@
+Market intelligence, US open, Sept 4 2026 (Jake's gopher), pasted ~7:04am PDT
+
+MARKET INTELLIGENCE — U.S. OPEN | SEPT. 4, 2026
+
+1. PAYROLL SHOCK RE-HAWKS THE FED — 10/10
+Source: BLS / Nick Timiraos-WSJ / Reuters macro layer
+Confirmed: August payrolls +162K vs +56K Reuters consensus. July was revised from -23K to +21K; unemployment stayed 4.1%; participation rose 61.4% → 61.6%; average hourly earnings +0.3% MoM / +3.1% YoY. 
+FedWatch September-hike odds jumped 49.4% → 58%. The 10Y immediately pushed to roughly 4.80% and the 30Y to 5.26%; the dollar also jumped. 
+Market: duration/leveraged growth negative; USD positive; banks potentially benefit from higher/steeper rates.
+Thesis: Important modification, not rejection. The “low-hire” side is weaker than we thought, but JOLTS still shows depressed gross hiring/quits and very low layoffs. More importantly, resilient employment gives the Fed substantially more room to attack an energy-driven inflation shock. Rate/AI-financing collision thesis strengthens.
+
+2. EL-ERIAN JUST PUT OUR TREASURY/AI-ISSUANCE THESIS INTO ONE SENTENCE — 10/10
+Source: Mohamed El-Erian / CNBC; Norges Bank Investment Management
+El-Erian says the government-bond selloff probably isn’t finished because issuance from governments + hyperscalers + corporations exceeds the supply of dependable buyers. He specifically flags China, Japan, Gulf states and Norway as a weakening traditional buyer base. 
+That Norway reference is real: its $2T+ sovereign wealth fund formally recommended reducing government bonds from 70% → 50% of its bond benchmark and shifting toward corporate, agency-MBS and government-related debt. Importantly, this is a proposal and would be implemented gradually, not an immediate Treasury dump. 
+Market: UST term premium ↑; TLT/duration ↓; funding costs ↑ for hyperscalers, neoclouds and private-credit-funded data centers.
+Thesis: Strongly strengthened. This is exactly the collision we’ve been tracking: Treasury issuance competes with enormous AI corporate/private-credit issuance at precisely the time traditional sovereign buyers are becoming less dependable.
+
+3. HORMUZ FLOW IS GETTING WORSE AGAIN — AND DIESEL IS NOW THE BIGGER INFLATION SIGNAL — 9.5/10
+Source: Kpler / Reuters energy-flow layer / AP
+Only 4 visible commodity vessels crossed Hormuz Thursday vs 9 Wednesday and ~15 average over the prior 10 days. Kpler has seen only two VLCC crossings this week; AIS-dark vessels mean the counts aren’t exhaustive. 
+Brent is roughly $95.5, headed for about a 7.6% weekly gain; WTI ~$91.4, +10.4% on the week. 
+More important: U.S. diesel has reached a record ~$5.85/gal, versus roughly $3.76 before the war. That’s a direct freight/agriculture/distribution inflation channel. 
+Market: refiners/energy positive; transports, retailers, agriculture/logistics margins negative; inflation expectations/rates upward pressure.
+Thesis: Strongly strengthens stagflation risk. Crude at $95 understates the stress visible in middle distillates.
+
+4. AI SOFTWARE DEMAND IS STILL REAL — BUT THE MARKET IS NOW PUNISHING ANY DECELERATION — 8.5/10
+Source: Samsara / Zscaler primary releases
+Samsara: ARR crossed $2.1B, +30%, net-new ARR +28%, with a record 20 new $1M+ ARR customers. Large-customer ARR >$500M and grew >50%. Shares were roughly +14% premarket. 
+Zscaler: revenue $898M +25%, ARR $3.771B +25%, net-new ARR +24%; yet shares were down ~3% because organic ARR growth and forward expectations didn’t clear the elevated hurdle. 
+Market: IOT bullish; ZS mixed; read-through positive for real enterprise AI/cyber adoption but increasingly selective for valuations.
+Thesis: AI demand intact. Valuation fragility rising. SNOW/IOT show incremental consumption; ZS/AVGO show excellent fundamentals are no longer sufficient by themselves.
+
+5. ANOTHER AI-CAPITAL CYCLE DATA POINT: GIMLET GOES $80M → $300M ROUND IN SIX MONTHS — 8/10
+Source: Gimlet Labs / Bloomberg
+Gimlet Labs raised $300M at a $3B valuation, led by Andreessen Horowitz with ARM and Microsoft’s M12 participating, only six months after an $80M round. Gimlet says that since March it has added billions of dollars of contracted revenue, gigawatts of data-center pipeline and is scaling toward hundreds of MW under management. 
+Affected: ARM, MSFT; broadly NVDA/AMD/AI-inference infrastructure.
+Thesis: Capital formation remains extremely aggressive. The interesting distinction now is contracted capacity versus speculative pipeline—exactly where credit problems will eventually separate winners from stranded projects.
+
+6. TESLA CYBERCAB: COMMERCIAL LAUNCH IMMEDIATELY TRIGGERS FEDERAL AUDIT — 8/10
+Source: Reuters / NHTSA
+Tesla began commercial Cybercab deployment Thursday. This morning NHTSA opened an audit covering roughly 1,000 Cybercabs, examining the technical basis Tesla used to certify a vehicle with no permanently attached steering wheel, brake pedal, accelerator pedal or mirrors. Texas currently shows 420 Tesla autonomous vehicles, including 45 Cybercabs. 
+Market: TSLA; autonomy/robotaxi complex.
+Thesis: Regulatory scaling risk increased. Important nuance: this is an audit/probe, not a recall or operating ban.
+
+7. LULULEMON IS A WARNING AGAINST READING THE PAYROLL BEAT AS “CONSUMER IS FINE” — 7.5/10
+Source: LULU primary filing/results
+Revenue -4%, Americas revenue -8%, total comps -9%, Americas comps -12%. FY revenue guidance now implies -5% to -7%, and Q3 is guided -10% to -11%. Even the reported 60.5% gross margin benefited by 560 bp from $134.5M of tariff refunds. 
+Shares were roughly -19% premarket. 
+Thesis: Mostly company/brand-specific, but it reinforces that stronger payroll creation does not equal broad discretionary strength.
+
+OPEN READ:
+Labor: stronger than expected → hawkish change.
+Rates: 10Y ~4.80%, 30Y ~5.26% → financing pressure remains severe.
+Oil/products: Brent ~$95, diesel at record $5.85 → inflation pressure worsening.
+AI demand: still strong.
+AI capital formation: still accelerating.
+Reliable bond buyers: becoming a more visible constraint.
+
+The biggest change today is that I’d move “low-hire/low-fire” from strong → mixed, but move the Treasury + AI issuance + inflation collision thesis from strong → stronger. If CPI next week is hot, today’s payroll report removed one of the Fed’s best arguments for holding rates.
+
+Source note: the named X/RSS layer was scanned where currently indexable; direct X indexing remains uneven, so only items that cleared verification through primary releases, BLS/NBIM, Reuters, WSJ, AP or company disclosures are included.
