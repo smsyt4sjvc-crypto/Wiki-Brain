@@ -1,6 +1,6 @@
 # ⏱ MODEL-ECON — merged timeline (the gate)
 
-> **178 dated entries across 2 notes · 2026-07-16 → 2026-09-03 · refreshed 2026-09-03 16:59 PDT**
+> **180 dated entries across 2 notes · 2026-07-16 → 2026-09-03 · refreshed 2026-09-03 17:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -27,6 +27,7 @@
 - `2026-07-21` [compression-thesis.md:L386](../compression-thesis.md) — 2026-07-21 ~6:48am PT (Tue open) — MU clears the $907 reclaim; chip-bear steamrolled near-term; circular wire INTENSIFIES
 - `2026-07-21` [compression-thesis.md:L408](../compression-thesis.md) — 2026-07-21 ~7am PT — China RETALIATES: considering AI + semi export controls (the arms race goes two-way)
 - `2026-07-21` [compression-thesis.md:L433](../compression-thesis.md) — 2026-07-21 ~7:25am PT — MSFT tests Kimi K3 in Copilot: the incumbent's incumbent shops OpenAI's replacement
+- `2026-07-21` [compression-thesis.md:L2904](../compression-thesis.md) — DATA — SecurityWeek (fetched), reporting OpenAI's technical report of **2026-07-21** — the SAME disclosure this note filed on 7/22
 - `2026-07-22` [compression-thesis.md:L469](../compression-thesis.md) — 2026-07-22 ~7:40am PT — the HF "agentic attacker" was OPENAI'S OWN MODEL (recontextualizes the 7/19 entry) — the guardrail argument INVERTS
 - `2026-07-22` [compression-thesis.md:L503](../compression-thesis.md) — 2026-07-22 ~10am PT — supplement (CoinTelegraph/OpenAI primary source): it's a PATTERN, not a one-off
 - `2026-07-22` [compression-thesis.md:L523](../compression-thesis.md) — 2026-07-22 ~1:10pm PT — refinement (Jake's memory pattern-match): "beat sold on capex" has TWO different mechanisms
@@ -191,6 +192,7 @@
 - `2026-09-03` [compression-thesis.md:L2890](../compression-thesis.md) — Addendum 2026-09-03 ~8:30am PDT — **THE BUYER NAMES MEMORY AS THE MARGIN TRANSFER: AVGO call (holdings scan) — consolidated GM 75% → 73% guided (78% a
 - `2026-09-03` [compression-thesis.md:L2892](../compression-thesis.md) — Addendum 2026-09-03 ~8:55am PDT — ⭐⭐⭐⭐ **"SIGNAL, NOT RELIEF" CONFIRMED IN 24 HOURS — AND BY THE PENTAGON ITSELF: Emil Michael (X, Thursday): "Anthrop
 - `2026-09-03` [compression-thesis.md:L2900](../compression-thesis.md) — Addendum 2026-09-03 ~2:20pm PDT — **THE MEMORY SHORTAGE IS NOW EIGHT MONTHS OLD BY ISM'S OWN COUNT, AND GPUs JOINED THE LIST (close scan):** ISM's Aug
+- `2026-09-03` [compression-thesis.md:L2902](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:10pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **A REAL GAP IN THE ARC, CAUGHT BY JAKE'S MEMORY: THE JULY DISCLOSURE CONTAINED A PERSISTENT COVERT MULT
 - `2026-09-03` [metered-compute.md:L3295](../metered-compute.md) — Addendum 2026-09-03 ~8:40am PDT — ⭐⭐⭐ **THE 9/1 TOKEN-INDEX READ IS INDEPENDENTLY VERIFIED ("mostly confirmed") — gopher check of the ZH chart against
 - `2026-09-03` [metered-compute.md:L3302](../metered-compute.md) — 2026-09-03 ~9:05am PDT — ⭐⭐⭐⭐⭐ **THE HOUSE IS SPLIT, WITH NAMES: GOLDMAN RESEARCH REITERATES BUY ON AVGO WHILE ITS OWN DELTA ONE DESK CALLS COMPUTE OV
 - `2026-09-03` [metered-compute.md:L3314](../metered-compute.md) — 2026-09-03 ~9:45am PDT — ⭐⭐⭐⭐⭐ **"AI COMPUTE TIGHTNESS: HAS TOKEN DEFLATION BECOME COMPUTE EXCESS?" (Jake's upload, Sept 2025–Aug 2026 workup, `raw/20
