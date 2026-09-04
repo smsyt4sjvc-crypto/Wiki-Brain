@@ -22,6 +22,9 @@ command · short enough to read in one scroll; if it grows past that, prune befo
 **REFRESHED: 2026-09-03 ~7:25am PDT**
 
 ## STATE
+**⭐ BONDS, ONE SENTENCE (2026-09-04, Jake's ask — the forest line):** **the bond market has repriced the REAL COST OF MONEY — not inflation, not yet a fiscal accident: the long end's entire steepness is real (nominal 5s30s +73bp = real +81 + breakeven −8) with breakevens INVERTED and anchored (2.38 > 2.35 > 2.29, 5y5y 2.33), the past year's actual MOVEMENT came from the Fed-sensitive belly rather than the 30Y (12-mo: 5Y +90bp vs 30Y +38bp), and the only genuine stress sits OUTSIDE the index in AI credit, where identical collateral prices 300bp apart on the offtake alone (IREN 6.00% Microsoft-backed vs 9.00% non-IG).**
+**THE TEST: Sept 10's 30Y reopening is the first clean look at whether SUPPLY can move the long end without the Fed's help — a pure supply event should move REAL, not breakeven (rule 20).**
+
 **Two-speed market — now at a RECORD statistic: median stock-index correlation +0.10 (prior ATL 0.16, post-2000; Jake: "anchors and balloons — why it chops sideways"; VIX 15 through a missile weekend = dispersion arithmetic, not calm — index-vol gauges UNDERSTATE stress in this regime; a correlation spike >0.4-0.5 = flip-corroborator ([[market-fragility]] 8/31)).** AI **periphery repriced as CREDIT** (CRWV 817bp · ORCL 226bp · SPCX ~170 ·
 AVGO 127, at/near wides — [[hyperscaler-credit]]); **core has not** (IG ~82bp, MSFT 48bp), equities
 near highs on the same names. The off-sheet stack IG holds at 81bp grows **~33%/qtr — AI-7
