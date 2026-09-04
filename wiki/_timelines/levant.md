@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **157 dated entries across 2 notes · 2026-07-01 → 2026-09-03 · refreshed 2026-09-03 21:03 PDT**
+> **158 dated entries across 2 notes · 2026-07-01 → 2026-09-03 · refreshed 2026-09-03 21:20 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -176,3 +176,4 @@
 - `2026-09-02` [war-board.md:L4406](../war/war-board.md) — Addendum 2026-09-02 ~10:00am PDT — **IRIB official toll (wire via Jake): 18 killed, 108 injured in the overnight US strikes.** The 18 matches the 8:35
 - `2026-09-03` [war-board.md:L4408](../war/war-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **THIRD WAVE REACHES THE UAE; TRUMP WEIGHS DECLARING THE WAR "OVER" WHILE THE BLOCKADE RUNS (ZH scan 7:25am; ZH/Tasnim/K
 - `2026-09-03` [war-board.md:L4421](../war/war-board.md) — Addendum 2026-09-03 ~9:00am PDT — ⭐⭐⭐⭐ **THE THROUGHPUT DATUM: REUTERS — HORMUZ CROSSINGS BELOW AVERAGE WEDNESDAY; Brent ~$97.3 / WTI ~$93, fresh six-
+- `2026-09-03` [war-board.md:L4423](../war/war-board.md) — 2026-09-03 ~9:20pm PDT — ⭐⭐⭐⭐⭐ **THE COALITION QUESTION MOVES, AND IT MOVES IN ASIA: SOUTH KOREA IS MAKING "CONCRETE PREPARATIONS" FOR A HORMUZ NAVAL 
