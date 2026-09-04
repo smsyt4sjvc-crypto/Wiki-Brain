@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **494 dated entries across 4 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 17:07 PDT**
+> **497 dated entries across 4 notes · 2026-05-22 → 2026-09-03 · refreshed 2026-09-03 17:12 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -128,6 +128,7 @@
 - `2026-07-21` [compression-thesis.md:L408](../compression-thesis.md) — 2026-07-21 ~7am PT — China RETALIATES: considering AI + semi export controls (the arms race goes two-way)
 - `2026-07-21` [compression-thesis.md:L433](../compression-thesis.md) — 2026-07-21 ~7:25am PT — MSFT tests Kimi K3 in Copilot: the incumbent's incumbent shops OpenAI's replacement
 - `2026-07-21` [compression-thesis.md:L2904](../compression-thesis.md) — DATA — SecurityWeek (fetched), reporting OpenAI's technical report of **2026-07-21** — the SAME disclosure this note filed on 7/22
+- `2026-07-21` [compression-thesis.md:L2943](../compression-thesis.md) — ⛔ WHAT IS AND IS NOT IN THE PRIMARY (`raw/2026-07-21-openai-hugging-face-incident-technical-report.txt`)
 - `2026-07-22` [ai-financing-fragility.md:L619](../ai-financing-fragility.md) — 2026-07-22 ~7:30am PT — the credit leg goes MAINSTREAM + a fresh circular node (AMD→Anthropic $5B)
 - `2026-07-22` [ai-financing-fragility.md:L646](../ai-financing-fragility.md) — 2026-07-22 ~3:50pm PT — the CREDIT LEG fires across names: hyperscaler bonds "slaughtered," SpaceX bonds at JUNK, G-spread RECORD
 - `2026-07-22` [ai-financing-fragility.md:L676](../ai-financing-fragility.md) — 2026-07-22 ~4:45pm PT — AMD-Anthropic DETAIL (WSJ): the LEASE BACKSTOP upgrades the wire from correlated to credit-transmitting
@@ -513,9 +514,11 @@
 - `2026-09-03` [compression-thesis.md:L2900](../compression-thesis.md) — Addendum 2026-09-03 ~2:20pm PDT — **THE MEMORY SHORTAGE IS NOW EIGHT MONTHS OLD BY ISM'S OWN COUNT, AND GPUs JOINED THE LIST (close scan):** ISM's Aug
 - `2026-09-03` [compression-thesis.md:L2902](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:10pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **A REAL GAP IN THE ARC, CAUGHT BY JAKE'S MEMORY: THE JULY DISCLOSURE CONTAINED A PERSISTENT COVERT MULT
 - `2026-09-03` [compression-thesis.md:L2923](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:20pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE PRIMARY IS NOW ON DISK: OpenAI's "Hugging Face Incident Technical Report" (dated 2026-07-21) — `raw
+- `2026-09-03` [compression-thesis.md:L2942](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:25pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S "THREE SWARMS / SELF-SACRIFICE" CHECKED AGAINST THE PRIMARY: the framing is SECONDARY, the underl
 - `2026-09-03` [metered-compute.md:L3295](../metered-compute.md) — Addendum 2026-09-03 ~8:40am PDT — ⭐⭐⭐ **THE 9/1 TOKEN-INDEX READ IS INDEPENDENTLY VERIFIED ("mostly confirmed") — gopher check of the ZH chart against
 - `2026-09-03` [metered-compute.md:L3302](../metered-compute.md) — 2026-09-03 ~9:05am PDT — ⭐⭐⭐⭐⭐ **THE HOUSE IS SPLIT, WITH NAMES: GOLDMAN RESEARCH REITERATES BUY ON AVGO WHILE ITS OWN DELTA ONE DESK CALLS COMPUTE OV
 - `2026-09-03` [metered-compute.md:L3314](../metered-compute.md) — 2026-09-03 ~9:45am PDT — ⭐⭐⭐⭐⭐ **"AI COMPUTE TIGHTNESS: HAS TOKEN DEFLATION BECOME COMPUTE EXCESS?" (Jake's upload, Sept 2025–Aug 2026 workup, `raw/20
 - `2026-09-03` [metered-compute.md:L3334](../metered-compute.md) — 2026-09-03 ~10:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE DECOMPOSITION GOT BUILT IN 25 MINUTES AND IT REJECTS THE BARBELL'S DYNAMIC: PROPRIETARY TOKENS FELL FASTER THAN
 - `2026-09-03` [metered-compute.md:L3357](../metered-compute.md) — Addendum 2026-09-03 ~2:20pm PDT — ⭐⭐⭐⭐⭐ **THE ANTI-GLUT DATUM ARRIVES FROM OUTSIDE THE GPU COMPLEX ENTIRELY: ISM ADDED **GPUs** TO ITS COMMODITIES-IN-
 - `2026-09-03` [metered-compute.md:L3364](../metered-compute.md) — Addendum 2026-09-03 ~2:25pm PDT — ⭐⭐⭐⭐ **GPT-6 ASTRA IS THE NATURAL EXPERIMENT FOR THIS MORNING'S UNRESOLVED QUESTION (launch via Jake; full grading →
+- `2026-09-03` [metered-compute.md:L3366](../metered-compute.md) — Addendum 2026-09-03 ~5:25pm PDT — ⭐⭐⭐⭐⭐ **REASONING TOKENS HAVE A NON-ECONOMIC COST, AND OPENAI HAS NOW QUANTIFIED IT (primary: `raw/2026-07-21-openai
