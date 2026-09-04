@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **432 dated entries across 6 notes · 2026-03-13 → 2026-09-04 · refreshed 2026-09-04 14:07 PDT**
+> **433 dated entries across 6 notes · 2026-03-13 → 2026-09-04 · refreshed 2026-09-04 14:09 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -457,3 +457,4 @@
 - `2026-09-04` [demand-destruction.md:L4076](../demand-destruction.md) — 2026-09-04 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐ **ZH SCAN: JAKE'S REFINERY MECHANISM CONFIRMED VERBATIM BY THE SOURCE, AND RUSSIA'S TWO EXPORT GRADES NOW TRADE ~$44 A
 - `2026-09-04` [new-economy-regime.md:L4835](../new-economy-regime.md) — Addendum 2026-09-04 ~7:05am PDT — ✅ **THE TARIFF-REFUND ⬜ CLOSES WITH A NUMBER, FROM A P&L: LULULEMON'S 60.5% GROSS MARGIN INCLUDED 560bp FROM $134.5M
 - `2026-09-04` [new-economy-regime.md:L4837](../new-economy-regime.md) — Addendum 2026-09-04 ~2:10pm PDT — ⚠️ **"ANNOUNCED HIRING PLANS" IS A PRESS-RELEASE COUNT, AND THE SCALE MAKES IT A NARRATIVE INDICATOR RATHER THAN A L
+- `2026-09-04` [new-economy-regime.md:L4847](../new-economy-regime.md) — Addendum 2026-09-04 ~2:15pm PDT — ⛔ **THE CHART CONTRADICTS ITS OWN CAPTION: ON CHALLENGER'S OWN MONTHLY SERIES, HIRING-PLAN MOMENTUM IS NEGATIVE (`ra

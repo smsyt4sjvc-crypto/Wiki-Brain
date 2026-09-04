@@ -1,6 +1,6 @@
 # ⏱ MODEL-ECON — merged timeline (the gate)
 
-> **189 dated entries across 2 notes · 2026-07-16 → 2026-09-04 · refreshed 2026-09-04 14:07 PDT**
+> **189 dated entries across 2 notes · 2026-07-16 → 2026-09-04 · refreshed 2026-09-04 14:09 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
