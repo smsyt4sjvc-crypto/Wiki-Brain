@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **833 dated entries · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 14:22 PDT**
+> **834 dated entries · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 15:09 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -864,6 +864,7 @@
 - `2026-09-04` **[1]** new-economy-regime.md:L4837 — Addendum 2026-09-04 ~2:10pm PDT — ⚠️ **"ANNOUNCED HIRING PLANS" IS A PRESS-RELEASE COUNT, AND THE SCALE MAKES IT A NARRATIVE INDICATOR RATHER THAN A L
 - `2026-09-04` **[1]** new-economy-regime.md:L4847 — Addendum 2026-09-04 ~2:15pm PDT — ⛔ **THE CHART CONTRADICTS ITS OWN CAPTION: ON CHALLENGER'S OWN MONTHLY SERIES, HIRING-PLAN MOMENTUM IS NEGATIVE (`ra
 - `2026-09-04` **[1]** new-economy-regime.md:L4858 — 2026-09-04 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐ **BEIJING SANCTIONED THE AUDITOR, NOT THE EXPORT: CHINESE RARE-EARTH SUPPLIERS ARE REFUSING US SHIPMENTS AND NOBODY HA
+- `2026-09-04` **[1]** new-economy-regime.md:L4866 — Addendum 2026-09-04 ~3:10pm PDT — **USAR / SERRA VERDE: STILL NOT CLOSED, AND THE PENDING CLOSE IS WORTH MORE TODAY THAN IT WAS WEDNESDAY (Jake's ques
 - `2026-09-04` **[3]** ai-financing-fragility.md:L7650 — Addendum 2026-09-04 ~7:05am PDT — **CAPITAL FORMATION IS STILL ACCELERATING, AND THE ROUND SHAPE IS THE TELL: GIMLET LABS $80M → $300M IN SIX MONTHS, 
 - `2026-09-04` **[3]** ai-financing-fragility.md:L7652 — 2026-09-04 ~1:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE DISPERSION INSTRUMENT ARRIVES: 300bp ON IDENTICAL COLLATERAL, INSIDE ONE ISSUER'S OWN CAPITAL STACK (IREN, close
 - `2026-09-04` **[4]** ai-capex-cycle.md:L3577 — Addendum 2026-09-04 ~7:05am PDT — **THE BAR, AGAIN: SAMSARA BEATS AND RUNS, ZSCALER BEATS AND FALLS (open scan).** **Samsara: ARR crossed $2.1B (+30%)
