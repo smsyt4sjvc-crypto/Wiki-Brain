@@ -2324,3 +2324,38 @@ math. **Links:** [[balance-sheet-board]] · [[ai-financing-fragility]] · [[fore
 - **The vault holds NO Sept 4 real or breakeven print.** ⇒ **today's 10Y round-trip cannot be diagnosed, and rule 20's whole point is not to label it before the split is known.** **Jake's line stands as filed: "we should not label it constructive until we know whether TIPS real yields or breakevens did the work."**
 - **⬜ THE HIGHEST-VALUE REQUEST IN THE VAULT RIGHT NOW: Sept 4 closes for 5Y/10Y/30Y TIPS reals and breakevens.** With them the decomposition runs in one line and today's move gets a name.
 **📌 REGISTERED:** ⬜⬜ **Sept 4 real/breakeven closes (5Y, 10Y, 30Y)** · the breakeven curve's inversion as a tracked series (currently −8bp 5s30s) · 5y5y (2.33) and 10y20y (2.26) as the anchoring instruments · SOFR-IORB checked before any branch-4 call · TIPS asset-swap spreads ⬜ · **Sept 10 reopening decomposed the same way — a pure supply event should move REAL, not breakeven, and that is the cleanest test the bind thesis has ever had.**
+
+## 2026-09-04 ~1:25pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE ⬜ REGISTERED TEN MINUTES AGO CLOSES: TABLE B-1 CONFIRMS JAKE'S SEASONAL HYPOTHESIS, AND THE CYCLICAL CORE OF THE +162K IS ~+27K.**
+### DATA — the split, with shares derived
+| Component | Δ | Share of +162K |
+|---|---|---|
+| **Food services / drinking places** | **+59.2K** | **+36.5%** |
+| **Local government education** | **+41.9K** | **+25.9%** |
+| Health care / social assistance | +28.4K | +17.5% |
+| Construction | +22.0K | +13.6% |
+| Manufacturing | +16.0K | +9.9% |
+| Professional / business | +10.0K | +6.2% |
+| Wholesale | +7.8K | +4.8% |
+| Transportation / warehousing | +5.0K | +3.1% |
+| Retail | +1.4K | +0.9% |
+| Private education | +1.1K | +0.7% |
+| State government education | −8.7K | −5.4% |
+| Financial activities | −11.0K | −6.8% |
+| **Information** | **−23.0K** | **−14.2%** |
+- **Top three = 129.5K = 79.9% of the headline.** Total government +35K (21.6%); all education ~+34.3K (21.2%). *(Listed components sum to 150.1K; ~+11.9K sits in categories not broken out.)*
+### ★★★★★★ THE THREE NUMBERS TO CARRY
+1. **LOCAL GOVERNMENT EDUCATION IS DOWN 15.6K OVER TWO MONTHS: −57.5K in July, +41.9K in August.** **BLS itself says August "largely offset" the prior month's decline and that the category has shown little net change since January 2025.** ⇒ **the single largest government contributor to the headline is not hiring — it is a calendar reversal, and over July-August combined the category SHED jobs.** **Jake's back-to-school hypothesis (1:13pm) is confirmed by the source, with the sign against the headline.**
+2. **NET CYCLICAL CORE = +26.8K, or 16.5% of the headline.** Construction +22, manufacturing +16, professional/business +10, wholesale +7.8, transport +5 = **+60.8K**, against **information −23 and financial −11 = −34K.** ⇒ **strip the calendar reversal, the hospitality outlier and defensive health hiring, and the privately cyclical economy added about twenty-seven thousand jobs.**
+3. **FOOD SERVICES CAME IN AT 4.9× ITS OWN 12-MONTH AVERAGE (+59.2K vs ~+12K/month).**
+### ⚠️ ON JAKE'S RESTAURANT MECHANISM — RIGHT CONCLUSION, AND I WOULD REFINE THE CAUSE
+- His read: *"More people going to bars and restaurants during the day / after work as summer winds down. Still seasonal."* **The conclusion — seasonal, not demand — is almost certainly right. The mechanism is more likely FACTOR DEVIATION than a behavioural surge**, because the seasonal factor already expects the end-of-summer pattern; **what moves the adjusted number is the DEVIATION from it.** **A genuine 4.9× demand surge in restaurants, in a month with record diesel, elevated food prices, and LULU-style discretionary weakness, is the least plausible of the available explanations.**
+- **★★★★★ AND THE CLEANEST INTERNAL CONTRADICTION IN THE WHOLE REPORT: ISM SERVICES EMPLOYMENT PRINTED 47.8 — CONTRACTION — IN THE SAME MONTH BLS SAYS THE LARGEST SERVICES CATEGORY ADDED 59.2K.** **The two most service-specific labour readings in the data disagree violently, and they cannot both be describing August.**
+### ⛔ THE ONE DATUM THAT CUTS THE OTHER WAY, AND THE BOARD SHOULD NAME IT
+- **Food services is the LOWEST-WAGE major category, and it was 36.5% of the gain.** **A hiring month skewed that heavily toward low-wage work should mechanically DRAG average hourly earnings DOWN through composition. AHE still printed +0.3% m/m.** ⇒ **within-category wage pressure is FIRMER than the headline +3.1% y/y suggests, once composition is accounted for.** **That is the single hawkish reading available in this report and it survives the composition critique — filed because the case should not be stacked.** ⬜ composition-adjusted wage measures (Atlanta Fed wage tracker).
+### ★★★★★★ AND IT PRODUCES A PRE-REGISTERED, SCOREABLE CALL UNDER RULE 20
+- Jake: *"if Treasuries rally after digesting this sector composition, the market may be saying the Fed is at risk of overtightening into relatively narrow underlying labour demand rather than celebrating clean disinflation."*
+- **⇒ THE COMPOSITION PREDICTS WHICH RULE-20 BRANCH TODAY SHOULD BE. An overtightening-risk rally is BRANCH 2 — nominal ↓ with REAL ↓ and breakevens roughly flat (the market marking down future real activity). A clean-disinflation rally is BRANCH 1 — nominal ↓ with BREAKEVENS ↓ and reals flat or up.**
+- **PRE-REGISTERED, BEFORE THE DATA: on this sector composition the board expects BRANCH 2 — the 10Y's round-trip should show up in REAL yields, not in breakevens.** **⬜ Sept 4 real/breakeven closes settle it, and the call is scoreable either way.** **⚠️ And per rule 20 the SOFR-IORB check applies before any branch-4 reading (9/2 printed 0 — no funding stress).**
+### GRADES (16c) — the 1:15pm conditional RESOLVES
+- I filed: *"if the sector split says education and construction, the hike odds now at ~61% are pricing an artifact."* **The split says ~80% is food services + local-government education + health.** ⇒ **the conditional resolves toward the artifact reading.** **BUT NO GRADE MOVES AND THIS IS NOT A FADE ON HIKE ODDS: the Fed reacts to headlines and to CPI, not to Table B-1. What rises is the PROBABILITY OF A POLICY ERROR, not the probability of a hold.** **ORCL 4 / CRWV 2 / IREN 6: the rate leg is worse than the economy warrants, which is a different statement from worse than it will be.**
+**📌 REGISTERED:** ✅ CLOSED — the sector split · **⬜ Sept 4 real/BE closes — now carrying a pre-registered branch-2 call** · Atlanta Fed composition-adjusted wages ⬜ · **the SEPTEMBER report as the education-reversal test (early October)** · ISM services employment vs BLS food services next month (the contradiction) · **information payrolls as a series → [[compression-thesis]]**.

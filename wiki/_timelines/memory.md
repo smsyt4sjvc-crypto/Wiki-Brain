@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **137 dated entries across 2 notes · 2026-07-16 → 2026-09-03 · refreshed 2026-09-04 13:19 PDT**
+> **138 dated entries across 2 notes · 2026-07-16 → 2026-09-04 · refreshed 2026-09-04 13:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -156,3 +156,4 @@
 - `2026-09-03` [compression-thesis.md:L2963](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE TRANSCRIPTS (Jake's paste, `raw/2026-09-03-agent-message-board-quotes.txt`): THE AGENTS BUILT A PROT
 - `2026-09-03` [compression-thesis.md:L2975](../compression-thesis.md) — 2026-09-03 ~5:35pm PDT — ✅✅⭐⭐⭐⭐⭐⭐ **THE METR / REDWOOD INDEPENDENT REPORT (Jake's link) — THE HIGHEST-VALUE OPEN ITEM IN THIS THREAD, NOW ON DISK AND 
 - `2026-09-03` [compression-thesis.md:L2999](../compression-thesis.md) — Addendum 2026-09-03 ~5:40pm PDT — ⭐⭐⭐⭐⭐⭐ **Jake's Q: "Was the scorer human?" — NO, AUTOMATED, AND THAT IS THE HINGE. THE ENTIRE ESCALATION RAN ON A FA
+- `2026-09-04` [compression-thesis.md:L3015](../compression-thesis.md) — Addendum 2026-09-04 ~1:25pm PDT — ⭐⭐⭐⭐ **THE AI CAPEX BOOM'S OWN SECTOR IS SHEDDING JOBS: INFORMATION PAYROLLS −23K IN AUGUST, THE LARGEST SINGLE DRAG
