@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **217 dated entries across 2 notes · 2026-03-13 → 2026-09-04 · refreshed 2026-09-04 15:28 PDT**
+> **218 dated entries across 2 notes · 2026-03-13 → 2026-09-04 · refreshed 2026-09-04 15:32 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -242,3 +242,4 @@
 - `2026-09-04` [oil-value-chain.md:L2629](../oil-value-chain.md) — Addendum 2026-09-04 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐ **THE WORLD'S LARGEST TANKER OPERATOR JUST DATED THE DISRUPTION AND NAMED ITS RE-ENTRY CONDITION — AND THE CO
 - `2026-09-04` [oil-value-chain.md:L2638](../oil-value-chain.md) — Addendum 2026-09-04 ~2:20pm PDT — **THE DIESEL RECORD IS CONFIRMED AT $5.85 (surpassing the June 2022 peak) — AND GOLDMAN PUTS GULF EXPORTS AT 15-16 m
 - `2026-09-04` [oil-value-chain.md:L2645](../oil-value-chain.md) — REFERENCE 2026-09-04 ~3:30pm PDT — **WHAT "BRENT" ACTUALLY IS, AND WHY THE VAULT'S DIFFERENTIAL RULE FOLLOWS FROM IT (Jake's Q: "Where does Brent come
+- `2026-09-04` [oil-value-chain.md:L2655](../oil-value-chain.md) — 2026-09-04 ~3:35pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE ⬜ REGISTERED FIVE MINUTES AGO PRINTS: THE GRADE STACK HAS INVERTED. MIDDLE EAST SOURS NOW TRADE $3.70-10.60 *AB
