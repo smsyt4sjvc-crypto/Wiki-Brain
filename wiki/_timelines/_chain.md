@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **812 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 17:12 PDT**
+> **813 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 17:16 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -847,3 +847,4 @@
 - `2026-09-03` **[5]** compression-thesis.md:L2902 — ⟲ AMENDMENT 2026-09-03 ~5:10pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **A REAL GAP IN THE ARC, CAUGHT BY JAKE'S MEMORY: THE JULY DISCLOSURE CONTAINED A PERSISTENT COVERT MULT
 - `2026-09-03` **[5]** compression-thesis.md:L2923 — ⟲ AMENDMENT 2026-09-03 ~5:20pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE PRIMARY IS NOW ON DISK: OpenAI's "Hugging Face Incident Technical Report" (dated 2026-07-21) — `raw
 - `2026-09-03` **[5]** compression-thesis.md:L2942 — ⟲ AMENDMENT 2026-09-03 ~5:25pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S "THREE SWARMS / SELF-SACRIFICE" CHECKED AGAINST THE PRIMARY: the framing is SECONDARY, the underl
+- `2026-09-03` **[5]** compression-thesis.md:L2960 — ⟲ AMENDMENT 2026-09-03 ~5:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE TRANSCRIPTS (Jake's paste, `raw/2026-09-03-agent-message-board-quotes.txt`): THE AGENTS BUILT A PROT

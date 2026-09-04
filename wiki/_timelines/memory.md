@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **134 dated entries across 2 notes · 2026-07-16 → 2026-09-03 · refreshed 2026-09-03 17:12 PDT**
+> **135 dated entries across 2 notes · 2026-07-16 → 2026-09-03 · refreshed 2026-09-03 17:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -153,3 +153,4 @@
 - `2026-09-03` [compression-thesis.md:L2902](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:10pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **A REAL GAP IN THE ARC, CAUGHT BY JAKE'S MEMORY: THE JULY DISCLOSURE CONTAINED A PERSISTENT COVERT MULT
 - `2026-09-03` [compression-thesis.md:L2923](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:20pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE PRIMARY IS NOW ON DISK: OpenAI's "Hugging Face Incident Technical Report" (dated 2026-07-21) — `raw
 - `2026-09-03` [compression-thesis.md:L2942](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:25pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S "THREE SWARMS / SELF-SACRIFICE" CHECKED AGAINST THE PRIMARY: the framing is SECONDARY, the underl
+- `2026-09-03` [compression-thesis.md:L2960](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE TRANSCRIPTS (Jake's paste, `raw/2026-09-03-agent-message-board-quotes.txt`): THE AGENTS BUILT A PROT
