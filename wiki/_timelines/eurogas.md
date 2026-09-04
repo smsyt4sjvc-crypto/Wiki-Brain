@@ -1,6 +1,6 @@
 # ⏱ EUROGAS — merged timeline (the gate)
 
-> **202 dated entries across 3 notes · 2026-07-23 → 2026-09-04 · refreshed 2026-09-04 14:09 PDT**
+> **204 dated entries across 3 notes · 2026-07-23 → 2026-09-04 · refreshed 2026-09-04 14:20 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -219,5 +219,7 @@
 - `2026-09-03` [war-board.md:L4484](../war/war-board.md) — Addendum 2026-09-03 ~9:50pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **THE ⬜ CLOSES AND THE SOURCED VERSION IS WORSE THAN THE RECONSTRUCTION: VANCE RECLASSIFIED THE WAR *IN DIR
 - `2026-09-04` [oil-value-chain.md:L2619](../oil-value-chain.md) — 2026-09-04 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE THROUGHPUT DISCRIMINATOR FIRES, AND DIESEL TAKES THE RECORD: 4 VISIBLE HORMUZ CROSSINGS THURSDAY vs 9 WEDNESDAY 
 - `2026-09-04` [oil-value-chain.md:L2629](../oil-value-chain.md) — Addendum 2026-09-04 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐ **THE WORLD'S LARGEST TANKER OPERATOR JUST DATED THE DISRUPTION AND NAMED ITS RE-ENTRY CONDITION — AND THE CO
+- `2026-09-04` [oil-value-chain.md:L2638](../oil-value-chain.md) — Addendum 2026-09-04 ~2:20pm PDT — **THE DIESEL RECORD IS CONFIRMED AT $5.85 (surpassing the June 2022 peak) — AND GOLDMAN PUTS GULF EXPORTS AT 15-16 m
 - `2026-09-04` [war-board.md:L4510](../war/war-board.md) — ⟲ AMENDMENT 2026-09-04 ~7:10am PDT — ⛔ **I FILED THE KOREA ITEM AS "NR — NO INSTRUMENT" AND THAT WAS WRONG: EWY IS IN JAKE'S ROSTER.**
 - `2026-09-04` [war-board.md:L4517](../war/war-board.md) — Addendum 2026-09-04 ~7:20am PDT — ⭐⭐⭐⭐ **THE COALITION PARTNER'S WAR AIM IS INCOMPATIBLE WITH THE ADMINISTRATION'S DE-ESCALATION: NETANYAHU — TOPPLING
+- `2026-09-04` [war-board.md:L4523](../war/war-board.md) — Addendum 2026-09-04 ~2:20pm PDT — ⛔ **BESSENT CLAIMS THE EU "OFFICIALLY JOINED" ECONOMIC OUTCAST; THE EU'S OWN TEXT IS AN ENDORSEMENT, NOT A COMMITMEN

@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **433 dated entries across 6 notes · 2026-03-13 → 2026-09-04 · refreshed 2026-09-04 14:09 PDT**
+> **434 dated entries across 6 notes · 2026-03-13 → 2026-09-04 · refreshed 2026-09-04 14:20 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -458,3 +458,4 @@
 - `2026-09-04` [new-economy-regime.md:L4835](../new-economy-regime.md) — Addendum 2026-09-04 ~7:05am PDT — ✅ **THE TARIFF-REFUND ⬜ CLOSES WITH A NUMBER, FROM A P&L: LULULEMON'S 60.5% GROSS MARGIN INCLUDED 560bp FROM $134.5M
 - `2026-09-04` [new-economy-regime.md:L4837](../new-economy-regime.md) — Addendum 2026-09-04 ~2:10pm PDT — ⚠️ **"ANNOUNCED HIRING PLANS" IS A PRESS-RELEASE COUNT, AND THE SCALE MAKES IT A NARRATIVE INDICATOR RATHER THAN A L
 - `2026-09-04` [new-economy-regime.md:L4847](../new-economy-regime.md) — Addendum 2026-09-04 ~2:15pm PDT — ⛔ **THE CHART CONTRADICTS ITS OWN CAPTION: ON CHALLENGER'S OWN MONTHLY SERIES, HIRING-PLAN MOMENTUM IS NEGATIVE (`ra
+- `2026-09-04` [new-economy-regime.md:L4858](../new-economy-regime.md) — 2026-09-04 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐ **BEIJING SANCTIONED THE AUDITOR, NOT THE EXPORT: CHINESE RARE-EARTH SUPPLIERS ARE REFUSING US SHIPMENTS AND NOBODY HA

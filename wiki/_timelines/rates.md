@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **360 dated entries across 3 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 14:09 PDT**
+> **362 dated entries across 3 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 14:20 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -378,6 +378,7 @@
 - `2026-09-04` [new-economy-regime.md:L4835](../new-economy-regime.md) — Addendum 2026-09-04 ~7:05am PDT — ✅ **THE TARIFF-REFUND ⬜ CLOSES WITH A NUMBER, FROM A P&L: LULULEMON'S 60.5% GROSS MARGIN INCLUDED 560bp FROM $134.5M
 - `2026-09-04` [new-economy-regime.md:L4837](../new-economy-regime.md) — Addendum 2026-09-04 ~2:10pm PDT — ⚠️ **"ANNOUNCED HIRING PLANS" IS A PRESS-RELEASE COUNT, AND THE SCALE MAKES IT A NARRATIVE INDICATOR RATHER THAN A L
 - `2026-09-04` [new-economy-regime.md:L4847](../new-economy-regime.md) — Addendum 2026-09-04 ~2:15pm PDT — ⛔ **THE CHART CONTRADICTS ITS OWN CAPTION: ON CHALLENGER'S OWN MONTHLY SERIES, HIRING-PLAN MOMENTUM IS NEGATIVE (`ra
+- `2026-09-04` [new-economy-regime.md:L4858](../new-economy-regime.md) — 2026-09-04 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐ **BEIJING SANCTIONED THE AUDITOR, NOT THE EXPORT: CHINESE RARE-EARTH SUPPLIERS ARE REFUSING US SHIPMENTS AND NOBODY HA
 - `2026-09-04` [rates-board.md:L2147](../rates-board.md) — 2026-09-04 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PAYROLL PRINT BREAKS THE BASE CASE — AGAINST ME AND FOR JAKE: +162K vs +56K, AND JULY REVISED FROM −23K TO +21K 
 - `2026-09-04` [rates-board.md:L2168](../rates-board.md) — 2026-09-04 ~7:55am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE OPENING SCAN HANDS US A TABLE THAT PARTIALLY UNDERCUTS THIS BOARD'S OWN FRAMING — AND THE 30Y CLOSED THE MOVE *
 - `2026-09-04` [rates-board.md:L2197](../rates-board.md) — Addendum 2026-09-04 ~12:05pm PDT — **JAKE: "No comment on jobs? Rate hike odds increase, that's why long yields down." — CORRECT, AND THE DECOMPOSITIO
@@ -385,3 +386,4 @@
 - `2026-09-04` [rates-board.md:L2224](../rates-board.md) — 2026-09-04 ~1:20pm PDT — ⭐⭐⭐⭐⭐⭐ **DECOMPOSITION ADOPTED AS RULE 20 — AND RUN ON THE DATA THE VAULT ALREADY HOLDS, IT PRODUCES A STRUCTURAL FINDING NEI
 - `2026-09-04` [rates-board.md:L2245](../rates-board.md) — 2026-09-04 ~1:25pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE ⬜ REGISTERED TEN MINUTES AGO CLOSES: TABLE B-1 CONFIRMS JAKE'S SEASONAL HYPOTHESIS, AND THE CYCLICAL CORE OF TH
 - `2026-09-04` [rates-board.md:L2280](../rates-board.md) — 2026-09-04 ~1:30pm PDT — ✅⭐⭐⭐⭐⭐⭐ **RULE 20's FIRST FULL APPLICATION, AND IT SCORES MY OWN PRE-REGISTERED CALL: THE ENTIRE DAY WAS REAL, BREAKEVENS DID
+- `2026-09-04` [rates-board.md:L2309](../rates-board.md) — Addendum 2026-09-04 ~2:20pm PDT — ✅⛔ **NBIM's ACTUAL LETTER: $75B OUT OF TREASURIES, $20B INTO JGBs, AND THE DOLLAR EXPOSURE DOES NOT SHRINK — MY 7:05
