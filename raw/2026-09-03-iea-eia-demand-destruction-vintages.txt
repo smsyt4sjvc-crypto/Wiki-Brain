@@ -1,0 +1,23 @@
+IEA forecast vintages + EIA STEO on 2026 demand destruction (gopher). Pasted by Jake 2026-09-03 ~9:55pm PDT
+
+Oil: Yes — the IEA was the one making the aggressive “demand destruction” call, although the U.S. EIA was forecasting the same phenomenon.
+
+The important part: the IEA’s May forecast actually underestimated how bad Q2 demand destruction would be, and Q3 is now tracking worse than the early-summer recovery assumptions.
+
+IEA forecast vintage	Q2 2026 demand YoY	Q3 2026 demand YoY
+May 13	−2.45 mb/d	expected recovery as Hormuz flows normalized
+June 17	−5.0 mb/d	recovery expected in H2
+July 10	−4.8 mb/d	−1.7 mb/d
+Latest: Aug. 12	−4.9 mb/d	−2.8 mb/d
+
+In May the IEA thought global consumption would fall about 2.45 million b/d YoY in Q2. By June, actual deliveries were coming in so weak that it doubled the estimate to roughly −5 million b/d. The current Q2 estimate is −4.9 million b/d, so the June call was essentially right while the May call was far too optimistic. ⁠￼
+
+Q3 is the interesting part now. In July, the IEA thought demand destruction would moderate sharply to −1.7 mb/d YoY as product supplies recovered. By August it had revised that to −2.8 mb/d, a deterioration of another 1.1 mb/d in only a month. The IEA specifically blamed the continued Hormuz disruption, product shortages/supply-chain effects and elevated fuel prices. ⁠￼
+
+And the EIA independently confirms the direction. Its June STEO estimated global liquid-fuels consumption at 100.40 mb/d in Q2 and 103.66 mb/d in Q3. By August those had edged lower again to 100.33 mb/d and 103.50 mb/d, respectively. So its June forecast was also remarkably close on Q2, while Q3 has weakened modestly further. ⁠￼
+
+The bigger picture is therefore:
+
+Demand destruction was not merely a forecast — it happened. Q2 was dramatically worse than the IEA initially thought in May. And the anticipated Q3 snapback has been delayed, with the IEA now seeing roughly 2.8 million b/d less consumption than a year ago.
+
+That matters a lot for the oil thesis we’ve been discussing: the market is currently getting a simultaneous supply shock and a very large demand shock. That’s why oil hasn’t behaved anything like a simple “Hormuz barrels missing = Brent explodes” equation. The demand response is absorbing several million barrels/day of the lost supply.

@@ -1,6 +1,6 @@
 # ⏱ INVENTORY — merged timeline (the gate)
 
-> **142 dated entries across 1 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 21:43 PDT**
+> **143 dated entries across 1 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 21:57 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -167,3 +167,4 @@
 - `2026-09-03` [demand-destruction.md:L3987](../demand-destruction.md) — 2026-09-03 ~8:40pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S READ IS RIGHT AND THE MECHANISM HAS A NAME: CHINA NEVER STOPPED BIDDING — IT BID A *DIFFERENTIAL* INSTEAD OF 
 - `2026-09-03` [demand-destruction.md:L4009](../demand-destruction.md) — ⟲ AMENDMENT 2026-09-03 ~9:00pm PDT — ⛔⛔ **JAKE IS RIGHT AND IT INVERTS THE READ: A SHARE IS NOT A VOLUME, AND THE DENOMINATOR WAS IN THE SAME ARTICLE.
 - `2026-09-03` [demand-destruction.md:L4030](../demand-destruction.md) — ⟲ AMENDMENT 2026-09-03 ~9:05pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE ON INSTRUMENT SCOPE: "one of the mechanisms we were using to reconcile China's consumption was look
+- `2026-09-03` [demand-destruction.md:L4047](../demand-destruction.md) — 2026-09-03 ~10:00pm PDT — ⭐⭐⭐⭐⭐⭐ **THE NOTE'S TITLE THESIS, QUANTIFIED BY ITS FORECASTERS — AND IT RESOLVES THE OIL REGIME'S CENTRAL PUZZLE. THIS ALSO

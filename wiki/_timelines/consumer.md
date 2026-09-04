@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **428 dated entries across 6 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 21:43 PDT**
+> **429 dated entries across 6 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 21:57 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -448,6 +448,7 @@
 - `2026-09-03` [demand-destruction.md:L3987](../demand-destruction.md) — 2026-09-03 ~8:40pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S READ IS RIGHT AND THE MECHANISM HAS A NAME: CHINA NEVER STOPPED BIDDING — IT BID A *DIFFERENTIAL* INSTEAD OF 
 - `2026-09-03` [demand-destruction.md:L4009](../demand-destruction.md) — ⟲ AMENDMENT 2026-09-03 ~9:00pm PDT — ⛔⛔ **JAKE IS RIGHT AND IT INVERTS THE READ: A SHARE IS NOT A VOLUME, AND THE DENOMINATOR WAS IN THE SAME ARTICLE.
 - `2026-09-03` [demand-destruction.md:L4030](../demand-destruction.md) — ⟲ AMENDMENT 2026-09-03 ~9:05pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE ON INSTRUMENT SCOPE: "one of the mechanisms we were using to reconcile China's consumption was look
+- `2026-09-03` [demand-destruction.md:L4047](../demand-destruction.md) — 2026-09-03 ~10:00pm PDT — ⭐⭐⭐⭐⭐⭐ **THE NOTE'S TITLE THESIS, QUANTIFIED BY ITS FORECASTERS — AND IT RESOLVES THE OIL REGIME'S CENTRAL PUZZLE. THIS ALSO
 - `2026-09-03` [market-fragility.md:L4397](../market-fragility.md) — Addendum 2026-09-03 ~9:05am PDT — **THE POSITIONING/VOL LEG OF THE GOLDMAN SPLIT (full entry → [[metered-compute]] 9:05am):** GS Prime — "a material d
 - `2026-09-03` [market-fragility.md:L4399](../market-fragility.md) — Addendum 2026-09-03 ~2:10pm PDT — ⭐⭐⭐⭐⭐ **THE DISPERSION RECORD HAS A CREDIT TWIN, AND IT IS MEASURABLE: CCC−HY OAS GAP 787bp = 100th PERCENTILE of 79
 - `2026-09-03` [new-economy-regime.md:L4822](../new-economy-regime.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
