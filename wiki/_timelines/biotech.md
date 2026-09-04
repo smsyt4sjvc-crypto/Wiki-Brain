@@ -1,6 +1,6 @@
 # ⏱ BIOTECH — merged timeline (the gate)
 
-> **36 dated entries across 4 notes · 2026-03-02 → 2026-08-20 · refreshed 2026-09-03 21:20 PDT**
+> **36 dated entries across 4 notes · 2026-03-02 → 2026-08-20 · refreshed 2026-09-03 21:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
