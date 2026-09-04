@@ -1,6 +1,6 @@
 # ⏱ FED — merged timeline (the gate)
 
-> **273 dated entries across 2 notes · 2026-06-30 → 2026-09-04 · refreshed 2026-09-04 15:09 PDT**
+> **274 dated entries across 2 notes · 2026-06-30 → 2026-09-04 · refreshed 2026-09-04 15:13 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -295,3 +295,4 @@
 - `2026-09-04` [new-economy-regime.md:L4847](../new-economy-regime.md) — Addendum 2026-09-04 ~2:15pm PDT — ⛔ **THE CHART CONTRADICTS ITS OWN CAPTION: ON CHALLENGER'S OWN MONTHLY SERIES, HIRING-PLAN MOMENTUM IS NEGATIVE (`ra
 - `2026-09-04` [new-economy-regime.md:L4858](../new-economy-regime.md) — 2026-09-04 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐ **BEIJING SANCTIONED THE AUDITOR, NOT THE EXPORT: CHINESE RARE-EARTH SUPPLIERS ARE REFUSING US SHIPMENTS AND NOBODY HA
 - `2026-09-04` [new-economy-regime.md:L4866](../new-economy-regime.md) — Addendum 2026-09-04 ~3:10pm PDT — **USAR / SERRA VERDE: STILL NOT CLOSED, AND THE PENDING CLOSE IS WORTH MORE TODAY THAN IT WAS WEDNESDAY (Jake's ques
+- `2026-09-04` [new-economy-regime.md:L4873](../new-economy-regime.md) — ⟲ CORRECTION + MAJOR ENTRY 2026-09-04 ~3:15pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE SERRA VERDE MERGER CLOSED. I SAID IT HADN'T, FIVE MINUTES AGO, AND I WAS WRONG.** (`
