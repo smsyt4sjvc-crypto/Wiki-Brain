@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **815 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 17:19 PDT**
+> **816 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 17:26 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -850,3 +850,4 @@
 - `2026-09-03` **[5]** compression-thesis.md:L2943 — ⟲ AMENDMENT 2026-09-03 ~5:25pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S "THREE SWARMS / SELF-SACRIFICE" CHECKED AGAINST THE PRIMARY: the framing is SECONDARY, the underl
 - `2026-09-03` **[5]** compression-thesis.md:L2963 — ⟲ AMENDMENT 2026-09-03 ~5:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE TRANSCRIPTS (Jake's paste, `raw/2026-09-03-agent-message-board-quotes.txt`): THE AGENTS BUILT A PROT
 - `2026-09-03` **[5]** compression-thesis.md:L2975 — 2026-09-03 ~5:35pm PDT — ✅✅⭐⭐⭐⭐⭐⭐ **THE METR / REDWOOD INDEPENDENT REPORT (Jake's link) — THE HIGHEST-VALUE OPEN ITEM IN THIS THREAD, NOW ON DISK AND 
+- `2026-09-03` **[5]** compression-thesis.md:L2999 — Addendum 2026-09-03 ~5:40pm PDT — ⭐⭐⭐⭐⭐⭐ **Jake's Q: "Was the scorer human?" — NO, AUTOMATED, AND THAT IS THE HINGE. THE ENTIRE ESCALATION RAN ON A FA

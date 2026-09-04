@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **85 dated entries across 3 notes · 2026-06-30 → 2026-09-03 · refreshed 2026-09-03 17:19 PDT**
+> **85 dated entries across 3 notes · 2026-06-30 → 2026-09-03 · refreshed 2026-09-03 17:26 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
