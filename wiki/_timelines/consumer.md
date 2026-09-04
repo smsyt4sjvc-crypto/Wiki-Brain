@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **425 dated entries across 6 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 20:31 PDT**
+> **426 dated entries across 6 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 20:40 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -445,6 +445,7 @@
 - `2026-09-02` [new-economy-regime.md:L4811](../new-economy-regime.md) — 2026-09-02 ~8:20am PDT — **Chapel Hill Day 2 (Jake's summary → full entry [[buildout-bottleneck-map]] 9/2): LUTNICK — the administration's inclination
 - `2026-09-02` [new-economy-regime.md:L4813](../new-economy-regime.md) — Addendum 2026-09-02 ~8:47am PDT — **Two ZH items to the regime threads:** (1) **UBER cuts ~10% (~3,600) — "removing layers," reallocating to delivery,
 - `2026-09-02` [new-economy-regime.md:L4815](../new-economy-regime.md) — 2026-09-02 ~7:05pm PDT — ⭐⭐⭐⭐⭐ **CHAPEL HILL'S TWO POLICY LEVERS THE BOARDS DIDN'T HAVE (Jake's synthesis): (1) COPYRIGHT — Lutnick pushed G20 members
+- `2026-09-03` [demand-destruction.md:L3987](../demand-destruction.md) — 2026-09-03 ~8:40pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S READ IS RIGHT AND THE MECHANISM HAS A NAME: CHINA NEVER STOPPED BIDDING — IT BID A *DIFFERENTIAL* INSTEAD OF 
 - `2026-09-03` [market-fragility.md:L4397](../market-fragility.md) — Addendum 2026-09-03 ~9:05am PDT — **THE POSITIONING/VOL LEG OF THE GOLDMAN SPLIT (full entry → [[metered-compute]] 9:05am):** GS Prime — "a material d
 - `2026-09-03` [market-fragility.md:L4399](../market-fragility.md) — Addendum 2026-09-03 ~2:10pm PDT — ⭐⭐⭐⭐⭐ **THE DISPERSION RECORD HAS A CREDIT TWIN, AND IT IS MEASURABLE: CCC−HY OAS GAP 787bp = 100th PERCENTILE of 79
 - `2026-09-03` [new-economy-regime.md:L4822](../new-economy-regime.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
