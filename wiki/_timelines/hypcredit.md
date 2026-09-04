@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **293 dated entries across 3 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 13:15 PDT**
+> **294 dated entries across 3 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 13:19 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -321,3 +321,4 @@
 - `2026-09-04` [rates-board.md:L2168](../rates-board.md) — 2026-09-04 ~7:55am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE OPENING SCAN HANDS US A TABLE THAT PARTIALLY UNDERCUTS THIS BOARD'S OWN FRAMING — AND THE 30Y CLOSED THE MOVE *
 - `2026-09-04` [rates-board.md:L2197](../rates-board.md) — Addendum 2026-09-04 ~12:05pm PDT — **JAKE: "No comment on jobs? Rate hike odds increase, that's why long yields down." — CORRECT, AND THE DECOMPOSITIO
 - `2026-09-04` [rates-board.md:L2207](../rates-board.md) — Addendum 2026-09-04 ~1:15pm PDT — ⭐⭐⭐⭐⭐ **JAKE ON SEASONALITY: "What about YoY payrolls? Back-to-school hiring. End of summer is the extreme construct
+- `2026-09-04` [rates-board.md:L2224](../rates-board.md) — 2026-09-04 ~1:20pm PDT — ⭐⭐⭐⭐⭐⭐ **DECOMPOSITION ADOPTED AS RULE 20 — AND RUN ON THE DATA THE VAULT ALREADY HOLDS, IT PRODUCES A STRUCTURAL FINDING NEI

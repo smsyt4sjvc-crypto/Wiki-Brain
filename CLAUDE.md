@@ -605,3 +605,27 @@ the board's inherited-state header. The present is not the history.**
 ✔ CLOSED 8/31 (both classes: Class A geopolitical/oil → war-board header; Class B fiscal/legal/monetary/tech-policy → new-economy-regime 8/31 ~12:35pm; pinned as project memory #30. Residual caveat: within-project + two keyword domains — a third-domain break would not have surfaced. STATUS OF THE SOURCE (Jake, 8/31): the old project space is a FROZEN ARCHIVE — barely touched since wiki-brain started; authoritative for ~Feb-July recall, STALE after; query it for backfills only, never for current state; its 30/30 memory cap is moot since nothing new gets pinned there) **RETROACTIVE SWEEP: what else broke Feb-July that the July-built boards silently inherited?
 Three surfaced via Jake in four days (Maduro/January, the May 14-15 summit, UAE/May 1). Ask the
 project space; more are likely.**
+
+20. ⭐⭐ **DECOMPOSITION FIRST (set 2026-09-04, Jake's spec — "elevate this to the FIRST diagnostic
+    in every scan"):** before any read on a Treasury move, split it. **Nominal Δ = REAL Δ +
+    BREAKEVEN Δ**, computed at **5Y, 10Y AND 30Y** (his spec named 5Y/10Y; the 30Y is added
+    because the board's term-premium thesis lives there). **Report the split before the level** —
+    "the 10Y is 4.77" is not a finding; "the 10Y fell 3bp, all of it real" is.
+    **THE DECISION TREE (his, adopted verbatim in substance):**
+    · nominal ↓ / BE ↓ / real ≈flat or ↑ → **Fed credibility / disinflation** (constructive)
+    · nominal ↓ / real ↓ / BE ≈flat → **growth warning** (marking down real activity)
+    · nominal ↓ / real ↓ / BE ↓ → **growth + disinflation** (more defensive than credibility)
+    · real ↑ while BE ↓ faster → **strongest credibility signal** ⚠️ SEE THE TRAP BELOW
+    · real ↓ / BE ↑ → **stagflationary mix** (worst)
+    **⚠️ THE TRAP (Claude's addition, 9/4): BREAKEVEN = expected inflation + inflation risk premium
+    − TIPS LIQUIDITY PREMIUM.** In stress the TIPS liquidity premium spikes, which MECHANICALLY
+    depresses measured breakevens and inflates measured reals. **⇒ branch 4 is observationally
+    IDENTICAL to a TIPS liquidity squeeze (March 2020 is the canonical case).** Discriminate by:
+    (a) does it persist beyond a few sessions; (b) TIPS-Treasury asset-swap spreads; (c) **funding
+    stress — and the vault ALREADY TRACKS SOFR-IORB in `tools/fragility_feed.py`.** Never call
+    branch 4 without checking (c).
+    **ALSO: the identity is a Fisher APPROXIMATION** (cross-term ≈6bp at current levels) —
+    negligible for daily changes, not for level arithmetic. **And TIPS reals contain their own
+    real term premium, so "real ↓" is not automatically "growth ↓".**
+    **AND COMPUTE THE FORWARDS, which strip the policy horizon entirely:**
+    5y5y BE = 2×(10Y BE) − (5Y BE) · 10y20y BE = (3×(30Y BE) − (10Y BE)) / 2.
