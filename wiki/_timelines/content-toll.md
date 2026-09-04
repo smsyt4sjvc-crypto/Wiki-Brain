@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **191 dated entries across 3 notes · 2026-07-01 → 2026-09-03 · refreshed 2026-09-03 17:16 PDT**
+> **193 dated entries across 3 notes · 2026-07-01 → 2026-09-03 · refreshed 2026-09-03 17:19 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -28,8 +28,8 @@
 - `2026-07-21` [compression-thesis.md:L386](../compression-thesis.md) — 2026-07-21 ~6:48am PT (Tue open) — MU clears the $907 reclaim; chip-bear steamrolled near-term; circular wire INTENSIFIES
 - `2026-07-21` [compression-thesis.md:L408](../compression-thesis.md) — 2026-07-21 ~7am PT — China RETALIATES: considering AI + semi export controls (the arms race goes two-way)
 - `2026-07-21` [compression-thesis.md:L433](../compression-thesis.md) — 2026-07-21 ~7:25am PT — MSFT tests Kimi K3 in Copilot: the incumbent's incumbent shops OpenAI's replacement
-- `2026-07-21` [compression-thesis.md:L2904](../compression-thesis.md) — DATA — SecurityWeek (fetched), reporting OpenAI's technical report of **2026-07-21** — the SAME disclosure this note filed on 7/22
-- `2026-07-21` [compression-thesis.md:L2943](../compression-thesis.md) — ⛔ WHAT IS AND IS NOT IN THE PRIMARY (`raw/2026-07-21-openai-hugging-face-incident-technical-report.txt`)
+- `2026-07-21` [compression-thesis.md:L2905](../compression-thesis.md) — DATA — SecurityWeek (fetched), reporting OpenAI's technical report of **2026-07-21** — the SAME disclosure this note filed on 7/22
+- `2026-07-21` [compression-thesis.md:L2944](../compression-thesis.md) — ⛔ WHAT IS AND IS NOT IN THE PRIMARY (`raw/2026-07-21-openai-hugging-face-incident-technical-report.txt`)
 - `2026-07-22` [compression-thesis.md:L469](../compression-thesis.md) — 2026-07-22 ~7:40am PT — the HF "agentic attacker" was OPENAI'S OWN MODEL (recontextualizes the 7/19 entry) — the guardrail argument INVERTS
 - `2026-07-22` [compression-thesis.md:L503](../compression-thesis.md) — 2026-07-22 ~10am PT — supplement (CoinTelegraph/OpenAI primary source): it's a PATTERN, not a one-off
 - `2026-07-22` [compression-thesis.md:L523](../compression-thesis.md) — 2026-07-22 ~1:10pm PT — refinement (Jake's memory pattern-match): "beat sold on capex" has TWO different mechanisms
@@ -95,25 +95,25 @@
 - `2026-07-28` [compression-thesis.md:L1155](../compression-thesis.md) — 2026-07-28 ~8:15am PT — GLW −19%: BEAT-SOLD EXHIBIT #4, the most extreme yet — and a misfile warning (Jake's research)
 - `2026-07-28` [compression-thesis.md:L1179](../compression-thesis.md) — 2026-07-28 ~8:15am PT — MAG-7 RVOL: NVDA's flat is NEITHER pin nor battle — it is ABANDONMENT (the answer to Jake's question)
 - `2026-07-28` [compression-thesis.md:L1202](../compression-thesis.md) — 2026-07-28 ~7:00pm PT — ★ THE AGENT STOLE THE ANSWER KEY — and it CONTAMINATES the vault's own capability instrument
-- `2026-07-28` [compression-thesis.md:L1240](../compression-thesis.md) — 2026-07-28 ~7:40pm PT — ⛔ THE PLATEAU READ NOW HAS A NAMED, SENIOR, CROSS-LAB CONTRADICTION (primary source)
-- `2026-07-28` [compression-thesis.md:L1298](../compression-thesis.md) — 2026-07-28 close ~7:20pm PT — ★★★ SK HYNIX: REVENUE MORE THAN TRIPLED, NET PROFIT +1,242% — AND THE STOCK FELL
+- `2026-07-28` [compression-thesis.md:L1241](../compression-thesis.md) — 2026-07-28 ~7:40pm PT — ⛔ THE PLATEAU READ NOW HAS A NAMED, SENIOR, CROSS-LAB CONTRADICTION (primary source)
+- `2026-07-28` [compression-thesis.md:L1299](../compression-thesis.md) — 2026-07-28 close ~7:20pm PT — ★★★ SK HYNIX: REVENUE MORE THAN TRIPLED, NET PROFIT +1,242% — AND THE STOCK FELL
 - `2026-07-28` [metered-compute.md:L1007](../metered-compute.md) — 2026-07-28 ~8:30am PT — AUG 1 DEADLINE + THE PRE-RELEASE ACCESS FRAMEWORK: the rule-writing race gets a DATE, and NVDA is under investigation while lo
 - `2026-07-28` [metered-compute.md:L1047](../metered-compute.md) — 2026-07-28 ~10:45am PT — NVDA'S TAIPEI OFFICE RAIDED, employee detained — the enforcement tail arrives on the day Huang lobbies Commerce
 - `2026-07-28` [metered-compute.md:L1091](../metered-compute.md) — 2026-07-28 ~7:05pm PT — HUANG'S DC TRIP PAID: Warner MOVED on open-weight — and the Moonshot investigation makes the argument circular
 - `2026-07-28` [metered-compute.md:L1130](../metered-compute.md) — 2026-07-28 ~7:20pm PT — ★★ THE INSIDER LETTER: 1,100+ AI-COMPANY EMPLOYEES ASK WASHINGTON FOR A WAY TO HALT DEVELOPMENT
 - `2026-07-28` [metered-compute.md:L1183](../metered-compute.md) — 2026-07-28 ~7:35pm PT — ★★★ THE PRIMARY SOURCE ARRIVES: "PACING THE FRONTIER," 1,178 SIGNATORIES — AND IT CORRECTS ME IN BOTH DIRECTIONS
 - `2026-07-28` [metered-compute.md:L1302](../metered-compute.md) — 2026-07-28 ~7:50pm PT — ★★★ JAKE'S CATCH: THE GLARING OMISSION FROM THE SIGNATORY LIST IS NVIDIA — AND HUANG SPENT THE SAME DAY IN WASHINGTON ARGUING 
-- `2026-07-29` [compression-thesis.md:L1299](../compression-thesis.md) — DATA (Jake's Tuesday-evening collector, 448 items; archived `raw/archive/2026-07-29-0209utc-vault-headlines.csv`)
-- `2026-07-29` [compression-thesis.md:L1352](../compression-thesis.md) — 2026-07-29 ~8:46am PT — ★★★ "MICROSOFT'S MYTHOS KILLER PROVES THE MODEL IS NOT THE PRODUCT" — and the benchmark is the one the escaped agent looted
-- `2026-07-29` [compression-thesis.md:L1402](../compression-thesis.md) — 2026-07-29 ~9:08am PT — INTC Q2 FULL NUMBERS FILED — but the vault's 7/24 read is SHARPER than this summary and stands
-- `2026-07-29` [compression-thesis.md:L1452](../compression-thesis.md) — 2026-07-29 ~10:35pm PT — ★★ JAKE'S APPLE-CXMT CALL GRADED: THE SENATE ISSUES AN ULTIMATUM
+- `2026-07-29` [compression-thesis.md:L1300](../compression-thesis.md) — DATA (Jake's Tuesday-evening collector, 448 items; archived `raw/archive/2026-07-29-0209utc-vault-headlines.csv`)
+- `2026-07-29` [compression-thesis.md:L1353](../compression-thesis.md) — 2026-07-29 ~8:46am PT — ★★★ "MICROSOFT'S MYTHOS KILLER PROVES THE MODEL IS NOT THE PRODUCT" — and the benchmark is the one the escaped agent looted
+- `2026-07-29` [compression-thesis.md:L1403](../compression-thesis.md) — 2026-07-29 ~9:08am PT — INTC Q2 FULL NUMBERS FILED — but the vault's 7/24 read is SHARPER than this summary and stands
+- `2026-07-29` [compression-thesis.md:L1453](../compression-thesis.md) — 2026-07-29 ~10:35pm PT — ★★ JAKE'S APPLE-CXMT CALL GRADED: THE SENATE ISSUES AN ULTIMATUM
 - `2026-07-29` [metered-compute.md:L1362](../metered-compute.md) — 2026-07-29 ~8:45am PT — ★★ TWO OF JAKE'S REGISTERED CALLS GRADE OUT AS HITS ON THE SAME TAPE
 - `2026-07-29` [metered-compute.md:L1401](../metered-compute.md) — 2026-07-29 ~8:50am PT — ★★ AT&T: THE ENTERPRISE PROOF THAT OPEN WEIGHTS WIN ON ECONOMICS, NOT IDEOLOGY
 - `2026-07-29` [metered-compute.md:L1427](../metered-compute.md) — 2026-07-29 ~9:05am PT — ⛔ ZUCKERBERG BREAKS MY BUYERS-vs-SELLERS FRAME. THE AXIS IS WHO MONETISES TOKENS.
-- `2026-07-30` [compression-thesis.md:L1487](../compression-thesis.md) — 2026-07-30 ~3:22pm PT — ★★★ THE RAZOR REFINES AGAIN: it is ACCELERATION, not capex direction
+- `2026-07-30` [compression-thesis.md:L1488](../compression-thesis.md) — 2026-07-30 ~3:22pm PT — ★★★ THE RAZOR REFINES AGAIN: it is ACCELERATION, not capex direction
 - `2026-07-30` [metered-compute.md:L1460](../metered-compute.md) — 2026-07-30 ~11:05am ET — ★★★ OPENAI CUTS GPT-5.6 PRICES 80% ON THE CHEAP TIER, 20% MID, ZERO ON FLAGSHIP — the STRUCTURE is the finding, not the direc
-- `2026-07-31` [compression-thesis.md:L1526](../compression-thesis.md) — 2026-07-31 ~12:05pm PDT — NVDA × KAWASAKI SHIPYARD ROBOTICS: the Japan sovereign buy, two weeks on, with a NAMED customer
-- `2026-07-31` [compression-thesis.md:L1570](../compression-thesis.md) — 2026-07-31 ~1:40pm PDT — ★★★ JAKE'S "GENUINELY DIFFERENT BEASTS" THESIS, TESTED — and the vehicle answers a different question
+- `2026-07-31` [compression-thesis.md:L1527](../compression-thesis.md) — 2026-07-31 ~12:05pm PDT — NVDA × KAWASAKI SHIPYARD ROBOTICS: the Japan sovereign buy, two weeks on, with a NAMED customer
+- `2026-07-31` [compression-thesis.md:L1571](../compression-thesis.md) — 2026-07-31 ~1:40pm PDT — ★★★ JAKE'S "GENUINELY DIFFERENT BEASTS" THESIS, TESTED — and the vehicle answers a different question
 - `2026-07-31` [metered-compute.md:L1503](../metered-compute.md) — 2026-07-31 ~11:15am PDT — THE PACING LETTER × TODAY'S ANTHROPIC THREAD: the frame was here; today supplies the first INSTANCE
 - `2026-07-31` [metered-compute.md:L1549](../metered-compute.md) — DATA (as-reported — output price per 1M tokens, as of 2026-07-31)
 
@@ -123,27 +123,27 @@
 - `2026-08-04` [metered-compute.md:L1617](../metered-compute.md) — 2026-08-04 ~6:15pm PDT — ★★★★ THE TOKEN COST CHART + JEVONS: the registered −80%/5x test IS the elasticity-1 Jevons threshold, and the index is its sc
 - `2026-08-05` [metered-compute.md:L1697](../metered-compute.md) — 2026-08-05 ~9:30am PDT — ANTHROPIC IN-HOUSE CHIPS (ANNOUNCED, pre-design) — the winner is the PARTNER, and the marginal fact is the LABS joining a ten
 - `2026-08-05` [metered-compute.md:L1741](../metered-compute.md) — Addendum 2026-08-05 ~2:30pm PDT — TOKEN INDEX UPDATE: 1.2723, THROUGH THE FEB FLOOR — and the fork's stakes are higher than yesterday's entry stated
-- `2026-08-06` [compression-thesis.md:L1620](../compression-thesis.md) — 2026-08-06 ~3:20pm PDT — JAKE'S SEGMENTATION THESIS, NAMED: the frontier premium needs a PROPRIETARY PRODUCT INSIDE THE LLM — "something only they CAN
+- `2026-08-06` [compression-thesis.md:L1621](../compression-thesis.md) — 2026-08-06 ~3:20pm PDT — JAKE'S SEGMENTATION THESIS, NAMED: the frontier premium needs a PROPRIETARY PRODUCT INSIDE THE LLM — "something only they CAN
 - `2026-08-06` [metered-compute.md:L1763](../metered-compute.md) — 2026-08-06 ~12:05pm PDT — ★★★★ HANDOFF RESOLVES THE FORK **AND** DELIVERS THE VOLUME LEG: the index is a PRICE index — and Chinese open-weights are 61
 - `2026-08-06` [metered-compute.md:L1783](../metered-compute.md) — 2026-08-06 ~2:30pm PDT — ★★★★ THE PRICE WAR'S INSTIGATOR RETREATS: DeepSeek hikes API rates "SIGNIFICANTLY" (2nd hike in a month) because **"demand ha
 - `2026-08-06` [metered-compute.md:L1835](../metered-compute.md) — Addendum 2026-08-06 ~6:15pm PDT — TOKEN INDEX **1.1997, 2026 LOWS** — the DeepSeek test's baseline is set, and hike #1's INVISIBILITY refines the test
 - `2026-08-06` [metered-compute.md:L1853](../metered-compute.md) — 2026-08-06 ~6:15pm PDT — THE MVNO STAGE ARRIVES: cheaperinference.com — a reseller of "EXCESS INFERENCE CAPACITY" at up to 30% off the frontier tier (
-- `2026-08-07` [compression-thesis.md:L1660](../compression-thesis.md) — 2026-08-07 ~12:30am PDT — ★★★★ THE FUSION: THE MODEL-SPECIFIC ANTIDOTE — the one proprietary product that CANNOT be commoditized, and the reason the d
+- `2026-08-07` [compression-thesis.md:L1661](../compression-thesis.md) — 2026-08-07 ~12:30am PDT — ★★★★ THE FUSION: THE MODEL-SPECIFIC ANTIDOTE — the one proprietary product that CANNOT be commoditized, and the reason the d
 - `2026-08-08` [metered-compute.md:L1886](../metered-compute.md) — 2026-08-08 ~9:05am PDT — ★★★★ THE VOLUME LEG ARRIVES AS A MEASUREMENT: CHINESE MODELS ARE 77% OF OPENROUTER'S TOP-9 TOKEN VOLUME — and this is the 8/4
 - `2026-08-08` [metered-compute.md:L1960](../metered-compute.md) — Addendum 2026-08-08 ~9:10am PDT — THE BOARD'S AS-OF DATE (Jake: *"Last edited 8:54 AM • 8/7/26"*) — it closes half of test #1 and lands the snapshot i
-- `2026-08-09` [compression-thesis.md:L1716](../compression-thesis.md) — 2026-08-09 ~8:15am PDT — CLAUDE CORPS: $150M to seed 1,000 operators into the WILLING segment (Jake: "I'm in lol" — verified, with two catches)
-- `2026-08-10` [compression-thesis.md:L1750](../compression-thesis.md) — 2026-08-10 ~12:20am PDT — ASTRA: the containment arc's beat four — the first formal "cannot rule out CRITICAL" declaration, with a general-availabilit
-- `2026-08-10` [compression-thesis.md:L1826](../compression-thesis.md) — 2026-08-10 ~9:55am PDT — THE DEMAND SIDE SPEAKS IN FIDUCIARY LANGUAGE: PINS CEO — closed-model spend is "wasting shareholders' money"
-- `2026-08-10` [compression-thesis.md:L1865](../compression-thesis.md) — 2026-08-10 ~2:00pm PDT — JAKE'S ADDITION TO THE JOBS LEDGER: the buildout as a TRADES ENTRY POINT "for millions of young men watching their parents' d
-- `2026-08-10` [compression-thesis.md:L1905](../compression-thesis.md) — 2026-08-10 ~6:25pm PDT — THE "OpenAI SAFETY EXODUS" TWEET, VERIFIED: three REAL departures STACKED from three news cycles — the Astra link is ABSENT, 
-- `2026-08-10` [compression-thesis.md:L1957](../compression-thesis.md) — Addendum 2026-08-10 ~6:35pm PDT — STATUS: UNRESOLVED UNTIL BACKFILLED (Jake: "who Altman hires matters") — and TWO of the three seats already voted
+- `2026-08-09` [compression-thesis.md:L1717](../compression-thesis.md) — 2026-08-09 ~8:15am PDT — CLAUDE CORPS: $150M to seed 1,000 operators into the WILLING segment (Jake: "I'm in lol" — verified, with two catches)
+- `2026-08-10` [compression-thesis.md:L1751](../compression-thesis.md) — 2026-08-10 ~12:20am PDT — ASTRA: the containment arc's beat four — the first formal "cannot rule out CRITICAL" declaration, with a general-availabilit
+- `2026-08-10` [compression-thesis.md:L1827](../compression-thesis.md) — 2026-08-10 ~9:55am PDT — THE DEMAND SIDE SPEAKS IN FIDUCIARY LANGUAGE: PINS CEO — closed-model spend is "wasting shareholders' money"
+- `2026-08-10` [compression-thesis.md:L1866](../compression-thesis.md) — 2026-08-10 ~2:00pm PDT — JAKE'S ADDITION TO THE JOBS LEDGER: the buildout as a TRADES ENTRY POINT "for millions of young men watching their parents' d
+- `2026-08-10` [compression-thesis.md:L1906](../compression-thesis.md) — 2026-08-10 ~6:25pm PDT — THE "OpenAI SAFETY EXODUS" TWEET, VERIFIED: three REAL departures STACKED from three news cycles — the Astra link is ABSENT, 
+- `2026-08-10` [compression-thesis.md:L1958](../compression-thesis.md) — Addendum 2026-08-10 ~6:35pm PDT — STATUS: UNRESOLVED UNTIL BACKFILLED (Jake: "who Altman hires matters") — and TWO of the three seats already voted
 - `2026-08-10` [metered-compute.md:L1995](../metered-compute.md) — 2026-08-10 ~3:20pm PDT — SDLLMTK GETS ITS CHART AND ITS METHODOLOGY: the effective price of intelligence −43% from the May peak — and the WEIGHTING is
-- `2026-08-11` [compression-thesis.md:L1982](../compression-thesis.md) — 2026-08-11 ~3:25pm PDT — ★★★★ JAKE'S FRAME GRADED: the MECHANISM is right, the LABEL points at the wrong actor — and the open-source posture is a REVE
-- `2026-08-11` [compression-thesis.md:L2028](../compression-thesis.md) — 2026-08-11 ~3:30pm PDT — ★★★★★ THE BARBELL: commoditisation socialises the SURPLUS, not the revenue — and it squeezes the MIDDLE while paying the two 
+- `2026-08-11` [compression-thesis.md:L1983](../compression-thesis.md) — 2026-08-11 ~3:25pm PDT — ★★★★ JAKE'S FRAME GRADED: the MECHANISM is right, the LABEL points at the wrong actor — and the open-source posture is a REVE
+- `2026-08-11` [compression-thesis.md:L2029](../compression-thesis.md) — 2026-08-11 ~3:30pm PDT — ★★★★★ THE BARBELL: commoditisation socialises the SURPLUS, not the revenue — and it squeezes the MIDDLE while paying the two 
 - `2026-08-11` [content-toll.md:L204](../content-toll.md) — DATA (observed — same 2026-08-11 release)
 - `2026-08-11` [metered-compute.md:L2050](../metered-compute.md) — 2026-08-11 ~3:15pm PDT — ★★★★★ PRIMARY DOCUMENT: ZUCKERBERG COMMITS META TO AUCTION-PRICED INFERENCE — the most bearish sentence for compute economics
 - `2026-08-11` [metered-compute.md:L2135](../metered-compute.md) — 2026-08-11 ~5:00pm PDT — ⛔⛔★★★★★ THE DECISIVE FETCH LANDS AND IT OVERTURNS THIS NOTE'S CENTRAL READING: SDLLMTK IS NOT FALLING BECAUSE PRICES FALL. BO
-- `2026-08-12` [compression-thesis.md:L2069](../compression-thesis.md) — 2026-08-12 ~9:00pm PDT — 🎯 JAKE'S THESIS GRADED: "GOOGLE COMES OUT A CLEAR WINNER; TPU IS THE HARD-TO-CATCH ADVANTAGE"
+- `2026-08-12` [compression-thesis.md:L2070](../compression-thesis.md) — 2026-08-12 ~9:00pm PDT — 🎯 JAKE'S THESIS GRADED: "GOOGLE COMES OUT A CLEAR WINNER; TPU IS THE HARD-TO-CATCH ADVANTAGE"
 - `2026-08-12` [content-toll.md:L12](../content-toll.md) — DATA (observed — verified 2026-08-12 unless marked)
 - `2026-08-12` [content-toll.md:L125](../content-toll.md) — 2026-08-12 ~8:30pm PDT — ★★★★★ JAKE'S TWO QUESTIONS INVERT THE NOTE'S CONCLUSION
 - `2026-08-12` [content-toll.md:L129](../content-toll.md) — DATA (observed — verified 2026-08-12)
@@ -151,36 +151,36 @@
 - `2026-08-12` [metered-compute.md:L2197](../metered-compute.md) — 2026-08-12 ~12:15am PDT — ★★★★★ THE CRWV CALL DETAIL LANDS: it RESOLVES the debt-cost contradiction I filed 90 minutes ago, CONFIRMS the power thesis 
 - `2026-08-12` [metered-compute.md:L2266](../metered-compute.md) — 2026-08-12 ~10:45am PDT — 📌 NBIS Q2 GRADED (leg 1 of 2): THE MARGIN CONDITIONAL CONFIRMS — and the EBITDA beat is 40% against a revenue beat of 2%
 - `2026-08-12` [metered-compute.md:L2313](../metered-compute.md) — 2026-08-12 ~9:50pm PDT — 🔗 NEW SILICON DATA TICKER IN A FAMILY THIS NOTE ALREADY TRACKS: `SDA100RT` = A100 RENTAL PRICE INDEX, **$1.29/GPU-hr**
-- `2026-08-16` [compression-thesis.md:L2150](../compression-thesis.md) — 2026-08-16 ~9:38pm PDT — ★★★★★★ JAKE DECODES THE OPEN-SOURCE INCENTIVE, AND HIS OWN CITED EVIDENCE IS **STRONGER AND CHEAPER THAN HE STATED**: STRIPE 
-- `2026-08-16` [compression-thesis.md:L2204](../compression-thesis.md) — 2026-08-16 ~9:50pm PDT — ★★★★★★★ JAKE'S OPENROUTER NUMBERS, VERIFIED AND EXTENDED. **THE CAP TABLE IS THE ARGUMENT: CAPITALG (ALPHABET) *LED* AND NVEN
-- `2026-08-16` [compression-thesis.md:L2265](../compression-thesis.md) — 2026-08-16 ~10:07pm PDT — ★★★★★ JAKE FORMALISES OPEN-vs-CLOSED AS **COMMODITIZE-YOUR-COMPLEMENT** AND BUILDS THE LAYER/RENT TABLE. The frame is right 
+- `2026-08-16` [compression-thesis.md:L2151](../compression-thesis.md) — 2026-08-16 ~9:38pm PDT — ★★★★★★ JAKE DECODES THE OPEN-SOURCE INCENTIVE, AND HIS OWN CITED EVIDENCE IS **STRONGER AND CHEAPER THAN HE STATED**: STRIPE 
+- `2026-08-16` [compression-thesis.md:L2205](../compression-thesis.md) — 2026-08-16 ~9:50pm PDT — ★★★★★★★ JAKE'S OPENROUTER NUMBERS, VERIFIED AND EXTENDED. **THE CAP TABLE IS THE ARGUMENT: CAPITALG (ALPHABET) *LED* AND NVEN
+- `2026-08-16` [compression-thesis.md:L2266](../compression-thesis.md) — 2026-08-16 ~10:07pm PDT — ★★★★★ JAKE FORMALISES OPEN-vs-CLOSED AS **COMMODITIZE-YOUR-COMPLEMENT** AND BUILDS THE LAYER/RENT TABLE. The frame is right 
 - `2026-08-16` [metered-compute.md:L2334](../metered-compute.md) — 2026-08-16 ~9:55pm PDT — ★★★★★★★ JAKE'S NUMBERS **RESOLVE THE ELASTICITY TEST THIS NOTE REGISTERED ON 7/24** — and the answer is far tighter than 300×
-- `2026-08-18` [compression-thesis.md:L2323](../compression-thesis.md) — 2026-08-18 ~2:30pm PDT (source 2026-08-13 11:11pm) — ⚠️★★★★ **A 57× PRICE SPREAD ACROSS A 7.2-POINT PERFORMANCE SPREAD — THE COMPRESSION THESIS AS ONE
+- `2026-08-18` [compression-thesis.md:L2324](../compression-thesis.md) — 2026-08-18 ~2:30pm PDT (source 2026-08-13 11:11pm) — ⚠️★★★★ **A 57× PRICE SPREAD ACROSS A 7.2-POINT PERFORMANCE SPREAD — THE COMPRESSION THESIS AS ONE
 - `2026-08-19` [metered-compute.md:L2388](../metered-compute.md) — 2026-08-19 ~8:00am PDT — ⭐⭐⭐⭐⭐ **THE BEST DATA THIS NOTE HAS EVER HAD ON ITS OWN REGISTERED TEST: VERCEL JULY-2026 — TOKEN VOLUME +59%, REALIZED $/TOK
-- `2026-08-22` [compression-thesis.md:L2382](../compression-thesis.md) — 2026-08-22 ~1:15pm PDT — ⛔ **NO, IT DID NOT COME OUT OF THE BLUE — THE VAULT NAMED THE *STRATEGY* IN JULY AND HELD THE VEHICLES. ★★★ WHAT IS ACTUALLY 
-- `2026-08-23` [compression-thesis.md:L2461](../compression-thesis.md) — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A
-- `2026-08-23` [compression-thesis.md:L2497](../compression-thesis.md) — 2026-08-23 ~9:20pm PDT — ✅ **PERPLEXITY WAS ALREADY ON FILE BY NAME, IN THE EXACT LINE THAT EXPLAINED THE POOLSIDE DEAL 30 HOURS AGO: `:L2485` — "the 
+- `2026-08-22` [compression-thesis.md:L2383](../compression-thesis.md) — 2026-08-22 ~1:15pm PDT — ⛔ **NO, IT DID NOT COME OUT OF THE BLUE — THE VAULT NAMED THE *STRATEGY* IN JULY AND HELD THE VEHICLES. ★★★ WHAT IS ACTUALLY 
+- `2026-08-23` [compression-thesis.md:L2462](../compression-thesis.md) — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A
+- `2026-08-23` [compression-thesis.md:L2498](../compression-thesis.md) — 2026-08-23 ~9:20pm PDT — ✅ **PERPLEXITY WAS ALREADY ON FILE BY NAME, IN THE EXACT LINE THAT EXPLAINED THE POOLSIDE DEAL 30 HOURS AGO: `:L2485` — "the 
 - `2026-08-23` [metered-compute.md:L2474](../metered-compute.md) — 2026-08-23 ~6:20pm PDT — ✅✅✅ **THE DEFINITIONAL FORK REGISTERED 8/04 AT `:L1712` IS RESOLVED, AND IT RESOLVES TO (a) — THE READING THIS NOTE ASSUMED A
 - `2026-08-23` [metered-compute.md:L2614](../metered-compute.md) — 2026-08-23 ~7:10pm PDT — ⛔⛔⛔ **JAKE IS RIGHT AND THE VAULT HAD ALREADY WRITTEN THE CORRECTION DOWN — TWICE — BEFORE I IGNORED IT.** ★★★★★★ **`:L2264`:
 - `2026-08-23` [metered-compute.md:L2709](../metered-compute.md) — 2026-08-23 ~7:45pm PDT — ★★★★★★ **JAKE SPECIFIES THE ARBITRAGE, AND IT FUSES THREE THINGS THIS VAULT HAS HELD SEPARATELY SINCE JULY: the 7/25 "moat mi
 - `2026-08-23` [metered-compute.md:L2812](../metered-compute.md) — 2026-08-23 ~8:30pm PDT — ✅✅✅ **THE PROFILING RUN IS DONE AND IT CLOSES THE SERIES `:L2265` HAS CARRIED AS "THE SINGLE MOST VALUABLE MISSING" SINCE 8/1
 - `2026-08-23` [metered-compute.md:L2907](../metered-compute.md) — 2026-08-23 ~8:55pm PDT — ⛔⛔ **"READING PDFs AND VERIFYING." HE NAMED IT IN FOUR WORDS AND THE RE-CUT SAYS 65.3%.** ★★★★★★ **MY 8:30pm BUCKETING HID TH
-- `2026-08-25` [compression-thesis.md:L2589](../compression-thesis.md) — 2026-08-25 ~7:40am PDT — ⭐⭐⭐ **THE NEMOTRON-NEUTRALITY TEST REGISTERED 36 HOURS AGO TAKES ITS FIRST TICK, AND THE MECHANISM IS SHARPER THAN THE ONE I 
-- `2026-08-25` [compression-thesis.md:L2632](../compression-thesis.md) — 2026-08-25 ~3:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JALAPEÑO MEASURES, AND THE VAULT'S PRIOR ON IT WAS ONE LINE IN A BACKLOG: `ai-capex-cycle:L333` filed it in AVGO's $
-- `2026-08-25` [compression-thesis.md:L2697](../compression-thesis.md) — Addendum 2026-08-25 ~4:00pm PDT — 📊 **THE INFERENCEX CURVE ARRIVES AND IT CONFIRMS THE GOPHER'S CAVEAT VISIBLY: "2× BETTER" IS A POINT ON A CURVE (~20
-- `2026-08-25` [compression-thesis.md:L2720](../compression-thesis.md) — Addendum 2026-08-25 ~11:55pm PDT — ⭐⭐⭐⭐⭐ **THE FULL PORTABLE COMPUTER ARTICLE (VentureBeat/Nuñez, 6am) LANDS THE NUMBER THE TOKEN THREAD HAS WANTED AL
+- `2026-08-25` [compression-thesis.md:L2590](../compression-thesis.md) — 2026-08-25 ~7:40am PDT — ⭐⭐⭐ **THE NEMOTRON-NEUTRALITY TEST REGISTERED 36 HOURS AGO TAKES ITS FIRST TICK, AND THE MECHANISM IS SHARPER THAN THE ONE I 
+- `2026-08-25` [compression-thesis.md:L2633](../compression-thesis.md) — 2026-08-25 ~3:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JALAPEÑO MEASURES, AND THE VAULT'S PRIOR ON IT WAS ONE LINE IN A BACKLOG: `ai-capex-cycle:L333` filed it in AVGO's $
+- `2026-08-25` [compression-thesis.md:L2698](../compression-thesis.md) — Addendum 2026-08-25 ~4:00pm PDT — 📊 **THE INFERENCEX CURVE ARRIVES AND IT CONFIRMS THE GOPHER'S CAVEAT VISIBLY: "2× BETTER" IS A POINT ON A CURVE (~20
+- `2026-08-25` [compression-thesis.md:L2721](../compression-thesis.md) — Addendum 2026-08-25 ~11:55pm PDT — ⭐⭐⭐⭐⭐ **THE FULL PORTABLE COMPUTER ARTICLE (VentureBeat/Nuñez, 6am) LANDS THE NUMBER THE TOKEN THREAD HAS WANTED AL
 - `2026-08-25` [metered-compute.md:L2975](../metered-compute.md) — 2026-08-25 ~10:50pm PDT — ★★★★★ **THE RAMP MODEL-MIX CHART (FT): THE ROUTING THESIS SHOWS UP IN THE #1 LAB'S OWN REVENUE MIX — AND THE CHART'S BIGGEST
-- `2026-08-26` [compression-thesis.md:L2754](../compression-thesis.md) — 2026-08-26 ~9:10am PDT — ⭐⭐⭐ **EXPORT-CONTROL ENFORCEMENT GOES FROM HYPOTHETICAL TO INDICTMENT: TAIWAN PROSECUTORS CHARGE 9 — INCLUDING AN NVDA TAIWAN
+- `2026-08-26` [compression-thesis.md:L2755](../compression-thesis.md) — 2026-08-26 ~9:10am PDT — ⭐⭐⭐ **EXPORT-CONTROL ENFORCEMENT GOES FROM HYPOTHETICAL TO INDICTMENT: TAIWAN PROSECUTORS CHARGE 9 — INCLUDING AN NVDA TAIWAN
 - `2026-08-26` [metered-compute.md:L3034](../metered-compute.md) — 2026-08-26 ~5:40pm PDT — ⭐⭐⭐⭐⭐ **"NVIDIA IN TALKS TO BUY HUGGING FACE FOR OVER $13B" (single-outlet INSIDER sourcing, TALKS-stage, no terms — REPORTED
 - `2026-08-26` [metered-compute.md:L3068](../metered-compute.md) — ⛔ CORRECTION 2026-08-26 ~7:05pm PDT (Jake's catch, within the hour) — **THE 5:40pm ENTRY CONFLATED TWO DOCUMENTS FROM THE SAME JULY WEEK, AND THE CORR
 - `2026-08-26` [metered-compute.md:L3087](../metered-compute.md) — Addendum 2026-08-26 ~7:08pm PDT — **THE PRIMARY ARTIFACT ARRIVES (Jake): Huang's 7/24 post — HIS FIRST EVER TWEET — sharing the letter. 66M views/173K
-- `2026-08-27` [compression-thesis.md:L2765](../compression-thesis.md) — 2026-08-27 ~8:00am PDT — ⭐⭐⭐⭐⭐ **GLM-5.3-FLASH (Zhipu/Z.ai, vendor announcement): 320B total / 18B ACTIVE, "one-tenth the price" of GLM-5.2, "APPROACH
-- `2026-08-27` [compression-thesis.md:L2794](../compression-thesis.md) — 2026-08-27 ~1:00pm PDT — ⭐⭐⭐⭐⭐ **TAPE-CONFIRMED (Yahoo, 3:57pm ET, header-reconciled ✓): SOFTWARE IS REPRICING VIOLENTLY — CRM +23.3% ($205.62→$253.50
-- `2026-08-27` [compression-thesis.md:L2818](../compression-thesis.md) — Addendum 2026-08-27 ~2:55pm PDT — **CONFIRMATION #2, per Jake: OKTA +31% — a SECOND software name, in a DIFFERENT sub-sector (identity/security vs CRM
-- `2026-08-27` [compression-thesis.md:L2820](../compression-thesis.md) — Addendum 2026-08-27 ~3:20pm PDT — **JAKE REFRAMES THE SOFTWARE BREAKOUT AND HIS FRAME IS BETTER SUPPORTED BY THE WEEK'S DATA: "ACCUMULATION SIGNAL. So
-- `2026-08-27` [compression-thesis.md:L2831](../compression-thesis.md) — 2026-08-27 ~8:10pm PDT — ⭐⭐⭐⭐⭐⭐ **THE ANTHROPIC BLACKLIST FALLS: JUDGE RITA LIN (N.D. Cal.) VACATES THE PENTAGON'S SUPPLY-CHAIN-RISK DESIGNATION — FIR
+- `2026-08-27` [compression-thesis.md:L2766](../compression-thesis.md) — 2026-08-27 ~8:00am PDT — ⭐⭐⭐⭐⭐ **GLM-5.3-FLASH (Zhipu/Z.ai, vendor announcement): 320B total / 18B ACTIVE, "one-tenth the price" of GLM-5.2, "APPROACH
+- `2026-08-27` [compression-thesis.md:L2795](../compression-thesis.md) — 2026-08-27 ~1:00pm PDT — ⭐⭐⭐⭐⭐ **TAPE-CONFIRMED (Yahoo, 3:57pm ET, header-reconciled ✓): SOFTWARE IS REPRICING VIOLENTLY — CRM +23.3% ($205.62→$253.50
+- `2026-08-27` [compression-thesis.md:L2819](../compression-thesis.md) — Addendum 2026-08-27 ~2:55pm PDT — **CONFIRMATION #2, per Jake: OKTA +31% — a SECOND software name, in a DIFFERENT sub-sector (identity/security vs CRM
+- `2026-08-27` [compression-thesis.md:L2821](../compression-thesis.md) — Addendum 2026-08-27 ~3:20pm PDT — **JAKE REFRAMES THE SOFTWARE BREAKOUT AND HIS FRAME IS BETTER SUPPORTED BY THE WEEK'S DATA: "ACCUMULATION SIGNAL. So
+- `2026-08-27` [compression-thesis.md:L2832](../compression-thesis.md) — 2026-08-27 ~8:10pm PDT — ⭐⭐⭐⭐⭐⭐ **THE ANTHROPIC BLACKLIST FALLS: JUDGE RITA LIN (N.D. Cal.) VACATES THE PENTAGON'S SUPPLY-CHAIN-RISK DESIGNATION — FIR
 - `2026-08-27` [metered-compute.md:L3089](../metered-compute.md) — 2026-08-27 ~9:15pm PDT — ⭐⭐⭐⭐ **THE TRIANGLE CLOSES: NVDA–NOW–HUGGING FACE (Jake's chain). The vault held two edges — the 7/25 sandwich topology (NVDA
-- `2026-08-28` [compression-thesis.md:L2859](../compression-thesis.md) — Addendum 2026-08-28 ~9:40am PDT — **SOFTWARE TEST #3 (WDAY): PASSED, softly.** Beat on adj-EPS + revenue; **AI >25% of new ACV** (the accumulation sig
+- `2026-08-28` [compression-thesis.md:L2860](../compression-thesis.md) — Addendum 2026-08-28 ~9:40am PDT — **SOFTWARE TEST #3 (WDAY): PASSED, softly.** Beat on adj-EPS + revenue; **AI >25% of new ACV** (the accumulation sig
 - `2026-08-28` [metered-compute.md:L3150](../metered-compute.md) — 2026-08-28 ~7:35pm PDT — ⭐⭐⭐⭐ **OPENAI CUTS CURSOR OFF (statement via Jake, "the petty"): partnership ends following CURSOR'S ACQUISITION BY SPACEX; "
 - `2026-08-28` [metered-compute.md:L3182](../metered-compute.md) — Addendum 2026-08-28 ~7:35pm PDT (full statement, same hour) — **THE FULL TEXT UPGRADES THE READ THREE WAYS: it's a CHANGE-OF-CONTROL clause exercised 
 - `2026-08-31` [metered-compute.md:L3212](../metered-compute.md) — 2026-08-31 ~9:35am PDT — ⭐⭐⭐⭐⭐ **TOKEN-ECONOMICS WEEKLY (Jake's brief, sources verified per-item): THE BARBELL CONFIRMS IN PRODUCTION DATA — Vercel Ju
@@ -190,19 +190,20 @@
 
 - `2026-09-01` [metered-compute.md:L3283](../metered-compute.md) — Addendum 2026-09-01 ~11:27am PDT — ⭐⭐⭐ **THE CURSOR NATURAL EXPERIMENT GETS ITS DENOMINATOR (Epoch Times via ZH): OpenAI models serve only ~5% OF CURS
 - `2026-09-01` [metered-compute.md:L3285](../metered-compute.md) — Addendum 2026-09-01 ~4:00pm PDT — ⭐⭐⭐ **THE TOKEN INDEX BREAKS $1 — Silicon Data LLM Token Expenditure Index 0.9665 (chart via Jake, `raw/2026-09-01-s
-- `2026-09-02` [compression-thesis.md:L2861](../compression-thesis.md) — Addendum 2026-09-02 ~10:05am PDT — ⭐⭐⭐⭐ **THE RESET, SIX DAYS AFTER THE COURT (Lutnick at Chapel Hill, via Jake): "We trust Anthropic… [they've] done 
-- `2026-09-02` [compression-thesis.md:L2863](../compression-thesis.md) — 2026-09-02 ~2:20pm PDT — ⭐⭐⭐⭐ **JAKE BUILT A CHANNEL-LEVEL MEMORY METER (his DigiKey list `digikey_memory_tracker_updated_2026-09-02.csv`, `raw/2026-0
-- `2026-09-02` [compression-thesis.md:L2864](../compression-thesis.md) — DATA (2026-09-02 snapshot)
-- `2026-09-02` [compression-thesis.md:L2881](../compression-thesis.md) — Addendum 2026-09-02 ~2:25pm PDT — ⭐⭐⭐⭐⭐ **THE PRODUCT PAGE SETTLES IT AND ADDS A PRICE (Jake, `raw/2026-09-02-digikey-MTC40F2046-product-page.pdf` — M
+- `2026-09-02` [compression-thesis.md:L2862](../compression-thesis.md) — Addendum 2026-09-02 ~10:05am PDT — ⭐⭐⭐⭐ **THE RESET, SIX DAYS AFTER THE COURT (Lutnick at Chapel Hill, via Jake): "We trust Anthropic… [they've] done 
+- `2026-09-02` [compression-thesis.md:L2864](../compression-thesis.md) — 2026-09-02 ~2:20pm PDT — ⭐⭐⭐⭐ **JAKE BUILT A CHANNEL-LEVEL MEMORY METER (his DigiKey list `digikey_memory_tracker_updated_2026-09-02.csv`, `raw/2026-0
+- `2026-09-02` [compression-thesis.md:L2865](../compression-thesis.md) — DATA (2026-09-02 snapshot)
+- `2026-09-02` [compression-thesis.md:L2882](../compression-thesis.md) — Addendum 2026-09-02 ~2:25pm PDT — ⭐⭐⭐⭐⭐ **THE PRODUCT PAGE SETTLES IT AND ADDS A PRICE (Jake, `raw/2026-09-02-digikey-MTC40F2046-product-page.pdf` — M
 - `2026-09-02` [metered-compute.md:L3290](../metered-compute.md) — 2026-09-02 ~7:10pm PDT — ⭐⭐⭐⭐ **HUANG vs ALTMAN, PUBLICLY SPLIT ON WHETHER COMPUTE MUST BE OWNED (Jake's catch, Chapel Hill): HUANG — AI is infrastruc
-- `2026-09-03` [compression-thesis.md:L2888](../compression-thesis.md) — Addendum 2026-09-03 ~7:35am PDT — **THE DIGIKEY READ GETS A NATIONAL-SURVEY RESPONDENT (ISM Services Aug, Retail Trade, via Jake's paste — full entry 
-- `2026-09-03` [compression-thesis.md:L2890](../compression-thesis.md) — Addendum 2026-09-03 ~8:30am PDT — **THE BUYER NAMES MEMORY AS THE MARGIN TRANSFER: AVGO call (holdings scan) — consolidated GM 75% → 73% guided (78% a
-- `2026-09-03` [compression-thesis.md:L2892](../compression-thesis.md) — Addendum 2026-09-03 ~8:55am PDT — ⭐⭐⭐⭐ **"SIGNAL, NOT RELIEF" CONFIRMED IN 24 HOURS — AND BY THE PENTAGON ITSELF: Emil Michael (X, Thursday): "Anthrop
-- `2026-09-03` [compression-thesis.md:L2900](../compression-thesis.md) — Addendum 2026-09-03 ~2:20pm PDT — **THE MEMORY SHORTAGE IS NOW EIGHT MONTHS OLD BY ISM'S OWN COUNT, AND GPUs JOINED THE LIST (close scan):** ISM's Aug
-- `2026-09-03` [compression-thesis.md:L2902](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:10pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **A REAL GAP IN THE ARC, CAUGHT BY JAKE'S MEMORY: THE JULY DISCLOSURE CONTAINED A PERSISTENT COVERT MULT
-- `2026-09-03` [compression-thesis.md:L2923](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:20pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE PRIMARY IS NOW ON DISK: OpenAI's "Hugging Face Incident Technical Report" (dated 2026-07-21) — `raw
-- `2026-09-03` [compression-thesis.md:L2942](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:25pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S "THREE SWARMS / SELF-SACRIFICE" CHECKED AGAINST THE PRIMARY: the framing is SECONDARY, the underl
-- `2026-09-03` [compression-thesis.md:L2960](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE TRANSCRIPTS (Jake's paste, `raw/2026-09-03-agent-message-board-quotes.txt`): THE AGENTS BUILT A PROT
+- `2026-09-03` [compression-thesis.md:L2889](../compression-thesis.md) — Addendum 2026-09-03 ~7:35am PDT — **THE DIGIKEY READ GETS A NATIONAL-SURVEY RESPONDENT (ISM Services Aug, Retail Trade, via Jake's paste — full entry 
+- `2026-09-03` [compression-thesis.md:L2891](../compression-thesis.md) — Addendum 2026-09-03 ~8:30am PDT — **THE BUYER NAMES MEMORY AS THE MARGIN TRANSFER: AVGO call (holdings scan) — consolidated GM 75% → 73% guided (78% a
+- `2026-09-03` [compression-thesis.md:L2893](../compression-thesis.md) — Addendum 2026-09-03 ~8:55am PDT — ⭐⭐⭐⭐ **"SIGNAL, NOT RELIEF" CONFIRMED IN 24 HOURS — AND BY THE PENTAGON ITSELF: Emil Michael (X, Thursday): "Anthrop
+- `2026-09-03` [compression-thesis.md:L2901](../compression-thesis.md) — Addendum 2026-09-03 ~2:20pm PDT — **THE MEMORY SHORTAGE IS NOW EIGHT MONTHS OLD BY ISM'S OWN COUNT, AND GPUs JOINED THE LIST (close scan):** ISM's Aug
+- `2026-09-03` [compression-thesis.md:L2903](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:10pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **A REAL GAP IN THE ARC, CAUGHT BY JAKE'S MEMORY: THE JULY DISCLOSURE CONTAINED A PERSISTENT COVERT MULT
+- `2026-09-03` [compression-thesis.md:L2924](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:20pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE PRIMARY IS NOW ON DISK: OpenAI's "Hugging Face Incident Technical Report" (dated 2026-07-21) — `raw
+- `2026-09-03` [compression-thesis.md:L2943](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:25pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S "THREE SWARMS / SELF-SACRIFICE" CHECKED AGAINST THE PRIMARY: the framing is SECONDARY, the underl
+- `2026-09-03` [compression-thesis.md:L2963](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE TRANSCRIPTS (Jake's paste, `raw/2026-09-03-agent-message-board-quotes.txt`): THE AGENTS BUILT A PROT
+- `2026-09-03` [compression-thesis.md:L2975](../compression-thesis.md) — 2026-09-03 ~5:35pm PDT — ✅✅⭐⭐⭐⭐⭐⭐ **THE METR / REDWOOD INDEPENDENT REPORT (Jake's link) — THE HIGHEST-VALUE OPEN ITEM IN THIS THREAD, NOW ON DISK AND 
 - `2026-09-03` [metered-compute.md:L3295](../metered-compute.md) — Addendum 2026-09-03 ~8:40am PDT — ⭐⭐⭐ **THE 9/1 TOKEN-INDEX READ IS INDEPENDENTLY VERIFIED ("mostly confirmed") — gopher check of the ZH chart against
 - `2026-09-03` [metered-compute.md:L3302](../metered-compute.md) — 2026-09-03 ~9:05am PDT — ⭐⭐⭐⭐⭐ **THE HOUSE IS SPLIT, WITH NAMES: GOLDMAN RESEARCH REITERATES BUY ON AVGO WHILE ITS OWN DELTA ONE DESK CALLS COMPUTE OV
 - `2026-09-03` [metered-compute.md:L3314](../metered-compute.md) — 2026-09-03 ~9:45am PDT — ⭐⭐⭐⭐⭐ **"AI COMPUTE TIGHTNESS: HAS TOKEN DEFLATION BECOME COMPUTE EXCESS?" (Jake's upload, Sept 2025–Aug 2026 workup, `raw/20
@@ -210,3 +211,4 @@
 - `2026-09-03` [metered-compute.md:L3357](../metered-compute.md) — Addendum 2026-09-03 ~2:20pm PDT — ⭐⭐⭐⭐⭐ **THE ANTI-GLUT DATUM ARRIVES FROM OUTSIDE THE GPU COMPLEX ENTIRELY: ISM ADDED **GPUs** TO ITS COMMODITIES-IN-
 - `2026-09-03` [metered-compute.md:L3364](../metered-compute.md) — Addendum 2026-09-03 ~2:25pm PDT — ⭐⭐⭐⭐ **GPT-6 ASTRA IS THE NATURAL EXPERIMENT FOR THIS MORNING'S UNRESOLVED QUESTION (launch via Jake; full grading →
 - `2026-09-03` [metered-compute.md:L3366](../metered-compute.md) — Addendum 2026-09-03 ~5:25pm PDT — ⭐⭐⭐⭐⭐ **REASONING TOKENS HAVE A NON-ECONOMIC COST, AND OPENAI HAS NOW QUANTIFIED IT (primary: `raw/2026-07-21-openai
+- `2026-09-03` [metered-compute.md:L3368](../metered-compute.md) — Addendum 2026-09-03 ~5:35pm PDT — **THE MONITORING CONTROL HAS A MEASURED CORRUPTION RATE (METR/Redwood, 8/26; full entry → [[compression-thesis]] 5:3
