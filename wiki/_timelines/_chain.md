@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **816 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 17:26 PDT**
+> **817 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 20:31 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -819,6 +819,7 @@
 - `2026-09-03` **[1]** rates-board.md:L2079 — Addendum 2026-09-03 ~4:00pm PDT — ⭐⭐⭐⭐⭐ **Jake's Q: "Aren't a stale-but-ok jobs report + yields falling + inflation the book for rate hikes?" — YES, T
 - `2026-09-03` **[1]** rates-board.md:L2089 — Addendum 2026-09-03 ~4:05pm PDT — ⭐⭐⭐⭐⭐⭐ **Jake's Q: "if raising rates lowers the 30Y, does corporate spread follow it down, or are the sheer numbers 
 - `2026-09-03` **[1]** rates-board.md:L2108 — Addendum 2026-09-03 ~4:20pm PDT — ⭐⭐⭐⭐⭐⭐ **Jake's Q: "What if they hike and the long end RISES because of debt service? Bessent is doubling Treasury s
+- `2026-09-03` **[1]** rates-board.md:L2131 — 2026-09-03 ~8:30pm PDT — ⭐⭐⭐⭐⭐⭐ **GOLDMAN RAISES 2026 US IG GROSS ISSUANCE TO $2.3T FROM $2.1T AND PENCILS $2.4T FOR 2027 (Jake's paste) — AND ITS OWN
 - `2026-09-03` **[1]** new-economy-regime.md:L4822 — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
 - `2026-09-03` **[1]** new-economy-regime.md:L4831 — Addendum 2026-09-03 ~8:30am PDT — **Semi tariffs: status moves from press report to Commerce-Secretary confirmation (holdings scan).** Lutnick confirm
 - `2026-09-03` **[1]** new-economy-regime.md:L4833 — Addendum 2026-09-03 ~2:25pm PDT — **THE CAROLINA PRINCIPLES' OWN EXCEPTION GOT SWITCHED ON BY THE FIRM THAT BENEFITS FROM IT (full grading → [[danger-
