@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **330 dated entries across 6 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 07:20 PDT**
+> **331 dated entries across 6 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 07:51 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -358,3 +358,4 @@
 - `2026-09-03` [rates-board.md:L2131](../rates-board.md) — 2026-09-03 ~8:30pm PDT — ⭐⭐⭐⭐⭐⭐ **GOLDMAN RAISES 2026 US IG GROSS ISSUANCE TO $2.3T FROM $2.1T AND PENCILS $2.4T FOR 2027 (Jake's paste) — AND ITS OWN
 - `2026-09-04` [ai-financing-fragility.md:L7650](../ai-financing-fragility.md) — Addendum 2026-09-04 ~7:05am PDT — **CAPITAL FORMATION IS STILL ACCELERATING, AND THE ROUND SHAPE IS THE TELL: GIMLET LABS $80M → $300M IN SIX MONTHS, 
 - `2026-09-04` [rates-board.md:L2147](../rates-board.md) — 2026-09-04 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PAYROLL PRINT BREAKS THE BASE CASE — AGAINST ME AND FOR JAKE: +162K vs +56K, AND JULY REVISED FROM −23K TO +21K 
+- `2026-09-04` [rates-board.md:L2168](../rates-board.md) — 2026-09-04 ~7:55am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE OPENING SCAN HANDS US A TABLE THAT PARTIALLY UNDERCUTS THIS BOARD'S OWN FRAMING — AND THE 30Y CLOSED THE MOVE *
