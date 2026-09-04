@@ -1,6 +1,6 @@
 # ⏱ INVENTORY — merged timeline (the gate)
 
-> **141 dated entries across 1 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 20:56 PDT**
+> **142 dated entries across 1 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 21:03 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -166,3 +166,4 @@
 - `2026-09-02` [demand-destruction.md:L3985](../demand-destruction.md) — 2026-09-02 ~8:42am PDT — ⭐⭐⭐⭐⭐ **THE IRAN LEG OF THE TETHER, MEASURED (Reuters via ZH): "Iran has gone about SEVEN WEEKS without shipping meaningful c
 - `2026-09-03` [demand-destruction.md:L3987](../demand-destruction.md) — 2026-09-03 ~8:40pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S READ IS RIGHT AND THE MECHANISM HAS A NAME: CHINA NEVER STOPPED BIDDING — IT BID A *DIFFERENTIAL* INSTEAD OF 
 - `2026-09-03` [demand-destruction.md:L4009](../demand-destruction.md) — ⟲ AMENDMENT 2026-09-03 ~9:00pm PDT — ⛔⛔ **JAKE IS RIGHT AND IT INVERTS THE READ: A SHARE IS NOT A VOLUME, AND THE DENOMINATOR WAS IN THE SAME ARTICLE.
+- `2026-09-03` [demand-destruction.md:L4030](../demand-destruction.md) — ⟲ AMENDMENT 2026-09-03 ~9:05pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE ON INSTRUMENT SCOPE: "one of the mechanisms we were using to reconcile China's consumption was look

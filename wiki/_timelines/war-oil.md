@@ -1,6 +1,6 @@
 # ⏱ WAR/OIL — merged timeline (the gate)
 
-> **329 dated entries across 3 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 20:56 PDT**
+> **330 dated entries across 3 notes · 2026-03-13 → 2026-09-03 · refreshed 2026-09-03 21:03 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -349,6 +349,7 @@
 - `2026-09-02` [war-board.md:L4406](../war/war-board.md) — Addendum 2026-09-02 ~10:00am PDT — **IRIB official toll (wire via Jake): 18 killed, 108 injured in the overnight US strikes.** The 18 matches the 8:35
 - `2026-09-03` [demand-destruction.md:L3987](../demand-destruction.md) — 2026-09-03 ~8:40pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S READ IS RIGHT AND THE MECHANISM HAS A NAME: CHINA NEVER STOPPED BIDDING — IT BID A *DIFFERENTIAL* INSTEAD OF 
 - `2026-09-03` [demand-destruction.md:L4009](../demand-destruction.md) — ⟲ AMENDMENT 2026-09-03 ~9:00pm PDT — ⛔⛔ **JAKE IS RIGHT AND IT INVERTS THE READ: A SHARE IS NOT A VOLUME, AND THE DENOMINATOR WAS IN THE SAME ARTICLE.
+- `2026-09-03` [demand-destruction.md:L4030](../demand-destruction.md) — ⟲ AMENDMENT 2026-09-03 ~9:05pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE ON INSTRUMENT SCOPE: "one of the mechanisms we were using to reconcile China's consumption was look
 - `2026-09-03` [oil-value-chain.md:L2591](../oil-value-chain.md) — Addendum 2026-09-03 ~7:30am PDT — **RETAIL DIESEL $5.783 (Wednesday, highest since mid-2022, "approaching a record"); LNG STILL AT A STANDSTILL — Qata
 - `2026-09-03` [oil-value-chain.md:L2593](../oil-value-chain.md) — Addendum 2026-09-03 ~8:50am PDT — **THE SAME EIA WEEK (ended Aug 28) IN WSJ'S NUMBERS (Harrup, raw/2026-09-03-wsj-eia-weekly-aug28.txt) — precision ad
 - `2026-09-03` [oil-value-chain.md:L2595](../oil-value-chain.md) — 2026-09-03 ~3:15pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE REGISTERED REVERSAL TRIGGER RESOLVES — FAVORABLY, AND IT CLOSES: THE WHITE HOUSE REFINER SUMMIT ASKED FOR *MORE
