@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **808 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 17:05 PDT**
+> **809 dated entries · 2026-02-10 → 2026-09-03 · refreshed 2026-09-03 17:07 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -843,3 +843,4 @@
 - `2026-09-03` **[5]** compression-thesis.md:L2892 — Addendum 2026-09-03 ~8:55am PDT — ⭐⭐⭐⭐ **"SIGNAL, NOT RELIEF" CONFIRMED IN 24 HOURS — AND BY THE PENTAGON ITSELF: Emil Michael (X, Thursday): "Anthrop
 - `2026-09-03` **[5]** compression-thesis.md:L2900 — Addendum 2026-09-03 ~2:20pm PDT — **THE MEMORY SHORTAGE IS NOW EIGHT MONTHS OLD BY ISM'S OWN COUNT, AND GPUs JOINED THE LIST (close scan):** ISM's Aug
 - `2026-09-03` **[5]** compression-thesis.md:L2902 — ⟲ AMENDMENT 2026-09-03 ~5:10pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **A REAL GAP IN THE ARC, CAUGHT BY JAKE'S MEMORY: THE JULY DISCLOSURE CONTAINED A PERSISTENT COVERT MULT
+- `2026-09-03` **[5]** compression-thesis.md:L2923 — ⟲ AMENDMENT 2026-09-03 ~5:20pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE PRIMARY IS NOW ON DISK: OpenAI's "Hugging Face Incident Technical Report" (dated 2026-07-21) — `raw

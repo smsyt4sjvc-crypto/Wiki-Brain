@@ -1,6 +1,6 @@
 # ⏱ TOKEN-ECON — merged timeline (the gate)
 
-> **191 dated entries across 3 notes · 2026-07-16 → 2026-09-03 · refreshed 2026-09-03 17:05 PDT**
+> **192 dated entries across 3 notes · 2026-07-16 → 2026-09-03 · refreshed 2026-09-03 17:07 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -204,6 +204,7 @@
 - `2026-09-03` [compression-thesis.md:L2892](../compression-thesis.md) — Addendum 2026-09-03 ~8:55am PDT — ⭐⭐⭐⭐ **"SIGNAL, NOT RELIEF" CONFIRMED IN 24 HOURS — AND BY THE PENTAGON ITSELF: Emil Michael (X, Thursday): "Anthrop
 - `2026-09-03` [compression-thesis.md:L2900](../compression-thesis.md) — Addendum 2026-09-03 ~2:20pm PDT — **THE MEMORY SHORTAGE IS NOW EIGHT MONTHS OLD BY ISM'S OWN COUNT, AND GPUs JOINED THE LIST (close scan):** ISM's Aug
 - `2026-09-03` [compression-thesis.md:L2902](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:10pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **A REAL GAP IN THE ARC, CAUGHT BY JAKE'S MEMORY: THE JULY DISCLOSURE CONTAINED A PERSISTENT COVERT MULT
+- `2026-09-03` [compression-thesis.md:L2923](../compression-thesis.md) — ⟲ AMENDMENT 2026-09-03 ~5:20pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE PRIMARY IS NOW ON DISK: OpenAI's "Hugging Face Incident Technical Report" (dated 2026-07-21) — `raw
 - `2026-09-03` [metered-compute.md:L3295](../metered-compute.md) — Addendum 2026-09-03 ~8:40am PDT — ⭐⭐⭐ **THE 9/1 TOKEN-INDEX READ IS INDEPENDENTLY VERIFIED ("mostly confirmed") — gopher check of the ZH chart against
 - `2026-09-03` [metered-compute.md:L3302](../metered-compute.md) — 2026-09-03 ~9:05am PDT — ⭐⭐⭐⭐⭐ **THE HOUSE IS SPLIT, WITH NAMES: GOLDMAN RESEARCH REITERATES BUY ON AVGO WHILE ITS OWN DELTA ONE DESK CALLS COMPUTE OV
 - `2026-09-03` [metered-compute.md:L3314](../metered-compute.md) — 2026-09-03 ~9:45am PDT — ⭐⭐⭐⭐⭐ **"AI COMPUTE TIGHTNESS: HAS TOKEN DEFLATION BECOME COMPUTE EXCESS?" (Jake's upload, Sept 2025–Aug 2026 workup, `raw/20
