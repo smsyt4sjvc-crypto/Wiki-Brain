@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **357 dated entries across 3 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 13:23 PDT**
+> **358 dated entries across 3 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 13:30 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -382,3 +382,4 @@
 - `2026-09-04` [rates-board.md:L2207](../rates-board.md) — Addendum 2026-09-04 ~1:15pm PDT — ⭐⭐⭐⭐⭐ **JAKE ON SEASONALITY: "What about YoY payrolls? Back-to-school hiring. End of summer is the extreme construct
 - `2026-09-04` [rates-board.md:L2224](../rates-board.md) — 2026-09-04 ~1:20pm PDT — ⭐⭐⭐⭐⭐⭐ **DECOMPOSITION ADOPTED AS RULE 20 — AND RUN ON THE DATA THE VAULT ALREADY HOLDS, IT PRODUCES A STRUCTURAL FINDING NEI
 - `2026-09-04` [rates-board.md:L2245](../rates-board.md) — 2026-09-04 ~1:25pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE ⬜ REGISTERED TEN MINUTES AGO CLOSES: TABLE B-1 CONFIRMS JAKE'S SEASONAL HYPOTHESIS, AND THE CYCLICAL CORE OF TH
+- `2026-09-04` [rates-board.md:L2280](../rates-board.md) — 2026-09-04 ~1:30pm PDT — ✅⭐⭐⭐⭐⭐⭐ **RULE 20's FIRST FULL APPLICATION, AND IT SCORES MY OWN PRE-REGISTERED CALL: THE ENTIRE DAY WAS REAL, BREAKEVENS DID

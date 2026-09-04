@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **827 dated entries · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 13:23 PDT**
+> **829 dated entries · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 13:30 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -858,7 +858,9 @@
 - `2026-09-04` **[1]** rates-board.md:L2207 — Addendum 2026-09-04 ~1:15pm PDT — ⭐⭐⭐⭐⭐ **JAKE ON SEASONALITY: "What about YoY payrolls? Back-to-school hiring. End of summer is the extreme construct
 - `2026-09-04` **[1]** rates-board.md:L2224 — 2026-09-04 ~1:20pm PDT — ⭐⭐⭐⭐⭐⭐ **DECOMPOSITION ADOPTED AS RULE 20 — AND RUN ON THE DATA THE VAULT ALREADY HOLDS, IT PRODUCES A STRUCTURAL FINDING NEI
 - `2026-09-04` **[1]** rates-board.md:L2245 — 2026-09-04 ~1:25pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE ⬜ REGISTERED TEN MINUTES AGO CLOSES: TABLE B-1 CONFIRMS JAKE'S SEASONAL HYPOTHESIS, AND THE CYCLICAL CORE OF TH
+- `2026-09-04` **[1]** rates-board.md:L2280 — 2026-09-04 ~1:30pm PDT — ✅⭐⭐⭐⭐⭐⭐ **RULE 20's FIRST FULL APPLICATION, AND IT SCORES MY OWN PRE-REGISTERED CALL: THE ENTIRE DAY WAS REAL, BREAKEVENS DID
 - `2026-09-04` **[1]** new-economy-regime.md:L4835 — Addendum 2026-09-04 ~7:05am PDT — ✅ **THE TARIFF-REFUND ⬜ CLOSES WITH A NUMBER, FROM A P&L: LULULEMON'S 60.5% GROSS MARGIN INCLUDED 560bp FROM $134.5M
 - `2026-09-04` **[3]** ai-financing-fragility.md:L7650 — Addendum 2026-09-04 ~7:05am PDT — **CAPITAL FORMATION IS STILL ACCELERATING, AND THE ROUND SHAPE IS THE TELL: GIMLET LABS $80M → $300M IN SIX MONTHS, 
+- `2026-09-04` **[3]** ai-financing-fragility.md:L7652 — 2026-09-04 ~1:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE DISPERSION INSTRUMENT ARRIVES: 300bp ON IDENTICAL COLLATERAL, INSIDE ONE ISSUER'S OWN CAPITAL STACK (IREN, close
 - `2026-09-04` **[4]** ai-capex-cycle.md:L3577 — Addendum 2026-09-04 ~7:05am PDT — **THE BAR, AGAIN: SAMSARA BEATS AND RUNS, ZSCALER BEATS AND FALLS (open scan).** **Samsara: ARR crossed $2.1B (+30%)
 - `2026-09-04` **[5]** compression-thesis.md:L3015 — Addendum 2026-09-04 ~1:25pm PDT — ⭐⭐⭐⭐ **THE AI CAPEX BOOM'S OWN SECTOR IS SHEDDING JOBS: INFORMATION PAYROLLS −23K IN AUGUST, THE LARGEST SINGLE DRAG

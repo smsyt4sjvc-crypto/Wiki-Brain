@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **335 dated entries across 6 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 13:23 PDT**
+> **337 dated entries across 6 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 13:30 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -357,9 +357,11 @@
 - `2026-09-03` [rates-board.md:L2108](../rates-board.md) — Addendum 2026-09-03 ~4:20pm PDT — ⭐⭐⭐⭐⭐⭐ **Jake's Q: "What if they hike and the long end RISES because of debt service? Bessent is doubling Treasury s
 - `2026-09-03` [rates-board.md:L2131](../rates-board.md) — 2026-09-03 ~8:30pm PDT — ⭐⭐⭐⭐⭐⭐ **GOLDMAN RAISES 2026 US IG GROSS ISSUANCE TO $2.3T FROM $2.1T AND PENCILS $2.4T FOR 2027 (Jake's paste) — AND ITS OWN
 - `2026-09-04` [ai-financing-fragility.md:L7650](../ai-financing-fragility.md) — Addendum 2026-09-04 ~7:05am PDT — **CAPITAL FORMATION IS STILL ACCELERATING, AND THE ROUND SHAPE IS THE TELL: GIMLET LABS $80M → $300M IN SIX MONTHS, 
+- `2026-09-04` [ai-financing-fragility.md:L7652](../ai-financing-fragility.md) — 2026-09-04 ~1:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE DISPERSION INSTRUMENT ARRIVES: 300bp ON IDENTICAL COLLATERAL, INSIDE ONE ISSUER'S OWN CAPITAL STACK (IREN, close
 - `2026-09-04` [rates-board.md:L2147](../rates-board.md) — 2026-09-04 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PAYROLL PRINT BREAKS THE BASE CASE — AGAINST ME AND FOR JAKE: +162K vs +56K, AND JULY REVISED FROM −23K TO +21K 
 - `2026-09-04` [rates-board.md:L2168](../rates-board.md) — 2026-09-04 ~7:55am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE OPENING SCAN HANDS US A TABLE THAT PARTIALLY UNDERCUTS THIS BOARD'S OWN FRAMING — AND THE 30Y CLOSED THE MOVE *
 - `2026-09-04` [rates-board.md:L2197](../rates-board.md) — Addendum 2026-09-04 ~12:05pm PDT — **JAKE: "No comment on jobs? Rate hike odds increase, that's why long yields down." — CORRECT, AND THE DECOMPOSITIO
 - `2026-09-04` [rates-board.md:L2207](../rates-board.md) — Addendum 2026-09-04 ~1:15pm PDT — ⭐⭐⭐⭐⭐ **JAKE ON SEASONALITY: "What about YoY payrolls? Back-to-school hiring. End of summer is the extreme construct
 - `2026-09-04` [rates-board.md:L2224](../rates-board.md) — 2026-09-04 ~1:20pm PDT — ⭐⭐⭐⭐⭐⭐ **DECOMPOSITION ADOPTED AS RULE 20 — AND RUN ON THE DATA THE VAULT ALREADY HOLDS, IT PRODUCES A STRUCTURAL FINDING NEI
 - `2026-09-04` [rates-board.md:L2245](../rates-board.md) — 2026-09-04 ~1:25pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE ⬜ REGISTERED TEN MINUTES AGO CLOSES: TABLE B-1 CONFIRMS JAKE'S SEASONAL HYPOTHESIS, AND THE CYCLICAL CORE OF TH
+- `2026-09-04` [rates-board.md:L2280](../rates-board.md) — 2026-09-04 ~1:30pm PDT — ✅⭐⭐⭐⭐⭐⭐ **RULE 20's FIRST FULL APPLICATION, AND IT SCORES MY OWN PRE-REGISTERED CALL: THE ENTIRE DAY WAS REAL, BREAKEVENS DID

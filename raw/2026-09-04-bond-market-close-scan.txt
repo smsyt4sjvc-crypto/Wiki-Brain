@@ -1,0 +1,605 @@
+Bond market close, Friday Sept 4 2026 (Jake's gopher), pasted ~1:27pm PDT
+
+BOND MARKET CLOSE — FRIDAY, SEP. 4, 2026
+TREASURY CLOSE
+4W — 3.72% | official Treasury bill coupon-equivalent | -4 bp
+3M — 3.86% | official bill CE | +2 bp
+6M — 4.01% | official bill CE | +2 bp
+1Y — 4.13% | official bill CE | +2 bp
+Sep. 4 official Treasury CMT note/bond row had not posted by this scan.
+2Y+ below are near-close market marks from roughly 3:00-4:00 p.m. ET:
+2Y — 4.372% | +3.8 bp
+3Y — 4.451% | +4.6 bp
+5Y — 4.545% | +3.6 bp
+7Y — 4.659% | +3.1 bp
+10Y — 4.780% | +1.8 bp
+20Y — ~5.23% | ~-1 bp
+30Y — 5.245% | essentially flat
+MORNING / JOBS SHOCK → CLOSE
+Pre-payroll:
+2Y — just above 4.33%
+10Y — just under 4.75%
+30Y — ~5.24%
+Immediate post-payroll:
+2Y — ~4.40%-4.41%
+10Y — ~4.80%-4.82%
+30Y — ~5.26%
+Near close:
+2Y — 4.372%
+10Y — 4.780%
+30Y — 5.245%
+READ:
+Strong payrolls produced a sharp Fed-sensitive selloff.
+Most of the initial 10Y/30Y damage retraced.
+The 2Y/belly retained more of the move.
+PRIOR CLOSE → TODAY
+2Y — 4.334% → 4.372% | +3.8 bp
+5Y — 4.509% → 4.545% | +3.6 bp
+10Y — 4.762% → 4.780% | +1.8 bp
+30Y — 5.243% → 5.245% | flat
+CURVE
+2s10s — +40.8 bp
+Prior — +42.8 bp
+Change — ~-2 bp flattening
+5s30s — +70.0 bp
+Prior — +73.4 bp
+Change — ~-3.4 bp flattening
+TODAY'S SHAPE:
+BEAR FLATTENING.
+Front/belly repriced Fed risk much more than the long end.
+REAL YIELDS / BREAKEVENS
+Official Sep. 4 TIPS curve:
+5Y real — 2.17% | +2 bp
+10Y real — 2.43% | +1 bp
+30Y real — 2.96% | unchanged
+Latest FORMAL breakevens — Sep. 3:
+5Y — 2.37%
+10Y — 2.35%
+Sep. 4 nominal-minus-real proxy:
+5Y — ~2.38%
+10Y — ~2.35%
+READ:
+Breakevens were essentially stable.
+Today's jobs shock primarily repriced:
+Fed/policy expectations
++ real yields
++ the front/belly.
+It was NOT a new inflation-expectations breakout.
+POLICY / OVERNIGHT
+EFFR — 3.63% | Sep. 3
+SOFR — 3.66% | Sep. 3
+Fed target — 3.50%-3.75%
+AUGUST PAYROLLS
+Nonfarm payrolls — +162K
+Consensus — ~+53K
+Unemployment — 4.1%
+September 25-bp hike probability:
+~49%-50% pre-report
+→ roughly 58%-61% after the report
+READ:
+Today's employment print materially reduced the Fed's freedom to look through sticky inflation.
+Upcoming CPI now becomes the next major policy gate.
+QUARTERLY TREASURY ANCHORS — 2Y / 10Y / 30Y
+CURRENT
+4.37 / 4.78 / 5.25
+~3 MONTHS — JUN. 4
+4.05 / 4.47 / 4.97
+Change — +32 / +31 / +28 bp
+~6 MONTHS — MAR. 4
+3.54 / 4.09 / 4.72
+Change — +83 / +69 / +53 bp
+~9 MONTHS — DEC. 4, 2025
+3.52 / 4.11 / 4.76
+Change — +85 / +67 / +49 bp
+~12 MONTHS — SEP. 4, 2025
+3.59 / 4.17 / 4.86
+Change — +78 / +61 / +39 bp
+STRUCTURAL READ:
+Even after today's long-end retracement, the entire financing curve remains dramatically more expensive than 6-12 months ago.
+ICE BOFA CORPORATE CREDIT
+OBSERVATION DATE: THURSDAY, SEP. 3
+Published Friday, Sep. 4.
+THESE ARE DAILY-CLOSE INDEX DATA.
+THEY DO NOT INCLUDE FRIDAY'S PAYROLL/TREASURY MOVE.
+Effective yield / OAS:
+IG TOTAL — 5.51% / 81 bp
+AAA — 5.39% / 44 bp
+AA — 5.37% / 61 bp
+A — 5.37% / 69 bp
+BBB — 5.69% / 100 bp
+HY TOTAL — 7.15% / 265 bp
+BB — 6.03% / 152 bp
+B — 7.26% / 276 bp
+CCC/LOWER — 14.92% / 1,051 bp
+OAS CHANGE VS SEP. 2
+IG — unchanged
+AAA — +1 bp
+AA — unchanged
+A — unchanged
+BBB — +1 bp
+HY — -1 bp
+BB — -1 bp
+B — unchanged
+CCC — -2 bp
+IMPORTANT:
+Yesterday's broad credit data were calm to slightly better.
+IG OAS — 81 bp
+HY — 265 bp
+CCC — 1,051 bp
+Friday's payroll-driven Treasury move is NOT yet contained in these numbers.
+Therefore:
+RATES SHOCK TODAY — YES
+CONFIRMED BROAD CREDIT TRANSMISSION TODAY — NOT YET
+IG MATURITY YIELDS — SEP. 3
+1-3Y — 4.83%
+7-10Y — 5.67%
+15Y+ — 6.27%
+Long-duration investment-grade borrowing is already >6% before any meaningful broad OAS widening.
+RATE VOLATILITY / CREDIT STRESS
+Latest verified MOVE close — SEP. 3:
+74.68
+Prior:
+Sep. 2 — 79.71
+Sep. 1 — 77.88
+Aug. 31 — 75.32
+Aug. 28 — 70.97
+Sep. 4 final MOVE was not reliably available at cutoff.
+READ:
+Treasury volatility fell Thursday before today's jobs shock.
+Still elevated from late August, but nowhere near crisis conditions.
+COREWEAVE 5Y CDS
+Latest verified Thursday — >800 bp
+Late-July peak — >900 bp
+Mid-August low — ~672 bp
+Market-implied 5Y default probability cited from FactSet data — roughly 40%-45%.
+This remains the clearest AI-SPECIFIC weak-credit signal.
+Broad HY OAS — 265 bp.
+CoreWeave CDS — >800 bp.
+The AI credit market is discriminating much more aggressively than the aggregate HY index.
+TREASURY AUCTIONS / SUPPLY
+No coupon auction today.
+Monday Sep. 7 — Labor Day; U.S. cash markets closed.
+NEXT COUPON SUPPLY
+Sep. 8 — $58B 3Y
+Sep. 9 — $39B 10Y
+Sep. 10 — $22B 30Y
+TOTAL — $119B
+These are now important tests because:
+2Y-10Y yields repriced higher after payrolls
+and
+10Y/30Y remain historically expensive despite today's retracement.
+FEDERAL FINANCING
+Q3 privately-held net marketable borrowing estimate — $739B
+Previous estimate — $671B
+Increase — +$68B
+Adjusting for Treasury's larger starting cash balance:
+underlying borrowing-need increase vs prior estimate — roughly $87B
+Q4 borrowing estimate — $628B
+Q3 + Q4 — $1.367T
+TREASURY BUYBACKS
+Expanded long-end liquidity-support program begins SEP. 9.
+10Y-20Y maximum:
+$2B → at least $4B per operation
+20Y-30Y:
+$2B → at least $4B per operation
+OBSERVED:
+Treasury is increasing its ability to remove illiquid/off-the-run duration.
+IMPORTANT:
+Treasury explicitly says buybacks are not expected to materially reduce privately-held net borrowing because new issuance replaces purchased securities.
+INTERPRETATION:
+LIQUIDITY SUPPORT — YES.
+NET DEBT CANCELLATION — NO.
+Interesting timing:
+expanded long-end buybacks begin on the same day as next week's $39B 10Y auction.
+CORPORATE / AI DURATION SUPPLY
+August U.S. IG issuance — RECORD ~$164B
+BofA September forecast — ~$190B
+No new mega public hyperscaler bond transaction was located today.
+But a much more revealing AI PRIVATE-CREDIT transaction has emerged.
+NEW AI FINANCING SIGNAL — IREN / BLUE OWL / PIMCO
+IREN secured — $2.4B
+Purpose:
+Nvidia Blackwell Ultra GPU purchases for Mackenzie, British Columbia.
+Structure:
+$1.2B senior secured term loan
++
+$1.2B senior secured notes
+Coupon — 9%
+Maturity — 2.5 years after funding
+PIMCO participated.
+Compare with IREN's separate MICROSOFT-BACKED GPU financing:
+Size — $3.65B
+Blended debt cost — 6.00%
+Private placement — $2.10B
+DDTL — $1.55B
+Ratings — Fitch A / DBRS A(low)
+Microsoft contract financing + customer prepayments fund roughly 96% of associated GPU capex.
+IREN says financing for non-investment-grade customer deployments can fund roughly 90% of GPU capex.
+THIS IS A VERY USEFUL FRAGILITY SIGNAL.
+Same basic asset:
+Nvidia GPUs.
+But financing cost changes dramatically depending on the quality of the underlying customer/offtake:
+MICROSOFT-BACKED COMPUTE — ~6%
+LESS-CREDIT-SUPPORTED GPU DEPLOYMENT — 9%
+The AI credit market is beginning to price CUSTOMER CREDIT and CONTRACT QUALITY very explicitly.
+AI SPV / SHADOW LEVERAGE
+NVIDIA — LEVEL 1 + LEVEL 2
+CUSTOMER FINANCING
+Accounts receivable:
+Q1 — ~$40.7B
+Q2 — $63.1B
+QoQ — +55%
+DSO:
+45 → 60 days
++33%
+Nvidia's disclosed reason:
+"extended payment terms on large, multi-quarter agreements with certain investment-grade customers."
+Nvidia's 10-Q says qualifying investment-grade data-center customers may receive payment terms of:
+90 DAYS → UP TO ONE YEAR.
+That is explicit trade-credit/customer-financing support.
+NVIDIA VIE EXPOSURE
+Infrastructure-financier equity-method investments — $3.3B
+Maximum loss exposure to VIE investments including carrying value + future commitments — $4.7B
+Primary-beneficiary conclusion:
+UNCHANGED — Nvidia says it is NOT the primary beneficiary and does not consolidate these VIEs.
+NVIDIA CONTINGENT SUPPORT
+SB Energy / Portsmouth initial supported capacity — ~4.25 GW
+Maximum SB Energy guarantee payment exposure — $105B
+Other land/power/shell AI-cloud guarantees — ~$3.5B
+TOTAL MAXIMUM GROSS GUARANTEE EXPOSURE — ~$108.5B
+Optional additional supported capacity — ~3.8 GW at Nvidia's discretion.
+Important:
+$108.5B is MAXIMUM CONTINGENT EXPOSURE.
+It is NOT funded debt or an expected loss.
+NVDA STATUS:
+Level 1 — ACTIVE
+Level 2 — ACTIVE
+Level 3 — no new SEC consolidation/VIE scrutiny located today
+Level 4 — no new auditor/CAM/material-weakness event located
+Level 5 — no primary-beneficiary reversal
+Level 6 — no restatement
+META — LEVEL 1 + LEVEL 2
+Q1 → Q2:
+Uncommenced leases:
+$182.88B → $278.99B
++52.6%
+Noncancelable contractual commitments:
+$237.67B → $349.31B
++47.0%
+Additional July DC leases — ~$68B
+Louisiana VIE equity:
+~$2.37B → ~$2.92B
++~23%
+Louisiana maximum exposure — ~ $46B
+roughly unchanged.
+Primary-beneficiary conclusion — UNCHANGED.
+Meta says it does not direct the activities most significantly affecting the VIE and does not consolidate it.
+No new Level 3-6 event located today.
+GOOGL / ALPHABET — LEVEL 1 + LEVEL 2
+Uncommenced DC leases:
+$75.6B → $85.2B
++12.7%
+Active credit-derivative backstops:
+~$28.4B → ~$43.8B
++54%
+Purchase/contractual obligations:
+~$332B → ~$811B
++~144%
+Financial guarantees:
+~$9.0B → ~$7.6B
+Relevant unconsolidated data-center VIE conclusion:
+UNCHANGED — Alphabet says it does not direct the most economically significant activities and is not primary beneficiary.
+No new Level 3-6 event located today.
+MSFT — LEVEL 1
+Uncommenced datacenter leases:
+~$196.6B → ~$329.1B
+QoQ — +67.4%
+No newly located:
+lessor guarantee
+credit backstop
+refinancing support
+or datacenter-VIE primary-beneficiary change today.
+MSFT STATUS:
+Level 1 remains active.
+AMZN — LEVEL 1 + LEVEL 2
+Leases not yet commenced:
+$106.35B → $137.214B
++29%
+Unconditional purchase obligations:
+$103.77B → $130.065B
++25%
+Total commitments:
+$569.28B → $650.034B
++14%
+ANTHROPIC FINANCING FACILITY
+Maximum — $20B
+Amazon invested — $5B in Q2
+Potential remaining availability — ~$15B
+Availability is partly tied to AWS reaching specified compute-capacity delivery milestones.
+Economic connection:
+AWS capacity delivery
+→ unlocks financing availability
+→ Amazon funds Anthropic
+→ Anthropic buys cloud/compute capacity.
+No new primary-beneficiary change located today.
+ORCL — LEVEL 2
+REFINANCING WATCH — NOW IMMEDIATE
+Uncommenced datacenter leases — ~$260B
+Guarantee of datacenter LESSOR borrowing:
+$2.2B → $3.3B
++50%
+The guaranteed borrowing MATURITY:
+SEPTEMBER 2026
+Other power/infrastructure obligations — ~$13.3B
+Subsequent cloud-infrastructure purchase commitments — ~$19B
+NEXT TRIGGER TO WATCH:
+extension
+replacement facility
+new Oracle guarantee
+direct refinancing support
+or assumption of lessor debt.
+No such new action was located today.
+SPACEX / SPACEXAI / xAI — LEVEL 1 + LEVEL 2
+DEBT / VALOR / FAILED SALE-LEASEBACK
+Other financings:
+Dec. 2025 — $4.562B
+Jun. 2026 — $13.406B
+Increase — ~194%
+The balance includes AI-infrastructure obligations from transactions that FAILED sale-leaseback accounting.
+GAAP result:
+the financing stays on SpaceX's balance sheet as debt.
+June 30:
+SpaceX Notes — $25.0B
+Other financings — $13.406B
+Finance leases — $1.079B
+TOTAL DEBT + FINANCE LEASES — $39.512B
+xAI DEBT MIGRATION
+March SpaceX bridge facility — $20B
+Bridge proceeds repaid:
+X B-1 Term Loan
+X B-3 Term Loan
+xAI fixed-rate loan
+xAI floating-rate loan
+xAI 12.5% secured notes
+SpaceX then issued $25B of notes in June and repaid the bridge.
+OBSERVED ACCOUNTING/FINANCING RESULT:
+legacy xAI/X financing migrated into the broader SpaceX capital structure.
+AI CAPEX
+Q2:
+AI capex — $15.828B
+Total segment capex — $18.369B
+AI share — ~86%
+Prior Q1 AI capex — ~ $7.7B
+QoQ AI capex increase — roughly +105%.
+CUSTOMER CONCENTRATION
+One AI-segment customer — 19.5% of Q2 consolidated SpaceX revenue.
+Separate Customer A — 18.3%.
+CONTRACTOR WATCH
+Previously identified disputed Darana mechanics' lien claims:
+~$569M combined reported claims across Tennessee/Mississippi.
+Claims remain disputed.
+SpaceXAI countersued alleging fraud/overbilling.
+Payment/construction dispute — YES.
+Established liquidity failure — NO.
+No new Valor restructuring, Colossus financing backstop, major guarantee or Level 3+ accounting event located today.
+TSLA — LEVEL 0 / WATCH
+SpaceX investment — $2.0B
+Ownership — <1%
+SpaceX purchases of Tesla Megapacks:
+Q2 Tesla revenue — $318M
+H1 — $405M
+Tesla cost of revenue on those sales:
+Q2 — $242M
+H1 — $307M
+No newly disclosed:
+Tesla guarantee of SpaceX/xAI debt
+credit backstop
+mandatory future funding
+refinancing support
+or other capital commitment.
+Transmission remains:
+equity exposure
++
+related-party commercial sales
+NOT guaranteed SpaceXAI debt.
+MATERIAL AI CREDIT COUNTERPARTIES
+COREWEAVE
+Latest verified 5Y CDS — >800 bp
+AI-specific credit warning — ACTIVE
+IREN
+Non-IG/offtake-light GPU financing — 9%
+IREN / MICROSOFT
+Investment-grade GPU financing — ~6%
+LAMBDA
+Existing $926M GPU-backed SPV TLB
+Baa2
+SOFR +300 bp
+secured by GPU/infrastructure assets + contracted cash flows
+OBSERVED PATTERN:
+AI compute is becoming a distinct financeable asset class.
+But pricing is already separating sharply according to:
+customer quality
+offtake quality
+asset residual risk
+and sponsor support.
+SYSTEM-WIDE TRIGGER STATUS
+LEVEL 1 — >20% QoQ shadow-exposure increase:
+ACTIVE
+Examples:
+NVDA AR +55%
+META leases +52.6%
+META commitments +47%
+GOOGL backstops +54%
+MSFT uncommenced leases +67%
+AMZN leases +29%
+AMZN purchase obligations +25%
+SpaceX AI capex ~+105% QoQ
+LEVEL 2 — guarantees/backstops/control/refinancing support:
+ACTIVE
+NVDA
+META
+GOOGL
+AMZN
+ORCL
+SpaceX/xAI
+LEVEL 3 — NEW SEC VIE/consolidation scrutiny:
+NONE LOCATED TODAY
+LEVEL 4 — NEW auditor/CAM/material weakness/accounting-policy concern:
+NONE LOCATED TODAY
+LEVEL 5 — NEW primary-beneficiary reversal / forced consolidation:
+NONE LOCATED TODAY
+LEVEL 6 — NEW restatement / multi-company reassessment:
+NONE LOCATED TODAY
+WHAT CHANGED TODAY
+1. PAYROLLS SURPRISED MASSIVELY HIGHER.
++162K vs ~+53K expected.
+2. FED HIKE ODDS JUMPED.
+~50% → roughly 58%-61%.
+3. TREASURIES INITIALLY SOLD OFF HARD.
+2Y reached ~4.41%.
+10Y reached ~4.80%-4.82%.
+4. MOST LONG-END DAMAGE RETRACED.
+Near close:
+10Y 4.780%
+30Y 5.245%.
+5. CURVE BEAR-FLATTENED.
+2s10s ~-2 bp.
+5s30s ~-3 bp.
+6. BREAKEVENS WERE STABLE.
+The move was mainly policy/real-rate repricing rather than a new inflation-expectations shock.
+7. LATEST LAGGED CREDIT DATA REMAIN CALM.
+IG — 81 bp.
+HY — 265 bp.
+CCC — 1,051 bp.
+8. AI CREDIT PRICING GAVE A BETTER SIGNAL THAN AGGREGATE HY.
+IREN:
+~6% financing with Microsoft-backed contracted cash flows.
+9% for less-credit-supported GPU equipment financing.
+9. COREWEAVE CDS REMAINS >800 BP.
+AI-specific weak credit is already repricing much harder than broad HY.
+10. NO NEW LEVEL 3-6 ACCOUNTING TRIPWIRE WAS LOCATED.
+11. NEXT WEEK IS A MAJOR DURATION TEST.
+$119B of 3Y/10Y/30Y Treasury supply after Labor Day.
+Expanded Treasury long-end buybacks start Sep. 9.
+MACRO READ
+OBSERVED:
+4W — 3.72%
+3M — 3.86%
+6M — 4.01%
+1Y — 4.13%
+2Y — 4.37%
+5Y — 4.55%
+10Y — 4.78%
+30Y — 5.25%
+5Y real — 2.17%
+10Y real — 2.43%
+30Y real — 2.96%
+2s10s — +41 bp
+5s30s — +70 bp
+5Y breakeven — 2.37% formal Sep. 3
+10Y breakeven — 2.35% formal Sep. 3
+EFFR — 3.63%
+SOFR — 3.66%
+IG yield/OAS — 5.51% / 81 bp
+HY — 7.15% / 265 bp
+CCC — 14.92% / 1,051 bp
+ICE observation date — Sep. 3
+MOVE — 74.68 | Sep. 3
+Payrolls — +162K
+September hike odds — ~58%-61%
+Q3 Treasury borrowing — $739B
+Q4 — $628B
+Next week's coupon supply — $119B
+August IG issuance — record ~$164B
+September estimate — ~$190B
+CoreWeave CDS — >800 bp
+IREN non-IG GPU financing — 9%
+IREN Microsoft-backed GPU financing — 6%
+INTERPRETATION:
+Today's report strengthens the FRAGILITY setup but does NOT show a broad credit break.
+The payroll surprise matters because it removes part of the Fed-relief valve.
+The system is simultaneously dealing with:
+STICKY INFLATION
++
+STRONGER LABOR DATA
++
+4.3%-4.8% FRONT/BELLY TREASURIES
++
+5.25% 30Y FUNDING
++
+$1.367T OF Q3/Q4 TREASURY BORROWING
++
+RECORD CORPORATE ISSUANCE
++
+ACCELERATING AI SPV/LEASE/PRIVATE-CREDIT FINANCING.
+But broad corporate spreads still say:
+NO CREDIT CRISIS.
+The more revealing development is underneath the index.
+AI credit is beginning to price by underlying economic quality:
+Microsoft-backed contracted GPU financing:
+~6%
+Less-credit-supported GPU equipment financing:
+9%
+CoreWeave 5Y CDS:
+>800 bp
+That is exactly how credit transmission would be expected to begin:
+weak/levered AI borrower
+→ equipment/SPV lender
+→ lessor/project-finance lender
+→ sponsor guarantees/backstops
+→ broad HY/IG only later if losses propagate.
+The second structural issue is Treasury competition.
+Treasury needs enormous financing.
+Corporate IG issuance is at record levels.
+Hyperscalers and AI infrastructure vehicles are simultaneously demanding long-duration capital.
+Treasury buybacks can improve market functioning.
+They do not remove that underlying competition for capital.
+The third issue is shadow exposure.
+META/MSFT/AMZN lease commitments,
+GOOGL/NVDA backstops,
+ORCL's lessor guarantee,
+SpaceX's failed-sale-leaseback debt,
+xAI debt migration,
+and Nvidia's customer payment extensions
+continue increasing the amount of economic leverage that sits outside the simple headline corporate-debt number.
+The accounting trigger still has NOT fired.
+The broad-credit trigger still has NOT fired.
+But the capital structure underneath both continues becoming more interconnected and more sensitive to a sustained high-rate environment.
+CURRENT STATUS
+Fed constraint — HIGHER TODAY
+Inflation pressure — HIGH / STICKY
+Real-rate pressure — VERY HIGH
+Long-end term-premium pressure — HIGH
+Treasury supply pressure — HIGH
+Corporate duration crowding — HIGH
+Treasury auction stress — LOW/MODERATE
+Rate volatility — ELEVATED, NOT CRISIS
+IG credit stress — LOW
+HY credit stress — LOW
+CCC stress — ELEVATED
+AI-specific credit stress — ACTIVE
+AI financing-cost dispersion — WIDENING
+AI capex intensity — EXTREME
+AI private-credit/SPV formation — ACCELERATING
+Vendor/customer financing — CONFIRMED
+Circular-capital structures — INCREASING
+ORCL September refinancing watch — ACTIVE
+SPV accounting trigger — NOT FIRED
+Systemic credit transmission — NOT YET
+OVERALL FRAGILITY — ELEVATED, NOT ACUTE
+
+Treasury’s September 4 bill table gives coupon-equivalent yields of 3.72% for 4W, 3.86% for 13W, 4.01% for 26W and 4.13% for 52W. Treasury’s real-yield table gives 2.17%/2.43%/2.96% for 5Y/10Y/30Y TIPS. Because the September 4 nominal CMT row had not posted by the cutoff, I used near-close market quotes for 2Y through 30Y rather than pretending the official Treasury row existed. 
+
+The August jobs report added 162,000 payrolls versus roughly 53,000 expected, pushing September hike odds from about 49%-50% to roughly 58%-61%. The immediate Treasury spike faded materially by late afternoon; MarketWatch had the 2Y around 4.37%, 10Y around 4.77% and 30Y around 5.24% late in the session. 
+
+The newest ICE BofA observations are September 3 daily closes, not September 4 live credit marks. FRED/ICE show total IG at 5.51% effective yield / 81 bp OAS, with AAA 5.39%/44 bp, AA 5.37%/61 bp, A 5.37%/69 bp, BBB 5.69%/100 bp, HY 7.15%/265 bp, BB 6.03%/152 bp, B 7.26%/276 bp, and CCC/lower 14.92%/1,051 bp. The maturity buckets are 4.83% for 1-3Y, 5.67% for 7-10Y and 6.27% for 15Y+. 
+
+Treasury’s official borrowing estimate remains $739B for Q3 and $628B for Q4. Its expanded long-end liquidity-support buybacks begin September 9, with 10-20Y and 20-30Y operation maximums at least doubling from $2B to $4B; Treasury explicitly describes these as liquidity-support operations rather than reductions in net financing requirements. August IG issuance reached a record $164B, while BofA projects about $190B in September. 
+
+The new AI-credit development is IREN’s $2.4B Blue Owl-led secured GPU financing at 9%, split into $1.2B of term loans and $1.2B of notes, with PIMCO participating. That contrasts directly with IREN’s $3.65B Microsoft-backed investment-grade facility at a 6.00% blended cost, where financing plus customer prepayments fund about 96% of the related GPU capex.  CoreWeave’s five-year CDS was still above 800 bp on Thursday, dramatically wider than broad HY spreads. 
+
+Nvidia’s own 10-Q says it may extend qualifying investment-grade customers payment terms from 90 days to one year for large data-center builds; its quarter ended with $63.1B of receivables and 60 DSO, versus 45 sequentially. Nvidia also reports $3.3B of equity-method investments in infrastructure financiers, with $4.7B maximum VIE loss exposure, and says it is not the primary beneficiary. Its separate disclosed maximum gross guarantee exposure is about $108.5B, including the $105B SB Energy cap. 
+
+The hyperscaler/SPV anchors come directly from current filings: Meta reports $278.99B of uncommenced leases and $349.31B of contractual commitments; Alphabet reports $85.2B of uncommenced data-center leases; Microsoft reports $329.1B; Amazon reports $137.214B of leases not yet commenced and $130.065B of unconditional purchase obligations; and Oracle reports a $3.3B guarantee of lessor borrowing that matures in September 2026. 
+
+SpaceX’s filing shows $25B of SpaceX notes, $13.406B of other financings and $1.079B of finance leases, totaling $39.512B, with “other financings” including failed-sale-leaseback AI infrastructure obligations. It also confirms that the $20B SpaceX bridge repaid legacy X/xAI loans and xAI’s 12.5% secured notes before the bridge itself was refinanced with SpaceX notes. Q2 AI capex was $15.828B, and one AI-segment customer represented 19.5% of consolidated revenue. Tesla separately reports a $2B SpaceX investment, less than 1% ownership, and $318M of Q2 / $405M of H1 revenue from SpaceX Megapack purchases.

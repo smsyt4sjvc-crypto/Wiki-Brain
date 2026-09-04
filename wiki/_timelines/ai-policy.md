@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **504 dated entries across 4 notes · 2026-05-22 → 2026-09-04 · refreshed 2026-09-04 13:23 PDT**
+> **505 dated entries across 4 notes · 2026-05-22 → 2026-09-04 · refreshed 2026-09-04 13:30 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -528,4 +528,5 @@
 - `2026-09-03` [metered-compute.md:L3368](../metered-compute.md) — Addendum 2026-09-03 ~5:35pm PDT — **THE MONITORING CONTROL HAS A MEASURED CORRUPTION RATE (METR/Redwood, 8/26; full entry → [[compression-thesis]] 5:3
 - `2026-09-04` [ai-capex-cycle.md:L3577](../ai-capex-cycle.md) — Addendum 2026-09-04 ~7:05am PDT — **THE BAR, AGAIN: SAMSARA BEATS AND RUNS, ZSCALER BEATS AND FALLS (open scan).** **Samsara: ARR crossed $2.1B (+30%)
 - `2026-09-04` [ai-financing-fragility.md:L7650](../ai-financing-fragility.md) — Addendum 2026-09-04 ~7:05am PDT — **CAPITAL FORMATION IS STILL ACCELERATING, AND THE ROUND SHAPE IS THE TELL: GIMLET LABS $80M → $300M IN SIX MONTHS, 
+- `2026-09-04` [ai-financing-fragility.md:L7652](../ai-financing-fragility.md) — 2026-09-04 ~1:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE DISPERSION INSTRUMENT ARRIVES: 300bp ON IDENTICAL COLLATERAL, INSIDE ONE ISSUER'S OWN CAPITAL STACK (IREN, close
 - `2026-09-04` [compression-thesis.md:L3015](../compression-thesis.md) — Addendum 2026-09-04 ~1:25pm PDT — ⭐⭐⭐⭐ **THE AI CAPEX BOOM'S OWN SECTOR IS SHEDDING JOBS: INFORMATION PAYROLLS −23K IN AUGUST, THE LARGEST SINGLE DRAG

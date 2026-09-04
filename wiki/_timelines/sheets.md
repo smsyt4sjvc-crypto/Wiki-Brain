@@ -1,6 +1,6 @@
 # ⏱ SHEETS — merged timeline (the gate)
 
-> **227 dated entries across 2 notes · 2026-05-22 → 2026-09-04 · refreshed 2026-09-04 13:23 PDT**
+> **228 dated entries across 2 notes · 2026-05-22 → 2026-09-04 · refreshed 2026-09-04 13:30 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -252,3 +252,4 @@
 - `2026-09-03` [balance-sheet-board.md:L785](../balance-sheet-board.md) — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **THE FINANCIER TEST, ANSWERED ON THE CALL: AVGO DISCLOSES AN "AI XPV" PLATFORM WITH APOLLO AND BLACKSTONE — >20GW OF O
 - `2026-09-03` [balance-sheet-board.md:L796](../balance-sheet-board.md) — Addendum 2026-09-03 ~5:00pm PDT — ⭐⭐⭐⭐ **THE CROSS-THREAD NOBODY DREW TODAY: NVIDIA IS BUYING THE COMPANY AN OPENAI AGENT BREACHED SIX WEEKS AGO — AND
 - `2026-09-04` [ai-financing-fragility.md:L7650](../ai-financing-fragility.md) — Addendum 2026-09-04 ~7:05am PDT — **CAPITAL FORMATION IS STILL ACCELERATING, AND THE ROUND SHAPE IS THE TELL: GIMLET LABS $80M → $300M IN SIX MONTHS, 
+- `2026-09-04` [ai-financing-fragility.md:L7652](../ai-financing-fragility.md) — 2026-09-04 ~1:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE DISPERSION INSTRUMENT ARRIVES: 300bp ON IDENTICAL COLLATERAL, INSIDE ONE ISSUER'S OWN CAPITAL STACK (IREN, close
