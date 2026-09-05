@@ -2417,3 +2417,39 @@ math. **Links:** [[balance-sheet-board]] · [[ai-financing-fragility]] · [[fore
 - **⭐⭐⭐⭐ THE IRONY THE POST CANNOT SEE: BESSENT ASKED FOR THIS.** `:L1938` (8/31) — **the US Treasury Secretary lobbied the BoJ to hike**, which **cuts against his own long-end apparatus.** ⇒ **If the carry unwinds, a US policymaker requested the accelerant, and the damage lands on the market he is trying to administer.** **That is the board's framing and it is worth more than the VIX comparison.**
 
 **📌 REGISTERED (unchanged, now sharpened):** **indirect share at Sept 9 (10Y) and Sept 10 (30Y) — the dated test, both pre-BoJ** · MoF intervention confirmation via BoJ current-account forecasts (checkable daily, not inferable) · GPIF allocation decision ⬜ · **Sept 18 BoJ + Silver Week as the actual risk window** · JGB long-end response to the hike as the fiscal-dominance pilot for Sept 16 · TIC Japan.
+
+---
+
+### Addendum 2026-09-05 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **RULE 20 ON THE WSJ CHART: THE WAR WINDOW'S 80bp IS 88% REAL. SIX MONTHS OF A WAR THAT SHUT HORMUZ MOVED 10Y BREAKEVENS TEN BASIS POINTS — SO THE WAR MARKS THE DATE, NOT THE CAUSE.** *(WSJ graphic via Carl Quintanilla, Pitcher/Dinesh/Dezember, pub. 9/2 9:00pm ET — `raw/2026-09-02-wsj-10y-yield-since-us-attacks-iran.png`. Decomposition computed from FRED DGS10/DFII10/T10YIE/DGS30/DFII30.)*
+
+**THE CHART:** 10Y nominal, Feb→Sept 2026, with a single annotation — **"U.S. attacks Iran"** — placed exactly at the series low (~3.9), and a ~90bp climb to ~4.8 thereafter. **The chart's own annotation supplies the start date, so rule 20 can be run on it.** *(Trough located precisely: **DGS10 3.97 on 2026-02-27** — which also dates the war's start, consistent with "Day 189" as of 9/4.)*
+
+### ★★★★★★ THE DECOMPOSITION — **2026-02-27 → 2026-09-03**
+| | trough | latest | Δ |
+|---|---|---|---|
+| **10Y nominal** | 3.97 | 4.77 | **+80 bp** |
+| **10Y REAL (DFII10)** | 1.72 | **2.42** | **+70 bp** |
+| **10Y BREAKEVEN** | 2.25 | 2.35 | **+10 bp** |
+| 30Y nominal | 4.64 | 5.25 | +61 bp |
+| **30Y REAL** | 2.43 | **2.96** | **+53 bp** |
+| 30Y breakeven (implied) | — | — | +8 bp |
+
+**Identity closes exactly (+70 +10 = +80, residual 0.0).** ⇒ **REAL = 88% of the 10Y move · BREAKEVEN = 13%. At the 30Y: REAL = 87%.**
+
+- **⇒ ★★★★★★ A WAR THAT TOOK HORMUZ FROM 19.87 mb/d TO ~4.9, PUT MURBAN AT $106.10, AND DROVE RETAIL DIESEL TO A WAR-HIGH MOVED 10-YEAR INFLATION EXPECTATIONS BY TEN BASIS POINTS.** **The oil shock's transmission channel into the bond market is essentially CLOSED.**
+- **⇒ AND THAT CORRECTS THE CHART'S IMPLIED STORY.** A single annotation at the trough invites the reader to assign the 80bp to the war. **But an oil shock reaches bonds through INFLATION EXPECTATIONS, and breakevens did not move.** ⇒ **THE WAR MARKS THE DATE, NOT THE MECHANISM.** What is left is the real-rate channel: **Fed repricing · Treasury supply and WAM · the indirect-bidder fade (66.0→61.5→60.78) · Japanese repatriation · fiscal dominance.** **At most, the war's start marks the moment the conventional risk-off trade EXHAUSTED — the market rallied INTO the war (yields to 3.97) and reversed within days, which is the regime revealing itself.**
+- **⇒ ★★★★★ IT IS ALSO THE VAULT'S FOREST LINE AS A NUMBER.** *"The bond market has repriced the REAL COST OF MONEY — not inflation, not yet a fiscal accident."* **88% real is that sentence measured — and WSJ's graphic is convergent corroboration from a source that has not read this board.**
+- **✅ AND IT AGREES WITH THE IEA:** breakevens flat through an oil shock is what you print when the market reads the shock as **DEMAND-DESTRUCTIVE rather than inflationary** — the vault's own 9/3 finding (IEA Q2 −4.9 mb/d, Q3 revised −1.7 → −2.8). **The bond market and the IEA are telling the same story from opposite ends.**
+
+### ⚠️ RULE 20'S TRAP, CHECKED
+Breakeven = expected inflation + inflation risk premium **− TIPS liquidity premium.** **Here breakevens ROSE (+10bp), so this is NOT branch 4** (real ↑ while BE ↓ = the March-2020-style squeeze). **The squeeze reading is ruled out by sign.** ⬜ SOFR-IORB over the window still worth pulling before the 88% is treated as fully clean, since a liquidity premium could inflate the real leg's magnitude without flipping the sign.
+
+### ★★★★ THE CURVE DID SOMETHING THE FISCAL-DOMINANCE READ DOES NOT PREDICT
+**10s30s nominal went +67bp (trough) → +48bp (now): FLATTENED 19bp. In REAL terms +71 → +54: flattened 17bp.** **The belly moved more than the long end.**
+⇒ **A term-premium/fiscal-accident regime should steepen — the long end leads. It did not. This window's shape is a POLICY repricing.** *(Consistent with the board's 12-month read: 5Y +90bp vs 30Y +38bp, Fed-led.)*
+⇒ **⚠️ LEVEL vs CHANGE, the board's own discipline: the LEVEL of long-end steepness is still 100% real (5s30s +73 = real +81, BE −8). The CHANGE over the war window FLATTENED.** **Both are true, and conflating them is the error the board already made once.** ⇒ **evidence against the STRONGEST version of fiscal dominance for THIS window — not against the level finding.**
+
+### ⇒ WHAT IT MEANS FOR THE BOOK
+**10Y real 2.42% · 30Y real 2.96%.** ⇒ **the discount rate on every long-duration asset in the book has risen ~70bp in six months with no inflation to blame it on.** **That is the [[power-to-silicon-thesis]] critique in one line: the "conservative" 70% infrastructure leg is priced off a real rate that has done this — and the war did not cause it, so a ceasefire will not undo it.**
+
+**📌 REGISTERED:** **SOFR-IORB across the war window (the liquidity-premium check on the 88%)** · **Sept 9 10Y and Sept 10 30Y decomposed under rule 20 — a pure SUPPLY event should move REAL, not breakeven, and this window says the market is already there** · 5s30s at the next print vs the +73 level · whether breakevens stay inert if Hormuz worsens (the test of "demand-destructive not inflationary") · CPI Sept 11.

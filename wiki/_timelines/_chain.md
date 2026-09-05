@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **837 dated entries · 2026-02-10 → 2026-09-04 · refreshed 2026-09-05 06:44 PDT**
+> **839 dated entries · 2026-02-10 → 2026-09-05 · refreshed 2026-09-05 07:02 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -21,6 +21,7 @@
 ## 2026-02
 
 - `2026-02-10` **[1]** rates-board.md:L1887 — DATA (`raw/2026-02-dallasfed-ai-debt-duration.pdf`, dallasfed.org "In Depth," pub. 2026-02-10; charts rendered via pdfimages)
+- `2026-02-27` **[1]** rates-board.md:L2344 — ★★★★★★ THE DECOMPOSITION — **2026-02-27 → 2026-09-03**
 
 ## 2026-05
 
@@ -872,3 +873,4 @@
 - `2026-09-04` **[3]** ai-financing-fragility.md:L7652 — 2026-09-04 ~1:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE DISPERSION INSTRUMENT ARRIVES: 300bp ON IDENTICAL COLLATERAL, INSIDE ONE ISSUER'S OWN CAPITAL STACK (IREN, close
 - `2026-09-04` **[4]** ai-capex-cycle.md:L3577 — Addendum 2026-09-04 ~7:05am PDT — **THE BAR, AGAIN: SAMSARA BEATS AND RUNS, ZSCALER BEATS AND FALLS (open scan).** **Samsara: ARR crossed $2.1B (+30%)
 - `2026-09-04` **[5]** compression-thesis.md:L3015 — Addendum 2026-09-04 ~1:25pm PDT — ⭐⭐⭐⭐ **THE AI CAPEX BOOM'S OWN SECTOR IS SHEDDING JOBS: INFORMATION PAYROLLS −23K IN AUGUST, THE LARGEST SINGLE DRAG
+- `2026-09-05` **[1]** rates-board.md:L2340 — Addendum 2026-09-05 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **RULE 20 ON THE WSJ CHART: THE WAR WINDOW'S 80bp IS 88% REAL. SIX MONTHS OF A WAR THAT SHUT HORMUZ MOVED 10Y
