@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **193 dated entries across 3 notes · 2026-07-09 → 2026-09-05 · refreshed 2026-09-05 15:17 PDT**
+> **194 dated entries across 3 notes · 2026-07-09 → 2026-09-05 · refreshed 2026-09-05 15:21 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -211,4 +211,5 @@
 - `2026-09-04` [war-board.md:L4523](../war/war-board.md) — Addendum 2026-09-04 ~2:20pm PDT — ⛔ **BESSENT CLAIMS THE EU "OFFICIALLY JOINED" ECONOMIC OUTCAST; THE EU'S OWN TEXT IS AN ENDORSEMENT, NOT A COMMITMEN
 - `2026-09-04` [war-board.md:L4531](../war/war-board.md) — Addendum 2026-09-04 ~3:45pm PDT — **THE BYPASS IS NOT CAPACITY-CONSTRAINED, IT IS ELIGIBILITY-CONSTRAINED — AND THIS BOARD ALREADY HELD THE BINDING FA
 - `2026-09-05` [buildout-bottleneck-map.md:L1677](../buildout-bottleneck-map.md) — 2026-09-05 ~8:35am PDT — ⭐⭐⭐⭐⭐⭐ **MICROSOFT IS SUING TO STOP THE EXACT POLICY THE WHITE HOUSE ENDORSED ONE DAY EARLIER — AND VIRGINIA HAS ALREADY PRIC
+- `2026-09-05` [buildout-bottleneck-map.md:L1705](../buildout-bottleneck-map.md) — 2026-09-05 ~3:30pm PDT — ⛔⭐⭐⭐⭐⭐ **NNE IS NR. BUT IT IS ADVANCING THE DETAILED DESIGN OF A HELIUM CIRCULATOR — AND THIS MAP RECORDED ON 7/12 THAT WAR D
 - `2026-09-05` [war-board.md:L4545](../war/war-board.md) — 2026-09-05 ~6:50am PDT — ⛔⭐⭐⭐⭐⭐⭐ **US DESTROYS THREE IRGC TANKERS — AND VERIFYING IT BROKE MY OWN 15-HOUR-OLD FINDING: JASK IS OPERATIONAL, KHARG IS B
