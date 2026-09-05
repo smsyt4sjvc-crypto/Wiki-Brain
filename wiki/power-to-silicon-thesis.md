@@ -306,3 +306,57 @@ Epoch uses **1.14** (grid-connected, modern liquid-cooled). SemiAnalysis's real 
 ⇒ **The capex column tells you the size of the silicon order. The REVENUE column tells you whether it will be repeated.** **A ledger with only the first is a bull case with no failure mode.**
 
 **📌 REGISTERED:** **revenue/GW through Rubin deployment — THE thesis test** · whether contracted-vs-spot revenue dispersion widens (the offtake premium as a series) · Epoch's facility $11.4B vs SpaceX's $2.85B — **brownfield conversion as a named, quantified edge (~$9–15B/GW)** · SemiAnalysis's $10–12B basis (gross cloud revenue or net?) ⬜ · **RFM's $15B acceptability threshold — its derivation ⬜, since it is now doing real work in this file.**
+
+---
+
+## 2026-09-04 ~10:05pm PDT — ⛔⛔⛔ **I COMPUTED THE WORKBOOK'S EMPTY STATISTICS AND THEN RAN THE CONTROL. THE SIGNAL DOES NOT BEAT RANDOM MONTHS IN THE SAME WINDOW.** *(`raw/2026-09-04-physical-to-silicon-clock.xlsx`, 7 sheets, parsed directly from the OOXML.)*
+
+### FIRST: THE WORKBOOK IS MORE HONEST THAN ITS SUMMARY, AND IT PREDICTED ITS OWN FAILURE MODE
+Sheet 7, verbatim: *"Events are clustered around the same industry cycle and are not independent. This workbook does not prove causality."* Sheet 1: *"The sample is small and clustered… **The regime split is ex post.** This is a countdown framework, not a proven factor model."* **Both are exactly right, and everything below is that warning cashed out.**
+
+### ⛔ THE QUANTITATIVE BACKTEST WAS NEVER RUN
+Sheet 3's header carries 24 columns through `1M Fwd · 3M Fwd · 6M Fwd · 9M Fwd · Months to Next >=10%`. **Every data row stops at 16.** Sheet 5's summary rows (Demand-led / Transition / Power-constrained / All upstream) are **labels with no numbers.** Sheet 1's "Preliminary result" table is **headers only.**
+⇒ **Sheet 1 asserts *"the power-constrained sample shows much stronger 3M/6M SOXX forward returns"* above an empty table. The claim was never computed in the file.** **The monthly SOXX series (sheet 2, 45 months) and the event log (sheet 3, 23 events) ARE populated — so the join was runnable and simply had not been done. I ran it.**
+
+### ✅ THE ASSERTED RESULT REPRODUCES — the claim was right
+| Sample | N | avg 1M | avg 3M | med 3M | avg 6M |
+|---|---|---|---|---|---|
+| Demand-led | 5 | +7.4% | +13.5% | +10.1% | +12.8% |
+| Transition | 1 | −4.4% | −15.6% | −15.6% | +10.4% |
+| **Power-constrained** | **8** | **+1.3%** | **+32.4%** | **+28.0%** | **+51.6%** |
+
+### ⛔⛔⛔ AND THEN THE CONTROL KILLS IT
+**Take EVERY month from Jul-2025 onward — no signal required, no event, just "be long semis in that window":**
+
+| | N | avg 3M | avg 6M |
+|---|---|---|---|
+| **CONTROL — every month, no signal** | **14** | **+26.5%** | **+57.2%** |
+| Signal dates | 8 | +32.4% | **+51.5%** |
+| **Signal, de-duplicated** | **6** | **+29.3%** | **+53.8%** |
+
+⇒ **★★★★★★ THE SIGNAL DOES NOT BEAT DOING NOTHING IN THE SAME WINDOW. AT 6 MONTHS IT DOES WORSE (+51.5 vs +57.2; +53.8 de-duplicated).** At 3M it is ~3–6pts better on N=6–8 — **noise at that sample size.**
+⇒ **THE CAUSE: SOXX RAN +168% FROM JUL-2025 (238.92) TO THE JUN-2026 PEAK (640.76). ANY DATE INSIDE THAT WINDOW SHOWS ENORMOUS FORWARD RETURNS.** **The "power-constrained regime" result is a statement about the WINDOW, not about the SIGNAL.**
+⇒ **AND THE SAMPLE IS SMALLER THAN IT LOOKS: IDs 13/14 (CAT, Aug-7 and Aug-21 2025) fall in the SAME MONTH and carry IDENTICAL forward returns; so do IDs 18/19 (ETN Feb-3, VRT Feb-11 2026). Four of eight "observations" are two duplicated pairs. Effective N = 6.**
+
+### ⛔⛔ THE SELL SIGNAL FAILS THE SAME TEST — AND THE VAULT'S OWN RECORD IS THE DISCONFIRMATION
+The sell chronology (Feb 11 → May 4 → May 5 → Jun 3 → **Jun 18 FERC** → Jun 22 peak) was selected **knowing** June 22 was the top. **The test that decides it: how often do power-constraint warnings appear WITHOUT a drawdown following?** **[[buildout-bottleneck-map]] answers from its own contemporaneous record, and the answer is: constantly.**
+- 7/10 a Fed voter cites the switchgear order book · 7/29 **Ofgem commitment fees for DC grid access** · 7/31 the civil-stack cascade · 8/27 tariffs on semis and DC servers · 8/28 *"the next AI bottleneck isn't another chip — it's the grid itself"* on the front page
+- **⛔⛔ AND THE DECISIVE ONE: 8/26 — EO 14420, an IEEPA NATIONAL EMERGENCY ON THE BULK-POWER SYSTEM with RETROACTIVE disconnect/replace authority.** **That is strictly MORE severe as a power-constraint event than the June 18 FERC orders.** **SOXX Jul-2026 close 504.89 → Aug-2026 close 511.04 = +1.2%. NO DRAWDOWN.**
+⇒ **★★★★★★ A STRICTLY MORE SEVERE POWER-CONSTRAINT EVENT PRODUCED NO SELL SIGNAL. THE JUNE 18 FERC ORDER WAS NOT SPECIAL; IT WAS SELECTED BECAUSE OF WHAT FOLLOWED IT.**
+- **Precision note:** month-end data gives the drawdown as **−21.2% (Jun 640.76 → Jul 504.89)**, or **−23.0%** from the 655.95 intramonth high. **The "nearly 30%" needs an intramonth trough that is not in this file.** ⬜
+- **Competing explanation already in the vault, unaddressed by the model:** [[rotation-stickiness]] L120 — **insiders "distributed $100M+ at the June highs."** **A top with insider distribution and record SOXX inflows into it does not need a power story.**
+
+### ✅ WHAT SURVIVES — AND IT IS NOT NOTHING
+1. **⭐⭐⭐ SHEET 4 IS THE REAL ASSET AND IT IS NOT A SIGNAL — IT IS A CALENDAR.** Seven stages with min/max lead times to chip revenue and to compute-live, anchored to named public lead-time disclosures (Vertiv's 12–18mo backlog ship window; CAT Monarch's Sep-26→Aug-27 delivery). **A lead-time map does not need a backtest to be useful. Keep it; stop asking it to be a factor model.**
+2. **⭐⭐⭐⭐ COMPUTE-TO-POWER COVERAGE IS UNTESTED BECAUSE IT HAS NEVER BEEN COMPUTED — and it is the one idea here that could carry content**, because it is a **CONTINUOUS RATIO**, not a hindsight-selected event. **Events can be cherry-picked; a ratio computed every month cannot.** **And the vault supplies the numerator conversion: 319 GPUs/MW ⇒ ~3.13 kW/GPU all-in, campus level (Anthropic×Nscale, verified).**
+3. **⚠️ BUT ITS DENOMINATOR IS MADE OF THE THING THE VAULT SAYS IS UNRELIABLE.** "Verified utility/on-site generation MW × COD" = **announced energization dates**, and the vault concluded four hours ago that **announcements are what slips.** ⇒ **The denominator degrades exactly when the metric matters most, and degradation-of-data is indistinguishable from degradation-of-reality.** **FIX: build it from IRREVERSIBLE commitments only — equipment in a named supplier's delivery schedule, interconnect APPROVED, steel in the ground — never from a stated COD.**
+4. **⚠️ 21(b) ON EATON'S 228 GW:** interconnection "backlog" is notoriously inflated by duplicate and speculative applications (developers file the same project into multiple queues). **228 GW of backlog against 32 GW under construction may be measuring QUEUE INFLATION, not demand.** ⬜ what fraction of the 228 GW carries a signed interconnection agreement or a deposit.
+
+### 📍 CURRENT STATE — THE MODEL'S OWN LIVE READ
+- **SOXX: Jun 640.76 → Jul 504.89 → Aug 511.04. Two months sideways, ~20% below the peak.**
+- **Dell (sheet 3 R23, 9/1/26): AI orders $60.9B, AI server revenue $16.4B, backlog $95B — a record.**
+⇒ **HARDWARE MONETIZATION AT AN ALL-TIME HIGH WHILE THE INDEX SITS 20% OFF. That IS the divergence the thesis named at 8:35pm as the setup** *("semi prices/positioning correct while AI capex, server demand, HBM demand… continue moving higher")*.
+⇒ **⚠️ AND THE CONTROL TEST FORBIDS ME FROM CALLING IT A BUY.** **The framework has not demonstrated timing skill; what it demonstrated was that being long semis in a +168% window worked.** **This is a REGIME observation, not a signal — and the honest label is: consistent with the thesis, evidentially worth nothing yet.**
+- **⭐ THE GENUINE FORWARD TEST STARTS THIS MONTH: CAT Monarch's 2 GW of gensets deliver Sep-2026 → Aug-2027** (sheet 7's own anchor, registered in January). **That is a pre-registered, out-of-sample, dated test — the only thing in this workbook that can generate evidence rather than describe it.**
+
+**📌 REGISTERED:** **compute-to-power coverage computed monthly from IRREVERSIBLE commitments only — the one metric worth building** · Monarch deliveries Sep-26 onward as the pre-registered out-of-sample test · Eaton's 228 GW: signed-IA fraction ⬜ · the intramonth SOXX trough ⬜ · **and the standing methodological rule this produced: ANY event-selected backtest inside a trending window must be run against an all-months control before it is believed.**
