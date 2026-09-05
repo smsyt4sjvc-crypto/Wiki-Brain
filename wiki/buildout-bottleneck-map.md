@@ -1691,3 +1691,56 @@ solar claims — any capex/factory evidence ever.
 - **⚠️ ON THE FLOW ITSELF: the index effect is largely front-run and post-inclusion drift has historically been negative once arbitraged.** **The forced bid is real and mostly priced by the effective date; sizing it needs BE's index weight and tracking AUM (⬜).**
 - **⬜ ILLUMINA "SET TO JOIN" IS ODD ON ITS FACE — a name of that size would ordinarily already be a member, which would imply a prior REMOVAL and re-addition.** **Flagged as a question about the wire's precision, not asserted from memory.** Everpure: unknown to the vault ⬜.
 - **GRADE (16c) → [[grades]]: BE 6 HOLDS — no upgrade on an inference.** **Named upgrade trigger: verified trailing-four-quarter GAAP profitability. That would retire the cap the grade was set on.**
+
+---
+
+### Addendum 2026-09-04 ~7:05pm PDT — **THREE PRINCIPALS PUT POWER AHEAD OF SILICON ON THE SAME STAGE, AND ALL THREE GET PAID IF YOU BELIEVE IT. THE CLAIM IS CORROBORATED; THE MAGNITUDES ARE ADVOCACY.** *(Jake's gopher, G20 Innovation Ministerial post-readout, Chapel Hill NC — `raw/2026-09-04-g20-post-ministerial-readout.txt`.)*
+
+### WHAT WAS SAID
+- **Musk (virtual):** an AI-power deficit in 2027 of **~15 GW**; countries need major power expansion for data centres. Separately, **AI could add 20-30% to global economic output.**
+- **Sacks:** **~$800B** invested in U.S. AI-related infrastructure in **2026**, potentially **$1.4T in 2027**. Data-centre operators **"should create net-new generation and help fund grid upgrades rather than simply compete with residential users."**
+- **Huang:** AI is infrastructure "like water, roads, electricity and the internet"; **the stack is ENERGY → chips → data centres → models → data/apps**; regulate actual not theoretical harms. **No new semiconductor export control announced at the ministerial** (a useful negative).
+
+### ⛔⛔ CLASS-8 FIRST (WHO GAINS IF BELIEVED) — THE CONVERGENCE IS NOT CORROBORATION
+| Principal | Gains if "power is the binding constraint" is believed |
+|---|---|
+| **Musk** | Sells the power adjacency (storage/generation) and is raising for xAI |
+| **Sacks** | Administration AI czar — a vast number justifies the policy agenda he is there to sell |
+| **Huang** | **Doubly**: if power is the bottleneck then NVDA is *not* the constraint and not the villain, **and** sovereign AI expands his TAM |
+
+⇒ **★★★★★ THREE INDEPENDENT-LOOKING VOICES, ONE SHARED INTEREST. This is a COALITION OF INTEREST wearing the costume of independent confirmation, and it is the exact pattern [[danger-disclosure-playbook]] exists to catch.**
+⇒ **BUT THE VAULT HOLDS INDEPENDENT EVIDENCE FOR THE POWER BOTTLENECK (this map's own interconnect-queue and turbine-lead-time work).** ⇒ **DISCIPLINED POSITION: THE CLAIM IS INDEPENDENTLY CORROBORATED. THE EMPHASIS AND THE MAGNITUDES ARE ADVOCACY. Those are separable and the vault must not let the second ride in on the first.**
+- **Musk's "20-30% of global output" sized: global GDP ~$110T ⇒ $22-33T.** **That is not a forecast, it is a fundraising sentence.** Filed as rhetoric; **NR**, and it should not be quoted anywhere in the vault as an estimate.
+
+### ★★★★★★ THE 15 GW NUMBER FAILS THE VAULT'S OWN CROSS-CHECK — AND THE TENSION IS THE FINDING
+**The XPV (AVGO/Apollo/Blackstone) alone is >20 GW by end-2028, with a $35B first tranche — already in this vault.**
+⇒ **Musk's projected 2027 *deficit* (15 GW) is SMALLER than the single largest private buildout program the vault tracks.**
+⇒ **THE TWO NUMBERS CANNOT BOTH BE RIGHT AS STATED. Either (a) the 2027 deficit is understated, or (b) the announced programs — XPV included — are not going to be delivered on their stated schedules.**
+⇒ **★★★★★ (b) IS THE INVESTABLE BRANCH, AND IT IS THE ONE THIS MAP ALREADY LEANS TOWARD: a deficit that small relative to announced capacity implies the announcements are the thing that slips.** **📌 THIS BECOMES A NAMED DISCRIMINATOR: track XPV's actual energised GW against its schedule. If XPV alone can nearly cover Musk's national deficit, the constraint is DELIVERY, not INTENT — which is a statement about EPC, turbines, transformers and interconnect queues, i.e. this map's whole subject.**
+
+### ⚠️ SCOPE DISCIPLINE ON SACKS' $800B / $1.4T — DO NOT LET IT MEET THE OTHER BIG NUMBERS
+**"U.S. AI-related INFRASTRUCTURE" is the WIDE scope: generation, grid, construction, land, cooling and electrical, plus non-hyperscaler buyers (OpenAI, Oracle, xAI, the neoclouds).** It is **not** the chips-and-servers scope and it is **not** hyperscaler capex guidance, which is far below it.
+⇒ **⛔ IT MUST NOT BE COMPARED TO GOLDMAN'S $2.3T/$2.4T (filed 9/3) EITHER — that is a multi-year FINANCING requirement, a third scope again.** **Three enormous numbers, three different denominators, and the vault has already been burned this week subtracting two measures of the same thing (the Hormuz bypass residual, today).** **📌 RULE APPLIED PRE-EMPTIVELY: no arithmetic between these three figures until each one's perimeter is documented.**
+- **Growth rate is the checkable part: $800B → $1.4T is +75% y/y.** **That is the claim to hold him to**, and it is far above any published hyperscaler capex growth guide. ⬜ Sacks' source and perimeter.
+
+### ★★★★★ "BUILD THE POWER WITH THE COMPUTE" IS A COST TRANSFER, AND THE VAULT SHOULD NAME WHO PAYS
+Sacks' policy answer to data-centre backlash is **not** to slow compute — it is to require operators to **fund net-new generation and grid upgrades.**
+⇒ **THAT RAISES CAPEX PER MW FOR THE OPERATOR.** Two consequences, opposite signs, and both are already vault threads:
+1. **→ [[ai-financing-fragility]]: a higher all-in cost per MW raises the financing requirement per unit of compute** — on a book already borrowing at CRWV ~9.16-9.75% with 5Y CDS >800bp. **The policy that protects the ratepayer lands on the credit.**
+2. **→ generation / transmission / electrical equipment / cooling / construction receive it as REVENUE.** This is the second-order basket's political tailwind stated by the administration in public.
+⇒ **★ THE TRANSFER IS FROM THE COMPUTE BALANCE SHEET TO THE EQUIPMENT ORDER BOOK, mediated by policy rather than by demand.**
+
+### ★★★★★ HUANG vs ALTMAN — THE SOVEREIGN-AI TAM WAS CONTRADICTED IN THE ROOM
+- **Huang:** every country needs domestic AI infrastructure.
+- **Altman, same ministerial:** countries **do not necessarily need to own domestic data centres and can rent compute abroad.**
+⇒ **DIRECTLY OPPOSED, SAME DAY, SAME STAGE — and each states precisely the position that sells his own product.** Huang sells the sovereign buildout; Altman sells the rental.
+⇒ **★★★★★ NVDA's SOVEREIGN-AI TAM NARRATIVE NOW HAS A NAMED PUBLIC COUNTERPARTY, AND IT IS THE CEO OF ONE OF NVDA'S LARGEST CUSTOMERS.** **Not a downgrade — a named risk to a TAM story the vault had been receiving only from its seller.** **📌 The discriminator is observable: sovereign compute CONTRACTS signed vs sovereign compute RENTED. Track which way national buyers actually go.**
+
+### GRADES (16c) → [[grades]] — **NOTHING MOVES, AND THE REASON IS THE RULE**
+- **BE 6 HOLD.** Joined the S&P 500 yesterday and Sacks' "build the power with the compute" is a real policy tailwind — **but BE's named upgrade trigger is its trailing-four-quarter GAAP result ⬜, and a speech is not that trigger.** **Same discipline that refused to re-upgrade the refiner basket on the summit readout: do not convert rhetoric into a grade move.**
+- **GEV HOLD** — identical reasoning.
+- **NVDA HOLD** — Huang's sovereign pitch is seller advocacy, contradicted in-room. Not a grade input.
+- **AVGO 8 HOLD** — the political-access dispersion risk is registered at [[danger-disclosure-playbook]] today, not graded.
+- **⛔ THE G20 FRAMEWORK ITSELF: NR (16c(e)).** **Carolina Principles, six-pillar statement, AI Prosperity Objectives and the AI Prosperity Compact carry NO BINDING SPENDING COMMITMENT AND NO ENFORCEMENT MECHANISM — the gopher flags this himself and he is right to.** **This is the MOL "guarantees and evidence" bar in a second domain: WORDS, not hardware.** **There is no instrument here and I am not going to invent one.**
+
+**📌 REGISTERED:** **XPV energised GW vs schedule — now the named delivery discriminator** · Sacks' $800B/$1.4T perimeter ⬜ · **sovereign compute CONTRACTED vs RENTED (the Huang-Altman discriminator)** · whether any G20 signatory attaches money to the framework (the point at which NR could change) · Musk's 15 GW source and geography ⬜ (U.S. or global? the brief does not say, and it changes the number's meaning entirely).

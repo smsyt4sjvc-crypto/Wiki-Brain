@@ -1,6 +1,6 @@
 # ⏱ POWER — merged timeline (the gate)
 
-> **87 dated entries across 3 notes · 2026-06-30 → 2026-09-04 · refreshed 2026-09-04 15:42 PDT**
+> **88 dated entries across 3 notes · 2026-06-30 → 2026-09-04 · refreshed 2026-09-04 18:56 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -109,3 +109,4 @@
 - `2026-09-03` [buildout-bottleneck-map.md:L1611](../buildout-bottleneck-map.md) — Addendum 2026-09-03 ~9:00am PDT — **GHOST-MW PURGE, PRECISION (Daily Market Brief citing Reuters' Texas investigation):** ERCOT tracking **>1,800 proj
 - `2026-09-04` [buildout-bottleneck-map.md:L1613](../buildout-bottleneck-map.md) — Addendum 2026-09-04 ~7:25am PDT — **GEV: STUDSVIK PICKS GE VERNOVA HITACHI'S BWRX-300 FOR 1.2GW IN SWEDEN, BUILT BY SAMSUNG C&T (ZH scan).** Four BWRX
 - `2026-09-04` [buildout-bottleneck-map.md:L1615](../buildout-bottleneck-map.md) — Addendum 2026-09-04 ~2:25pm PDT — ✅ **SOURCED: "BLOOM ENERGY, ILLUMINA, EVERPURE SET TO JOIN S&P 500" (ZH via X, 2:16pm, Jake's paste — closes the 2:2
+- `2026-09-04` [buildout-bottleneck-map.md:L1624](../buildout-bottleneck-map.md) — Addendum 2026-09-04 ~7:05pm PDT — **THREE PRINCIPALS PUT POWER AHEAD OF SILICON ON THE SAME STAGE, AND ALL THREE GET PAID IF YOU BELIEVE IT. THE CLAIM
