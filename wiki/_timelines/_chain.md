@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **836 dated entries · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 23:16 PDT**
+> **837 dated entries · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 23:23 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -860,6 +860,7 @@
 - `2026-09-04` **[1]** rates-board.md:L2245 — 2026-09-04 ~1:25pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE ⬜ REGISTERED TEN MINUTES AGO CLOSES: TABLE B-1 CONFIRMS JAKE'S SEASONAL HYPOTHESIS, AND THE CYCLICAL CORE OF TH
 - `2026-09-04` **[1]** rates-board.md:L2280 — 2026-09-04 ~1:30pm PDT — ✅⭐⭐⭐⭐⭐⭐ **RULE 20's FIRST FULL APPLICATION, AND IT SCORES MY OWN PRE-REGISTERED CALL: THE ENTIRE DAY WAS REAL, BREAKEVENS DID
 - `2026-09-04` **[1]** rates-board.md:L2309 — Addendum 2026-09-04 ~2:20pm PDT — ✅⛔ **NBIM's ACTUAL LETTER: $75B OUT OF TREASURIES, $20B INTO JGBs, AND THE DOLLAR EXPOSURE DOES NOT SHRINK — MY 7:05
+- `2026-09-04` **[1]** rates-board.md:L2318 — Addendum 2026-09-04 ~11:25pm PDT — ⛔⭐⭐⭐⭐ **THE YEN-CARRY ALARM IS A DAY STALE, ITS INTERVENTION CLAIM IS DISCONFIRMED BY A PRIMARY THIS BOARD ALREADY 
 - `2026-09-04` **[1]** new-economy-regime.md:L4835 — Addendum 2026-09-04 ~7:05am PDT — ✅ **THE TARIFF-REFUND ⬜ CLOSES WITH A NUMBER, FROM A P&L: LULULEMON'S 60.5% GROSS MARGIN INCLUDED 560bp FROM $134.5M
 - `2026-09-04` **[1]** new-economy-regime.md:L4837 — Addendum 2026-09-04 ~2:10pm PDT — ⚠️ **"ANNOUNCED HIRING PLANS" IS A PRESS-RELEASE COUNT, AND THE SCALE MAKES IT A NARRATIVE INDICATOR RATHER THAN A L
 - `2026-09-04` **[1]** new-economy-regime.md:L4847 — Addendum 2026-09-04 ~2:15pm PDT — ⛔ **THE CHART CONTRADICTS ITS OWN CAPTION: ON CHALLENGER'S OWN MONTHLY SERIES, HIRING-PLAN MOMENTUM IS NEGATIVE (`ra

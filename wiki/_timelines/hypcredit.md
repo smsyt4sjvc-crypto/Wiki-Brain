@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **298 dated entries across 3 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 23:16 PDT**
+> **299 dated entries across 3 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 23:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -326,3 +326,4 @@
 - `2026-09-04` [rates-board.md:L2245](../rates-board.md) — 2026-09-04 ~1:25pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE ⬜ REGISTERED TEN MINUTES AGO CLOSES: TABLE B-1 CONFIRMS JAKE'S SEASONAL HYPOTHESIS, AND THE CYCLICAL CORE OF TH
 - `2026-09-04` [rates-board.md:L2280](../rates-board.md) — 2026-09-04 ~1:30pm PDT — ✅⭐⭐⭐⭐⭐⭐ **RULE 20's FIRST FULL APPLICATION, AND IT SCORES MY OWN PRE-REGISTERED CALL: THE ENTIRE DAY WAS REAL, BREAKEVENS DID
 - `2026-09-04` [rates-board.md:L2309](../rates-board.md) — Addendum 2026-09-04 ~2:20pm PDT — ✅⛔ **NBIM's ACTUAL LETTER: $75B OUT OF TREASURIES, $20B INTO JGBs, AND THE DOLLAR EXPOSURE DOES NOT SHRINK — MY 7:05
+- `2026-09-04` [rates-board.md:L2318](../rates-board.md) — Addendum 2026-09-04 ~11:25pm PDT — ⛔⭐⭐⭐⭐ **THE YEN-CARRY ALARM IS A DAY STALE, ITS INTERVENTION CLAIM IS DISCONFIRMED BY A PRIMARY THIS BOARD ALREADY 
