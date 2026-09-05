@@ -239,3 +239,70 @@ Proposed: **de-risked GW × $25–30B/GW = downstream compute pool.** **The coef
 - **✅ CONSISTENCY CHECK THAT PASSES: AVGO's $11.5B/GW of custom silicon is ~38–41% of SpaceX's $27.7–30.3B total compute capex** — a plausible share for a custom-XPU-heavy build, and the first time the AVGO figure has had a same-perimeter comparator.
 
 **📌 REGISTERED:** SpaceX CIP composition and whether the two PP&E lines are gross or net ⬜ **(it decides which calculation is clean)** · the operator-vs-vendor cluster gap ⬜ **(now the vault's best-posed open question on this thesis)** · SpaceX's 1.2 GW permanent gas plant total construction cost ⬜ (the $2.8B turbine purchase is multi-site and cannot be divided) · **the ledger's PUE assumption must be STATED per row, not assumed** · nuclear $/GW as a separate generation coefficient (OKLO/BWXT/CEG are graded and gas benchmarks do not price them).
+
+---
+
+## 2026-09-04 ~9:20pm PDT — ⭐⭐⭐⭐⭐⭐ **THE COMPUTE LEG IS SETTLED AT ~$25B/GW ACROSS FOUR SOURCES; THE ENTIRE CLUSTER DISPUTE LIVES IN THE FACILITY LINE; AND THE REVENUE METRIC — WHICH THE VAULT ALREADY HELD AT A HIGHER NUMBER — TURNS THE THESIS'S STRENGTH INTO ITS RISK** *(Jake: SemiAnalysis, Epoch AI, Lazard Jul-2026 LCOE, Radio Free Mobile Apr-2026, NVDA earnings call. Rules 21/21(b) applied throughout.)*
+
+### 🔎 RULE 21 FIRST — **THE VAULT ALREADY HELD A REVENUE/GW FIGURE, AND IT IS HIGHER THAN THE ONE JUST BROUGHT IN**
+[[ai-financing-fragility]] L7505-7509, filed **8/26**: **Anthropic × Nscale West Virginia — $45B / 6 years for 460MW of Vera Rubin ⇒ $7.5B/yr ⇒ $16.3B/GW-yr, independently verified**, inside a $71.2B / 1.35GW campus (**$52.7B/GW all-in**; $47B GPUs = **$34.8B/GW**; shells $17.7B = **$13.1B/GW**; onsite power $6.5B = **$4.8B/GW**; **$17.9B/GW physical-only**; 2GW onsite gas + batteries, **grid-independent**; $5.84/available GPU-hr).
+
+| Revenue/GW-yr | Source | Class |
+|---|---|---|
+| **$10–12B** | SemiAnalysis, Radio Free Mobile | **MARKET / SPOT** |
+| **$15B** | RFM "acceptable economics" threshold | **the line** |
+| **$16.3B** | **Anthropic × Nscale, contracted** | **CONTRACTED, creditworthy offtake** |
+| $25B | RFM "healthy long-term base case" | aspiration |
+
+⇒ **★★★★★★ SPOT COMPUTE PRICES BELOW THE ACCEPTABILITY LINE. CONTRACTED COMPUTE PRICES ABOVE IT.**
+⇒ **THIS IS THE EXACT TWIN OF THE VAULT'S AI-CREDIT DISPERSION FINDING.** IREN 6.00% vs 9.00% — **300bp on identical GPU collateral, set entirely by offtake.** Now the revenue side: **~$4–6B/GW-yr of revenue dispersion on identical silicon, set entirely by offtake.** **The same variable prices both the debt and the revenue, and it is not the hardware.**
+⇒ **AND IT MECHANISES THE CRWV CDS >800bp:** a merchant-exposed operator earning spot ($10–12B) against a $15B acceptability line is impaired **at the revenue line**, not merely at the funding line. **The credit market is not mispricing CoreWeave; it is pricing the offtake.**
+
+### ★★★★★★ THE CLUSTER DISPUTE CLOSES — **⬜ REGISTERED AT 8:50pm, ANSWERED AT 9:20pm**
+**Decompose all four sources into COMPUTE vs FACILITY and the 1.7x spread stops being mysterious:**
+
+| Source | Servers + networking | Facility | Total |
+|---|---|---|---|
+| **SpaceX** (brownfield — Memphis, converted factory) | **$24.8B** | **$2.85B** | $27.7B |
+| **Huang, Blackwell** (NVDA content only) | **$25B** | — | — |
+| **Epoch AI** (greenfield model) | **$26.1B** ($21.2 + $4.9) | **$11.4B** | $37.9B |
+| **Nscale** (greenfield, grid-independent, **Vera Rubin**) | **$34.8B** | **$17.9B** ($13.1 shells + $4.8 power) | $52.7B |
+
+- **✅ THE COMPUTE LEG IS SETTLED: three independent sources at $24.8–26.1B/GW for BLACKWELL-era content** — a company's disclosed balance sheet, an independent bottom-up model, and the vendor's own figure. **Nscale's $34.8B is higher because it is a VERA RUBIN build**, which is exactly what Huang's ladder predicts.
+- **⛔ THE FACILITY LEG SPANS 6.3x — $2.85B to $17.9B — AND IT IS THE WHOLE DISPUTE.** **It is NOT operator-vs-vendor** (Nscale and SpaceX are both operators, at opposite ends). **It tracks BROWNFIELD → GREENFIELD → GREENFIELD-WITH-ISLANDED-POWER.**
+⇒ **★★★★★ RESOLUTION: "$/GW all-in" is not one number and never will be. It is $25B of compute plus a facility line that ranges 6x on siting strategy.** **The thesis should carry the compute coefficient as stable and treat the facility as a per-project variable** — and **brownfield conversion is worth ~$9–15B/GW, which is why Colossus went into an appliance plant.**
+
+### ★★★★★ HUANG'S LADDER RECONCILES — AND THEN CREATES THE THESIS'S CENTRAL RISK
+**NVDA content/GW: Hopper $18B → Blackwell $25B → Vera Rubin $40B.** **Blackwell's $25B matches Epoch's $26.1B and SpaceX's $24.8B** — vendor disclosure, independent model and disclosed balance sheet agreeing at the same perimeter. *(And it retires my 8:50pm suspicion that $40B/GW contradicted the server budget: it does not — it is the NEXT generation's budget.)*
+- **⇒ RUBIN RAISES SILICON CONTENT PER GW BY ~60% ($25B → $40B).**
+- **⇒ AND RADIO FREE MOBILE SAYS REVENUE/GW HAS BEEN FLAT THROUGH HOPPER → BLACKWELL — "stubbornly flat despite efficiency gains BECAUSE TOKEN PRICES HAVE FALLEN."**
+- **⇒ ★★★★★★ THE EFFICIENCY GAINS ARE BEING COMPETED AWAY IN TOKEN PRICES RATHER THAN RETAINED AS OPERATOR MARGIN. THE VENDOR CAPTURES THE GENERATIONAL IMPROVEMENT; THE OPERATOR DOES NOT.**
+- **⇒ RFM's flat revenue/GW and this vault's Silicon Data series (proprietary tokens −25.4% in August) ARE THE SAME PHENOMENON MEASURED AT TWO POINTS IN THE CHAIN.** **Independent corroboration of the monetization hole flagged at 8:35pm — and it confirms the hole is real.**
+
+### ⛔⛔ THE PAYBACK ARITHMETIC — **THE NUMBER THE WHOLE THESIS HAS TO SURVIVE**
+| | Capex/GW | Revenue/GW-yr | **Gross-revenue payback** |
+|---|---|---|---|
+| Epoch greenfield, spot | $37.9B | $10–12B | **3.2–3.8 yrs** |
+| Nscale greenfield, contracted | $52.7B | $16.3B | **3.2 yrs** |
+
+**Against a GPU economic life of 3–6 years** (this vault's own figure, Huang 8/10).
+⇒ **★★★★★★ THE ASSET RETURNS ITS ENTIRE CAPEX IN *GROSS REVENUE* OVER ROUGHLY ITS ENTIRE USEFUL LIFE — BEFORE POWER, COOLING, LABOR, INTEREST, OR ANY MARGIN WHATSOEVER.** **That is not a return profile. It is a treadmill, and it is why the Nscale contract had to pay 1.86x attributable capex to become financeable at all — the vault said so on 8/26: THE OFFTAKE *IS* THE COLLATERAL.**
+⇒ **📌 THE DATED, FALSIFIABLE TEST FOR THE ENTIRE THESIS: DOES REVENUE/GW RISE WITH RUBIN DEPLOYMENT, OR STAY FLAT A THIRD TIME?** **Rubin needs revenue/GW to rise ~60% just to hold operator payback constant. If it stays flat, silicon content per GW rises 60% into unchanged revenue and the operator's payback blows out past the asset's life.** **This is now the thesis's #1 disconfirmer, ahead of the four filed at 8:35pm.**
+
+### ⚠️ 21(b) ON THE GENERATION TABLE — **A THIRD DENOMINATOR PROBLEM IN ONE TABLE**
+SemiAnalysis onsite DC generation: industrial gas **$1.5–1.8B/GW** · aeroderivative **$1.7–2.0B** · recip **$1.7–2.0B** · CCGT **$1.45–2.10B**. *(Slightly cheaper than the $2.0–2.44B Meta/Entergy and Applied Digital benchmarks — use $1.5–2.0B for ONSITE gas.)*
+- **⛔ SOLAR AND WIND ARE QUOTED NAMEPLATE, AND NAMEPLATE ≠ FIRM.** At ~25% and ~35% capacity factors: **solar $1.25–1.85B → ~$5.0–7.4B/GW-FIRM · wind $1.9–2.75B → ~$5.4–7.9B/GW-FIRM.** ⇒ **3–4x gas on a firm basis. THAT is why every speed-to-power deployment in the table is gas** — the nameplate figures make renewables look competitive and they are not, for firm 24/7 AI load.
+- **Geothermal $5.1–6.6B and nuclear $12.3–17.6B are already firm** (high capacity factor) — so nuclear is **~8x gas**, and my ~$10–16B/GW estimate an hour ago was low. **Sourced now: Lazard Jul-2026.**
+- **⚠️ AND NSCALE PRICES ISLANDED POWER AT $4.8B/GW OF IT LOAD — 2GW of gas + BATTERIES for 1.35GW.** Per GW of *generation* that is **~$3.25B**, versus $1.5–2.0B for gas alone. ⇒ **the batteries-and-islanding premium is ~$1.25–1.75B/GW of generation.** Grid-independence is not free and the vault should stop treating "onsite gas" as one price.
+- **⚠️ THE "$1–1.2B FOR 200MW SIX MONTHS EARLIER" IS NOT INDEPENDENT EVIDENCE.** 0.2 GW × $10–12B/GW-yr × 0.5 yr = **$1.0–1.2B exactly.** It is the revenue metric restated, not a second observation. **Third instance tonight of apparent corroboration that is one measurement.**
+
+### ⛔ MY OWN CORRECTION — **I USED PUE 1.3 WITH NO BASIS**
+Epoch uses **1.14** (grid-connected, modern liquid-cooled). SemiAnalysis's real islanded campus runs **2.3 GW generation / 1.4 GW IT = 1.64x** including redundancy. **My 1.3 was a middle value I did not source.**
+⇒ **THE CORRECT STATEMENT IS A RANGE WITH A NAMED DEPENDENCY: 1 GW of firm generation supports 0.61 GW of IT if ISLANDED (÷1.64) and 0.88 GW if GRID-CONNECTED (÷1.14).** Jake's 0.6–0.9 spans exactly this and is right.
+⇒ **Restating my 8:50pm ledger correction properly: 15 GW of generation → 9.2 GW IT (islanded) to 13.2 GW IT (grid-connected) ⇒ $230–395B of compute capex.** **My "$288–346B" was inside the range but carried false precision. The band is wider than I implied and the driver is siting, not PUE.**
+
+### ✅ LEDGER v2 — **FOUR COLUMNS, AND THE FOURTH IS THE ONE THAT TESTS THE OTHER THREE**
+`announced generation GW` → `÷ 1.14 (grid) or 1.64 (islanded), STATED` → `= IT-load GW` → `× $25B compute (Blackwell) or $40B (Rubin)` → **`× $10–12B/GW-yr spot or $16.3B contracted = ANNUAL REVENUE`**
+⇒ **The capex column tells you the size of the silicon order. The REVENUE column tells you whether it will be repeated.** **A ledger with only the first is a bull case with no failure mode.**
+
+**📌 REGISTERED:** **revenue/GW through Rubin deployment — THE thesis test** · whether contracted-vs-spot revenue dispersion widens (the offtake premium as a series) · Epoch's facility $11.4B vs SpaceX's $2.85B — **brownfield conversion as a named, quantified edge (~$9–15B/GW)** · SemiAnalysis's $10–12B basis (gross cloud revenue or net?) ⬜ · **RFM's $15B acceptability threshold — its derivation ⬜, since it is now doing real work in this file.**
