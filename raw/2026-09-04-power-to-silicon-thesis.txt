@@ -1,0 +1,106 @@
+SOURCE: Jake, pasted 2026-09-04 ~8:27pm PDT. Developed OUTSIDE this vault (text references a prior
+conversation: a Feb-June semiconductor run, a jointly-arrived-at allocation, a weekly task).
+STATUS: THESIS, not data. Reconciliation at wiki/power-to-silicon-thesis.md.
+
+Thesis: Power is the bottleneck, but chips are the cleaner way to monetize the solution
+
+AI demand is not the problem. The constraint is increasingly power. The issue is that the power buildout is
+fragmented across too many technologies and too many sources of execution risk: grid upgrades, transmission,
+transformers, gas turbines, nuclear, geothermal, solar/storage, behind-the-meter generation, permitting, land,
+labor, tariffs, financing, construction delays, politics and NIMBY.
+
+That makes the energy side difficult to underwrite cleanly. A dollar of power capex can disappear into years of
+engineering, permitting, labor, interconnection and financing before it produces a single monetizable MWh. Even
+when a project succeeds, the equity return depends heavily on structure: regulated utility, merchant generation,
+PPA, tax credits, capacity payments, behind-the-meter economics, etc.
+
+Semiconductors are much cleaner. For AMD, Nvidia, SK hynix, Micron, Broadcom, Marvell, TSMC, Semtech and the
+equipment names, the economic chain is far easier to model: known chip/input cost -> known ASP -> known volume
+-> known gross margin -> known economic output.
+
+The semiconductor supplier does not particularly care whether the marginal electron came from a nuclear plant, a
+GE Vernova turbine, geothermal, solar + storage, a utility grid expansion or an xAI/SpaceX behind-the-meter
+plant. Once the power becomes available, it ultimately gets converted into: MW/GW -> racks -> accelerators/ASICs
+-> HBM -> networking -> storage -> packaging.
+
+That is the key asymmetry: Power capex tells you that more silicon will eventually be needed, but it does not
+necessarily tell you which power company will earn the best return.
+
+THE POWER BOTTLENECK DOES NOT INVALIDATE THE CHIP THESIS
+A power shortage only becomes bearish for semiconductors if AI customers decide they no longer want the compute.
+That is not what is happening. Instead, hyperscalers, AI labs, governments and infrastructure developers are
+spending enormous amounts to solve the power bottleneck. The constraint is causing more investment, not less
+demand.
+
+So the sequence is: AI demand rises -> compute demand rises -> power becomes the bottleneck -> capital floods
+into every possible power solution -> power capacity becomes credible/de-risked -> customers commit GPU/HBM/
+networking orders -> semiconductor cycle accelerates -> capacity eventually energizes and compute revenue begins.
+
+The important timing point is that semis should lead physical energization. You do not wait until the power plant
+or data center turns on. The investable signal is when the power becomes financeable and believable:
+* land secured * interconnection approved * PPA signed * turbines/transformers ordered * financing closed
+* construction visibly underway * credible energization date established * hyperscaler reserves the capacity
+At that point, the future silicon demand tranche starts becoming underwritable.
+
+"CYCLICAL POWER = CYCLICAL CHIPS"
+Power will not arrive smoothly. It will come online in waves. That creates the possibility of recurring
+semiconductor re-rating cycles: power bottleneck -> semis correct because deployment appears constrained -> new
+power tranche gets de-risked -> GPU/HBM/networking orders accelerate -> semi earnings estimates rise -> stocks
+re-rate sharply -> positioning gets crowded / expectations peak -> another correction -> next power tranche
+begins. That is essentially the framework behind the kind of February-June semiconductor run you were describing.
+The semiconductor cycle becomes partly a power-capacity visibility cycle.
+
+WHY THIS MAY BE A BUYING OPPORTUNITY
+The interesting setup is when semi prices/positioning correct while AI capex, server demand, HBM demand,
+packaging expansion, foundry utilization and future power capacity continue moving higher. That divergence is
+more interesting than simply saying "SOX is down." The thesis is strongest when the market temporarily interprets
+power scarcity as a cap on chip demand, while the real-world response is actually: spend hundreds of billions to
+solve power scarcity so that even more chips can be deployed. That turns the power constraint into a delayed
+semiconductor demand pool, not necessarily destroyed demand.
+
+WHY SEMIS MAY BE CLEANER THAN THE POWER BASKET
+The power winners are difficult to know in advance because the solution is scattered. You could be right that AI
+needs vastly more electricity and still pick the wrong: utility, nuclear developer, turbine manufacturer,
+geothermal company, solar/storage company, transmission owner, data-center power developer. But almost every
+successful solution eventually terminates in more powered silicon. That makes semiconductors the more
+concentrated expression of the same infrastructure thesis.
+
+BEST SEMICONDUCTOR EXPOSURES
+Accelerators: Nvidia, AMD. HBM/memory: SK hynix, Micron, Samsung. Custom silicon + networking: Broadcom, Marvell.
+Foundry/advanced packaging: TSMC. Semiconductor equipment: ASML, Applied Materials, Lam Research, KLA.
+Connectivity/signal integrity: Semtech.
+The equipment names are especially useful because they do not require you to know whether Nvidia, AMD, Google
+TPU, AWS Trainium or another ASIC ultimately wins. More advanced semiconductor capacity requires more equipment.
+
+PORTFOLIO FRAMEWORK WE ARRIVED AT
+Rather than putting everything into semiconductors immediately, the idea was to use a long-duration
+infrastructure base plus tactical semiconductor dry powder. Conceptually:
+50-60% power/infrastructure bottleneck exposure / 15-20% permanent semiconductor core / 25-30% cash/dry powder
+for semiconductor-cycle dislocations.
+Or, in the simpler version you proposed: ~70% diversified power/infrastructure basket / ~30% cash available to
+deploy into semiconductor cycles.
+The important modification is that the 70% should probably not be only energy producers. It can include the
+unavoidable infrastructure bottlenecks: turbines, transformers, switchgear, grid equipment, transmission,
+nuclear, behind-the-meter generation, cooling, data-center infrastructure. Then the tactical 30% gets deployed
+when the next power-to-silicon tranche becomes visible.
+
+WHAT TO TRACK
+newly de-risked MW/GW of AI power * credible energization dates * hyperscaler capex revisions * GPU/ASIC orders
+* HBM contract pricing * HBM capacity * TSMC utilization * advanced packaging / CoWoS capacity * networking
+demand * semiconductor lead times * inventories * DSO * gross margins * fab-equipment orders * turbine/
+transformer delivery schedules * PPAs * utility/interconnection approvals * financing closes * project delays
+* semiconductor positioning/volatility
+
+The weekly task we created is designed around exactly this question: Is the next power tranche becoming credible
+enough to create the next semiconductor demand and re-rating cycle?
+
+BOTTOM LINE
+AI demand is so strong that power has become the bottleneck. Power solutions are fragmented, capital-intensive
+and difficult to underwrite. But nearly every successful power solution ultimately enables more high-margin
+semiconductor deployment. Therefore, power-capacity de-risking can be used as a leading indicator for
+semiconductor demand cycles, allowing you to keep long-duration exposure to the infrastructure buildout while
+tactically buying semis during periods when their prices temporarily disconnect from the underlying expansion in
+future powered compute.
+
+Or even shorter: Power is the bottleneck. Power investment is scattered. Silicon is the common endpoint. Buy the
+infrastructure buildout, then use each newly de-risked power wave to time the next chip cycle.
