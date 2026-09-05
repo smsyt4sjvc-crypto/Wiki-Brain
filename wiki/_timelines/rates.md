@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **364 dated entries across 3 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 22:14 PDT**
+> **365 dated entries across 3 notes · 2026-02-10 → 2026-09-04 · refreshed 2026-09-04 23:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -381,6 +381,7 @@
 - `2026-09-04` [new-economy-regime.md:L4858](../new-economy-regime.md) — 2026-09-04 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐ **BEIJING SANCTIONED THE AUDITOR, NOT THE EXPORT: CHINESE RARE-EARTH SUPPLIERS ARE REFUSING US SHIPMENTS AND NOBODY HA
 - `2026-09-04` [new-economy-regime.md:L4866](../new-economy-regime.md) — Addendum 2026-09-04 ~3:10pm PDT — **USAR / SERRA VERDE: STILL NOT CLOSED, AND THE PENDING CLOSE IS WORTH MORE TODAY THAN IT WAS WEDNESDAY (Jake's ques
 - `2026-09-04` [new-economy-regime.md:L4873](../new-economy-regime.md) — ⟲ CORRECTION + MAJOR ENTRY 2026-09-04 ~3:15pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE SERRA VERDE MERGER CLOSED. I SAID IT HADN'T, FIVE MINUTES AGO, AND I WAS WRONG.** (`
+- `2026-09-04` [new-economy-regime.md:L4899](../new-economy-regime.md) — Addendum 2026-09-04 ~11:15pm PDT — **HUANG × EBRARD AT CHAPEL HILL: THE MEETING IS NR. THE SENTENCE ABOUT MEXICAN MANUFACTURING IS THE DATUM, AND IT L
 - `2026-09-04` [rates-board.md:L2147](../rates-board.md) — 2026-09-04 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PAYROLL PRINT BREAKS THE BASE CASE — AGAINST ME AND FOR JAKE: +162K vs +56K, AND JULY REVISED FROM −23K TO +21K 
 - `2026-09-04` [rates-board.md:L2168](../rates-board.md) — 2026-09-04 ~7:55am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE OPENING SCAN HANDS US A TABLE THAT PARTIALLY UNDERCUTS THIS BOARD'S OWN FRAMING — AND THE 30Y CLOSED THE MOVE *
 - `2026-09-04` [rates-board.md:L2197](../rates-board.md) — Addendum 2026-09-04 ~12:05pm PDT — **JAKE: "No comment on jobs? Rate hike odds increase, that's why long yields down." — CORRECT, AND THE DECOMPOSITIO
