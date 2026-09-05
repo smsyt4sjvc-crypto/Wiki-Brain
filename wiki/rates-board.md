@@ -2554,3 +2554,45 @@ Solving for implied Treasury issuance in the same 10Y-equivalent units:
 ⇒ **WHEN A FED GOVERNOR AND JPMORGAN ASSET MANAGEMENT ARE BOTH PUBLISHING YOUR THESIS, THE THESIS IS PRICED.** **The remaining edge is NOT the call — it is the DECOMPOSITION nobody else is running: supply vs preference, and the BBB/HY-vs-CCC line that says whether it stays selective.**
 
 **📌 REGISTERED:** **actual Treasury 10Y-equivalent net issuance 2025 vs 2026 ⬜ — decides supply vs preference** · whether the Oct/Nov refunding shortens WAM again (it would raise this ratio with no new corporate borrowing) · **the crowd-out call now flagged CONSENSUS per `_calibration.md`** · BBB/HY vs CCC as the live discriminator.
+
+---
+
+### Addendum 2026-09-05 ~11:20am PDT — ⭐⭐⭐⭐⭐⭐ **THE SLINKY IS REAL AND IT IS RUNNING BACKWARDS: THE IG YIELD HAS BEEN STATIONARY FOR 17 MONTHS WHILE THE 10Y CLIMBED 43bp UP TO IT. THE BOTTOM IS RISING TOWARD A FIXED TOP — AND THAT IS THE MORE ALARMING VERSION.**
+
+**JAKE'S MODEL:** IG issued at scale from 2024 → circular financing exposed, volume realised, FCF deteriorated, buybacks became capex → **investors independently demanded higher IG yield and hyperscalers accommodated** → **Treasuries then rose because they compete for the same demand pool.** *"Like a slinky. You pull the top up, the Treasury yields follow."*
+
+### ✅ THE MODEL HAS A TESTABLE SIGNATURE, AND IT IS A HUMP IN SPREADS
+If IG repriced FIRST and Treasuries followed, **IG OAS must WIDEN (IG moving, UST not) and then NARROW (UST catching up).** Tested on the full path, not endpoints:
+
+| | IG yield | 10Y | IG OAS |
+|---|---|---|---|
+| 2024-Q1 | 5.34 | 4.20 | 93 |
+| 2024-Q4 | 5.35 | 4.58 | 82 |
+| **2025-04-09 (WIDEST)** | **5.47** | **4.34** | **121** |
+| 2025-Q3 | 4.83 | 4.16 | 76 |
+| **2026-01-22 (TIGHTEST)** | — | — | **73** |
+| 2026-Q1 | 5.14 | 4.30 | 90 |
+| **2026-09-03** | **5.51** | **4.77** | **81** |
+
+### ★★★★★★ THE DECISIVE COMPARISON: FROM THE WIDEST POINT TO NOW
+**IG yield 5.47 → 5.51 = +4bp. 10Y 4.34 → 4.77 = +43bp. OAS 121 → 81 = −40bp.**
+⇒ **THE IG YIELD HAS BEEN ESSENTIALLY STATIONARY FOR SEVENTEEN MONTHS WHILE THE TREASURY YIELD ROSE 43bp UP TO IT.**
+⇒ **★★★★★★ THAT IS HIS SLINKY — WITH THE CAUSATION INVERTED. THE TOP DID NOT PULL THE BOTTOM UP. THE BOTTOM ROSE TOWARD A FIXED TOP.**
+⇒ **AND THE INVERSION IS THE MORE ALARMING READING, NOT THE LESSER ONE.** If IG were being bid up in yield, that is a CORPORATE CREDIT problem. **If the IG yield is the ANCHOR and Treasuries are converging up to it, the thing being repriced is the TREASURY** — investors will hold it only at a yield near the substitute's. **That is Waller's "the safety premium has effectively disappeared," stated as a price path.**
+
+### ✅ BUT HIS SEQUENCING IS VISIBLE AT QUARTERLY FREQUENCY — HE IS NOT WRONG, HE IS EARLY-AND-INTERMITTENT
+- **2026-Q1 is a textbook instance of his slinky: IG yield +30bp, 10Y +12bp, OAS +11bp.** IG led; Treasuries had not yet moved.
+- **2026-Q2 is the catch-up half: IG +5bp, 10Y +14bp, OAS −14bp.**
+- **2025-Q1 likewise: IG −19bp vs 10Y −35bp, OAS +15** — IG fell LESS, relative weakness in his direction.
+⇒ **⇒ THE HONEST VERDICT: THE MECHANISM IS OBSERVABLE QUARTER BY QUARTER, AND THE NET 17-MONTH RESULT IS CONVERGENCE UP TO A STATIONARY IG YIELD.** **Pull-then-follow happens; it just does not accumulate in the direction he assumed.**
+
+### ⚠️ AND ONE ATTRIBUTION CAUTION
+**The widest IG spread of the whole window — 121bp on 2025-04-09 — is a MACRO event, not an AI-financing event.** ⇒ **do not read IG spread history as a hyperscaler-issuance history; the largest move in it was not about them.**
+
+### ★★★★★★ THE SYNTHESIS: THE TWO MODELS ARE SEQUENTIAL, NOT COMPETING — AND THERE IS ~8bp OF ROOM LEFT
+**Convergence has a FLOOR: IG cannot yield less than Treasuries, and the observed post-2024 tightest is 73bp against 81bp today.**
+⇒ **⇒ THERE IS ROUGHLY 8bp OF CONVERGENCE ROOM BEFORE THE SPREAD HITS ITS OWN OBSERVED FLOOR.** At that point **either Treasuries stop rising, or IG yields must start rising too — AND THAT IS THE MOMENT JAKE'S SLINKY BECOMES THE OPERATIVE MODEL.**
+⇒ **★★★★★ SO THE REGIMES RUN IN ORDER: CONVERGENCE (now) → FLOOR → SLINKY (his). He has not described the current regime. He has described the NEXT one, and the handoff is measurable at ~73-80bp of IG OAS.**
+⇒ **📌 THAT IS NOW A HARD, CHEAP, DAILY-OBSERVABLE TRIGGER: IG OAS ≤ 75bp WITH THE 10Y STILL RISING = the convergence is exhausted and the corporate leg has to move.** **Pairs with the BBB/HY-vs-CCC marker as the two live discriminators on this thread.**
+
+**📌 REGISTERED:** **IG OAS ≤75bp with 10Y still rising — the convergence-exhausted trigger** · whether any quarter repeats the 2026-Q1 pattern (IG yield leading, 10Y flat) — that is his slinky live · hyperscaler FCF and buyback-to-capex conversion as the independent leg of his model ⬜ (the vault has NVDA OCF −52%/FCF −56%, but that is the VENDOR, not the hyperscalers) · actual Treasury 10Y-equivalent net issuance ⬜.
