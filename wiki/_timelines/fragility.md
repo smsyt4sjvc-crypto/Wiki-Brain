@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **344 dated entries across 6 notes · 2026-02-10 → 2026-09-05 · refreshed 2026-09-05 09:10 PDT**
+> **345 dated entries across 6 notes · 2026-02-10 → 2026-09-05 · refreshed 2026-09-05 11:04 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -372,3 +372,4 @@
 - `2026-09-05` [rates-board.md:L2340](../rates-board.md) — Addendum 2026-09-05 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **RULE 20 ON THE WSJ CHART: THE WAR WINDOW'S 80bp IS 88% REAL. SIX MONTHS OF A WAR THAT SHUT HORMUZ MOVED 10Y
 - `2026-09-05` [rates-board.md:L2376](../rates-board.md) — Addendum 2026-09-05 ~8:30am PDT — ⭐⭐⭐⭐⭐⭐ **WALLER JUST NAMED THE MECHANISM BEHIND THIS MORNING'S 88%, AND THE RECOVERY-RATE DATUM MEANS CCC AT 10.53pp
 - `2026-09-05` [rates-board.md:L2408](../rates-board.md) — Addendum 2026-09-05 ~9:15am PDT — ⭐⭐⭐⭐⭐ **JAKE: HYPERSCALERS ARE PRICE-INSENSITIVE BORROWERS, SO BUY CORPORATES INSTEAD OF TREASURIES. THE FIRST HALF 
+- `2026-09-05` [rates-board.md:L2439](../rates-board.md) — Addendum 2026-09-05 ~11:10am PDT — ⭐⭐⭐⭐⭐⭐ **THE JPMAM CHART QUANTIFIES JAKE'S CALL — AND ITS OWN DENOMINATOR UNDERCUTS THE SUPPLY VERSION OF IT WHILE 

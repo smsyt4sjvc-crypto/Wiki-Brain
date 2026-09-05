@@ -2516,3 +2516,41 @@ Brief (item 3): *"another sustained leg toward or through $100 Brent makes the F
 ⇒ **AND IT HAS A NATURAL TRIGGER THIS BOARD REGISTERED AN HOUR AGO: the intervention becomes plausible when the dispersion STOPS BEING SELECTIVE — i.e. when BBB/HY JOIN CCC instead of narrowing against it.** **While IG −4 / HY −45 / CCC +101, there is no IG dislocation to justify a facility, and no 13(3) predicate.** ⇒ **BBB/HY vs CCC is simultaneously the systemic-vs-selective marker AND the gate on his forecast.** **Clean, checkable, and it links his two claims.**
 
 **📌 REGISTERED:** war-window IG issuance volume vs spreads ⬜ (the borrower-sensitivity test) · **BBB/HY vs CCC as the gate on any corporate-facility scenario** · whether Treasury's buyback size or composition changes after Sept 10 · any 13(3)-adjacent language from Bessent or the Fed (it would be the first tell).
+
+---
+
+### Addendum 2026-09-05 ~11:10am PDT — ⭐⭐⭐⭐⭐⭐ **THE JPMAM CHART QUANTIFIES JAKE'S CALL — AND ITS OWN DENOMINATOR UNDERCUTS THE SUPPLY VERSION OF IT WHILE CONFIRMING THE DEMAND VERSION HE REFINED THIS MORNING** *(Bloomberg/JPMAM, data 8/31/26 — `raw/2026-08-31-jpmam-hyperscaler-issuance-vs-treasury.png`.)*
+
+**THE CHART:** Hyperscaler + NVIDIA debt issuance incl. SPVs as a % of Treasury bond issuance, **computed as annual net change in TEN-YEAR UST EQUIVALENTS.** 2015-2024 range roughly −7% to +17%; **2025 ≈ 30%; 2026 ≈ 68-70% (record).** Accompanying text: **$320B this year, +$120B y/y (+60%)**, *"more than double the 30% recorded in 2025 and nearly 9x larger than 2024."*
+
+### ✅ ARITHMETIC CHECKS — then 21(b) opens it up
+$320B on $200B = **+60%** ✓ · 70/30 = 2.33x ✓ · 70/7-8 ≈ 9-10x ✓. **The stated figures are internally consistent.**
+
+### ⛔⛔⛔ BUT THE RATIO ROSE 133% WHILE THE NUMERATOR ROSE 60%. **MORE THAN HALF THE MOVE IS THE DENOMINATOR SHRINKING.**
+Solving for implied Treasury issuance in the same 10Y-equivalent units:
+| | 2025 | 2026 | Δ |
+|---|---|---|---|
+| Big Tech (numerator) | $200B | **$320B** | **+60%** |
+| **Treasury (implied denominator)** | **~$667B** | **~$457–471B** | **−29% to −31%** |
+| **TOTAL duration supply** | ~$867B | **~$777–791B** | **−9% to −10%** |
+
+⇒ **★★★★★★ THE DENOMINATOR IS FALLING BY DESIGN, AND THIS BOARD HAS BEEN TRACKING THE POLICY THAT DOES IT: BESSENT'S WAM SHORTENING, THE BUYBACKS, THE $6B LONG-END SIZE CUT, AND THE SEPT 10 30Y REOPENING AT A CUT SIZE.** **Because the metric is TEN-YEAR EQUIVALENTS, shifting issuance to BILLS shrinks the denominator mechanically WITHOUT REDUCING BORROWING AT ALL.**
+⇒ **THE CHART THEREFORE MEASURES, IN PART, THE POLICY RESPONSE TO THE PROBLEM IT IS BEING USED TO ILLUSTRATE.** **A ratio is not a quantity — third instance of 21(b) earning its place this week.**
+
+### ★★★★★★ AND THE IMPLICATION IS THE OPPOSITE OF THE HEADLINE
+**If both legs are right, TOTAL 10Y-equivalent duration supply FELL ~10% y/y — while the 30Y rose to 5.25-5.27% and the 10Y's war-window move was +80bp, 88% of it REAL.**
+⇒ **LESS TOTAL DURATION SUPPLY AND HIGHER LONG YIELDS CANNOT BE A PURE SUPPLY-CROWDING STORY. THE DEMAND SIDE DETERIORATED.**
+⇒ **★★★★★ THAT IS PRECISELY THIS MORNING'S FINDING FROM A THIRD DIRECTION:** IG/BBB/HY spreads NARROWED while real yields rose 70bp ⇒ capital moving TOWARD corporate paper, and Treasuries losing the convenience yield ⇒ **Waller's channel, and the DEMAND/PREFERENCE version Jake refined at 8:57am — not the supply-competition version he opened with.**
+⇒ **⇒ THE CHART IS BEST EVIDENCE FOR THE ARGUMENT ITS OWN CAPTION DOES NOT MAKE: Big Tech did not out-SUPPLY the Treasury. IT MANUFACTURED A SUBSTITUTE THAT INVESTORS PREFER, AND THE TREASURY SHRANK ITS DURATION INTO THAT PREFERENCE.**
+
+### ⚠️ TWO MORE PERIMETER FLAGS BEFORE ANYONE QUOTES IT
+- **NET, NOT GROSS.** *"Annual NET CHANGE in ten-year UST equivalents"* — and **the series prints NEGATIVE in 2019 (−7%)**, which confirms it. **Net-to-net ratios are fragile by construction: a shrinking denominator inflates the ratio without any change in the numerator's economic significance.**
+- **⬜ I VERIFIED NOTHING INDEPENDENTLY.** The implied denominators above are DERIVED from the two stated ratios and the two stated dollar figures. **If the ratios are rounded or the two legs use different perimeters, the derivation moves.** ⬜ **actual Treasury 10Y-equivalent net issuance 2025 vs 2026 — this is now the board's highest-value open item on the thread, because it decides whether the crowding is supply or preference.**
+- **CLASS 8:** a large asset manager publishing "Big Tech is crowding out Treasuries" is a house view that supports a higher-yields forecast and active credit allocation. **Not disqualifying. Advocacy-shaped.**
+
+### ⭐⭐⭐⭐ CREDIT WHERE IT IS DUE — AND THE CALIBRATION RULE THAT NOW APPLIES
+**Jake's call is confirmed and dated: [[ai-capex-cycle]] L2870, 2026-08-15, credits him with generalising "the crowd-out loop."** **Three independent arrivals since: this vault (his, 8/15) → Waller from a Fed governor's chair (9/4) → JPMAM as a published chart (8/31 data, circulating 9/5).**
+⇒ **⛔ AND THAT IS EXACTLY WHEN THIS VAULT'S OWN CALIBRATION DOCTRINE FIRES.** `_calibration.md:381`: *"a consensus meme is worth ~0; the edge was SEEING it early (done), not holding it."* `:389`: *"right on the DISEASE (validated, priced); the crowding means near-term squeeze-lean."*
+⇒ **WHEN A FED GOVERNOR AND JPMORGAN ASSET MANAGEMENT ARE BOTH PUBLISHING YOUR THESIS, THE THESIS IS PRICED.** **The remaining edge is NOT the call — it is the DECOMPOSITION nobody else is running: supply vs preference, and the BBB/HY-vs-CCC line that says whether it stays selective.**
+
+**📌 REGISTERED:** **actual Treasury 10Y-equivalent net issuance 2025 vs 2026 ⬜ — decides supply vs preference** · whether the Oct/Nov refunding shortens WAM again (it would raise this ratio with no new corporate borrowing) · **the crowd-out call now flagged CONSENSUS per `_calibration.md`** · BBB/HY vs CCC as the live discriminator.
