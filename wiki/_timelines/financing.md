@@ -1,6 +1,6 @@
 # ⏱ FINANCING — merged timeline (the gate)
 
-> **228 dated entries across 2 notes · 2026-05-22 → 2026-09-04 · refreshed 2026-09-04 20:42 PDT**
+> **228 dated entries across 2 notes · 2026-05-22 → 2026-09-04 · refreshed 2026-09-04 20:49 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -227,29 +227,29 @@
 - `2026-08-30` [ai-financing-fragility.md:L7540](../ai-financing-fragility.md) — 2026-08-30 ~10:05am PDT — ⭐⭐⭐⭐⭐ **JAKE'S QUESTION — "are they taking profits and GTFO while they can?" — ANSWERED WITH THE STACK-POSITION FRAME: the a
 - `2026-08-31` [ai-financing-fragility.md:L7615](../ai-financing-fragility.md) — Addendum 2026-08-31 ~12:38pm PDT — **the conveyor gains its RETIREMENT LEG and a hidden-leverage flag (Class B sweep, [[new-economy-regime]] 8/31): EO
 - `2026-08-31` [ai-financing-fragility.md:L7617](../ai-financing-fragility.md) — Addendum 2026-08-31 ~1:28pm PDT — ⭐⭐⭐⭐ **LAMBDA'S $926M GPU-BACKED SPV TERM LOAN B (8/31 scan tail): the first INVESTMENT-GRADE-RATED (Baa2) GPU-colla
-- `2026-08-31` [balance-sheet-board.md:L666](../balance-sheet-board.md) — Addendum 2026-08-31 ~7:25am PDT — **8/31 opening scan's monitor pass: the NVDA block = the vault's 8/26 entry finally reaching the scan's own monitor 
-- `2026-08-31` [balance-sheet-board.md:L684](../balance-sheet-board.md) — Addendum 2026-08-31 ~9:35am PDT — ⭐⭐⭐⭐ **THE VENDOR-BANK OPENS A CONVERTIBLE DESK (8/31 scan, company-confirmed): NVDA invests $3.5B in MEDIATEK CONVE
-- `2026-08-31` [balance-sheet-board.md:L705](../balance-sheet-board.md) — Addendum 2026-08-31 ~9:40am PDT — ⭐⭐⭐⭐⭐ **THE TENANT GETS PAID IN EQUITY (WSJ via Jake's brief): SB ENERGY OFFERED OPENAI ~$5.5B OF WARRANTS to secure
-- `2026-08-31` [balance-sheet-board.md:L724](../balance-sheet-board.md) — Addendum 2026-08-31 ~12:40pm PDT — **the Musk-complex monitor gets its BIRTH CERTIFICATE (Class B sweep): SpaceX/xAI consolidated FEB 2, 2026 — ~$1.25
-- `2026-08-31` [balance-sheet-board.md:L726](../balance-sheet-board.md) — Addendum 2026-08-31 ~1:30pm PDT — **two monitor items from the 8/31 close scan:** (1) **EL PASO QUANTIFIED: BlackRock funds 80% / META 20% · ~$14B pro
+- `2026-08-31` [balance-sheet-board.md:L671](../balance-sheet-board.md) — Addendum 2026-08-31 ~7:25am PDT — **8/31 opening scan's monitor pass: the NVDA block = the vault's 8/26 entry finally reaching the scan's own monitor 
+- `2026-08-31` [balance-sheet-board.md:L689](../balance-sheet-board.md) — Addendum 2026-08-31 ~9:35am PDT — ⭐⭐⭐⭐ **THE VENDOR-BANK OPENS A CONVERTIBLE DESK (8/31 scan, company-confirmed): NVDA invests $3.5B in MEDIATEK CONVE
+- `2026-08-31` [balance-sheet-board.md:L710](../balance-sheet-board.md) — Addendum 2026-08-31 ~9:40am PDT — ⭐⭐⭐⭐⭐ **THE TENANT GETS PAID IN EQUITY (WSJ via Jake's brief): SB ENERGY OFFERED OPENAI ~$5.5B OF WARRANTS to secure
+- `2026-08-31` [balance-sheet-board.md:L729](../balance-sheet-board.md) — Addendum 2026-08-31 ~12:40pm PDT — **the Musk-complex monitor gets its BIRTH CERTIFICATE (Class B sweep): SpaceX/xAI consolidated FEB 2, 2026 — ~$1.25
+- `2026-08-31` [balance-sheet-board.md:L731](../balance-sheet-board.md) — Addendum 2026-08-31 ~1:30pm PDT — **two monitor items from the 8/31 close scan:** (1) **EL PASO QUANTIFIED: BlackRock funds 80% / META 20% · ~$14B pro
 
 ## 2026-09
 
 - `2026-09-01` [ai-financing-fragility.md:L7633](../ai-financing-fragility.md) — Addendum 2026-09-01 ~1:22pm PDT — ⭐⭐⭐⭐ **THE LADDER'S TOP RUNG WAS ABSORBED BY A SPONSOR (9/1 close scan, xAI→SpaceX debt migration): legacy xAI/X sec
-- `2026-09-01` [balance-sheet-board.md:L728](../balance-sheet-board.md) — 2026-09-01 ~7:45am PDT — ⭐⭐⭐⭐⭐ **SB ENERGY FILES THE IPO (ticker SBE) — the registered S-1 watch CLOSES with the structure now public: $5-7B raise · ~
-- `2026-09-01` [balance-sheet-board.md:L729](../balance-sheet-board.md) — DATA (9/1 opening scan, `raw/2026-09-01-bond-opening-scan.txt`)
-- `2026-09-01` [balance-sheet-board.md:L742](../balance-sheet-board.md) — Addendum 2026-09-01 ~7:57am PDT — **S-1 rung-up (9/1 brief, SEC-filed language):** SBE lists on NASDAQ · **NVDA expected to ACQUIRE SHARES around the 
-- `2026-09-01` [balance-sheet-board.md:L744](../balance-sheet-board.md) — Addendum 2026-09-01 ~11:30am PDT — **IPO-window datum for the SBE listing (ZH): Shein's HK debut FLOPPED — $1.7B raised, ~$26B cap vs ~$100B in 2022, 
-- `2026-09-01` [balance-sheet-board.md:L746](../balance-sheet-board.md) — Addendum 2026-09-01 ~1:20pm PDT — ⭐⭐⭐⭐ **CLOSE-SCAN SHEETS ADDS (most of the ladder = re-derivations of today's 7:45am filing; the NEW items):** (1) *
+- `2026-09-01` [balance-sheet-board.md:L733](../balance-sheet-board.md) — 2026-09-01 ~7:45am PDT — ⭐⭐⭐⭐⭐ **SB ENERGY FILES THE IPO (ticker SBE) — the registered S-1 watch CLOSES with the structure now public: $5-7B raise · ~
+- `2026-09-01` [balance-sheet-board.md:L734](../balance-sheet-board.md) — DATA (9/1 opening scan, `raw/2026-09-01-bond-opening-scan.txt`)
+- `2026-09-01` [balance-sheet-board.md:L747](../balance-sheet-board.md) — Addendum 2026-09-01 ~7:57am PDT — **S-1 rung-up (9/1 brief, SEC-filed language):** SBE lists on NASDAQ · **NVDA expected to ACQUIRE SHARES around the 
+- `2026-09-01` [balance-sheet-board.md:L749](../balance-sheet-board.md) — Addendum 2026-09-01 ~11:30am PDT — **IPO-window datum for the SBE listing (ZH): Shein's HK debut FLOPPED — $1.7B raised, ~$26B cap vs ~$100B in 2022, 
+- `2026-09-01` [balance-sheet-board.md:L751](../balance-sheet-board.md) — Addendum 2026-09-01 ~1:20pm PDT — ⭐⭐⭐⭐ **CLOSE-SCAN SHEETS ADDS (most of the ladder = re-derivations of today's 7:45am filing; the NEW items):** (1) *
 - `2026-09-02` [ai-financing-fragility.md:L7635](../ai-financing-fragility.md) — 2026-09-02 ~8:18am PDT — ⭐⭐⭐⭐ **CAPITAL ACCESS IS BIFURCATED, MEASURED (9/2 opening scan): global convertible issuance ~$186.8B across 362 deals YTD t
-- `2026-09-02` [balance-sheet-board.md:L748](../balance-sheet-board.md) — 2026-09-02 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE TRIGGER-3 PRECURSOR FIRED AT THE COUNTERPARTY LEVEL (9/2 opening scan, CRWV Q2 10-Q): during Q2 CoreWeave REASSE
-- `2026-09-02` [balance-sheet-board.md:L761](../balance-sheet-board.md) — Addendum 2026-09-02 ~8:45am PDT — **SB Energy S-1 (filed Aug 31; scan's late-catch) adds the OTHER dependency in SEC language: SB Energy is "substanti
+- `2026-09-02` [balance-sheet-board.md:L753](../balance-sheet-board.md) — 2026-09-02 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE TRIGGER-3 PRECURSOR FIRED AT THE COUNTERPARTY LEVEL (9/2 opening scan, CRWV Q2 10-Q): during Q2 CoreWeave REASSE
+- `2026-09-02` [balance-sheet-board.md:L766](../balance-sheet-board.md) — Addendum 2026-09-02 ~8:45am PDT — **SB Energy S-1 (filed Aug 31; scan's late-catch) adds the OTHER dependency in SEC language: SB Energy is "substanti
 - `2026-09-03` [ai-financing-fragility.md:L7637](../ai-financing-fragility.md) — 2026-09-03 ~7:25am PDT — **GPU LADDER, CRWV RUNGS FILLED IN (Q2 10-Q via 9/3 scan):** CRWV carries THREE fixed rungs (8.50% euro · 9.625% · 9.75%) and
 - `2026-09-03` [ai-financing-fragility.md:L7639](../ai-financing-fragility.md) — 2026-09-03 ~8:45am PDT — ⭐⭐⭐⭐ **F2 STEPS UP FROM SLOWER INFLOWS TO OUTRIGHT REDEMPTION: "CLIFFWATER PRIVATE CREDIT FUND SEES 16% REDEMPTION REQUESTS" 
 - `2026-09-03` [ai-financing-fragility.md:L7648](../ai-financing-fragility.md) — Addendum 2026-09-03 ~8:55am PDT — **F17 (Anthropic IPO) — the risk factor is REAFFIRMED by the Pentagon a day after Commerce said "we trust Anthropic"
-- `2026-09-03` [balance-sheet-board.md:L763](../balance-sheet-board.md) — 2026-09-03 ~7:20am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CENTRAL CONTRADICTION BREAKS AT ITS WEAKEST NODE: COREWEAVE 5Y CDS >800bp (9/3 scan; MarketWatch: ~40-45% five-
-- `2026-09-03` [balance-sheet-board.md:L775](../balance-sheet-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **NVIDIA BUYS HUGGING FACE FOR $12.9B — THE VENDOR BUYS THE DISTRIBUTION JUNCTION (ZH/WSJ via ZH scan 7:25am — raw/2026-
-- `2026-09-03` [balance-sheet-board.md:L785](../balance-sheet-board.md) — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **THE FINANCIER TEST, ANSWERED ON THE CALL: AVGO DISCLOSES AN "AI XPV" PLATFORM WITH APOLLO AND BLACKSTONE — >20GW OF O
-- `2026-09-03` [balance-sheet-board.md:L796](../balance-sheet-board.md) — Addendum 2026-09-03 ~5:00pm PDT — ⭐⭐⭐⭐ **THE CROSS-THREAD NOBODY DREW TODAY: NVIDIA IS BUYING THE COMPANY AN OPENAI AGENT BREACHED SIX WEEKS AGO — AND
+- `2026-09-03` [balance-sheet-board.md:L768](../balance-sheet-board.md) — 2026-09-03 ~7:20am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE CENTRAL CONTRADICTION BREAKS AT ITS WEAKEST NODE: COREWEAVE 5Y CDS >800bp (9/3 scan; MarketWatch: ~40-45% five-
+- `2026-09-03` [balance-sheet-board.md:L780](../balance-sheet-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **NVIDIA BUYS HUGGING FACE FOR $12.9B — THE VENDOR BUYS THE DISTRIBUTION JUNCTION (ZH/WSJ via ZH scan 7:25am — raw/2026-
+- `2026-09-03` [balance-sheet-board.md:L790](../balance-sheet-board.md) — 2026-09-03 ~8:30am PDT — ⭐⭐⭐⭐⭐ **THE FINANCIER TEST, ANSWERED ON THE CALL: AVGO DISCLOSES AN "AI XPV" PLATFORM WITH APOLLO AND BLACKSTONE — >20GW OF O
+- `2026-09-03` [balance-sheet-board.md:L801](../balance-sheet-board.md) — Addendum 2026-09-03 ~5:00pm PDT — ⭐⭐⭐⭐ **THE CROSS-THREAD NOBODY DREW TODAY: NVIDIA IS BUYING THE COMPANY AN OPENAI AGENT BREACHED SIX WEEKS AGO — AND
 - `2026-09-04` [ai-financing-fragility.md:L7650](../ai-financing-fragility.md) — Addendum 2026-09-04 ~7:05am PDT — **CAPITAL FORMATION IS STILL ACCELERATING, AND THE ROUND SHAPE IS THE TELL: GIMLET LABS $80M → $300M IN SIX MONTHS, 
 - `2026-09-04` [ai-financing-fragility.md:L7652](../ai-financing-fragility.md) — 2026-09-04 ~1:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE DISPERSION INSTRUMENT ARRIVES: 300bp ON IDENTICAL COLLATERAL, INSIDE ONE ISSUER'S OWN CAPITAL STACK (IREN, close

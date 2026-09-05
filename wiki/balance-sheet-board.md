@@ -692,7 +692,12 @@ in the next 10-Q.
   deepening, no escalation.
 - **⚠️ TWO FLAGS ON THE SPACEX BLOCK, before either number is quoted:** (1) "~$100B
   Louisiana Starbase complex through 2035" — **Starbase is TEXAS; "Louisiana" collides with
-  META's Louisiana VIE vocabulary. ⬜ verify the announcement's actual location/scope before
+  META's Louisiana VIE vocabulary. ✅ **⬜ CLOSED 2026-09-04 ~8:50pm PDT (Jake):** three distinct
+  things were colliding in one vocabulary — **(1) xAI/SpaceX's TERRESTRIAL Colossus build is
+  MEMPHIS/SOUTHAVEN**, not Louisiana; **(2) the 5-GW Louisiana filing is META/HYPERION (Richland
+  Parish, Entergy)**; **(3) SpaceX DOES have a separate Louisiana project, tied to FUTURE ORBITAL
+  data centers, and it DISCLOSES NO MW — so no $/GW can honestly be derived from it.** The board's
+  Memphis references were correct; the ambiguity was in the announcement, not in the vault. ⬜ verify
   filing it as fact.** (2) The MS/Jonas "~$80B of NET ANNUAL debt financing through 2035"
   cannot describe the $100B plan (9 years × $80B ≈ $700B+, 7x the announced figure) — it
   either describes a much broader all-SpaceX program or is garbled in transit. **Analyst

@@ -180,3 +180,62 @@ PSX PWR SBE USAR VLO VRT.**
 - Full silicon-$/GW coefficient (vault holds the AVGO-custom leg only, $11.5bn).
 - Semicap China revenue exposure and tariff/export-control perimeter.
 - Whether the 70/30 is beta+alpha or a genuine conviction weighting — **this is Jake's call, not the vault's.**
+
+---
+
+## 2026-09-04 ~8:50pm PDT — ⭐⭐⭐⭐⭐⭐ **THE SPACEX TRIANGULATION PINS A DENOMINATOR, AND THE VAULT'S 3.2x SPREAD COLLAPSES TO A REAL 1.7x DISPUTE BETWEEN TWO INTERNALLY-CONSISTENT CLUSTERS** *(Jake, SpaceX filing work + Meta/Entergy and Applied Digital benchmarks. First live application of rules 21/21(b), adopted 9 minutes earlier.)*
+
+### ✅ THE FINDING THAT MATTERS MOST — **HIS DENOMINATOR IS IT LOAD, AND IT MATCHES STARGATE'S**
+Jake states it explicitly: SpaceX's **1.4 GW at 6/30/26 is "GPU all-in draw and EXCLUDES cooling, power-distribution losses and facility overhead."**
+⇒ **THAT IS IT LOAD, NOT FACILITY POWER — the exact distinction rule 21(b) was written for this evening.**
+⇒ **AND STARGATE'S $24.7B/GW IS ALSO EXPLICITLY PER GW OF IT LOAD** ([[balance-sheet-board]] L524).
+
+| Project | $/GW | Denominator |
+|---|---|---|
+| **Stargate/OpenAI** | **$24.7B** | **GW of IT LOAD** |
+| **SpaceX/xAI** | **$27.7–30.3B** | **GW of IT LOAD (GPU draw)** |
+
+⇒ **★★★★★★ TWO INDEPENDENT PROJECTS, DIFFERENT SPONSORS, SAME PERIMETER, WITHIN ~15%. THIS IS THE FIRST GENUINELY COMPARABLE PAIR IN THE VAULT'S COEFFICIENT STACK.** **Working IT-load coefficient: ~$25–30B/GW.**
+
+### ⛔ BUT HIS TWO CALCULATIONS ARE NOT INDEPENDENT — AND THEY ARE PRESENTED AS IF THEY WERE
+- Cumulative capex **$42.37B** ÷ 1.4 GW = **$30.3B/GW**
+- Balance sheet **$38.762B** (servers/networking $34.771B + DC infrastructure $3.991B) ÷ 1.4 GW = **$27.7B/GW**
+- **The numerators overlap ~91% ($38.762 / $42.37) and THE DENOMINATOR IS IDENTICAL.**
+⇒ **TWO RATIOS SHARING A DENOMINATOR WITH 91%-OVERLAPPING NUMERATORS WILL AGREE. THAT IS ARITHMETIC, NOT CORROBORATION.** Jake calls the convergence *"pretty compelling"*; it demonstrates that the books tie out, which is worth something, but it is **not** two independent estimates.
+⇒ **SAME ERROR CLASS AS THE G20 ITEM FILED THREE HOURS AGO** — three principals "converging" on the power bottleneck who all get paid if it is believed. **Apparent independent confirmation that is actually one observation.**
+
+### ⛔ THE CIP ADJUSTMENT HE APPLIES TO Q2 ALSO APPLIES TO THE CUMULATIVE — **$30.3B IS A CEILING, NOT A MIDPOINT**
+He correctly rejects the Q2 marginal figure ($15.828B ÷ 0.4 GW = $39.6B/GW) because **$12.554B of construction-in-progress "includes AI infrastructure not yet placed in service."** ⇒ **THE SAME $12.554B SITS INSIDE THE $42.37B CUMULATIVE.**
+- **Ceiling (no CIP adjustment): $42.37B ÷ 1.4 = $30.3B/GW**
+- **Floor (if ALL CIP were AI — it is not; SpaceX also builds rockets and Starlink): ($42.37 − $12.554) ÷ 1.4 = $21.3B/GW**
+⇒ **HONEST RANGE $21.3–30.3B/GW, and his headline $30.3B is the TOP of it.**
+
+### ⛔⛔ AND THE RECONCILIATION DOES NOT CLOSE — A REAL FLAG, NOT A QUIBBLE
+**$42.37B cumulative capex · $38.762B in the two named PP&E lines · $12.554B in CIP.** If CIP were a **separate** line from those two, AI PP&E would total **$51.3B against $42.37B ever spent — impossible.**
+⇒ **THEREFORE at least one of: CIP is largely INSIDE the $38.762B; or "AI capex" spans more line items than the two named; or some of the $42.37B went to Starlink/launch rather than AI.**
+⇒ **⬜ UNTIL THAT IS PINNED WE DO NOT KNOW WHETHER $38.762B IS PLACED-IN-SERVICE OR CIP-CONTAMINATED — and that determines which of the two calculations is the clean one.**
+⇒ **⬜ ALSO: GROSS OR NET OF ACCUMULATED DEPRECIATION?** If net, it understates — and GPUs carry the **3–6yr economic life** this vault adopted from the 8/10 Huang work, so the wedge compounds fast.
+
+### ⚠️ THE 12:1 RATIO IS ~9–11.5:1 ONCE THE PERIMETERS MATCH — **AND IT IS GAS-SPECIFIC**
+Generation benchmarks: **Meta/Entergy $12.9B ÷ 5.278 GW = $2.44B/GW · Applied Digital/Base Electron $2.4B ÷ 1.2 GW = $2.0B/GW.**
+**But those are per GW of GENERATION (facility side) while the compute figure is per GW of IT LOAD.** 1 GW of IT load needs ~1.3 GW of generation.
+⇒ **$28–30B ÷ ($2–2.5B × 1.3) = $28–30B ÷ $2.6–3.25B = ~9–11.5:1**, not 12:1. He flags the direction (*"you'll actually need more than 1 GW"*) and then does not adjust the number. **21(b) says adjust it.**
+⇒ **⚠️ AND $2–2.5B/GW IS GAS. Nuclear runs 5–8x that** — which matters directly, because this vault grades **OKLO, BWXT and CEG.** **"Power" is not one price; the ratio is gas-generation-to-compute.**
+⇒ **The QUALITATIVE point survives intact and is the important one: a $2–3B generation decision unlocks a ~$30B compute stack. The asymmetry is real at 9:1 and does not need 12:1.**
+
+### ⛔⛔⛔ THE LEDGER HAS AN OPERATIONAL BUG AT EXACTLY THE POINT IT BECOMES USABLE
+Proposed: **de-risked GW × $25–30B/GW = downstream compute pool.** **The coefficient is per GW of IT LOAD. Announced project GW is almost always FACILITY or GENERATION capacity.** Multiplying the second by the first **overstates by the PUE factor, ~30%.**
+- **His own worked example: "15 GW → ~$375–450B."** That 15 GW is **Musk's G20 GENERATION deficit** ([[buildout-bottleneck-map]] today). IT load ≈ 15 ÷ 1.3 = **~11.5 GW** ⇒ **~$288–346B, not $375–450B. A 20–25% overstatement.**
+⇒ **✅ FIX — THE LEDGER NEEDS TWO COLUMNS, NOT ONE: `announced GW (facility/generation)` → `derived IT-load GW (÷ assumed PUE, stated)` → `× $25–30B`.** **The coefficient touches only the second column.** **With that column added the ledger is sound and is genuinely the bridge the thesis was missing.**
+
+### ★★★★★ WHAT THIS DOES TO THE VAULT'S COEFFICIENT STACK — **3.2x → A WELL-POSED 1.7x DISPUTE**
+| Cluster | Members | Level |
+|---|---|---|
+| **LOW / operator-disclosed** | Stargate $24.7B · **SpaceX $27.7–30.3B** · XPV $35B | **~$25–35B/GW** |
+| **HIGH / vendor & EPC all-in** | Huang $50–60B · Nscale $52.6B | **~$50–60B/GW** |
+
+- **Building SpaceX up: $27.7–30.3B (compute, IT-load) + generation for 1.3 GW facility ($2.6–3.25B) ≈ $30–34B per GW of IT load** — **still well short of Huang/Nscale.** ⇒ **THE GAP DOES NOT CLOSE ON UNITS. It is a real ~1.7x dispute between two internally-consistent groups, narrowed from 3.2x.**
+- **📌 THE QUESTION IS NOW WELL-POSED AND WORTH ANSWERING: why do OPERATOR-DISCLOSED builds cluster at $25–35B/GW while VENDOR/EPC figures cluster at $50–55B/GW?** Candidates: greenfield-with-new-power vs retrofit/behind-the-meter · land and shell financed in separate vehicles that never enter operator AI-capex lines · vintage (Huang April 2026) · **and note Nscale is an OPERATOR sitting in the high cluster, so it is NOT a clean vendor/operator split.** ⬜
+- **✅ CONSISTENCY CHECK THAT PASSES: AVGO's $11.5B/GW of custom silicon is ~38–41% of SpaceX's $27.7–30.3B total compute capex** — a plausible share for a custom-XPU-heavy build, and the first time the AVGO figure has had a same-perimeter comparator.
+
+**📌 REGISTERED:** SpaceX CIP composition and whether the two PP&E lines are gross or net ⬜ **(it decides which calculation is clean)** · the operator-vs-vendor cluster gap ⬜ **(now the vault's best-posed open question on this thesis)** · SpaceX's 1.2 GW permanent gas plant total construction cost ⬜ (the $2.8B turbine purchase is multi-site and cannot be divided) · **the ledger's PUE assumption must be STATED per row, not assumed** · nuclear $/GW as a separate generation coefficient (OKLO/BWXT/CEG are graded and gas benchmarks do not price them).
