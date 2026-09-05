@@ -629,3 +629,45 @@ project space; more are likely.**
     real term premium, so "real ↓" is not automatically "growth ↓".**
     **AND COMPUTE THE FORWARDS, which strip the policy horizon entirely:**
     5y5y BE = 2×(10Y BE) − (5Y BE) · 10y20y BE = (3×(30Y BE) − (10Y BE)) / 2.
+
+21. ⭐⭐ **GREP BEFORE DECLARING ABSENT (set 2026-09-04, Jake: "Adopt 21 and 21(b)" — after he
+    recalled Huang's $50-60B/GW coefficient that I had just marked ⬜ while the vault held it in
+    FIVE places).** **"The vault doesn't have X," "that's an open item," "no instrument exists,"
+    "the full coefficient is ⬜" — every one of these is A CLAIM ABOUT THE VAULT, and it must be
+    checked AGAINST the vault before it is written.** Working memory is not the archive.
+    **THE PROCEDURE — grep `wiki/` AND `raw/` AND `wiki/_timelines/` before writing any of the
+    above.** Search the CONCEPT, not just the phrasing you happen to be using: numbers with and
+    without units, the person's name, the ticker, the synonym. *(Huang's figure was findable under
+    "per GW," "gigawatt," "$50-60B," "conversion factor," and "Jensen" — five doors, and I opened none.)*
+    **⚠️ THIS IS THE INTERNAL TWIN OF THE 3:45pm RULE.** *"A quantity that carries a conclusion is a
+    primary-source quantity"* was written for EXTERNAL primaries. **Declaring something absent is the
+    same class of claim pointed inward.** Root cause of both failures, and of the EWY miss: answering
+    from working memory instead of searching. **Failure count: EWY (9/4, roster), Huang $/GW (9/4,
+    coefficient) — two in one day.**
+    **⇒ AND THE COROLLARY THAT PAYS: the vault usually already holds the DISPUTE too.** The $50-60B/GW
+    figure came with a live 8/11 supersede — Krishna's chips-only $60-80B/GW contradicting Huang's
+    all-in — that no fresh search would have produced. **The archive is worth more than the web on
+    anything this vault has already worked.**
+
+21b. ⭐⭐ **NO QUANTITY ENTERS AN ARITHMETIC UNTIL ITS PERIMETER IS WRITTEN DOWN NEXT TO IT (set
+    2026-09-04, same instruction).** **Before any figure is added, subtracted, divided or compared,
+    state its SCOPE in the same breath: what is in the numerator, what is in the denominator, and
+    as of when.** If two figures' perimeters are not both written, the arithmetic does not happen.
+    **THE THREE FAILURES THIS RULE IS BUILT ON, ALL 2026-09-04:**
+    · **Hormuz bypass** — I subtracted "6-8 mb/d via the Strait" from Goldman's "15-16 mb/d Gulf
+      exports" and treated the residual as routed barrels. **IEA: 14.95 mb/d of crude through the
+      Strait — Goldman's number and mine were MEASURES OF THE SAME QUANTITY.** The residual was an
+      artifact and it carried a ★★★★★ finding.
+    · **Sacks' $800B/$1.4T** — caught PRE-EMPTIVELY the same evening: wide-scope US AI
+      *infrastructure* ≠ hyperscaler capex ≠ Goldman's $2.3T multi-year *financing* need. Three
+      enormous numbers, three denominators, no arithmetic permitted between them.
+    · **The $/GW stack** — **$24.7B to $80B/GW, a 3.2x spread**, because "per GW" is ambiguous
+      between **IT LOAD and FACILITY POWER** (they differ by PUE, ~1.2-1.4) and the numerators run
+      from all-in to chips-only to single-vendor. **Stargate's $24.7B is per GW of IT LOAD and is
+      not comparable to Huang's all-in as written.**
+    **THE TWO QUESTIONS, ASKED EVERY TIME:** (1) **IT load or facility power?** (2) **All-in,
+    category-only, or single-vendor?** *(For non-energy quantities the same shape: gross or spare?
+    stock or flow? crude-only or crude+products? one country or the region?)*
+    **⚠️ AND SCOPE-MATCHING IS NOT THE SAME AS AGREEING** — I checked whether PUE dissolved the
+    Huang/Krishna contradiction and it does not, either direction. **Pin the perimeters first, THEN
+    find out whether the dispute is real. Most of the time it is.**
