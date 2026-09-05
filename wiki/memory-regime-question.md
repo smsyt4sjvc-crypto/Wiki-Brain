@@ -1396,3 +1396,22 @@ four-die design abandoned = STRONGLY REPORTED, NOT NVDA-CONFIRMED · "Rubin Ultr
   realizes; the floor is the moat. The uncapped beneficiaries of spot are SK/Samsung's
   uncontracted volumes.** *(Analysis.)*
 **Links:** [[high-confidence-basket]] · [[compression-thesis]] · [[forest]]
+
+---
+
+### Addendum 2026-09-05 ~8:35am PDT — ⭐⭐⭐⭐⭐ **THE SHORTAGE REACHED A WITNESS WITH NO STAKE IN THE AI STORY: NINTENDO. THAT IS THE STRONGEST RUNG THIS NOTE CAN GET — AND IT PUTS A GRADED NAME ON THE WRONG SIDE.** *(Daily Market Brief 9/5 item 1, citing FT.)*
+
+**DATA:** DRAM prices **~5× over the past year**; manufacturers shifting wafer capacity toward higher-margin HBM. **Apple, Microsoft and Nintendo** now raising prices, cutting specifications, or absorbing component cost; **some device price increases ~20%.** **Micron reportedly pushing HBM toward 100,000 wafers/month by year-end; industry demand still estimated at >2× available HBM output.**
+
+- **★★★★★ WHY THIS IS THE STRONGEST AVAILABLE CONFIRMATION, AND IT IS THE SAME ARGUMENT THIS VAULT MADE ON 9/3 ABOUT ISM:** every compute-tightness instrument the note has built — Silicon Data, SemiAnalysis prints, a Goldman desk, vendor calls — **comes from inside the AI complex.** **Nintendo has no position in the AI narrative and is not asked about it.** ⇒ **a consumer-electronics OEM eating a 20% device cost increase is an unrelated witness reporting the same physical shortage. That is rung-2 corroboration from outside the trade.**
+- **★★★★ THE MECHANISM IS A TWO-SIDED SQUEEZE, AND THAT IS THE STRUCTURAL POINT:** AI is **simultaneously** raising HBM demand **and** tightening ordinary DDR/LPDDR supply, because **wafer capacity is fungible and is being reallocated.** ⇒ **the consumer side is not competing on the merits — it is being outbid on the same wafers by a buyer with 5-10x the gross margin per wafer.** **Consumer has no ability to bid and no substitute.**
+- **⇒ ★★★★★ NAME WHO PAYS. THIS IS A MARGIN TRANSFER, and the vault grades both ends.** Upstream captures it: **MU (8) · EWY (6, the SK hynix/Samsung instrument).** **Downstream absorbs it: AAPL, HPQ (ungraded) — and ⚠️ DELL, WHICH THIS VAULT GRADES.**
+- **⚠️⚠️ DELL FLAG — NAME-SPECIFIC NEGATIVE.** DELL was initialized on the **+$25B annual sales forecast** and carries a **$95B AI-server backlog**. **But Dell BUYS memory, at scale, into a low-margin server business, and its backlog is largely PRICED.** ⇒ **DRAM at ~5× is a direct COGS shock against fixed-price backlog — volume up, margin down, and the backlog converts the exposure into a locked-in one.** **This is the mirror image of MU's 7→8.** **FLAGGED, NOT MOVED, pending: Dell's memory pass-through terms and how much of the $95B carries price adjustment ⬜.** *(Same discipline as the PARR flag: name the mechanism, size it before moving it.)*
+- **✅ CONSISTENT WITH WHAT THIS NOTE ALREADY DERIVED:** `:L1117` — NVDA's **>15% system price hike implies a ~24% memory input cost increase**, and `:L850` — **memory ≈ 62% of the Vera Rubin BOM.** ⇒ **at 62% of BOM, a memory squeeze is not a margin footnote for the accelerator makers; it is a SHIPMENT constraint.** **The brief reaches the same conclusion independently.**
+
+### ⚠️ 21(b) — TWO HEADLINE NUMBERS NEED PERIMETERS BEFORE THEY ARE QUOTED
+- **"DRAM prices ~5× over the past year"** ⬜ **SPOT or CONTRACT? which density/spec? off what base?** **DRAM spot is violently cyclical and can run 5× off a trough while contract prices move a fraction of that.** **A 5× contract move would be among the largest in the industry's history and would be the single most important number in the vault; a 5× spot move off a 2025 trough would be ordinary.** **Do not quote it until the perimeter is known.**
+- **"industry demand >2× available HBM output"** ⬜ whose estimate, and demand measured as bookings, requests or forecast?
+- **Micron 100k wafers/month by year-end** ⬜ HBM wafers or total? (a 100k/mo HBM figure would be a very large share of MU's total wafer starts).
+
+**📌 REGISTERED:** **the DRAM 5× perimeter — spot vs contract ⬜, the note's highest-value open item today** · **DELL's memory pass-through terms and the priced share of the $95B backlog ⬜** · merchant-channel DDR5/RDIMM availability and pricing as the allocation-severity gauge (the brief's suggestion, and it is the right one — it is the DigiKey tracker's whole purpose) · whether AAPL/MSFT/Nintendo price increases show up in a CPI category before Sept 11.

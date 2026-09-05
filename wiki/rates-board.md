@@ -2453,3 +2453,35 @@ Breakeven = expected inflation + inflation risk premium **− TIPS liquidity pre
 **10Y real 2.42% · 30Y real 2.96%.** ⇒ **the discount rate on every long-duration asset in the book has risen ~70bp in six months with no inflation to blame it on.** **That is the [[power-to-silicon-thesis]] critique in one line: the "conservative" 70% infrastructure leg is priced off a real rate that has done this — and the war did not cause it, so a ceasefire will not undo it.**
 
 **📌 REGISTERED:** **SOFR-IORB across the war window (the liquidity-premium check on the 88%)** · **Sept 9 10Y and Sept 10 30Y decomposed under rule 20 — a pure SUPPLY event should move REAL, not breakeven, and this window says the market is already there** · 5s30s at the next print vs the +73 level · whether breakevens stay inert if Hormuz worsens (the test of "demand-destructive not inflationary") · CPI Sept 11.
+
+---
+
+### Addendum 2026-09-05 ~8:30am PDT — ⭐⭐⭐⭐⭐⭐ **WALLER JUST NAMED THE MECHANISM BEHIND THIS MORNING'S 88%, AND THE RECOVERY-RATE DATUM MEANS CCC AT 10.53pp IS NOT WHAT IT LOOKS LIKE** *(Daily Market Brief 9/5, items 2/3/5.)*
+
+**DATA:** 10Y ~**4.82%** this week · **CCC-and-lower spreads 10.53pp vs 8.08pp a year ago (+245bp)** · default actions **+9% in 2026 to $40.1B** · **average recovery 29% vs a 25-year average ~40%** · **Waller: the traditional SAFETY/LIQUIDITY PREMIUM embedded in Treasuries has "effectively disappeared,"** citing **AI infrastructure investment competing for capital alongside fiscal borrowing.**
+
+### ★★★★★★ WALLER IS DESCRIBING THIS MORNING'S DECOMPOSITION FROM THE INSIDE
+This morning: **war-window 10Y +80bp = real +70 + breakeven +10; REAL = 88%.** The open question was *what* drove the real leg.
+⇒ **A DISAPPEARING CONVENIENCE YIELD RAISES REAL YIELDS WITH NO INFLATION COMPONENT. THAT IS EXACTLY THE 88%.** **A sitting Fed governor has just supplied the mechanism, on the same weekend, from a different direction — and he names AI CAPEX as a CAUSE OF HIGHER RATES, not merely a consumer of them.**
+⇒ **★★★★★ THE LOOP CLOSES WITH [[power-to-silicon-thesis]]: the AI buildout is bidding for the same capital as the deficit, which raises the real rate, which raises the discount rate on the buildout itself.** **The thesis's "conservative" 70% infrastructure leg is priced off a rate its own sector is helping to lift.** *(Class 8: Waller is making a hawkish case and a vanished safety premium argues rates stay high — he has a policy position. The claim is still the best available explanation of the 88%.)*
+
+### ★★★★★ THE RECOVERY RATE IS THE MOST IMPORTANT NUMBER IN THE BRIEF AND IT IS UNDERWEIGHTED
+**Spread compensates for PD × (1 − recovery).** At **40% recovery, LGD = 60%. At 29%, LGD = 71% — an 18% increase in loss given default.**
+⇒ **A CCC SPREAD OF 10.53pp AGAINST 29% RECOVERY EMBEDS MATERIALLY LESS RISK PREMIUM THAN THE SAME SPREAD WOULD AT 40%.** **To hold expected loss constant against that LGD shift, last year's 8.08pp would need to be ~9.56pp before any genuine deterioration is priced at all** — i.e. **a large share of the 245bp widening is compensating for worse recovery rather than pricing more default risk.**
+⇒ **⇒ THE HEADLINE UNDERSTATES THE STRESS: CCC is not "blown out to 10.53" — it is at 10.53 while the collateral behind it got 18% worse.** *(Level-vs-change discipline: this is a LEVEL statement. I cannot cleanly decompose the y/y widening because the 29% is quoted against a 25-year average, not against last year.* ⬜ *recovery a year ago.)*
+- **The fragility feed already carries `ccc_oas` and `ccc_hy_gap`** — **⬜ pull both against this print and add a recovery-rate series if one is free.**
+- **Ties to the AI-credit ladder:** IREN 6.00% vs 9.00% on identical collateral; **CRWV ~9.16-9.75% with 5Y CDS >800bp.** ⇒ **the brief's read is right — this lands on leveraged neoclouds, SPVs and developers, not on cash-rich hyperscalers.** Cliffwater's 16% redemption requests (9/3) is the retail-facing edge of the same thing.
+
+### ⛔ THE BRIEF'S OIL→INFLATION→BONDS CLAIM IS CONTRADICTED BY THIS MORNING'S DATA
+Brief (item 3): *"another sustained leg toward or through $100 Brent makes the Fed's job materially harder and can push the 10Y/30Y upward."*
+⇒ **⛔ SIX MONTHS OF A WAR THAT TOOK HORMUZ FROM 19.87 mb/d TO ~4.9 AND PUT MURBAN AT $106.10 MOVED 10Y BREAKEVENS +10bp.** **The oil→inflation→bonds channel is EMPIRICALLY CLOSED IN THIS REGIME.** Oil can absolutely push yields — **but through the REAL leg (growth, term premium, safety-premium erosion), which is a different trade with different hedges.** **Asserting the inflation channel is asserting a transmission the data says is not operating.**
+- **Also: the brief says "overall Hormuz traffic remains depressed."** ⇒ **−75% is not "depressed."** And it misses that **Kharg has loaded nothing for a week under blockade and exports have shifted to a live Jask** ([[war-board]] this morning).
+- **Tape for the gap: WTI +9.7% on the week to $91.48; Brent ~$96.28 Friday — the Saturday escalation is NOT in those prices.** ⇒ **Sunday-night gap risk is real and this is the one place the brief's actionable read is unambiguous.**
+
+### ⚠️ THE SEPT 10 TEST IS NO LONGER CLEAN — AND RULE 20 IS WHAT RESCUES IT
+**Sept 10 now carries FOUR events: the $22B 30Y reopening (size-cut) · ORCL earnings AMC · TSMC August revenue · August PPI. Sept 11: CPI.**
+⇒ **The board pre-registered Sept 10's 30Y as "the first clean look at whether SUPPLY can move the long end without the Fed's help." IT IS NOT CLEAN.**
+⇒ **✅ BUT THE DECOMPOSITION SEPARATES THEM: a pure SUPPLY event moves REAL. A PPI/CPI surprise moves BREAKEVEN. An AI-capex event (ORCL/TSMC) moves CREDIT SPREADS and equity, and need not move the curve at all.** ⇒ **rule 20 is not a nicety here — it is the only thing that keeps a pre-registered test alive through a four-event collision.**
+- **ORCL (graded 4):** guidance rev +27-29%, cloud +58-64%, EPS $1.72-1.76; **$638B RPO including $75B PREPAID OR CUSTOMER-SUPPLIED GPU HARDWARE.** ⇒ **~12% of backlog needs no ORCL capital — a real mitigant, and it also means 88% DOES**, against $260B uncommenced, BBB-/226bp, and **the $3.3B guaranteed lessor borrowing maturing THIS MONTH.** **Two-sided: customer-supplied hardware moves depreciation and obsolescence risk to the customer, and moves the economics there too.**
+
+**📌 REGISTERED:** `ccc_oas`/`ccc_hy_gap` against the 10.53pp print ⬜ · **recovery rate a year ago (to decompose the 245bp properly)** ⬜ · Waller's full remarks — the safety-premium claim is now load-bearing and I have it only via the brief ⬜ · **Sept 10's four-way collision decomposed under rule 20** · ORCL's $3.3B refi outcome · Sunday-night energy gap.
