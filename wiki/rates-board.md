@@ -2639,3 +2639,42 @@ If IG repriced FIRST and Treasuries followed, **IG OAS must WIDEN (IG moving, US
 ⇒ **★★★★★ RECORD SUPPLY ABSORBED AT NEAR-TIGHT SPREADS IS THE DEMAND EVIDENCE HE IS ASKING FOR. THE PAPER IS BEING TAKEN.** **Combined with the 30Y's failing bid, that is the rotation stated in two primary markets at once: corporates absorb record supply at tights while the long bond needs dealers to take 11-15%.**
 
 **📌 REGISTERED:** **30Y bid-to-cover and dealer take at SEPT 10 — now the sharpest single number in the week** (the series has gone 2.66 → 2.39 while yields rose 47bp; a further deterioration on a CUT size is the fiscal-dominance tell) · IG new-issue concessions and order-book cover ⬜ (a genuine data gap — syndicate-only) · reconcile my indirect-%-of-offering with the board's 66.0→61.5→60.78 series ⬜ · 10Y b/c holding ≥2.5 as the control.
+
+---
+
+### Addendum 2026-09-05 ~3:25pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **GLOBAL GOVERNMENT YIELDS AT A 22-YEAR HIGH, AND THE US IS NOT LEADING IT. JAPAN IS — BY 194bp. THE AI-CROWDING-OUT STORY IS A US INCREMENT ON A GLOBAL CONDITION, NOT ITS CAUSE.** *(Bloomberg World Govt Comparator, all maturities, avg yield: **4.871**, vs 25-yr average 3.359, high 6.108 (1/20/00), low 0.476 (3/9/20) — `raw/2026-09-05-bloomberg-world-govt-bond-yields.png`.)*
+
+**THE CHART:** global government yields are back to **~2004 levels** — **the entire QE era's yield suppression has round-tripped** — and sit **+151bp above the quarter-century average.**
+
+### ★★★★★★ THE DISCONFIRMATION TEST, AND IT IS THE RIGHT ONE TO RUN
+**If AI capex were driving global government yields, the US should have moved MOST. OECD long-term rates, 2024-01 → 2026-06:**
+| | 2024-01 | 2026-06 | Δ |
+|---|---|---|---|
+| **US** | 4.06 | 4.47 | **+41 bp** |
+| Germany | 2.17 | 2.97 | +80 bp |
+| UK | 3.93 | 4.80 | +86 bp |
+| **JAPAN** | **0.73** | **2.67** | **+194 bp** |
+
+*2026 YTD (Jan→Jun): US +26 · DE +16 · UK +35 · **JP +43.***
+⇒ **THE US IS NOT THE LEADER. JAPAN'S MOVE IS NEARLY FIVE TIMES THE US'S.**
+- **⚠️ CAVEAT ON MY OWN NUMBERS (21b): the OECD series ends JUNE 2026 and is three months stale. DGS10 has risen ~30bp since, so the comparable US figure is ~+71bp, not +41 — close to Germany and the UK.** **The honest claim is therefore NOT "the US is the laggard." It is: THE US IS NOT THE LEADER, AND JAPAN IS FAR AND AWAY THE LARGEST MOVER.** ⬜ post-June prints for DE/UK/JP.
+
+### ⛔ AND IT CREATES A REAL TENSION WITH WALLER
+**The convenience yield is a US-SPECIFIC premium — Treasuries earn it for being the world's safe asset. If it erodes, US yields should rise RELATIVE to peers.** **They have not.** ⇒ **either the erosion is smaller than Waller's language implies, or it is being masked by larger idiosyncratic moves elsewhere.** **Registered as an open tension, not a refutation — Waller's claim is about a component, and this is a comparison of totals.**
+
+### ⚠️ 21(b) ON THE BLOOMBERG CHART ITSELF — IT SUMS UNLIKE CAUSES
+**"World Govt, All Maturities, Avg Yield" is a blended-duration, blended-country aggregate, and the four national stories are NOT the same story:**
+- **JAPAN is exiting a POLICY REGIME** (YCC), from an administratively suppressed 0.73%. **That is a regime exit, not a term-premium repricing** — and comparing its +194bp to anyone's marginal move is a category error.
+- **UK carries its own fiscal/gilt story. Germany/Europe carries energy and defence** (this board: Bunds/OATs at multi-year highs on TTF, ECB 3 hikes priced).
+- **The US is 88% REAL** (this morning's decomposition). **The others are unmeasured — Japan's is plausibly inflation-normalisation, i.e. BREAKEVEN-driven.**
+⇒ **★★★★★ THE AGGREGATE IS THE LEAST INFORMATIVE PRICE — EIGHTH APPLICATION OF THE DIFFERENTIAL RULE.** **A global nominal average sums a regime exit, an energy shock, a fiscal story and a real-rate repricing into one line. Using it to argue about AI capex is an aggregation error.** ⬜ index composition and country weights (a reweighting toward high-yielders raises it with no yield moving).
+
+### ★★★★★★ BUT THE SYNTHESIS IS THE POINT, AND IT COMPLETES TODAY'S WORK
+**Ask what BoJ ending YCC, ECB QT, Fed QT, global fiscal expansion and AI capex have in common.**
+⇒ **EVERY ONE OF THEM IS EITHER A WITHDRAWAL FROM, OR A NEW CLAIM ON, THE GLOBAL DURATION BUYER BASE.** The BoJ was the largest price-insensitive duration buyer on earth and it stopped. Central banks stopped absorbing. Sovereigns issue more. **And AI capex arrived as a new private claimant.**
+⇒ **★★★★★★ THIS MORNING'S FINDING — "long paper clears in neither market" — IS THE US-LOCAL SYMPTOM OF A WORLDWIDE CONDITION. THE DURATION BUYER BASE SHRANK GLOBALLY AND SIMULTANEOUSLY.**
+⇒ **⇒ AI CAPEX IS NOT THE CAUSE OF THE REPRICING. IT IS THE MARGINAL CLAIMANT ARRIVING INTO AN ALREADY-TIGHTENED MARKET — WHICH IS EXACTLY WHAT MAKES IT VISIBLE AND WHAT MAKES IT EXPENSIVE.** **The hyperscaler sub-index at +30bp YTD vs +2bp for broad IG is that marginal cost, and it stands undisturbed by any of this.**
+- **✅ AND THE BOARD ALREADY NAMED THE BIGGEST MOVER: 8/31 — "★★★★ JAPAN IS THE LOAD-BEARING LEG."** **Japan at +194bp since 2024 is the single largest sovereign repricing in the set, and this board identified it as load-bearing five days before the chart arrived.** **GPIF, the repatriation channel, Bessent lobbying the BoJ, the Sept 18 hike at OIS >100% — that thread is not a side story. It is the main one.**
+- **⇒ AND IT KILLS THE CORPORATE-PURCHASE FACILITY IDEA MORE CLEANLY THAN THIS MORNING'S OBJECTIONS DID: YOU CANNOT FIX A GLOBAL DURATION SHORTAGE WITH A DOMESTIC FACILITY.**
+
+**📌 REGISTERED:** post-June DE/UK/JP prints to complete the comparison ⬜ · **real-vs-breakeven decomposition for Japan and Germany — the load-bearing unknown, since the US is 88% real and the others are unmeasured** ⬜ · Bloomberg index composition/weights ⬜ · **the global duration buyer base as the thread's central quantity — BoJ holdings, ECB/Fed runoff, pension/insurance duration demand** ⬜ · Sept 18 BoJ as the next withdrawal.

@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **848 dated entries · 2026-02-10 → 2026-09-05 · refreshed 2026-09-05 11:32 PDT**
+> **849 dated entries · 2026-02-10 → 2026-09-05 · refreshed 2026-09-05 15:17 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -879,6 +879,7 @@
 - `2026-09-05` **[1]** rates-board.md:L2439 — Addendum 2026-09-05 ~11:10am PDT — ⭐⭐⭐⭐⭐⭐ **THE JPMAM CHART QUANTIFIES JAKE'S CALL — AND ITS OWN DENOMINATOR UNDERCUTS THE SUPPLY VERSION OF IT WHILE 
 - `2026-09-05` **[1]** rates-board.md:L2477 — Addendum 2026-09-05 ~11:20am PDT — ⭐⭐⭐⭐⭐⭐ **THE SLINKY IS REAL AND IT IS RUNNING BACKWARDS: THE IG YIELD HAS BEEN STATIONARY FOR 17 MONTHS WHILE THE 1
 - `2026-09-05` **[1]** rates-board.md:L2519 — Addendum 2026-09-05 ~11:30am PDT — ⭐⭐⭐⭐⭐⭐ **THE AUCTION TAPE ANSWERS JAKE'S QUESTION AND SPLITS IT: AT THE 10Y, HIGHER YIELDS BOUGHT MORE DEMAND. AT T
+- `2026-09-05` **[1]** rates-board.md:L2562 — Addendum 2026-09-05 ~3:25pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **GLOBAL GOVERNMENT YIELDS AT A 22-YEAR HIGH, AND THE US IS NOT LEADING IT. JAPAN IS — BY 194bp. THE AI-CROW
 - `2026-09-05` **[1]** new-economy-regime.md:L4913 — Addendum 2026-09-05 ~8:40am PDT — **RARE EARTHS: THE VAULT ALREADY HELD THIS (9/4 2:20pm). THE BRIEF'S ADDS ARE THREE NUMBERS AND ONE GOOD SECOND-ORDE
 - `2026-09-05` **[3]** ai-financing-fragility.md:L7663 — Addendum 2026-09-05 ~9:00am PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S CROWD-OUT CALL IS CONFIRMED AND DATED (8/15) — BUT THE SPREAD DATA SAYS THE TRANSMISSION RUNS THROUG
 - `2026-09-05` **[3]** ai-financing-fragility.md:L7697 — Addendum 2026-09-05 ~11:40am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE ORDER-BOOK DATA EXISTS AND IT CORRECTS ME TWICE: THE INDEX WAS HIDING THE HYPERSCALERS, AND JAKE'S SL
