@@ -360,3 +360,47 @@ The sell chronology (Feb 11 → May 4 → May 5 → Jun 3 → **Jun 18 FERC** �
 - **⭐ THE GENUINE FORWARD TEST STARTS THIS MONTH: CAT Monarch's 2 GW of gensets deliver Sep-2026 → Aug-2027** (sheet 7's own anchor, registered in January). **That is a pre-registered, out-of-sample, dated test — the only thing in this workbook that can generate evidence rather than describe it.**
 
 **📌 REGISTERED:** **compute-to-power coverage computed monthly from IRREVERSIBLE commitments only — the one metric worth building** · Monarch deliveries Sep-26 onward as the pre-registered out-of-sample test · Eaton's 228 GW: signed-IA fraction ⬜ · the intramonth SOXX trough ⬜ · **and the standing methodological rule this produced: ANY event-selected backtest inside a trending window must be run against an all-months control before it is believed.**
+
+---
+
+## 2026-09-04 ~10:15pm PDT — ⭐⭐⭐⭐ **v2 BUILDS THE RIGHT ENGINE AND THEN BOLTS THE WRONG SCORE TO IT — AND SCORED HONESTLY ON TODAY'S DATA THE MODEL CONTRADICTS ITS OWN FRONT PAGE** *(`raw/2026-09-04-physical-to-silicon-dual-clock-v2.xlsx`, 13 sheets. Uploaded ~1 min after the control-test critique, so it answers the PREVIOUS round — build the ratio, use irreversible commitments — not tonight's finding.)*
+
+### ✅ WHAT v2 GETS RIGHT — THE COVERAGE ENGINE IS REAL NOW
+- **Sheets 10/11/12 instantiate Compute-to-Power Coverage**: hardware ledger (numerator), power/energization ledger (denominator), coverage calendar. **This is the one idea I said could carry content, and it now exists.**
+- **The conversion chain is explicit and correctly shaped:** `gross MW × availability (0.95) × reserve/redundancy (0.85) ÷ PUE (1.15) = usable IT MW` ⇒ **2,000 gross → 1,404 usable IT MW (factor 0.702).** **Every factor is a named user input, not a hard-coded fudge.** *(Anchors: SemiAnalysis islanded 0.609 · Epoch grid-connected 0.877 — v2's 0.702 sits properly between them. For MONARCH specifically, which is behind-the-meter islanded gas, 0.609 is the better empirical anchor. ⚠️ Also check that "availability 0.95" and "reserve 0.85" are not double-counting — N+1 reserve is HOW availability is achieved.)*
+- **⭐ ONLY ONE ROW IS INCLUDED=1: Monarch, 2 GW, Sep-26 → Aug-27.** **NVDA's Rubin POs and Dell's $95B backlog are both include=0 with notes that a delivery window and architecture mix must be supplied first.** ⇒ **He is refusing to stuff the numerator to make the model emit an output. That is the discipline, applied unprompted, and it is the best thing in the file.**
+- **The $/GW ladder is now sourced to the PRIMARY** — NVDA Q2 FY27 transcript, 26-Aug-2026 — for Hopper $18B / Blackwell $25B / Rubin $40B. **Better attribution than the vault had (mine was "via Jake").**
+
+### ⛔⛔⛔ THE FATAL PROBLEM: SCORE THE LAST 30 DAYS WITH SHEET 9'S OWN CATEGORIES
+Sheet 9 defines five warning categories, each worth 1 point, and sheet 1 maps the total to an action. **Every one of the five cites its historical example from the SAME May 4 – Jun 18 window.** ⇒ **The categories were derived from the single episode they are meant to predict. A 5/5 in June was guaranteed because the categories were written from June.** That is in-sample fitting with n=1.
+
+**Now apply them to AUGUST–SEPTEMBER 2026, using only what this vault already holds:**
+
+| # | Category | Today's instance | Score |
+|---|---|---|---|
+| 5 | System / regulatory intervention | **EO 14420 (8/26) — IEEPA NATIONAL EMERGENCY on the bulk-power system, retroactive disconnect authority** | **1** |
+| 3 | Chip revenue acceleration | **NVDA Q2 FY27 (8/26) — Rubin POs from every major hyperscaler; production shipments commenced** | **1** |
+| 4 | Server / rack delivery acceleration | **Dell (9/1) — AI orders $60.9B, backlog $95B, a record** | **1** |
+| 1 | Power / construction slippage | Ofgem DC grid-access commitment fees (7/29); the map's chronic slippage thread | **1** |
+| 2 | Build-throughput gap | Eaton's 228 GW vs 32 GW — **unresolved, still true today** | **1** |
+
+⇒ **★★★★★★ THE MODEL SCORES 3 AT MINIMUM AND 5 ON A FAIR READING — "STOP ADDING" TO "EXIT / HEDGE" — WHILE SHEET 1 SIMULTANEOUSLY READS "ACTIVE / ACCUMULATION," "WATCH — NOT RED," AND "ACCUMULATE."**
+⇒ **THE MODEL CONTRADICTS ITSELF ON LIVE DATA, TONIGHT.**
+⇒ **AND THE DIAGNOSIS IS THE IMPORTANT PART: THE CATEGORIES ARE WORDED SO BROADLY THAT THEY ARE SATISFIED IN EVERY MONTH OF AN AI-CAPEX BOOM.** "Chip revenue accelerating" has been true for eleven straight quarters. **A score that is always high carries no information.**
+⇒ **AND IT REPRODUCES TONIGHT'S BASE-RATE FINDING FROM INSIDE THE MODEL: EO 14420 IS A STRICTLY MORE SEVERE "SYSTEM INTERVENTION" THAN THE JUNE 18 FERC ORDERS, AND SOXX WENT +1.2% (Jul 504.89 → Aug 511.04).** The score would have fired in August. It would have been wrong.
+- **⇒ RECOMMENDATION: DELETE THE FIVE-CATEGORY SCORE, or restrict every category to a SECOND DERIVATIVE** (not "chip revenue accelerating" but "chip revenue accelerating **faster than usable IT MW is being added**"). **That second-derivative condition is exactly what the coverage ratio already computes.** ⇒ **THE SCORE IS REDUNDANT WITH THE RATIO AND ADDS ONLY HINDSIGHT. THE RATIO IS THE MODEL; THE SCORE IS THE STORY.**
+
+### ⛔ "LAST-CYCLE PROOF OF CONCEPT" IS AN EPISTEMIC REGRESSION FROM v1
+v1 filed the chronology with *"hypothesis-generating, not causal evidence"* and *"the regime split is ex post."* **v2 promotes the identical hindsight-selected sequence to the FRONT PAGE and relabels it "PROOF OF CONCEPT,"** with day-counts ("49 days before peak," "4 days before peak") that read as an observed countdown rather than a list assembled backwards. **The v1 limitation text survives on sheet 8 — where it now contradicts sheet 1's headline.**
+⇒ **Tonight's control test (all-months control returned MORE at 6M than the signal dates) says those five events have NO demonstrated content. "Proof of concept" must be relabeled "the episode the framework was built from."**
+
+### ⚠️ THE RATIO CANNOT BE COMPUTED YET, AND THE BANDS ARE UNANCHORED
+- Sheet 1: *"Latest Fwd 6M hardware/power ratio | x"* — **blank. Numerator has ZERO included rows; denominator has one.** The model cannot emit its own headline number.
+- Thresholds (0.85 green / 1.05 watch / 1.25 yellow / 1.5 orange / >1.50 red) are honestly labelled *"heuristic starting bands"* — **but nobody knows what a NORMAL coverage ratio is, because it has never been measured.** ⇒ **the model can print a COLOUR long before anyone knows what the colour MEANS.**
+- **⇒ THE ONLY PATH FROM HEURISTIC TO INSTRUMENT: compute the ratio HISTORICALLY for 2024–2026 and look at what it actually did into the June peak.** **That is simultaneously the calibration AND the out-of-sample test the framework still lacks.** Hard (needs historical delivery schedules) — **and it is the whole ballgame.**
+
+### ⚠️ 21(b) — ONE $/GW LADDER IS BEING USED FOR THREE DIFFERENT KINDS OF DOLLAR
+The ledger converts dollar values to implied IT GW using the **NVDA-CONTENT** ladder ($18/$25/$40B). **But Dell's $95B is SERVER-SYSTEM revenue** — memory, CPU, chassis, integration margin, some NVDA passed through — **a different perimeter.** *(Epoch: servers+networking $26.1B/GW total vs Huang's $25B NVDA content — close for Blackwell, but they are not the same dollar.)*
+⇒ **THE LEDGER NEEDS THREE BENCHMARK COLUMNS BY CONVERSION TYPE: NVDA-content $ · server-system $ · all-in capex $.** **Using one ladder for all three double-counts or under-counts by row.** **⭐ He has already half-caught this — the Dell row is include=0 pending "architecture mix."**
+
+**📌 REGISTERED:** **the historical coverage ratio through the June peak — the calibration and the out-of-sample test in one** · three $/GW benchmark columns by dollar type · whether availability×reserve double-counts · Monarch delivery confirmations from Sep-2026 (the live row, and the only pre-registered test in the file) · **and the score's fate: deleted, or re-specified as second-derivative conditions.**
