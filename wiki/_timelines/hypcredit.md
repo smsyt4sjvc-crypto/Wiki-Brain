@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **302 dated entries across 3 notes · 2026-02-10 → 2026-09-05 · refreshed 2026-09-05 08:31 PDT**
+> **303 dated entries across 3 notes · 2026-02-10 → 2026-09-05 · refreshed 2026-09-05 08:54 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -328,5 +328,6 @@
 - `2026-09-04` [rates-board.md:L2280](../rates-board.md) — 2026-09-04 ~1:30pm PDT — ✅⭐⭐⭐⭐⭐⭐ **RULE 20's FIRST FULL APPLICATION, AND IT SCORES MY OWN PRE-REGISTERED CALL: THE ENTIRE DAY WAS REAL, BREAKEVENS DID
 - `2026-09-04` [rates-board.md:L2309](../rates-board.md) — Addendum 2026-09-04 ~2:20pm PDT — ✅⛔ **NBIM's ACTUAL LETTER: $75B OUT OF TREASURIES, $20B INTO JGBs, AND THE DOLLAR EXPOSURE DOES NOT SHRINK — MY 7:05
 - `2026-09-04` [rates-board.md:L2318](../rates-board.md) — Addendum 2026-09-04 ~11:25pm PDT — ⛔⭐⭐⭐⭐ **THE YEN-CARRY ALARM IS A DAY STALE, ITS INTERVENTION CLAIM IS DISCONFIRMED BY A PRIMARY THIS BOARD ALREADY 
+- `2026-09-05` [ai-financing-fragility.md:L7663](../ai-financing-fragility.md) — Addendum 2026-09-05 ~9:00am PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S CROWD-OUT CALL IS CONFIRMED AND DATED (8/15) — BUT THE SPREAD DATA SAYS THE TRANSMISSION RUNS THROUG
 - `2026-09-05` [rates-board.md:L2340](../rates-board.md) — Addendum 2026-09-05 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **RULE 20 ON THE WSJ CHART: THE WAR WINDOW'S 80bp IS 88% REAL. SIX MONTHS OF A WAR THAT SHUT HORMUZ MOVED 10Y
 - `2026-09-05` [rates-board.md:L2376](../rates-board.md) — Addendum 2026-09-05 ~8:30am PDT — ⭐⭐⭐⭐⭐⭐ **WALLER JUST NAMED THE MECHANISM BEHIND THIS MORNING'S 88%, AND THE RECOVERY-RATE DATUM MEANS CCC AT 10.53pp

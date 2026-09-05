@@ -7867,3 +7867,37 @@ who syndicated/holds it (conveyor feed) · the 30mo-vs-4.3yr horizon spread as a
 - **⚠️ THE MATURITY IS THE UNDERWRITTEN RISK: 2.5 years on hardware this vault has repeatedly assigned a ~30-month competitive life.** **The paper matures almost exactly when the GPU stops being frontier — either a deliberate match or a refinancing into an obsolete asset.** ⬜ residual-value assumptions in the Blue Owl/PIMCO documents.
 - **GRADES (16c) → [[grades]]: IREN 6 HOLDS, driver now MEASURED not estimated** (the grade said "non-IG 9% financing… caps it"; it is exactly 9.00%), **with an offsetting positive I had not credited — 90-96% debt funding of GPU capex at $6B+ combined size means far less equity dilution than assumed.** **CRWV 2 HOLDS** — it sits at the far end of the same curve.
 **📌** the 6/9 pair as the tracked dispersion instrument · IREN's 2.5yr maturity vs GPU life · whether any non-IG AI borrower prices INSIDE 9% (the first sign of dispersion narrowing) · Blue Owl/PIMCO participation size as private-credit appetite (against Cliffwater's 16% redemption request, 9/3 8:45am).
+
+---
+
+### Addendum 2026-09-05 ~9:00am PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S CROWD-OUT CALL IS CONFIRMED AND DATED (8/15) — BUT THE SPREAD DATA SAYS THE TRANSMISSION RUNS THROUGH THE TREASURY'S CONVENIENCE YIELD, NOT THROUGH CORPORATES OUTBIDDING. AND CCC IS THE ONE TRANCHE THAT PROVES HIM RIGHT.**
+
+**THE CLAIM (Jake, today):** *"hyperscalers are competing for capital and in turn [dragging] yields up in a non-traditional sense. The fragility of the financing and circular revenues is demanding higher corporate yields, which is pulling demand from treasuries with $40T in debt and pulling yields up."*
+
+### ✅ THE PRIORITY CLAIM CHECKS OUT — RULE 21, AND THE VAULT ALREADY SAID SO
+**[[ai-capex-cycle]] L2870, 2026-08-15:** *"★★★★★★★ HE GENERALISES A MECHANISM THIS VAULT ALREADY HAS REGISTERED — **'the crowd-out loop'**"* — with the vault noting it had carried the loop since at least **[[memory-regime-question]] L266** as an *inflation* channel (*"AI buildout → MEMORY CROWD-OUT → consumer price hikes → stickier core"*) and **never applied it to suppliers' revenue quality until he did.** ⇒ **The crowd-out framework is his, it is three weeks old in the vault, and Waller has now arrived at the same place from a Fed governor's chair.** **Recorded.**
+
+### ⛔ BUT THE TWO MECHANISMS MAKE OPPOSITE PREDICTIONS, AND THE DATA PICKS ONE
+- **JAKE'S CHANNEL:** corporates demand capital → **bid up their own yields** → investors substitute OUT of Treasuries → UST yields rise. ⇒ **PREDICTS CORPORATE SPREADS WIDEN.**
+- **WALLER'S CHANNEL:** the safety/liquidity **convenience yield** on Treasuries erodes as capital finds competing uses → USTs lose the discount they used to earn for being safe. ⇒ **PREDICTS SPREADS NARROW MECHANICALLY** — the risk-free leg rises toward corporates.
+
+**OAS over the war window (2026-02-27 → 2026-09-03), against 10Y REAL +70bp:**
+| | 2/27 | 9/3 | Δ |
+|---|---|---|---|
+| **IG** | 0.85 | 0.81 | **−4 bp** |
+| **BBB** | 1.07 | 1.00 | **−7 bp** |
+| **HY** | 3.10 | 2.65 | **−45 bp** |
+| **CCC** | **9.50** | **10.51** | **+101 bp** |
+
+⇒ **★★★★★★ IG, BBB AND HY ALL NARROWED WHILE REAL YIELDS ROSE 70bp. THAT IS WALLER'S SIGNATURE, NOT THE SUBSTITUTION STORY.**
+⇒ **CORPORATE ALL-IN YIELDS DID RISE — Jake is right about that — BUT BECAUSE THE RISK-FREE FLOOR MOVED UP UNDER THEM, NOT BECAUSE CORPORATES OUTBID TREASURIES.** **Same cause (capital scarcity), different observable, and the difference is the whole trade: a spread-widening regime and a risk-free-repricing regime want opposite hedges.**
+
+### ★★★★★★ AND CCC IS THE EXCEPTION THAT VINDICATES THE FRAGILITY THESIS PRECISELY
+**CCC +101bp while IG −4 and HY −45. That is 105bp of DISPERSION opened INSIDE the credit stack over the war window.**
+⇒ **THE TOP OF THE STACK GOT A SAFETY-PREMIUM REPRICING. THE BOTTOM GOT GENUINE CREDIT DETERIORATION.**
+⇒ **★★★★★ THIS IS THE VAULT'S AI-CREDIT LADDER CONFIRMED AT INDEX LEVEL.** The single-name evidence — **IREN 6.00% vs 9.00% on IDENTICAL GPU collateral, set entirely by offtake; CRWV ~9.16–9.75% with 5Y CDS >800bp** — is now corroborated by the broad indices: **quality is fine, the leveraged end is repricing hard.**
+⇒ **⇒ THE CORRECT STATEMENT OF JAKE'S THESIS, SHARPER THAN HIS OWN: the AI-financing fragility is NOT showing up as a general rise in corporate yields. It is showing up as DISPERSION — and it is concentrated exactly where the circular-revenue and vendor-financed structures live.** **Confirmed at the bottom of the stack, disconfirmed at the top, which is a more useful finding than a blanket one.**
+- **And it answers the brief's "when does private credit become systemic" question with a marker: HY narrowing 45bp while CCC widens 101bp is a SELECTIVE credit event, not a systemic one.** **The systemic tell would be HY and BBB joining CCC. They are going the other way.** **📌 That is now the vault's cleanest single instrument for the escalation: BBB/HY vs CCC.**
+- **✅ The "circular revenues" half stands on its own evidence:** NVDA's **capacity-purchase backstop** (obligated to buy unsold AI-cloud capacity), supply commitments $119B→$279B, **DSO 45→60, A/R +55% vs revenue +18%, OCF −52% in the strongest demand quarter** ([[balance-sheet-board]] 8/26). **That is vendor financing, and it is his call too.**
+
+**📌 REGISTERED:** **BBB/HY vs CCC as the systemic-vs-selective discriminator — the single best instrument the vault now has on this thread** · whether IG spreads stay compressed if the safety premium keeps eroding (the two can only coexist so long) · Waller's full remarks ⬜ (still second-hand) · CCC recovery rates against the 29% print.
