@@ -24,7 +24,52 @@ power becomes *financeable and believable*, not when it turns on.
   tranche) — and XPV's 20GW matches FY28's 20GW, i.e. **the financing was sized to the revenue plan.**
   ⇒ **This turns "power → silicon" from a direction into an underwritable rate.** **Each de-risked GW carries a
   computable silicon tranche** (AVGO-custom only — total silicon per GW is higher; the full coefficient is ⬜).
-  **This is the single most useful thing the vault can hand the thesis, and the thesis does not have it.**
+  **⛔ CORRECTION 2026-09-04 ~8:40pm PDT (Jake caught this): I wrote "the full coefficient is ⬜" WHILE THE VAULT
+  HELD IT IN FIVE PLACES.** See the stack immediately below. **Second roster-check failure this week** (EWY was
+  the first), and the more specific diagnosis: **at 3:45pm I wrote the rule "a quantity that carries a conclusion
+  is a primary-source quantity" and applied it to EXTERNAL primaries only. The same failure applies to the
+  INTERNAL archive: I declared a coefficient absent without grepping for it.** Root cause both times: answering
+  from working memory instead of searching. **📌 PROPOSED RULE 21 — BEFORE DECLARING ANYTHING UNKNOWN OR ABSENT,
+  GREP THE VAULT. "The vault does not have X" is a claim about the vault and must be checked against the vault.**
+
+## ⭐⭐⭐⭐⭐⭐ THE COEFFICIENT STACK THE VAULT ACTUALLY HOLDS — AND ITS 3.2x SPREAD IS THE THESIS'S REAL ERROR BAR
+
+| Source | Figure | **SCOPE — the whole problem** |
+|---|---|---|
+| Stargate/OpenAI ([[balance-sheet-board]] L524) | **$24.7B/GW** | per GW of **IT LOAD** — a different denominator |
+| XPV tranche one ([[balance-sheet-board]] L830) | **$35B/GW** | all-in, 1GW for $35B |
+| **Nscale** ([[ai-capex-cycle]] L3588) | **$52.6B/GW** | **all-in, with a stated 66% GPU/server share** |
+| **Huang, 8/10** (Dwarkesh 4/15/26, verbatim-confirmed, `raw/huang-transcript-500b-2026-08-10.md`) | **$50-60B/GW** | **ALL-IN** — energy + land + power + shell + computing |
+| NVDA content (via Nscale cross-check) | **$40B/GW** | NVDA content only |
+| **Krishna, ~6 May 2026** ([[ai-financing-fragility]] L4502) | **$60-80B/GW** | **"$60 to 80 billion dollars worth of SEMICONDUCTORS"** — **CHIPS ONLY** |
+| AVGO (derived 9/3) | **$11.5B/GW** | AVGO custom silicon only ≈ **33% of XPV's $35B all-in** |
+
+- **⛔ THE DISPUTE IS ALREADY FLAGGED AND STILL UNRESOLVED** ([[ai-financing-fragility]] L4352, superseding L4351):
+  **Krishna's CHIPS-ONLY $60-80B/GW EXCEEDS Huang's ALL-IN $50-60B/GW.** **Those cannot both be true.** The vault's
+  standing instruction: *"do not use $50-60B/GW as a settled conversion factor without the dispute flag."* **It stands.**
+- **✅ BUT TWO INDEPENDENT SOURCES CORROBORATE THE ALL-IN BAND:** Huang's **$50-60B/GW** and Nscale's **$52.6B/GW**
+  — a vendor CEO and an operator's actual project economics, different vintages, same answer.
+  ⇒ **USABLE COEFFICIENT FOR THE THESIS: ~$50-60B/GW ALL-IN, OF WHICH ~66% ($33-40B) IS SILICON AND SERVERS.**
+  **That is roughly 3-3.5x the AVGO-only $11.5B I handed the thesis at 8:35pm.**
+- **⚠️ CLASS-8, ALREADY RUN BY THE VAULT (L4536): Huang's LOW all-in number is self-serving** — *"more GW per
+  dollar, buildout affordable, 'we did not even start'."* **Nscale is the disinterested corroborator; weight it higher.**
+- **⚠️ AND THE DENOMINATOR TRAP: "per GW" IS AMBIGUOUS BETWEEN IT LOAD AND FACILITY POWER**, which differ by PUE
+  (~1.2-1.4 on modern AI sites). **Stargate's $24.7B is explicitly per GW of IT LOAD and therefore NOT comparable
+  to the others as written.** ⬜ pin each figure's denominator. **PUE alone does NOT dissolve the Huang/Krishna
+  dispute — I checked the arithmetic both ways and it survives — so the flag is real, not an artifact.**
+
+### ★★★★★★ WHAT THIS DOES TO THE THESIS
+**The coefficient IS the thesis's entire underwriting.** "Each de-risked GW → an underwritable silicon tranche"
+is only as good as the GW→$ conversion. **The vault's own stack spans $24.7B to $80B/GW — 3.2x.**
+⇒ **THE THESIS'S CENTRAL CALCULATION CARRIES A 3.2x ERROR BAR UNTIL THE PERIMETER IS PINNED.**
+⇒ **THE FIX, AND IT IS MECHANICAL: before any announced GW figure enters the arithmetic, establish (a) IT LOAD or
+FACILITY POWER, and (b) ALL-IN or SILICON-ONLY or SINGLE-VENDOR.** **This is the THIRD instance this week of one
+error class in this vault — unlike-scope quantities compared** (the Hormuz bypass residual this afternoon;
+Sacks' $800B pre-empted two hours ago; now this). **📌 PROPOSED RULE 21(b): NO QUANTITY ENTERS AN ARITHMETIC
+UNTIL ITS PERIMETER IS WRITTEN DOWN NEXT TO IT.** *(Both 21 and 21(b) pending Jake.)*
+- **✅ AND THE CY28 SANITY CHECK ALREADY EXISTS** ([[ai-financing-fragility]] L1608): **25-35 GW × ~$60B/GW =
+  $1.5-2.2T capex** against consensus hyperscaler/neocloud operating cash flow. **That is the thesis's Hole 1
+  (financing) already sized by the vault — and it is the gap the credit market has to fund.**
 - **The "de-risking precedes orders" sequence has been OBSERVED ONCE ALREADY** in the XPV: financing closed
   against a GW schedule *before* the silicon shipped. **n=1, but it is the right n=1.**
 - **Policy is now forcing the de-risking**: Sacks at the G20 — data-centre operators *"should create net-new
