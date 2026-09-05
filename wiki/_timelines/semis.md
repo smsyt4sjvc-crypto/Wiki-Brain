@@ -1,6 +1,6 @@
 # ⏱ SEMIS — merged timeline (the gate)
 
-> **71 dated entries across 2 notes · 2026-07-09 → 2026-09-04 · refreshed 2026-09-05 08:27 PDT**
+> **72 dated entries across 2 notes · 2026-07-09 → 2026-09-05 · refreshed 2026-09-05 08:31 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -90,3 +90,4 @@
 - `2026-09-04` [buildout-bottleneck-map.md:L1613](../buildout-bottleneck-map.md) — Addendum 2026-09-04 ~7:25am PDT — **GEV: STUDSVIK PICKS GE VERNOVA HITACHI'S BWRX-300 FOR 1.2GW IN SWEDEN, BUILT BY SAMSUNG C&T (ZH scan).** Four BWRX
 - `2026-09-04` [buildout-bottleneck-map.md:L1615](../buildout-bottleneck-map.md) — Addendum 2026-09-04 ~2:25pm PDT — ✅ **SOURCED: "BLOOM ENERGY, ILLUMINA, EVERPURE SET TO JOIN S&P 500" (ZH via X, 2:16pm, Jake's paste — closes the 2:2
 - `2026-09-04` [buildout-bottleneck-map.md:L1624](../buildout-bottleneck-map.md) — Addendum 2026-09-04 ~7:05pm PDT — **THREE PRINCIPALS PUT POWER AHEAD OF SILICON ON THE SAME STAGE, AND ALL THREE GET PAID IF YOU BELIEVE IT. THE CLAIM
+- `2026-09-05` [buildout-bottleneck-map.md:L1677](../buildout-bottleneck-map.md) — 2026-09-05 ~8:35am PDT — ⭐⭐⭐⭐⭐⭐ **MICROSOFT IS SUING TO STOP THE EXACT POLICY THE WHITE HOUSE ENDORSED ONE DAY EARLIER — AND VIRGINIA HAS ALREADY PRIC
