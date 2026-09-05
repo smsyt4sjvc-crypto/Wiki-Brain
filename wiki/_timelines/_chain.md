@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **846 dated entries · 2026-02-10 → 2026-09-05 · refreshed 2026-09-05 11:16 PDT**
+> **847 dated entries · 2026-02-10 → 2026-09-05 · refreshed 2026-09-05 11:22 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -878,6 +878,7 @@
 - `2026-09-05` **[1]** rates-board.md:L2408 — Addendum 2026-09-05 ~9:15am PDT — ⭐⭐⭐⭐⭐ **JAKE: HYPERSCALERS ARE PRICE-INSENSITIVE BORROWERS, SO BUY CORPORATES INSTEAD OF TREASURIES. THE FIRST HALF 
 - `2026-09-05` **[1]** rates-board.md:L2439 — Addendum 2026-09-05 ~11:10am PDT — ⭐⭐⭐⭐⭐⭐ **THE JPMAM CHART QUANTIFIES JAKE'S CALL — AND ITS OWN DENOMINATOR UNDERCUTS THE SUPPLY VERSION OF IT WHILE 
 - `2026-09-05` **[1]** rates-board.md:L2477 — Addendum 2026-09-05 ~11:20am PDT — ⭐⭐⭐⭐⭐⭐ **THE SLINKY IS REAL AND IT IS RUNNING BACKWARDS: THE IG YIELD HAS BEEN STATIONARY FOR 17 MONTHS WHILE THE 1
+- `2026-09-05` **[1]** rates-board.md:L2519 — Addendum 2026-09-05 ~11:30am PDT — ⭐⭐⭐⭐⭐⭐ **THE AUCTION TAPE ANSWERS JAKE'S QUESTION AND SPLITS IT: AT THE 10Y, HIGHER YIELDS BOUGHT MORE DEMAND. AT T
 - `2026-09-05` **[1]** new-economy-regime.md:L4913 — Addendum 2026-09-05 ~8:40am PDT — **RARE EARTHS: THE VAULT ALREADY HELD THIS (9/4 2:20pm). THE BRIEF'S ADDS ARE THREE NUMBERS AND ONE GOOD SECOND-ORDE
 - `2026-09-05` **[3]** ai-financing-fragility.md:L7663 — Addendum 2026-09-05 ~9:00am PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S CROWD-OUT CALL IS CONFIRMED AND DATED (8/15) — BUT THE SPREAD DATA SAYS THE TRANSMISSION RUNS THROUG
 - `2026-09-05` **[5]** memory-regime-question.md:L1354 — Addendum 2026-09-05 ~8:35am PDT — ⭐⭐⭐⭐⭐ **THE SHORTAGE REACHED A WITNESS WITH NO STAKE IN THE AI STORY: NINTENDO. THAT IS THE STRONGEST RUNG THIS NOTE

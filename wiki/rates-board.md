@@ -2596,3 +2596,46 @@ If IG repriced FIRST and Treasuries followed, **IG OAS must WIDEN (IG moving, US
 ⇒ **📌 THAT IS NOW A HARD, CHEAP, DAILY-OBSERVABLE TRIGGER: IG OAS ≤ 75bp WITH THE 10Y STILL RISING = the convergence is exhausted and the corporate leg has to move.** **Pairs with the BBB/HY-vs-CCC marker as the two live discriminators on this thread.**
 
 **📌 REGISTERED:** **IG OAS ≤75bp with 10Y still rising — the convergence-exhausted trigger** · whether any quarter repeats the 2026-Q1 pattern (IG yield leading, 10Y flat) — that is his slinky live · hyperscaler FCF and buyback-to-capex conversion as the independent leg of his model ⬜ (the vault has NVDA OCF −52%/FCF −56%, but that is the VENDOR, not the hyperscalers) · actual Treasury 10Y-equivalent net issuance ⬜.
+
+---
+
+### Addendum 2026-09-05 ~11:30am PDT — ⭐⭐⭐⭐⭐⭐ **THE AUCTION TAPE ANSWERS JAKE'S QUESTION AND SPLITS IT: AT THE 10Y, HIGHER YIELDS BOUGHT MORE DEMAND. AT THE 30Y, THEY BOUGHT LESS. "NO LIQUIDITY IN TREASURIES" IS TOO BROAD — THE ABSORPTION PROBLEM IS A DURATION PROBLEM.** *(TreasuryDirect auction API, 250 records; nominal 10Y/30Y only — the 2/19, 3/19 and 7/23 lines are TIPS and are excluded.)*
+
+**HIS REFRAME, ADOPTED:** *"whether the IGs are an anchor or rising, either way the anchor is what is setting the yield market, not the Treasury."* ⇒ **★★★★★ THAT IS THE RIGHT GENERALISATION AND IT IS BIGGER THAN EITHER PRIOR FRAMING: IF IG SETS THE LEVEL, THE TREASURY HAS LOST THE NUMERAIRE ROLE — the risk-free asset becomes the price-TAKER.** **It holds whether IG moves or stands still, which is exactly why it is the more robust statement.**
+
+### ★★★★★★ NOMINAL AUCTIONS 2026 — THE TWO TENORS DIVERGE COMPLETELY
+| **10-YEAR** | high yld | b/c | indirect % | dealer % |
+|---|---|---|---|---|
+| 3/11 | 4.217 | 2.45 | 74.3 | 12.7 |
+| 4/08 | 4.282 | 2.43 | 65.2 | 10.8 |
+| 5/12 | 4.468 | 2.40 | 63.8 | 11.9 |
+| 6/10 | 4.538 | **2.57** | **78.0** | 9.4 |
+| 7/08 | 4.580 | **2.59** | **81.3** | **7.8** |
+| 8/12 | 4.683 | **2.53** | **76.4** | **8.6** |
+
+| **30-YEAR** | high yld | b/c | indirect % | dealer % |
+|---|---|---|---|---|
+| 2/12 | 4.750 | **2.66** | 69.8 | **5.9** |
+| 3/12 | 4.871 | 2.45 | 63.3 | 9.3 |
+| 4/09 | 4.876 | 2.39 | 64.1 | 11.6 |
+| 5/13 | 5.046 | **2.30** | 66.4 | 11.6 |
+| 6/11 | 5.020 | 2.33 | **59.8** | **14.7** |
+| 7/09 | 5.058 | 2.44 | 77.6 | 10.0 |
+| 8/13 | 5.216 | 2.39 | 66.6 | 11.5 |
+
+⇒ **★★★★★★ AT THE 10Y, YIELDS ROSE 4.22 → 4.68 AND BID-TO-COVER IMPROVED 2.45 → 2.53-2.59, INDIRECT WENT TO 76-81%, AND DEALER TAKE FELL TO 7.8-8.6%. PRICE CLEARED DEMAND — that is a functioning auction.**
+⇒ **AT THE 30Y, YIELDS ROSE 4.75 → 5.22 AND BID-TO-COVER FELL 2.66 → 2.39, WITH DEALERS TAKING 10-14.7%. HIGHER YIELD DID NOT BUY MORE DEMAND.**
+⇒ **⇒ THE SINGLE CLEANEST STATEMENT OF THE ABSORPTION PROBLEM, FROM PRIMARY DATA: THE 30Y IS THE TENOR WHERE PRICE IS NOT CLEARING DEMAND.** **Low dealer take = real money took the paper; rising dealer take = dealers absorbed what real money would not. The 10Y shows the first, the 30Y the second.**
+⇒ **AND IT EXPLAINS THE POLICY: Treasury is cutting long-end size because it can see this tape. The WAM shortening is not a preference — it is a response to a bid that is not there at 30 years.**
+
+### ⛔ SO "NO LIQUIDITY IN TREASURIES" IS TOO BROAD — AND HIS OWN LADDER AGREES
+**Stage 4 of the fragility ladder (rates volatility / the collateral) is DARK, 0/3 lit: MOVE 73.98 at the 19th percentile, 10Y realized vol at the 42nd — both CALM.** **Stage 5 (dealers & Treasury absorption) is also dark, 0/5.**
+⇒ **A genuine Treasury liquidity crisis prints in MOVE and in dealer stress. Neither is printing.** **The correct statement is narrower and stronger: NO LIQUIDITY PROBLEM AT THE 10Y; A REAL ABSORPTION PROBLEM AT THE 30Y.** **His anchor thesis lives at the long end specifically, and that is where it should be tested.**
+- **⚠️ 21(b) FLAG ON MY OWN NUMBERS: I computed indirect as ACCEPTED $ ÷ OFFERING $. The board's standing indirect-fade series (66.0 → 61.5 → 60.78) is a different measure and probably a different tenor (the 7Y, per the 8/26 entry).** **DO NOT read 76-81% here as contradicting 60.78 there — different denominators, possibly different securities.** ⬜ reconcile the two before either is quoted against the other.
+
+### ⇒ AND HIS ACTUAL QUESTION — ARE IG DEALS SNAPPED UP?
+- **The corporate analogue of an auction tail is the NEW-ISSUE CONCESSION and the ORDER-BOOK OVERSUBSCRIPTION RATIO. Those are syndicate data (Bloomberg/IFR/Informa) — NOT free, NOT on FRED, and the vault does not have them.** ⬜ **Registered as a real gap, not answered.**
+- **✅ BUT THERE IS A SOUND INDIRECT READ, AND IT ANSWERS HIM: IG OAS SITS AT 81bp — WITHIN 8bp OF ITS POST-2024 TIGHTEST — WHILE ISSUANCE RUNS AT A RECORD $320B.** **If deals were struggling, record supply would push secondaries WIDER. It has not.**
+⇒ **★★★★★ RECORD SUPPLY ABSORBED AT NEAR-TIGHT SPREADS IS THE DEMAND EVIDENCE HE IS ASKING FOR. THE PAPER IS BEING TAKEN.** **Combined with the 30Y's failing bid, that is the rotation stated in two primary markets at once: corporates absorb record supply at tights while the long bond needs dealers to take 11-15%.**
+
+**📌 REGISTERED:** **30Y bid-to-cover and dealer take at SEPT 10 — now the sharpest single number in the week** (the series has gone 2.66 → 2.39 while yields rose 47bp; a further deterioration on a CUT size is the fiscal-dominance tell) · IG new-issue concessions and order-book cover ⬜ (a genuine data gap — syndicate-only) · reconcile my indirect-%-of-offering with the board's 66.0→61.5→60.78 series ⬜ · 10Y b/c holding ≥2.5 as the control.
