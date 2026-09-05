@@ -404,3 +404,50 @@ The ledger converts dollar values to implied IT GW using the **NVDA-CONTENT** la
 ⇒ **THE LEDGER NEEDS THREE BENCHMARK COLUMNS BY CONVERSION TYPE: NVDA-content $ · server-system $ · all-in capex $.** **Using one ladder for all three double-counts or under-counts by row.** **⭐ He has already half-caught this — the Dell row is include=0 pending "architecture mix."**
 
 **📌 REGISTERED:** **the historical coverage ratio through the June peak — the calibration and the out-of-sample test in one** · three $/GW benchmark columns by dollar type · whether availability×reserve double-counts · Monarch delivery confirmations from Sep-2026 (the live row, and the only pre-registered test in the file) · **and the score's fate: deleted, or re-specified as second-derivative conditions.**
+
+---
+
+## 2026-09-04 ~10:25pm PDT — ⛔⭐⭐⭐⭐⭐ **THE STUDY DESIGN IS RIGHT AT THE DATA LAYER AND UNANSWERABLE AT THE INFERENCE LAYER — AND EATON'S OWN Q2-2026 DISCLOSURE KILLS THE "3–9 MONTH SWEET SPOT" FROM INSIDE JAKE'S EVIDENCE**
+
+### ⛔⛔⛔ THE BEST NEW DATUM IN THE MESSAGE CONTRADICTS ITS OWN CONCLUSION
+**Eaton, Q2 2026: only ~20% of the enormous US data-center backlog converts near term — MOST DELIVERIES 2028 AND BEYOND.**
+⇒ **The Q4-2025 electrical/cooling order explosion (ETN DC orders ~+200%, VRT +252%, B2B 2.9x, backlog $15B) that is being read as the precursor to the Feb–Jun 2026 semi run MOSTLY SHIPS IN 2028.**
+⇒ **★★★★★★ IT THEREFORE CANNOT HAVE BEEN THE PHYSICAL CAUSE OF A FEB–JUN 2026 CHIP RE-RATING. The silicon in that run was already allocated — SK hynix and Micron book HBM a year ahead, by Jake's own citations.**
+⇒ **SO WHAT WAS THE Q4-25 ORDER SURGE? A SHARED EXPECTATIONS EVENT.** VRT's order book and semiconductor equities both responded to the same AI-capex impulse. **That is the common-factor problem, and it is exactly why tonight's all-months control showed no signal content: the two series are siblings, not parent and child.**
+⇒ **The proposed "tradable sweet spot ~3–9 months after the infrastructure-order inflection" is contradicted by the single strongest new fact in the message.**
+
+### ⛔⛔ THE DESIGN CANNOT DISTINGUISH A LEAD FROM A REPORTING CALENDAR
+**Vertiv's Q4 orders HAPPENED Oct–Dec 2025. They became VISIBLE 11 Feb 2026.** Two dates, 2–4 months apart, and the study collapses them.
+- **If the signal lives in the ORDER date** — it is not public and not tradable.
+- **If it lives in the DISCLOSURE date** — you are reading the same press release as everyone else at the same instant, and VRT's apparent "lead" over NVDA may be nothing but **VRT reporting earlier in the quarter than NVDA does.**
+⇒ **★★★★★ THE STUDY AS SPECIFIED CANNOT SEPARATE "INFRASTRUCTURE ORDERS LEAD SEMIS" FROM "INFRASTRUCTURE SUPPLIERS REPORT EARLIER."**
+⇒ **FIX, AND IT IS CHEAP: record BOTH dates on every row — order period AND disclosure date.** **A lead is only real if it survives measurement from the DISCLOSURE date AND exceeds the reporting-calendar gap.** Anything shorter than the gap is an artifact of the earnings calendar.
+
+### ⛔ THE PER-SUPPLIER LEAD-TIME QUESTION IS NOT ANSWERABLE WITH AVAILABLE DATA
+The proposal: test whether turbines lead ~12mo, switchgear ~9mo, liquid cooling ~3–6mo.
+- Each supplier reports **4x/year**. The power-constrained regime is **~5 quarters old**.
+- ⇒ **~5 observations per supplier, all inside ONE capex cycle, all driven by the same impulse — i.e. not independent.**
+- **Resolving a 12-month lead from a 9-month lead requires many INDEPENDENT cycles. There has been one.**
+⇒ **This is not a "collect more data" problem — it is a "the data cannot exist yet" problem.** **Years, not quarters.**
+
+### ✅ THE PIVOT THAT MAKES IT VALUABLE — **THE LEAD TIMES ARE DISCLOSED, NOT INFERRED**
+**You do not need a backtest to learn the lead times. The companies state them:**
+| Source | Disclosed lead |
+|---|---|
+| **Vertiv** | large customer orders request delivery **12–18 months out**; YE-25 $15B backlog ships in that window |
+| **Eaton** | **~20% near-term; MOST DELIVERIES 2028+** |
+| **SK hynix (5/2/24)** | 2024 HBM sold out, 2025 nearly sold out ⇒ **~1yr+ ahead** |
+| **Micron (3/25)** | 2025 sold out while negotiating 2026 |
+| **CAT Monarch** | **contracted Sep-26 → Aug-27** |
+| **NVDA** | supply/capacity commitments **$279B**; now securing land, power and shells itself |
+
+⇒ **★★★★★★ THE CALENDAR IS KNOWABLE BY READING. THE TRADING EDGE FROM IT IS NOT.**
+⇒ **BUILD THE CAPACITY-VISIBILITY CALENDAR, NOT THE TIMING MODEL.** It answers questions that are real and answerable: **what is physically committed · when does it land · is a given quarter's chip demand already spoken for · and is a semi selloff a DEMAND event or a SCHEDULE event.** **That last one is worth a great deal and requires no statistics at all.**
+
+### 🔎 RULE 21 — TWO OF THE MESSAGE'S ANCHORS ARE ALREADY IN THE VAULT, RICHER
+- **NVDA $279B was filed 8/26** ([[balance-sheet-board]] L510/L519) with far more than the message carries: **supply/capacity commitments $119B → $279B (+134% q/q)** · total disclosed future commitments **$366B + $56B** AI-cloud/leases · max guarantees **$108.5B** · **and the instrument the message omits — A CAPACITY-PURCHASE BACKSTOP: if an AI cloud fails to sell committed capacity, NVDA CAN BE OBLIGATED TO BUY IT ITSELF** · DSO **45→60** · A/R **+55% vs revenue +18%** · **OCF −52% in the complex's strongest demand quarter.**
+  ⇒ **"NVDA is now securing land, power and shells" is NOT bullish vertical integration. It is THE VENDOR ABSORBING THE BOTTLENECK ONTO ITS OWN BALANCE SHEET** — the same pattern as AVGO's XPV, and the vault's standing read: **the chip vendors are financing the demand for their own chips** ([[balance-sheet-board]] L830).
+- **⭐ AND THE VAULT ALREADY ENDORSED THIS DESIGN AT THE DATA LAYER** ([[buildout-bottleneck-map]] 9/3 ghost-MW purge): ERCOT >474 GW queue vs Exelon's own **40% haircut**, AEP Ohio's pipeline **more than halved** after tougher fees. **The board's adopted rule: raw GW requests are NOT demand; ETN/VRT/PWR/GEV BACKLOGS ARE EXECUTED ORDERS and are therefore worth more than pipeline claims.**
+  ⇒ **A dated supplier-ORDER database is the correct layer, and this vault reached that conclusion independently on 9/3. The design is right; only the inference built on top of it is not.**
+
+**📌 REGISTERED:** order-period vs disclosure-date on every ledger row (the artifact test) · Eaton's ~20%/2028+ conversion split as the vault's binding lead-time fact ⬜ its exact wording · **the reframe: capacity-visibility calendar, and "is this selloff demand or schedule?" as the question it exists to answer.**
