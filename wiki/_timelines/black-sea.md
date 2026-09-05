@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **219 dated entries across 2 notes · 2026-03-13 → 2026-09-04 · refreshed 2026-09-04 23:23 PDT**
+> **219 dated entries across 2 notes · 2026-03-13 → 2026-09-04 · refreshed 2026-09-05 06:44 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
