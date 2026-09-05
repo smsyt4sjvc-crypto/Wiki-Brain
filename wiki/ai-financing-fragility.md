@@ -7901,3 +7901,41 @@ who syndicated/holds it (conveyor feed) · the 30mo-vs-4.3yr horizon spread as a
 - **✅ The "circular revenues" half stands on its own evidence:** NVDA's **capacity-purchase backstop** (obligated to buy unsold AI-cloud capacity), supply commitments $119B→$279B, **DSO 45→60, A/R +55% vs revenue +18%, OCF −52% in the strongest demand quarter** ([[balance-sheet-board]] 8/26). **That is vendor financing, and it is his call too.**
 
 **📌 REGISTERED:** **BBB/HY vs CCC as the systemic-vs-selective discriminator — the single best instrument the vault now has on this thread** · whether IG spreads stay compressed if the safety premium keeps eroding (the two can only coexist so long) · Waller's full remarks ⬜ (still second-hand) · CCC recovery rates against the 29% print.
+
+---
+
+### Addendum 2026-09-05 ~11:40am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE ORDER-BOOK DATA EXISTS AND IT CORRECTS ME TWICE: THE INDEX WAS HIDING THE HYPERSCALERS, AND JAKE'S SLINKY IS RIGHT AT THE SUB-INDEX WHERE I TESTED IT AT THE WRONG LEVEL. AND THE DURATION BUYER BASE IS THE BINDING CONSTRAINT IN BOTH MARKETS AT ONCE.** *(Jake, citing Apollo/Sløk, Sage Advisory, JPMAM, FT.)*
+
+**DATA — order-book coverage:** Feb-2026 hyperscalers **~5×** · **Oracle Feb ~$129B on ~$25B = 5.2×** · **SpaceX Jun $89B on $25B = 3.6×**, priced ~25bp tighter · **Amazon Jul: PEAK $62B → FINAL $41B on $25B = 1.6× FINAL** · hyperscaler average Jul **<2×** · **Alphabet Aug ~$115B on $25B = 4.6×.** **Benchmark: all USD IG 2026 averaged 3.9× covered, ~28bp IPT-to-final tightening (FT).**
+**DATA — pricing:** Amazon's surprise July deal pushed its own existing 30Y **~20bp wider** · **hyperscaler spreads +~30bp YTD vs ~+2bp for the broad USD IG index** · **duration-adjusted hyperscaler ~105bp vs ~80bp broad IG** · pressure greatest in LONG maturities, "absorbed by a smaller buyer base."
+
+### ⛔ CORRECTION 1 — MY 11:30am INFERENCE USED THE INDEX TO REASON ABOUT A SUBSET
+I wrote: *"IG OAS at 81bp while absorbing a record $320B ⇒ the paper is being taken."*
+⇒ **⛔ THE BROAD INDEX IS FLAT BECAUSE HYPERSCALERS ARE A SMALL SHARE OF IT. INSIDE IT, THE AI COMPLEX REPRICED 30bp WHILE THE INDEX MOVED 2bp.** **Duration-adjusted, hyperscalers sit at ~105bp against ~80bp for broad IG — a 25bp premium for the same rating band.**
+⇒ **★★★★★★ THE DIFFERENTIAL RULE, AGAIN — the aggregate is the least informative price.** *(Instances now: H100 spot vs term · 30Y vs 15Y+ IG · Brent vs ESPO · Urals vs ESPO · the inverted grade stack · bypass capacity · **now IG index vs hyperscaler sub-index.**)* **Seventh application, and this one was mine to catch and I missed it by exactly the mechanism the rule describes.**
+
+### ⛔ CORRECTION 2 — JAKE'S SLINKY IS RIGHT, AND I TESTED IT AT THE WRONG AGGREGATION
+At 11:20am I tested "IG yields rose independently, Treasuries followed" **on the broad IG index** and found the IG yield stationary (+4bp over 17 months) while the 10Y rose 43bp.
+⇒ **BUT HIS THESIS WAS NEVER ABOUT BROAD IG. IT WAS ABOUT HYPERSCALER PAPER.** **Hyperscaler spreads +30bp YTD vs +2bp index IS "investors independently demanded higher yield and the issuers accommodated" — isolated to precisely the issuers he named.**
+⇒ **ARITHMETIC: hyperscaler all-in yield = UST +43bp + spread +30bp ≈ +73bp YTD, against broad IG ≈ +45bp.** ⇒ **HYPERSCALERS ARE PAYING ~28bp MORE THAN THEIR RATING BAND FOR THE SAME MONEY.** **That is his mechanism, measured.** **The 11:20am entry stands for broad IG and does NOT refute him; it tested the wrong universe.**
+
+### ⚠️ BUT THE DETERIORATION IS NOT MONOTONIC, AND THE MOST RECENT PRINT BREAKS IT
+**Feb ~5× → Jun 3.6× → Jul 1.6-2× → AUGUST (Alphabet) 4.6×.**
+⇒ **⛔ SLØK'S "NEARLY 5× IN FEBRUARY TO BELOW 2× IN JULY" IS A HIGH-TO-LOW TWO-POINT COMPARISON THAT ENDS IN JULY — AND THE NEXT OBSERVATION IS BACK NEAR THE TOP OF THE RANGE.** **A series quoted from its peak to its trough is not a trend.** *(The vault's standing discipline, applied to a source it likes.)*
+- **★★★★ AND THERE IS A COMPETING EXPLANATION THE BRIEF DOES NOT CONSIDER: AMAZON'S JULY DEAL IS DESCRIBED AS A *SURPRISE*. ALPHABET'S AUGUST DEAL WAS NOT.** ⇒ **THE DISCRIMINATOR MAY BE SURPRISE vs TELEGRAPHED SUPPLY, NOT DETERIORATING DEMAND.** **Surprise supply is punished; prepared supply is absorbed.** **That is testable and it changes the whole read: a demand problem is structural, a telegraphing problem is fixable.** ⬜ **classify every deal in the series as surprise or pre-announced — the single highest-value addition to his monitor.**
+- **Also unresolved: Alphabet is arguably the strongest credit in the complex (AA+/Aa2).** ⬜ control for rating and tenor before treating coverage as a demand series.
+
+### ⭐⭐⭐⭐⭐ HIS BEST METHODOLOGICAL POINT, ADOPTED VERBATIM
+*"The most valuable signal may actually be peak book versus final book. Amazon fell from $62B indicated to $41B final as pricing tightened. Headline oversubscription can therefore exaggerate genuine demand because investors inflate orders expecting allocations."*
+⇒ **CORRECT, AND IT IS THE SAME PATHOLOGY AS THE GHOST-MW QUEUE ([[buildout-bottleneck-map]] 9/3): AN INFLATED ORDER IS A REQUEST, NOT A COMMITMENT.** **Interconnection queues, order books — the vault now has the same error in two unrelated markets, and the same fix: count what survives the price.** **📌 FINAL BOOK ÷ DEAL SIZE IS THE METRIC. PEAK IS MARKETING.**
+
+### ★★★★★★ THE SYNTHESIS — AND IT IS THE STRONGEST FINDING OF THE DAY
+*"The pressure is greatest in long maturities, where repeated issuance has to be absorbed by a smaller buyer base."*
+⇒ **THAT IS WORD-FOR-WORD THE TREASURY AUCTION FINDING FROM ONE HOUR AGO: 10Y bid-to-cover IMPROVED to 2.53-2.59 with dealers at 7.8-8.6%, while 30Y bid-to-cover FELL 2.66 → 2.39 with dealers at 10-14.7%.**
+⇒ **★★★★★★ THE SAME CONSTRAINT IS BINDING IN BOTH MARKETS SIMULTANEOUSLY. IT IS NOT TREASURIES *VERSUS* CORPORATES COMPETING FOR CAPITAL. BOTH ARE COMPETING FOR THE SAME SHRINKING POOL OF LONG-DURATION BUYERS — insurance, pensions, LDI — AND THAT POOL IS THE ACTUAL SCARCE RESOURCE.**
+⇒ **⇒ THE CROWDING-OUT DEBATE HAS BEEN FRAMED WRONG BY EVERYONE INCLUDING THIS BOARD. THE COMPETITION IS NOT BETWEEN ISSUERS. IT IS BETWEEN DURATIONS.** **Short paper clears in both markets; long paper clears in neither.** **That reconciles every observation on this thread: IG index flat (short/intermediate heavy), hyperscaler long bonds +30bp, 10Y auctions strong, 30Y auctions weak, and Treasury cutting long-end size.**
+
+### GRADES (16c) — **ORCL IS THE NAME THIS LANDS ON**
+**ORCL 4 HOLD, with the risk sharpened:** Oracle's own February deal was **5.2× covered** — but that was February, at the peak of the scarcity premium. **It refinances $3.3B of guaranteed lessor borrowing THIS MONTH, at BBB-, into a market where hyperscaler spreads are +30bp YTD and the strain is concentrated in exactly the long maturities it needs.** **The 9/2 initialization named this refi as "the outcome moves it either way." It now has a measurable backdrop, and the backdrop got worse.** **No move — the refi is the event, not the backdrop.**
+
+**📌 REGISTERED:** **classify every deal SURPRISE vs TELEGRAPHED ⬜ — the competing explanation for Amazon-vs-Alphabet** · final-book÷deal-size as the series (peak is marketing) · **hyperscaler sub-index spread vs matched-duration IG as a tracked pair — this is now the thread's primary instrument** · ORCL's $3.3B refi terms and book · whether Sept/Oct hyperscaler deals print above or below 3.9× (the all-IG benchmark) · **the long-duration buyer base itself: insurance/pension/LDI allocation data ⬜ — if the pool is the scarce resource, its size is the number nobody on this thread has.**
