@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **90 dated entries across 3 notes · 2026-06-30 → 2026-09-05 · refreshed 2026-09-05 15:21 PDT**
+> **91 dated entries across 3 notes · 2026-06-30 → 2026-09-06 · refreshed 2026-09-06 09:12 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -112,3 +112,4 @@
 - `2026-09-04` [buildout-bottleneck-map.md:L1624](../buildout-bottleneck-map.md) — Addendum 2026-09-04 ~7:05pm PDT — **THREE PRINCIPALS PUT POWER AHEAD OF SILICON ON THE SAME STAGE, AND ALL THREE GET PAID IF YOU BELIEVE IT. THE CLAIM
 - `2026-09-05` [buildout-bottleneck-map.md:L1677](../buildout-bottleneck-map.md) — 2026-09-05 ~8:35am PDT — ⭐⭐⭐⭐⭐⭐ **MICROSOFT IS SUING TO STOP THE EXACT POLICY THE WHITE HOUSE ENDORSED ONE DAY EARLIER — AND VIRGINIA HAS ALREADY PRIC
 - `2026-09-05` [buildout-bottleneck-map.md:L1705](../buildout-bottleneck-map.md) — 2026-09-05 ~3:30pm PDT — ⛔⭐⭐⭐⭐⭐ **NNE IS NR. BUT IT IS ADVANCING THE DETAILED DESIGN OF A HELIUM CIRCULATOR — AND THIS MAP RECORDED ON 7/12 THAT WAR D
+- `2026-09-06` [nuclear.md:L618](../nuclear.md) — 2026-09-06 ~9:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE COOLANT MAP THE VAULT REGISTERED YESTERDAY, BUILT — AND THE MOST-FUNDED AI-DATA-CENTRE NUCLEAR PLAY ON THE LIST 

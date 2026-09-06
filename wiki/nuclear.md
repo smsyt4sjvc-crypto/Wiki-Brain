@@ -645,3 +645,49 @@ for first/second-of-a-kind units; DOE-Pilot-style fast regulatory pathway confir
 series); first commercial offtake discussion outside DoD = the transition tell.
 
 #### Addendum 2026-08-27 ~12:45pm PDT — **BWXT JANUS SPECIFICS (holdings scan, company+Army confirmed): 20MWe BANR at Fort Campbell · GROUNDBREAKING LATE 2028 · OPERATIONS EARLY 2030s.** ⛔ **Which settles who the Sept-2028 first-operational deadline is actually FOR: not BWXT (breaking ground as the deadline passes) — the 2028 race is ANTARES/RADIANT-class (sub-MW to few-MW units, fast metal). The cohort splits into two weight classes: the microreactor sprinters (Antares 0.1-1MWe, 2027 demo target) and the 20MWe-class builders (BWXT, GA, Westinghouse) whose value is the FLEET program, not the deadline.** MU reorg noted same scan (Bhatia President/COO, DeBoer President/CTPO — "increasingly customer-specific memory products" = the custom-HBM/LTA direction, neutral-positive, thesis unchanged).
+
+---
+
+## 2026-09-06 ~9:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE COOLANT MAP THE VAULT REGISTERED YESTERDAY, BUILT — AND THE MOST-FUNDED AI-DATA-CENTRE NUCLEAR PLAY ON THE LIST IS HELIUM-COOLED INTO A MARKET THAT LOST ~30% OF WORLD SUPPLY TO THE WAR** *(DOE/NRIC Nuclear Energy Launch Pad round 2 — 12 companies, 13 projects, announced **August 24**; ZH write-up 9/6.)*
+
+**⚠️ VINTAGE FIRST: the article is dated 9/6 and the DOE announcement was 8/24. THIRTEEN-DAY-OLD NEWS.** Publication date ≠ event date — the board's standing discipline, and it applies to the whole item.
+
+### ★★★★★★ THE DESIGN-CLASS COOLANT MAP — ⬜ CLOSED (registered 9/5 at [[buildout-bottleneck-map]])
+| Company | Design | **Coolant** | Helium-exposed? |
+|---|---|---|---|
+| **Valar Atomics** | HTGR, "gigasites," **AI data centres**, H₂, synfuels | **HELIUM** | **⛔ YES** |
+| **Deployable Energy** | Unity, 1MW transportable "nuclear battery," <5% LEU | **HELIUM** | **⛔ YES** |
+| *(NANO Nuclear, 9/5)* | *KRONOS* | *HELIUM* | **⛔ YES** |
+| Antares Nuclear | R1, TRISO + **sodium heat pipes**, 100kW–1MWe | sodium | ✅ no |
+| **Oklo** | **Aurora fast-fission**, burns used fuel | liquid metal *(implied; article says "fast-fission," coolant not named ⬜)* | ✅ no |
+| Forge Atomics | Ember, 25MW **PWR**, conventional LEU | light water | ✅ no |
+| Atlas Atomics | CANDU-like, isotopes + spent-fuel reuse | **heavy water** | ✅ no |
+| Scaled Atomics | MN-350, 20-ft container, 10-yr refuelling | ⬜ not stated | ⬜ |
+| Hexium · Lightbridge · Nusano · Raven-Flint · Sublime | fuel cycle — no reactor | n/a | n/a |
+
+⇒ **★★★★★★ AT LEAST THREE OF THE ~SEVEN REACTOR DEVELOPERS IN THE VAULT'S VIEW ARE HELIUM-COOLED — AND `[[buildout-bottleneck-map]]:L328-330` RECORDS (VERIFIED, 7/12) THAT STRIKES ON QATARENERGY RAS LAFFAN SHUT THREE HELIUM PLANTS, ~30% OF GLOBAL SUPPLY, WITH CHINA BANNING ALL HELIUM EXPORTS.**
+⇒ **⛔⛔ AND THE WORST-EXPOSED IS THE BIGGEST: VALAR ATOMICS — "over $1 BILLION in equity and debt," HTGR, EXPLICITLY TARGETING AI DATA CENTRES AT GIGASITES.** ⇒ **THE MOST-FUNDED ADVANCED-NUCLEAR PLAY AIMED AT THE AI BUILDOUT IS HELIUM-COOLED, AND ITS COOLANT MARKET LOST A THIRD OF WORLD SUPPLY TO THE WAR THIS VAULT TRACKS DAILY.** **Nobody in the article, and nobody I have seen, connects those two facts.**
+- **✅ AND IT CONFIRMS YESTERDAY'S OKLO CALL: Aurora is FAST-FISSION, not gas-cooled.** ⇒ **OKLO does NOT carry the coolant exposure; Valar and Deployable do.** *(The article does not name Aurora's coolant, so this is supporting, not conclusive — ⬜ stands.)*
+
+### ★★★★★ THE ONE DOE IS TELLING US: FIVE OF SIXTEEN SELECTIONS ARE FUEL CYCLE, NOT REACTORS
+**Round 2 fuel-cycle names: Hexium** (laser/AVLIS enrichment; **partnerships with Oklo and TerraPower**) · **Nusano** (mass separation → **HALEU**) · **Raven-Flint** (Corvus Route: **UF₆ WITHOUT elemental fluorine**; Torch pilot at INL, **500 tU/yr**) · **Lightbridge** (U-Zr metallic fuel; SHED at INL) · **Sublime** (domestic fuel chain). **Plus General Matter (enrichment) from round 1.**
+⇒ **★★★★★ DOE IS FUNDING THE FUEL CHOKEPOINT AS HARD AS THE REACTORS — WHICH IS THIS VAULT'S OWN BOTTLENECK LOGIC, APPLIED BY THE GOVERNMENT.** **When a funder splits a third of its slots to the input rather than the product, that IS the constraint statement.**
+- **Raven-Flint is the sharpest of them: CONVERSION is a genuine single-point chokepoint** (US conversion capacity is essentially one facility), and eliminating elemental fluorine attacks the hazard/cost that gates new entrants. **500 tU/yr is small — the point is the process, not the tonnage.** ⬜ US conversion capacity baseline.
+
+### ⭐⭐⭐⭐ FORGE ATOMICS IS THE DESIGN MOST LIKELY TO DELIVER, AND THE ARTICLE ALMOST APOLOGISES FOR IT
+*"Ember, a factory-built, 25-megawatt reactor for data centers and the grid. **One of the least novel designs on the list**, leaning into the industry's decades of experience with pressurized water designs and conventional LEU fuel. Components sized for highway transport."*
+⇒ **"LEAST NOVEL" = LEAST REGULATORY RISK, LEAST FUEL-CYCLE RISK (conventional LEU, NOT HALEU), LEAST SUPPLY-CHAIN NOVELTY, AND NO HELIUM.** ⇒ **In a regime where the vault has concluded DELIVERY not INTENT is the binding constraint ([[buildout-bottleneck-map]] 9/4, 9/5), boring is the feature.**
+- **⚠️ BUT SIZE THE SCALE MISMATCH: 25MW means FORTY units per GW.** **Against a thesis denominated in gigawatts, a truckable 25MW reactor is a distributed-generation product, not a hyperscaler answer.** **Do not let "for data centers" imply GW-scale relevance.**
+
+### ⭐⭐⭐ "LAUNCH PAD USA" IS THE SITING INNOVATION, AND IT POINTS AT THE VAULT'S LIVE CHOKEPOINT
+**Antares and Deployable Energy's maritime demo are selected under "Launch Pad USA" — they do NOT have to be at INL to get the programme's benefits.**
+⇒ **A DOE-authorised pathway to deploy OFF the Idaho reservation is a potential route around the STATE/UTILITY INTERCONNECTION FIGHT that is currently costing OKLO its Cycle-01 position.** **Federal authorisation and state interconnection are different gates; this widens the first without touching the second, but it is the first structural relief the board has seen on that axis.** ⬜ what Launch Pad USA actually authorises vs what still needs a state/RTO process.
+- **Deployable Energy's MARITIME demo with Hornbeck Offshore is the novel one — a reactor on a vessel** — **and it is helium-cooled, so it carries the coolant exposure to sea.**
+
+### GRADES (16c) — **NO MOVES, AND ONE DELIBERATE NON-MOVE**
+- **OKLO 4 HOLD.** The article states Oklo is *"returning after achieving criticality on their pilot reactor designs."* **⚡ CRITICALITY IS A HARD PHYSICAL MILESTONE, not an announcement — exactly the class of evidence the board said is worth more than announced GW.** **⛔ BUT I AM NOT MOVING A GRADE ON A ZH SUMMARY OF A 13-DAY-OLD DOE RELEASE. An event question is a primary-source question.** ⬜ **VERIFY CRITICALITY AT THE PRIMARY — if confirmed it is a genuine upgrade input, and it would sit against the Sept 14 FERC binary as the two-sided case.** **The company whose reactor reached criticality is the same company whose interconnection is in dispute: THE REACTOR WORKS; THE QUEUE POSITION IS THE PROBLEM. That is the vault's thesis in one name.**
+- **BWXT 6 · CEG 7 · VST · TLN 7 HOLD.** Nothing here touches operating generation.
+- **⛔ EVERY OTHER NAME ON THE LIST IS PRIVATE — NR.** **LIGHTBRIDGE (LTBR) is the ONE publicly traded selection and it is NOT in the roster** ⇒ **workup candidate ⬜, not a grade.**
+- **⚠️ SUBLIME NUCLEAR: DOE-selected, and the article finds NO website content and NO press releases.** **A federal fast-track selection for a company with no public information is worth noting as a fact about the programme's screening, not about the company.**
+
+**📌 REGISTERED:** **VERIFY Oklo criticality at the primary ⬜ — highest-value open item on the name** · Aurora's coolant named in a primary ⬜ · **helium price/Ras Laffan restart — now confirmed as a NUCLEAR input across ≥3 developers** ⬜ · what Launch Pad USA authorises ⬜ · Valar's $1B round terms (**debt for a pre-revenue reactor developer, in this financing environment**) ⬜ · US uranium conversion capacity baseline ⬜ · LTBR workup ⬜.
