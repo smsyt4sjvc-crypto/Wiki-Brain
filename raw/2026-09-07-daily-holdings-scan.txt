@@ -1,0 +1,89 @@
+# Jake paste 2026-09-07 ~8:25am PT. Holdings scan (aggregator), sources as stated.
+
+DAILY HOLDINGS SCAN — MATERIAL CHANGES
+Sep. 7, 2026 — morning
+Window: since prior Sep. 6 scan
+HIGHEST IMPACT
+NVDA — HUANG SAYS ASTRA TRAINED ON ~100K+ GRACE BLACKWELL NVLINK72 AND “400K GPUs COMING ONLINE NEXT” — CEO SOCIAL POST / PRESS REPORT, NOT SEC FILING
+OpenAI released GPT-6 Astra on Sep. 3; Jensen Huang posted Sep. 6 that Astra was trained on “~100K+ NVIDIA Grace Blackwell NVLink72” and said “400K GPUs [are] coming online next.”
+IMPORTANT — Huang’s “AGI has arrived” characterization is opinion, not an industry-standard technical determination. The investment-relevant disclosure is the scale and planned next compute deployment.
+WHY IT MATTERS — This is fresh evidence that frontier-model scaling has NOT shifted into a low-compute regime despite rapid efficiency improvements and falling cost per task.
+PORTFOLIO READ — Positive demand read-through NVDA, MU/HBM, TSM, ASML, AMAT, LRCX, KLAC and high-speed interconnect/optics CRDO/MRVL/COHR/LITE/ALAB/MTSI. It also increases the importance of power availability and project financing.
+EWY / MEMORY — KOREAN SEMICONDUCTORS EXPLODE HIGHER ON ASTRA / AI-MEMORY OPTIMISM — MARKET ACTION
+KOSPI Sep. 7 close — +4.61% to 6,995.39.
+SK Hynix — +8.26%.
+Samsung Electronics — +5.68%.
+Foreign and institutional investors were large net buyers.
+WHY IT MATTERS — Korea is giving us the first full cash-market reaction to the newest frontier-model/compute narrative while U.S. markets are closed for Labor Day.
+PORTFOLIO READ — Strong positive next-session read-through for EWY and MU/HBM. More importantly, the market is treating improved model capability as MORE memory/compute demand rather than evidence that efficiency will collapse infrastructure spending.
+TSM / ASX — TAIWAN SEMICONDUCTOR COMPLEX ALSO RALLIES — MARKET ACTION
+TAIEX — +1.67%, second-highest close on record.
+TSMC Taiwan shares — +2.07%.
+ASE Technology Taiwan shares — +5.61%.
+Semiconductors led the index.
+WHY IT MATTERS — The AI hardware bid is broadening across memory, foundry and packaging rather than being isolated to Nvidia.
+PORTFOLIO READ — Positive near-term read-through for TSM and ASX; reinforces demand for advanced nodes, packaging/test and HBM-adjacent capacity.
+HORMUZ / OIL — IRAN PLANS NEW EXCLUSION ZONE; UAE PUBLICLY REJECTS IRANIAN CONTROL OF THE STRAIT — GOVERNMENT STATEMENTS / AP
+Iran says it intends to establish an exclusion/restricted zone extending toward the Strait of Hormuz following the U.S. strikes on Iranian tankers.
+UAE response today — “no single state” should control Hormuz and UAE energy exports will not be held hostage.
+A Saudi-owned tanker struck last week still has seven crew members unaccounted for.
+Brent today — approximately $97.5-$97.8/bbl, +~1%-1.5%.
+WHY IT MATTERS — The conflict is evolving from individual tanker attacks toward competing claims over navigation rules in the chokepoint itself. That materially raises the tail risk to physical oil flows.
+U.S. INFLATION / RATES — GASOLINE + DIESEL NOW AT RECORD LABOR DAY LEVELS — AP / AAA
+Regular gasoline — $4.14/gal national average.
+Diesel — approximately $5.85/gal.
+Gasoline is nearly $1/gal above last year and above the previous Labor Day record.
+WHY IT MATTERS — This is where the Hormuz shock moves from financial markets into headline inflation and consumer expectations.
+PORTFOLIO READ — Reinforces the higher-for-longer/rate-hike risk already created by the +162K August payroll report. Negative financing impulse for CRWV, IREN, NBIS, ORCL and long-duration/pre-revenue SMR/OKLO.
+CROSS-PORTFOLIO THEMES
+AI CAPEX / COMPUTE — POSITIVE
+The newest frontier-model release is being accompanied by a stated next deployment of another 400K GPUs rather than evidence of compute saturation.
+This is exactly the Jevons question we have been tracking: capability/efficiency improved sharply, yet the planned physical compute footprint is still expanding.
+MEMORY — STRONG POSITIVE MARKET SIGNAL
+SK Hynix +8.26% and Samsung +5.68% are unusually strong moves for mature megacap memory producers.
+The market is currently reading Astra as an incremental HBM/memory-demand catalyst.
+MU has no new company filing today, but the external read-through is clearly positive.
+SEMICONDUCTORS / ADVANCED PACKAGING — POSITIVE
+Korea + Taiwan semiconductor markets both rallied strongly.
+TSMC +2.07%; ASE +5.61%.
+No new U.S. holding-specific guidance or SEC filing was required to produce the move — this is a sector demand re-rating.
+OPTICS / INTERCONNECT — POSITIVE READ-THROUGH, NO NEW DIRECT FILING
+A move toward another several-hundred-thousand-GPU deployment implies enormous scale-up/scale-out networking requirements.
+Read-through remains positive CRDO, MRVL, COHR, LITE, ALAB and MTSI.
+No new direct customer award or guidance revision found for those holdings today.
+POWER AVAILABILITY — RISK/SCARCITY VALUE RISES
+A further 400K-GPU deployment would require substantial additional energized data-center capacity.
+Recent ERCOT/PJM/Virginia developments therefore matter MORE, not less, if frontier compute continues scaling at this pace.
+Relative advantage remains with already-connected generation/campuses and firm interconnection rights.
+AI SHADOW LEVERAGE / FINANCING — FUNDAMENTAL DEMAND UP, FUNDING ENVIRONMENT WORSE
+Compute demand signals strengthened today while oil/inflation/rate pressure also strengthened.
+That divergence remains the central risk for CRWV, IREN, NBIS and other heavily capital-intensive AI infrastructure.
+No new SPV, RVG, GPU financing facility or customer prepayment was disclosed since the prior scan.
+NUCLEAR — NO NEW MATERIAL HOLDING-SPECIFIC EVENT
+No new material VST, CEG, TLN, BWXT, GEV, SMR, OKLO or ETR filing/contract/regulatory decision found.
+OKLO’s PJM/FERC interconnection dispute remains unresolved.
+CRITICAL MINERALS — NO NEW MATERIAL POLICY OR HOLDING EVENT
+No new USAR, UUUU, MP or ALOY company development since the prior scan.
+Chinese supplier-level shipment refusals remain the latest meaningful critical-minerals issue; no new blanket Chinese export prohibition was announced today.
+CHINA / TAIWAN / EXPORT CONTROLS — NO NEW FORMAL CHIP RULE
+No new finalized U.S. AI-chip export control, semiconductor tariff schedule or Taiwan export-control rule found.
+Taiwan continues enforcement against illegal Chinese ownership/talent acquisition, but no new rule today materially changes TSM/ASX economics.
+DATA-CENTER POLITICAL RISK — NO NEW HOLDING-SPECIFIC RULE
+No new Texas/PJM/Virginia rule or project cancellation found since the prior scan.
+The fundamental tension is getting sharper: compute demand is accelerating while grids and politicians are tightening the conditions under which new GW can actually connect.
+NO NEW MATERIAL HOLDING-SPECIFIC FILING / COMPANY DISCLOSURE FOUND
+INTC, ASX, MCHP, KLAC, ON, MRVL, QCOM, AVGO, AMD, NXPI, TXN, LRCX, DELL, TSM, ADI, AMAT, CRDO, MU, ALAB, TER, MTSI, MPWR, ASML, ALOY, UUUU, USAR, MP, VST, CEG, TLN, BWXT, GEV, SMR, OKLO, ETR, RNW, RIVN, IREN, QRVO, CRWV, GFS, ORCL, SWKS, EWY, NBIS, COHR, ARM, LITE.
+NOTE — U.S. cash markets are closed today for Labor Day, so the Korean/Taiwan semiconductor moves and the weekend Hormuz escalation have not yet received a normal U.S. cash-session reaction.
+BOTTOM LINE
+The important change today is the juxtaposition:
+AI side — newest frontier model → Asian memory/chip complex surges → Huang says another 400K GPUs are coming online.
+Macro side — Hormuz navigation risk worsens → Brent approaches $98 → U.S. gasoline/diesel hit record Labor Day levels → inflation/rate pressure rises.
+That strengthens the physical AI-demand thesis while simultaneously worsening the financing side of the cycle.
+
+OpenAI confirms GPT‑6 Astra was released September 3 as its newest frontier model. Huang’s September 6 post, reported today, says Astra used “~100K+ NVIDIA Grace Blackwell NVLink72” and that 400K GPUs are coming online next; the “AGI has arrived” statement is Huang’s characterization rather than a formal technical classification. 
+
+South Korea’s KOSPI closed +4.61%, with SK Hynix +8.26% and Samsung Electronics +5.68%, as AI/memory enthusiasm drove semiconductor buying.  Taiwan’s TAIEX simultaneously rose 1.67%, with TSMC +2.07% and ASE Technology +5.61%. 
+
+Iran announced plans for a new exclusion zone near Hormuz; today the UAE publicly rejected the idea that any single state should control the waterway.  Brent traded around $97.5-$97.8/bbl in holiday trading. 
+
+AP reports U.S. regular gasoline at $4.14/gal and diesel at roughly $5.85/gal, both record Labor Day levels, giving the oil shock a much more direct inflation channel ahead of the next Fed decision.
