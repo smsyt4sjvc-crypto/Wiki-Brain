@@ -1,6 +1,6 @@
 # ⏱ FED — merged timeline (the gate)
 
-> **277 dated entries across 2 notes · 2026-06-30 → 2026-09-06 · refreshed 2026-09-06 21:55 PDT**
+> **278 dated entries across 2 notes · 2026-06-30 → 2026-09-06 · refreshed 2026-09-06 21:57 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -299,3 +299,4 @@
 - `2026-09-04` [new-economy-regime.md:L4899](../new-economy-regime.md) — Addendum 2026-09-04 ~11:15pm PDT — **HUANG × EBRARD AT CHAPEL HILL: THE MEETING IS NR. THE SENTENCE ABOUT MEXICAN MANUFACTURING IS THE DATUM, AND IT L
 - `2026-09-05` [new-economy-regime.md:L4913](../new-economy-regime.md) — Addendum 2026-09-05 ~8:40am PDT — **RARE EARTHS: THE VAULT ALREADY HELD THIS (9/4 2:20pm). THE BRIEF'S ADDS ARE THREE NUMBERS AND ONE GOOD SECOND-ORDE
 - `2026-09-06` [market-fragility.md:L4403](../market-fragility.md) — 2026-09-06 ~10:15pm PDT — ⭐⭐⭐⭐⭐ **THE "OPTIMAL P/E BAND" STUDY, RUN ON 152 YEARS OF THE INDEX: THE BAND THAT HISTORICALLY PAID IS ONE THE MODERN MARKE
+- `2026-09-06` [market-fragility.md:L4437](../market-fragility.md) — Addendum 2026-09-06 ~10:35pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **⬜ CLOSED: CAPE IS 41.41. SEVENTEEN MONTHS IN 155 YEARS HAVE BEEN HERE OR HIGHER, AND SIXTEEN OF THEM ARE 
