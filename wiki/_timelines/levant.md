@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **168 dated entries across 2 notes · 2026-07-01 → 2026-09-07 · refreshed 2026-09-07 10:37 PDT**
+> **169 dated entries across 2 notes · 2026-07-01 → 2026-09-07 · refreshed 2026-09-07 11:14 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -187,3 +187,4 @@
 - `2026-09-05` [war-board.md:L4545](../war/war-board.md) — 2026-09-05 ~6:50am PDT — ⛔⭐⭐⭐⭐⭐⭐ **US DESTROYS THREE IRGC TANKERS — AND VERIFYING IT BROKE MY OWN 15-HOUR-OLD FINDING: JASK IS OPERATIONAL, KHARG IS B
 - `2026-09-07` [war-board.md:L4577](../war/war-board.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **LABOR DAY OVERNIGHT: IRAN DECLARES A NEW RESTRICTED ZONE NEAR HORMUZ · KPLER ~10 COMMODITY SHIPS/DAY (10-DAY WINDOW, 
 - `2026-09-07` [war-board.md:L4596](../war/war-board.md) — 2026-09-07 ~9:40am PDT — **ZH FEED SCAN (25 items, all new vs 9/4; `raw/2026-09-07-zh-feed-scan.txt`, bodies `raw/2026-09-07-zh-feed-bodies.txt`) — TH
+- `2026-09-07` [war-board.md:L4611](../war/war-board.md) — 2026-09-07 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE PRIMARY BEHIND THIS MORNING'S "~10 SHIPS/DAY" (Reuters/Florence Tan via gCaptain, Jake's link, `raw/2026-09-07-
