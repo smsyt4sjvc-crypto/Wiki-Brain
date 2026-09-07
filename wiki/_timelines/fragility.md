@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **353 dated entries across 6 notes · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 08:54 PDT**
+> **354 dated entries across 6 notes · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 09:33 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -381,3 +381,4 @@
 - `2026-09-07` [balance-sheet-board.md:L809](../balance-sheet-board.md) — Pointer 2026-09-07 ~8:15am PDT — **IREN: $30B capex ceiling by Jun-2027 · $19B raised past year · $7.6B cash / $7.6B debt · $3.5B ATM remaining (FT vi
 - `2026-09-07` [rates-board.md:L2599](../rates-board.md) — 2026-09-07 ~8:15am PDT — **HOLIDAY-OPEN BRIEF: EL-ERIAN "EXPLICITLY MAKING OUR ARGUMENT" — FILED HERE THREE DAYS AGO WITH AN INSTITUTION ATTACHED. THE
 - `2026-09-07` [rates-board.md:L2620](../rates-board.md) — Addendum 2026-09-07 ~8:25am PDT — **DAILY BRIEF: THE WEEK RESTATED, WITH TWO THINGS TO ADD TO THE 8:15am TABLE — THE BUYBACK CONFOUND ON WEDNESDAY, AN
+- `2026-09-07` [rates-board.md:L2629](../rates-board.md) — Addendum 2026-09-07 ~9:35am PDT — **JAKE: "IS THIS TALKING ABOUT THE COUPON PRICE?" (Kobeissi post of BofA chart: 15yr+ Treasuries, 10-year rolling an

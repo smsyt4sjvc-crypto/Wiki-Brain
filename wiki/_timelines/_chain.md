@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **857 dated entries · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 08:54 PDT**
+> **858 dated entries · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 09:33 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -886,6 +886,7 @@
 - `2026-09-05` **[5]** memory-regime-question.md:L1354 — Addendum 2026-09-05 ~8:35am PDT — ⭐⭐⭐⭐⭐ **THE SHORTAGE REACHED A WITNESS WITH NO STAKE IN THE AI STORY: NINTENDO. THAT IS THE STRONGEST RUNG THIS NOTE
 - `2026-09-07` **[1]** rates-board.md:L2599 — 2026-09-07 ~8:15am PDT — **HOLIDAY-OPEN BRIEF: EL-ERIAN "EXPLICITLY MAKING OUR ARGUMENT" — FILED HERE THREE DAYS AGO WITH AN INSTITUTION ATTACHED. THE
 - `2026-09-07` **[1]** rates-board.md:L2620 — Addendum 2026-09-07 ~8:25am PDT — **DAILY BRIEF: THE WEEK RESTATED, WITH TWO THINGS TO ADD TO THE 8:15am TABLE — THE BUYBACK CONFOUND ON WEDNESDAY, AN
+- `2026-09-07` **[1]** rates-board.md:L2629 — Addendum 2026-09-07 ~9:35am PDT — **JAKE: "IS THIS TALKING ABOUT THE COUPON PRICE?" (Kobeissi post of BofA chart: 15yr+ Treasuries, 10-year rolling an
 - `2026-09-07` **[3]** ai-financing-fragility.md:L7733 — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **IREN, QUANTIFIED FROM THE FUNDING SIDE: "UP TO $30B BY JUNE 2027" AGAINST $7.6B CASH + $3.5B OF ATM — AND THE CEO'S "
 - `2026-09-07` **[3]** balance-sheet-board.md:L809 — Pointer 2026-09-07 ~8:15am PDT — **IREN: $30B capex ceiling by Jun-2027 · $19B raised past year · $7.6B cash / $7.6B debt · $3.5B ATM remaining (FT vi
 - `2026-09-07` **[4]** ai-capex-cycle.md:L3579 — 2026-09-07 ~8:30am PDT — ⭐⭐⭐⭐⭐ **HUANG (X post, 9/6, reported 9/7): ASTRA TRAINED ON "~100K+ GRACE BLACKWELL NVLINK72," "400K GPUs COMING ONLINE NEXT"
