@@ -1,6 +1,6 @@
 # ⏱ POWER — merged timeline (the gate)
 
-> **93 dated entries across 3 notes · 2026-06-30 → 2026-09-07 · refreshed 2026-09-07 10:30 PDT**
+> **94 dated entries across 3 notes · 2026-06-30 → 2026-09-07 · refreshed 2026-09-07 10:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -115,3 +115,4 @@
 - `2026-09-06` [nuclear.md:L618](../nuclear.md) — 2026-09-06 ~9:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE COOLANT MAP THE VAULT REGISTERED YESTERDAY, BUILT — AND THE MOST-FUNDED AI-DATA-CENTRE NUCLEAR PLAY ON THE LIST 
 - `2026-09-07` [buildout-bottleneck-map.md:L1730](../buildout-bottleneck-map.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐ **THAILAND SUSPENDS 49 PROPOSED DATA CENTERS PENDING POWER/WATER/LOCAL-IMPACT RULES — THE PUSHBACK PREDICTION'S FIRST SO
 - `2026-09-07` [buildout-bottleneck-map.md:L1745](../buildout-bottleneck-map.md) — 2026-09-07 ~8:25am PDT — ⭐⭐⭐⭐ **EO 14420 RESTATED WITH ITS EQUIPMENT UNIVERSE AND ITS CLOCK: DOE HAS 120 DAYS FROM AUG 26 (→ ~DEC 24, INSIDE THE GRADE
+- `2026-09-07` [nuclear.md:L663](../nuclear.md) — 2026-09-07 ~10:40am PDT — ✅⭐⭐⭐⭐⭐ **SIX NUCLEAR BILLS CLEAR HOUSE ENERGY & COMMERCE WITHOUT A SINGLE NO VOTE (Sept 2; ZH 9/7, Jake's PDF `raw/2026-09-0
