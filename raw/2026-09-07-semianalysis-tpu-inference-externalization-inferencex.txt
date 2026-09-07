@@ -1,0 +1,993 @@
+                                           Moat                                    silicon. Search, Ads, YouTube,
+                                                                                   and every generation of Gemini
+                                           ALEC IBARRA, CAM QUILICI, BRYAN SHAN,
+Forwarded this email? Subscribe here for   WENYAO GAO, DANIEL NISHBALL, ZANE       run on TPUs. Few accelerators
+                                  more     FONG, AND DYLAN PATEL                   have attracted as much
+                                           SEP 7 ∙ PREVIEW
+                                                                                   architectural scrutiny or as
+
+TPU Inference                                                                      much debate about what their                 Source: Google
+
+                                                                                   performance and economics
+Externalization                                                           READ
+                                                                           IN
+                                                                          APP      would look like outside the        Google’s internal success was
+Full Steam                                                                         company that designed them.        never the question. The
+
+Ahead                                                                              Anthropic being the biggest
+                                                                                   user of TPUs, surpassing
+                                                                                                                      question was how much of that
+                                                                                                                      advantage the rest of the
+InferenceX, Up to 50%                      For more than a decade, the             Deepmind’s own use by 2029.        industry could actually get.
+Better Performance per                     industry has watched Google                                                Could you take an open-weight
+Dollar, Rapid Externalization              build an empire on its own                                                 model, serve it through a
+of TPU stack, Growing
+Customer Base, Ironwood,
+TPUv8i, Reducing CUDA
+
+
+
+
+familiar inference engine, and             economics from both sides:              workloads with chips that can      by quarter, plus estimates for
+beat NVIDIA on the economics               Google’s internal total cost of         be purchased outright or rented    TPUv8i, v8t, and various v9 /
+that matter to your business?              ownership and the external TCO          through its own cloud. In          v10, and more
+                                           an actual customer pays.                November 2025, we already
+Today, we are publishing the                                                       said that Anthropic loves TPUs     We are excited by how quickly
+first third-party inference                             TPUv7: Google              and committed to over one          the new TorchTPU stack is
+results for TPUv7 Ironwood on                           Takes a Swing              million of them (around 400k+      developing, the external stack
+InferenceX Official Preview. In                         at the King                in direct purchases and 600k+      for TPUs. Later in the article, we
+                                                        DYLAN PATEL,      NOVEM
+our apples-to-apples                                                               rented through GCP), used          will discuss the upcoming work
+                                                        MYRON XIE, AND · BER 28,
+comparisons against B200/                               10 OTHERS         2025     mainly for training but also for   needed for TPU software
+B300, Ironwood delivers up to                           Read full story                                               externalization, including
+                                                                                   inference. Our Accelerator
+50% better performance per                                                         Model has the latest figures for   optimizing speculative
+                                           Ironwood (TPUv7) is the first
+dollar. Its advantage extends                                                      Anthropic’s TPU shipments and      decoding, disaggregated prefill,
+                                           generation in which Google is
+across much of the Pareto                                                          Google’s overall TPU shipments     KV-cache offloading, multi-turn
+                                           competing for others’ inference
+curve, and we examine the                                                                                             agentic workloads, and more.
+
+
+
+
+Even so, we at SemiAnalysis                In this article, we will cover all      Google has spent more than a       teams for this amazing TPU
+strongly believe that TPU                  the optimizations that went into        decade demonstrating what it       foundation and performance!
+externalization is heading in              TPU kernels and the serving             can build with TPUs. Now we        Furthermore, shoutout to the
+the right direction and                    stack for open-weight models,           get to measure what the rest of    RadixArk team that is also
+moving full steam ahead.                   including DP attention                  the industry can do with them.     working on TorchTPU SGLang.
+Furthermore, unlike AMD, which             optimization, MoE routing and
+is still learning how to build a           kernel optimization, and                Shoutout to the Google (Chris
+test-first software culture,               reducing padding in GDN                 Chan, Jahangir Hasan,              InferenceX
+Google has decades of software             kernels. We will also take a deep       Wangyuan Zhang, Anne Stern,        Official
+                                                                                   Puneith Kaul, Ruizi Dong,
+engineering experience and an
+extremely well established
+                                           dive into the TPU system and
+                                           discuss the next steps the              Sangam Jindal, Qi Zhou,            Preview:
+quality-driven culture, so we              amazing TPU performance                 Madhan Jaganathan, Gang Ji,        TPUv7
+expect external TPU software to            engineers are pursuing to make          Jun Wan, Devanshu Jain, Jiaxin
+                                                                                   Cao, Srinath Mandalapu,
+                                                                                                                      Ironwood vs.
+mature rapidly.                            the stack widely available.
+                                                                                   Haowen Ning) and Inferact
+
+
+
+
+Blackwell and                              TorchAX path for external TPU
+                                           vLLM/SGLang serving.
+                                                                                   easier. Today, vLLM and SGLang
+                                                                                   concentrate their day-0 support
+                                                                                                                      token prediction, we are seeing
+                                                                                                                      up to 50% better performance
+Blackwell Ultra                                                                    on Nvidia, with passable day-0     per dollar from TPU than from
+                                                     Upgrade to paid               coverage for AMD. We expect        B200 and B300 running FP8 in
+We are already seeing strong
+                                                                                   TorchTPU to be stable enough in    aggregated serving. When
+results from the upcoming
+                                           Once that foundation is in place,       the near future that vLLM and      serving models using FP4 on
+native TorchTPU vLLM stack in
+                                           Google plans to extend support          SGLang maintainers may add         NVIDIA GPUs, there is quality
+apples-to-apples comparisons
+                                           to other open-weight models,            TPUs to that day-0 list. The       loss verus FP8. TPUv7 does not
+against Nvidia GPUs. Google is
+                                           including Kimi K3 and GLM5.3.           stack is expected to leave         have native FP4 computation
+using Qwen3.5 397B in FP8 as
+                                           Once a handful of models are            private beta & be open sourced     thus on FP4, NVIDIA GPUs still
+the initial bring-up model. Later
+                                           well optimized, we believe              around October.                    maintains the lead. This will
+sections take a deep dive into
+                                           adding optimized support for a                                             change with TPUv8i which has
+why the new TorchTPU                                                               In apples-to-apples
+                                           wide range of popular open                                                 native FP4 support thus we
+approach is a marked                                                               comparisons of aggregated
+                                           models near day 0 becomes far                                              strongly believe TPUv8i
+improvement over the previous                                                      serving with FP8 and single-
+Boardfly will be competitive to     To keep the bring-up scope           Performance per                      external TPU TCO against B200/
+Rubin NVL72.                        contained, Google has initially                                           B300 TCO for an hyperscaler
+                                                                         Dollar
+                                    focused on benchmarking 8k1k.                                             lab to buy TPU. Last year,
+We believe the TPU                  However, we believe that the         At an interactivity of 100 tokens/   SemiAnalysis Accelerator Model
+performance-per-dollar              TorchTPU stack will also             s/user, Ironwood costs               was the first to break that
+advantage can persist once          perform amazingly well on            approximately $0.181 per million     Google is selling TPUs instead
+Google enables disaggregated        agentic workloads & will be          total tokens, compared with          of just renting out through
+serving and speculative             publishing results for those too     $0.222 for B200 and $0.276 for       Google Cloud. TPU’s lower
+decoding, with MTP and              later in the year. Later on in the   B300. That is approximately          hourly cost offsets its lower
+disaggregated serving enabled       article, we will talk about the      19% lower cost than B200 and         throughput across much of the
+on both sides of the                next steps & roadmap of TPU          34% lower than B300, while           interactivity range. The
+comparison. Later in the article,   external Inference.                  delivering the same per-user         SemiAnalysis TCO Model
+we discuss the optimizations                                             generation speed.                    provides a full breakdown of the
+Google plans to add once the
+                                    TPU is King on                                                            TPU BoM estimate and TCO
+TorchTPU foundation is in place.                                         For this comparison, we use an
+
+
+
+
+estimates.                                                               mainly concerned with how            Ironwood delivers 50.4% more
+                                                                         much revenue they can make,          tokens per dollar than B200 and
+                                                                         i.e. performance per dollar          96.0% more than B300.
+                                                                         and performance per watt.
+
+                                                                         That being said, at interactivity
+                                            Source: InferenceX           of 20 tok/s/user, Ironwood also
+                                                 Preview                 leads on raw throughput,
+
+       Source: SemiAnalysis
+                                                                         reaching 9,364 total tokens/s/
+        InferenceX Preview          Across most of the raw-              chip, compared with 8,903 on
+                                    performance curve, TPU does          B200 and 8,925 on B300. This                Source: SemiAnalysis
+                                    not outperform Nvidia GPUs.          is approximately 5% higher                   InferenceX Preview
+                                    However, that comparison does        throughput than either GPU in
+                                    not account for TPU’s lower          these runs. Combined with the        If we consider TPU TCO for
+                                    TCO. Buyers of TPU are               lower modeled hourly cost,
+
+
+
+
+Google’s internal workloads at      96% advantage applies to this        Ironwood remains competitive
+$1.03/chip-hour, the                datapoint specifically, rather       beyond that highest-throughput
+performance-per-dollar              than every latency target.           point. At a 20-second median
+advantage at concurrency 256                                             response time, the Pareto
+increases to 76.7% over B200                                             curves put TPU at
+and 130.2% over B300.                                                    approximately $0.098 per
+However, these high-                                                     million total tokens, compared              Source: SemiAnalysis
+                                                                                                                      InferenceX Preview
+concurrency results come with                                            with $0.106 for B200 and
+latency trade-offs. For example,                                         $0.132 for B300. TPU therefore
+at concurrency 256, TPU mean                                             costs approximately 8% less
+TTFT is 5.41 seconds, compared             Source: SemiAnalysis          than B200 and 25% less than
+with 3.75 seconds on B200 and               InferenceX Preview           B300.
+2.40 seconds on B300. The
+previously discussed 50% to         Looking at end-to-end latency,
+
+
+
+
+       Source: SemiAnalysis                 SemiAnalysis is a            Google has been running              Inferact, RadixArk, and
+        InferenceX Preview
+                                            reader-supported             disaggregated serving internally     SemiAnalysis land
+                                         publication. To receive         for years in production and that     optimizations, and we will
+Despite all of the above, B200           new posts and support           path is heavily optimized, but       publish TPUv7 disagg vs
+can still come out ahead on a              our work, consider            the external TPU serving stack       GB200/300 NVL72 disagg in a
+small part of the Apples to              becoming a subscriber.          does not have a fully optimized      follow-up article. TPUv7 pods
+Apples curve, including around                                           disagg path yet. So today,           can scale up to over 1k+ chips
+the 30-second median response                Upgrade to paid             GB200/300 NVL72 is more              through their low latency ICI
+time. However, TPU regains its                                           competitive on perf per dollar in    fabric thus can enable
+lower cost per million tokens at                                         a disagg-vs-disagg comparison.       optimizations for large models
+longer response times, while        Apples to                            But we expect that gap to close      disagg & ultra wideEP that
+maintaining a cost advantage        Bananas: GB300                       within a few months & TPUv7 to       NVIDIA NVL72 can’t perform.
+over B300 across the                NVL72 Disagg                         be competitive againist
+overlapping range shown here.
+                                    verus TPUv7 Agg                      GB200/300 NVL72 as Google,           Even on an apples to bananas
+                                                                                                              comparison between TPUv7
+aggregated serving verus
+GB300 NVL72 disagg, using
+                                                                         believe once disaggregated
+                                                                         serving on TPUv7 is optimized,
+                                                                                                            Inference
+internal TCO, TPUv7 is decently                                          it would be competitive across     Serving with
+competitive on high latency &                                            the full pareto against GB300      the New
+low to left medium latency. But                                          NVL72.
+when comparing on the right                 Source: SemiAnalysis                                            Native, First-
+medium e2e latency, GB300                                                                                   Class
+NVL72 disagg has an single
+advantage against TPuv7
+                                     When looking at it GB300
+                                     NVL72 disagg verus TPUv7 agg,
+                                                                                                            TorchTPU
+aggregrated serving.                 it is competitive at low and high                                      Backend vs.
+                                     e2e latency but in the middle,                                         the Previous
+                                     there is about an 30% perf per
+                                     dollar advantage of GB300
+                                                                                 Source: SemiAnalysis
+                                                                                                            TorchAX Stack
+                                     against TPUv7 agg. We strongly
+
+
+
+
+Previous TorchAX                     communities to collaborate on a     through three different stages:        is available. Otherwise,
+                                     new approach called TorchTPU.                                              TorchAX translates the
+vLLM Backend                                                                 Its first TPU prototype used
+                                     It lets developers use TPUs as                                             original PyTorch model into
+Google previously used the           native PyTorch devices, while           PyTorch/XLA. Its lazy              operations that JAX can
+TorchAX backend to translate         StableHLO, XLA, and TPU-                execution model collected          execute. The goal is to
+the PyTorch-based                    optimized Pallas kernels handle         operations into                    reuse mature TPU
+implementations in vLLM and          the low-level execution behind          computation graphs for             primitives and parallelism
+SGLang into JAX. TorchAX was         the scenes. In the upcoming             XLA to compile, rather than        support without requiring
+intended to let developers run       sections of the article, we will        executing each PyTorch             every PyTorch model to be
+PyTorch model definitions            be showing the performance of           operation immediately.             rewritten.
+through JAX. However, issues         this new TorchTPU backend               The current public                 The upcoming third design,
+with this approach have              compared to NVIDIA Blackwell &          backend, tpu-inference,            TorchTPU, lets vLLM treat
+prompted Google and the              Blackwell Ultra GPUs.                   uses a TPU-optimized JAX           TPUs as native PyTorch
+PyTorch, vLLM, and SGLang                                                    implementation when one            devices. It will be the go-to
+                                     vLLM TPU support has evolved
+
+
+
+
+     backend for SGLang and                                              level optimization, paged          write the model in PyTorch, but
+     vLLM on TPUs going                                                  attention, and fitting vLLM’s      JAX executes it on the TPU.
+     forward.                                                            worker model to TPU execution.     TorchAX acts as the translation
+                                                                         They thought that JAX would        layer between the two
+The diagram below zooms in on
+                                                                         offer more mature TPU              frameworks. As the TorchAX
+the second stage and shows
+                                                                         primitives and parallelism         documentation explains, a
+how vLLM’s tpu-inference
+                                                                         support. TorchAX let the team      torchax.tensor.Tensor behaves
+backend combines direct JAX
+                                                                         use those capabilities without     like an ordinary PyTorch tensor
+models and PyTorch models                   Source: SemiAnalysis/
+                                                                         rewriting every PyTorch model,     but is backed by a jax.Array.
+running through TorchAX.                            vLLM
+                                                                         while TPU-oriented JAX             When the model invokes a
+                                                                         implementations could share        tensor operation, known in
+                                     The original choice of JAX was
+                                                                         the same kernel and compiler       PyTorch as an ATen operation,
+                                     pragmatic. In the last
+                                                                         work.                              TorchAX intercepts it through
+                                     announcement, Google
+                                                                                                            the __torch_dispatch__ hook
+                                     described difficulties with low-    With TorchAX, developers still
+
+
+
+
+and translates it into one or        functionalization, turns changes    operations. StableHLO              many issues that the TorchTPU
+more JAX operations. The             that would otherwise happen         represents the program in a        vLLM stack aims to solve.
+model can therefore remain           inside Python objects into          standardized format that the
+written in PyTorch even though       inputs and outputs that the         compiler can process, and XLA      Previous SGLang JAX
+JAX performs the computation.        compiler can track. jax.jit can     converts it into executable code   Backend
+                                     then capture each inference         for the TPU. In vLLM’s standard
+vLLM must also manage state          step as a computation graph         PyTorch path, torch.compile
+that changes during generation,      and pass it through JAX’s           coordinates graph capture and
+especially the KV cache, which       compilation pipeline for            compilation. In the TorchAX
+stores attention information         repeated execution.                 path, the JAX/XLA pipeline
+from earlier tokens for reuse. Its                                       already performs those tasks,
+model wrapper presents the           From there, each component          so vLLM bypasses its usual
+model weights and KV cache to        has a distinct role. Pallas         torch.compile route. These
+JAX as an explicit state. This       supplies optimized TPU kernels      translation layers have caused
+process, known as                    for performance-critical
+       Source: SemiAnalysis/        TPU-specific kernels. Google         TorchTPU moves the framework        and AOTAutograd produce an
+             SGLang
+                                    and RadixArk have announced          boundary into PyTorch itself. It    FX graph, TorchTPU lowers it to
+                                    SGL-torchtpu as an additional        uses PyTorch’s PrivateUse1          StableHLO, and XLA produces
+SGLang’s current public TPU         PyTorch-native backend to            backend extension point to          the TPU executable. Google’s
+stack uses SGLang-JAX.              extend the available serving         expose an ordinary torch.Tensor     conference deck makes the
+SGLang-JAX makes a similar          paths.                               on device=”tpu” rather than a       compiler choice explicit that this
+trade-off to vLLM’s TorchAX                                              wrapper backed by a JAX array.      path uses XLA, not Inductor and
+backend but takes a different                Upgrade to paid             The PyTorch dispatcher routes       Triton.
+approach. It is a separate JAX-                                          ATen operations to the TPU
+native serving engine rather                                             backend. Developers can run
+than the PyTorch SGLang             Shifting Toward                      code eagerly for bring-up and
+runtime translated through          the New Native,                      debugging, or call torch.compile
+TorchAX. It combines SGLang-        First-Class                          for graph capture. In the
+style scheduling and prefix
+                                    TorchTPU Backend                     compiled path, TorchDynamo
+caching with JAX models and
+
+
+
+
+                                    scope. It covers PyTorch             critical kernels remain TPU-
+                                    tensors, dispatch, eager             aware.                              For vLLM and SGLang, the
+
+                                    execution, compilation                                                   opportunity is to reuse more
+
+                                    entrypoints, and distributed         Developers can use .to(”tpu”)       upstream model code,
+
+                                    APIs. XLA remains the compiler,      while retaining familiar            schedulers, continuous
+                                    and the kernel layer continues       distributed interfaces and          batching, APIs, and feature logic
+                                    to use TPU-specific                  serving-engine code. Google         instead of rebuilding them
+                                    implementations. TorchTPU can        documents support for DDP,          across a PyTorch-to-JAX
+                                    call Pallas and JAX-backed           FSDP2, DTensor, one process         boundary. That should reduce
+                                    custom kernels. Helion’s TPU         per device, and both MPMD and       the cost of bringing up models
+                                    backend also emits Pallas. The       SPMD execution. Those               and engine features, even when
+       Source: SemiAnalysis/
+         PyTorch/Google             user-facing framework becomes        interfaces fit the process and      the final TPU implementation
+                                    PyTorch-native, while the            distributed model already           still needs specialized kernels.
+                                    compiler and performance-            assumed by PyTorch serving
+“Native” therefore has a specific
+                                                                         engines.                            Native PyTorch support does
+
+
+
+
+not eliminate the need for TPU-     kernels developed for earlier        mean that every existing kernel     inference serving stacks.
+specific optimization. Pallas and   stack are able to migrate into       will transfer unchanged. Many       Inferact, RadixArk, and Red Hat
+TorchAX serve different             the new stack.                       things like wrappers, tensor        are investing heavily in
+purposes, TorchAX allows                                                 layouts, and runtime integration    collaboration with Google to
+PyTorch model code to execute       Similar to GPU PyTorch vLLM,         etc may still need to be slightly   make the TorchTPU backend a
+through JAX, while Pallas is        Custom kernels will still be         adapted and validated.              first-class experience in both
+used to implement performance       needed for high performance                                              stacks. This community support
+                                    inferencing. Tensor shapes and
+critical operations directly for                                         Strong Ecosystem                    is extremely important for
+                                    layouts still need to be tuned to
+TPU hardware. Removing
+                                    use TPU’s matrix multiplication
+                                                                         Collaboration with                  externalizing TPU inference.
+TorchAX doesn’t mean
+removing the Pallas kernels         units efficiently. We believe that   Google’s TPU
+underneath it. Since TorchTPU       most of the existing Pallas          Team
+allows native Pytorch code to       kernels are easily transferable
+                                                                         vLLM and SGLang are the two
+invoke Pallas and JAX kernels,      to the new native TorchTPU
+                                                                         major open-source production
+                                    serving stack but that does not
+
+
+
+
+                                                                         Deep Dive
+          Source: Inferact          AgentX from our fork to our                                              the optimizations that improved
+                                    public repo.                                                             (or in some cases, enabled)
+As of early September,                                                   The sprint to optimize TPU          performance for Qwen3.5-397B
+TorchTPU remains in private                                              inference for the native            and other models on Ironwood.
+beta and will be open-sourced                                            TorchTPU serving stack’s first      Most of the Pallas kernel
+around mid-October during the                                            bring-up model involved             optimizations are transferable
+PyTorch Conference. We are                                               hundreds of engineering hours       to the new native TorchTPU
+excited to see it move TPUs                                              and numerous PRs. As                stack.
+toward a first-class experience                                          described later in the article,
+                                             Source: RadixArk
+in PyTorch, vLLM, and SGLang.                                            TPU architecture differs from       DP Attention
+Once TorchTPU vLLM and                                                   GPU architecture and therefore      Optimization
+TorchTPU SGLang are open-           TPU Inference                        requires its own set of
+sourced, we will move TPU                                                                                    One issue that is not necessarily
+benchmarking for InferenceX/        Optimizations                        optimizations to run models
+                                                                         efficiently. Below, we describe     specific to TPU is how to
+effectively map parallelism from   devices need the same KV data        way attention data parallelism      the same history. Meanwhile,
+model architecture to hardware.    to compute their local attention.    (DP8) with eight-way expert         the 512 routed experts remain
+For instance, Qwen3.5’s GQA        When TP exceeds the KV-head          parallelism (EP8), simply           distributed across the devices,
+attention layer has 32 query       count, standard practice is to       referred to as “DP attention” or    avoiding replication of the much
+heads but only 2 shared KV         replicate KV heads across TP         DEP8. Instead of splitting every    larger expert weight pool.
+heads. With TP8 (eight logical     ranks. vLLM already supports         request’s attention across all      Making this work required
+devices), query computation        this. The TPU backend needed a       eight devices, each device          coordinating request
+can be evenly distributed across   compatibility fix to activate that   processes a different subset of     assignment, recurrent-state
+the 8 devices, with 4 query        existing behavior and avoid          requests and keeps both KV          slots, and block tables in the
+heads per device. The KV           unnecessary All-to-All               heads for those requests locally.   serving engine.
+heads, however, do not divide      communication.                       The attention weights are
+evenly across those devices.                                            replicated, but the KV caches
+Each KV head is shared by 16       For higher-concurrency serving,      hold different request histories
+query heads, meaning four          the TPU backend also added           rather than repeated copies of
+                                   support for combining eight-
+
+
+
+
+                                   run, then uses reduce-scatter to     measurements. While 80 µs                  Source: SemiAnalysis
+
+                                   sum their weighted outputs and       may sound small, DeepSeek-V3/
+                                   return each token’s result to its    R1 has 58 layers that require       Google also implemented the
+                                   attention rank. The backend          this AllGather. Across those        ReduceScatter collective on
+       Source: SemiAnalysis
+                                   originally gathered the selected     layers, the savings add up to       SparseCore (which is better
+                                   expert IDs and routing weights       around 4.64 ms per forward          suited for irregular operations
+Optimizing                         separately. Google combined          pass in isolation (80 µs × 58),     like data movement) and used
+Communications                     these into one all-gather,           reducing TPOT and increasing        Ironwood’s faster die-to-die
+                                   removing an extra collective         interactivity.                      links to combine contributions
+With DP attention and EP, the      whose latency can dominate the                                           within each chip before
+TPU GroupedGEMM                    transfer time for such small                                             exchanging partial sums across
+implementation all-gathers         arrays. The PR reports roughly                                           chips. This two-device-per-chip
+token activations and routing      80 microseconds per layer                                                layout and the chip-to-chip ICI
+metadata before the experts        saved in its DeepSeek-V3                                                 network are covered in the next
+
+
+
+
+section. Double buffering lets                                                  Source: Google and          baseline, this optimization
+                                                                                  SemiAnalysis
+the kernel transfer one chunk                                                                               results in 4.1 to 14.2% higher
+while accumulating another,                                                                                 throughput on 8k1k across
+overlapping local reductions and                                        In the diagram above,               concurrency 64 to 512,
+die-to-die transfers with the                                           communication stages overlap,       including 8.5% at concurrency
+slower chip-to-chip traffic.                                            shortening end-to-end               256, and 26.1% on 1k8k at
+Running the collective on                                               execution time. For instance,       concurrency 512.
+                                          Source: SemiAnalysis
+SparseCore also frees                                                   consider the point labeled t_1.
+TensorCore execution for other                                          At this time, the intra-chip DMA           Thanks for reading
+operations.                                                             ScatterReduce (P1) has                 SemiAnalysis! This post is
+                                                                        completed for MB (microbatch)        public so feel free to share it.
+                                                                        1. ScatterReduce across ICI dim
+                                                                        0 (P2.0) can now occur for MB0                    Share
+                                                                        concurrently with P1 for the
+                                                                        subsequent MB. Against a
+
+
+
+
+The movement of this collective    offloaded to the SparseCore,         Expert Kernels                              SemiAnalysis is a
+from TensorCore to SparseCore      keeping small collectives on                                                    reader-supported
+also means that additional work    the TensorCore when they fit         A mixture-of-experts layer               publication. To receive
+can be pipelined on the            in VMEM and SparseCore               produces irregular groups of             new posts and support
+TensorCore while the collective    offload overhead would make          tokens for each expert, and                our work, consider
+runs. However, not every           them slower. The default             these ragged groups have to be          becoming a free or paid
+collective is always worth         threshold is derived from VMEM       reshaped into something the                    subscriber.
+moving. In some cases,             capacity. The PR reports 8k1k        TPU’s matrix units can consume
+offloading a collective to         throughput gains of 2.7% at          efficiently. Some of the changes             Upgrade to paid
+SparseCores actually worsens       concurrency 64 and 5.7% at           below are general improvements
+performance. For example, for      concurrency 128.                     to the routing and grouped-
+                                                                                                            The second version of the
+Qwen3.5 a threshold now                                                 matmul backend that benefit
+                                                                                                            grouped matmul reworks how
+                                                                        any MoE model. Others were
+decides when all-reduce and        Optimizing MoE                                                           expert inputs are fed to the
+                                                                        measured directly on Qwen3.5.
+all-gather operations are
+                                   Routing and                                                              MXU. It removes redundant tile
+computation, sizes transfers to     expert’s tokens into contiguous                                          gathered routing weights and
+the number of valid rows rather     groups, while the TensorCore is                                          source indices during
+than the padded maximum,            left to run the expert matrix                                            preprocessing, limiting
+triple-buffers expert weights so    multiplications. A subsequent                                            TensorCore/SparseCore overlap.
+the next group’s weights are        rewrite improved memory-read               Source: SemiAnalysis          Moving these gathers into the
+already in flight while the         pipelining and split the combine                                         SparseCore kernel reduces
+current group is computed, and      work across tokens and hidden       A further optimization moved         TensorCore overhead from 29
+fuses group metadata                dimensions. The PR reports a        the top-k weight gather in the       µs to 14 µs and overall operation
+generation into the kernel.         12% increase in 8k1k serving        ragged gather-reduce path onto       latency from 146 µs to 137 µs in
+                                    throughput compared with the        the SparseCore. Here, gather         a DeepSeek-V3
+The irregular rearrangement of      original SparseCore kernels,                                             microbenchmark at batch 2k
+                                                                        means reading selected entries
+expert inputs was then moved        along with lower TTFT and                                                with 16-way expert parallelism.
+                                                                        from memory on one device, not
+onto the SparseCore. The            TPOT.                               an inter-device all-gather.
+SparseCore handles data                                                                                      For small batches, the general
+                                                                        Previously, the TensorCore
+movement, gathering each                                                                                     ragged path costs more than
+
+
+
+
+the work it is arranging. A         simpler sort while preserving       at each step the running state is                Read full story
+
+dedicated small-batch               the required ordering. Sort         decayed, updated with a rank-
+                                                                                                             The changes below show how
+permutation therefore builds        latency drops from 106.6 µs to      one term, and projected to
+                                                                                                             its matrix operations, vector
+one-hot matrices and uses           21.7 µs. The PR reports 8k1k        produce an output. Check out
+                                                                                                             updates, and state transfers are
+ordinary matrix multiplication to   serving gains of 0.6 to 8.5%, but   the following article for a deeper
+                                                                                                             scheduled across the MXU,
+permute tokens to their experts     the same change also enables        dive into linear attention
+                                                                                                             VPU, VMEM, and HBM. Initial
+and unpermute the results. On       an FP8 all-gather.                  mechanisms such as GDN:
+                                                                                                             Qwen3.5 support added pure
+the 8k1k workload, this
+                                                                                    Kimi K3, The             JAX implementations of causal
+improved throughput by 7.3% at      Optimizing Gated                                Manos, The               Conv1D and GDN, connected
+concurrency 64 and 5.1% at
+                                    DeltaNet Pallas                                 Mythos, The              them to TPU operator dispatch,
+concurrency 128.
+                                    Kernels                                         Legendos                 and enabled recurrent-state
+                                                                                    KIMBO CHEN,          A
+A WIP change packs the expert                                                                                caching. Later PRs optimized
+                                    Gated DeltaNet (GDN) is a                       SHUBHAM              U
+ID and token index into a single                                                    CHOUDHARI, AND 2
+                                                                                                        ·G   these implementations.
+                                    recurrent computation. That is,
+sort key, so XLA performs a                                                         OTHERS               3
+
+
+
+
+                                    decayed state, and the MXU          The MXU can now compute Sq           4.48% at concurrency 512.
+                                    then multiplied the updated         directly from the decayed state
+                                    state by the query to produce       while the VPU constructs the         The next change reduces
+
+                                    the output. That dependency         updated state for the next           vector-register spills by slicing
+
+                                    forced the MXU to wait.             token. The current update’s          Q and K inside the decode loop
+          Source: GitHub                                                contribution to the output is        so fewer values stay live at
+                                    Writing the decayed state as S,     calculated separately using kᵀq,     once. The decode-64 kernel
+Another low-hanging fruit           the correction vector as Δ, and     a scalar dot product per head,       becomes roughly 20% faster,
+optimization is achieved by         the key and query as k and q,       followed by a small scaled-          but end-to-end gains are
+rearranging the algebra in the      the output can be expanded:         vector addition. This removes        smaller, at 0.8% on 8k1k and
+output projection calculation to                                        the state update from the MXU’s      3.8% on 1k8k at concurrency
+overlap MXU and VPU work.                                               dependency path. Reported            512, since the kernel is only one
+Previously, the VPU first applied                                       8k1k throughput gains were           part of a decode step.
+                                            Source: SemiAnalysis
+the rank-one update to the                                              2.79% at concurrency 64 and
+                                                                                                             Asynchronous state transfers
+
+
+
+
+overlap DMA with computation        round trips, improves prefill              Source: SemiAnalysis          grows with every token, while
+using double buffering. The         layouts, and unifies mixed                                               GDN layers hold a fixed-size
+extra VMEM consumed by the          prefill/decode execution into       Significant performance gains        recurrent state per request.
+second set of buffers initially     one path. Reported kernel-level     can be achieved simply by            State allocation, storage
+regressed data-parallel             speedups are 1.41× for decode,      improving the overlap between        precision, attention page size,
+attention. Reusing existing         1.60× for prefill, and 2.14× for    operations within a kernel!          and physical data layout all
+scratch buffers and shortening      mixed batches. These                                                     determine how much HBM is
+the lifetimes of temporaries        measurements cover the kernel       Managing Hybrid                      actually usable and how
+recovered that capacity and         alone and do not establish end-
+                                                                        State and Paged                      efficiently attention runs.
+removed the regression. The         to-end serving gains.
+                                                                        Attention
+reported 8k1k throughput gain
+is 11.3% at concurrency 512.                                            Qwen3.5 is a hybrid model with
+                                                                        two kinds of state: GQA layers
+GDN v3 fuses Conv1D and GDN
+                                                                        accumulate a KV history that
+into a single kernel to cut HBM
+        SemiAnalysis is a           This change provides shared         about 76 GiB of HBM and
+        reader-supported            attention-backend groundwork.       expands the attention block        Removing the old hybrid page-
+
+     publication. To receive        The PR’s workload examples          pool by 71%, improving 1k8k        size alignment constraint lets
+
+    new posts and support           use Qwen3-32B, so its               output throughput by 18% at        batched attention use a suitable
+
+        our work, consider          measurements should be kept         concurrency 64.                    power-of-two page size,
+    becoming a subscriber.          separate from the                                                      including 256 tokens. 1k8k
+                                    Qwen3.5-397B results.               Storing the recurrent state in     throughput improves by about
+
+          Upgrade to paid
+                                                                        BF16 halves its HBM footprint      7% at concurrency 512. This
+                                    Recurrent state is now allocated    while keeping the arithmetic in    applies to the non-prefix-
+                                    compactly, with roughly one         FP32 inside VMEM. This saves       caching path and is distinct
+Batched ragged paged attention
+                                    slot per active request instead     memory capacity and transfer       from the aligned checkpoint
+batches sequences together,
+                                    of num_blocks slots for every       bandwidth while preserving         mode introduced later.
+precomputes page metadata,
+                                    layer group. In the reported        FP32 arithmetic. The reported
+and triple-buffers to improve
+                                    configuration, this reclaims        1k8k throughput gain is 15% at
+pipelining and reduce padding.
+                                                                        concurrency 512.
+
+
+
+
+                                    Reducing Padding                    expert work. The InferenceX        scheduling overhead falls from
+                                                                        operating points sit at exactly    283 µs to 97 µs and throughput
+                                    and Low-
+                                                                        these low concurrencies, which     rises from 2,328 to 2,516
+                                    Concurrency                         motivated the following            tokens/chip/s.
+        Source: SemiAnalysis        Overhead                            changes.
+
+                                    When only four or eight
+Unnecessary KV-layout copies                                                     Upgrade to paid
+                                    requests are in flight, a
+are avoided by selecting the
+                                    configuration tuned for
+reshape path based on KV-head                                           Request metadata is now
+                                    hundreds of concurrent
+count, rather than imposing a                                           bucketed by the number of
+                                    requests wastes work.                                                         Source: SemiAnalysis
+layout constraint that only other                                       active requests instead of
+                                    Compiled shape buckets are too
+shapes need. Qwen3.5 8k1k                                               always using the configured
+                                    large, metadata is sized for the                                       Explicit Qwen3.5 tuning for
+throughput improves by about                                            maximum. In the 8k1k
+                                    configured maximum, and                                                InferenceX shrinks rotary
+4.1% at concurrency 512.                                                concurrency-64 test, GDN
+                                    padding tokens trigger dummy                                           tables, sizes sequence limits per
+
+
+
+
+DP rank, and adds a dedicated       Combined 1k1k gains are 22.9%       between requests. Prefix           Hybrid prefix caching with DP
+attention bucket for                at concurrency four and 18.1%       caching is crucial for agentic     support resolves this by giving
+concurrency four. The combined      at eight. On 8k1k, throughput       and multi-turn workloads, which    GDN separate slots for reading a
+gains at concurrency four are       rises by 9.2% at concurrency        reuse long system prompts and      checkpoint and writing the live
+13.3% on 8k1k and 15.5% on          four but falls by 5.3% at           conversation histories. For a      state. Continuing a request
+1k1k.                               concurrency eight.                  hybrid model, a cached prefix      therefore no longer overwrites
+                                                                        must retain both its KV blocks     the checkpoint associated with
+A further round of low-
+                                    Enabling Prefix                     and the GDN recurrent state at     its cached prefix. State
+concurrency tuning switches to
+TP8 attention plus expert
+                                    Caching for Hybrid                  the end of the prefix. That        addresses are derived from the
+                                                                        recurrent state is normally        block table, the same structure
+parallelism, reduces the            Models                              overwritten as soon as the         that already locates KV blocks.
+minimum token bucket, and                                               request continues, making          Checkpoints are taken at an
+                                    The gains above were measured
+routes padding tokens to expert                                         prefix caching harder than for     aligned cache granularity so a
+                                    on random-input benchmarks,
+zero so they do not trigger                                             “regular” attention models.        saved state always lines up with
+                                    where nothing is shared
+additional expert weight loads.
+
+
+
+
+a KV block boundary. This mode      Lane Layout and                     kernel hides HBM latency           packing factor is four. A model
+needs a full checkpoint pool                                            through double-buffering. It       with a single KV head per device
+                                    Pipelining Depth in
+rather than the compact per-                                            fetches the next block while       only has two things to pack, so
+request allocation described
+                                    Paged Attention                     computing the current one. Both    half of every tile was wasted on
+earlier, trading some HBM for       Two hardware facts shape how        blocks must fit in VMEM, so the    padding. A sequence-on-lane
+reuse across requests. The          a KV cache is laid out on TPU.      size of the compute block          layout fixes this by putting the
+benefit shows up when prefixes      We discuss TPU hardware in          determines how deep the            page’s tokens on the 128-lane
+are actually shared.                more detail in the following        prefetch can be. Both              axis and the head dimension on
+                                    section. First, the vector unit     constraints were costing           the sublane axis instead. Usable
+                                    works on tiles whose last           capacity and throughput.           KV pages double (from 5,141 to
+                                    dimension is 128 lanes wide, so                                        10,283 in the reported
+                                                                        In the batched attention kernel,   configuration) and the head
+                                    any array whose trailing
+                                                                        the KV cache packed keys and       dimension only needs to be a
+                                    dimension is smaller than that is
+                                                                        values along the head              multiple of 32 rather than 128,
+        Source: SemiAnalysis        padded up. Second, a Pallas
+                                                                        dimension, and for FP8 that
+which allows models with a                                               fetch block at 16k tokens while        a single block size per shape,
+head dim of 64 to use the kernel                                         reducing the compute block to          which is why the change first
+as well. The layout costs about                                          4k. This gave the pipeline room        landed as an environment
+3% in per-token latency at low                                           to run ahead of the MXU and            override. A follow-up extends
+concurrency, but at                                                      increased decode throughput            the table to hold the fetch and
+                                           Source: SemiAnalysis
+concurrency 128 on 8k1k the                                              from 64.9k to 96.3k tokens per         compute sizes separately.
+extra capacity lifts throughput                                          second, a 49% gain reproduced
+                                    The RPA v3 block-size heuristic
+16.5% and cuts median TTFT by                                            across four runs on
+                                    had a similar blind spot. During
+95%, because requests no                                                 Qwen3-0.6B. Throughput
+                                    v7x decode, it set the KV
+longer wait for KV space.                                                followed a clean inverted-U
+                                    compute block equal to the KV
+                                                                         curve across the block-size
+                                    fetch block, around 16k tokens,
+                                                                         sweep. The tuned-parameter                    Source: SemiAnalysis
+                                    which left almost no VMEM for
+                                                                         table could not represent the
+                                    the prefetch buffer. Splitting the
+                                    two block sizes kept the KV
+                                                                         improvement because it stored
+                                                                                                                TPU System-
+
+
+
+
+Level Co-                           together, allowing it to optimize
+                                    computation and
+                                                                         TPUv7 Ironwood breaks from
+                                                                         the “MegaCore” convention that
+                                                                                                                expose them as two distinct
+                                                                                                                devices per chip. Each Ironwood
+Design &                            communication as a single            defined TPU v4 and TPU v5p,            chip carries 2 TensorCores and
+
+Networking                          system. That joint optimization      where two physical cores were          4 third-generation SparseCores.
+                                    helps explain Ironwood’s             fused into a single logical            The SparseCores accelerate
+Explainer                           performance per dollar. The          accelerator sharing one memory         embedding lookups and other
+                                    following sections examine how       space. Ironwood instead has            sparse operations that would
+As we said in the TPU King
+                                    the chip and network work            two separate compute dies,             otherwise choke a dense matrix
+article, Google’s cost-per-token
+                                    together. Anthropic is a big fan     each running its own                   engine.
+advantage on inference is a
+                                    of TPUs and uses them heavily        independent logical device.
+result of co-design. Instead of
+                                    for training.                        These dies are joined by a high-
+focusing on maximum single-
+                                                                         bandwidth die-to-die link rather
+chip performance, Google
+designs the compute die, chip-      The Ironwood Chip                    than a unified memory fabric.
+                                                                         JAX and other frameworks now
+to-chip fabric, and compiler
+
+
+
+
+                                    support, whereas prior                           at the King                array and held stationary.
+                                                                                     DYLAN PATEL,      NOVEM
+                                    generations had to emulate FP8                                              Activations stream in from the
+                                                                                     MYRON XIE, AND · BER 28,
+                                    in software.                                     10 OTHERS         2025
+                                                                                                                edge, and partial sums ripple
+                                                                                     Read full story            through the grid cell by cell,
+                                                                                                                accumulating as they go. The
+
+         Source: Google                                                  The MXU and Why                        finished result streams out the
+                                                                                                                other side without ever touching
+                                                                         Shapes Matter
+                                                                                                                memory mid-computation.
+On the memory side, each chip              Source: SemiAnalysis          The Matrix Multiply Unit, the          Every TPU generation through
+has about 6x Trillium’s HBM
+                                                                         engine that actually does the          v5 used a 128x128 MXU, good
+capacity, a jump that matters
+                                    Read more on Ironwood in our         multiplying, is a systolic array: a    for 16,384 MACs per cycle.
+directly for KV-cache headroom
+                                    TPUv7 article                        two-dimensional grid of                Starting with TPU v6e and
+and batch size. Ironwood is
+                                                                         multiply-accumulate cells.             carrying through to Ironwood,
+notably the first TPU generation                TPUv7: Google            Weights are loaded into the            the array doubled to 256x256,
+with native FP8 hardware                        Takes a Swing
+
+
+
+
+or 65,536 MACs per cycle,                   SemiAnalysis is a            length in both directions, 128 on      caps the two attention matmuls
+delivering 4x more FLOPs per                reader-supported             older generations or 256 on v6e        at a maximum of 50% MXU
+cycle than the previous design.          publication. To receive         and v7, and the XLA compiler           utilization (not 75%, because
+                                         new posts and support           dutifully pads any smaller axis        only the head dimension is 128).
+Please read the scaling book               our work, consider            to fill the tile. Every padded cell
+(aka the ML systems bible) for           becoming a subscriber.          still occupies a MAC unit for that     The implication runs deeper
+excellent top-tier information on                                        cycle, multiplying by a zero that      than one model’s attention
+TPUs and scaling in general.                 Upgrade to paid             contributes nothing to the             layer. Architectural choices that
+                                                                         answer. Llama 3 8B illustrates         used to be arbitrary
+
+                                                                         this with an attention head            hyperparameters (such as head
+                                    The catch is that a bigger
+                                                                         dimension of 128. On                   dimensions, the KV head count
+                                    systolic array is only free if you
+                                                                         Ironwood’s 256x256 MXU, that           that survives after tensor-
+                                    can keep it full. Matrix
+                                                                         head dimension is exactly half         parallel sharding, and MoE
+                                    dimensions need to be padded
+                                                                         the array’s native width, which        expert widths) increasingly
+                                    up to at least the MXU’s side
+                                                                                                                need to be made with TPU tile
+geometry in mind, because a         GPU matrix cores consume            hyperparameter becomes a            any power-of-two array and
+shape mismatch there is a direct    small tiles, so a wide range of     tradeoff                            worse against a wide one.
+tax on delivered throughput         head dimensions, expert widths,
+regardless of how good the rest     and post-sharding KV head           As previously mentioned, these
+
+of the stack is. Kernel authors     counts all land near peak. A        choices are not free on a 256-
+also need to account for this       dimension of 64 instead of 128      wide systolic array. By the same
+explicitly. Production attention    pays close to nothing on an         arithmetic that caps Llama 3
+kernels like ragged paged           H100 or a B200 and gets a           8B’s attention matmuls at 50%,
+attention use explicit packing      cheaper attention layer for it.     a head dimension of 64 caps
+dimensions to reduce padding        GPU architecture allowed            them at 25% before a single line
+                                                                                                            The consequence is that bring-
+when XLA’s default tiling           researchers to prioritize           of kernel code is written. gpt-
+                                                                                                            up cost varies enormously, and
+produces an inefficient layout.     evaluations performance             oss ships at 64. DeepSeek’s
+                                                                                                            it correlates poorly with how
+                                    without a loss in inference         MLA splits its query/key
+                                                                                                            popular a model is. A model
+TPUs Are Picky                      performance. But for TPUs, this     dimension into 128 plus 64 for a
+                                                                                                            whose shapes fall out cleanly
+                                                                        total of 192, ungainly against
+
+
+
+
+needs scheduling, serving, and      vendor in this position.            through PCIe and a general-         sized to map cleanly onto one
+tuning work, which is measured                                          purpose NIC. The topology           physical server rack.
+in weeks. A model that fights       Torus Topology                      behind ICI has evolved
+the tile geometry needs new                                             generation over generation: TPU
+kernels before it is even at        Inference and training at scale     v2 and v3 used a 2D torus with
+parity, let alone winning on        run across thousands of chips       each chip wired to 4 neighbors,
+performance per dollar. Kernel      that need to talk to each other     and starting with TPU v4 and
+engineers are finite, so            constantly. TPUs connect P2P        v5p, Google moved to a 3D
+sequencing externalization          over a custom network called ICI    torus with each chip wired to 6
+toward models where the             (Inter-Chip Interconnect). ICI      neighbors along the +/-X, +/-Y,
+hardware is not starting a lap      bypasses the host CPU entirely,     and +/-Z axes. Ironwood
+down is the rational move, and      allowing chips to exchange          (TPUv7) keeps that 3D torus.
+we would expect the same            activations and gradients           The fundamental building block
+behavior from any accelerator       directly instead of routing them    is a 4x4x4 cube of 64 chips,
+
+
+
+
+                                    The difference between a torus      Google stitches cubes together      copper in a live data center.
+                                    and a plain grid is its             using Optical Circuit Switches,
+                                    wraparound links. Connecting        which preserve the wraparound
+                                    the ends of a line forms a ring,    property across a much larger
+                                    cutting the worst-case hop          reconfigurable topology, scaling
+                                    distance from N to N/2. It’s the    all the way up to Ironwood’s full
+                                    same trick that makes Pac-          9,216-chip superpod and its
+                                    Man’s maze feel smaller than it     42.5 FP8 exaflops of aggregate
+                                    is. Google pushes this further      compute. The operational
+                                    with a “twisted torus,” a           payoff of OCS is that Google can
+                                    Mobius-strip-like wraparound        physically rewire around a failed
+                                    that shaves the average hop         link or a dead chip in seconds,
+                                    count down even more. To scale      using mirrors rather than                  Source: SemiAnalysis
+       Source: SemiAnalysis         beyond a single 4x4x4 cube,         sending a technician to re-splice
+
+
+
+
+This scale-out design was           parallelism, and data parallelism   Looking Ahead:                      8t keeps the 3D torus lineage
+revolutionary at the time. Before   (FSDP-style weight sharding),                                           alive for scale-up, but TPU 8i
+                                                                        TPUv8i’s Boardfly
+NVL72 racks, models that could      without splitting layers across                                         replaces the torus with a new
+not fit within a single 8-GPU       pipeline stages.
+                                                                        Network                             topology called “Boardfly.” The
+node had to use pipeline                                                Google’s newly announced            name nods to dragonfly-style
+parallelism because inter-node      Although a TPU torus has more                                           high-radix network designs long
+                                                                        eighth-generation TPU lineup
+InfiniBand was slow. On a TPU       hops than a single-hop NVLink                                           used in supercomputing.
+                                                                        has two purpose-built chips:
+pod, the ICI torus gives NVLink-    switched design, our upcoming                                           Boardfly uses a flatter,
+                                                                        TPU 8t for training and TPU 8i
+class bandwidth across the          CollectiveX/NetworkingX results                                         hierarchical fabric of high-radix
+                                                                        for inference. This is the first
+entire pod, up to 8,960 chips on    show that, in many cases, the                                           switches rather than a nearest-
+                                                                        time Google has separated
+v5p. With this bandwidth, a         TPU torus has lower latency                                             neighbor mesh. The Boardfly
+                                                                        training and inference into
+DSV3-scale model can be             than a single-hop NVSwitch for                                          topology affects networking
+                                                                        distinct architecture designs
+sharded across the whole pod        small EP messages.                                                      attachment capex per chip.
+                                                                        rather than shipping one
+using tensor parallelism, expert                                        architecture tuned for both. TPU
+                                                                                                            The payoff is a network
+diameter cut by more than 50%       this up with 19.2 Tb/s of ICI                                           software stack to catch up. The
+versus a similarly sized 3D         bandwidth, double the prior                                             next section covers the
+torus, roughly 16 hops down to      generation, and 384 MB of on-                                           roadmap for doing so, including
+about 7 hops at comparable          chip SRAM, 3x the previous                                              speculative decoding, prefill-
+scale in the 1,024 to 1,152-chip    generation, sized specifically to                                       decode disaggregation, and the
+range. Fewer hops mean              hold the KV cache of reasoning                                          broader model support needed
+materially lower tail latency on    and agentic models on-chip                     Source: Google           to take full advantage of TPUv8
+collective operations, and that     rather than round-tripping to                                           in production.
+matters enormously once you         HBM.
+                                                                         None of this hardware
+are routing tokens across MoE
+layers or running multi-turn
+                                                                         headroom pays off on its own,
+                                                                                                            Next Steps in
+                                                                         though. Turning a lower-
+agentic workloads where every                                            diameter network and a bigger      Laying the TPU
+extra hop compounds into user-
+visible latency. TPU 8i backs
+                                                                         on-chip cache into cost-per-       Foundation
+                                                                         token gains still requires the
+
+
+
+
+These preview results establish     needs to focus on is on              The reason it works is that        one very expensive weight read
+a starting point for further        optimizing speculative               decode is bandwidth bound, not     across several tokens, which is
+optimization on the same            decoding. A cheap, small drafter     compute bound. To emit a single    why methods that draft multiple
+hardware. We expect                 guesses several tokens ahead,        token for a single user, you       tokens at once, like MTP or
+performance to improve as TPU       the main model verifies all of       stream the entire model’s          DSpark, are so cheap and so
+externalization continues, with     them in a single forward pass,       weights out of HBM. That           effective.
+substantial work still needed       and any guess that doesn’t           weight read is the dominant
+across the software stack.          match is thrown away.                cost, and the cost barely
+                                    Everything that survives is          changes whether you verify one
+Enabling &                          identical to what the model          token or five. The matrix units
+
+Optimizing Spec                     would have produced on its           sit mostly idle while the memory                Source: vLLM
+                                    own. Speculative decoding is         system does all the work.
+Decoding (MTP)                      lossless, with zero quality          Speculative decoding spends        Prefill-Decode
+The first area the Google team      degradation.                         that idle compute to amortize
+                                                                                                            Disaggregation &
+
+
+
+
+KV-cache                                                                 TPU-Sync (formerly TPU-                    SemiAnalysis is a
+                                                                         raiden), Google’s disaggregated           reader-supported
+Offloading
+                                                                         KV-cache transfer library. TPU-         publication. To receive
+Prefill-decode (PD)                                                      Sync works natively with JAX            new posts and support
+disaggregation is another                                                and the native TorchTPU stack,            our work, consider
+optimization the TPU team is                 Source: DistServe           and can perform zero-copy              becoming a subscriber.
+working to externalize. It                                               transfers by extracting native
+separates prefill and decode        Google has been running PD           PJRTBuffer hardware                         Upgrade to paid
+across distinct TPU pools,          disaggregation internally for        descriptors. With disaggregated
+allowing each pool to be tuned      Gemini serving for ages, but         PD, we believe TPUv7 can be a
+                                                                                                            TPU-Sync also supports native
+and scaled independently to         work to externalize it began only    strong competitor to GB200/
+                                                                                                            TPU KV-cache DRAM
+match the workload.                 a couple of months ago. That         GB300 and even beat them on
+                                                                                                            offloading, which is needed for
+                                    work includes TPU support in         performance per dollar.
+                                                                                                            large models and medium-to-
+                                    llm-d and the open-sourcing of
+                                                                                                            large batch sizes, where HBM
+
+
+
+
+can no longer hold the KV cache     Google is externalizing its native                                      unifies memory contributions
+for all users. It is great to see   TPU offloading stack and                                                from multiple nodes into one
+Google externalizing its DRAM       supporting the industry-                                                shared logical pool.
+offloading optimizations to the     standard Mooncake Store
+public as well.                     offloading library along with
+                                    Mooncake Store’s DRAM P2P
+                                                                                   Source: GitHub
+                                    pooling support. We believe
+                                    Mooncake Store support will be
+                                    implemented using the                With P2P pooling, the KV-cache
+                                    primitives in tpu-sync.              storage on each TPU host is                Source: Mooncake
+                                                                         aggregated into a single logical
+                                                                         memory pool, so a TPU on any       Furthermore, Mooncake Store
+                                                                         server can access KV cache         pools NVMe storage from
+          Source: GitHub                                                 from any other server. This        multiple servers into a single
+logical pool in addition to       workload is characterized by        2. Long context: system               available to store KV
+supporting traditional            four elements:                         prompts, tool definitions,         tensors). As n grows, the
+distributed filesystem backends                                          and the large number of            ratio of cached input
+like WEKA/Vast.                    1. Multi-turn: a session              turns make context                 relative to uncached
+                                      includes tens or hundreds          accumulate quickly.                typically tends towards 1.
+                                      of interactions between the
+AgentX TPU                                                            3. High prefix reuse: since the    4. Sub-agent bursts: a
+                                      user and assistant,
+                                                                         conversation progresses            session launches multiple
+KV-cache offloading is                compared with a handful in
+                                                                         linearly, where output from        short-lived sub-agents with
+especially important for long-        a chatbot scenario. These
+                                                                         turn n-1 is concatenated to        fresh context, which create
+context, multi-turn agentic           workloads combine long
+                                                                         turn n (typically), most           bursty KV-cache patterns.
+workloads, where optimized KV-        contexts and high prefill
+                                                                         context can be served from
+cache storage can enable high         reuse with sub-agent                                              We are hearing that many
+                                                                         KV cache rather than
+KV-cache hit rates.                   bursts and numerous tool                                          Google TPU customers are
+                                                                         recomputed (this depends
+                                      calls.                                                            already asking for AgentX
+At a high level, an agentic                                              on the amount of storage
+
+
+
+
+performance results, and we are   apples comparison is against              SemiAnalysis is a           externalization. TorchTPU is
+excited to announce that we are   FP8 Blackwell: FP8 vs FP8                 reader-supported            meant to replace the previous
+working to bring TPUs to          carries no quality loss, whereas        publication. To receive       TorchAX stack, which will soon
+AgentX too!                       FP4 vs FP8 introduces a quality        new posts and support          be deprecated. Google will next
+                                  difference on the FP4 side.               our work, consider          work to enable Kimi K3 and
+                                  Google’s TPUv8i does have              becoming a subscriber.         GLM5.3 on single-turn and/or
+                                  native FP4 acceleration, so                                           agentic workloads like AgentX,
+                                  when we bring up TPUv8i on                  Upgrade to paid           along with Google’s own open-
+                                  InferenceX/AgentX, we will                                            weight models such as
+                                  compare FP4 to FP4.                                                   Gemma4. Once a few models
+         Source: DeepSeek,                                           We strongly believe that
+                                                                                                        are running on the TorchTPU
+           SemiAnalysis                                              building native vLLM and
+                                                                                                        stack, adding new ones will
+                                                                     SGLang support on native
+                                                                                                        become far easier, and TPU
+Ironwood has no native FP4, so                                       TorchTPU’s stable foundation is
+                                                                                                        support will land much closer to
+for now the fair apples-to-                                          the right direction for TPU
+
+
+
+
+day 0.
+                                  Ownership                                SemiAnalysis to get
+                                                                         access to this post and
+                                                                                                           community
+
+
+Rome wasn’t built on day 0, so                                            other subscriber-only
+                                  Our full BOM and TCO estimates
+we shouldn’t expect the                                                          content.
+                                  for TPUv7 are enumerated in the                                                   COMMEN         RESTAC
+externalization of TPUs to                                                                                LIKE         T             K
+                                  SemiAnalysis AI TCO Model. A
+happen instantly. But we                                                      Upgrade to paid
+                                  structural overview is below...
+strongly believe that it is
+                                                                                                                 © 2026 Dylan Patel
+happening at an extremely rapid                                                                           548 Market Street PMB 72296, San
+pace.                                                                A subscription gets you:                   Francisco, CA 94104
+                                         Subscribe to                                                               Unsubscribe
+
+                                                                        Full access to newsletter
+                                      SemiAnalysis to
+TPU Cost                              unlock the rest.
+                                                                        posts and archive. (This
+                                                                        does not include access to
+Effective Total                           Become a paying
+                                                                        separate institutional
+                                                                        models and products)
+Cost of                                     subscriber of               Post comments and join the
+

@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **860 dated entries · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 11:17 PDT**
+> **861 dated entries · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 13:16 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -895,3 +895,4 @@
 - `2026-09-07` **[5]** metered-compute.md:L3370 — 2026-09-07 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **WEEKLY TOKEN REPORT (w/e 9/6) + JAKE'S SEGMENTATION QUESTION: THE FRONTIER LIST PRICE WENT *UP* THROUGH THE AUGUST D
 - `2026-09-07` **[5]** memory-regime-question.md:L1371 — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐ **THE KOREAN TAPE CATCHES UP TO THE PHYSICAL READ — ON THE SAME WEEKEND HORMUZ ESCALATES AND JAZAN IS HIT: KOSPI +4.6%, 
 - `2026-09-07` **[5]** memory-regime-question.md:L1383 — 2026-09-07 ~8:25am PDT — ⭐⭐⭐⭐⭐ **TRENDFORCE: 2Q26 DRAM INDUSTRY REVENUE +59.5% QoQ TO $154.7B · SUPPLIER INVENTORIES AT HISTORIC LOWS · Q3 CONVENTIONA
+- `2026-09-07` **[5]** compression-thesis.md:L3017 — 2026-09-07 ~1:20pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS "TPU INFERENCE EXTERNALIZATION FULL STEAM AHEAD" (InferenceX Official Preview, Sept 7; Jake's PDF `raw/2

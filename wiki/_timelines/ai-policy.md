@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **510 dated entries across 4 notes · 2026-05-22 → 2026-09-07 · refreshed 2026-09-07 11:17 PDT**
+> **511 dated entries across 4 notes · 2026-05-22 → 2026-09-07 · refreshed 2026-09-07 13:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -534,4 +534,5 @@
 - `2026-09-05` [ai-financing-fragility.md:L7697](../ai-financing-fragility.md) — Addendum 2026-09-05 ~11:40am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE ORDER-BOOK DATA EXISTS AND IT CORRECTS ME TWICE: THE INDEX WAS HIDING THE HYPERSCALERS, AND JAKE'S SL
 - `2026-09-07` [ai-capex-cycle.md:L3579](../ai-capex-cycle.md) — 2026-09-07 ~8:30am PDT — ⭐⭐⭐⭐⭐ **HUANG (X post, 9/6, reported 9/7): ASTRA TRAINED ON "~100K+ GRACE BLACKWELL NVLINK72," "400K GPUs COMING ONLINE NEXT"
 - `2026-09-07` [ai-financing-fragility.md:L7733](../ai-financing-fragility.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **IREN, QUANTIFIED FROM THE FUNDING SIDE: "UP TO $30B BY JUNE 2027" AGAINST $7.6B CASH + $3.5B OF ATM — AND THE CEO'S "
+- `2026-09-07` [compression-thesis.md:L3017](../compression-thesis.md) — 2026-09-07 ~1:20pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS "TPU INFERENCE EXTERNALIZATION FULL STEAM AHEAD" (InferenceX Official Preview, Sept 7; Jake's PDF `raw/2
 - `2026-09-07` [metered-compute.md:L3370](../metered-compute.md) — 2026-09-07 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **WEEKLY TOKEN REPORT (w/e 9/6) + JAKE'S SEGMENTATION QUESTION: THE FRONTIER LIST PRICE WENT *UP* THROUGH THE AUGUST D
