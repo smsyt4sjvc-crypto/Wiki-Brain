@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **354 dated entries across 6 notes · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 09:37 PDT**
+> **355 dated entries across 6 notes · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 10:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -382,3 +382,4 @@
 - `2026-09-07` [rates-board.md:L2599](../rates-board.md) — 2026-09-07 ~8:15am PDT — **HOLIDAY-OPEN BRIEF: EL-ERIAN "EXPLICITLY MAKING OUR ARGUMENT" — FILED HERE THREE DAYS AGO WITH AN INSTITUTION ATTACHED. THE
 - `2026-09-07` [rates-board.md:L2620](../rates-board.md) — Addendum 2026-09-07 ~8:25am PDT — **DAILY BRIEF: THE WEEK RESTATED, WITH TWO THINGS TO ADD TO THE 8:15am TABLE — THE BUYBACK CONFOUND ON WEDNESDAY, AN
 - `2026-09-07` [rates-board.md:L2629](../rates-board.md) — Addendum 2026-09-07 ~9:35am PDT — **JAKE: "IS THIS TALKING ABOUT THE COUPON PRICE?" (Kobeissi post of BofA chart: 15yr+ Treasuries, 10-year rolling an
+- `2026-09-07` [rates-board.md:L2638](../rates-board.md) — 2026-09-07 ~10:05am PDT — ⭐⭐⭐⭐ **THE WEEK-AHEAD (ZH / DB / Goldman, Jake's PDF `raw/2026-09-07-zh-key-events-week-cpi.pdf`): FRIDAY'S CONSENSUS IS NOW
