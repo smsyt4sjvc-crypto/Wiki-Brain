@@ -1,6 +1,6 @@
 # ⏱ WAR/OIL — merged timeline (the gate)
 
-> **350 dated entries across 3 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-07 08:25 PDT**
+> **351 dated entries across 3 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-07 08:30 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -374,4 +374,5 @@
 - `2026-09-05` [war-board.md:L4545](../war/war-board.md) — 2026-09-05 ~6:50am PDT — ⛔⭐⭐⭐⭐⭐⭐ **US DESTROYS THREE IRGC TANKERS — AND VERIFYING IT BROKE MY OWN 15-HOUR-OLD FINDING: JASK IS OPERATIONAL, KHARG IS B
 - `2026-09-07` [oil-value-chain.md:L2768](../oil-value-chain.md) — Addendum 2026-09-07 ~8:15am PDT — **JAZAN HIT AGAIN (REPORTED) — THE 9/4 ELIGIBILITY SPLIT NOW HAS A RED-SEA-SIDE CAVEAT** (detail: `war/war-board` 20
 - `2026-09-07` [oil-value-chain.md:L2772](../oil-value-chain.md) — Addendum 2026-09-07 ~8:30am PDT — **RETAIL: GASOLINE $4.14/gal NATIONAL AVERAGE, ~+$1 y/y, A LABOR DAY RECORD (AP/AAA); DIESEL ~$5.85 (on file since 9
+- `2026-09-07` [oil-value-chain.md:L2774](../oil-value-chain.md) — Addendum 2026-09-07 ~8:30am PDT — **STREET-LEVEL, SECOND READING (Jake's GasBuddy screenshot, Spokane 99201, DIESEL, "Credit Only" filter; `raw/2026-0
 - `2026-09-07` [war-board.md:L4577](../war/war-board.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **LABOR DAY OVERNIGHT: IRAN DECLARES A NEW RESTRICTED ZONE NEAR HORMUZ · KPLER ~10 COMMODITY SHIPS/DAY (10-DAY WINDOW, 
