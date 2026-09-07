@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **248 dated entries across 2 notes · 2026-05-22 → 2026-09-07 · refreshed 2026-09-07 09:33 PDT**
+> **249 dated entries across 2 notes · 2026-05-22 → 2026-09-07 · refreshed 2026-09-07 09:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -273,3 +273,4 @@
 - `2026-09-05` [war-board.md:L4545](../war/war-board.md) — 2026-09-05 ~6:50am PDT — ⛔⭐⭐⭐⭐⭐⭐ **US DESTROYS THREE IRGC TANKERS — AND VERIFYING IT BROKE MY OWN 15-HOUR-OLD FINDING: JASK IS OPERATIONAL, KHARG IS B
 - `2026-09-07` [ai-capex-cycle.md:L3579](../ai-capex-cycle.md) — 2026-09-07 ~8:30am PDT — ⭐⭐⭐⭐⭐ **HUANG (X post, 9/6, reported 9/7): ASTRA TRAINED ON "~100K+ GRACE BLACKWELL NVLINK72," "400K GPUs COMING ONLINE NEXT"
 - `2026-09-07` [war-board.md:L4577](../war/war-board.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **LABOR DAY OVERNIGHT: IRAN DECLARES A NEW RESTRICTED ZONE NEAR HORMUZ · KPLER ~10 COMMODITY SHIPS/DAY (10-DAY WINDOW, 
+- `2026-09-07` [war-board.md:L4596](../war/war-board.md) — 2026-09-07 ~9:40am PDT — **ZH FEED SCAN (25 items, all new vs 9/4; `raw/2026-09-07-zh-feed-scan.txt`, bodies `raw/2026-09-07-zh-feed-bodies.txt`) — TH
