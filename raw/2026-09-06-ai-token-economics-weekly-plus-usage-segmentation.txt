@@ -1,0 +1,278 @@
+# Jake paste 2026-09-07 ~8:50am PT. Weekly token-economics report (aggregator) + Jake Q on consumer vs enterprise usage + aggregator answer (Anthropic Economic Index / OpenAI Signals / Ramp / Menlo).
+
+AI Token Economics — week ending September 6, 2026
+
+Bottom line: the barbell is getting sharper. Cheap/open models are taking an even larger share of production tokens, but premium closed models are still capturing most of the dollars. Meanwhile, the freshest infrastructure data says the resulting elasticity is flowing straight into custom accelerators, networking, HBM and power.
+
+Silicon Data’s broad LLM Token Expenditure Index is $0.99 per million tokens, +1.6% over 7 days as of September 5. Because Silicon Data says it continually updates its indices, I’m using its published +1.6% 7D figure rather than calculating a return from a previously saved webpage snapshot. The index can rise even without list-price increases when usage shifts toward more expensive models. 
+
+Signal	Current reading / change	Evidence status
+Silicon Data SDLLMTK	$0.99/M tokens; +1.6% 7D	Verified — primary. Usage-weighted effective expenditure, not a simple vendor-price average. 
+Vercel open-weight share	65.3% of tokens at the Sep. 6 endpoint vs 34.7% closed. The prior Aug. 22 record was 62%, so open weights have pushed another +3.3 percentage points above that record.	Verified — Vercel. Gateway-specific, not the entire AI market. 
+DeepSeek on Vercel	41.3% of lab token volume but just 4.7% of spend. DeepSeek V4 Flash alone is 29.2% of all model tokens; V4 Flash 0731 another 7.1%.	Verified — Vercel. 
+Anthropic on Vercel	11.5% of tokens / 54.8% of spend.	Verified — Vercel. The premium end is absolutely not commoditized yet. 
+OpenAI on Vercel	11.3% tokens / 21.5% spend. New GPT-6 Astra already represents 6.4% of current model spend on the Sep. 6 leaderboard.	Verified — Vercel. 
+Other open models	StepFun 12.2% of lab token volume; Z.AI 7.2%. Step 3.7 Flash alone is 12.1% of model tokens; GLM 5.3 Flash 5.8%.	Verified — Vercel. I did not find a clean primary-source major API price change from either lab this week. 
+OpenAI pricing	GPT-6 Astra launched Sep. 3 at $10 input / $1 cached input / $50 output per 1M. GPT-5.6 Sol is $4 / $0.40 / $20, so Astra establishes a frontier tier at 2.5× Sol’s token price, rather than cutting the frontier price.	Verified — OpenAI. 
+Anthropic pricing	Fable 5.1 launched Sep. 1 at $10 input / $50 output. Cache reads are $0.25/M, down 75% from Fable 5. Anthropic estimates that reduces typical workload cost ~25% and highly agentic workloads by up to ~45%.	Price = verified. Workload savings = Anthropic estimate, not independent measurement. 
+Google	Gemini 3.8 Flash launched Sep. 2 at the same $0.75 input / $3.75 output introductory price as 3.7 Flash despite Google claiming material capability gains. Separately, its new agentic-video mode claims up to 88% fewer tokens and 66% lower cost.	Price = verified. Efficiency figures = Google benchmark claims. 
+DeepSeek API	No new list-price change this week. V4 Flash remains $0.22/$0.66 off-peak input/output; $0.44/$1.32 peak. V4 Pro: $0.66/$1.98 off-peak; $1.32/$3.96 peak. Concurrency limits: 2,500 Flash / 500 Pro.	Verified — DeepSeek. 
+DeepSeek × Huawei capacity	Bloomberg reported DeepSeek plans at least 160,000 Ascend 950DTs for its Inner Mongolia data center, reportedly for inference rather than training.	Reported, NOT confirmed by DeepSeek/Huawei. Bloomberg story exists; multiple follow-on reports attribute the numbers to it. 
+Huawei 950DT specs	Official roadmap: 144 GB proprietary HBM, 4 TB/s memory bandwidth, 2 TB/s interconnect, scheduled Q4 2026. Atlas 950 SuperPoD: 8,192 chips, Huawei-claimed 19.6M inference tokens/sec.	Specs/roadmap = Huawei-verified; performance = Huawei claim, not independent benchmark. 
+Huawei shipments	No new confirmed shipment count. Prior Reuters sourcing says Huawei planned roughly 750,000 Ascend 950PR units in 2026, with full-scale shipments in H2.	Reported, not Huawei-confirmed. 
+Broadcom AI infrastructure	Q3 AI semiconductor revenue $16.7B, +221% YoY and +54% QoQ. Q4 guide: $21.7B, +236% YoY.	Verified — Broadcom earnings. This is the strongest new hard infrastructure-demand datapoint this week. 
+HBM	Industry sources say Micron is targeting roughly 100,000 HBM wafer starts/month by year-end, versus ~40–50K/month in 2025, effectively roughly doubling capacity.	Reported industry sourcing; Micron has not publicly confirmed the 100K figure. 
+Power constraint	Transgrid says Sydney-basin data-center applications now represent >20 GW of load — about 2× NSW peak demand — against only ~1.5 GW of remaining capacity in the existing network.	Reported from Transgrid’s communication. Extreme regional evidence of the power bottleneck. 
+
+The Vercel split is becoming extreme
+
+At the lab level, the current Sep. 6 endpoint gives:
+
+DeepSeek: 41.3% tokens → 4.7% dollars
+Anthropic: 11.5% tokens → 54.8% dollars
+OpenAI: 11.3% tokens → 21.5% dollars. 
+
+A useful derived metric is spend share ÷ token share. It is not a literal API price, because workload/input-output mix differs, but it measures the economic density of each lab’s traffic relative to the gateway average:
+
+DeepSeek ≈ 0.11× average spend/token
+OpenAI ≈ 1.90×
+Anthropic ≈ 4.77×
+
+On that share-ratio basis, Anthropic’s Vercel traffic currently carries roughly 42× DeepSeek’s spend intensity per token.
+
+That is probably the cleanest empirical picture yet of the emerging market structure:
+
+Commodity intelligence is winning volume.
+Premium intelligence is still winning dollars.
+
+And open-weight penetration is not slowing. Vercel’s CEO called 62% open-weight token share on Aug. 22 a record; the live Sep. 6 reading is now 65.3%. 
+
+The previous Jevons signal still holds
+
+Vercel has not yet published a new full monthly Production Index covering August, so the latest completed monthly dataset remains July:
+
+Token volume +59% MoM
+Spend +37% MoM
+Average price/token −13.6% MoM
+Open weights 36% of volume
+Anthropic ~30% of tokens / 65% of spend
+
+Vercel said the entire July fall in average price was caused by routing/model-mix changes, not broad provider price cuts. It also said gateway spend was already +74% since May while token volume had doubled. 
+
+The live September data now shows open-weight share at 65.3%, vastly beyond July’s 36%. We cannot directly translate the daily endpoint into August’s eventual monthly average, but directionally the cheap-model substitution appears to have accelerated, not reversed.
+
+Model-margin read
+
+There is now very strong evidence of price-performance compression, but still not enough evidence to prove gross-margin compression at OpenAI, Anthropic or DeepSeek because they do not disclose sufficiently detailed inference COGS.
+
+The compression evidence strengthened this week: Anthropic cut Fable cache-read cost 75%; Google shipped a better Flash generation at the same token price; Google’s video routing can reduce tokens up to 88%; and open-weight models have reached 65.3% of Vercel tokens. 
+
+But the other side also strengthened: OpenAI introduced Astra at $10/$50, 2.5× GPT-5.6 Sol, while Anthropic introduced Fable 5.1 at the same $10/$50 frontier price point. Premium capability is therefore not racing toward zero. 
+
+The market increasingly looks like:
+
+Cheap/open tier → brutal token commoditization and enormous volume.
+
+Frontier tier → premium pricing survives where capability produces sufficient economic value.
+
+That is much closer to the cell-phone-minutes/barbell thesis than to a uniform collapse in all model pricing.
+
+Infrastructure read
+
+The most important new number this week may actually be Broadcom:
+
+$16.7B AI semiconductor revenue
++54% in ONE QUARTER
++221% YoY
+→ $21.7B next quarter
+
+That is hard revenue, not a token-count estimate. Broadcom explicitly attributes the momentum to custom AI accelerators and networking. 
+
+Put that beside the reported 160,000-chip DeepSeek/Huawei inference cluster, Micron reportedly doubling HBM wafer capacity, and one Australian grid already facing >20 GW of data-center applications against 1.5 GW of spare capacity. 
+
+So this week’s evidence strengthens the central thesis:
+
+MODEL COST/TOKEN ↓ structurally
+MODEL CHOICE/ROUTING ↑
+TOKEN CONSUMPTION ↑↑
+TOTAL INFERENCE SPEND ↑
+ACCELERATOR DEMAND ↑↑
+NETWORKING/HBM/POWER DEMAND ↑↑
+
+The key distinction is that efficiency is compressing the economics of the model unit while expanding the physical infrastructure required to supply the resulting volume.
+
+For the investment stack, I would currently score the evidence as:
+
+Model-layer generic pricing power: deteriorating
+Frontier-model premium pricing power: intact
+Token-demand elasticity: very strong
+Custom silicon/networking demand: accelerating
+HBM demand: supply-constrained
+Power availability: increasingly binding
+Huawei domestic-China inference capacity: rapidly scaling, but supply remains the constraint
+
+The highest-value number for next week’s report is the August Vercel Production Index when it lands. If its monthly data comes anywhere near the current 65.3% open-weight share, it would mark a much faster commoditization of the volume layer than even July’s +59% token-growth data implied.
+
+//
+
+Does Anthropic or on AI publish data on corporate / private usage? The average ~person~ probably just pays for chat or Anthropic while a cfo or larger corporations might have more strict spending and open source? Most people don’t know how to implement open source besides maybe DeepSeek 
+
+//
+
+Yes. And this actually exposes a major denominator problem in the token data we’ve been using.
+
+Anthropic and OpenAI both now publish separate data for consumer/private usage versus enterprise/API usage. Once you separate them, your intuition is substantially right—but with an important twist: open models are disproportionately used by the most sophisticated/high-volume companies, not by the average business.
+
+Anthropic’s Economic Index explicitly separates:
+
+Claude.ai Free/Pro/Max → “consumer data”
+Anthropic first-party API → “enterprise data”
+
+In its January study, Anthropic sampled 1 million consumer conversations and 1 million first-party API interactions separately. Its newer June report continues breaking out Claude chat/Cowork and first-party API traffic separately. 
+
+And the behavior is different. Anthropic says personal usage of Claude chat/Cowork is roughly 35% on weekdays and nearly 50% on weekends, while API traffic has a much lower personal-use baseline. The API side is dominated much more by automation and things like business communications, processing systems, classification and other repeated workflows. 
+
+OpenAI does almost exactly the same thing now.
+
+Its Signals Individual dataset covers Free/Go/Plus/Pro and explicitly excludes Enterprise and Codex; OpenAI warns that this therefore underrepresents business and technical usage. Separately, Enterprise Signals measures ChatGPT Enterprise, Codex and API intensity. 
+
+And enterprise usage looks radically different. By June:
+
+64% of combined ChatGPT + Codex enterprise output tokens came from Codex/agentic use.
+
+The top 10% of enterprise customers by usage generated 8.3× as many output tokens per active employee as typical companies, versus only 2.6× in January. 
+
+So we really have at least three different AI markets hiding inside the headline token numbers:
+
+Market	Typical behavior
+Consumer	“I like ChatGPT/Claude, so I pay $20–$30/month.” Very little model routing.
+Normal enterprise	Buys ChatGPT/Claude seats/API because deployment, security, support and governance are easy.
+AI-intensive enterprise / production app	Routes millions/billions of tokens and suddenly $0.20 vs $5 per million matters enormously. Uses multiple models and optimizes price/performance.
+
+And the data supporting that third category is pretty striking.
+
+Ramp basically tested your hypothesis
+
+Ramp looked at actual corporate spending and used purchases from model-serving platforms as a proxy for companies accessing open-weight/Chinese models.
+
+Only 5.8% of AI-spending businesses were using those platforms in June, up from 4.5% in January.
+
+So open-source adoption is not yet widespread across ordinary corporations.
+
+But look at who uses it:
+
+Median AI spend/company using model-serving platforms: $248 per employee
+
+versus
+
+Median AI spend among all AI-spending companies: $10.59 per employee
+
+That’s about 23× greater AI intensity. 
+
+That’s almost exactly the population where a CFO/CTO starts caring about token economics.
+
+Even more interesting: they aren’t abandoning OpenAI and Anthropic.
+
+Among firms using model-serving platforms:
+
+93.2% also use Anthropic
+85.8% also use OpenAI
+96.4% use at least one of them
+
+So the emerging corporate architecture isn’t:
+
+Anthropic → DeepSeek
+
+It’s much more like:
+
+Anthropic + OpenAI + DeepSeek/Qwen/GLM/etc., with workloads routed according to economics.
+
+And this explains the bizarre Vercel numbers
+
+Vercel isn’t measuring which chatbot humans prefer.
+
+It’s measuring production applications routing API traffic.
+
+That distinction is huge.
+
+In June, only roughly one in eight Vercel enterprise customers was running an open-weight model in production.
+
+Yet open weights already produced:
+
+29% of ALL tokens
+
+on
+
+<4% of spending.
+
+So a relatively small number of sophisticated customers can generate an enormous amount of open-model token volume.
+
+And that phenomenon has since accelerated dramatically. The current Vercel leaderboard has DeepSeek alone around 42% of token volume while taking only about 4.6% of spending. 
+
+That’s why we should be very careful saying:
+
+“65% of tokens are open models, therefore 65% of AI users prefer open models.”
+
+That would be completely wrong.
+
+It could instead mean something like:
+
+“A relatively small number of very high-volume production workloads have discovered that they don’t need a $10/$50 frontier model for every inference.”
+
+And I think that’s actually the more economically important development.
+
+There’s also a misconception about implementing open source
+
+A corporation doesn’t necessarily need to download DeepSeek, hire ML engineers and build a GPU cluster.
+
+They can consume open-weight models through managed inference providers/gateways almost exactly like they consume OpenAI:
+
+Application → router → choose model → API call
+
+The weights can ultimately run on somebody else’s infrastructure.
+
+That’s why this can spread much faster among corporations than among ordinary consumers. The consumer sees:
+
+ChatGPT app
+Claude app
+Gemini app
+
+and picks one.
+
+The enterprise sees:
+
+Task A → premium model
+Task B → cheap open model
+Task C → small internal model
+Task D → frontier reasoning model
+
+with the employee potentially never knowing which model answered.
+
+But here’s the counterintuitive part
+
+Broad enterprise adoption is still heavily closed-model dominated.
+
+Menlo’s 2025 enterprise survey actually found open-source LLM share falling from 19% to 11%, despite their rapidly improving capabilities. 
+
+So I wouldn’t characterize it as:
+
+Consumers = closed
+Corporations = open
+
+Yet.
+
+I’d characterize it as:
+
+Consumers → overwhelmingly branded closed-model interfaces
+
+Ordinary corporations → overwhelmingly closed enterprise products because they’re easy, supported and governed
+
+AI-native / very high-volume corporations → increasingly multi-model, with cheap/open models absorbing enormous low-value token volume
+
+And that’s probably the most important segment for our commoditization thesis because those are the buyers that set the marginal economics of inference.
+
+There is another useful implication: Vercel’s 65% open-token share and Anthropic’s 55% spend share can both be true without contradiction. The giant commodity workloads get dumped onto extremely cheap models while companies reserve Anthropic/OpenAI frontier models for the economically valuable tasks where an extra few dollars per million tokens are irrelevant compared with the value of getting the answer right.
+
+That is almost exactly the barbell we’ve been looking for.
+
+I think our weekly token report should now explicitly carry four separate datasets: consumer usage, enterprise seat/API usage, production-routing token share, and actual corporate spending. Otherwise we’re mixing fundamentally different buyers into one “AI demand” number.

@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **195 dated entries across 3 notes · 2026-07-01 → 2026-09-04 · refreshed 2026-09-07 08:30 PDT**
+> **196 dated entries across 3 notes · 2026-07-01 → 2026-09-07 · refreshed 2026-09-07 08:54 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -214,3 +214,4 @@
 - `2026-09-03` [metered-compute.md:L3366](../metered-compute.md) — Addendum 2026-09-03 ~5:25pm PDT — ⭐⭐⭐⭐⭐ **REASONING TOKENS HAVE A NON-ECONOMIC COST, AND OPENAI HAS NOW QUANTIFIED IT (primary: `raw/2026-07-21-openai
 - `2026-09-03` [metered-compute.md:L3368](../metered-compute.md) — Addendum 2026-09-03 ~5:35pm PDT — **THE MONITORING CONTROL HAS A MEASURED CORRUPTION RATE (METR/Redwood, 8/26; full entry → [[compression-thesis]] 5:3
 - `2026-09-04` [compression-thesis.md:L3015](../compression-thesis.md) — Addendum 2026-09-04 ~1:25pm PDT — ⭐⭐⭐⭐ **THE AI CAPEX BOOM'S OWN SECTOR IS SHEDDING JOBS: INFORMATION PAYROLLS −23K IN AUGUST, THE LARGEST SINGLE DRAG
+- `2026-09-07` [metered-compute.md:L3370](../metered-compute.md) — 2026-09-07 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **WEEKLY TOKEN REPORT (w/e 9/6) + JAKE'S SEGMENTATION QUESTION: THE FRONTIER LIST PRICE WENT *UP* THROUGH THE AUGUST D

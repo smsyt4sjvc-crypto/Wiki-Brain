@@ -451,3 +451,4 @@ The proposal: test whether turbines lead ~12mo, switchgear ~9mo, liquid cooling 
   ⇒ **A dated supplier-ORDER database is the correct layer, and this vault reached that conclusion independently on 9/3. The design is right; only the inference built on top of it is not.**
 
 **📌 REGISTERED:** order-period vs disclosure-date on every ledger row (the artifact test) · Eaton's ~20%/2028+ conversion split as the vault's binding lead-time fact ⬜ its exact wording · **the reframe: capacity-visibility calendar, and "is this selloff demand or schedule?" as the question it exists to answer.**
+- **Disconfirmer #2 status, 2026-09-07 ~8:55am PDT:** NOT fired. Broad SDLLMTK +1.6% 7D through Astra's launch (first up-tick on file) and two flagships priced at $10/$50 ⇒ the routing branch, so far. **The proprietary sub-index reading is ⬜ — the test is not resolved until it prints.** → [[metered-compute]] 9/7 8:55am.
