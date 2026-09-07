@@ -146,9 +146,16 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     INVESTMENT, 1-10, over the next 120 days from that day** — a moving window opening at the
     item's post time. **The output is the NAME'S grade and its MOVE, not the item's
     "significance":** his template — *"This makes Nvidia a 6/7, down from 7/8."* ⇒ Rules:
-    (a) grade only names the inbound MATERIALLY touches — **no unsolicited re-grading of the
+    (a) ~~grade only names the inbound MATERIALLY touches — **no unsolicited re-grading of the
     existing book** ("just what I bring in moving forward"); a name's grade initializes the
-    first time an inbound touches it; (b) the running grades live in **`wiki/grades.md`** (the
+    first time an inbound touches it;~~ ⛔🔄 **RETIRED 2026-09-06 by Jake: "Every stock should
+    have a grade whether I hold it or not. That's the entire point of this trading vault. If
+    something happens I want to know how confident is the vault on xxx."** ⇒ **UNIVERSAL GRADING:
+    any name the vault forms a VIEW on gets a grade, held or not. The trigger for initialising is
+    a VIEW (a study, a workup, an inbound that lets the vault take a position), not a holding.
+    "Not in the roster" is no longer a reason to withhold a number — it is a reason to initialise
+    one.** The anti-double-count discipline (no re-grading on the readout of an already-priced
+    event) is unchanged; it governs MOVES, not coverage. (b) the running grades live in **`wiki/grades.md`** (the
     ledger: name · grade · date · driver → entry link) so "down from 7/8" is always answerable;
     (c) payoffs beyond ~120 days do not move a grade — *"predicting anything any further out in
     this environment is a mistake"*; (d) the grade is a CALL (rule 14 shape on request: number
