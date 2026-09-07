@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **507 dated entries across 4 notes · 2026-05-22 → 2026-09-05 · refreshed 2026-09-06 23:49 PDT**
+> **508 dated entries across 4 notes · 2026-05-22 → 2026-09-07 · refreshed 2026-09-07 08:19 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -532,3 +532,4 @@
 - `2026-09-04` [compression-thesis.md:L3015](../compression-thesis.md) — Addendum 2026-09-04 ~1:25pm PDT — ⭐⭐⭐⭐ **THE AI CAPEX BOOM'S OWN SECTOR IS SHEDDING JOBS: INFORMATION PAYROLLS −23K IN AUGUST, THE LARGEST SINGLE DRAG
 - `2026-09-05` [ai-financing-fragility.md:L7663](../ai-financing-fragility.md) — Addendum 2026-09-05 ~9:00am PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S CROWD-OUT CALL IS CONFIRMED AND DATED (8/15) — BUT THE SPREAD DATA SAYS THE TRANSMISSION RUNS THROUG
 - `2026-09-05` [ai-financing-fragility.md:L7697](../ai-financing-fragility.md) — Addendum 2026-09-05 ~11:40am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE ORDER-BOOK DATA EXISTS AND IT CORRECTS ME TWICE: THE INDEX WAS HIDING THE HYPERSCALERS, AND JAKE'S SL
+- `2026-09-07` [ai-financing-fragility.md:L7733](../ai-financing-fragility.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **IREN, QUANTIFIED FROM THE FUNDING SIDE: "UP TO $30B BY JUNE 2027" AGAINST $7.6B CASH + $3.5B OF ATM — AND THE CEO'S "

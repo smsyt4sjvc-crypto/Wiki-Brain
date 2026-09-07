@@ -19,7 +19,7 @@ IF → THEN → INSTRUMENT, dated; **prune when resolved or aged out** (a resolv
 board, it does not linger) · holds the BASKETS with `vault_find` keywords so references pull in one
 command · short enough to read in one scroll; if it grows past that, prune before adding.
 
-**REFRESHED: 2026-09-03 ~7:25am PDT**
+**REFRESHED: 2026-09-07 ~8:15am PDT** (⚡ Jazan/bypass-coast branch added; STATE unchanged)
 
 ## STATE
 **⭐ BONDS, ONE SENTENCE (2026-09-04, Jake's ask — the forest line):** **the bond market has repriced the REAL COST OF MONEY — not inflation, not yet a fiscal accident: the long end's entire steepness is real (nominal 5s30s +73bp = real +81 + breakeven −8) with breakevens INVERTED and anchored (2.38 > 2.35 > 2.29, 5y5y 2.33), the past year's actual MOVEMENT came from the Fed-sensitive belly rather than the 30Y (12-mo: 5Y +90bp vs 30Y +38bp), and the only genuine stress sits OUTSIDE the index in AI credit, where identical collateral prices 300bp apart on the offtake alone (IREN 6.00% Microsoft-backed vs 9.00% non-IG).**
@@ -107,6 +107,7 @@ above-target inflation = repression; gold is the residual claim ([[new-economy-r
 ## ⚡ BRANCHES — if X does Y (dated in · pruned when resolved)
 | in | IF | THEN | instrument |
 |---|---|---|---|
+| 9/7 | **JAZAN HIT A SECOND TIME (reported, unattributed, 9/7) — ON THE RED SEA, i.e. the BYPASS coast.** IF Red-Sea-side infrastructure (Jazan → Yanbu/Petroline) is now inside the target set → THEN the 9/4 eligibility split (51% of Hormuz volume has no bypass / 49% does) understates exposure: the "eligible" half is exposed on its other coast, and product supply is hit without a barrel of crude moving. Iran also declared a new restricted zone near Hormuz (coordinates ⬜); Kpler ~10 commodity ships/day, lowest since May; Brent $97-98 flat-to-up on the weekend ([[war/war-board]] 9/7 8:15am, [[oil-value-chain]] 9/7). ⚠️ The bond market prices this as REAL rates, not inflation (88% real) — CPI 9/11 is the test of whether that changes. | refining not crude ⇒ PRODUCT CRACKS, not Brent; a Yanbu/Petroline claim = the bypass itself | VLO/MPC/PARR (9/9/8, hold) · Brent/diesel cracks · rates-board rule-20 split Friday |
 | 8/25 | **Uncommenced leases FALL while lease liabilities JUMP** (any hyperscaler, Q3) | the $1.1T migration has started; commitment-shaped names (GOOGL/META/ORCL) compress on in-line EPS; clean-sheet MSFT gets paid | GOOGL/META puts into prints · MSFT relative long |
 | 8/25 | **Q3 calls: uncommenced/obligation line is now THE watched metric** (post-ZH headline) | earnings reactions key off disclosure, not EPS — the $99B-Alphabet-mark precedent says the market parses what it's told to watch | position BEFORE prints, not after |
 | 8/25 | **META names El Paso a VIE in Q3** | pattern → program; every hyperscaler vehicle gets re-read; trigger-3 odds jump | META vol · ORCL puts (negative-FCF = unabsorbable) |

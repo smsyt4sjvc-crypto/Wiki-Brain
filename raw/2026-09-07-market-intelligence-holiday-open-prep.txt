@@ -1,0 +1,48 @@
+# Jake paste 2026-09-07 ~8:10am PT (Labor Day). Aggregator brief, sources as stated inline.
+
+MARKET INTELLIGENCE — HOLIDAY OPEN PREP | SEPT. 7, 2026
+
+U.S. equities and bonds are closed today for Labor Day. NYSE/Nasdaq reopen Tuesday, Sept. 8 at 9:30 ET, so this is the actionable weekend/overnight scan rather than a cash-open tape read. 
+
+1. HORMUZ ESCALATION IS THE CLEAR #1 RISK — 10/10
+Source layer: Javier Blas/Rory Johnston/fast-news feeds → Reuters/Kpler/AP/WSJ verification.
+Core claim: physical disruption is worsening, not merely rhetorical escalation.
+Confirmed: U.S. forces struck three Iranian tankers Saturday; Iran says it will establish a new restricted/exclusion zone near Hormuz. Kpler says only about 10 commodity ships/day crossed over the last 10 days, the lowest since May. Brent traded around $97–98 today after rising ~8% last week. Saudi Aramco’s Jazan refinery was also reportedly attacked Monday, with damage still being assessed. 
+Affected: XLE, XOM, CVX, refiners; negative transports/retail/manufacturing/duration.
+Thesis: Strengthened materially. This is now shipping capacity + physical infrastructure risk feeding directly into inflation.
+
+2. EL-ERIAN IS EXPLICITLY MAKING OUR TREASURY-vs-AI-DEBT ARGUMENT — 9.5/10
+Source/account: Mohamed El-Erian.
+Core claim: governments, hyperscalers and corporations are issuing more bonds than the traditional reliable buyer base can comfortably absorb.
+Confirmed vs opinion: the supply/demand interpretation is El-Erian’s analysis, not an established causal fact. But the backdrop is real: Friday’s 10Y finished around 4.78%, and this shortened week brings $58B 3Y Tuesday, $39B 10Y Wednesday and $22B 30Y Thursday before Friday CPI. 
+Affected: TLT, banks, REITs, leveraged growth, ORCL/neocloud/data-center financing.
+Thesis: Strongly strengthened. AI debt isn’t occurring in a vacuum; it is bidding for capital against sovereign supply.
+
+3. IREN IS A NEAR-PERFECT JE​VONS/CAPITAL-CYCLE CASE STUDY — 9/10
+Source: FT / IREN CEO Daniel Roberts.
+Core claim: AI compute supply may never catch demand.
+Confirmed: IREN plans to spend up to $30B by June 2027, has raised roughly $19B over the past year, and currently has about $7.6B of cash and $7.6B of debt, plus roughly $3.5B remaining under its share-sale program. It supplies Microsoft/Perplexity workloads and has Nvidia relationships across supplier/customer/investor roles. Roberts’s statement that supply may “never” catch demand is explicitly management opinion. 
+Affected: IREN, NVDA, MSFT, neoclouds, power/data-center equipment.
+Thesis: Both sides strengthen simultaneously: compute demand/Je​vons looks enormous, while financing intensity, leverage and dilution become increasingly important.
+
+4. THE PHYSICAL AI TRADE IS RIPPING IN ASIA DESPITE RATES/OIL — 8.5/10
+Source: AP/Barron’s/global-market feeds.
+South Korea’s Kospi +4.6%, SK Hynix +8.1–8.3%, Samsung +5.7%, and Japan’s Nikkei about +2.1% today, driven heavily by semiconductor/memory enthusiasm. 
+Affected: MU, NVDA, AVGO, TSM, AMAT/LRCX/KLAC, memory/HBM complex.
+Thesis: Supports your current rotation read: investors are still willing to pay for physical compute/memory demand even while software and long-duration valuations face the rate hurdle.
+
+5. DATA-CENTER POWER/POLITICAL BOTTLENECK IS SPREADING GLOBALLY — 8/10
+Source: Bloomberg layer / Thailand government reporting.
+Thailand has suspended 49 proposed data centers while it develops new rules around power, water and local impacts. The government approved 88 AI/data-center projects totaling 886B baht in H1 alone, already exceeding all of 2025 tech investment, and is considering higher electricity rates for large data centers. 
+Affected: hyperscalers/neoclouds; bullish relative read-through for power-rich jurisdictions, behind-the-meter generation and infrastructure owners.
+Thesis: Strongly supports the power-is-the-scarce-resource thesis. Compute demand can be abundant while permitted energized megawatts remain scarce.
+
+TUESDAY OPEN SETUP: Friday’s payroll beat left the Fed hike probability around ~58%, while Friday CPI is now the decisive input. Before CPI, Treasury supply itself becomes a live stress test: 3Y Tuesday → 10Y Wednesday → 30Y Thursday. PPI arrives Thursday; CPI Friday. 
+
+BOTTOM LINE: The weekend strengthened the same three-way collision we’ve been tracking:
+
+AI compute demand ↑↑
+Power/permitting scarcity ↑
+Cost of capital + energy inflation ↑↑
+
+Nothing I found over the weekend argues that the chip/compute cycle is ending. The incrementally important development is that the financing and physical-energy constraints are tightening faster than the demand signal is weakening.

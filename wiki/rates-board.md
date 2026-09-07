@@ -2678,3 +2678,24 @@ If IG repriced FIRST and Treasuries followed, **IG OAS must WIDEN (IG moving, US
 - **⇒ AND IT KILLS THE CORPORATE-PURCHASE FACILITY IDEA MORE CLEANLY THAN THIS MORNING'S OBJECTIONS DID: YOU CANNOT FIX A GLOBAL DURATION SHORTAGE WITH A DOMESTIC FACILITY.**
 
 **📌 REGISTERED:** post-June DE/UK/JP prints to complete the comparison ⬜ · **real-vs-breakeven decomposition for Japan and Germany — the load-bearing unknown, since the US is 88% real and the others are unmeasured** ⬜ · Bloomberg index composition/weights ⬜ · **the global duration buyer base as the thread's central quantity — BoJ holdings, ECB/Fed runoff, pension/insurance duration demand** ⬜ · Sept 18 BoJ as the next withdrawal.
+
+## 2026-09-07 ~8:15am PDT — **HOLIDAY-OPEN BRIEF: EL-ERIAN "EXPLICITLY MAKING OUR ARGUMENT" — FILED HERE THREE DAYS AGO WITH AN INSTITUTION ATTACHED. THE WEEK'S SETUP, PRE-REGISTERED UNDER RULE 20.** *(`raw/2026-09-07-market-intelligence-holiday-open-prep.txt`)*
+### DATA
+- **10Y ~4.78% Friday close.** Movement track: 4.77 (9/3) → 4.80 post-jobs spike (9/4, `:L2313`) → 4.78 (9/4 close). **The brief's "finished around 4.78" is the 9/4 close, not a new tick — nothing traded Monday.**
+- **Hike odds ~58%.** Track: ~50% (pre-jobs) → ~61% (9/4 morning, `:L2370`) → 58% (9/4 El-Erian entry, `:L2255`) → ~58% (brief). **Flat since Thursday afternoon.**
+- **Supply: $58B 3Y Tue 9/8 · $39B 10Y Wed 9/9 · $22B 30Y Thu 9/10 · PPI Thu 9/10 · CPI Fri 9/11.** Identical to the calendar filed 9/3 (`:L2139`) and the four-event Sept-10 collision filed 9/5 (`:L2482`: 30Y + ORCL AMC + TSMC August + PPI).
+- **El-Erian: governments + hyperscalers + corporations issuing more than the traditional buyer base can absorb.** ⇒ **`:L2242-2243`, 9/4: the same statement (CNBC), paired with NBIM's 70→50 government-bond proposal and GPIF's domestic-target review.** The brief adds nothing to it; it flags the causal claim as opinion, which the board also did.
+### THESIS (interpretation — NOT fact)
+- **The aggregator's 9.5/10 is a re-surfacing score, not an information score.** Class 8 on the aggregator, not on El-Erian: an item that repeats the reader's own thesis rates highest with the reader. **The vault's version is narrower and better: the shortfall is in DURATION specifically (10Y b/c improved 2.45→2.53-2.59 while 30Y b/c fell 2.66→2.39, dealers 10-14.7%, `:L2602`), it is GLOBAL (Japan +194bp is the largest mover, `:L2645`), and AI issuance is the marginal claimant on the shrunk pool, not its cause (JPMAM denominator −29-31%, `:L2522`).** "AI debt bidding for capital against sovereign supply" is true and it is the least sharp form of the finding.
+- **⛔ ONE MORE PUSHBACK ON THE BRIEF'S BOTTOM LINE — "cost of capital + ENERGY INFLATION ↑↑."** The war-window decomposition is 88% real. **The market is charging more for MONEY, not for INFLATION.** If Friday's CPI turns that (breakevens widening on an energy print), the diagnosis changes; until then the brief has the mechanism mislabelled.
+### THE WEEK, PRE-REGISTERED (rule 20 — split every move before reading it)
+| Day | Event | The number that decides it | Prior |
+|---|---|---|---|
+| Tue 9/8 | $58B 3Y | tail vs WI; the belly is the Fed's leg (hike odds 58%) | — |
+| Wed 9/9 | $39B 10Y | b/c ≥2.53 and indirect ≥76% = the 9/5 finding holds (higher yields buy MORE demand at 10Y) | 2.53-2.59 / 76-81% |
+| Thu 9/10 | **$22B 30Y** (cut size) + PPI + ORCL AMC + TSMC Aug | **b/c vs 2.39 · dealer take vs 10-14.7% · tail** — a size cut that still tails is the duration finding in its strongest form; **decompose the 30Y move real vs BE the same afternoon** | 2.39 / 10-14.7% |
+| Fri 9/11 | CPI (Waller's gate) | real vs BE split at 5Y/10Y/30Y; **BE widening on energy = first inflation-channel evidence of the war** | BE +10bp of +80 |
+### GRADES (16c) → [[grades]]
+**No moves — no new information about any name.** ORCL 4 (refi into this week, `:L2255`) · CRWV 2 · IREN 6→5 is moved in [[ai-financing-fragility]] 9/7 on the IREN item, not on this one.
+**📌 REGISTERED:** the four numbers in the table · SOFR-IORB across the week (the rule-20 trap check) · whether the 30Y b/c prints above or below 2.39 on a $3B-smaller reopening.
+**Links:** [[ai-financing-fragility]] · [[hyperscaler-credit]] · [[forest]] · [[war/war-board]] 9/7

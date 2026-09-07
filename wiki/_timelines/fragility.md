@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **349 dated entries across 6 notes · 2026-02-10 → 2026-09-05 · refreshed 2026-09-06 23:49 PDT**
+> **352 dated entries across 6 notes · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 08:19 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -377,3 +377,6 @@
 - `2026-09-05` [rates-board.md:L2477](../rates-board.md) — Addendum 2026-09-05 ~11:20am PDT — ⭐⭐⭐⭐⭐⭐ **THE SLINKY IS REAL AND IT IS RUNNING BACKWARDS: THE IG YIELD HAS BEEN STATIONARY FOR 17 MONTHS WHILE THE 1
 - `2026-09-05` [rates-board.md:L2519](../rates-board.md) — Addendum 2026-09-05 ~11:30am PDT — ⭐⭐⭐⭐⭐⭐ **THE AUCTION TAPE ANSWERS JAKE'S QUESTION AND SPLITS IT: AT THE 10Y, HIGHER YIELDS BOUGHT MORE DEMAND. AT T
 - `2026-09-05` [rates-board.md:L2562](../rates-board.md) — Addendum 2026-09-05 ~3:25pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **GLOBAL GOVERNMENT YIELDS AT A 22-YEAR HIGH, AND THE US IS NOT LEADING IT. JAPAN IS — BY 194bp. THE AI-CROW
+- `2026-09-07` [ai-financing-fragility.md:L7733](../ai-financing-fragility.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **IREN, QUANTIFIED FROM THE FUNDING SIDE: "UP TO $30B BY JUNE 2027" AGAINST $7.6B CASH + $3.5B OF ATM — AND THE CEO'S "
+- `2026-09-07` [balance-sheet-board.md:L809](../balance-sheet-board.md) — Pointer 2026-09-07 ~8:15am PDT — **IREN: $30B capex ceiling by Jun-2027 · $19B raised past year · $7.6B cash / $7.6B debt · $3.5B ATM remaining (FT vi
+- `2026-09-07` [rates-board.md:L2599](../rates-board.md) — 2026-09-07 ~8:15am PDT — **HOLIDAY-OPEN BRIEF: EL-ERIAN "EXPLICITLY MAKING OUR ARGUMENT" — FILED HERE THREE DAYS AGO WITH AN INSTITUTION ATTACHED. THE

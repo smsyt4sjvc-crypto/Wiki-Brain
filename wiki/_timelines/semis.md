@@ -1,6 +1,6 @@
 # ⏱ SEMIS — merged timeline (the gate)
 
-> **73 dated entries across 2 notes · 2026-07-09 → 2026-09-05 · refreshed 2026-09-06 23:49 PDT**
+> **74 dated entries across 2 notes · 2026-07-09 → 2026-09-07 · refreshed 2026-09-07 08:19 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -92,3 +92,4 @@
 - `2026-09-04` [buildout-bottleneck-map.md:L1624](../buildout-bottleneck-map.md) — Addendum 2026-09-04 ~7:05pm PDT — **THREE PRINCIPALS PUT POWER AHEAD OF SILICON ON THE SAME STAGE, AND ALL THREE GET PAID IF YOU BELIEVE IT. THE CLAIM
 - `2026-09-05` [buildout-bottleneck-map.md:L1677](../buildout-bottleneck-map.md) — 2026-09-05 ~8:35am PDT — ⭐⭐⭐⭐⭐⭐ **MICROSOFT IS SUING TO STOP THE EXACT POLICY THE WHITE HOUSE ENDORSED ONE DAY EARLIER — AND VIRGINIA HAS ALREADY PRIC
 - `2026-09-05` [buildout-bottleneck-map.md:L1705](../buildout-bottleneck-map.md) — 2026-09-05 ~3:30pm PDT — ⛔⭐⭐⭐⭐⭐ **NNE IS NR. BUT IT IS ADVANCING THE DETAILED DESIGN OF A HELIUM CIRCULATOR — AND THIS MAP RECORDED ON 7/12 THAT WAR D
+- `2026-09-07` [buildout-bottleneck-map.md:L1730](../buildout-bottleneck-map.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐ **THAILAND SUSPENDS 49 PROPOSED DATA CENTERS PENDING POWER/WATER/LOCAL-IMPACT RULES — THE PUSHBACK PREDICTION'S FIRST SO

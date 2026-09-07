@@ -1,6 +1,6 @@
 # ⏱ POWER — merged timeline (the gate)
 
-> **91 dated entries across 3 notes · 2026-06-30 → 2026-09-06 · refreshed 2026-09-06 23:49 PDT**
+> **92 dated entries across 3 notes · 2026-06-30 → 2026-09-07 · refreshed 2026-09-07 08:19 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -113,3 +113,4 @@
 - `2026-09-05` [buildout-bottleneck-map.md:L1677](../buildout-bottleneck-map.md) — 2026-09-05 ~8:35am PDT — ⭐⭐⭐⭐⭐⭐ **MICROSOFT IS SUING TO STOP THE EXACT POLICY THE WHITE HOUSE ENDORSED ONE DAY EARLIER — AND VIRGINIA HAS ALREADY PRIC
 - `2026-09-05` [buildout-bottleneck-map.md:L1705](../buildout-bottleneck-map.md) — 2026-09-05 ~3:30pm PDT — ⛔⭐⭐⭐⭐⭐ **NNE IS NR. BUT IT IS ADVANCING THE DETAILED DESIGN OF A HELIUM CIRCULATOR — AND THIS MAP RECORDED ON 7/12 THAT WAR D
 - `2026-09-06` [nuclear.md:L618](../nuclear.md) — 2026-09-06 ~9:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE COOLANT MAP THE VAULT REGISTERED YESTERDAY, BUILT — AND THE MOST-FUNDED AI-DATA-CENTRE NUCLEAR PLAY ON THE LIST 
+- `2026-09-07` [buildout-bottleneck-map.md:L1730](../buildout-bottleneck-map.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐ **THAILAND SUSPENDS 49 PROPOSED DATA CENTERS PENDING POWER/WATER/LOCAL-IMPACT RULES — THE PUSHBACK PREDICTION'S FIRST SO

@@ -1799,3 +1799,18 @@ Today's holdings-scan conclusion, filed at 8:35am: **"raw announced GW is becomi
 - **CEG 7 · VST · TLN 7 · BWXT 6 · OKLO 4 — NO MOVES.** **The connected-generation premium over greenfield, filed this morning, is untouched and mildly reinforced.**
 
 **📌 REGISTERED:** **helium spot/contract price and Ras Laffan restart status ⬜ — now a NUCLEAR input as well as a chip input, and the vault has been tracking only half of it** · **which advanced-reactor designs are helium-cooled vs liquid-metal vs molten-salt ⬜ — it is a design-class risk map the vault does not have** · OKLO's coolant confirmed ⬜ · Baker Hughes/Chart/Howden as a nuclear-component chokepoint owner · whether any HTGR developer discloses a helium supply agreement (that would be the first real datum in this category).
+
+## 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐ **THAILAND SUSPENDS 49 PROPOSED DATA CENTERS PENDING POWER/WATER/LOCAL-IMPACT RULES — THE PUSHBACK PREDICTION'S FIRST SOVEREIGN RUNG, FROM THE SAME GOVERNMENT THAT APPROVED FIVE CHINESE SUPPLIER PLANTS A FORTNIGHT AGO** *(Bloomberg layer / Thai government via brief, `raw/2026-09-07-market-intelligence-holiday-open-prep.txt`)*
+### DATA (perimeters — rule 21b)
+- **49 proposed data centers suspended** while new rules on power, water and local impact are written. PERIMETER: proposals, not operating sites; ⬜ MW total, ⬜ which are hyperscaler-anchored.
+- **88 AI/data-center projects approved in H1 2026, 886B baht** — "already exceeding all of 2025 tech investment." PERIMETER: BOI-approved investment VALUE (pledged, not spent); ≈ **$27B at ~33 THB/USD** (my conversion, rate ⬜). Not comparable to any capex-spent figure in this vault.
+- **Higher electricity tariffs for large data centers under consideration.**
+- **Prior on file:** the same Board of Investment approved five Chinese suppliers' first manufacturing outside China (`:L1304`) — the thread's best supplier evidence. **Same state, two weeks, two directions: approve the FACTORIES, suspend the LOADS.**
+### THESIS (interpretation — NOT fact)
+- **Rung count for the 7/05 prediction (`:L1678` — bipartisan/NIMBY pushback becomes determinative):** local process kill (QTS) → federal rhetoric → Virginia GS-5 → Texas queue purge (`:L1640`) → EO 14420 → **now a NATIONAL government suspending permitted-in-principle projects wholesale.** A new rung, and the first one outside the US. **The approval velocity IS the cause of the suspension: 886B baht in six months is what a grid-planning regime cannot absorb, so it stops the queue.**
+- **The approve-factories / suspend-loads split is the [[power-to-silicon-thesis]] in policy form:** manufacturing capacity is welcome because it is not the scarce input; energized megawatts are the scarce input, so the state rations them. **Compute demand abundant, permitted MW scarce — the brief's line, and the vault's since July.**
+- **Read-through the brief offers ("bullish for power-rich jurisdictions, behind-the-meter generation") is directionally right and has no instrument in this book:** VST/CEG/TLN (7) sell into PJM/ERCOT, not Thailand; the Chinese supplier plants (`:L1304`) are the names touched, and they are unlisted here.
+### GRADES (16c) → [[grades]]
+**NR per 16c(e)** — a sovereign permitting event with no listed expression in the book; VST/CEG/TLN 7 hold (no US law, no US event). Not manufacturing a second-order name.
+**📌 REGISTERED:** the suspension's MW total and the rule-making timeline · whether Malaysia (Johor) or Vietnam follows (the regional contagion test) · the tariff decision.
+**Links:** [[power-to-silicon-thesis]] · [[nuclear]] (`:L426`) · [[forest]]

@@ -1415,3 +1415,15 @@ four-die design abandoned = STRONGLY REPORTED, NOT NVDA-CONFIRMED · "Rubin Ultr
 - **Micron 100k wafers/month by year-end** ⬜ HBM wafers or total? (a 100k/mo HBM figure would be a very large share of MU's total wafer starts).
 
 **📌 REGISTERED:** **the DRAM 5× perimeter — spot vs contract ⬜, the note's highest-value open item today** · **DELL's memory pass-through terms and the priced share of the $95B backlog ⬜** · merchant-channel DDR5/RDIMM availability and pricing as the allocation-severity gauge (the brief's suggestion, and it is the right one — it is the DigiKey tracker's whole purpose) · whether AAPL/MSFT/Nintendo price increases show up in a CPI category before Sept 11.
+
+## 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐ **THE KOREAN TAPE CATCHES UP TO THE PHYSICAL READ — ON THE SAME WEEKEND HORMUZ ESCALATES AND JAZAN IS HIT: KOSPI +4.6%, SK HYNIX +8.1-8.3%, SAMSUNG +5.7%, NIKKEI +2.1% (Monday 9/7 Asian session, AP/Barron's via brief)**
+### DATA
+- Kospi +4.6% · SK Hynix +8.1-8.3% · Samsung +5.7% · Nikkei ~+2.1%, "driven heavily by semiconductor/memory enthusiasm." Source rung: wire summary, no company datum in the item.
+- **Prior on file:** the earlier drawdown (`:L903` — SKH −15% in a week vs Kospi −5%, Samsung −9%); DRAM ~5× spot via Nintendo, 9/5 (`:L1406` — a rung from outside the AI complex); MU 8 and EWY 6 in [[grades]]; the 9/4 ⬜ at `war/war-board:L4647` — *"KOSPI memory tape vs the physical read"* — **now has its first reading, and the tape agrees.**
+### THESIS (interpretation — NOT fact)
+- **The paradox is the finding.** Korea is the most Hormuz/tariff-exposed advanced-semiconductor economy after Taiwan (`war/war-board:L4579`), and it printed its best day of the thread on the weekend the Strait's exclusion zone was declared and a Saudi refinery was hit twice. **That is the two-speed market in one print: the physical-compute leg is being paid for through oil and rates, exactly as [[power-to-silicon-thesis]] `:L358` named it — hardware monetization at a high while the rate-sensitive index sits lower.**
+- **A tape move is not evidence for a 120-day grade; it is a price.** +8% in a day RAISES the entry cost of the same 120-day view without changing the physical read (ISM memory short 8 months, DigiKey, Nintendo). Chasing it into a grade would be the double-count 16c forbids in the other direction.
+### GRADES (16c) → [[grades]]
+**MU 8 hold · EWY 6 hold.** The physical read is unchanged; the price went up. EWY's Hormuz exposure and its memory exposure are now visibly pulling opposite ways in the same session — the 6 already carries both.
+**📌 REGISTERED:** whether the Korean move is memory-led or index-wide (SKH/Samsung vs the ex-semi Kospi — the differential rule) · DRAM contract vs spot (standing ⬜) · EWY's actual Samsung/SKH weights (standing ⬜, `war-board:L4647`).
+**Links:** [[war/war-board]] 9/7 · [[power-to-silicon-thesis]] · [[grades]]
