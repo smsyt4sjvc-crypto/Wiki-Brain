@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **140 dated entries across 2 notes · 2026-07-16 → 2026-09-07 · refreshed 2026-09-07 08:19 PDT**
+> **141 dated entries across 2 notes · 2026-07-16 → 2026-09-07 · refreshed 2026-09-07 08:22 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -159,3 +159,4 @@
 - `2026-09-04` [compression-thesis.md:L3015](../compression-thesis.md) — Addendum 2026-09-04 ~1:25pm PDT — ⭐⭐⭐⭐ **THE AI CAPEX BOOM'S OWN SECTOR IS SHEDDING JOBS: INFORMATION PAYROLLS −23K IN AUGUST, THE LARGEST SINGLE DRAG
 - `2026-09-05` [memory-regime-question.md:L1354](../memory-regime-question.md) — Addendum 2026-09-05 ~8:35am PDT — ⭐⭐⭐⭐⭐ **THE SHORTAGE REACHED A WITNESS WITH NO STAKE IN THE AI STORY: NINTENDO. THAT IS THE STRONGEST RUNG THIS NOTE
 - `2026-09-07` [memory-regime-question.md:L1371](../memory-regime-question.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐ **THE KOREAN TAPE CATCHES UP TO THE PHYSICAL READ — ON THE SAME WEEKEND HORMUZ ESCALATES AND JAZAN IS HIT: KOSPI +4.6%, 
+- `2026-09-07` [memory-regime-question.md:L1383](../memory-regime-question.md) — 2026-09-07 ~8:25am PDT — ⭐⭐⭐⭐⭐ **TRENDFORCE: 2Q26 DRAM INDUSTRY REVENUE +59.5% QoQ TO $154.7B · SUPPLIER INVENTORIES AT HISTORIC LOWS · Q3 CONVENTIONA

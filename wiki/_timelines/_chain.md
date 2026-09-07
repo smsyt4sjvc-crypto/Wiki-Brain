@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **853 dated entries · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 08:19 PDT**
+> **855 dated entries · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 08:22 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -885,6 +885,8 @@
 - `2026-09-05` **[3]** ai-financing-fragility.md:L7697 — Addendum 2026-09-05 ~11:40am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE ORDER-BOOK DATA EXISTS AND IT CORRECTS ME TWICE: THE INDEX WAS HIDING THE HYPERSCALERS, AND JAKE'S SL
 - `2026-09-05` **[5]** memory-regime-question.md:L1354 — Addendum 2026-09-05 ~8:35am PDT — ⭐⭐⭐⭐⭐ **THE SHORTAGE REACHED A WITNESS WITH NO STAKE IN THE AI STORY: NINTENDO. THAT IS THE STRONGEST RUNG THIS NOTE
 - `2026-09-07` **[1]** rates-board.md:L2599 — 2026-09-07 ~8:15am PDT — **HOLIDAY-OPEN BRIEF: EL-ERIAN "EXPLICITLY MAKING OUR ARGUMENT" — FILED HERE THREE DAYS AGO WITH AN INSTITUTION ATTACHED. THE
+- `2026-09-07` **[1]** rates-board.md:L2620 — Addendum 2026-09-07 ~8:25am PDT — **DAILY BRIEF: THE WEEK RESTATED, WITH TWO THINGS TO ADD TO THE 8:15am TABLE — THE BUYBACK CONFOUND ON WEDNESDAY, AN
 - `2026-09-07` **[3]** ai-financing-fragility.md:L7733 — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **IREN, QUANTIFIED FROM THE FUNDING SIDE: "UP TO $30B BY JUNE 2027" AGAINST $7.6B CASH + $3.5B OF ATM — AND THE CEO'S "
 - `2026-09-07` **[3]** balance-sheet-board.md:L809 — Pointer 2026-09-07 ~8:15am PDT — **IREN: $30B capex ceiling by Jun-2027 · $19B raised past year · $7.6B cash / $7.6B debt · $3.5B ATM remaining (FT vi
 - `2026-09-07` **[5]** memory-regime-question.md:L1371 — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐ **THE KOREAN TAPE CATCHES UP TO THE PHYSICAL READ — ON THE SAME WEEKEND HORMUZ ESCALATES AND JAZAN IS HIT: KOSPI +4.6%, 
+- `2026-09-07` **[5]** memory-regime-question.md:L1383 — 2026-09-07 ~8:25am PDT — ⭐⭐⭐⭐⭐ **TRENDFORCE: 2Q26 DRAM INDUSTRY REVENUE +59.5% QoQ TO $154.7B · SUPPLIER INVENTORIES AT HISTORIC LOWS · Q3 CONVENTIONA

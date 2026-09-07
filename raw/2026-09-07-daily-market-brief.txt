@@ -1,0 +1,39 @@
+# Jake paste 2026-09-07 ~8:20am PT. Aggregator daily brief, sources as stated inline.
+
+Daily Market Brief — Monday, September 7, 2026
+
+1. Memory scarcity is worsening, not normalizing — and today’s Asian chip rally is confirming the market is repricing it
+
+Confirmed today: TrendForce says 2Q26 DRAM industry revenue surged 59.5% QoQ to $154.7B, while supplier inventories remain at historic lows and incremental supply is being directed primarily toward servers. AI training/inference is pulling not only HBM3E but also LPDDR5X and high-capacity RDIMMs; TrendForce now expects conventional DRAM contract prices to rise another 13–18% QoQ in Q3. 
+
+Markets are treating this as a real earnings cycle: South Korea’s Kospi closed +4.6% today, with SK hynix +8.1% and Samsung +5.7%.  This is strong confirmation of the thesis behind the DigiKey tracker: HBM demand is crowding conventional memory supply rather than remaining isolated to AI accelerators. That is bullish for MU / SK hynix / Samsung pricing power and, eventually, fab-equipment demand at LRCX, AMAT, KLAC. The counterweight is rising BOM cost and possible shipment constraints for NVDA, AVGO, AMD, DELL, HPE, SMCI and AAPL. The key signal now is whether 32/64/96/128GB RDIMM availability continues deteriorating even as contract prices rise; if it does, this is physical scarcity rather than inventory restocking.
+
+2. This week is a concentrated Treasury/Fed stress test: the 10Y auction, long-end buybacks, PPI and CPI all hit within 48 hours
+
+U.S. equity markets are closed today for Labor Day. The official calendar then gets crowded fast: Treasury’s 10-year reopening is Wednesday, Sept. 9; note/bond competitive bidding normally closes at 1:00 p.m. ET unless the specific offering says otherwise. Treasury also begins doubling long-end liquidity-support buybacks from $2B to at least $4B per operation on Wednesday. The 30-year reopening follows Thursday. 
+
+Then August PPI hits Thursday at 8:30 a.m. ET, Existing Home Sales Thursday at 10:00 a.m. ET, August CPI Friday at 8:30 a.m. ET, and preliminary September UMich sentiment and inflation expectations Friday at 10:00 a.m. ET. The Existing Home Sales date in the screenshot is therefore confirmed.  Fed-funds pricing is sitting around a 58% probability of a September hike, while Governor Waller has explicitly said his decision hinges on the August inflation data. 
+
+The highest-value read this week is the interaction, not any single print. Hot inflation + weak 10Y/30Y demand would pressure TLT/IEF, REITs, homebuilders, HY/private credit and long-duration AI/software. More interestingly, if CPI is soft and the long end still refuses to rally despite Treasury’s larger buybacks, that is powerful evidence that fiscal supply/term premium rather than Fed policy is controlling long borrowing costs. That would directly reinforce the financing-fragility thesis around AI SPVs and leveraged data-center developers.
+
+3. Hormuz has moved from geopolitical premium to measurable physical constraint: traffic is at a four-month low and Brent touched nearly $98
+
+Confirmed today: Brent traded as high as $97.93 before easing, while WTI remained around the low-$90s. Kpler data show an average of only 10 commodity ships per day crossed Hormuz over the past 10 days, the lowest rate since May. U.S. forces struck three Iranian oil tankers Saturday, including one near Kharg Island, after Iranian attacks on U.S. vessels.  Iran has also said it plans to establish a new restricted maritime zone near the strait; the exact enforcement mechanism and practical effect remain uncertain, so that part is still a developing risk rather than a confirmed additional blockade. 
+
+This matters more than another rhetorical escalation because observable throughput is falling. Bullish exposure remains XOM, CVX, COP, OXY, with VLO/MPC/PSX benefiting if distillate cracks stay elevated. Airlines, transports and consumer discretionary sit on the other side. The larger portfolio risk is the combination of $95–100 Brent + tight diesel + Friday CPI: if energy keeps feeding inflation expectations, the Fed can remain hawkish while the long end embeds a larger inflation/term premium. That is one of the cleanest ways the Iran conflict can migrate directly into AI financing costs and equity multiples.
+
+4. Thursday gives us two unusually clean AI-demand checks: TSMC wafer throughput before the U.S. open, Oracle backlog conversion after the close
+
+TSMC officially reports August monthly sales Thursday, Sept. 10 at 13:30 Taipei time. Through July, revenue was already +37.0% YoY YTD, with July alone +44.7% YoY.  Oracle then reports Q1 FY27 after Thursday’s U.S. close, with its call at 4:00 p.m. Central. 
+
+Oracle is especially important because it enters the print with $638B of RPO, up 363% YoY, and $75B of prepaid/customer-supplied GPU hardware embedded in large AI contracts. FY26 free cash flow was -$23.7B, and Oracle expects roughly $40B of debt/equity funding in FY27. Q1 guidance calls for 27–29% total revenue growth, 58–64% cloud growth in USD and $1.72–$1.76 non-GAAP EPS. 
+
+That makes Thursday a very useful decomposition. Strong TSMC + Oracle would confirm both physical silicon throughput and monetized compute demand, bullish for NVDA, AVGO, TSM, MU, ANET, CRDO, ETN and VRT. Strong TSMC but weak Oracle would suggest hardware demand is intact while backlog conversion/financing economics are becoming the bottleneck. Conversely, a strong Oracle print with capex or financing materially above expectations could be good operationally but negative for credit and long-duration valuation if it adds to the corporate-borrowing crowd-out problem.
+
+5. The grid story just became a U.S. industrial-policy story: Washington is restricting foreign bulk-power equipment while DOE is simultaneously using emergency reliability powers
+
+An August 26 White House executive order declared a national emergency over foreign-supplied bulk-power equipment, explicitly citing the rapid growth of data centers and AI as increasing dependence on reliable electricity. It authorizes restrictions on transactions involving equipment from designated foreign entities where DOE finds national-security or supply-disruption risk. The covered universe is broad: transformers, reactors, grid inverters, battery storage, UPS systems, generators, turbines, breakers, relays and industrial-control systems. DOE has 120 days to issue implementing rules as needed, while federal procurement recommendations are supposed to favor U.S.-manufactured infrastructure. This is not a blanket ban on all imported grid equipment. 
+
+At the same time, DOE currently has emergency Section 202(c) orders in place for PJM and Duke Energy Carolinas through Sept. 8, authorizing additional generation and even backup generation where needed for reliability; separate orders are keeping other units available for months.  There is no evidence in those orders that AI/data centers caused this week’s emergency conditions—they cite reliability and load—but the policy collision is important: the U.S. needs dramatically more grid hardware precisely while it is trying to narrow the acceptable foreign supply base.
+
+Investment read: potentially positive for domestic/grid-heavy ETN, HUBB, GEV and PWR, and strategically supportive of scarce firm-power assets such as CEG/VST/NRG. The near-term risk is the opposite side of reshoring: if transformers, switchgear or control systems become harder to source before U.S. capacity catches up, lead times and data-center energization costs can rise further. That makes power-equipment availability increasingly analogous to the memory shortage: demand is real, but the investable bottleneck may be the component that physically prevents the next incremental MW from coming online.

@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **311 dated entries across 3 notes · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 08:19 PDT**
+> **312 dated entries across 3 notes · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 08:22 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -339,3 +339,4 @@
 - `2026-09-05` [rates-board.md:L2562](../rates-board.md) — Addendum 2026-09-05 ~3:25pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **GLOBAL GOVERNMENT YIELDS AT A 22-YEAR HIGH, AND THE US IS NOT LEADING IT. JAPAN IS — BY 194bp. THE AI-CROW
 - `2026-09-07` [ai-financing-fragility.md:L7733](../ai-financing-fragility.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **IREN, QUANTIFIED FROM THE FUNDING SIDE: "UP TO $30B BY JUNE 2027" AGAINST $7.6B CASH + $3.5B OF ATM — AND THE CEO'S "
 - `2026-09-07` [rates-board.md:L2599](../rates-board.md) — 2026-09-07 ~8:15am PDT — **HOLIDAY-OPEN BRIEF: EL-ERIAN "EXPLICITLY MAKING OUR ARGUMENT" — FILED HERE THREE DAYS AGO WITH AN INSTITUTION ATTACHED. THE
+- `2026-09-07` [rates-board.md:L2620](../rates-board.md) — Addendum 2026-09-07 ~8:25am PDT — **DAILY BRIEF: THE WEEK RESTATED, WITH TWO THINGS TO ADD TO THE 8:15am TABLE — THE BUYBACK CONFOUND ON WEDNESDAY, AN

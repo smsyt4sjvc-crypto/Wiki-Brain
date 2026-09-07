@@ -1427,3 +1427,19 @@ four-die design abandoned = STRONGLY REPORTED, NOT NVDA-CONFIRMED · "Rubin Ultr
 **MU 8 hold · EWY 6 hold.** The physical read is unchanged; the price went up. EWY's Hormuz exposure and its memory exposure are now visibly pulling opposite ways in the same session — the 6 already carries both.
 **📌 REGISTERED:** whether the Korean move is memory-led or index-wide (SKH/Samsung vs the ex-semi Kospi — the differential rule) · DRAM contract vs spot (standing ⬜) · EWY's actual Samsung/SKH weights (standing ⬜, `war-board:L4647`).
 **Links:** [[war/war-board]] 9/7 · [[power-to-silicon-thesis]] · [[grades]]
+
+## 2026-09-07 ~8:25am PDT — ⭐⭐⭐⭐⭐ **TRENDFORCE: 2Q26 DRAM INDUSTRY REVENUE +59.5% QoQ TO $154.7B · SUPPLIER INVENTORIES AT HISTORIC LOWS · Q3 CONVENTIONAL CONTRACT +13-18% QoQ — THE FIRST CONTRACT-PRICE DATUM THIS NOTE HAS HELD, AND IT SIZES THE SPOT-VS-CONTRACT GAP THE 9/5 ⬜ ASKED FOR** *(Daily Market Brief via Jake, `raw/2026-09-07-daily-market-brief.txt`; TrendForce as relayed, ⬜ the release)*
+### DATA (perimeters — rule 21b)
+- **DRAM industry revenue 2Q26 = $154.7B, +59.5% QoQ.** PERIMETER: all suppliers, all DRAM including HBM, USD, quarter-on-quarter. Implied 1Q26 ≈ $97B (my division). Revenue = price × bits × mix — **the split is ⬜; a 59.5% revenue jump is NOT a 59.5% price jump.**
+- **Supplier inventories at historic lows; incremental supply directed primarily to servers.** AI pulls HBM3E **and** LPDDR5X **and** high-capacity RDIMMs (the DigiKey SKU class, `compression-thesis:L2988`).
+- **Q3 conventional DRAM CONTRACT price: +13-18% QoQ expected.** PERIMETER: contract, conventional (ex-HBM), sequential. **This is the first contract-side number on this note. The 9/5 "~5×" via Nintendo (`:L1406`) is SPOT.**
+- **Closes the ⬜ at `:L1364` ("the vault has NO TrendForce coverage and no bit-shipment series") — half of it: revenue is now covered, bits still are not.**
+- Kospi/SKH/Samsung: filed 8:15am above; the brief repeats it.
+### THESIS (interpretation — NOT fact)
+- **★★★★★ SPOT ~5× vs CONTRACT +13-18%/qtr IS THE SLINKY, IN MEMORY.** Contract resets quarterly toward spot; the gap is the pipeline of price increases still to reach the customers who pay contract — **which is the hyperscalers and DELL/HPE/SMCI.** The 9/5 read ("a rung from outside the AI complex") survives and gets its other half: **the shortage is already priced in the spot market and is NOT yet priced in the contract books that determine MU's next two quarters of revenue.** That is the bull case for MU stated as a lag, not a level.
+- **The brief's own discriminator is correct and is the DigiKey tracker's purpose:** RDIMM availability deteriorating WHILE contract rises = physical scarcity; availability improving while contract rises = restocking. **The tracker answers it weekly.**
+- **BOM-side names (NVDA/AVGO/AMD/DELL/HPE/SMCI/AAPL): the DELL flag (9/3, memory COGS) is the live one.** +13-18% contract in Q3 on a server-system revenue base is a margin question with a pass-through term the vault does not hold (⬜ standing).
+### GRADES (16c) → [[grades]]
+**MU 8 hold** (the datum is confirmatory of the physical read already at 8; a contract print, not a tape print — but a lag is not a new driver). **DELL 8 hold with the flag sharpened: the pass-through ⬜ now has a number to be passed through, +13-18%.** No other moves.
+**📌 REGISTERED:** the TrendForce release (bits vs price split of the 59.5%) · Q3 contract actual vs the 13-18% band · DigiKey RDIMM availability weekly · **the Q2 contract change (⬜) — needed to decompose revenue.**
+**Links:** [[compression-thesis]] (DigiKey) · [[grades]] · [[ai-infra-allocation-map]] (LPDDR5X)

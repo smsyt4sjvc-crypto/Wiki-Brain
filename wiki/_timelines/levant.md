@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **167 dated entries across 2 notes · 2026-07-01 → 2026-09-07 · refreshed 2026-09-07 08:19 PDT**
+> **167 dated entries across 2 notes · 2026-07-01 → 2026-09-07 · refreshed 2026-09-07 08:22 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before

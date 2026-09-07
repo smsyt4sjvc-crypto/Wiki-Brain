@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **196 dated entries across 3 notes · 2026-07-09 → 2026-09-07 · refreshed 2026-09-07 08:19 PDT**
+> **197 dated entries across 3 notes · 2026-07-09 → 2026-09-07 · refreshed 2026-09-07 08:22 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -214,4 +214,5 @@
 - `2026-09-05` [buildout-bottleneck-map.md:L1705](../buildout-bottleneck-map.md) — 2026-09-05 ~3:30pm PDT — ⛔⭐⭐⭐⭐⭐ **NNE IS NR. BUT IT IS ADVANCING THE DETAILED DESIGN OF A HELIUM CIRCULATOR — AND THIS MAP RECORDED ON 7/12 THAT WAR D
 - `2026-09-05` [war-board.md:L4545](../war/war-board.md) — 2026-09-05 ~6:50am PDT — ⛔⭐⭐⭐⭐⭐⭐ **US DESTROYS THREE IRGC TANKERS — AND VERIFYING IT BROKE MY OWN 15-HOUR-OLD FINDING: JASK IS OPERATIONAL, KHARG IS B
 - `2026-09-07` [buildout-bottleneck-map.md:L1730](../buildout-bottleneck-map.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐ **THAILAND SUSPENDS 49 PROPOSED DATA CENTERS PENDING POWER/WATER/LOCAL-IMPACT RULES — THE PUSHBACK PREDICTION'S FIRST SO
+- `2026-09-07` [buildout-bottleneck-map.md:L1745](../buildout-bottleneck-map.md) — 2026-09-07 ~8:25am PDT — ⭐⭐⭐⭐ **EO 14420 RESTATED WITH ITS EQUIPMENT UNIVERSE AND ITS CLOCK: DOE HAS 120 DAYS FROM AUG 26 (→ ~DEC 24, INSIDE THE GRADE
 - `2026-09-07` [war-board.md:L4577](../war/war-board.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **LABOR DAY OVERNIGHT: IRAN DECLARES A NEW RESTRICTED ZONE NEAR HORMUZ · KPLER ~10 COMMODITY SHIPS/DAY (10-DAY WINDOW, 
