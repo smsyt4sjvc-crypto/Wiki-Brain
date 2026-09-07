@@ -1,6 +1,6 @@
 # ⏱ FLOWS — merged timeline (the gate)
 
-> **160 dated entries across 3 notes · 2026-07-01 → 2026-09-06 · refreshed 2026-09-06 21:57 PDT**
+> **161 dated entries across 3 notes · 2026-07-01 → 2026-09-06 · refreshed 2026-09-06 23:40 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -179,3 +179,4 @@
 - `2026-09-03` [market-fragility.md:L4399](../market-fragility.md) — Addendum 2026-09-03 ~2:10pm PDT — ⭐⭐⭐⭐⭐ **THE DISPERSION RECORD HAS A CREDIT TWIN, AND IT IS MEASURABLE: CCC−HY OAS GAP 787bp = 100th PERCENTILE of 79
 - `2026-09-06` [market-fragility.md:L4403](../market-fragility.md) — 2026-09-06 ~10:15pm PDT — ⭐⭐⭐⭐⭐ **THE "OPTIMAL P/E BAND" STUDY, RUN ON 152 YEARS OF THE INDEX: THE BAND THAT HISTORICALLY PAID IS ONE THE MODERN MARKE
 - `2026-09-06` [market-fragility.md:L4437](../market-fragility.md) — Addendum 2026-09-06 ~10:35pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **⬜ CLOSED: CAPE IS 41.41. SEVENTEEN MONTHS IN 155 YEARS HAVE BEEN HERE OR HIGHER, AND SIXTEEN OF THEM ARE 
+- `2026-09-06` [market-fragility.md:L4456](../market-fragility.md) — 2026-09-06 ~11:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE PER-NAME ANSWER (Jake's Colab run, `raw/2026-09-06-megacap-pe-before-rips-colab-output.txt`): TRAILING P/E CARR

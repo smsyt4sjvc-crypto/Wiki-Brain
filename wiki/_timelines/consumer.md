@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **440 dated entries across 6 notes · 2026-03-13 → 2026-09-06 · refreshed 2026-09-06 21:57 PDT**
+> **441 dated entries across 6 notes · 2026-03-13 → 2026-09-06 · refreshed 2026-09-06 23:40 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -465,3 +465,4 @@
 - `2026-09-05` [new-economy-regime.md:L4913](../new-economy-regime.md) — Addendum 2026-09-05 ~8:40am PDT — **RARE EARTHS: THE VAULT ALREADY HELD THIS (9/4 2:20pm). THE BRIEF'S ADDS ARE THREE NUMBERS AND ONE GOOD SECOND-ORDE
 - `2026-09-06` [market-fragility.md:L4403](../market-fragility.md) — 2026-09-06 ~10:15pm PDT — ⭐⭐⭐⭐⭐ **THE "OPTIMAL P/E BAND" STUDY, RUN ON 152 YEARS OF THE INDEX: THE BAND THAT HISTORICALLY PAID IS ONE THE MODERN MARKE
 - `2026-09-06` [market-fragility.md:L4437](../market-fragility.md) — Addendum 2026-09-06 ~10:35pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **⬜ CLOSED: CAPE IS 41.41. SEVENTEEN MONTHS IN 155 YEARS HAVE BEEN HERE OR HIGHER, AND SIXTEEN OF THEM ARE 
+- `2026-09-06` [market-fragility.md:L4456](../market-fragility.md) — 2026-09-06 ~11:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE PER-NAME ANSWER (Jake's Colab run, `raw/2026-09-06-megacap-pe-before-rips-colab-output.txt`): TRAILING P/E CARR

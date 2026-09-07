@@ -4583,3 +4583,27 @@ The 10:15pm study's CAPE table: **35-45 bucket → forward-12m real TR mean −3
 **An index valuation state touches no name the book holds in a way that moves a 120-day grade; it shades the DENOMINATOR every grade is priced against.** **No moves. Filed as regime, per rule 16c(e).** *(The stock-level expression of this is the Colab cell's band-B clean list read against [[grades]] — that is where it becomes name-level, and it needs Jake's run.)*
 
 **📌 REGISTERED (replaces the CAPE ⬜):** **Q3 EPS prints vs the $385.5 / +31.7% path — THE discriminator, dated by the reporting calendar (ORCL 9/10 is the first AI-complex read)** · CAPE monthly as a tracked series with the 44.19 max as the ceiling reference · a third CAPE-40 episode would be the first out-of-sample test of the bucket — this is it, live · Jake's Colab run of `tools/fwd_pe_band_screen_cell.py`.
+
+### 2026-09-06 ~11:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE PER-NAME ANSWER (Jake's Colab run, `raw/2026-09-06-megacap-pe-before-rips-colab-output.txt`): TRAILING P/E CARRIES ALMOST NO INFORMATION ABOUT WHEN THESE EIGHT RIP. THE EARNINGS INFLECTION DOES. FIVE OF EIGHT RIP FROM THEIR *AVERAGE* MULTIPLE; THE BIGGEST RIPS STARTED AT 98×, 138×, 244× AND n/m.** *(EDGAR GAAP diluted EPS 2008→, point-in-time by filing date, split-adjusted; monthly closes; 185-192 overlapping months per name ≈ 15 independent years; these eight are WINNERS — survivorship is the question's design, not the data's accident.)*
+
+**RIP-START MULTIPLE vs AVERAGE MULTIPLE (median trailing P/E at the start of top-decile 12m windows vs all months):** GOOGL **25 vs 27** · MSFT **27 vs 27** · NVDA **40 vs 41** · AAPL **17 vs 17** · META 25 vs 31 · AVGO 25 vs 36 · AMZN 81 vs 95 · TSLA n/m vs 111. ⇒ **for five of eight the rip-start multiple IS the average multiple. There is no "cheap before the rip" signature in trailing P/E for GOOGL, MSFT, NVDA or AAPL.**
+
+**THE 24 TOP RIPS, DECOMPOSED (1+ret = (1+EPS g)(1+multiple Δ)):** only **four** started from a below-normal multiple — **META 9× (Oct-22, +223%, multiple +198%) · GOOGL 18× (Apr-25, +143%) · AAPL 13× (Sep-11) · AVGO 21× (Feb-23).** The largest started from HIGH or undefined trailing multiples because earnings had just inflected: **NVDA 98× (Oct-23, EPS +415%, multiple −37%) · AVGO 138× (Nov-24, EPS +240%) · AMZN 244× (Sep-17, EPS +220%) · TSLA 735× (Oct-20, EPS +488%) · META n/m (Jun-13, EPS +7500%).** ⇒ **★★★★★★ THE PATTERN IS TWO REGIMES, AND THE DECOMP COLUMN SEPARATES THEM: EARNINGS-driven rips start at a HIGH trailing multiple (trailing E lags the inflection); MULTIPLE-driven rips start at a normal-to-low multiple. The multiple by itself cannot tell you which is coming — which is the index study's 25-30× finding at the single-name level.** *(Point-in-time check: NVDA's 98× on 2023-10-31 is correct — the Oct-29 quarter was not filed until Nov 21, so trailing EPS was ~$0.42 against a $42 price. That is what the market was actually paying.)*
+
+**WHERE THEY ARE NOW (9/4 close), read through that lens:**
+| | P/E | own pctile | median | rip-median | EPS y/y | smoothed | read |
+|---|---|---|---|---|---|---|---|
+| **NVDA** | 29× | 35% | 41× | 40× | **+125%** | 28× | **below its own median AND its rip-median, on EPS +125% — the only one of the eight whose current multiple sits where its rips have started** |
+| **GOOGL** | 17× ⚠ | 0% | 27× | 25× | +112% ⚠ | **21×** | one-off inflated ($9.11 Q2); **smoothed 21× is still bottom-quartile of its own history** — cheap by its own standard |
+| **META** | 23× ⚠ | 17% | 31× | 25× | −4% ⚠ | **20×** | one-off DEPRESSED ($1.05 Q3-25); smoothed 20× below median — but its 2022 rip started at 9×, and 20× is not 9× |
+| MSFT | 28× | 56% | 27× | 27× | +32% | 28× | **exactly its median, exactly its rip-median. Nothing to say; MSFT's rips are multiple-driven from an average start** |
+| **AAPL** | **37×** | **95%** | 17× | 17× | +32% | 40× | **the most expensive it has ever been on its own history; its rips started at 13-17×** |
+| AVGO | 60× | 67% | 40× | 25× | +125% | 55× | GAAP (VMware amortisation) — ~30× street; the Nov-24 trough rip already happened |
+| AMZN | 21× ⚠ | 0% | 93× | 81× | +89% ⚠ | 27× | history median meaningless (a decade of ~zero EPS); no read |
+| TSLA | 328× | 65% | 178× | n/m | −38% | 316× | P/E has never been TSLA's signal; its rips start at n/m |
+
+**GRADES (16c):** **NVDA HOLD (graded) — this is a STATE consistent with prior rip starts, not a trigger (rule 10); the disconfirmer is the one every thread this week carries: the +125% EPS trend is the thing that would have to keep printing.** **AVGO 8 HOLD** — 60× GAAP is not the number the market prices. **AAPL, GOOGL, META, MSFT, AMZN, TSLA are NOT in the roster** — no grades; AAPL at the 95th percentile of its own history is the one fact here that would initialise a grade if Jake brings it in.
+
+**CAVEATS THAT TRAVEL:** GAAP not street (AVGO's gap largest, TSLA/AMZN next) · ~15 independent years per name · the top-decile IQRs on META [13-2427] and AMZN [72-187] are IPO-era near-zero-EPS artifacts · price return not total return · the study DESCRIBES eight winners; the base rate for "high trailing P/E because earnings just inflected" includes every name that inflected and then didn't, and none of those are in this table.
+
+**📌 REGISTERED:** the same cell on the vault's GRADED roster (MU, CRDO, MRVL, VRT, GEV, ETN, PWR, CEG…) — the roster is where this becomes actionable · NVDA's next two quarters vs the +125% trend (the state-to-trigger conversion) · AAPL 95th-percentile as a grade-initialiser if brought in.
