@@ -1,0 +1,127 @@
+# Jake paste 2026-09-08 ~8:37am PT. Holdings scan, sources as stated.
+
+DAILY HOLDINGS SCAN — MATERIAL CHANGES
+Sep. 8, 2026 — morning
+Window: since prior Sep. 7 morning scan
+HIGHEST IMPACT
+QCOM — AMAZON MULTI-GENERATION CUSTOM AI SILICON + 1.6T OPTICS DEAL; 25M-SHARE WARRANT TIED TO AMAZON PURCHASE ACTIVITY — SEC + COMPANY CONFIRMED
+Amazon/AWS and Qualcomm will collaborate across multiple generations of customized silicon for large-scale AI data centers, initially focused on AI inference.
+Optical component — Qualcomm SerDes + optical DSP solutions extending to 1.6T and future generations for Amazon data-center networks.
+Amazon warrant — up to 25,000,000 QCOM shares at $161.26/share; expires Sep. 3, 2036.
+Immediate vesting — 3,750,000 warrant shares vested based on initial Amazon purchase commitments.
+Remaining vesting — tied to commercial agreements, binding purchase orders and actual Amazon purchases of Qualcomm server chips, technology, systems and manufacturing services.
+Maximum purchase-payment threshold associated with warrant vesting — $60B.
+IMPORTANT — The SEC filing DOES NOT disclose a firm $60B Amazon order. $60B is the maximum payment threshold used to determine warrant vesting; committed volumes and delivery timing were not disclosed.
+WHY IT MATTERS — This is Qualcomm's clearest hyperscaler-scale move into AI data-center silicon and materially expands the thesis beyond handset/edge AI.
+PORTFOLIO READ — Positive QCOM; major validation of custom-silicon TAM but incremental competitive pressure on AVGO/MRVL. Directly positive for the broader 800G/1.6T optical-interconnect build, while Qualcomm's own optical DSP/SerDes push increases merchant competition for CRDO/MRVL/COHR/LITE/MTSI.
+GFS — U.S. COMMERCE DEPARTMENT TO RECEIVE 9.907M GFS SHARES; $375M QUANTUM R&D AWARD FINALIZED — SEC + COMPANY CONFIRMED
+GFS filed a 6-K today disclosing a Sep. 3 Securities Issuance Agreement with the U.S. Department of Commerce.
+Government shares — 9,907,399 GFS ordinary shares.
+Issuance price — $37.85/share.
+Transfer restriction — government cannot privately negotiate a transfer to a GFS competitor.
+Voting rights — heavily restricted except for certain class-right and M&A matters.
+Resale rights — GFS must file an F-3 or other appropriate resale shelf within six months.
+Separately, GFS finalized a CHIPS R&D award of up to $375M over five years, milestone-based, for Quantum Technology Solutions.
+Technology focus — cryogenic CMOS, advanced packaging, heterogeneous integration and scalable domestic quantum-chip manufacturing.
+WHY IT MATTERS — Federal industrial policy has moved beyond grants into direct government equity ownership of another portfolio semiconductor manufacturer.
+PORTFOLIO READ — Strategic positive for domestic GFS manufacturing/quantum positioning, offset by direct shareholder dilution and a future government resale overhang.
+TSM / ASML — TSMC FORMALLY COMMITS TO HIGH-NA EUV HIGH-VOLUME MANUFACTURING STARTING IN 2030 — COMPANY CONFIRMED
+TSMC intends to use ASML High-NA EUV for advanced-node high-volume manufacturing beginning in 2030.
+TSMC expects the number of High-NA layers to increase as nodes advance, specifically citing increasingly complex transistor architectures required for AI.
+TSMC + ASML also launched an industry initiative to move High-NA photomasks from today's 6-inch format toward 12-inch masks.
+12-inch mask pilot-line target — 2031.
+Full lithography-system readiness for advanced-node production — 2033.
+Expected benefit — higher scanner/fab productivity, lower chip cost and removal of stitching constraints.
+WHY IT MATTERS — TSMC had deliberately delayed High-NA adoption on economics; this is now a formal adoption roadmap from ASML's largest advanced-node customer.
+PORTFOLIO READ — Strong long-duration validation for ASML's High-NA platform; TSM confirms lithography intensity should continue increasing as AI transistor complexity rises.
+INTC / ASML — HIGH-NA EUV NOW RUNNING IN INTEL VOLUME PRODUCTION; >1M WAFERS PROCESSED ACROSS PROGRAM — COMPANY CONFIRMED
+Intel Foundry and ASML say High-NA EUV is currently being used in high-volume manufacturing at Intel.
+Production use — select layers on a subset of Panther Lake / Intel Core Ultra Series 3 processors.
+Program total — >1M wafers processed across tool certification/testing, R&D and volume manufacturing.
+IMPORTANT — >1M is the cumulative High-NA program count; it does NOT mean Intel has produced 1M Panther Lake wafers using High-NA.
+WHY IT MATTERS — Intel is presently ahead of TSMC and Samsung in putting High-NA into actual logic production, providing ASML with real production learning while potentially strengthening Intel Foundry's process differentiation.
+PORTFOLIO READ — Positive INTC manufacturing-execution datapoint and positive ASML installed-base/adoption validation.
+INTC — REPORTED ANOTHER ~10% PC-CPU PRICE INCREASE FOR EARLY OCTOBER — SUPPLY-CHAIN REPORT, NOT COMPANY CONFIRMED
+DigiTimes supply-chain sources say Intel is preparing another roughly 10% PC-CPU increase in early October.
+Intel already raised prices on selected consumer/server CPUs earlier this year.
+Reported strategy — prioritize gross margin/profitability rather than price-for-volume market-share gains.
+Intel shares rallied materially this morning on the combination of the pricing report, an analyst upgrade and the High-NA manufacturing news.
+WHY IT MATTERS — If implemented broadly, this is a direct ASP/gross-margin lever and another signal that CPU supply/demand conditions permit pricing rather than discounting.
+PORTFOLIO READ — Positive INTC margin read-through; potentially gives AMD/QCOM/ARM more room to compete at the lower-price end. Treat the October increase as unconfirmed until Intel formally changes pricing.
+NBIS — PALANTIR NAMES NEBIUS ITS PREFERRED SOVEREIGN AI INFRASTRUCTURE PARTNER — COMPANY CONFIRMED
+Palantir will integrate Nebius compute and inference endpoints inside the Palantir enterprise perimeter.
+Eligible Palantir commercial customers will be able to run open models on Nebius infrastructure while retaining control over compute, models and proprietary data.
+The companies will jointly accelerate new compute capacity, including modular data-center deployments at locations where power is already available.
+Contract value / minimum revenue commitment — NOT disclosed.
+WHY IT MATTERS — This gives Nebius a potentially important enterprise distribution channel beyond the hyperscaler/frontier-lab contracts already in backlog and directly targets growing sovereign/private-AI demand.
+PORTFOLIO READ — Positive NBIS strategic/customer-acquisition signal; do not assign incremental backlog until purchase commitments or economics are disclosed.
+CHINA / SEMICONDUCTOR TRADE — 80.8%-99.2% ANTI-DUMPING DEPOSITS ON JAPANESE DICHLOROSILANE EFFECTIVE TODAY — CHINA MOFCOM CONFIRMED
+Product — ultrapure dichlorosilane/DCS, a semiconductor precursor used in thin-film deposition for logic, memory, analog and other chips.
+Temporary deposit rates — 80.8%-99.2%.
+Shin-Etsu — 99.2%.
+Denal Silane — 80.8%.
+Other Japanese suppliers — 99.2%.
+Effective — Sep. 8 while China's anti-dumping investigation continues.
+WHY IT MATTERS — This is a real new semiconductor trade barrier affecting a critical fabrication chemical, not simply rhetoric.
+PORTFOLIO READ — Immediate direct exposure is concentrated in Chinese fabs importing Japanese DCS rather than these holdings, but it increases China/Japan semiconductor supply-chain friction and reinforces the strategic value of geographically diversified precursor/fab supply.
+MEMORY / EWY — SAMSUNG COMMITS TO HIGH-NA DRAM PRODUCTION BY 2028 — EXTERNAL PORTFOLIO READ-THROUGH, COMPANY CONFIRMED
+Samsung says it plans to introduce ASML High-NA EUV into advanced DRAM high-volume manufacturing by 2028, which it says would be the industry's first High-NA DRAM deployment.
+Samsung is also joining the 12-inch-mask initiative.
+WHY IT MATTERS — High-NA is moving from logic into memory, increasing the prospective lithography/capex intensity of advanced DRAM.
+PORTFOLIO READ — Positive ASML and positive long-term semiconductor-equipment intensity; relevant external read-through for EWY and MU, although this is NOT a Micron disclosure.
+CROSS-PORTFOLIO THEMES
+CUSTOM SILICON — COMPETITION BROADENS AGAIN
+Amazon/QCOM joins the already accelerating custom-XPU ecosystem involving AVGO, MRVL and hyperscaler internal designs.
+The custom-silicon TAM is getting larger, but Qualcomm is now a credible additional bidder rather than merely an edge-AI participant.
+OPTICS / INTERCONNECT — STRUCTURALLY STRONGER
+Amazon and Qualcomm are explicitly collaborating on 1.6T and future optical connectivity alongside customized AI compute.
+That is another hard hyperscaler signal that accelerator growth continues to require disproportionate network-bandwidth growth.
+Demand read-through positive for CRDO, COHR, LITE, MTSI, MRVL and ALAB; competitive intensity also rises as Qualcomm moves into optical DSP/SerDes.
+SEMICONDUCTOR EQUIPMENT — HIGH-NA ADOPTION DE-RISKED
+Intel — in production today.
+Samsung — DRAM target 2028.
+TSMC — advanced-node HVM target 2030.
+The uncertainty is shifting from whether leading fabs adopt High-NA toward how many layers/tools they ultimately require.
+Strongest direct portfolio beneficiary — ASML; positive process-intensity read-through for KLAC/AMAT/LRCX over time.
+U.S. INDUSTRIAL POLICY — GOVERNMENT EQUITY MODEL EXPANDS
+GFS joins the broader trend of federal capital support increasingly including direct equity ownership rather than traditional grants alone.
+This is strategically supportive of domestic manufacturing but creates dilution/governance/resale considerations investors did not historically price into CHIPS funding.
+AI CAPEX / SOVEREIGN AI — POSITIVE
+QCOM/Amazon confirms another hyperscaler custom-compute program.
+NBIS/Palantir expands sovereign-enterprise distribution.
+Neither item suggests physical AI infrastructure demand is slowing.
+POWER AVAILABILITY — STILL THE DEPLOYMENT FILTER
+Nebius/Palantir specifically highlight modular capacity at sites where power is already available.
+That language reinforces the portfolio thesis that immediately usable MW matter more than headline pipeline GW.
+RATES / FINANCING — HEADWIND INCREASES MARGINALLY
+10Y Treasury — approximately 4.8% this morning.
+Brent — roughly $98-$99/bbl and briefly approached $100.
+No new AI-specific financing structure was identified, but oil/inflation pressure continues raising the hurdle rate for CRWV, IREN, NBIS, ORCL and other capital-intensive deployments.
+DATA-CENTER POLITICAL RISK — NO NEW HOLDING-SPECIFIC LAW/RULE
+New reporting today shows data centers becoming a larger midterm-election issue, but I found no new enacted state/grid rule since the prior scan that materially changes a specific holding's economics.
+NUCLEAR / POWER — NO NEW MATERIAL HOLDING-SPECIFIC EVENT
+No new VST, CEG, TLN, BWXT, GEV, SMR, OKLO or ETR contract, NRC/FERC ruling, financing or project milestone crossed the threshold since the prior scan.
+OKLO's PJM/FERC interconnection dispute remains unresolved.
+CRITICAL MINERALS — NO NEW MATERIAL HOLDING-SPECIFIC EVENT
+No new ALOY, UUUU, USAR or MP filing/contract/policy event crossed the threshold since the prior scan.
+NO OTHER MATERIAL NEW HOLDING-SPECIFIC DEVELOPMENT FOUND
+NVDA, ASX, MCHP, KLAC, ON, MRVL, AVGO, AMD, NXPI, TXN, LRCX, DELL, ADI, AMAT, CRDO, MU, ALAB, TER, MTSI, MPWR, ALOY, UUUU, USAR, MP, VST, CEG, TLN, BWXT, GEV, SMR, OKLO, ETR, RNW, RIVN, IREN, QRVO, CRWV, ORCL, SWKS, EWY, COHR, ARM, LITE.
+BOTTOM LINE
+Today's largest portfolio change is QCOM: Amazon is giving Qualcomm a real entry point into hyperscaler custom AI silicon AND optical networking, with the warrant structure economically tied to potentially very large purchase volumes.
+Second is the semiconductor manufacturing roadmap: Intel is already running High-NA in production, Samsung targets DRAM in 2028 and TSMC has now formally committed for 2030. That materially de-risks ASML's High-NA adoption curve.
+Third is government capital structure: GFS's new SEC filing confirms direct U.S. government equity ownership alongside the $375M quantum-manufacturing award.
+AI demand remains strong; the constraints continue migrating toward power, financing, fabrication intensity and interconnect rather than lack of compute demand.
+
+Qualcomm’s company announcement confirms the multi-generation Amazon collaboration covering customized AI silicon, inference and optical connectivity through 1.6T and future generations. Its SEC 8-K is more important financially: Amazon received a warrant for up to 25,000,000 shares at $161.26, with 3.75M immediately vested and further vesting tied to orders and actual purchases, up to a $60B maximum payment threshold. The filing does not call $60B a committed order.  Qualcomm-Amazon announcement⁠￼ Qualcomm SEC 8-K⁠￼
+
+GlobalFoundries’ new SEC 6-K says it agreed to issue the Department of Commerce 9,907,399 shares at $37.85, with voting/transfer restrictions and resale registration rights. GFS separately confirmed a milestone-based $375M, five-year CHIPS R&D award for its Quantum Technology Solutions program.  GlobalFoundries SEC 6-K⁠￼ GFS quantum award announcement⁠￼
+
+Intel’s official update says High-NA is already being used in high-volume manufacturing on selected Panther Lake layers and that more than one million wafers have passed through the broader High-NA program encompassing certification, R&D and production.  Intel-ASML High-NA update⁠￼ The separate report of another roughly 10% Intel PC-CPU price increase in October comes from supply-chain sources and has not been confirmed by Intel. 
+
+TSMC and ASML’s announcement sets a 2030 High-NA HVM target for TSMC, a 2031 12-inch-mask pilot line and 2033 system readiness for production using the larger masks.  Samsung separately confirmed it plans to use High-NA for advanced DRAM HVM by 2028. 
+
+Nebius confirmed that Palantir has named it its preferred sovereign AI infrastructure partner, including plans to bring additional modular capacity online at sites where power is already available; no contract value or minimum purchase commitment was disclosed.  Nebius-Palantir announcement⁠￼
+
+China’s Ministry of Commerce officially confirmed preliminary dumping margins of 80.8%-99.2% on Japanese dichlorosilane and temporary anti-dumping measures effective September 8.  China MOFCOM announcement⁠￼
+
+The macro backdrop remains restrictive rather than providing a new discrete policy shock: Brent has traded around $98-$99, while the U.S. 10-year yield is around 4.8%.
