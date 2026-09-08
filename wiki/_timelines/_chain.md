@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **872 dated entries · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 11:15 PDT**
+> **874 dated entries · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 14:51 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -902,8 +902,10 @@
 - `2026-09-07` **[5]** compression-thesis.md:L3017 — 2026-09-07 ~1:20pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS "TPU INFERENCE EXTERNALIZATION FULL STEAM AHEAD" (InferenceX Official Preview, Sept 7; Jake's PDF `raw/2
 - `2026-09-08` **[1]** rates-board.md:L2693 — 2026-09-08 ~8:10am PDT — ✅⛔⭐⭐⭐⭐⭐ **NY FED SURVEY (registered item, resolved): 1Y 3.58% (unch from 3.6) · 3Y 3.19% (from 3.3) · 5Y 3.01% (unch). THE TE
 - `2026-09-08` **[1]** rates-board.md:L2715 — 2026-09-08 ~11:20am PDT — ✅⭐⭐⭐⭐⭐ **THE 3Y CLEARS WELL (registered item), BESSENT PRE-EMPTIVELY DISCLAIMS HIS OWN TOOL, AND DEUTSCHE BANK'S COUNTER-THE
+- `2026-09-08` **[1]** rates-board.md:L2733 — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐ **CLOSE: THE PRE-REGISTERED BREAKEVEN TEST SHOWED UP THREE DAYS EARLY, AND THE 3Y's STRENGTH WAS ENTIRELY DOMESTIC** *(
 - `2026-09-08` **[1]** new-economy-regime.md:L4962 — 2026-09-08 ~8:40am PDT — ⭐⭐⭐⭐⭐ **WASHINGTON TAKES DIRECT EQUITY IN QUANTUM: D-WAVE AND RIGETTI FINALISE $100M CHIPS DEALS TODAY — AND THE D-WAVE ARITH
 - `2026-09-08` **[3]** ai-financing-fragility.md:L7752 — 2026-09-08 ~6:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE LABS ARE TRYING TO CROSS FROM STRUCTURED CREDIT INTO THE IG BOND MARKET: BANKERS FOR OPENAI *AND* ANTHROPIC ARE 
 - `2026-09-08` **[3]** ai-financing-fragility.md:L7767 — 2026-09-08 ~8:40am PDT — ✅⭐⭐⭐⭐⭐⭐ **QUALCOMM×AMAZON IS THE THIRD "WARRANTS-FOR-VOLUME" DEAL AND THE VAULT PRE-REGISTERED THE PATTERN. RUN THROUGH THE D
+- `2026-09-08` **[3]** ai-financing-fragility.md:L7791 — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐⭐ **THE FT DETAIL THAT CHANGES HOW THIS NOTE READS NVDA'S LARGEST EXPOSURE: THE $105B SB ENERGY SUPPORT IS STRUCTURED TO
 - `2026-09-08` **[3]** balance-sheet-board.md:L811 — Addendum 2026-09-08 ~6:45am PDT — **ORCL INTO TONIGHT: THE NEW LINE IS "NO FURTHER DEBT ISSUANCE DURING CALENDAR 2026," AND IT COLLIDES WITH THE $3.3B
 - `2026-09-08` **[5]** metered-compute.md:L3395 — Addendum 2026-09-08 ~11:20am PDT — **TWO ITEMS THAT UPDATE THE 9/7 FOUR-MARKET STRUCTURE, ONE OF THEM AGAINST IT** *(gopher digest, `raw/2026-09-08-go
