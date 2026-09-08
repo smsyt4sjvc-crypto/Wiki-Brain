@@ -1,6 +1,6 @@
 # ⏱ MODEL-ECON — merged timeline (the gate)
 
-> **191 dated entries across 2 notes · 2026-07-16 → 2026-09-07 · refreshed 2026-09-08 08:39 PDT**
+> **192 dated entries across 2 notes · 2026-07-16 → 2026-09-08 · refreshed 2026-09-08 11:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -210,3 +210,4 @@
 - `2026-09-04` [compression-thesis.md:L3015](../compression-thesis.md) — Addendum 2026-09-04 ~1:25pm PDT — ⭐⭐⭐⭐ **THE AI CAPEX BOOM'S OWN SECTOR IS SHEDDING JOBS: INFORMATION PAYROLLS −23K IN AUGUST, THE LARGEST SINGLE DRAG
 - `2026-09-07` [compression-thesis.md:L3017](../compression-thesis.md) — 2026-09-07 ~1:20pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS "TPU INFERENCE EXTERNALIZATION FULL STEAM AHEAD" (InferenceX Official Preview, Sept 7; Jake's PDF `raw/2
 - `2026-09-07` [metered-compute.md:L3370](../metered-compute.md) — 2026-09-07 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **WEEKLY TOKEN REPORT (w/e 9/6) + JAKE'S SEGMENTATION QUESTION: THE FRONTIER LIST PRICE WENT *UP* THROUGH THE AUGUST D
+- `2026-09-08` [metered-compute.md:L3395](../metered-compute.md) — Addendum 2026-09-08 ~11:20am PDT — **TWO ITEMS THAT UPDATE THE 9/7 FOUR-MARKET STRUCTURE, ONE OF THEM AGAINST IT** *(gopher digest, `raw/2026-09-08-go

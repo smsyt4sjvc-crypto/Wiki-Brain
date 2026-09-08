@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **172 dated entries across 2 notes · 2026-07-01 → 2026-09-08 · refreshed 2026-09-08 08:39 PDT**
+> **173 dated entries across 2 notes · 2026-07-01 → 2026-09-08 · refreshed 2026-09-08 11:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -191,3 +191,4 @@
 - `2026-09-07` [war-board.md:L4627](../war/war-board.md) — 2026-09-07 ~11:25am PDT — ⭐⭐⭐⭐⭐⭐ **gCAPTAIN SHIPPING INDEX (Jake's link; 21 items, 5 bodies pulled → `raw/2026-09-07-gcaptain-shipping-bodies.txt`): S
 - `2026-09-07` [war-board.md:L4646](../war/war-board.md) — 2026-09-07 ~8:15pm PDT — ⭐⭐⭐⭐⭐ **REUTERS IRAN-WAR LIVE INDEX (Jake's PDF, page captured 8:08pm PT, `raw/2026-09-07-reuters-iran-war-live-page.pdf/.txt
 - `2026-09-08` [war-board.md:L4674](../war/war-board.md) — 2026-09-08 ~6:45am PDT — ⛔⭐⭐⭐⭐⭐ **US-OPEN BRIEF vs THE PRIMARY I PULLED YESTERDAY: THE WEEKEND KPLER COUNTS DO NOT MATCH, AND THE "DARK CROSSINGS RECO
+- `2026-09-08` [war-board.md:L4695](../war/war-board.md) — 2026-09-08 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **VITOL'S CEO PUTS HORMUZ CRUDE FLOW AT ~10 mb/d AND CALLS IT "IMPROVED" — A FIFTH NUMBER ON THE BOARD'S MOST CONTEST

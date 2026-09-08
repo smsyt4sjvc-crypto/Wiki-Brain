@@ -1,6 +1,6 @@
 # ⏱ INVENTORY — merged timeline (the gate)
 
-> **145 dated entries across 1 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-08 08:39 PDT**
+> **146 dated entries across 1 notes · 2026-03-13 → 2026-09-08 · refreshed 2026-09-08 11:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -170,3 +170,4 @@
 - `2026-09-03` [demand-destruction.md:L4047](../demand-destruction.md) — 2026-09-03 ~10:00pm PDT — ⭐⭐⭐⭐⭐⭐ **THE NOTE'S TITLE THESIS, QUANTIFIED BY ITS FORECASTERS — AND IT RESOLVES THE OIL REGIME'S CENTRAL PUZZLE. THIS ALSO
 - `2026-09-04` [demand-destruction.md:L4076](../demand-destruction.md) — 2026-09-04 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐ **ZH SCAN: JAKE'S REFINERY MECHANISM CONFIRMED VERBATIM BY THE SOURCE, AND RUSSIA'S TWO EXPORT GRADES NOW TRADE ~$44 A
 - `2026-09-07` [demand-destruction.md:L4093](../demand-destruction.md) — 2026-09-07 ~5:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE 8/31 CALL CONFIRMS ON A SECOND INSTRUMENT AND THE DIFFERENTIAL HAS REACHED THE BENCHMARK: SHANGHAI CRUDE >$100 A
+- `2026-09-08` [demand-destruction.md:L4113](../demand-destruction.md) — ⛔ CORRECTION 2026-09-08 ~11:15am PDT — **I FILED GOLDMAN'S $120 AS THEIR CALL. IT IS THEIR STRESS SCENARIO. THEIR BASE CASE IS BRENT ~$85 BY DEC-2026 

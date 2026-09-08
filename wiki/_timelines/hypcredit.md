@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **319 dated entries across 3 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 08:39 PDT**
+> **320 dated entries across 3 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 11:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -347,3 +347,4 @@
 - `2026-09-08` [ai-financing-fragility.md:L7752](../ai-financing-fragility.md) — 2026-09-08 ~6:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE LABS ARE TRYING TO CROSS FROM STRUCTURED CREDIT INTO THE IG BOND MARKET: BANKERS FOR OPENAI *AND* ANTHROPIC ARE 
 - `2026-09-08` [ai-financing-fragility.md:L7767](../ai-financing-fragility.md) — 2026-09-08 ~8:40am PDT — ✅⭐⭐⭐⭐⭐⭐ **QUALCOMM×AMAZON IS THE THIRD "WARRANTS-FOR-VOLUME" DEAL AND THE VAULT PRE-REGISTERED THE PATTERN. RUN THROUGH THE D
 - `2026-09-08` [rates-board.md:L2693](../rates-board.md) — 2026-09-08 ~8:10am PDT — ✅⛔⭐⭐⭐⭐⭐ **NY FED SURVEY (registered item, resolved): 1Y 3.58% (unch from 3.6) · 3Y 3.19% (from 3.3) · 5Y 3.01% (unch). THE TE
+- `2026-09-08` [rates-board.md:L2715](../rates-board.md) — 2026-09-08 ~11:20am PDT — ✅⭐⭐⭐⭐⭐ **THE 3Y CLEARS WELL (registered item), BESSENT PRE-EMPTIVELY DISCLAIMS HIS OWN TOOL, AND DEUTSCHE BANK'S COUNTER-THE
