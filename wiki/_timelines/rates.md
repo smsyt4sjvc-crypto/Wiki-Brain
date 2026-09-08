@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **393 dated entries across 3 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 15:26 PDT**
+> **394 dated entries across 3 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 15:38 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -414,6 +414,7 @@
 - `2026-09-07` [rates-board.md:L2660](../rates-board.md) — Addendum 2026-09-07 ~5:30pm PDT — ⭐⭐⭐⭐⭐ **BofA VIA ZH (Jake's chart, `raw/2026-09-07-bofa-treasury-maturity-profile-debt-gdp-feedback.png`): "$7T OF B
 - `2026-09-07` [rates-board.md:L2676](../rates-board.md) — Addendum 2026-09-07 ~8:55pm PDT — **THE JPMAM CHART REPRINTS (Sept 7 data) WITH CEMBALEST'S FULL TEXT — $303bn IN TEN-YEAR EQUIVALENTS = 68% OF TREASU
 - `2026-09-08` [market-fragility.md:L4488](../market-fragility.md) — 2026-09-08 ~3:30pm PDT — ⭐⭐⭐⭐⭐ **JAKE'S THESIS: "THE JUN-AUG CHOP IS RESOLVING INTO A REALIZED MW/VOLUME-DRIVEN SOFTWARE AND CHIP CYCLE FASTER THAN WE
+- `2026-09-08` [market-fragility.md:L4506](../market-fragility.md) — Addendum 2026-09-08 ~3:40pm PDT — **JAKE SHARPENS THE THESIS, AND ONE DISTINCTION IN IT IS NEW TO THE VAULT. MY 3:30pm PUSHBACK #1 IS PARTLY WITHDRAWN
 - `2026-09-08` [new-economy-regime.md:L4962](../new-economy-regime.md) — 2026-09-08 ~8:40am PDT — ⭐⭐⭐⭐⭐ **WASHINGTON TAKES DIRECT EQUITY IN QUANTUM: D-WAVE AND RIGETTI FINALISE $100M CHIPS DEALS TODAY — AND THE D-WAVE ARITH
 - `2026-09-08` [rates-board.md:L2693](../rates-board.md) — 2026-09-08 ~8:10am PDT — ✅⛔⭐⭐⭐⭐⭐ **NY FED SURVEY (registered item, resolved): 1Y 3.58% (unch from 3.6) · 3Y 3.19% (from 3.3) · 5Y 3.01% (unch). THE TE
 - `2026-09-08` [rates-board.md:L2715](../rates-board.md) — 2026-09-08 ~11:20am PDT — ✅⭐⭐⭐⭐⭐ **THE 3Y CLEARS WELL (registered item), BESSENT PRE-EMPTIVELY DISCLAIMS HIS OWN TOOL, AND DEUTSCHE BANK'S COUNTER-THE

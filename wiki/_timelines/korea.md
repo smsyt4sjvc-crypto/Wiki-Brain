@@ -1,6 +1,6 @@
 # ⏱ KOREA — merged timeline (the gate)
 
-> **124 dated entries across 1 notes · 2026-07-01 → 2026-09-08 · refreshed 2026-09-08 15:26 PDT**
+> **125 dated entries across 1 notes · 2026-07-01 → 2026-09-08 · refreshed 2026-09-08 15:38 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -143,3 +143,4 @@
 - `2026-09-06` [market-fragility.md:L4456](../market-fragility.md) — 2026-09-06 ~11:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE PER-NAME ANSWER (Jake's Colab run, `raw/2026-09-06-megacap-pe-before-rips-colab-output.txt`): TRAILING P/E CARR
 - `2026-09-06` [market-fragility.md:L4480](../market-fragility.md) — Addendum 2026-09-06 ~11:55pm PDT — **JAKE'S READ ON THE STUDY, FILED AS THESIS WITH THE PUSHBACK ATTACHED — AND SIX GRADES INITIALISED UNDER THE NEW U
 - `2026-09-08` [market-fragility.md:L4488](../market-fragility.md) — 2026-09-08 ~3:30pm PDT — ⭐⭐⭐⭐⭐ **JAKE'S THESIS: "THE JUN-AUG CHOP IS RESOLVING INTO A REALIZED MW/VOLUME-DRIVEN SOFTWARE AND CHIP CYCLE FASTER THAN WE
+- `2026-09-08` [market-fragility.md:L4506](../market-fragility.md) — Addendum 2026-09-08 ~3:40pm PDT — **JAKE SHARPENS THE THESIS, AND ONE DISTINCTION IN IT IS NEW TO THE VAULT. MY 3:30pm PUSHBACK #1 IS PARTLY WITHDRAWN
