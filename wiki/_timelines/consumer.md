@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **444 dated entries across 6 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-07 17:32 PDT**
+> **445 dated entries across 6 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-07 18:04 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -469,3 +469,4 @@
 - `2026-09-06` [market-fragility.md:L4480](../market-fragility.md) — Addendum 2026-09-06 ~11:55pm PDT — **JAKE'S READ ON THE STUDY, FILED AS THESIS WITH THE PUSHBACK ATTACHED — AND SIX GRADES INITIALISED UNDER THE NEW U
 - `2026-09-07` [demand-destruction.md:L4093](../demand-destruction.md) — 2026-09-07 ~5:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE 8/31 CALL CONFIRMS ON A SECOND INSTRUMENT AND THE DIFFERENTIAL HAS REACHED THE BENCHMARK: SHANGHAI CRUDE >$100 A
 - `2026-09-07` [new-economy-regime.md:L4924](../new-economy-regime.md) — Addendum 2026-09-07 ~9:40am PDT — **ZH SCAN: (1) COPPER — US SEABORNE IMPORTS 200kt IN JULY (record), LME NEAR RECORDS, ~$14,450/t AT 8/30; BRADESCO: 
+- `2026-09-07` [new-economy-regime.md:L4928](../new-economy-regime.md) — 2026-09-07 ~6:05pm PDT — ⭐⭐⭐⭐⭐ **UMICH 1-YEAR EXPECTATIONS SPLIT BY STOCKHOLDINGS (Jake's chart, Aug 28 2026 vintage, `raw/2026-09-07-umich-inflation-
