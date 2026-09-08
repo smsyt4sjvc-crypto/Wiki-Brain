@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **865 dated entries · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 20:53 PDT**
+> **865 dated entries · 2026-02-10 → 2026-09-07 · refreshed 2026-09-08 06:28 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain

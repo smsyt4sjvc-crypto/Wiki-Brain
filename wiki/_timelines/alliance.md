@@ -1,6 +1,6 @@
 # ⏱ ALLIANCE — merged timeline (the gate)
 
-> **358 dated entries across 3 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-07 20:53 PDT**
+> **358 dated entries across 3 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-08 06:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before

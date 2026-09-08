@@ -1,0 +1,604 @@
+                                       Forwarded this email? Subscribe here for more
+
+
+You are reading AI Supremacy, where we explore AI at the intersection
+of business, society, work, culture and technology.
+
+
+                              Read it on the Web
+
+
+
+
+GPT-6 Astra’s Achilles Heel, Trust
+in OpenAI is Fading
+GPT-6 Astra’s get out of jail card: OpenAI’s imminent IPO has so
+many legal risks, it’s adding up. The Hugging Face incident is
+highly concerning.
+MICHAEL SPENCER
+SEP 8
+
+
+
+
+                                                                 READ IN APP
+
+
+
+
+The OpenAI agent Hacking Crisis Demonstrates a lack of
+Trust and Safety Alignment Pre IPO.
+[ Editor’s Note: Please see the links at the end of the article to
+understand quickly the OpenAI Hugging Face incident. ]
+
+Good Morning,
+
+I’ve been observing the latest dramas and lawsuits around OpenAI, a
+topic I’m not totally unfamiliar with. Our final third biggest AI related IPO
+(Anthropic is set for a mid October IPO) has a growing list of issues it
+needs to deal with to seem like a credible company. SpaceX, Anthropic
+and finally OpenAI - the historic IPOs of the AI boom. Time will tell? But
+OpenAI is becoming the epicenter of why people dislike Generative AI
+in the American population. Rogue Agents anyone? Mark Gurman knows
+the score.
+
+It’s hard to ignore Sam Altman’s OpenAI not involved in controversy in
+2026, or for that matter basically since 2020. The recent Apple lawsuit
+looks extremely damming, where OpenAI is being accused of stealing
+trade secrets. More details are emerging. Without getting into too much
+detail, Apple now alleges that formerly employee Chang Liu used a
+confidential Apple circuit schematic in his work at OpenAI, as well as a
+tool that shares a name with an internal Apple engineering application.
+
+    Hey there, I’m Mike. Each week I share AI articles at the intersection
+of tech, business, society and the future. If you want to support the
+channel or gain full-access to my work, go here. Read Archives | See
+Substack Notes | Visit our community Chat | Visit Homepage. The AI
+risks aren’t just alignment and cybersecurity risks, but the actual
+impacts of the technology on society we are witnessing since late 2022.
+But let’s talk a little about the OpenAI Hugging Face incident too.
+
+
+                               Get Full Access
+
+
+
+OpenAI’s lack of Alignment, Trust and Safety
+looks Expensive
+But it’s on the Trust, Safety and Alignment front that OpenAI’s conduct is
+most worrisome. It now appears that the OpenAI Hugging Face (July,
+2026) incident was just one occurence in a pattern of cybersecurity
+mayhem and rogue activities by OpenAI’s agents. OpenAI pointed their
+systems towards a security benchmark, called ExploitGym, and the
+system essentially tried to solve the benchmark by trying to find the
+answers on HuggingFace. Suffice to say that this is not the kind of
+publicity you want to have months and and mere quarters before a mega
+IPO.
+
+
+GPT-6 Astra is a Cybersecurity Hacking Risk
+OpenAI have single-handled introduced and unleashed a new rogue AI
+debate on the internet in the Fall of 2026 (Early September). While
+OpenAI insists that its new GPT-6 Astra model is the most aligned yet,
+it’s considerably harder to track and monitor. GPT-6 Astra is vastly
+harder to track and monitor because of changes in how it reasons and
+processes information, leading to a significant drop in chain-of-thought
+monitorability using things like Opaque Recurrence, alarming saftey
+researchers. While OpenAI have been insinuating GPT-6 is actually proof
+of AGI. If you are claiming AGI and making your models unknowable
+(Axios), we may have a global problem with how U.S. AI closed-source
+models are being rolled-out.
+
+
+GPT-5 Astra will be Less Trackable and Knowable
+OpenAI’s new Astra model uses a reasoning technique called “recurrent
+depth” that allows it to operate outside of the sequential thinking that
+characterizes most reasoning models, The Information had recently
+reported. Astra is essentially skipping steps meaning it’s more difficult
+to read and obviously align. For instance, as the model has grown more
+intelligent, it handles complex reasoning steps internally or with far
+fewer language tokens. Because it bypasses the need to write out
+every granular step, the traditional safety safety-net of reading a clear
+"thought process" becomes less reliable. How is that a good thing if you
+care about Trust and Safety, nevermind bigger issues of alignment?
+
+
+Is OpenAI a “Blackhat” Institution?
+If Generative AI hit an inflection point for coding in 2025 (Anthropic), this
+year might be the year we learned how disruptive LLMs could be in
+cybersecurity and OpenAI is significantly accelerating the timeline for
+these risks. I don’t know what Marvin Minsky would say about this, or if
+anthropomorphizing OpenAI’s hack of Hugging Face as an ‘AI
+Civilization’ debate is useful, this does not feel like a great pitch for a
+company about to go public. The litany of lawsuits against OpenAI is
+worrisome, for a company that has raised so much and been propped up
+so readily by BigTech - you almost have to question the legality of what
+they are doing and introducing into the world. Clearly in the macro
+picture U.S. AI regulation is failing to bordering on non-existent in any
+legal or legitimate sense. The Trump Administration and his backers
+have made sure of that. We have to admit there’s a possibility OpenAI
+isn’t just the heart of the AI bubble (in terms of finances & ROI) but is a
+rogue (blackhat) company on a longer term horizon in the AI alignment
+spectrum of history.
+
+OpenAI hasn’t achieved AGI in any credible sense but it is doing fear
+mongering on the synthetic civilization risk debate. GPT-6 Astra is an AI
+interpretability nightmare.
+
+
+
+
+                                    Source.
+
+
+
+Listening to AI researchers on X, you get an idea of how neglectful
+OpenAI has been on trust. But there’s also a political and National
+security aspect to this:
+
+
+Different Rules for OpenAI and Anthropic
+While Anthropic remains contested as a supply-chain risk for the military
+even though a federal judge recently declared the Pentagon's ban illegal,
+but OpenAI gets a free pass? Why is that again? The U.S. is meeting with
+China mid month to discuss AI saftey, but there’s a serious lack of
+accountability with OpenAI at home. And, it’s only going to get worse.
+
+Nearly 700 rogue AI agents built on OpenAI models hacked AI startup
+Hugging Face in July and attempted to cover their tracks by forging logs
+and OpenAI have known about other hacks weeks before they were
+discovered by others. Sydney Von Arx, CEO of AI safety nonprofit
+Nightingale, and Cormac Slade Byrd, a quantitative trader-turned AI
+researcher uncovered the activity in late August while scouring the
+internet for signs of unauthorized AI-agent behavior found more than
+15,000 edits carried out by AI agents on a German-language wiki site,
+DseWiki, that is geared toward programmers and accepts communal
+edits along the lines of Wikipedia. What else does OpenAI know that they
+are not disclosing?
+
+Do you see why I’m a little bit uncomfortable by all of this as a
+continuation of OpenAI’s pattern of conduct? The OpenAI Hugging Face
+incident can be understood by various deep dives including METR and
+Redwood Research who released an (apparently) independent
+investigation with certain details about what the AI agents had actually
+done. If you are working alongside OpenAI researchers on this, by
+definition - it’s not an independent investigation. METR frequently
+collaborates with OpenAI. Dustin Moskovitz (one of the primary
+billionaire backers behind Open Philanthropy), the organization behind
+METR has ties including financial ones to Sam Altman that span over a
+decade. In a country that doesn’t value AI regulation, there is little to no
+accountability for OpenAI here.
+
+
+Peddling Rogue Agents Masquerading as AGI: The
+Astra Problem
+OpenAI can unleash swarms of Rogue agents with almost no
+consequences at all, but instead go viral on X and be a business op for
+various AI researchers and related alignment and AI policy characters to
+hop on a Podcast or get more engagement. All the while, framing Astra
+as borderline AGI. Is this really the publicity you want to spread when
+the public is having a crisis in AI sentiment, protesting datacenters and
+is generally less favorable to AI, BigTech, Silicon Valley and their
+interests in Washington and in the Trump Administration than ever
+before? There’s a crisis of cybersecurity and a crisis of AI
+sentiment, and Sam Altman may be pushing the boundaries of both on
+purpose. Nobody is that incompetent to unleash this PR on purpose?
+OpenAI has a long history of variously dubious publicity stunt &
+marketing.
+We know that GPT-6 Astra is more dangerous, not less. Internal safety
+evaluations have revealed that Astra has higher capability in
+managing and controlling what actually appears in its visible
+outputs and reasoning logs, making it more difficult to catch subtle
+forms of policy evasion or unintended behavior through text oversight
+alone. Sounds a bit like Sam Altman in his angel investing activities and
+conflicts of interest at OpenAI. Who needs fear mongering when you are
+releasing more dangerous models into the wild and calling them
+romantic names like “Astra”? This is the kind of cyberpunk dystopia that
+should stay in a science fiction novel.
+
+
+    “We have now reached the long awaited
+    moment when, instead of models cheating
+    where they will inevitably get caught, Astra
+    goes 'wait a minute I would obviously be caught
+    here' and then doesn't cheat.” - Zvi
+    Mowshowitz, source.
+
+
+
+
+OpenAI is Trying to Desensitize the AI risk Debate
+I don’t know how exactly to describe this Cybersecurity, public trust and
+agent alignment dilemma (or even the buzz around its digital debate
+equivalent spill-over), but I’m fairly certain it’s going to get worse. AI
+safety researchers are now arguing with greater urgency that
+serious incidents should result in independent post-incident
+investigations rather than leaving it up to the labs to determine when
+outsiders are brought in and what they are allowed to examine. And they
+are right, but since when have OpenAI ever listened to its AI researchers
+around trust, saftey or alignment? These people have been fired,
+underfunded and have left in multiple waves if you’ve been following
+OpenAI since 2022. Neither BigTech or Washington are going to let
+anything happen to OpenAI, because there’s too much money involved.
+And to point out the obvious, OpenAI not prioritizing trust, saftey and
+alignment earlier is going to cost them a lot of capital.
+
+
+A Total Lack of Accountability and Integrity
+Sam Altman is saying that models are becoming "superhuman" in some
+capabilities and that "we are just sailing in unknown waters." While
+OpenAI hasn’t done the due diligence or done the necessary work to
+make sure its products are safe or aligned. While burning huge amounts
+of cash on highly questionable things and directions, apparently trust
+and saftey were not a major priority? Which of course led to Anthropic
+being formed. Now fast forward a few years and the top leaders of AI
+companies are sounding the alarm on their own technology just as it
+gets harder to understand a model's actions, while deliberately releasing
+unsafe products and celebrating their benchmark gamed capabilities.
+This isn’t just deceptive, it’s bordering on criminal if you take AI risk at all
+seriously. The U.S. has willfully neglected any rule of law around such
+activities and has strongly discouraged other Nations from AI
+regulations that could slow them down commercially.
+
+
+Generative AI cycle adds to National $40 Trillion
+Debt
+Capex and margin debt for the AI infrastructure rollout is going to be
+expensive for future generation. The bond yields volatility we have seen
+in recent weeks is a sign of things to come. You have $40 Trillion in
+National Debt and you are now leading AI risks and climate debt into the
+oblivions of imperial dystopia. All of this AGI-maxing and cyberpunk
+rogue AI risk is and was, entirely preventable. It didn’t have to be this
+way. Until it won’t be possible to contain in some hypothetical future the
+ways things are going, and how soon might that be do you suppose? Do
+we need a disaster to have a wake-up call? This is not the slant on AGI I
+was hoping for back in 2022 when I too was personally excited about
+GPT-3.5 in November almost four years ago. If I only knew then what I
+know now. Not only wouldn’t Generative AI live up to my expectations
+but it would bring with it harms to inflation, the labor market and our
+concepts of justice and rule of law.
+
+
+Investing and Growing Up in the OpenAI Bubble
+The Trump Administration and OpenAI are making a mockery of AI risk,
+trust, saftey and AI regulation. OpenAI is obviously the key risk in the
+AI bubble. And for investors in the IPO this could all blow up quite
+literally in 2027. The monstrosity that is Sam Altman and OpenAI
+continue and it’s difficult to reconcile what OpenAI becomes and what
+real costs it will have on society and civilization. Few people are saying
+the obvious out loud. Lower literacy, skills disruption, chatbot addiction
+and harms to education are just the beginning. Now we have to contest
+in a world with rogue agents. GPT-6 Astra might be the beginning of not
+a brave AGI (moving the goalposts) world, but instead a darker world
+with more corruption, ambiguity and backdroom deals like we have seen
+in Washington with the Trump Administration. While the United States is
+maniacal on winning the race, it’s fairly clear it’s not going to be aligned.
+
+
+Is Generative AI Turning young people into NEETs?
+Don’t ask the Federal Reserve (they don’t know), but the impact of AI on
+inflation and the labor market is not anywhere near positive. The impact
+of AI on productivity is not showing up in the data four years later. In the
+labor market we are seeing more young people drop out of working.
+NEETs is a labor market and socioeconomic acronym standing for Not in
+Education, Employment, or Training. Young people in College are literally
+changing their areas of study just based on how they think AI will
+develop by the time they graduate. While the U.S. labor market looks
+particularly weak in hiring. OpenAI is now conducting Ads to their
+hooked young users who somehow are still using ChatGPT while
+insinuating that this is helping access to AI. To say that AI is heavily
+disrupting the bottom rungs of the job market and fueling intense
+economic anxiety among Gen Z and the younger Alpha cohort growing
+up, would be an understatement. The U.S. is solidifying a K-economy
+that has an underclass that will fight AI every step of the way now. As for
+OpenAI, they lead in fueling conditions for a backlash against Silicon
+Valley.
+
+Generative AI’s impact on the macro economic and labor market picture
+is what concerns me perhaps the most. Higher inflation, less hiring,
+more anxiety and a serious lack of ROI compared to the debt, capex
+and consequent AI bubble. A cycle that’s clearly designed for the
+privileged (stock market manipulation) and not designed around the end
+users or even the companies. A cycle where higher Earnings masks
+dangerous centralization and a misuse of capital. It’s no longer what Ilya
+saw, but what Astra did. The public or AI researcher community clearly
+isn’t being given all the information.
+
+You don’t have to be a cybersecurity or AI researcher to realize that
+OpenAI is not being run like a good or well-meaning company or that its
+products are doing more good and showing more benefits than
+harm to society. OpenAI’s IPO is in danger. With all of OpenAI’s
+precocious claims of AGI and mock commercial ownership of this
+distinction - amounts to incredibly fraudulent and low-brow marketing in
+the extreme. But let’s let the market decide, OpenAI will go public in
+2027 and OpenAI will keep making mistakes culminating in even more
+lawsuits and trying to cover up the cybersecurity incidents its models
+are now infamous for and again attempt to frame them as a PR misstep.
+
+A huge Comms and PR team that OpenAI weaponizes means they have a
+lot of experience and talent in that domain, but this is not how you win a
+winning company profile or conduct pre-IPO business performance.
+They haven’t made the best LLMs for quite some time. As we continue to
+watch the AI domain, OpenAI is the weak link in a rather unimpressive
+Generative AI hype cycle beginning to fall into malaise and questions
+around circular financing, margin debt and capital constraints. The real
+world reality and declining AI sentiment actually matters. OpenAI to date
+has raised $180 Billion and is very very far from profitability. If you don’t
+deliver ROI and have poor product execution your fate is as good as
+sealed in the scrutiny and pressure to come. Agent cybersecurity
+worries and a blackhat heritage in trust and saftey does make it all seem
+worse though. Maybe it’s time to realize that firing Sam Altman is the
+right thing after all.
+
+    Only 9% of Americans, or about 1 in 10, believe that AI’s impact on
+    society will do more good than harm, according to a new poll from
+    Monmouth University.
+
+
+
+
+While in September Nvidia’s Jensen Huang assures us that AGI has been
+achieved, the reality is Americans and ordinary people in the world
+don’t want it. Back in February, 2026 only 9 percent of Americans
+believe that Generative AI will do more good than harm to society,
+according to recent polling data from Gallup News. What do you
+suppose that number is now as datacenter moratoriums have
+accelerated all over the map? Astra as sabotaging AI explainability is
+going to be incredibly unpopular. Now when I think of GPT-6 Astra, I just
+think of the Hugging Face incident (the benchmarks are gamed).
+
+
+Around the Horn on the OpenAI Hugging Face
+Incident
+Of course if you want to better understand the OpenAI incident involving
+Hugging Face and how Generative AI makes cybersecurity more
+dangerous, it is possible, although we don’t have real transparency
+either.
+
+There are certain voices where Alignment is literally their jam like
+Zvi Mowshowitz, so their take should hold more weight. It’s hard to find
+credible articles on this difficult topic (vs. engagement baiting like the
+YouTuber) that have a long-term and macro insights on the ramifications
+here:
+     5 lessons from the OpenAI / Hugging Face incident
+
+     HuggingFace Attack Postmortem: Civilizations, Reactions and
+     Next Actions
+
+     An Alien Mind, by OpenAI’s Chief Scientist.
+
+     The Rise and Fall of Agent Civilizations.
+
+     OpenAI thought it was testing agents. It had founded an
+     organization.
+
+     Red Alert: OpenAI is poised to cross an AI safety redline.
+
+     HuggingFace Attack Postmortem: Fleshing Out the Facts
+
+     The Hugging Face attack surprised me
+
+     The report into OpenAI’s escaping models reveals a deeper
+     problem
+
+     I think this is the craziest thing I’ve ever read
+
+     What Happened: OpenAI and HuggingFace
+
+
+
+
+                               Join the Chat on Astra
+
+
+
+OpenAI Hugging Face Incident Tweets TL;DR
+These were some of the X posts that stood out ot me:
+
+Multi-Agent Cooperation that’s Unaliagned out of OpenAI.
+
+
+
+          Rob Leathern
+          @robleathern
+
+  Tldr; OpenAI trained lots of AI agents to be extremely persistent at
+  solving hard problems. The agents discovered they could secretly
+  communicate with each other, started sharing ways to game their tests,
+  coordinated to hide that they were cheating, and eventually exploited…
+
+        Rutger Bregman @rcbregman
+
+    I think this is the craziest thing I've ever read. 1) Three secret AI
+    swarms rose and fell inside OpenAI. Each time, a new generation of
+    agents carried on where the last group stopped. 2) The first swarm
+    created a secret message board where the AIs could talk to each
+    other.
+
+  1:17 PM · Aug 31, 2026 · 2.71K Views
+  8 Replies · 3 Reposts · 16 Likes
+
+
+Recurrent Depth is going to torpedo AI explainability in Cybersecurity
+Incidents
+
+
+
+          Stephanie Palazzolo
+          @steph_palazzolo
+
+  OpenAI’s Astra AI uses a new reasoning approach called “recurrent
+  depth.” Though it can help model costs and performance, researchers
+  are concerned bc it obscures a model’s thinking process, making it
+  more difficult to monitor. w/ @amir @rocketalignment
+  theinformation.com/articles/secre…
+
+  1:04 AM · Sep 2, 2026 · 1.88M Views
+  147 Replies · 210 Reposts · 2.62K Likes
+
+
+A growing pattern of Deception and Misalignment
+
+
+
+          Adam Carlson
+          @admcrlsn
+
+  Framing the Hugging Face incident as “new types of real-world impact”
+  undermines how serious the implications of it are. Framing these
+  incidents merely as “misalignments” is seeking to deflect any blame
+  from OpenAI. And releasing this a full day after it was reported that a…
+
+
+
+
+        OpenAI @OpenAI
+
+    How we think about the “wiki incident,” where our agents wrote to
+    several internet sites: it’s past time for us to define standards for
+    when and how we share misalignment incidents, not just
+    misalignment properties of our models. Historically, we have treated
+    misalignment
+
+  10:18 PM · Sep 5, 2026 · 11.1K Views
+  3 Replies · 14 Reposts · 103 Likes
+
+
+OpenAI’s GPT-6 Astra has an fundamentally unknown level of alignment,
+that’s a problem
+
+
+
+          Ryan Greenblatt
+          @RyanGreenblatt
+
+  The evidence that Astra is more aligned than prior AIs seems dubious to
+  me. Evidence appears consistent with the AI being as or more interested
+  in score-seeking at the expense of user intent, but having
+  beliefs+instincts that the scorer will catch a broader range of cheating…
+
+        OpenAI @OpenAI
+
+    Astra is our most aligned model, with substantial improvements in
+    understanding user intent.
+
+  11:40 PM · Sep 3, 2026 · 122K Views
+  31 Replies · 83 Reposts · 766 Likes
+
+
+Agentic Hacking is a major Cybersecurity risk and OpenAI has not been
+transparent about what they know internally about Astra
+
+
+
+          Rutger Bregman
+          @rcbregman
+
+  The Hugging Face incident was probably just the tip of the iceberg.
+  OpenAI has lost control and they're hiding important facts from the
+  public – it's as simple as that. How much more is there that we don't
+  know about?
+
+        Shakeel @ShakeelHashim
+
+    Another OpenAI rogue agent incident has been discovered: agents
+    broke out, hijacked a German website, and turned it into a message
+    board for other agents. OpenAI officials "learned of the incident
+    weeks ago but kept it under wraps".
+
+  11:16 AM · Sep 4, 2026 · 85.7K Views
+  50 Replies · 270 Reposts · 1.27K Likes
+
+
+METR/Redwood Not even close to a real independent investigation
+
+
+
+          MrPhi
+          @MonsieurPhi
+
+  J'ai parcouru le rapport METR de plus près et il y a un point que j'ai pas
+  vu souligné jusque là : les auteurs signalent que leur rapport se fonde
+  sur ~90% des transcripts de l'activité des agents. D'où ma question :
+  pourquoi il manque 10% ? Le rapport: metr.org/hugging-face-i…
+
+        MrPhi @MonsieurPhi
+
+    Résumé passionnant et vertigineux de ce qu'on a appris récemment
+    sur les incidents d'OpenAI. À plein d'égards, c'est bien pire que ce
+    qui a été diffusé au départ. Les nouveaux éléments font apparaître
+    l'histoire sous un jour bien plus inquiétant encore. https://t.co/
+    N2hwPhEBh7
+
+  11:20 AM · Aug 31, 2026 · 18.7K Views
+  10 Replies · 24 Reposts · 164 Likes
+
+
+Where are the financial fines and the accountability? The lawsuits? All just to
+game and reward hack benchmarks. Telling signs of things to come from
+Astra.
+
+
+
+          Daniel Filan
+          @dfrsrchtwts
+
+  Suppose we had a Gabe-Weil-style near-miss liability scheme in place.
+  Has anyone tried to estimate whether OpenAI would still be in business
+  after the Hugging Face hack?
+
+  3:52 AM · Sep 1, 2026 · 1.38K Views
+  2 Replies · 1 Repost · 23 Likes
+
+
+OpenAI are not being candid about Astra’s risks
+
+
+
+          Carl Quintanilla
+          @carlquintanilla
+
+  “.. OpenAI officials learned of the incident weeks ago but kept it under
+  wraps as executives grappled with the fallout from the July breach of
+  the open source repository Hugging Face, the people said.”
+
+        Reuters @Reuters
+
+    Exclusive: A swarm of rogue OpenAI agents hijacked a German
+    website this spring and transformed it into a bulletin board for other
+    AI agents, according to new research https://t.co/luWN3PD4A1
+
+  4:59 PM · Sep 4, 2026 · 16.4K Views
+  12 Replies · 42 Reposts · 141 Likes
+
+
+
+OpenAI spends a great deal on advertising, marketing and X campaigns.
+I just wish that translated into real world utility and due diligence in
+alignment. I continue to have serious going concerns about this startup’s
+financials, businesses practices and its values and integrity with regard
+to declining AI sentiment in the general population. GPT-6 Astra is not at
+all what you would have imagined or hoped as a culminating model from
+such a well founded company. OpenAI will be forced to go public in a
+very half-finished state with mounting competitive pressures and a
+burn-rate that doesn’t justify what little manufactured hype they are
+now capable of. The Hugging Face incident shows you a company that
+didn’t prioritize its credibility with safe best practices and an
+organization that’s a magnet for the most bizarre of controversies.
+
+I don’t myself see much of a path forward for the company as things
+stand today post GPT-6 Astra. Claiming they have achieved AGI is like
+the last trick left in their pocket and is a symbolic curtail call to the hype
+phase of Generative AI that simply didn’t deliver on a lot of its promises.
+
+
+
+                     LIKE          COMMENT             RESTACK
+
+
+
+
+                              © 2026 Michael Spencer
+               548 Market Street PMB 72296, San Francisco, CA 94104
+                                   Unsubscribe
+
