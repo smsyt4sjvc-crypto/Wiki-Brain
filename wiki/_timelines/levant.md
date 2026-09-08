@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **172 dated entries across 2 notes · 2026-07-01 → 2026-09-08 · refreshed 2026-09-08 06:41 PDT**
+> **172 dated entries across 2 notes · 2026-07-01 → 2026-09-08 · refreshed 2026-09-08 08:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -16,25 +16,25 @@
 - `2026-07-01` [portfolio-state.md:L103](../portfolio-state.md) — ⚡ 2026-07-01 AM — hardware-is-the-risk (compute scarcity cracking)
 - `2026-07-01` [portfolio-state.md:L128](../portfolio-state.md) — Jul-1 close — positions (2026-07-01 PM; `raw/2026-07-01-macro-scan.md`)
 - `2026-07-07` [portfolio-state.md:L181](../portfolio-state.md) — ⚡ 2026-07-07 PM — Hormuz fuse #2 lighting; ORCL credit; thesis-crowding warning
-- `2026-07-07` [portfolio-state.md:L197](../portfolio-state.md) — ⚡ 2026-07-07 PM — ladder cancelled; book restructured around rotation
-- `2026-07-07` [portfolio-state.md:L215](../portfolio-state.md) — ⚡ 2026-07-07 — the ladder goes live (chips −6/−10%, rotation second-rank)
+- `2026-07-07` [portfolio-state.md:L198](../portfolio-state.md) — ⚡ 2026-07-07 PM — ladder cancelled; book restructured around rotation
+- `2026-07-07` [portfolio-state.md:L216](../portfolio-state.md) — ⚡ 2026-07-07 — the ladder goes live (chips −6/−10%, rotation second-rank)
 - `2026-07-08` [portfolio-state.md:L150](../portfolio-state.md) — ⚡ 2026-07-08 PM — CEASEFIRE DEAD; marker holding; diesel squeeze; gamma bid (`raw/2026-07-08-zh-feed-ceasefire-over.md`)
 - `2026-07-08` [portfolio-state.md:L165](../portfolio-state.md) — ⚡ 2026-07-08 — from Jake's Jul-6/7 trading-session log (`raw/2026-07-07-wiki-log-jul6-7.md`)
 - `2026-07-09` [portfolio-state.md:L8](../portfolio-state.md) — ⚠️ DATA — CORRECTED ACTUAL BOOK (Jake's direct disclosure, 2026-07-09)
-- `2026-07-09` [portfolio-state.md:L239](../portfolio-state.md) — ⚡ 2026-07-09 — the "just buy the semi basket" impulse (logged, not executed)
-- `2026-07-09` [portfolio-state.md:L253](../portfolio-state.md) — ⚡ 2026-07-09 — the median line vs the book (the tool disagrees with the posture)
-- `2026-07-13` [portfolio-state.md:L269](../portfolio-state.md) — 2026-07-13 ~12:20pm PT — FILL CONFIRMED: SPY Jul-15 $750 straddle (the event position)
-- `2026-07-15` [portfolio-state.md:L285](../portfolio-state.md) — 2026-07-15 ~7:55am PT — SPY Jul-15 750 straddle: OUTCOME (Jake's marks)
-- `2026-07-15` [portfolio-state.md:L299](../portfolio-state.md) — 2026-07-15 ~9:30am PT — MU CLOSED: stopped out at $850 (~−13%, ~$520 on 4 shares)
-- `2026-07-15` [portfolio-state.md:L338](../portfolio-state.md) — 2026-07-15 ~12:01pm PT — MU $901 (−8.31% day); Jake's chart read (lower highs / H&S)
-- `2026-07-15` [portfolio-state.md:L366](../portfolio-state.md) — 2026-07-15 ~12:05pm PT — addendum: 4h Bollinger = first change-of-character of the whole cycle
-- `2026-07-16` [portfolio-state.md:L388](../portfolio-state.md) — 2026-07-16 ~8:20am PT — MU re-entry read: TSMC capex hike (bull tell) vs Korea/SOX derisk (headwind)
-- `2026-07-16` [portfolio-state.md:L407](../portfolio-state.md) — 2026-07-16 eve — MU memory-unwind via Korea (NOT a re-entry); TSMC beat sold
+- `2026-07-09` [portfolio-state.md:L240](../portfolio-state.md) — ⚡ 2026-07-09 — the "just buy the semi basket" impulse (logged, not executed)
+- `2026-07-09` [portfolio-state.md:L254](../portfolio-state.md) — ⚡ 2026-07-09 — the median line vs the book (the tool disagrees with the posture)
+- `2026-07-13` [portfolio-state.md:L270](../portfolio-state.md) — 2026-07-13 ~12:20pm PT — FILL CONFIRMED: SPY Jul-15 $750 straddle (the event position)
+- `2026-07-15` [portfolio-state.md:L286](../portfolio-state.md) — 2026-07-15 ~7:55am PT — SPY Jul-15 750 straddle: OUTCOME (Jake's marks)
+- `2026-07-15` [portfolio-state.md:L300](../portfolio-state.md) — 2026-07-15 ~9:30am PT — MU CLOSED: stopped out at $850 (~−13%, ~$520 on 4 shares)
+- `2026-07-15` [portfolio-state.md:L339](../portfolio-state.md) — 2026-07-15 ~12:01pm PT — MU $901 (−8.31% day); Jake's chart read (lower highs / H&S)
+- `2026-07-15` [portfolio-state.md:L367](../portfolio-state.md) — 2026-07-15 ~12:05pm PT — addendum: 4h Bollinger = first change-of-character of the whole cycle
+- `2026-07-16` [portfolio-state.md:L389](../portfolio-state.md) — 2026-07-16 ~8:20am PT — MU re-entry read: TSMC capex hike (bull tell) vs Korea/SOX derisk (headwind)
+- `2026-07-16` [portfolio-state.md:L408](../portfolio-state.md) — 2026-07-16 eve — MU memory-unwind via Korea (NOT a re-entry); TSMC beat sold
 - `2026-07-17` [portfolio-state.md:L21](../portfolio-state.md) — 2026-07-17 ~5:04pm PT — SIZING clarified (Jake): ~$12k book; the "$1k" is a ring-fenced AI carve-out
 - `2026-07-17` [portfolio-state.md:L30](../portfolio-state.md) — 2026-07-17 ~5:12pm PT — ACTUAL BOOK (Jake screenshot) — the real current holdings, $12,025 total
 - `2026-07-17` [portfolio-state.md:L39](../portfolio-state.md) — 2026-07-17 — ⚠️ CLOSED-TRADE POST-MORTEM: MNST Jul 87.5 puts −$446 (~87% loss)
-- `2026-07-17` [portfolio-state.md:L416](../portfolio-state.md) — ACCOUNT CONSTRAINTS (durable — "remember my limits", logged 2026-07-17 ~11am PT)
-- `2026-07-23` [portfolio-state.md:L431](../portfolio-state.md) — 2026-07-23 ~9:10am PT — bought 2 SPY @ $738.46 (dip nibble, VIX-18.7 DECIDE zone)
+- `2026-07-17` [portfolio-state.md:L417](../portfolio-state.md) — ACCOUNT CONSTRAINTS (durable — "remember my limits", logged 2026-07-17 ~11am PT)
+- `2026-07-23` [portfolio-state.md:L432](../portfolio-state.md) — 2026-07-23 ~9:10am PT — bought 2 SPY @ $738.46 (dip nibble, VIX-18.7 DECIDE zone)
 - `2026-07-23` [war-board.md:L29](../war/war-board.md) — CURRENT STATUS — 2026-07-23 ~6:31pm PT (day 145; renewed campaign = night 13)
 - `2026-07-24` [war-board.md:L57](../war/war-board.md) — UPDATE — 2026-07-24 ~6:20am PT (Fri pre-market, day 146; night 13 done)
 - `2026-07-24` [war-board.md:L66](../war/war-board.md) — UPDATE — 2026-07-24 ~6:44AM PT (Fri open) — war premium UNWINDING
@@ -55,16 +55,16 @@
 - `2026-07-29` [war-board.md:L362](../war/war-board.md) — 2026-07-29 ~8:50am PT — ★★ THE UNDERPRICED ITEM IN TODAY'S FEED: CHINA IS ARMING IRAN, ON A WEEKS TIMELINE
 - `2026-07-29` [war-board.md:L416](../war/war-board.md) — 2026-07-29 ~9:10am PT — ⚠️ CONTESTED: "US-OWNED LNG VESSEL STRUCK AT DAMIETTA, EGYPT" — FILED AS UNRESOLVED, MOVES NOTHING
 - `2026-07-29` [war-board.md:L471](../war/war-board.md) — 2026-07-29 ~10:45pm PT — ★★★ QESHM ISLAND HIT. SOMEONE IS ATTACKING THE **TOLL BOOTH**, AND THAT IS NOT BULLISH FOR SHIPPING.
-- `2026-07-30` [portfolio-state.md:L443](../portfolio-state.md) — 2026-07-30 3:01pm PT — SPY Dec-745 PUT: the full P&L decomposition (Fidelity screen, 5:58pm ET)
-- `2026-07-30` [portfolio-state.md:L492](../portfolio-state.md) — 2026-07-30 3:09pm PT — ⛔ SUPERSEDES THE ENTRY ABOVE: Jake supplied spot (742). It was DELTA, not vol.
-- `2026-07-30` [portfolio-state.md:L528](../portfolio-state.md) — 2026-07-30 3:20pm PT — ✅ CLOSED: Jake "pretty sure it was ATM when I bought." System fully determined.
-- `2026-07-30` [portfolio-state.md:L571](../portfolio-state.md) — 2026-07-30 3:34pm PT — 📈 THE STOCK SCREEN IS A PRICE FEED. Real spots ⇒ the day was 73/27, not 98/2.
+- `2026-07-30` [portfolio-state.md:L444](../portfolio-state.md) — 2026-07-30 3:01pm PT — SPY Dec-745 PUT: the full P&L decomposition (Fidelity screen, 5:58pm ET)
+- `2026-07-30` [portfolio-state.md:L493](../portfolio-state.md) — 2026-07-30 3:09pm PT — ⛔ SUPERSEDES THE ENTRY ABOVE: Jake supplied spot (742). It was DELTA, not vol.
+- `2026-07-30` [portfolio-state.md:L529](../portfolio-state.md) — 2026-07-30 3:20pm PT — ✅ CLOSED: Jake "pretty sure it was ATM when I bought." System fully determined.
+- `2026-07-30` [portfolio-state.md:L572](../portfolio-state.md) — 2026-07-30 3:34pm PT — 📈 THE STOCK SCREEN IS A PRICE FEED. Real spots ⇒ the day was 73/27, not 98/2.
 - `2026-07-30` [war-board.md:L527](../war/war-board.md) — 2026-07-30 ~2:40am PT — ⛔⛔⛔ THE VAULT DOES NOT KNOW WHO RUNS IRAN: ALI KHAMENEI WAS ASSASSINATED BY US-ISRAELI STRIKES AND HIS SON HAS LED SINCE MARCH
 - `2026-07-30` [war-board.md:L566](../war/war-board.md) — UPDATE — 2026-07-30 ~4:20pm PT — FOUR NEW ESCALATION ITEMS (Jake's feed) — ALL 🟡, ALL POLITICAL-TIER
-- `2026-07-31` [portfolio-state.md:L615](../portfolio-state.md) — 2026-07-31 12:40pm PDT — ★★★ THE FULL BOOK, 45 POSITIONS. Structure ≠ intent.
-- `2026-07-31` [portfolio-state.md:L672](../portfolio-state.md) — 2026-07-31 ~1:10pm PDT — ⛔ JAKE'S RATIONALE ANSWERS MOST OF MY CRITIQUE. What survives is one tension he named himself.
-- `2026-07-31` [portfolio-state.md:L727](../portfolio-state.md) — 2026-07-31 ~1:25pm PDT — THE INDEX COMPLEX MARKED: SPY basis 736.96, QQQM basis 283.58
-- `2026-07-31` [portfolio-state.md:L765](../portfolio-state.md) — 2026-07-31 ~4:55pm PDT — 90-DAY PLAN, PRE-WORK: capital map, the theta hurdle, and the screen
+- `2026-07-31` [portfolio-state.md:L616](../portfolio-state.md) — 2026-07-31 12:40pm PDT — ★★★ THE FULL BOOK, 45 POSITIONS. Structure ≠ intent.
+- `2026-07-31` [portfolio-state.md:L673](../portfolio-state.md) — 2026-07-31 ~1:10pm PDT — ⛔ JAKE'S RATIONALE ANSWERS MOST OF MY CRITIQUE. What survives is one tension he named himself.
+- `2026-07-31` [portfolio-state.md:L728](../portfolio-state.md) — 2026-07-31 ~1:25pm PDT — THE INDEX COMPLEX MARKED: SPY basis 736.96, QQQM basis 283.58
+- `2026-07-31` [portfolio-state.md:L766](../portfolio-state.md) — 2026-07-31 ~4:55pm PDT — 90-DAY PLAN, PRE-WORK: capital map, the theta hurdle, and the screen
 - `2026-07-31` [war-board.md:L596](../war/war-board.md) — UPDATE — 2026-07-31 ~8:15am PT — 🔴 **TANKERS UNDER US MILITARY ESCORT STRUCK** + the strait is REOPENING under fire
 - `2026-07-31` [war-board.md:L641](../war/war-board.md) — UPDATE — 2026-07-31 5:14pm ET (Fri, AFTER cash close) — 🟠 TRUMP ORDERS A FRESH CAMPAIGN "TO GET TEHRAN TO SURRENDER"
 - `2026-07-31` [war-board.md:L693](../war/war-board.md) — ⛔ 2026-07-31 ~6:00pm PDT — STRUCTURAL CORRECTION (Jake): I CITED A FRAME I HAD SUPERSEDED NINE HOURS EARLIER
@@ -73,7 +73,7 @@
 
 ## 2026-08
 
-- `2026-08-01` [portfolio-state.md:L806](../portfolio-state.md) — 2026-08-01 ~1:05pm PDT — ★★★ THE LOSS NUMBER LANDS: 35%, AND IT DELETES THE PLAN'S SHAPE
+- `2026-08-01` [portfolio-state.md:L807](../portfolio-state.md) — 2026-08-01 ~1:05pm PDT — ★★★ THE LOSS NUMBER LANDS: 35%, AND IT DELETES THE PLAN'S SHAPE
 - `2026-08-01` [war-board.md:L843](../war/war-board.md) — 2026-08-01 ~7:05 PM (tz UNSTATED) — TRUMP CANCELS THE IRAN ATTACK FOR "PERIMETERS OF A DEAL"
 - `2026-08-01` [war-board.md:L903](../war/war-board.md) — 2026-08-01 ~8:50pm PDT — ★★★ WINDWARD PHYSICAL DATA: 5 VESSELS vs A ~140/DAY BASELINE (data as of 31 JULY)
 - `2026-08-01` [war-board.md:L977](../war/war-board.md) — Addendum 2026-08-01 ~9:10pm PDT — JAKE: "fully open post-war may not be the same capacity" — HE BREAKS MY OWN TEST
@@ -94,12 +94,12 @@
 - `2026-08-06` [war-board.md:L1517](../war/war-board.md) — 📌 LEDGER 2026-08-06 ~11:00am PDT — scanner sweep: THE US RESPONSE LANDS IN THE THIRD CELL; the freight industry issues its verdict; the Houthis go to 
 - `2026-08-06` [war-board.md:L1540](../war/war-board.md) — 📌 LEDGER 2026-08-06 ~12:10pm PDT — HANDOFF: **THE FEE GETS ITS NUMBER (5-7% of cargo) — and the insurance mechanism that makes the corridor SELF-BLOCK
 - `2026-08-06` [war-board.md:L1563](../war/war-board.md) — 📌 LEDGER 2026-08-06 ~2:35pm PDT — **FARS 12:58pm: "IRAN STRUCK 'HOSTILE TARGETS' IN STRAIT OF HORMUZ"** — the bill's vocabulary goes kinetic while the
-- `2026-08-07` [portfolio-state.md:L847](../portfolio-state.md) — 2026-08-07 ~10:35am PDT — 🚩 THE NUCLEAR BASKET'S MISSING EXIT CONDITION IS NOW REGISTERED (closes the L725 open flag)
+- `2026-08-07` [portfolio-state.md:L848](../portfolio-state.md) — 2026-08-07 ~10:35am PDT — 🚩 THE NUCLEAR BASKET'S MISSING EXIT CONDITION IS NOW REGISTERED (closes the L725 open flag)
 - `2026-08-08` [war-board.md:L1581](../war/war-board.md) — 📌 LEDGER 2026-08-08 ~12:55pm PDT — ★★★★ THE MECCA JOINT DEFENCE AGREEMENT IS REAL AND VERIFIED — and the two things the paste omitted are what change 
 - `2026-08-09` [war-board.md:L1653](../war/war-board.md) — 📌 LEDGER 2026-08-09 ~8:00am PDT — ★★★ JAZAN BURNS TWO DAYS AFTER MECCA — MJDA test #3 gets its first datapoint, via the one vector the pact can't easi
 - `2026-08-09` [war-board.md:L1716](../war/war-board.md) — 📌 LEDGER 2026-08-09 ~12:40pm PDT — SWEEP #1: the MJDA baseline gets its day-2 count, and an EASTERN-PROVINCE anomaly enters unconfirmed
-- `2026-08-11` [portfolio-state.md:L856](../portfolio-state.md) — 2026-08-11 ~9:30am PDT — 📌 TWO BASKETS ENTER THE BOOK RECORD: full holdings, current vs target weights, and an instrument to chart each as a single in
-- `2026-08-11` [portfolio-state.md:L908](../portfolio-state.md) — 2026-08-11 ~9:35am PDT — ★★★★ THE BASKETS RUN: SAME RETURN, MORE RISK — the extra 15 non-semi names in Basket 2 did NOT diversify, they LEVERED
+- `2026-08-11` [portfolio-state.md:L857](../portfolio-state.md) — 2026-08-11 ~9:30am PDT — 📌 TWO BASKETS ENTER THE BOOK RECORD: full holdings, current vs target weights, and an instrument to chart each as a single in
+- `2026-08-11` [portfolio-state.md:L909](../portfolio-state.md) — 2026-08-11 ~9:35am PDT — ★★★★ THE BASKETS RUN: SAME RETURN, MORE RISK — the extra 15 non-semi names in Basket 2 did NOT diversify, they LEVERED
 - `2026-08-11` [war-board.md:L1771](../war/war-board.md) — ⛔ CORRECTION — 2026-08-11 ~7:45am PDT — THE "FIRST US-WEAPONS-ON-MERCHANT EVENT" IS FALSE. It is the 12th, the mechanism is ROUTINE BLOCKADE ENFORCEME
 - `2026-08-11` [war-board.md:L1840](../war/war-board.md) — 📌 LEDGER 2026-08-11 ~1:15pm PDT — THE DELEGATED IRAN RUN CLOSES TWO OF MY OWN OPEN ITEMS — one of them AGAINST my reading — and the pressure goes TWO-
 - `2026-08-11` [war-board.md:L1913](../war/war-board.md) — 📌 LEDGER 2026-08-11 ~5:10pm PDT — REUTERS PRIMARY CLOSES THREE OPEN ITEMS, CORRECTS A CONFLATION OF MINE, AND THE IRANIAN DEMAND SET TURNS OUT TO BE S
@@ -116,8 +116,8 @@
 - `2026-08-15` [war-board.md:L2496](../war/war-board.md) — 2026-08-15 ~2:05am PDT — ★★★★★ JAKE'S THREE ALTERNATIVES ARE ALL **EXPORT-SIDE**, WHICH RE-OPENS THE CONTRADICTION — but the board's own data resolves
 - `2026-08-15` [war-board.md:L2552](../war/war-board.md) — 2026-08-15 ~2:08am PDT — ⭐⭐⭐ THE REGISTERED TEST IS ANSWERED WITH VESSEL-LEVEL MEASUREMENT, AND IT SETTLES THE REFINER BINARY: **Kharg's western termi
 - `2026-08-15` [war-board.md:L2642](../war/war-board.md) — 2026-08-15 ~2:15am PDT — ⛔⛔ JAKE IS RIGHT AND THE EVIDENCE WAS IN THE DOCUMENT I FILED SEVEN MINUTES AGO: **7 of the 13 tracked vessels (54%) carry a 
-- `2026-08-16` [portfolio-state.md:L966](../portfolio-state.md) — 2026-08-16 ~7:38pm PDT — ⚠️⚠️ JAKE FLIPS: BEARISH → **CAUTIOUSLY OPTIMISTIC BULLISH**, citing the 8/13 "doesn't matter until it does" conversation. **
-- `2026-08-16` [portfolio-state.md:L1026](../portfolio-state.md) — 2026-08-16 ~9:02pm PDT — ★★★★★ JAKE FORMALISES THE BULL STANCE AS A REGIME-FOLLOWING RULE, AND IT IS CONSISTENT WITH THIS VAULT'S OWN WARNING-vs-TRIGG
+- `2026-08-16` [portfolio-state.md:L967](../portfolio-state.md) — 2026-08-16 ~7:38pm PDT — ⚠️⚠️ JAKE FLIPS: BEARISH → **CAUTIOUSLY OPTIMISTIC BULLISH**, citing the 8/13 "doesn't matter until it does" conversation. **
+- `2026-08-16` [portfolio-state.md:L1027](../portfolio-state.md) — 2026-08-16 ~9:02pm PDT — ★★★★★ JAKE FORMALISES THE BULL STANCE AS A REGIME-FOLLOWING RULE, AND IT IS CONSISTENT WITH THIS VAULT'S OWN WARNING-vs-TRIGG
 - `2026-08-17` [war-board.md:L2834](../war/war-board.md) — DATA (MEASURED — Windward, data as of 2026-08-17)
 - `2026-08-18` [war-board.md:L2699](../war/war-board.md) — 2026-08-18 ~10:30am PDT — 📌 THE MoU 60-DAY CLOCK EXPIRED YESTERDAY WITH NO DEAL AND NO EXTENSION — a dated catalyst, FIRED. ⛔ **BUT "BRENT SURGES TO $
 - `2026-08-18` [war-board.md:L2820](../war/war-board.md) — 2026-08-18 ~2:00pm PDT — ✅✅✅ **THE WINDWARD LIVE DASHBOARD IS FETCHABLE — RETIRING A STANDING VAULT LIMITATION THAT HAD US RUNNING ON MARCH-VINTAGE DA
@@ -153,8 +153,8 @@
 
 ## 2026-09
 
-- `2026-09-01` [portfolio-state.md:L1078](../portfolio-state.md) — 2026-09-01 ~11:15am PDT — **REFINERY BASKET DISCLOSED (Jake): PBF · DINO (HF Sinclair) · PARR (Par Pacific) · PSX · MPC · VLO.** ⛔ Corrects two same-d
-- `2026-09-01` [portfolio-state.md:L1080](../portfolio-state.md) — Addendum 2026-09-01 ~11:20am PDT — ⭐⭐⭐⭐⭐ **THE REFINERY BASKET, WORKED UP (Jake's data pull, `raw/2026-09-01-refinery-basket-workup.md`; 6M return ari
+- `2026-09-01` [portfolio-state.md:L1079](../portfolio-state.md) — 2026-09-01 ~11:15am PDT — **REFINERY BASKET DISCLOSED (Jake): PBF · DINO (HF Sinclair) · PARR (Par Pacific) · PSX · MPC · VLO.** ⛔ Corrects two same-d
+- `2026-09-01` [portfolio-state.md:L1081](../portfolio-state.md) — Addendum 2026-09-01 ~11:20am PDT — ⭐⭐⭐⭐⭐ **THE REFINERY BASKET, WORKED UP (Jake's data pull, `raw/2026-09-01-refinery-basket-workup.md`; 6M return ari
 - `2026-09-01` [war-board.md:L4275](../war/war-board.md) — 2026-09-01 ~7:50am PDT — ⛔⭐⭐⭐⭐⭐ **EVENT CLASS, UNDER THE STANDING FILTER: TWO SAUDI-CRUDE SUPERTANKERS HIT IN HORMUZ (Reuters/Kpler, via 9/1 intellige
 - `2026-09-01` [war-board.md:L4287](../war/war-board.md) — Addendum 2026-09-01 ~9:46am PDT — **ZH feed scan, three war-board items:** (1) **IRAN OFFERS A CONDITIONAL CEASEFIRE** — Pezeshkian: return to talks I
 - `2026-09-01` [war-board.md:L4289](../war/war-board.md) — 2026-09-01 ~9:45am PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE US IS STRIKING IRGC TARGETS INSIDE IRAN — CENTCOM (posted ~9:36am PT): "Today at 12 p.m. ET, U.S. forces began

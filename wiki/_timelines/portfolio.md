@@ -1,6 +1,6 @@
 # ⏱ PORTFOLIO — merged timeline (the gate)
 
-> **46 dated entries across 2 notes · 2026-07-01 → 2026-09-01 · refreshed 2026-09-08 06:41 PDT**
+> **46 dated entries across 2 notes · 2026-07-01 → 2026-09-01 · refreshed 2026-09-08 08:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -16,52 +16,52 @@
 - `2026-07-01` [portfolio-state.md:L103](../portfolio-state.md) — ⚡ 2026-07-01 AM — hardware-is-the-risk (compute scarcity cracking)
 - `2026-07-01` [portfolio-state.md:L128](../portfolio-state.md) — Jul-1 close — positions (2026-07-01 PM; `raw/2026-07-01-macro-scan.md`)
 - `2026-07-07` [portfolio-state.md:L181](../portfolio-state.md) — ⚡ 2026-07-07 PM — Hormuz fuse #2 lighting; ORCL credit; thesis-crowding warning
-- `2026-07-07` [portfolio-state.md:L197](../portfolio-state.md) — ⚡ 2026-07-07 PM — ladder cancelled; book restructured around rotation
-- `2026-07-07` [portfolio-state.md:L215](../portfolio-state.md) — ⚡ 2026-07-07 — the ladder goes live (chips −6/−10%, rotation second-rank)
+- `2026-07-07` [portfolio-state.md:L198](../portfolio-state.md) — ⚡ 2026-07-07 PM — ladder cancelled; book restructured around rotation
+- `2026-07-07` [portfolio-state.md:L216](../portfolio-state.md) — ⚡ 2026-07-07 — the ladder goes live (chips −6/−10%, rotation second-rank)
 - `2026-07-08` [portfolio-state.md:L150](../portfolio-state.md) — ⚡ 2026-07-08 PM — CEASEFIRE DEAD; marker holding; diesel squeeze; gamma bid (`raw/2026-07-08-zh-feed-ceasefire-over.md`)
 - `2026-07-08` [portfolio-state.md:L165](../portfolio-state.md) — ⚡ 2026-07-08 — from Jake's Jul-6/7 trading-session log (`raw/2026-07-07-wiki-log-jul6-7.md`)
 - `2026-07-09` [portfolio-state.md:L8](../portfolio-state.md) — ⚠️ DATA — CORRECTED ACTUAL BOOK (Jake's direct disclosure, 2026-07-09)
-- `2026-07-09` [portfolio-state.md:L239](../portfolio-state.md) — ⚡ 2026-07-09 — the "just buy the semi basket" impulse (logged, not executed)
-- `2026-07-09` [portfolio-state.md:L253](../portfolio-state.md) — ⚡ 2026-07-09 — the median line vs the book (the tool disagrees with the posture)
-- `2026-07-13` [portfolio-state.md:L269](../portfolio-state.md) — 2026-07-13 ~12:20pm PT — FILL CONFIRMED: SPY Jul-15 $750 straddle (the event position)
-- `2026-07-15` [portfolio-state.md:L285](../portfolio-state.md) — 2026-07-15 ~7:55am PT — SPY Jul-15 750 straddle: OUTCOME (Jake's marks)
-- `2026-07-15` [portfolio-state.md:L299](../portfolio-state.md) — 2026-07-15 ~9:30am PT — MU CLOSED: stopped out at $850 (~−13%, ~$520 on 4 shares)
-- `2026-07-15` [portfolio-state.md:L338](../portfolio-state.md) — 2026-07-15 ~12:01pm PT — MU $901 (−8.31% day); Jake's chart read (lower highs / H&S)
-- `2026-07-15` [portfolio-state.md:L366](../portfolio-state.md) — 2026-07-15 ~12:05pm PT — addendum: 4h Bollinger = first change-of-character of the whole cycle
-- `2026-07-16` [portfolio-state.md:L388](../portfolio-state.md) — 2026-07-16 ~8:20am PT — MU re-entry read: TSMC capex hike (bull tell) vs Korea/SOX derisk (headwind)
-- `2026-07-16` [portfolio-state.md:L407](../portfolio-state.md) — 2026-07-16 eve — MU memory-unwind via Korea (NOT a re-entry); TSMC beat sold
+- `2026-07-09` [portfolio-state.md:L240](../portfolio-state.md) — ⚡ 2026-07-09 — the "just buy the semi basket" impulse (logged, not executed)
+- `2026-07-09` [portfolio-state.md:L254](../portfolio-state.md) — ⚡ 2026-07-09 — the median line vs the book (the tool disagrees with the posture)
+- `2026-07-13` [portfolio-state.md:L270](../portfolio-state.md) — 2026-07-13 ~12:20pm PT — FILL CONFIRMED: SPY Jul-15 $750 straddle (the event position)
+- `2026-07-15` [portfolio-state.md:L286](../portfolio-state.md) — 2026-07-15 ~7:55am PT — SPY Jul-15 750 straddle: OUTCOME (Jake's marks)
+- `2026-07-15` [portfolio-state.md:L300](../portfolio-state.md) — 2026-07-15 ~9:30am PT — MU CLOSED: stopped out at $850 (~−13%, ~$520 on 4 shares)
+- `2026-07-15` [portfolio-state.md:L339](../portfolio-state.md) — 2026-07-15 ~12:01pm PT — MU $901 (−8.31% day); Jake's chart read (lower highs / H&S)
+- `2026-07-15` [portfolio-state.md:L367](../portfolio-state.md) — 2026-07-15 ~12:05pm PT — addendum: 4h Bollinger = first change-of-character of the whole cycle
+- `2026-07-16` [portfolio-state.md:L389](../portfolio-state.md) — 2026-07-16 ~8:20am PT — MU re-entry read: TSMC capex hike (bull tell) vs Korea/SOX derisk (headwind)
+- `2026-07-16` [portfolio-state.md:L408](../portfolio-state.md) — 2026-07-16 eve — MU memory-unwind via Korea (NOT a re-entry); TSMC beat sold
 - `2026-07-17` [portfolio-state.md:L21](../portfolio-state.md) — 2026-07-17 ~5:04pm PT — SIZING clarified (Jake): ~$12k book; the "$1k" is a ring-fenced AI carve-out
 - `2026-07-17` [portfolio-state.md:L30](../portfolio-state.md) — 2026-07-17 ~5:12pm PT — ACTUAL BOOK (Jake screenshot) — the real current holdings, $12,025 total
 - `2026-07-17` [portfolio-state.md:L39](../portfolio-state.md) — 2026-07-17 — ⚠️ CLOSED-TRADE POST-MORTEM: MNST Jul 87.5 puts −$446 (~87% loss)
-- `2026-07-17` [portfolio-state.md:L416](../portfolio-state.md) — ACCOUNT CONSTRAINTS (durable — "remember my limits", logged 2026-07-17 ~11am PT)
-- `2026-07-23` [portfolio-state.md:L431](../portfolio-state.md) — 2026-07-23 ~9:10am PT — bought 2 SPY @ $738.46 (dip nibble, VIX-18.7 DECIDE zone)
+- `2026-07-17` [portfolio-state.md:L417](../portfolio-state.md) — ACCOUNT CONSTRAINTS (durable — "remember my limits", logged 2026-07-17 ~11am PT)
+- `2026-07-23` [portfolio-state.md:L432](../portfolio-state.md) — 2026-07-23 ~9:10am PT — bought 2 SPY @ $738.46 (dip nibble, VIX-18.7 DECIDE zone)
 - `2026-07-26` [ai-infra-allocation-map.md:L54](../ai-infra-allocation-map.md) — 2026-07-26 ~9:45pm PT — Micron+Meta white paper: LPDDR5X qualified for hyperscale servers (the memory demand SECOND LEG, in writing)
 - `2026-07-26` [ai-infra-allocation-map.md:L109](../ai-infra-allocation-map.md) — 2026-07-26 ~10pm PT — VERIFIED: Apple lobbying Trump admin for CXMT/YMTC access; MICRON LOBBYING AGAINST — the whale squeeze is LIVE, in front of the 
-- `2026-07-30` [portfolio-state.md:L443](../portfolio-state.md) — 2026-07-30 3:01pm PT — SPY Dec-745 PUT: the full P&L decomposition (Fidelity screen, 5:58pm ET)
-- `2026-07-30` [portfolio-state.md:L492](../portfolio-state.md) — 2026-07-30 3:09pm PT — ⛔ SUPERSEDES THE ENTRY ABOVE: Jake supplied spot (742). It was DELTA, not vol.
-- `2026-07-30` [portfolio-state.md:L528](../portfolio-state.md) — 2026-07-30 3:20pm PT — ✅ CLOSED: Jake "pretty sure it was ATM when I bought." System fully determined.
-- `2026-07-30` [portfolio-state.md:L571](../portfolio-state.md) — 2026-07-30 3:34pm PT — 📈 THE STOCK SCREEN IS A PRICE FEED. Real spots ⇒ the day was 73/27, not 98/2.
+- `2026-07-30` [portfolio-state.md:L444](../portfolio-state.md) — 2026-07-30 3:01pm PT — SPY Dec-745 PUT: the full P&L decomposition (Fidelity screen, 5:58pm ET)
+- `2026-07-30` [portfolio-state.md:L493](../portfolio-state.md) — 2026-07-30 3:09pm PT — ⛔ SUPERSEDES THE ENTRY ABOVE: Jake supplied spot (742). It was DELTA, not vol.
+- `2026-07-30` [portfolio-state.md:L529](../portfolio-state.md) — 2026-07-30 3:20pm PT — ✅ CLOSED: Jake "pretty sure it was ATM when I bought." System fully determined.
+- `2026-07-30` [portfolio-state.md:L572](../portfolio-state.md) — 2026-07-30 3:34pm PT — 📈 THE STOCK SCREEN IS A PRICE FEED. Real spots ⇒ the day was 73/27, not 98/2.
 - `2026-07-31` [ai-infra-allocation-map.md:L160](../ai-infra-allocation-map.md) — 2026-07-31 ~12:55pm PDT — ★★★ JAKE'S "2ND ORDER CAPEX" BASKET, GRADED AGAINST THE VAULT'S OWN MAP
-- `2026-07-31` [portfolio-state.md:L615](../portfolio-state.md) — 2026-07-31 12:40pm PDT — ★★★ THE FULL BOOK, 45 POSITIONS. Structure ≠ intent.
-- `2026-07-31` [portfolio-state.md:L672](../portfolio-state.md) — 2026-07-31 ~1:10pm PDT — ⛔ JAKE'S RATIONALE ANSWERS MOST OF MY CRITIQUE. What survives is one tension he named himself.
-- `2026-07-31` [portfolio-state.md:L727](../portfolio-state.md) — 2026-07-31 ~1:25pm PDT — THE INDEX COMPLEX MARKED: SPY basis 736.96, QQQM basis 283.58
-- `2026-07-31` [portfolio-state.md:L765](../portfolio-state.md) — 2026-07-31 ~4:55pm PDT — 90-DAY PLAN, PRE-WORK: capital map, the theta hurdle, and the screen
+- `2026-07-31` [portfolio-state.md:L616](../portfolio-state.md) — 2026-07-31 12:40pm PDT — ★★★ THE FULL BOOK, 45 POSITIONS. Structure ≠ intent.
+- `2026-07-31` [portfolio-state.md:L673](../portfolio-state.md) — 2026-07-31 ~1:10pm PDT — ⛔ JAKE'S RATIONALE ANSWERS MOST OF MY CRITIQUE. What survives is one tension he named himself.
+- `2026-07-31` [portfolio-state.md:L728](../portfolio-state.md) — 2026-07-31 ~1:25pm PDT — THE INDEX COMPLEX MARKED: SPY basis 736.96, QQQM basis 283.58
+- `2026-07-31` [portfolio-state.md:L766](../portfolio-state.md) — 2026-07-31 ~4:55pm PDT — 90-DAY PLAN, PRE-WORK: capital map, the theta hurdle, and the screen
 
 ## 2026-08
 
-- `2026-08-01` [portfolio-state.md:L806](../portfolio-state.md) — 2026-08-01 ~1:05pm PDT — ★★★ THE LOSS NUMBER LANDS: 35%, AND IT DELETES THE PLAN'S SHAPE
-- `2026-08-07` [portfolio-state.md:L847](../portfolio-state.md) — 2026-08-07 ~10:35am PDT — 🚩 THE NUCLEAR BASKET'S MISSING EXIT CONDITION IS NOW REGISTERED (closes the L725 open flag)
+- `2026-08-01` [portfolio-state.md:L807](../portfolio-state.md) — 2026-08-01 ~1:05pm PDT — ★★★ THE LOSS NUMBER LANDS: 35%, AND IT DELETES THE PLAN'S SHAPE
+- `2026-08-07` [portfolio-state.md:L848](../portfolio-state.md) — 2026-08-07 ~10:35am PDT — 🚩 THE NUCLEAR BASKET'S MISSING EXIT CONDITION IS NOW REGISTERED (closes the L725 open flag)
 - `2026-08-10` [ai-infra-allocation-map.md:L215](../ai-infra-allocation-map.md) — 2026-08-10 ~8:45am PDT — 8/19 IS THE POWER LAYER'S EVIDENCE DAY — three confirmed prints on the basket's thinnest leg
-- `2026-08-11` [portfolio-state.md:L856](../portfolio-state.md) — 2026-08-11 ~9:30am PDT — 📌 TWO BASKETS ENTER THE BOOK RECORD: full holdings, current vs target weights, and an instrument to chart each as a single in
-- `2026-08-11` [portfolio-state.md:L908](../portfolio-state.md) — 2026-08-11 ~9:35am PDT — ★★★★ THE BASKETS RUN: SAME RETURN, MORE RISK — the extra 15 non-semi names in Basket 2 did NOT diversify, they LEVERED
+- `2026-08-11` [portfolio-state.md:L857](../portfolio-state.md) — 2026-08-11 ~9:30am PDT — 📌 TWO BASKETS ENTER THE BOOK RECORD: full holdings, current vs target weights, and an instrument to chart each as a single in
+- `2026-08-11` [portfolio-state.md:L909](../portfolio-state.md) — 2026-08-11 ~9:35am PDT — ★★★★ THE BASKETS RUN: SAME RETURN, MORE RISK — the extra 15 non-semi names in Basket 2 did NOT diversify, they LEVERED
 - `2026-08-13` [ai-infra-allocation-map.md:L255](../ai-infra-allocation-map.md) — 2026-08-13 ~7:45am PDT (data pulled ~6:58am) — 📊 2ND-ORDER BASKET, DISTANCE BELOW 52-WEEK HIGH: **ORCL −54.4%** — and the DAYS-SINCE-PEAK column split
 - `2026-08-13` [ai-infra-allocation-map.md:L262](../ai-infra-allocation-map.md) — DATA (observed — Yahoo chart API, 1y daily, pulled 2026-08-13 ~6:58am PDT)
 - `2026-08-13` [ai-infra-allocation-map.md:L319](../ai-infra-allocation-map.md) — 2026-08-13 ~1:20pm PDT — 📊 FOUR THREADS RANKED BY **EVIDENCE QUALITY** ON A 3-MONTH WINDOW — and the table surfaces a pair that contradicts one of thi
 - `2026-08-13` [ai-infra-allocation-map.md:L323](../ai-infra-allocation-map.md) — DATA (Yahoo chart API, 2026-08-13 ~1:15pm PDT — group medians)
-- `2026-08-16` [portfolio-state.md:L966](../portfolio-state.md) — 2026-08-16 ~7:38pm PDT — ⚠️⚠️ JAKE FLIPS: BEARISH → **CAUTIOUSLY OPTIMISTIC BULLISH**, citing the 8/13 "doesn't matter until it does" conversation. **
-- `2026-08-16` [portfolio-state.md:L1026](../portfolio-state.md) — 2026-08-16 ~9:02pm PDT — ★★★★★ JAKE FORMALISES THE BULL STANCE AS A REGIME-FOLLOWING RULE, AND IT IS CONSISTENT WITH THIS VAULT'S OWN WARNING-vs-TRIGG
+- `2026-08-16` [portfolio-state.md:L967](../portfolio-state.md) — 2026-08-16 ~7:38pm PDT — ⚠️⚠️ JAKE FLIPS: BEARISH → **CAUTIOUSLY OPTIMISTIC BULLISH**, citing the 8/13 "doesn't matter until it does" conversation. **
+- `2026-08-16` [portfolio-state.md:L1027](../portfolio-state.md) — 2026-08-16 ~9:02pm PDT — ★★★★★ JAKE FORMALISES THE BULL STANCE AS A REGIME-FOLLOWING RULE, AND IT IS CONSISTENT WITH THIS VAULT'S OWN WARNING-vs-TRIGG
 
 ## 2026-09
 
-- `2026-09-01` [portfolio-state.md:L1078](../portfolio-state.md) — 2026-09-01 ~11:15am PDT — **REFINERY BASKET DISCLOSED (Jake): PBF · DINO (HF Sinclair) · PARR (Par Pacific) · PSX · MPC · VLO.** ⛔ Corrects two same-d
-- `2026-09-01` [portfolio-state.md:L1080](../portfolio-state.md) — Addendum 2026-09-01 ~11:20am PDT — ⭐⭐⭐⭐⭐ **THE REFINERY BASKET, WORKED UP (Jake's data pull, `raw/2026-09-01-refinery-basket-workup.md`; 6M return ari
+- `2026-09-01` [portfolio-state.md:L1079](../portfolio-state.md) — 2026-09-01 ~11:15am PDT — **REFINERY BASKET DISCLOSED (Jake): PBF · DINO (HF Sinclair) · PARR (Par Pacific) · PSX · MPC · VLO.** ⛔ Corrects two same-d
+- `2026-09-01` [portfolio-state.md:L1081](../portfolio-state.md) — Addendum 2026-09-01 ~11:20am PDT — ⭐⭐⭐⭐⭐ **THE REFINERY BASKET, WORKED UP (Jake's data pull, `raw/2026-09-01-refinery-basket-workup.md`; 6M return ari

@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **359 dated entries across 6 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 06:41 PDT**
+> **360 dated entries across 6 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 08:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -387,3 +387,4 @@
 - `2026-09-07` [rates-board.md:L2676](../rates-board.md) — Addendum 2026-09-07 ~8:55pm PDT — **THE JPMAM CHART REPRINTS (Sept 7 data) WITH CEMBALEST'S FULL TEXT — $303bn IN TEN-YEAR EQUIVALENTS = 68% OF TREASU
 - `2026-09-08` [ai-financing-fragility.md:L7752](../ai-financing-fragility.md) — 2026-09-08 ~6:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE LABS ARE TRYING TO CROSS FROM STRUCTURED CREDIT INTO THE IG BOND MARKET: BANKERS FOR OPENAI *AND* ANTHROPIC ARE 
 - `2026-09-08` [balance-sheet-board.md:L811](../balance-sheet-board.md) — Addendum 2026-09-08 ~6:45am PDT — **ORCL INTO TONIGHT: THE NEW LINE IS "NO FURTHER DEBT ISSUANCE DURING CALENDAR 2026," AND IT COLLIDES WITH THE $3.3B
+- `2026-09-08` [rates-board.md:L2693](../rates-board.md) — 2026-09-08 ~8:10am PDT — ✅⛔⭐⭐⭐⭐⭐ **NY FED SURVEY (registered item, resolved): 1Y 3.58% (unch from 3.6) · 3Y 3.19% (from 3.3) · 5Y 3.01% (unch). THE TE

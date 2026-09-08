@@ -240,7 +240,8 @@ hardware** — which is Jake's heaviest sleeve. Implications:
 - **ORCL 5yr CDS ~198bps record (40bps a year ago)** — the [[ai-financing-fragility]] credit leg live-priced;
   $300B of Oracle's backlog is OpenAI/Stargate. Watch: does widening stay idiosyncratic or spread to DC-ABS/
   neocloud paper (= the correlation event).
-- **NY Fed expectations de-anchoring** (1yr 3.67%, 3yr 3.34% — multi-year highs) → Fed Trap horns tighten;
+- ~~**NY Fed expectations de-anchoring** (1yr 3.67%, 3yr 3.34% — multi-year highs) → Fed Trap horns tighten;~~ ⛔ **RETIRED 2026-09-08: the August survey prints 1Y 3.58 / 3Y 3.19 / 5Y 3.01 — both cited figures LOWER, the 3Y by 15bp, the 5Y anchor never moved, and the term structure is downward-sloping (= anchored). → [[rates-board]] 2026-09-08 8:10am.**
+  ⟲ SUPERSEDED 2026-09-08 → rates-board.md:L2776 — August NY Fed survey: 1Y 3.58 (from 3.67) and 3Y 3.19 (from 3.34), 5Y anchor flat at 3.01 and never above ~3.1 since 2020 — the de-anchoring state is retired
   NO-put intact; supports holding the Dec 745 puts.
 - *(⚠️ calibration — the crowding clock)* "Token-Unmaxxing" is now a ZH HEADLINE with Goldman's flow desk
   attached ("very rotational market where momentum struggles"). Burry-coinage → CNBC → mainstream in 6 weeks =

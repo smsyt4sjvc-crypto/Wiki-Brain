@@ -1,6 +1,6 @@
 # ⏱ VOL — merged timeline (the gate)
 
-> **164 dated entries across 4 notes · 2026-07-01 → 2026-09-06 · refreshed 2026-09-08 06:41 PDT**
+> **164 dated entries across 4 notes · 2026-07-01 → 2026-09-06 · refreshed 2026-09-08 08:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -17,13 +17,13 @@
 - `2026-07-01` [portfolio-state.md:L103](../portfolio-state.md) — ⚡ 2026-07-01 AM — hardware-is-the-risk (compute scarcity cracking)
 - `2026-07-01` [portfolio-state.md:L128](../portfolio-state.md) — Jul-1 close — positions (2026-07-01 PM; `raw/2026-07-01-macro-scan.md`)
 - `2026-07-07` [portfolio-state.md:L181](../portfolio-state.md) — ⚡ 2026-07-07 PM — Hormuz fuse #2 lighting; ORCL credit; thesis-crowding warning
-- `2026-07-07` [portfolio-state.md:L197](../portfolio-state.md) — ⚡ 2026-07-07 PM — ladder cancelled; book restructured around rotation
-- `2026-07-07` [portfolio-state.md:L215](../portfolio-state.md) — ⚡ 2026-07-07 — the ladder goes live (chips −6/−10%, rotation second-rank)
+- `2026-07-07` [portfolio-state.md:L198](../portfolio-state.md) — ⚡ 2026-07-07 PM — ladder cancelled; book restructured around rotation
+- `2026-07-07` [portfolio-state.md:L216](../portfolio-state.md) — ⚡ 2026-07-07 — the ladder goes live (chips −6/−10%, rotation second-rank)
 - `2026-07-08` [portfolio-state.md:L150](../portfolio-state.md) — ⚡ 2026-07-08 PM — CEASEFIRE DEAD; marker holding; diesel squeeze; gamma bid (`raw/2026-07-08-zh-feed-ceasefire-over.md`)
 - `2026-07-08` [portfolio-state.md:L165](../portfolio-state.md) — ⚡ 2026-07-08 — from Jake's Jul-6/7 trading-session log (`raw/2026-07-07-wiki-log-jul6-7.md`)
 - `2026-07-09` [portfolio-state.md:L8](../portfolio-state.md) — ⚠️ DATA — CORRECTED ACTUAL BOOK (Jake's direct disclosure, 2026-07-09)
-- `2026-07-09` [portfolio-state.md:L239](../portfolio-state.md) — ⚡ 2026-07-09 — the "just buy the semi basket" impulse (logged, not executed)
-- `2026-07-09` [portfolio-state.md:L253](../portfolio-state.md) — ⚡ 2026-07-09 — the median line vs the book (the tool disagrees with the posture)
+- `2026-07-09` [portfolio-state.md:L240](../portfolio-state.md) — ⚡ 2026-07-09 — the "just buy the semi basket" impulse (logged, not executed)
+- `2026-07-09` [portfolio-state.md:L254](../portfolio-state.md) — ⚡ 2026-07-09 — the median line vs the book (the tool disagrees with the posture)
 - `2026-07-10` [market-fragility.md:L57](../market-fragility.md) — 2026-07-10 — VIX vs single-stock vol gap: another record
 - `2026-07-11` [market-fragility.md:L68](../market-fragility.md) — 2026-07-11 — the dotcom rhyme gets a number: SOX +237%/14mo vs +234%/14mo into Feb-2000
 - `2026-07-12` [market-fragility.md:L76](../market-fragility.md) — 2026-07-12 — buybacks falling short of promises (ZH, as-reported)
@@ -37,24 +37,24 @@
 - `2026-07-13` [market-fragility.md:L228](../market-fragility.md) — 2026-07-13 ~3:15pm PT — Korea ↔ US: mechanical or correlated? (Jake's Q, the transmission map)
 - `2026-07-13` [market-fragility.md:L259](../market-fragility.md) — 2026-07-13 ~5:15pm PT — KORU below $400 as Seoul opens (Jake's print)
 - `2026-07-13` [market-fragility.md:L278](../market-fragility.md) — 2026-07-13 ~6:50pm PT — Thursday speech flash: election-legitimacy claims (source-graded)
-- `2026-07-13` [portfolio-state.md:L269](../portfolio-state.md) — 2026-07-13 ~12:20pm PT — FILL CONFIRMED: SPY Jul-15 $750 straddle (the event position)
+- `2026-07-13` [portfolio-state.md:L270](../portfolio-state.md) — 2026-07-13 ~12:20pm PT — FILL CONFIRMED: SPY Jul-15 $750 straddle (the event position)
 - `2026-07-14` [market-fragility.md:L306](../market-fragility.md) — 2026-07-14 ~3:40am PT — bank Q2 prints: equities-vol harvest confirmed + credit BENIGN
 - `2026-07-14` [market-fragility.md:L371](../market-fragility.md) — 2026-07-14 ~4:42am PT — JPM full: record profit, stock FALLS = surprise rule live + $4.6B one-off
 - `2026-07-14` [market-fragility.md:L400](../market-fragility.md) — 2026-07-14 ~6:28am PT — the NARROW rip: SPY +0.30% while MU +5%, IBM −22% (vol in NAMES not index)
 - `2026-07-14` [market-fragility.md:L422](../market-fragility.md) — 2026-07-14 ~8:54am PT — ZH: "Stock Market's Breadth Keeps Getting Narrower" (confirms the thesis)
 - `2026-07-15` [market-fragility.md:L433](../market-fragility.md) — 2026-07-15 — Beige Book (July): narrow breadth is now visible in GDP, credit crack in the weakest first
-- `2026-07-15` [portfolio-state.md:L285](../portfolio-state.md) — 2026-07-15 ~7:55am PT — SPY Jul-15 750 straddle: OUTCOME (Jake's marks)
-- `2026-07-15` [portfolio-state.md:L299](../portfolio-state.md) — 2026-07-15 ~9:30am PT — MU CLOSED: stopped out at $850 (~−13%, ~$520 on 4 shares)
-- `2026-07-15` [portfolio-state.md:L338](../portfolio-state.md) — 2026-07-15 ~12:01pm PT — MU $901 (−8.31% day); Jake's chart read (lower highs / H&S)
-- `2026-07-15` [portfolio-state.md:L366](../portfolio-state.md) — 2026-07-15 ~12:05pm PT — addendum: 4h Bollinger = first change-of-character of the whole cycle
+- `2026-07-15` [portfolio-state.md:L286](../portfolio-state.md) — 2026-07-15 ~7:55am PT — SPY Jul-15 750 straddle: OUTCOME (Jake's marks)
+- `2026-07-15` [portfolio-state.md:L300](../portfolio-state.md) — 2026-07-15 ~9:30am PT — MU CLOSED: stopped out at $850 (~−13%, ~$520 on 4 shares)
+- `2026-07-15` [portfolio-state.md:L339](../portfolio-state.md) — 2026-07-15 ~12:01pm PT — MU $901 (−8.31% day); Jake's chart read (lower highs / H&S)
+- `2026-07-15` [portfolio-state.md:L367](../portfolio-state.md) — 2026-07-15 ~12:05pm PT — addendum: 4h Bollinger = first change-of-character of the whole cycle
 - `2026-07-16` [market-fragility.md:L459](../market-fragility.md) — 2026-07-16 ~8:20am PT — Korea leverage unwind PRINTS; the input-payer/seller split in the tape
 - `2026-07-16` [market-fragility.md:L485](../market-fragility.md) — 2026-07-16 ~PM — sell side NAMES the leverage risk: Goldman "rubber band", JPM "deleverage ETFs"
-- `2026-07-16` [portfolio-state.md:L388](../portfolio-state.md) — 2026-07-16 ~8:20am PT — MU re-entry read: TSMC capex hike (bull tell) vs Korea/SOX derisk (headwind)
-- `2026-07-16` [portfolio-state.md:L407](../portfolio-state.md) — 2026-07-16 eve — MU memory-unwind via Korea (NOT a re-entry); TSMC beat sold
+- `2026-07-16` [portfolio-state.md:L389](../portfolio-state.md) — 2026-07-16 ~8:20am PT — MU re-entry read: TSMC capex hike (bull tell) vs Korea/SOX derisk (headwind)
+- `2026-07-16` [portfolio-state.md:L408](../portfolio-state.md) — 2026-07-16 eve — MU memory-unwind via Korea (NOT a re-entry); TSMC beat sold
 - `2026-07-17` [portfolio-state.md:L21](../portfolio-state.md) — 2026-07-17 ~5:04pm PT — SIZING clarified (Jake): ~$12k book; the "$1k" is a ring-fenced AI carve-out
 - `2026-07-17` [portfolio-state.md:L30](../portfolio-state.md) — 2026-07-17 ~5:12pm PT — ACTUAL BOOK (Jake screenshot) — the real current holdings, $12,025 total
 - `2026-07-17` [portfolio-state.md:L39](../portfolio-state.md) — 2026-07-17 — ⚠️ CLOSED-TRADE POST-MORTEM: MNST Jul 87.5 puts −$446 (~87% loss)
-- `2026-07-17` [portfolio-state.md:L416](../portfolio-state.md) — ACCOUNT CONSTRAINTS (durable — "remember my limits", logged 2026-07-17 ~11am PT)
+- `2026-07-17` [portfolio-state.md:L417](../portfolio-state.md) — ACCOUNT CONSTRAINTS (durable — "remember my limits", logged 2026-07-17 ~11am PT)
 - `2026-07-17` [where-the-edge-is.md:L61](../where-the-edge-is.md) — VRP study VERDICT — 2026-07-17 ~10:12am PT (Jake ran `tools/vol_risk_premium.ipynb`)
 - `2026-07-17` [where-the-edge-is.md:L85](../where-the-edge-is.md) — DECAY RECHECK — 2026-07-17 ~10:49am PT (`tools/vol_risk_premium_decay.ipynb`, full / 2010+ / 2019+): EDGE IS LIVE
 - `2026-07-19` [market-fragility.md:L495](../market-fragility.md) — 2026-07-19 ~4:50pm PT — Goldman CTA trigger map: mechanical sell-triggers sitting AT spot (Jake paste, GS data 3Jul26)
@@ -63,7 +63,7 @@
 - `2026-07-22` [market-fragility.md:L574](../market-fragility.md) — 2026-07-22 ~5:30pm PT — three positioning extremes: the gearing, not the timer (odds-shader, per WARNING-vs-TRIGGER)
 - `2026-07-23` [market-fragility.md:L596](../market-fragility.md) — 2026-07-23 ~7:58am PT (Thu) — THE MELT-UP CRACKED: complex derisks TOGETHER, both triggers fired, positioning gearing ENGAGED
 - `2026-07-23` [market-fragility.md:L617](../market-fragility.md) — 2026-07-23 ~8:10am PT — narrative-diffusion marker: Google-negative-FCF reaches the RETAIL/Facebook tier (mind the SIGN)
-- `2026-07-23` [portfolio-state.md:L431](../portfolio-state.md) — 2026-07-23 ~9:10am PT — bought 2 SPY @ $738.46 (dip nibble, VIX-18.7 DECIDE zone)
+- `2026-07-23` [portfolio-state.md:L432](../portfolio-state.md) — 2026-07-23 ~9:10am PT — bought 2 SPY @ $738.46 (dip nibble, VIX-18.7 DECIDE zone)
 - `2026-07-23` [where-the-edge-is.md:L108](../where-the-edge-is.md) — 2026-07-23 ~1:15pm PT — when the VRP edge INVERTS to the BUY side (Jake: "cheap to buy options until VIX pops?")
 - `2026-07-24` [market-fragility.md:L636](../market-fragility.md) — 2026-07-24 ~9:06AM PT — WHOLE-INDEX cross-section (S&P500-by-weight, 7/24 intraday): the discrimination is a ROTATION, not a selloff
 - `2026-07-24` [market-fragility.md:L656](../market-fragility.md) — 2026-07-24 ~9:17AM PT — GS PRIME positioning: the MOMENTUM UNWIND quantifies the rotation (HF-led, self-limiting flush)
@@ -102,27 +102,27 @@
 - `2026-07-30` [market-fragility.md:L1865](../market-fragility.md) — 2026-07-30 ~10:05am ET — ★★★ A CHANNEL THIS VAULT HAS NEVER TRACKED JUST LIT UP: THE YEN
 - `2026-07-30` [market-fragility.md:L1896](../market-fragility.md) — 2026-07-30 ~10:50am ET — ★★★ GS PRIME: RECORD TECH SELLING — but the FOURTH LINE INVERTS THE HEADLINE, and the dates make it STALE
 - `2026-07-30` [market-fragility.md:L1933](../market-fragility.md) — 2026-07-30 ~11:15am ET — THE KOREA SYMMETRY: not cross-contamination, SHARED CROWDING — and it is a better version of the circularity thesis
-- `2026-07-30` [portfolio-state.md:L443](../portfolio-state.md) — 2026-07-30 3:01pm PT — SPY Dec-745 PUT: the full P&L decomposition (Fidelity screen, 5:58pm ET)
-- `2026-07-30` [portfolio-state.md:L492](../portfolio-state.md) — 2026-07-30 3:09pm PT — ⛔ SUPERSEDES THE ENTRY ABOVE: Jake supplied spot (742). It was DELTA, not vol.
-- `2026-07-30` [portfolio-state.md:L528](../portfolio-state.md) — 2026-07-30 3:20pm PT — ✅ CLOSED: Jake "pretty sure it was ATM when I bought." System fully determined.
-- `2026-07-30` [portfolio-state.md:L571](../portfolio-state.md) — 2026-07-30 3:34pm PT — 📈 THE STOCK SCREEN IS A PRICE FEED. Real spots ⇒ the day was 73/27, not 98/2.
+- `2026-07-30` [portfolio-state.md:L444](../portfolio-state.md) — 2026-07-30 3:01pm PT — SPY Dec-745 PUT: the full P&L decomposition (Fidelity screen, 5:58pm ET)
+- `2026-07-30` [portfolio-state.md:L493](../portfolio-state.md) — 2026-07-30 3:09pm PT — ⛔ SUPERSEDES THE ENTRY ABOVE: Jake supplied spot (742). It was DELTA, not vol.
+- `2026-07-30` [portfolio-state.md:L529](../portfolio-state.md) — 2026-07-30 3:20pm PT — ✅ CLOSED: Jake "pretty sure it was ATM when I bought." System fully determined.
+- `2026-07-30` [portfolio-state.md:L572](../portfolio-state.md) — 2026-07-30 3:34pm PT — 📈 THE STOCK SCREEN IS A PRICE FEED. Real spots ⇒ the day was 73/27, not 98/2.
 - `2026-07-31` [market-fragility.md:L1961](../market-fragility.md) — 2026-07-31 9:48am PDT — ⛔ THE TOOLS DISAGREE ON THE BASE. The "violent rotation" is mostly an ARTIFACT.
 - `2026-07-31` [market-fragility.md:L2018](../market-fragility.md) — 2026-07-31 ~10:10am PDT — ⛔ CORRECTION TO THE ENTRY ABOVE: Jake named the convention, and I OVER-CORRECTED
-- `2026-07-31` [portfolio-state.md:L615](../portfolio-state.md) — 2026-07-31 12:40pm PDT — ★★★ THE FULL BOOK, 45 POSITIONS. Structure ≠ intent.
-- `2026-07-31` [portfolio-state.md:L672](../portfolio-state.md) — 2026-07-31 ~1:10pm PDT — ⛔ JAKE'S RATIONALE ANSWERS MOST OF MY CRITIQUE. What survives is one tension he named himself.
-- `2026-07-31` [portfolio-state.md:L727](../portfolio-state.md) — 2026-07-31 ~1:25pm PDT — THE INDEX COMPLEX MARKED: SPY basis 736.96, QQQM basis 283.58
-- `2026-07-31` [portfolio-state.md:L765](../portfolio-state.md) — 2026-07-31 ~4:55pm PDT — 90-DAY PLAN, PRE-WORK: capital map, the theta hurdle, and the screen
+- `2026-07-31` [portfolio-state.md:L616](../portfolio-state.md) — 2026-07-31 12:40pm PDT — ★★★ THE FULL BOOK, 45 POSITIONS. Structure ≠ intent.
+- `2026-07-31` [portfolio-state.md:L673](../portfolio-state.md) — 2026-07-31 ~1:10pm PDT — ⛔ JAKE'S RATIONALE ANSWERS MOST OF MY CRITIQUE. What survives is one tension he named himself.
+- `2026-07-31` [portfolio-state.md:L728](../portfolio-state.md) — 2026-07-31 ~1:25pm PDT — THE INDEX COMPLEX MARKED: SPY basis 736.96, QQQM basis 283.58
+- `2026-07-31` [portfolio-state.md:L766](../portfolio-state.md) — 2026-07-31 ~4:55pm PDT — 90-DAY PLAN, PRE-WORK: capital map, the theta hurdle, and the screen
 
 ## 2026-08
 
-- `2026-08-01` [portfolio-state.md:L806](../portfolio-state.md) — 2026-08-01 ~1:05pm PDT — ★★★ THE LOSS NUMBER LANDS: 35%, AND IT DELETES THE PLAN'S SHAPE
+- `2026-08-01` [portfolio-state.md:L807](../portfolio-state.md) — 2026-08-01 ~1:05pm PDT — ★★★ THE LOSS NUMBER LANDS: 35%, AND IT DELETES THE PLAN'S SHAPE
 - `2026-08-02` [market-fragility.md:L2054](../market-fragility.md) — 2026-08-02 ~3:05pm PDT — GS PRIME BOOK: BIGGEST NET BUYING SINCE NOV '20 — and it is SHORT COVERING, not conviction
 - `2026-08-03` [market-fragility.md:L2102](../market-fragility.md) — 2026-08-03 ~10:30am PDT — 📅 DATED STAMP: COATUE'S HEDGE FUND −8%, "worst drop in more than a year" — **NOT INTERPRETABLE WITHOUT THE BENCHMARK, AND TH
 - `2026-08-03` [market-fragility.md:L2160](../market-fragility.md) — Addendum 2026-08-03 ~7:05pm PDT — ⛔ THE COATUE SOURCE IS A ZEROHEDGE TWEET, AND IT RESTATES A CALL THIS VAULT ALREADY TESTED AND FAILED
 - `2026-08-05` [market-fragility.md:L4218](../market-fragility.md) — ⛔ DATA — WHAT THE VAULT LOGGED IN REAL TIME (`war/war-board.md`, filed 2026-08-05)
 - `2026-08-06` [market-fragility.md:L2217](../market-fragility.md) — 2026-08-06 ~2:20pm PDT — TAPE READ: **THE FUNDING LADDER PRICES INSIDE TECH** — GOOGL taxed on its own issuance day, neoclouds crushed, MSFT at $500; 
 - `2026-08-07` [market-fragility.md:L2253](../market-fragility.md) — 2026-08-07 ~1:05am PDT — RECORD S&P CALL VOLUME (4.0M) + SKEW'S LARGEST 2-DAY DROP SINCE 2017 — the detachment/precedent bid QUANTIFIED at an extreme,
-- `2026-08-07` [portfolio-state.md:L847](../portfolio-state.md) — 2026-08-07 ~10:35am PDT — 🚩 THE NUCLEAR BASKET'S MISSING EXIT CONDITION IS NOW REGISTERED (closes the L725 open flag)
+- `2026-08-07` [portfolio-state.md:L848](../portfolio-state.md) — 2026-08-07 ~10:35am PDT — 🚩 THE NUCLEAR BASKET'S MISSING EXIT CONDITION IS NOW REGISTERED (closes the L725 open flag)
 - `2026-08-08` [market-fragility.md:L2316](../market-fragility.md) — 2026-08-08 ~6:40pm PDT — TECH FUND FLOWS AT A RECORD: $216bn ANNUALIZED — a STATE, filed as gearing per the 7/22 precedent, and it points AGAINST the 
 - `2026-08-08` [market-fragility.md:L2373](../market-fragility.md) — 2026-08-08 ~11:50pm PDT — JAKE'S QUESTION: "how common is −30K jobs and an S&P ATH the same week?" — TWICE IN THE MODERN RECORD, and both precedents h
 - `2026-08-08` [market-fragility.md:L2407](../market-fragility.md) — Addendum 2026-08-08 ~11:55pm PDT — ⚠️ NAMING PRECISION (Jake: "We just had August payroll. Last week.") — the report he means is the JULY report, and 
@@ -139,8 +139,8 @@
 - `2026-08-11` [market-fragility.md:L2936](../market-fragility.md) — 2026-08-11 ~1:15pm PDT — ★★★★ THE SPLIT GOES THREE-WAY AND IT MAPS TO THE FCF TABLE: sellers UP, receivers UP, PAYERS DOWN — into CRWV after the close
 - `2026-08-11` [market-fragility.md:L2939](../market-fragility.md) — DATA (observed — 2026-08-11 late session)
 - `2026-08-11` [market-fragility.md:L2982](../market-fragility.md) — 2026-08-11 ~3:40pm PDT — ⛔ JAKE KILLS THE META DATUM, AND THE FLAW IS BIGGER THAN THAT ONE LINE: a one-day cross-section measures CHANGE, not STATE
-- `2026-08-11` [portfolio-state.md:L856](../portfolio-state.md) — 2026-08-11 ~9:30am PDT — 📌 TWO BASKETS ENTER THE BOOK RECORD: full holdings, current vs target weights, and an instrument to chart each as a single in
-- `2026-08-11` [portfolio-state.md:L908](../portfolio-state.md) — 2026-08-11 ~9:35am PDT — ★★★★ THE BASKETS RUN: SAME RETURN, MORE RISK — the extra 15 non-semi names in Basket 2 did NOT diversify, they LEVERED
+- `2026-08-11` [portfolio-state.md:L857](../portfolio-state.md) — 2026-08-11 ~9:30am PDT — 📌 TWO BASKETS ENTER THE BOOK RECORD: full holdings, current vs target weights, and an instrument to chart each as a single in
+- `2026-08-11` [portfolio-state.md:L909](../portfolio-state.md) — 2026-08-11 ~9:35am PDT — ★★★★ THE BASKETS RUN: SAME RETURN, MORE RISK — the extra 15 non-semi names in Basket 2 did NOT diversify, they LEVERED
 - `2026-08-12` [market-fragility.md:L3015](../market-fragility.md) — 2026-08-12 ~8:45am PDT — 📌 THE REGENERATED MARKET-OPEN BRIEF, GRADED: markers all check out, and the ONE NUMBER IN IT THAT MATTERS IS NBIS +8% BEFORE 
 - `2026-08-12` [market-fragility.md:L3066](../market-fragility.md) — 2026-08-12 ~10:40am PDT — 📌 GRADED: THE 10Y TAILED — first since May, and at the HIGHEST AUCTION YIELD SINCE 2007. Test resolved YES on direction, NEG
 - `2026-08-12` [market-fragility.md:L3070](../market-fragility.md) — DATA (observed — $42bn 10Y, 2026-08-12)
@@ -167,16 +167,16 @@
 - `2026-08-16` [market-fragility.md:L4153](../market-fragility.md) — 2026-08-16 ~7:25pm PDT — ⛔⛔ I OVERCORRECTED 15 MINUTES AGO AND THE PUBLIC DATA SAYS SO. **DISPERSION ROSE 44% WHILE INDEX VOL FELL 33% FROM MARCH TO J
 - `2026-08-16` [market-fragility.md:L4158](../market-fragility.md) — DATA (MEASURED — Yahoo/CBOE pulls, close arrays not `meta`, 2026-08-16 ~7:25pm PDT)
 - `2026-08-16` [market-fragility.md:L4206](../market-fragility.md) — 2026-08-16 ~10:20pm PDT — ⛔ THE VAULT'S OWN 8/05 LEDGER CORRECTS THE RECOLLECTION ("there wasn't, of course") — **SOMETHING DID PRINT: IRAN'S FOREIGN 
-- `2026-08-16` [portfolio-state.md:L966](../portfolio-state.md) — 2026-08-16 ~7:38pm PDT — ⚠️⚠️ JAKE FLIPS: BEARISH → **CAUTIOUSLY OPTIMISTIC BULLISH**, citing the 8/13 "doesn't matter until it does" conversation. **
-- `2026-08-16` [portfolio-state.md:L1026](../portfolio-state.md) — 2026-08-16 ~9:02pm PDT — ★★★★★ JAKE FORMALISES THE BULL STANCE AS A REGIME-FOLLOWING RULE, AND IT IS CONSISTENT WITH THIS VAULT'S OWN WARNING-vs-TRIGG
+- `2026-08-16` [portfolio-state.md:L967](../portfolio-state.md) — 2026-08-16 ~7:38pm PDT — ⚠️⚠️ JAKE FLIPS: BEARISH → **CAUTIOUSLY OPTIMISTIC BULLISH**, citing the 8/13 "doesn't matter until it does" conversation. **
+- `2026-08-16` [portfolio-state.md:L1027](../portfolio-state.md) — 2026-08-16 ~9:02pm PDT — ★★★★★ JAKE FORMALISES THE BULL STANCE AS A REGIME-FOLLOWING RULE, AND IT IS CONSISTENT WITH THIS VAULT'S OWN WARNING-vs-TRIGG
 - `2026-08-19` [market-fragility.md:L4259](../market-fragility.md) — 2026-08-19 ~5:11am KST (2026-08-18 ~1:11pm PDT) — ⛔ **"SIDECAR ACTIVATED" READS LIKE A CRASH; THE ARC SAYS GIVE-BACK. KOSPI 6,441.39 (−6.24%) IS **+15
 - `2026-08-21` [market-fragility.md:L4311](../market-fragility.md) — 2026-08-21 ~10:45am PDT — ⭐⭐⭐⭐⭐ **THE FMS CASH LEVEL IS THE LOAD-BEARING NUMBER, NOT THE 8.0 SENTIMENT READING — AND IT IS A *CLEANER* INSTRUMENT THAN
 - `2026-08-31` [market-fragility.md:L4370](../market-fragility.md) — 2026-08-31 ~4:15pm PDT — ⭐⭐⭐⭐ **RECORD DISPERSION (Jake's paste): median 63-day stock-to-index correlation +0.10 — LOWEST ON RECORD (prior record +0.1
 
 ## 2026-09
 
-- `2026-09-01` [portfolio-state.md:L1078](../portfolio-state.md) — 2026-09-01 ~11:15am PDT — **REFINERY BASKET DISCLOSED (Jake): PBF · DINO (HF Sinclair) · PARR (Par Pacific) · PSX · MPC · VLO.** ⛔ Corrects two same-d
-- `2026-09-01` [portfolio-state.md:L1080](../portfolio-state.md) — Addendum 2026-09-01 ~11:20am PDT — ⭐⭐⭐⭐⭐ **THE REFINERY BASKET, WORKED UP (Jake's data pull, `raw/2026-09-01-refinery-basket-workup.md`; 6M return ari
+- `2026-09-01` [portfolio-state.md:L1079](../portfolio-state.md) — 2026-09-01 ~11:15am PDT — **REFINERY BASKET DISCLOSED (Jake): PBF · DINO (HF Sinclair) · PARR (Par Pacific) · PSX · MPC · VLO.** ⛔ Corrects two same-d
+- `2026-09-01` [portfolio-state.md:L1081](../portfolio-state.md) — Addendum 2026-09-01 ~11:20am PDT — ⭐⭐⭐⭐⭐ **THE REFINERY BASKET, WORKED UP (Jake's data pull, `raw/2026-09-01-refinery-basket-workup.md`; 6M return ari
 - `2026-09-03` [market-fragility.md:L4397](../market-fragility.md) — Addendum 2026-09-03 ~9:05am PDT — **THE POSITIONING/VOL LEG OF THE GOLDMAN SPLIT (full entry → [[metered-compute]] 9:05am):** GS Prime — "a material d
 - `2026-09-03` [market-fragility.md:L4399](../market-fragility.md) — Addendum 2026-09-03 ~2:10pm PDT — ⭐⭐⭐⭐⭐ **THE DISPERSION RECORD HAS A CREDIT TWIN, AND IT IS MEASURABLE: CCC−HY OAS GAP 787bp = 100th PERCENTILE of 79
 - `2026-09-06` [market-fragility.md:L4403](../market-fragility.md) — 2026-09-06 ~10:15pm PDT — ⭐⭐⭐⭐⭐ **THE "OPTIMAL P/E BAND" STUDY, RUN ON 152 YEARS OF THE INDEX: THE BAND THAT HISTORICALLY PAID IS ONE THE MODERN MARKE

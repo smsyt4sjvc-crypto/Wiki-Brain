@@ -1,6 +1,6 @@
 # ⏱ FED — merged timeline (the gate)
 
-> **283 dated entries across 2 notes · 2026-06-30 → 2026-09-07 · refreshed 2026-09-08 06:41 PDT**
+> **283 dated entries across 2 notes · 2026-06-30 → 2026-09-07 · refreshed 2026-09-08 08:08 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
