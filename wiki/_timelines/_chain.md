@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **861 dated entries · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 13:16 PDT**
+> **862 dated entries · 2026-02-10 → 2026-09-07 · refreshed 2026-09-07 17:30 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -888,6 +888,7 @@
 - `2026-09-07` **[1]** rates-board.md:L2620 — Addendum 2026-09-07 ~8:25am PDT — **DAILY BRIEF: THE WEEK RESTATED, WITH TWO THINGS TO ADD TO THE 8:15am TABLE — THE BUYBACK CONFOUND ON WEDNESDAY, AN
 - `2026-09-07` **[1]** rates-board.md:L2629 — Addendum 2026-09-07 ~9:35am PDT — **JAKE: "IS THIS TALKING ABOUT THE COUPON PRICE?" (Kobeissi post of BofA chart: 15yr+ Treasuries, 10-year rolling an
 - `2026-09-07` **[1]** rates-board.md:L2638 — 2026-09-07 ~10:05am PDT — ⭐⭐⭐⭐ **THE WEEK-AHEAD (ZH / DB / Goldman, Jake's PDF `raw/2026-09-07-zh-key-events-week-cpi.pdf`): FRIDAY'S CONSENSUS IS NOW
+- `2026-09-07` **[1]** rates-board.md:L2660 — Addendum 2026-09-07 ~5:30pm PDT — ⭐⭐⭐⭐⭐ **BofA VIA ZH (Jake's chart, `raw/2026-09-07-bofa-treasury-maturity-profile-debt-gdp-feedback.png`): "$7T OF B
 - `2026-09-07` **[1]** new-economy-regime.md:L4924 — Addendum 2026-09-07 ~9:40am PDT — **ZH SCAN: (1) COPPER — US SEABORNE IMPORTS 200kt IN JULY (record), LME NEAR RECORDS, ~$14,450/t AT 8/30; BRADESCO: 
 - `2026-09-07` **[3]** ai-financing-fragility.md:L7733 — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **IREN, QUANTIFIED FROM THE FUNDING SIDE: "UP TO $30B BY JUNE 2027" AGAINST $7.6B CASH + $3.5B OF ATM — AND THE CEO'S "
 - `2026-09-07` **[3]** balance-sheet-board.md:L809 — Pointer 2026-09-07 ~8:15am PDT — **IREN: $30B capex ceiling by Jun-2027 · $19B raised past year · $7.6B cash / $7.6B debt · $3.5B ATM remaining (FT vi
