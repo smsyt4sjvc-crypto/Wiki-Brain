@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **222 dated entries across 2 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-07 17:30 PDT**
+> **223 dated entries across 2 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-07 17:32 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -244,6 +244,7 @@
 - `2026-09-04` [oil-value-chain.md:L2645](../oil-value-chain.md) — REFERENCE 2026-09-04 ~3:30pm PDT — **WHAT "BRENT" ACTUALLY IS, AND WHY THE VAULT'S DIFFERENTIAL RULE FOLLOWS FROM IT (Jake's Q: "Where does Brent come
 - `2026-09-04` [oil-value-chain.md:L2655](../oil-value-chain.md) — 2026-09-04 ~3:35pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE ⬜ REGISTERED FIVE MINUTES AGO PRINTS: THE GRADE STACK HAS INVERTED. MIDDLE EAST SOURS NOW TRADE $3.70-10.60 *AB
 - `2026-09-04` [oil-value-chain.md:L2683](../oil-value-chain.md) — Addendum 2026-09-04 ~3:45pm PDT — **TWO ⬜ CLOSED AGAINST PRIMARIES, AND BOTH GO AGAINST ME: THE BYPASS IS NOT FULL, IT IS INELIGIBLE; AND PARR'S CRUDE
+- `2026-09-07` [demand-destruction.md:L4093](../demand-destruction.md) — 2026-09-07 ~5:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE 8/31 CALL CONFIRMS ON A SECOND INSTRUMENT AND THE DIFFERENTIAL HAS REACHED THE BENCHMARK: SHANGHAI CRUDE >$100 A
 - `2026-09-07` [oil-value-chain.md:L2768](../oil-value-chain.md) — Addendum 2026-09-07 ~8:15am PDT — **JAZAN HIT AGAIN (REPORTED) — THE 9/4 ELIGIBILITY SPLIT NOW HAS A RED-SEA-SIDE CAVEAT** (detail: `war/war-board` 20
 - `2026-09-07` [oil-value-chain.md:L2772](../oil-value-chain.md) — Addendum 2026-09-07 ~8:30am PDT — **RETAIL: GASOLINE $4.14/gal NATIONAL AVERAGE, ~+$1 y/y, A LABOR DAY RECORD (AP/AAA); DIESEL ~$5.85 (on file since 9
 - `2026-09-07` [oil-value-chain.md:L2774](../oil-value-chain.md) — Addendum 2026-09-07 ~8:30am PDT — **STREET-LEVEL, SECOND READING (Jake's GasBuddy screenshot, Spokane 99201, DIESEL, "Credit Only" filter; `raw/2026-0

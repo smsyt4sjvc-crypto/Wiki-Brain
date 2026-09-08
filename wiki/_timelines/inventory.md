@@ -1,6 +1,6 @@
 # ⏱ INVENTORY — merged timeline (the gate)
 
-> **144 dated entries across 1 notes · 2026-03-13 → 2026-09-04 · refreshed 2026-09-07 17:30 PDT**
+> **145 dated entries across 1 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-07 17:32 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -169,3 +169,4 @@
 - `2026-09-03` [demand-destruction.md:L4030](../demand-destruction.md) — ⟲ AMENDMENT 2026-09-03 ~9:05pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE ON INSTRUMENT SCOPE: "one of the mechanisms we were using to reconcile China's consumption was look
 - `2026-09-03` [demand-destruction.md:L4047](../demand-destruction.md) — 2026-09-03 ~10:00pm PDT — ⭐⭐⭐⭐⭐⭐ **THE NOTE'S TITLE THESIS, QUANTIFIED BY ITS FORECASTERS — AND IT RESOLVES THE OIL REGIME'S CENTRAL PUZZLE. THIS ALSO
 - `2026-09-04` [demand-destruction.md:L4076](../demand-destruction.md) — 2026-09-04 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐ **ZH SCAN: JAKE'S REFINERY MECHANISM CONFIRMED VERBATIM BY THE SOURCE, AND RUSSIA'S TWO EXPORT GRADES NOW TRADE ~$44 A
+- `2026-09-07` [demand-destruction.md:L4093](../demand-destruction.md) — 2026-09-07 ~5:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE 8/31 CALL CONFIRMS ON A SECOND INSTRUMENT AND THE DIFFERENTIAL HAS REACHED THE BENCHMARK: SHANGHAI CRUDE >$100 A
