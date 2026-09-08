@@ -1,6 +1,6 @@
 # ⏱ LABOR — merged timeline (the gate)
 
-> **159 dated entries across 1 notes · 2026-06-30 → 2026-09-07 · refreshed 2026-09-07 18:04 PDT**
+> **160 dated entries across 1 notes · 2026-06-30 → 2026-09-07 · refreshed 2026-09-07 19:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -181,3 +181,4 @@
 - `2026-09-05` [new-economy-regime.md:L4913](../new-economy-regime.md) — Addendum 2026-09-05 ~8:40am PDT — **RARE EARTHS: THE VAULT ALREADY HELD THIS (9/4 2:20pm). THE BRIEF'S ADDS ARE THREE NUMBERS AND ONE GOOD SECOND-ORDE
 - `2026-09-07` [new-economy-regime.md:L4924](../new-economy-regime.md) — Addendum 2026-09-07 ~9:40am PDT — **ZH SCAN: (1) COPPER — US SEABORNE IMPORTS 200kt IN JULY (record), LME NEAR RECORDS, ~$14,450/t AT 8/30; BRADESCO: 
 - `2026-09-07` [new-economy-regime.md:L4928](../new-economy-regime.md) — 2026-09-07 ~6:05pm PDT — ⭐⭐⭐⭐⭐ **UMICH 1-YEAR EXPECTATIONS SPLIT BY STOCKHOLDINGS (Jake's chart, Aug 28 2026 vintage, `raw/2026-09-07-umich-inflation-
+- `2026-09-07` [new-economy-regime.md:L4950](../new-economy-regime.md) — Addendum 2026-09-07 ~7:45pm PDT — **CHINA AUGUST TRADE (Bloomberg headlines via Jake): EXPORTS +25.0% y/y USD (est. +25.9) · IMPORTS +28.2% (est. +31.
