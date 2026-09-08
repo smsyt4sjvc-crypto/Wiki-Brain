@@ -1,0 +1,68 @@
+# Colab output, jevons_beta_decay_cell.py v2, run by Jake 2026-09-08 ~3:47pm PT.
+
+Downloading...
+  36 tickers, 2025-06-02 -> 2026-09-08
+  10Y last = 4.806%   oil last = 99.38
+
+============================================================================================
+T1  BETA BY PERIOD    beta_rate = bp equity move per +1bp on the 10Y | beta_oil = % per +1% Brent
+    PREDICTION: both shrink toward zero from CHOP to NOW
+============================================================================================
+BASKET                      PRE  Jan-May26           CHOP Jun-Aug26               NOW  Sep26
+                        rate     oil     n       rate     oil     n       rate     oil     n
+SEMIS               -0.167   -22.86    102   -0.099    -1.37     64      n/a      n/a      5
+COMPUTE-SELLERS     -0.060   -12.70    102   -0.122   -20.07     64      n/a      n/a      5
+SOFTWARE            -0.020     2.50    102   -0.102   -14.21     64      n/a      n/a      5
+MEGACAP             -0.107   -13.17    102   -0.104   -18.17     64      n/a      n/a      5
+OLD-ECON            -0.126   -14.20    102   -0.118   -13.63     64      n/a      n/a      5
+QQQ                 -0.098   -10.42    102   -0.092    -9.09     64      n/a      n/a      5
+SPY                 -0.080    -7.95    102   -0.070    -8.86     64      n/a      n/a      5
+DIA                 -0.081    -9.13    102   -0.091   -13.53     64      n/a      n/a      5
+IGV                 -0.040     0.50    102   -0.122   -13.60     64      n/a      n/a      5
+SOXX                -0.173   -21.59    102   -0.109    -2.36     64      n/a      n/a      5
+XLE                  0.139    22.14    102    0.187    27.95     64      n/a      n/a      5
+XLI                 -0.106   -10.93    102   -0.085   -12.28     64      n/a      n/a      5
+
+============================================================================================
+T2  SHOCK DAYS    OIL = Brent >= +2%   |   RATE = 10Y >= +5bp
+============================================================================================
+
+OIL SHOCK — mean return on those days (%)
+BASKET              PRE  Jan-May26   CHOP Jun-Aug26       NOW  Sep26
+  (n days)                      39               15                2
+SEMIS                        -0.41            +0.21            -0.21
+COMPUTE-SELLERS              -0.35            -0.42            +1.74
+SOFTWARE                     -0.26            +0.39            -2.60
+MEGACAP                      -0.25            -1.19            -0.22
+OLD-ECON                     -0.27            -0.39            -0.84
+QQQ                          -0.24            -0.42            -0.68
+SPY                          -0.21            -0.34            -0.62
+DIA                          -0.29            -0.48            -0.93
+IGV                          -0.16            +0.04            -2.64
+SOXX                         -0.31            -0.24            -0.23
+XLE                          +1.05            +1.54            +1.19
+XLI                          -0.23            -0.45            -0.93
+SPREAD QQQ-DIA               +0.05            +0.05            +0.25   <- positive = Nasdaq OUTPERFORMS
+
+RATE SHOCK — mean return on those days (%)
+BASKET              PRE  Jan-May26   CHOP Jun-Aug26       NOW  Sep26
+  (n days)                      14                7                0
+SEMIS                        -1.19            -2.39                -
+COMPUTE-SELLERS              -0.17            -3.62                -
+SOFTWARE                     -0.51            -0.14                -
+MEGACAP                      -1.05            +0.21                -
+OLD-ECON                     -1.17            -0.69                -
+QQQ                          -0.88            -0.90                -
+SPY                          -0.78            -0.40                -
+DIA                          -0.87            -0.30                -
+IGV                          -0.55            -0.79                -
+SOXX                         -1.09            -1.95                -
+XLE                          +1.11            +0.46                -
+XLI                          -0.95            -0.25                -
+SPREAD QQQ-DIA               -0.02            -0.60                -   <- positive = Nasdaq OUTPERFORMS
+
+============================================================================================
+READ: T2 QQQ-DIA on OIL SHOCK days is the direct test. NEGATIVE in CHOP, POSITIVE in NOW = thesis.
+      T1 betas falling CHOP->NOW = uncertainty decay. Flat betas = it was sector mix.
+      NOW has ~6 sessions. A sign is a reading, not a result.
+============================================================================================

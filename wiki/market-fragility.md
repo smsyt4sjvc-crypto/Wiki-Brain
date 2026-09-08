@@ -4645,3 +4645,35 @@ At 2:55pm I filed the Dow/Nasdaq split as *"not what a discount-rate shock looks
 - **⚠️ WHAT IS STILL UNDER-WEIGHTED (2 of my 3 stand):** **financing** — volume realisation does not fix a capital structure whose backstop terminates on a rating (2:55pm), and 15Y+ IG is 6.26%; **and the compute-denominated sellers are precisely the names carrying that financing risk (ORCL 4, CRWV 2, IREN 5).** ⇒ **Jake's "compute-denominated benefits from Jevons" and the vault's "these are the fragile balance sheets" are BOTH TRUE and describe the same four tickers. The revenue line improves while the capital structure does not.** **That, not the MW ceiling, is the real tension in his thesis.**
 - **🚩 THE TEST IS BUILT: `tools/jevons_beta_decay_cell.py`** (Jake to run). **T1** rolling/period beta of each basket to the 10Y REAL yield and to Brent — his uncertainty-decay mechanism predicts both shrink from CHOP (Jun-Aug) to NOW. **T2** shock-day event study with the **QQQ−DIA spread on oil-shock days** as the direct form of *"all summer Nasdaq sold off hard"* — negative in CHOP, positive in NOW = thesis. **T3** the 9/6 decomposition run per period: EPS-driven in NOW vs multiple-driven in CHOP = *"the numbers are rolling in,"* measured. **⚠️ the cell states its own limit: the TOKEN-denominated seller has no public pure-play, so only two thirds of his split is testable in listed markets.**
 - **GRADES: no moves. But the seller-denomination split is now the frame for reading ORCL's print Thursday** — OCI revenue is compute-denominated, and the RPO's prepaid/customer-supplied GPU share (⬜ tonight) is where the token-side counterparty risk shows up.
+
+## 2026-09-08 ~3:50pm PDT — ⛔✅⭐⭐⭐⭐⭐⭐ **THE THESIS TEST RAN (`raw/2026-09-08-jevons-beta-decay-colab-output.txt`): THE "NOW" COLUMN IS EMPTY SO THE QUESTION IS UNANSWERED — BUT THE JAN-MAY vs JUN-AUG COMPARISON FALSIFIES THE PREMISE AND FINDS SOMETHING NEITHER OF US PREDICTED: THE DE-SENSITIZATION ALREADY HAPPENED, AND IT HAPPENED IN *SEMIS*. SOFTWARE AND COMPUTE-SELLERS WENT THE OTHER WAY.**
+### ⚠️ FIRST — THE TEST CANNOT ANSWER THE QUESTION YET, AND THAT IS THE HONEST HEADLINE
+**NOW (Sep) = 5 sessions · 2 oil-shock days · ZERO rate-shock days** (the 10Y has not moved +5bp in a day this month; today was +2.6bp). **The beta guard refused to fit on n=5.** ⇒ **nothing in the NOW column is a result. Re-run in 2-3 weeks.** *(⬜ registered: re-run ~Sept 25.)*
+### ⛔ FINDING 1 — THE PREMISE IS FALSIFIED IN RELATIVE TERMS
+**Jake: *"All summer Nasdaq sold off hard when Iran/oil escalated."*** **On oil-shock days (Brent ≥ +2%):**
+| QQQ−DIA spread | PRE Jan-May | CHOP Jun-Aug | NOW |
+|---|---|---|---|
+| | **+0.05** | **+0.05** | +0.25 (n=2) |
+⇒ **QQQ OUTPERFORMED DIA on oil-shock days in BOTH periods, including all summer.** **What IS true is the ABSOLUTE experience: QQQ's mean oil-shock day went −0.24% → −0.42%, roughly twice as painful. But DIA went −0.29% → −0.48% over the same window.** ⇒ **THE WHOLE MARKET GOT MORE OIL-SENSITIVE LAST SUMMER; IT WAS NOT A NASDAQ PHENOMENON.** *(Jake's felt experience is real and the attribution is not — the same shape as the 9/7 UMich wedge, where the level was right and the cross-section explained it.)*
+### ★★★★★★ FINDING 2 — THE ROTATION IS *INSIDE* TECH, AND IT INVERTS THE THESIS'S OWN PAIRING
+*(oil beta read as %-move per %-oil — the printed figure ÷100; the cell's header label is off by 100×, cosmetic, ⬜ fix)*
+| Basket | oil beta PRE → CHOP | rate beta PRE → CHOP (% per bp) |
+|---|---|---|
+| **SEMIS** | −0.229 → **−0.014  (−94%)** | −0.167 → −0.099 **(−41%)** |
+| SOXX | −0.216 → −0.024 | −0.173 → −0.109 |
+| **SOFTWARE** | +0.025 → **−0.142** | −0.020 → **−0.102 (5× WORSE)** |
+| IGV | +0.005 → −0.136 | −0.040 → −0.122 (3× worse) |
+| **COMPUTE-SELLERS** | −0.127 → −0.201 | −0.060 → **−0.122 (2× worse)** |
+| QQQ | −0.104 → −0.091 | −0.098 → −0.092 (flat) |
+| MEGACAP | −0.132 → −0.182 | −0.107 → −0.104 (flat) |
+| XLE *(sanity check)* | +0.221 → +0.280 | +0.139 → +0.187 | 
+- ⇒ **SEMIS STOPPED TRADING AS AN OIL/DURATION ASSET OVER THE SUMMER. SOFTWARE AND COMPUTE-SELLERS STARTED.** **That is the exact inverse of the thesis's pairing (*"software and compute volume is carrying"*).**
+- **★★★★★ THE SHARPEST NUMBER IN THE OUTPUT — RATE-SHOCK DAYS IN THE CHOP: COMPUTE-SELLERS −3.62% · SEMIS −2.39% · DIA −0.30%.** **Compute-sellers took TWELVE TIMES the Dow's damage on a ≥5bp day.**
+### THE READ — JAKE'S MECHANISM IS REAL AND POINTED AT THE WRONG HALF
+- **✅ The uncertainty-decay mechanism IS visible, and it is in the SEMIS — where the earnings actually printed** (AVGO AI +54% q/q with a +30% guide, TSMC +44.7% y/y, memory inventories <10 days, ISM short 8 months). **A 94% collapse in oil beta and a 41% fall in rate beta is exactly what "the numbers are rolling in" should look like, and it is measured.**
+- **⛔ The names whose revenue is DENOMINATED IN COMPUTE went the other way — and that is precisely where the 3:40pm financing objection said the risk sat.** **CRWV, IREN, ORCL, NBIS *are* that basket.** ⇒ **the market is pricing their CAPITAL STRUCTURE, not their volume.** **Both halves of Jake's own seller-denomination axis survive — compute-denominated sellers get the Jevons volume AND the financing beta — but the financing beta is currently winning, which is the vault's standing position stated in prices for the first time.**
+- **⇒ THE SYNTHESIS: the June-August chop was not "AI de-rating." It was a ROTATION WITHIN AI — from the financed layer to the earning layer.** Semis (earn now, no leverage) shed their macro beta; compute-sellers (earn later, levered) absorbed it. **That is a better description of the tape than either "AI is duration" or "AI stopped being duration," and neither of us had it before the test.**
+### GRADES (16c) → [[grades]]
+**No moves — a regime measurement, not an issuer event.** **But the direction is real: MU 8 / AVGO 8 / TSM 7 are the basket whose macro beta collapsed, and ORCL 4 / CRWV 2 / IREN 5 are the basket that absorbed it. The grade spread across those two groups is now supported by measured betas as well as by balance-sheet work.**
+**⚠️ LIMITS, STATED:** univariate betas on correlated factors (oil and rates co-move); n = 102 / 64 / 5 sessions; ^TNX is NOMINAL so the real-vs-breakeven split is not tested; XLE behaving correctly is the only internal sanity check.
+**📌 REGISTERED:** **re-run ~Sept 25 when NOW has n>20** · multivariate (oil AND rates jointly) to separate the channels · fix the beta_oil print scale · **add a 2025 baseline period — if semis' oil beta was ALSO low in 2025, the CHOP decay is mean-reversion, not uncertainty resolution.** *(That last one is the strongest available disconfirmer of Finding 2 and it is not yet run.)*
