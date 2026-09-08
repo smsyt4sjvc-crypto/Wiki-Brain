@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **512 dated entries across 4 notes · 2026-05-22 → 2026-09-08 · refreshed 2026-09-08 08:08 PDT**
+> **513 dated entries across 4 notes · 2026-05-22 → 2026-09-08 · refreshed 2026-09-08 08:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -537,3 +537,4 @@
 - `2026-09-07` [compression-thesis.md:L3017](../compression-thesis.md) — 2026-09-07 ~1:20pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS "TPU INFERENCE EXTERNALIZATION FULL STEAM AHEAD" (InferenceX Official Preview, Sept 7; Jake's PDF `raw/2
 - `2026-09-07` [metered-compute.md:L3370](../metered-compute.md) — 2026-09-07 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **WEEKLY TOKEN REPORT (w/e 9/6) + JAKE'S SEGMENTATION QUESTION: THE FRONTIER LIST PRICE WENT *UP* THROUGH THE AUGUST D
 - `2026-09-08` [ai-financing-fragility.md:L7752](../ai-financing-fragility.md) — 2026-09-08 ~6:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE LABS ARE TRYING TO CROSS FROM STRUCTURED CREDIT INTO THE IG BOND MARKET: BANKERS FOR OPENAI *AND* ANTHROPIC ARE 
+- `2026-09-08` [ai-financing-fragility.md:L7767](../ai-financing-fragility.md) — 2026-09-08 ~8:40am PDT — ✅⭐⭐⭐⭐⭐⭐ **QUALCOMM×AMAZON IS THE THIRD "WARRANTS-FOR-VOLUME" DEAL AND THE VAULT PRE-REGISTERED THE PATTERN. RUN THROUGH THE D

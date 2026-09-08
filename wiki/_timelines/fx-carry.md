@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **485 dated entries across 3 notes · 2026-05-22 → 2026-09-08 · refreshed 2026-09-08 08:08 PDT**
+> **487 dated entries across 3 notes · 2026-05-22 → 2026-09-08 · refreshed 2026-09-08 08:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -510,3 +510,5 @@
 - `2026-09-07` [new-economy-regime.md:L4928](../new-economy-regime.md) — 2026-09-07 ~6:05pm PDT — ⭐⭐⭐⭐⭐ **UMICH 1-YEAR EXPECTATIONS SPLIT BY STOCKHOLDINGS (Jake's chart, Aug 28 2026 vintage, `raw/2026-09-07-umich-inflation-
 - `2026-09-07` [new-economy-regime.md:L4950](../new-economy-regime.md) — Addendum 2026-09-07 ~7:45pm PDT — **CHINA AUGUST TRADE (Bloomberg headlines via Jake): EXPORTS +25.0% y/y USD (est. +25.9) · IMPORTS +28.2% (est. +31.
 - `2026-09-08` [ai-financing-fragility.md:L7752](../ai-financing-fragility.md) — 2026-09-08 ~6:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE LABS ARE TRYING TO CROSS FROM STRUCTURED CREDIT INTO THE IG BOND MARKET: BANKERS FOR OPENAI *AND* ANTHROPIC ARE 
+- `2026-09-08` [ai-financing-fragility.md:L7767](../ai-financing-fragility.md) — 2026-09-08 ~8:40am PDT — ✅⭐⭐⭐⭐⭐⭐ **QUALCOMM×AMAZON IS THE THIRD "WARRANTS-FOR-VOLUME" DEAL AND THE VAULT PRE-REGISTERED THE PATTERN. RUN THROUGH THE D
+- `2026-09-08` [new-economy-regime.md:L4962](../new-economy-regime.md) — 2026-09-08 ~8:40am PDT — ⭐⭐⭐⭐⭐ **WASHINGTON TAKES DIRECT EQUITY IN QUANTUM: D-WAVE AND RIGETTI FINALISE $100M CHIPS DEALS TODAY — AND THE D-WAVE ARITH

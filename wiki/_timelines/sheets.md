@@ -1,6 +1,6 @@
 # ⏱ SHEETS — merged timeline (the gate)
 
-> **234 dated entries across 2 notes · 2026-05-22 → 2026-09-08 · refreshed 2026-09-08 08:08 PDT**
+> **235 dated entries across 2 notes · 2026-05-22 → 2026-09-08 · refreshed 2026-09-08 08:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -258,4 +258,5 @@
 - `2026-09-07` [ai-financing-fragility.md:L7733](../ai-financing-fragility.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **IREN, QUANTIFIED FROM THE FUNDING SIDE: "UP TO $30B BY JUNE 2027" AGAINST $7.6B CASH + $3.5B OF ATM — AND THE CEO'S "
 - `2026-09-07` [balance-sheet-board.md:L809](../balance-sheet-board.md) — Pointer 2026-09-07 ~8:15am PDT — **IREN: $30B capex ceiling by Jun-2027 · $19B raised past year · $7.6B cash / $7.6B debt · $3.5B ATM remaining (FT vi
 - `2026-09-08` [ai-financing-fragility.md:L7752](../ai-financing-fragility.md) — 2026-09-08 ~6:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE LABS ARE TRYING TO CROSS FROM STRUCTURED CREDIT INTO THE IG BOND MARKET: BANKERS FOR OPENAI *AND* ANTHROPIC ARE 
+- `2026-09-08` [ai-financing-fragility.md:L7767](../ai-financing-fragility.md) — 2026-09-08 ~8:40am PDT — ✅⭐⭐⭐⭐⭐⭐ **QUALCOMM×AMAZON IS THE THIRD "WARRANTS-FOR-VOLUME" DEAL AND THE VAULT PRE-REGISTERED THE PATTERN. RUN THROUGH THE D
 - `2026-09-08` [balance-sheet-board.md:L811](../balance-sheet-board.md) — Addendum 2026-09-08 ~6:45am PDT — **ORCL INTO TONIGHT: THE NEW LINE IS "NO FURTHER DEBT ISSUANCE DURING CALENDAR 2026," AND IT COLLIDES WITH THE $3.3B

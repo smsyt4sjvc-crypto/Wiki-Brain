@@ -1,0 +1,69 @@
+# Jake paste 2026-09-08 ~8:33am PT. Aggregator daily brief, sources as stated inline.
+
+Daily Market Brief — Tuesday, September 8, 2026
+
+1. Amazon just gave Qualcomm a potentially $60B path into hyperscale AI silicon — this is much bigger than a normal “partnership” announcement
+
+Confirmed this morning: Qualcomm and Amazon announced a multi-generation custom-silicon collaboration for AWS AI inference, plus optical connectivity extending to 1.6 Tbps using Qualcomm SerDes and optical-DSP technology. More important than the press release is Qualcomm’s new SEC filing: Amazon received warrants for up to 25 million QCOM shares at $161.26, with vesting tied to commercial arrangements, purchase orders and actual purchases of Qualcomm server chips, systems and manufacturing services. Those milestones run up to $60 billion of Amazon payments, and 3.75 million shares vested immediately based on initial purchase commitments.  QCOM was roughly 5–7% higher in morning trading. 
+
+Investment read: this turns Qualcomm’s data-center move from a speculative AI200 story into a real hyperscaler relationship with economically meaningful commitments. It is bullish QCOM and validates the broader migration toward hyperscaler-specific inference ASICs. It is a potential competitive threat to AVGO and MRVL in custom silicon/SerDes and eventually NVDA in inference, although expanding AWS compute demand can grow the entire silicon pool. The optical piece reinforces the 800G→1.6T volume thesis for COHR/LITE/CRDO even if Qualcomm itself takes DSP share. It also adds another large memory-bandwidth consumer to the supply picture you are tracking.
+
+The caveat: Qualcomm has not disclosed deployment volumes, specific accelerator generations or a shipment timetable. The $60B is a warrant-vesting ceiling tied to future purchases, not guaranteed booked revenue. But the 3.75M warrants already vested make this materially more concrete than a generic MOU.
+
+Qualcomm's September 8 announcement⁠￼ · Qualcomm SEC filing with Amazon purchase/warrant terms⁠￼
+
+⸻
+
+2. The Middle East shock widened today: Houthis hit Saudi energy facilities, operations were halted, and Brent came within cents of $100
+
+Confirmed: Houthi missile/drone attacks struck southern Saudi Arabia, including energy infrastructure around Jazan, wounding 73 people. Saudi Arabia’s Energy Ministry said fires erupted and operations at some oil facilities and utilities were temporarily suspended. Jazan contains a roughly 400,000-bpd refinery. Saudi authorities called the attacks a dangerous escalation and vowed a response. 
+
+Brent reached roughly $99.46 intraday before trading around $98.4; WTI reached about $94.6. Tanker flows through Hormuz also remain well below normal.  The inflation transmission is already showing up in rates: the U.S. 10Y pushed above 4.8% today as markets priced the additional energy risk. 
+
+Investment read: this is now broader than an Iran/Hormuz risk premium. Saudi downstream infrastructure itself is being targeted. XOM/CVX/COP/OXY remain the clean upstream beneficiaries; VLO/MPC/PSX benefit if refinery disruption keeps distillate cracks tight. Airlines, transports and discretionary remain the obvious losers.
+
+One important timing distinction: Friday’s August CPI will not contain today’s oil spike. But current gasoline/diesel prices can affect Friday’s University of Michigan inflation expectations, Fed forward guidance and eventually September CPI. So a benign August CPI could still coexist with deteriorating forward inflation conditions. That is particularly bad for the long end and for financing-sensitive AI infrastructure.
+
+⸻
+
+3. Tomorrow’s 10Y auction is the first major test of whether the long-end problem is inflation, supply, or both — then PPI/CPI hit immediately behind it
+
+Markets reopened today after Monday’s Labor Day closure into a 10Y yield around the 4.8% area and roughly 59% market-implied odds of a 25-bp Fed hike on September 16. 
+
+The verified catalyst sequence is:
+
+Wednesday Sept. 9: U.S. 10-year reopening at 1:00 p.m. ET; the prior auction cleared at 4.683%. Treasury also begins at least doubling long-end liquidity-support buybacks from $2B to $4B per operation on September 9. 
+Thursday Sept. 10, 8:30 a.m. ET: August PPI. 
+Thursday, 10:00 a.m. ET: August Existing Home Sales — the date from your Kobeissi screenshot is officially confirmed by NAR. 
+Friday Sept. 11, 8:30 a.m. ET: August CPI. 
+Friday, 10:00 a.m. ET: preliminary September UMich sentiment + inflation expectations. 
+
+Investment read: tomorrow’s auction is unusually informative because Treasury is simultaneously stepping up long-end buybacks. A weak auction/tail despite that support would reinforce the term-premium/fiscal-supply thesis. A strong auction followed by cool CPI would be the cleaner duration-relief setup for TLT, QQQ, software, REITs and homebuilders.
+
+The most bearish combination is weak 10Y demand + hot PPI/CPI + rising UMich expectations. That would hit both sides of the AI-capex equation: a higher discount rate on NVDA/AVGO/software, and higher financing costs for the SPVs, neoclouds and data-center developers actually funding the buildout.
+
+⸻
+
+4. Thursday is the cleanest AI-capex validation day of the week: TSMC sales before dawn, Oracle earnings after the close
+
+TSMC officially releases August revenue Thursday, Sept. 10 at 13:30 Taipei time, or 1:30 a.m. ET. Through July, TSMC revenue was already +37.0% YoY YTD, with July itself +44.7%.  Oracle then reports Q1 FY27 after Thursday’s U.S. close, with its call at 5:00 p.m. ET. 
+
+Oracle is the more interesting financing test. It enters the quarter with $638B of RPO, including $75B of prepaid/customer-supplied GPU hardware. FY26 free cash flow was -$23.7B. Oracle expects roughly $40B of debt/equity funding in FY27, though it says it does not expect additional debt issuance during calendar 2026. Q1 guidance calls for 27–29% total revenue growth, 58–64% cloud growth in USD and $1.72–$1.76 non-GAAP EPS. 
+
+Investment read: TSMC tells us whether physical wafer throughput is still accelerating; Oracle tells us whether that compute is converting into revenue fast enough to justify the capital structure.
+
+The strongest AI read is TSMC strong + OCI/cloud strong + manageable incremental capex/funding: bullish ORCL, TSM, NVDA, AVGO, MU, ANET, HPE and VRT. The more interesting warning would be strong TSMC but disappointing Oracle monetization or cash conversion. That would support the thesis that AI demand remains real while financing/monetization becomes the bottleneck rather than silicon demand itself.
+
+TSMC's official September 10 calendar⁠￼ · Oracle's official earnings announcement⁠￼
+
+⸻
+
+5. Washington is now taking direct equity positions in quantum companies — D-Wave and Rigetti finalized $100M CHIPS deals today
+
+This is an underreported policy/capital-markets development. D-Wave and Rigetti both confirmed definitive $100M agreements with the U.S. Commerce Department today under CHIPS R&D funding. D-Wave’s SEC filing shows an initial $53.55M funding tranche and a total award up to $100M. 
+
+The structure is unusual. D-Wave says it will issue Commerce 7,095,721 shares at $14.093 per share, effectively giving the federal government a direct equity position alongside the grant.  Rigetti likewise signed a securities-issuance agreement with Commerce alongside its $100M award.  WSJ reports Quantinuum is also part of the broader $300M program; its latest SEC materials I found still described its $100M arrangement as an earlier LOI, so I would treat D-Wave and Rigetti as definitively confirmed today and Quantinuum as reported pending confirmation of equivalent final documents. 
+
+Investment read: this is much more significant than the absolute $200–300M. Washington is increasingly using equity + milestone funding, rather than passive subsidies, to create strategic national champions in advanced computing. Immediate beneficiaries are QBTS and RGTI. Secondary beneficiaries include cryogenics, photonics, control ASICs and specialized semiconductor fabrication.
+
+The trade risk is obvious: these remain early-stage, high-volatility companies, and the government shares are dilutive. But strategically the development is important because it puts quantum alongside semiconductors and AI infrastructure as an explicitly capitalized U.S. industrial-policy priority, creating a government-supported floor underneath R&D that did not previously exist at this scale.
