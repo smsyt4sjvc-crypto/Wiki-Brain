@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **223 dated entries across 2 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-07 19:42 PDT**
+> **224 dated entries across 2 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-07 20:07 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -248,3 +248,4 @@
 - `2026-09-07` [oil-value-chain.md:L2768](../oil-value-chain.md) — Addendum 2026-09-07 ~8:15am PDT — **JAZAN HIT AGAIN (REPORTED) — THE 9/4 ELIGIBILITY SPLIT NOW HAS A RED-SEA-SIDE CAVEAT** (detail: `war/war-board` 20
 - `2026-09-07` [oil-value-chain.md:L2772](../oil-value-chain.md) — Addendum 2026-09-07 ~8:30am PDT — **RETAIL: GASOLINE $4.14/gal NATIONAL AVERAGE, ~+$1 y/y, A LABOR DAY RECORD (AP/AAA); DIESEL ~$5.85 (on file since 9
 - `2026-09-07` [oil-value-chain.md:L2774](../oil-value-chain.md) — Addendum 2026-09-07 ~8:30am PDT — **STREET-LEVEL, SECOND READING (Jake's GasBuddy screenshot, Spokane 99201, DIESEL, "Credit Only" filter; `raw/2026-0
+- `2026-09-07` [oil-value-chain.md:L2780](../oil-value-chain.md) — 2026-09-07 ~8:10pm PDT — ⭐⭐⭐⭐⭐⭐ **REUTERS: BUNKER FUEL IS THE THIRD PRODUCT TO GO SHORT, AND THE NUMBER REUTERS PRINTS BUT DOES NOT CONNECT IS THAT VL

@@ -1,0 +1,29 @@
+# Reuters (Analysis), 2026-09-07 — "Ship fuel shortage looms as refiners strained by war favour other products"
+# Jake's link. Reuters.com 401s from container AND WebFetch; retrieved via WebSearch summary + investing.com syndication (class 7: vary the tool).
+# https://www.reuters.com/business/energy/ship-fuel-shortage-looms-refiners-strained-by-war-favour-other-products-2026-09-07/
+
+CORE: A shortage of fuel oil (ships + power plants) looms in Q3 as refiners squeezed by wars that disrupted
+both crude processing and tanker traffic prioritise DIESEL and other products at fuel oil's expense.
+
+PRICES
+- VLSFO (main shipping fuel), Singapore, as of Sept 1: just under $825/metric ton = $130/bbl, +76% since the Iran war began.
+- Brent over the same period: +40%. (VLSFO outstripping crude by ~36pp.)
+
+BALANCE
+- Energy Aspects: deficit of 218,000 bpd in the third quarter — first shortfall estimated since Q3 2025, when it was a marginal 6,000 bpd.
+
+SUPPLY
+- Russia fuel oil exports August: record low 591,000 bpd vs 2025 average >860,000 bpd (Ukrainian drone attacks on refineries).
+- Middle East fuel oil exports March-August: -45% y/y to an average 447,000 bpd.
+- Kuwait Al-Zour refinery: ONE 26,000 bpd cargo since March vs ~191,000 bpd in January-February.
+
+INVENTORIES
+- Singapore (world's largest bunker hub): imports more than half of its ~1 million bpd demand; stocks 30% below the three-year seasonal average.
+- ARA (Amsterdam-Rotterdam-Antwerp): stocks 30% below average; gasoline lowest in nearly 5 years (Aug 27).
+- Fujairah: stocks 30% below the three-year average.
+- US East Coast distillate: RECORD LOW in the week to August 28.
+
+REGIONAL
+- Asia hardest hit — most reliant on Gulf flows disrupted by the Iran war.
+
+SOURCES CITED: Energy Aspects (Royston Huan), Rystad Energy (Valerie Panopio), Kpler (imports), ZeroNorth (bunker prices).

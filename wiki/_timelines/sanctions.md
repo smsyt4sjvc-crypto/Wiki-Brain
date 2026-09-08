@@ -1,6 +1,6 @@
 # ⏱ SANCTIONS — merged timeline (the gate)
 
-> **405 dated entries across 5 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-07 19:42 PDT**
+> **406 dated entries across 5 notes · 2026-03-13 → 2026-09-07 · refreshed 2026-09-07 20:07 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -426,6 +426,7 @@
 - `2026-09-07` [oil-value-chain.md:L2768](../oil-value-chain.md) — Addendum 2026-09-07 ~8:15am PDT — **JAZAN HIT AGAIN (REPORTED) — THE 9/4 ELIGIBILITY SPLIT NOW HAS A RED-SEA-SIDE CAVEAT** (detail: `war/war-board` 20
 - `2026-09-07` [oil-value-chain.md:L2772](../oil-value-chain.md) — Addendum 2026-09-07 ~8:30am PDT — **RETAIL: GASOLINE $4.14/gal NATIONAL AVERAGE, ~+$1 y/y, A LABOR DAY RECORD (AP/AAA); DIESEL ~$5.85 (on file since 9
 - `2026-09-07` [oil-value-chain.md:L2774](../oil-value-chain.md) — Addendum 2026-09-07 ~8:30am PDT — **STREET-LEVEL, SECOND READING (Jake's GasBuddy screenshot, Spokane 99201, DIESEL, "Credit Only" filter; `raw/2026-0
+- `2026-09-07` [oil-value-chain.md:L2780](../oil-value-chain.md) — 2026-09-07 ~8:10pm PDT — ⭐⭐⭐⭐⭐⭐ **REUTERS: BUNKER FUEL IS THE THIRD PRODUCT TO GO SHORT, AND THE NUMBER REUTERS PRINTS BUT DOES NOT CONNECT IS THAT VL
 - `2026-09-07` [war-board.md:L4577](../war/war-board.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **LABOR DAY OVERNIGHT: IRAN DECLARES A NEW RESTRICTED ZONE NEAR HORMUZ · KPLER ~10 COMMODITY SHIPS/DAY (10-DAY WINDOW, 
 - `2026-09-07` [war-board.md:L4596](../war/war-board.md) — 2026-09-07 ~9:40am PDT — **ZH FEED SCAN (25 items, all new vs 9/4; `raw/2026-09-07-zh-feed-scan.txt`, bodies `raw/2026-09-07-zh-feed-bodies.txt`) — TH
 - `2026-09-07` [war-board.md:L4611](../war/war-board.md) — 2026-09-07 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE PRIMARY BEHIND THIS MORNING'S "~10 SHIPS/DAY" (Reuters/Florence Tan via gCaptain, Jake's link, `raw/2026-09-07-
