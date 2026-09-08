@@ -1,0 +1,65 @@
+# Jake paste 2026-09-08 ~6:38am PT. Aggregator brief, sources as stated inline.
+
+MARKET INTELLIGENCE — U.S. OPEN | SEPT. 8, 2026
+
+OPEN TAPE: Dow futures ~-0.8%, S&P ~-0.2/0.3%, Nasdaq roughly flat. Brent ~$98.5, WTI ~$93.8. U.S. 10Y ~4.80%, 30Y ~5.25%. The market is reopening after Labor Day into an oil shock, heavy Treasury supply and Friday CPI. 
+
+1. HORMUZ IS WORSE — BUT VISIBLE SHIP COUNTS ARE UNDERESTIMATING ACTUAL FLOW | 10/10
+Source layer: Javier Blas/Rory Johnston/fast-news → Reuters/Kpler/Goldman/AP verification.
+Confirmed: Kpler recorded only 5 commodity crossings Saturday and zero Sunday, versus 31 the previous weekend; the trailing 10-day average is roughly 10/day, lowest since May. Brent is pushing toward $100 after renewed U.S.–Iran attacks and strikes on Saudi energy infrastructure. 
+Critical nuance: AIS-visible shipping is no longer the same thing as oil throughput. Goldman estimates extensive “dark” crossings may put actual Gulf exports near 15–16 mb/d versus ~10 mb/d visible, which helps reconcile apparently contradictory government/Kpler numbers. 
+Affected: XOM/CVX/refiners positive; transports, retailers, industrial margins and duration negative.
+Thesis: Stagflation/rates thesis strengthened, catastrophic blockade thesis moderated. The market has adapted somewhat, but insurance/infrastructure risk is preserving a substantial oil premium.
+
+2. TODAY BEGINS THE TREASURY STRESS TEST WE’VE BEEN WAITING FOR | 10/10
+Source: Treasury / WSJ / Fed-market layer.
+September supply is $58B 3Y today → $39B 10Y Wednesday → $22B 30Y Thursday. The 10Y is already around 4.79–4.80% and the 30Y around 5.25% before those auctions. 
+Then, beginning Sept. 9, Treasury will at least double long-end liquidity-support buybacks from $2B to $4B per operation in the 10–30Y sectors. Treasury explicitly describes this as liquidity support—not QE or deficit monetization. 
+September Fed-hike pricing is around ~58–60%, with CPI Friday likely decisive. 
+Thesis: This week is an unusually clean test of the sovereign-vs-corporate-capital thesis. Watch indirect bidders and tails on the 10Y/30Y more than today’s 3Y.
+
+3. OPENAI + ANTHROPIC ARE TRYING TO CROSS FROM VC/STRUCTURED CREDIT INTO THE IG BOND MARKET | 9.5/10
+Source: FT; Morgan Stanley/Goldman banker discussions.
+Reported, not issuer-confirmed: bankers representing OpenAI and Anthropic are discussing investment-grade ratings after their IPOs with rating agencies. Both remain unprofitable/FCF-negative, so there is no actual IG rating yet. 
+Why this matters: IG status would open the roughly $11.7T corporate bond market and let model companies finance compute directly rather than leaning as heavily on Nvidia/Oracle/hyperscaler credit support, SPVs and private credit.
+Affected: ORCL, NVDA, MSFT, GOOGL, AI-credit/SPV complex.
+Thesis: Very significant evolution. The AI capital cycle is trying to institutionalize itself. That increases available capital—but also eventually puts model economics directly in front of bond investors.
+
+4. ORACLE TONIGHT IS PROBABLY THE MOST IMPORTANT SINGLE-COMPANY FINANCING READ OF THE WEEK | 9.5/10
+Source: Oracle primary filings/results.
+Going in, Oracle’s RPO is $638B, +363% YoY. Oracle says many of the giant AI contracts involved customers either prepaying for GPUs or supplying the GPUs themselves, which materially reduces Oracle’s working-capital burden relative to the headline backlog. 
+Oracle guided Q1 FY27 to +27–29% total revenue, +58–64% cloud growth and $1.72–$1.76 non-GAAP EPS. FY27 revenue remains guided to $90B. Oracle raised $43B debt + $5B equity in FY26 and expects roughly $40B additional debt/equity financing in FY27, while saying it expects no further debt issuance during calendar 2026. 
+What matters tonight: OCI growth, RPO conversion, customer concentration, capex, FCF, GPU prepayments and whether the financing plan changes.
+Thesis: A huge backlog is already known. Cash conversion and who funds the equipment now matter more than another giant RPO headline.
+
+5. MEMORY TIGHTNESS IS BECOMING THE NEXT PHYSICAL BOTTLENECK | 9/10
+Source layer: SemiAnalysis/Dylan Patel/hardware feeds → Korean brokerage/Reuters market confirmation.
+KB Securities estimates Samsung and SK Hynix memory inventories are now below 10 days, and argues sellable supply could become critically tight in 2027 as HBM, server DRAM and enterprise SSD demand compete for capacity. This is an analyst estimate, not company-reported inventory data. 
+The tape agrees directionally: after Monday’s SK Hynix +8.3% / Samsung +5.7%, both continued higher Tuesday morning. 
+Affected: MU, SK Hynix, Samsung, LRCX, AMAT, KLAC, TSM; indirectly NVDA/AVGO.
+Thesis: Strengthens your chip-cycle argument. Token-price commoditization is not translating into weaker physical infrastructure demand; it is pulling more memory into the system.
+
+6. CHINA’S TRADE DATA LOOKS LIKE JE​VONS + THE DEMAND PROBLEM AT THE SAME TIME | 8.5/10
+Source: Reuters / China customs / WSJ.
+August exports +25% YoY, imports +28.2%. Reuters specifically describes exports as being supported by high-tech and AI-related products while domestic demand remains sluggish. 
+WSJ reports semiconductor exports +130% YoY and automatic data-processing equipment +76.5%. 
+Affected: semiconductor equipment, memory, China tech/export chain; raises U.S./EU trade-policy risk.
+Thesis: This is essentially the pattern you were describing: China can have weak domestic demand while simultaneously experiencing extraordinary externally driven AI/industrial demand. Stimulus alone doesn’t solve the political problem created by the resulting trade surplus.
+
+7. COPPER JUST MADE A NEW RECORD — ANOTHER COST INPUT FOR THE POWER BUILD | 8/10
+Source: Reuters / WSJ commodity desks.
+LME copper hit $14,533/ton, a record. Current tightness is partly artificial: material has been pulled toward the U.S. ahead of possible tariffs, reducing availability elsewhere. But underlying mine output also fell 1.1% in H1, while AI/data centers/grid investment remain structural demand drivers. 
+Affected: FCX/miners, ETN/GEV/PWR/grid capex; negative for data-center construction costs at the margin.
+Thesis: Power infrastructure is becoming scarce across multiple inputs simultaneously—generation, transformers, copper, permitted MW and financing.
+
+OPEN READ
+
+AI demand: ↑↑
+Memory/physical compute: ↑↑
+Power/material constraints: ↑↑
+Oil/inflation: ↑↑
+Risk-free financing cost: ↑
+AI access to capital: still expanding
+Weakest link: increasingly financing economics rather than end demand
+
+The most important thing today is not the equity open. It’s the sequence: Treasury auctions → Oracle financing/capex tonight → long-end buybacks begin Wednesday → PPI Thursday → CPI Friday. By Friday we should have a much cleaner answer on whether the bond market can absorb sovereign supply + AI capital demand + an oil shock at the same time.

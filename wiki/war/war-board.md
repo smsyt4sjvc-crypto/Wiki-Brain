@@ -4802,3 +4802,23 @@ Three vessels, one unladen — call it single-digit millions of barrels. **Again
 ### GRADES (16c) → [[grades]]
 **No moves.** Headline-level evidence; the corridor map is a dated trigger, not a print. **VLO 9 / MPC 9 / PSX 7 / PARR 8 · EWY 6 · LNG 6 all hold.**
 **📌 REGISTERED:** **the corridor MAPS — publication is the trigger; when they appear, read them for TOLL language and for whether Oman co-signs** · fetch "Iran's Hormuz leverage wanes" (the counter-thesis) and "Why isn't oil above $100" (the scoring opportunity) · **Iranian domestic fuel price as a standing internal-stress meter** · Sidr casualty reconciliation · Lebanon front scope.
+
+## 2026-09-08 ~6:45am PDT — ⛔⭐⭐⭐⭐⭐ **US-OPEN BRIEF vs THE PRIMARY I PULLED YESTERDAY: THE WEEKEND KPLER COUNTS DO NOT MATCH, AND THE "DARK CROSSINGS RECONCILE IT" NUANCE IS THE PERIMETER ERROR THIS BOARD PRE-EMPTED ON 9/4** *(`raw/2026-09-08-market-intelligence-us-open.txt`)*
+### ⛔ CONFLICT 1 — TWO KPLER WEEKEND COUNTS, SAME SOURCE, DIFFERENT NUMBERS
+| | Saturday | Sunday | 10-day avg |
+|---|---|---|---|
+| **Reuters/Florence Tan, 9/7, "data from analytics firm Kpler"** *(`raw/2026-09-07-gcaptain-...txt`, verbatim)* | **2** | **6** | 10 (Sun), ~13 (Sat), >15 (Fri) |
+| **This brief, "Kpler recorded"** | **5** | **0** | ~10 |
+- **Same firm, same weekend, both directions of the discrepancy.** ⚠️ **Possible reconciliations (⬜, none stated): crossings vs transits · laden vs all vessels · a Monday revision · one side reading the other's 10-day average as a daily.** **NEW from the brief and worth keeping either way: 31 crossings the PREVIOUS weekend** — that is the collapse's denominator, and this board did not have it.
+- ⇒ **NEITHER weekend daily count enters an argument until reconciled. The 10-day average (~10) is the only figure both agree on, and it is the one this board already filed.** *(Rule: the primary I hold beats a brief that cites the same source second-hand.)*
+### ⛔⛔ CONFLICT 2 — THE "CRITICAL NUANCE" IS THE 9/4 PERIMETER ERROR, RE-RUN
+- **Brief:** *"Goldman estimates extensive 'dark' crossings may put actual Gulf exports near 15-16 mb/d versus ~10 mb/d visible, which helps reconcile apparently contradictory government/Kpler numbers."*
+- **⛔ THIS BOARD ALREADY MADE THAT SUBTRACTION AND RETRACTED IT** (`oil-value-chain:L2750`, superseded 9/4): *"Different scopes: 'via the Strait' vs 'GULF EXPORTS.' My 7-10 mb/d implied non-Strait routing was an ARTIFACT of subtracting two measures of different quantities."* **"Gulf EXPORTS" is a producer-region measure; "Hormuz crossings" is a chokepoint measure. The difference between them is not all dark transits — it includes every barrel that leaves the region WITHOUT crossing the Strait: Petroline to Yanbu, ADCOP to Fujairah, and now ~1.9 mb/d via SUMED to the Med** (`:L` 9/7 11:25am). **Saudi alone shipped ~2.25 mb/d out of Yanbu in August** (Bloomberg/Vortexa/Kpler, 9/7).
+- ⇒ **the gap is PART dark-transit and PART known pipeline bypass, and the brief attributes 100% of it to darkness in order to "moderate the catastrophic blockade thesis."** **The moderation is unearned on this arithmetic.** ⚠️ **AND IT ALSO CUTS THE OTHER WAY: yesterday's primary said NO LADEN VLCC HAS EXITED SINCE WEDNESDAY. Dark transits explain missing AIS pings; they do not explain a Saudi product tanker being TURNED BACK.**
+- **⬜ what would actually settle it: Asian ARRIVALS 2-3 weeks out** (the discriminator this board registered on 9/1, `:L4525`) — a dark cargo still has to unload where satellites see it.
+### THE REST, FILED SHORT
+- **Brent ~$98.5 / WTI ~$93.8** (track: $97.13 → $97.93 → $98.5). **10Y ~4.80 · 30Y ~5.25.** **Dow futures −0.8% vs Nasdaq ~flat on an oil shock = the two-speed tape, intact.**
+- Copper **$14,533/t, a record** (track: ~$14,450 at 8/30, filed 9/7 9:40am); **mine output −1.1% in H1**; brief concedes tightness is *"partly artificial: material pulled toward the U.S. ahead of possible tariffs"* — **✅ that is this board's 9/7 read, confirmed by the brief's own text.** → [[new-economy-regime]].
+### GRADES (16c) → [[grades]]
+**No moves.** VLO 9 · MPC 9 · PSX 7 · PARR 8 · XOM/CVX not graded (no view beyond premium beta).
+**📌 REGISTERED:** the Kpler count reconciliation · **Asian arrivals 2-3 weeks out as the dark-transit discriminator (standing since 9/1, still the answer)** · the 31-crossing prior weekend as the baseline.
