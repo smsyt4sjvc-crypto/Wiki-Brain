@@ -1,0 +1,126 @@
+# Jake paste 2026-09-08 ~3:16pm PT. Gopher ZH/Iran cross-check + CENTCOM release verbatim.
+
+I went through the current ZeroHedge feed and cross-checked the important Iran/Middle East claims against AP, WSJ and other primary reporting. Today was a meaningful escalation, particularly after the U.S. market close.
+
+Iran / Middle East — Sep. 8
+
+1. Houthis opened a major Saudi front overnight. Iran-aligned Houthi forces launched dozens of ballistic missiles and drones into southern Saudi Arabia, hitting Abha, Jazan, Najran and Khamis Mushait. Saudi authorities confirm energy facilities and utilities were hit, fires broke out, some operations were temporarily suspended, and 73 people were wounded. The 400,000-bpd Jazan refinery was among the infrastructure affected. 
+
+This matters more than another ordinary proxy attack because Saudi Arabia’s Red Sea infrastructure is the alternative export route around Hormuz. The Houthis are now putting pressure on the escape valve Saudi Arabia has been using while Hormuz is impaired. AP explicitly identifies that strategic connection. 
+
+2. Saudi Arabia retaliated in Yemen. Saudi/coalition strikes resumed against Houthi-held areas while Saudi-backed Yemeni forces are talking openly about a campaign to retake Sanaa. ZeroHedge describes this as the sharpest Yemen escalation since the Iran war began. 
+
+So there are effectively now two connected energy fronts:
+
+Iran/Hormuz → Persian Gulf exports
+Houthis/Bab el-Mandeb → Saudi Red Sea exports
+
+That is substantially worse for the oil-risk thesis than Hormuz alone.
+
+3. The U.S. attacked additional Iranian oil tankers this afternoon. This is confirmed, not just a ZeroHedge rumor. U.S. forces struck multiple Iranian tankers near Jask and Kharg Island in response to further Iranian attempts to hit U.S. Navy warships. Iranian state TV reported tanker crews evacuating. 
+
+WSJ reports Iran had made another missile attack on a U.S. warship Monday, following the weekend attempts against an aircraft carrier and destroyer. No American warship was hit. 
+
+This is an important policy change. Washington isn’t merely bombing launchers/radars anymore; it is explicitly attacking Iran’s oil-export capacity itself as retaliation for attacks on Navy vessels.
+
+4. Iran immediately threatened retaliation against Gulf shipping. The IRGC warned crews aboard tankers in Kuwaiti and Bahraini ports to leave their vessels, saying ships there could be targets because those countries host U.S. forces and allegedly supported the tanker attacks. 
+
+That may be the most important late-day headline.
+
+The escalation ladder now looks like:
+
+Iran attacks U.S. warships → U.S. attacks Iranian oil tankers → Iran threatens tankers in allied Gulf ports.
+
+That is no longer just a fight over who gets through Hormuz.
+
+5. Iran says it captured a U.S. underwater drone in Hormuz. This one is real, but Tehran’s framing is inflated. Iran portrayed it as one of America’s most advanced unmanned submarines seized in an intelligence operation. CENTCOM says an older U.S. underwater drone malfunctioned more than a day earlier, contained no classified/sensitive collection systems, and Iran recovered it after it was effectively dead in the water. 
+
+So: capture confirmed; Iranian characterization disputed.
+
+There are also Iranian claims of shooting down an MQ-series airborne drone today. I have not found equivalent U.S. confirmation for that claim, so I’d leave it in the unconfirmed bucket for now.
+
+6. ZeroHedge is now carrying a breaking headline about a large Iranian ballistic-missile salvo toward Jordan. The article cites Iranian/Tasnim-linked reports of explosions in Jordan immediately after today’s U.S. tanker attacks. 
+
+I would not treat that particular late headline as confirmed yet. I can confirm prior Iranian attacks against Jordan and U.S. bases there, but at this cutoff I have not found AP, WSJ, CENTCOM or Jordan’s government independently confirming the new Sep. 8 salvo. That’s the headline I’d watch most closely tonight.
+
+7. Iran’s strategic rhetoric hardened significantly. Iranian security official Mohsen Rezaei says economic warfare will be answered with a maritime exclusion zone extending across the Persian Gulf to the U.S. blockade perimeter, and Iranian commentary is discussing expansion of maritime confrontation toward the northern Indian Ocean. 
+
+That fits yesterday’s shift in Iranian doctrine toward preemptive action and the Qassem Basir missile, which Iran says has better terminal guidance against moving naval targets. 
+
+8. Washington simultaneously escalated the economic war. Treasury sanctioned 36 entities tied to Iran’s remaining aviation system, including commercial/private airlines and foreign cargo-service companies, under “Operation Economic Outcast.” Bessent’s warning is essentially: do business with the remaining Iranian aviation network and risk exclusion from the U.S. financial system. 
+
+So today Washington hit Tehran on both tracks:
+
+physical oil-export infrastructure + financial/transport isolation.
+
+9. There is still a diplomatic channel — but it looks increasingly disconnected from events on the ground. Qatar says it is working with regional states and China to restore U.S.-Iran talks. Iran also reported “significant progress” on a Hormuz shipping route. Those headlines temporarily knocked crude off its highs. 
+
+That’s why oil was so violently two-way today: escalation headline → $100; negotiation headline → selloff; tanker attack → rally again.
+
+Markets
+
+Brent hit $99.46 before settling $97.92. WTI settled $93.03, up $1.55. 
+
+The S&P fell 0.58%, Dow 1.18%, Nasdaq only 0.32%; Energy gained 1.01%. The 10Y Treasury finished about 4.804% and the 2Y about 4.40%. Fed pricing still implies roughly a 60% probability of a 25-bp September hike. 
+
+That combination is important:
+
+oil ↑ + yields ↑ + stocks ↓
+
+rather than the normal geopolitical:
+
+oil ↑ + Treasuries rally / yields ↓
+
+The market is treating Iran primarily as an inflation/Fed problem, not as a traditional flight-to-safety event.
+
+Other ZeroHedge feed items worth keeping
+
+The $58B 3-year Treasury auction was solid, stopping 0.1 bp through with a 2.72x bid-to-cover, so there was no Treasury-demand accident today. 
+
+Amazon and Qualcomm announced a substantial multi-generation AI-data-center agreement; QCOM outperformed while the broader market fell. Astra/AI names also remained unusually resilient despite the oil/rates shock. ZeroHedge’s market wrap specifically noted Nasdaq/AI outperformance. 
+
+ZeroHedge is also highlighting Goldman’s warning that equity/index volatility is unusually compressed and may be vulnerable to a convexity event. That is much more interesting after today’s geopolitical sequence than it was yesterday. 
+
+And consumer credit came in substantially above expectations with revolving/credit-card debt at another record, another small piece of the “consumer can keep nominal demand/inflation alive longer than expected” problem. 
+
+What changed today
+
+The big change isn’t simply “Iran escalated again.”
+
+It’s that the conflict is spreading from a single chokepoint into the entire regional energy-distribution architecture.
+
+Before today, the market could reasonably think:
+
+Hormuz impaired → Saudi/UAE reroute barrels through Red Sea infrastructure.
+
+Today demonstrated:
+
+Hormuz impaired → reroute through Saudi Red Sea infrastructure → Houthis attack that infrastructure too.
+
+At the same time:
+
+Iran attacks U.S. Navy → U.S. attacks Iranian oil fleet → Iran threatens tankers sitting in Kuwait/Bahrain → potential U.S. response.
+
+That is a much nastier feedback loop.
+
+And it is arriving three days before CPI with Brent flirting with $100 and the market already pricing ~60% odds of a hike. That’s why I think today’s developments are materially more important for your macro setup than the stock-market decline itself.
+
+The two headlines I’d watch tonight are: confirmation/denial of the new Iranian salvo toward Jordan, and whether Iran actually follows through on its threat against tankers at Kuwait/Bahrain. Either one would likely put $100 Brent back in play very quickly. 
+
+
+///
+As I was pasting the gophers findings :
+
+PUBLIC RELEASES | Sept. 8, 2026
+U.S. Destroys 5 IRGC Tankers After Iran Targets Another American Warship
+USCENTCOM
+
+TAMPA, Fla. — U.S. Central Command (CENTCOM) forces destroyed five Iranian crude oil carriers, Sept. 8, after the Islamic Revolutionary Guard Corps (IRGC) targeted a U.S. Navy warship with ballistic missiles twice over the past two days.
+
+The U.S. warship successfully evaded the attempted Iranian attacks and continued to patrol regional waters. No American personnel were harmed.
+
+In response to Iran’s most recent failed attacks, CENTCOM destroyed the IRGC crude oil carriers M/T Kaviz, M/T Charminar, M/T Horizon 1, and M/T Riesco in the Gulf of Oman as well as M/T Derya near Kharg Island. American forces directed the crews to abandon ship before the vessels were struck and rendered inoperable.
+
+Iran has used the tankers as part of a multibillion-dollar shadow network that funds the IRGC and its regional proxies. Iran has no means by which to defend these vessels.
+
+On Sept. 5, CENTCOM forces destroyed three Iranian crude oil carriers after the IRGC tried to attack a U.S. aircraft carrier and guided-missile destroyer. All IRGC attempts against U.S. Navy warships have failed.
