@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **174 dated entries across 2 notes · 2026-07-01 → 2026-09-08 · refreshed 2026-09-09 11:54 PDT**
+> **175 dated entries across 2 notes · 2026-07-01 → 2026-09-09 · refreshed 2026-09-09 12:17 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -193,3 +193,4 @@
 - `2026-09-08` [war-board.md:L4674](../war/war-board.md) — 2026-09-08 ~6:45am PDT — ⛔⭐⭐⭐⭐⭐ **US-OPEN BRIEF vs THE PRIMARY I PULLED YESTERDAY: THE WEEKEND KPLER COUNTS DO NOT MATCH, AND THE "DARK CROSSINGS RECO
 - `2026-09-08` [war-board.md:L4695](../war/war-board.md) — 2026-09-08 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **VITOL'S CEO PUTS HORMUZ CRUDE FLOW AT ~10 mb/d AND CALLS IT "IMPROVED" — A FIFTH NUMBER ON THE BOARD'S MOST CONTEST
 - `2026-09-08` [war-board.md:L4712](../war/war-board.md) — 2026-09-08 ~3:20pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **CENTCOM DESTROYS FIVE MORE IRGC TANKERS (primary release, verbatim) — THE BOARD'S 9/5 FORECAST PRINTED IN THREE DA
+- `2026-09-09` [portfolio-state.md:L1086](../portfolio-state.md) — 2026-09-09 ~12:25pm PDT — **JAKE DISCLOSES BNO PUTS ("not good for my bno puts lol. Was cheap anyhow"). THE STRUCTURAL POINT HE MAY NOT HAVE PRICED IS

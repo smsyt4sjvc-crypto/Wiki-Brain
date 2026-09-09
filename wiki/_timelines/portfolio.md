@@ -1,6 +1,6 @@
 # ⏱ PORTFOLIO — merged timeline (the gate)
 
-> **46 dated entries across 2 notes · 2026-07-01 → 2026-09-01 · refreshed 2026-09-09 11:54 PDT**
+> **47 dated entries across 2 notes · 2026-07-01 → 2026-09-09 · refreshed 2026-09-09 12:17 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -65,3 +65,4 @@
 
 - `2026-09-01` [portfolio-state.md:L1079](../portfolio-state.md) — 2026-09-01 ~11:15am PDT — **REFINERY BASKET DISCLOSED (Jake): PBF · DINO (HF Sinclair) · PARR (Par Pacific) · PSX · MPC · VLO.** ⛔ Corrects two same-d
 - `2026-09-01` [portfolio-state.md:L1081](../portfolio-state.md) — Addendum 2026-09-01 ~11:20am PDT — ⭐⭐⭐⭐⭐ **THE REFINERY BASKET, WORKED UP (Jake's data pull, `raw/2026-09-01-refinery-basket-workup.md`; 6M return ari
+- `2026-09-09` [portfolio-state.md:L1086](../portfolio-state.md) — 2026-09-09 ~12:25pm PDT — **JAKE DISCLOSES BNO PUTS ("not good for my bno puts lol. Was cheap anyhow"). THE STRUCTURAL POINT HE MAY NOT HAVE PRICED IS

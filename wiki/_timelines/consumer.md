@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **459 dated entries across 6 notes · 2026-03-13 → 2026-09-09 · refreshed 2026-09-09 11:54 PDT**
+> **460 dated entries across 6 notes · 2026-03-13 → 2026-09-09 · refreshed 2026-09-09 12:17 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -483,4 +483,5 @@
 - `2026-09-09` [demand-destruction.md:L4146](../demand-destruction.md) — 2026-09-09 ~8:50am PDT — ⭐⭐⭐⭐⭐ **DECOMPOSE THE PRINT BEFORE READING IT, AND CHINA'S INFLATION IS NOT A DEMAND STORY AT ALL: **ENERGY IS ~0.24 OF THE 0
 - `2026-09-09` [demand-destruction.md:L4163](../demand-destruction.md) — 2026-09-09 ~11:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE 9/4 REGISTERED ⬜ CLOSES WITH A MEASUREMENT, NOT AN OPINION: **US DISTILLATE DEMAND IS FLAT YEAR-ON-YEAR (+0.9% 
 - `2026-09-09` [demand-destruction.md:L4181](../demand-destruction.md) — Addendum 2026-09-09 ~12:05pm PDT — ⭐⭐⭐⭐⭐⭐ **I ASSERTED A MISSING INVENTORY BUFFER TEN MINUTES AGO AND FLAGGED IT AS UNFETCHED. PULLED IT. **CONFIRMED,
+- `2026-09-09` [demand-destruction.md:L4190](../demand-destruction.md) — 2026-09-09 ~12:20pm PDT — ⭐⭐⭐⭐⭐⭐ **A SITTING PRESIDENT PUTS A *DATE* ON AN OIL DECLINE AND TIES IT TO AN ELECTION — AND THE MARKET PRICED THE HALF THA
 - `2026-09-09` [market-fragility.md:L4573](../market-fragility.md) — 2026-09-09 ~7:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE REGISTERED TEST ARRIVES ONE DAY EARLY AND FROM AN UNEXPECTED NAME: SERVICETITAN BEAT ON REVENUE AND FELL **19%**
