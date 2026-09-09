@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **338 dated entries across 3 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 09:20 PDT**
+> **339 dated entries across 3 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 10:07 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -366,3 +366,4 @@
 - `2026-09-09` [rates-board.md:L2811](../rates-board.md) — 2026-09-09 ~7:10am PDT — ⭐⭐⭐⭐⭐ **THE PRE-REGISTERED DAY ARRIVES, AND ONE DETAIL IN THE BRIEF CHANGES THE INSTRUMENT: THE LONG-END BUYBACK MOVES FROM A
 - `2026-09-09` [rates-board.md:L2830](../rates-board.md) — Addendum 2026-09-09 ~7:55am PDT — ⛔⛔ **I CORRECT MY OWN CORRECTION FROM FORTY-FIVE MINUTES AGO, AND THE ORIGINAL BOARD LANGUAGE WAS RIGHT. THE BUYBACK
 - `2026-09-09` [rates-board.md:L2838](../rates-board.md) — 2026-09-09 ~9:00am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE 11:00 ET NUMBER PRINTED AT **$6B** — THE TOP OF MY PRE-WRITTEN RANGE — AND THE 10Y WENT TO **4.83-4.85%, THE HI
+- `2026-09-09` [rates-board.md:L2859](../rates-board.md) — 2026-09-09 ~10:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE AUCTION: 10Y STOPS AT 4.834% vs WI 4.849% — A **1.5bp STOP-THROUGH, THE BIGGEST SINCE APRIL 2025.** THE PRE-RE

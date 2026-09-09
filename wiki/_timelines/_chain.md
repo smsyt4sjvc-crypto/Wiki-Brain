@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **901 dated entries · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 09:20 PDT**
+> **902 dated entries · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 10:07 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -923,6 +923,7 @@
 - `2026-09-09` **[1]** rates-board.md:L2811 — 2026-09-09 ~7:10am PDT — ⭐⭐⭐⭐⭐ **THE PRE-REGISTERED DAY ARRIVES, AND ONE DETAIL IN THE BRIEF CHANGES THE INSTRUMENT: THE LONG-END BUYBACK MOVES FROM A
 - `2026-09-09` **[1]** rates-board.md:L2830 — Addendum 2026-09-09 ~7:55am PDT — ⛔⛔ **I CORRECT MY OWN CORRECTION FROM FORTY-FIVE MINUTES AGO, AND THE ORIGINAL BOARD LANGUAGE WAS RIGHT. THE BUYBACK
 - `2026-09-09` **[1]** rates-board.md:L2838 — 2026-09-09 ~9:00am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE 11:00 ET NUMBER PRINTED AT **$6B** — THE TOP OF MY PRE-WRITTEN RANGE — AND THE 10Y WENT TO **4.83-4.85%, THE HI
+- `2026-09-09` **[1]** rates-board.md:L2859 — 2026-09-09 ~10:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE AUCTION: 10Y STOPS AT 4.834% vs WI 4.849% — A **1.5bp STOP-THROUGH, THE BIGGEST SINCE APRIL 2025.** THE PRE-RE
 - `2026-09-09` **[3]** ai-financing-fragility.md:L7953 — 2026-09-09 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PERIMETER HOLE I FLAGGED LAST NIGHT CLOSES IN TWELVE HOURS, AND IT CLOSES IN THE WORST DIRECTION: THE GS ISSUANC
 - `2026-09-09` **[3]** ai-financing-fragility.md:L7969 — 2026-09-09 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT NOW HOLDS FOUR "PAYBACK PERIODS" FOR THE SAME ASSET CLASS SPANNING **ONE TO SEVEN YEARS** — A 7× RANGE — 
 - `2026-09-09` **[3]** ai-financing-fragility.md:L7991 — Addendum 2026-09-09 ~8:10am PDT — **QCOM GETS ITS GUIDANCE, AND IT REFRAMES THE VAULT'S OWN "~$6B/YR" — THE AVERAGE IS ROUGHLY RIGHT AND THE *PATH* IS
