@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **396 dated entries across 3 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 15:54 PDT**
+> **397 dated entries across 3 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 19:02 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -421,3 +421,4 @@
 - `2026-09-08` [rates-board.md:L2693](../rates-board.md) — 2026-09-08 ~8:10am PDT — ✅⛔⭐⭐⭐⭐⭐ **NY FED SURVEY (registered item, resolved): 1Y 3.58% (unch from 3.6) · 3Y 3.19% (from 3.3) · 5Y 3.01% (unch). THE TE
 - `2026-09-08` [rates-board.md:L2715](../rates-board.md) — 2026-09-08 ~11:20am PDT — ✅⭐⭐⭐⭐⭐ **THE 3Y CLEARS WELL (registered item), BESSENT PRE-EMPTIVELY DISCLAIMS HIS OWN TOOL, AND DEUTSCHE BANK'S COUNTER-THE
 - `2026-09-08` [rates-board.md:L2733](../rates-board.md) — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐ **CLOSE: THE PRE-REGISTERED BREAKEVEN TEST SHOWED UP THREE DAYS EARLY, AND THE 3Y's STRENGTH WAS ENTIRELY DOMESTIC** *(
+- `2026-09-08` [rates-board.md:L2763](../rates-board.md) — 2026-09-08 ~7:05pm PDT — ⭐⭐⭐⭐⭐ **"10Y HIGHEST CLOSE SINCE 2023" IS TRUE, AND IT IS A 1-2bp BREAK OF A TRIPLE TOP. THE VAULT HELD NOTHING ON THE 2023 E
