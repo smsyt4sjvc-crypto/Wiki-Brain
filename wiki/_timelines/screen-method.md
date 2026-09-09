@@ -1,6 +1,6 @@
 # ⏱ SCREEN-METHOD — merged timeline (the gate)
 
-> **155 dated entries across 5 notes · 2026-07-01 → 2026-09-08 · refreshed 2026-09-08 22:07 PDT**
+> **156 dated entries across 5 notes · 2026-07-01 → 2026-09-09 · refreshed 2026-09-09 07:04 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -174,3 +174,4 @@
 - `2026-09-08` [market-fragility.md:L4506](../market-fragility.md) — Addendum 2026-09-08 ~3:40pm PDT — **JAKE SHARPENS THE THESIS, AND ONE DISTINCTION IN IT IS NEW TO THE VAULT. MY 3:30pm PUSHBACK #1 IS PARTLY WITHDRAWN
 - `2026-09-08` [market-fragility.md:L4518](../market-fragility.md) — 2026-09-08 ~3:50pm PDT — ⛔✅⭐⭐⭐⭐⭐⭐ **THE THESIS TEST RAN (`raw/2026-09-08-jevons-beta-decay-colab-output.txt`): THE "NOW" COLUMN IS EMPTY SO THE QUESTI
 - `2026-09-08` [market-fragility.md:L4550](../market-fragility.md) — 2026-09-08 ~3:55pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **EVENT-ANCHORED TEST (Jake's design: each name's own MAY-2026 print, 60 sessions either side; `raw/2026-09-08-compu
+- `2026-09-09` [market-fragility.md:L4573](../market-fragility.md) — 2026-09-09 ~7:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE REGISTERED TEST ARRIVES ONE DAY EARLY AND FROM AN UNEXPECTED NAME: SERVICETITAN BEAT ON REVENUE AND FELL **19%**

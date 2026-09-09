@@ -1,6 +1,6 @@
 # ⏱ FINANCING — merged timeline (the gate)
 
-> **241 dated entries across 2 notes · 2026-05-22 → 2026-09-08 · refreshed 2026-09-08 22:07 PDT**
+> **242 dated entries across 2 notes · 2026-05-22 → 2026-09-09 · refreshed 2026-09-09 07:04 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -266,3 +266,4 @@
 - `2026-09-08` [ai-financing-fragility.md:L7904](../ai-financing-fragility.md) — 2026-09-08 ~11:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE CHARTS BEHIND THE TWEETS, AND THEY OVERTURN TWO OF TONIGHT'S THREE CONCLUSIONS. (1) THE "EYE OF THE HURRICANE"
 - `2026-09-08` [ai-financing-fragility.md:L7942](../ai-financing-fragility.md) — Addendum 2026-09-08 ~11:30pm PDT — ⛔⛔ **AND THE SECOND IMAGE IS THE 8/6 GS FCF CHART AT FULL RESOLUTION, WHICH EXPOSES A READING ERROR IN THIS FILE'S 
 - `2026-09-08` [balance-sheet-board.md:L811](../balance-sheet-board.md) — Addendum 2026-09-08 ~6:45am PDT — **ORCL INTO TONIGHT: THE NEW LINE IS "NO FURTHER DEBT ISSUANCE DURING CALENDAR 2026," AND IT COLLIDES WITH THE $3.3B
+- `2026-09-09` [ai-financing-fragility.md:L7953](../ai-financing-fragility.md) — 2026-09-09 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PERIMETER HOLE I FLAGGED LAST NIGHT CLOSES IN TWELVE HOURS, AND IT CLOSES IN THE WORST DIRECTION: THE GS ISSUANC

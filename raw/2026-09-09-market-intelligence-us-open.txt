@@ -1,0 +1,55 @@
+MARKET INTELLIGENCE — U.S. OPEN | SEPT. 9, 2026  (Jake paste, ~6:56am PDT)
+
+OPEN TAPE: S&P futures ~-0.3%, Nasdaq -0.4%, Dow -0.5%. Brent broke $100, WTI ~$95,
+10Y ~4.81%. oil UP + yields UP + AI physical demand resilient.
+
+1. TREASURY BUYBACK + 10Y AUCTION — 10/10. El-Erian calling today's Treasury setup a
+crucial bond-market test: sovereign borrowing and hyperscaler/corporate issuance competing
+for a less dependable buyer base. Treasury confirmed long-end liquidity-support buybacks
+rise from a $2B MAXIMUM to AT LEAST $4B per operation effective today; Treasury debt
+management, not Fed QE. 11:00 ET Treasury discloses exact size of tomorrow's 10-20Y
+operation; dealers expect $5-6B, some $6-8B or higher. 1:00 ET $39B 10Y at ~4.8%.
+Watch tail, bid-to-cover, indirects, dealer take-down.
+
+2. AI BORROWING CROWDING OUT ISSUERS OUTSIDE THE US — 10/10. FT: AI-related borrowers are
+26.4% of Swiss-franc corporate issuance in 2026. Alphabet ~SFr3B, Amazon SFr2.82B — each
+enormous for the normally conservative Swiss market. Local companies reportedly changing
+issuance timing and size to avoid competing with hyperscalers.
+
+3. HORMUZ/OIL — 9.5/10. CENTCOM CONFIRMED it destroyed five Iranian crude carriers Sept 8,
+after Iran attempted missile attacks on a US Navy warship; CENTCOM had already destroyed
+three additional carriers Sept 5. Houthis attacked Saudi energy infrastructure. Brent
+crossed $100, US gasoline ~$4.22, diesel ~$5.94/gal.
+
+4. ORACLE POWER BOTTLENECK — 9/10. Oracle issued an RFP yesterday for 2 GW of new renewable
+generation in New Mexico, projects deliverable 2027-2031. Project Jupiter separately plans
+up to 2.45 GW of Bloom Energy fuel-cell capacity. Calendar correction: Oracle reports
+Thursday Sept 10 after the close, not Tuesday.
+
+5. META MUSE — 8.5/10. Meta launched Muse, an autonomous personal agent that can send email,
+book travel, fill forms, negotiate and make purchases through a dedicated secure VM;
+operates through its own app and WhatsApp, later Meta's glasses. META +5% premarket.
+
+6. PHYSICAL AI HARDWARE DIVERGING FROM MACRO TAPE — 8.5/10. Despite Tuesday's S&P/Dow
+decline, the Philadelphia Semiconductor Index gained ~1.3%. Overnight SK Hynix +~1.8% early
+Wednesday, Samsung also advanced. AMD CFO Jean Hu: AMD's AI-related addressable market could
+reach $2-3T by 2030. AWS/Qualcomm agreement links vesting of Amazon warrants partly to as
+much as $60B of Qualcomm business over ten years, plus custom AI-inference silicon and 1.6T
+optical connectivity.
+
+7. SOFTWARE: "AI + BEAT" ISN'T ENOUGH IF FORWARD GROWTH SLOWS — 8/10. ServiceTitan reported
+$292.8M revenue, +21% YoY, above consensus, yet shares dropped ~19% after hours because Q3
+revenue guidance of $285-287M was modestly below expectations and TRANSACTION-VOLUME GROWTH
+DECELERATED. Management highlighted its agentic AI platform; ~$50M non-GAAP FCF.
+
+TODAY'S SEQUENCE: 11:00 ET Treasury buyback size -> 12:00 ET EIA September oil outlook ->
+1:00 ET $39B 10Y auction. The EIA's previous forecast assumed most Middle East production
+eventually normalizes and had Q3 Brent around $85; spot now above $100.
+
+BOTTOM LINE: the highest-value signal is whether Treasury can simultaneously increase its own
+long-end bid and auction $39B of new 10Y supply while hyperscalers increasingly dominate
+global corporate issuance. The physical AI chain shows very little evidence of demand
+destruction.
+
+REGIME: AI demand UP | power/material demand UP | oil/inflation UP | sovereign + corporate
+duration supply UP | cost of capital UP | software valuation tolerance DOWN.

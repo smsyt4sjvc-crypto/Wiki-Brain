@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **96 dated entries across 3 notes · 2026-06-30 → 2026-09-08 · refreshed 2026-09-08 22:07 PDT**
+> **97 dated entries across 3 notes · 2026-06-30 → 2026-09-09 · refreshed 2026-09-09 07:04 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -118,3 +118,4 @@
 - `2026-09-07` [nuclear.md:L663](../nuclear.md) — 2026-09-07 ~10:40am PDT — ✅⭐⭐⭐⭐⭐ **SIX NUCLEAR BILLS CLEAR HOUSE ENERGY & COMMERCE WITHOUT A SINGLE NO VOTE (Sept 2; ZH 9/7, Jake's PDF `raw/2026-09-0
 - `2026-09-08` [buildout-bottleneck-map.md:L1760](../buildout-bottleneck-map.md) — 2026-09-08 ~10:55pm PDT — **TWO SUPPLY-SIDE ITEMS FROM THE SAME FEED THAT POINT THE SAME WAY: CHINA PAUSES APPROVALS FOR NEW BATTERY-STORAGE PLANTS (O
 - `2026-09-08` [nuclear.md:L687](../nuclear.md) — 2026-09-08 ~9:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE LABOR-DAY NUCLEAR DUMP CARRIES A DATED IN-WINDOW TRIGGER: A US-KOREA MOU FOR UP TO EIGHT LARGE REACTORS, POSSIBL
+- `2026-09-09` [buildout-bottleneck-map.md:L1777](../buildout-bottleneck-map.md) — 2026-09-09 ~7:35am PDT — ⭐⭐⭐⭐⭐ **DO NOT ADD NAMEPLATE TO FIRM. ORACLE'S "2 GW RENEWABLE + 2.45 GW FUEL CELL" IS NOT 4.45 GW — AT THE EVENING PEAK IT I

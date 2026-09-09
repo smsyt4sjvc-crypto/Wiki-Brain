@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **227 dated entries across 2 notes · 2026-03-13 → 2026-09-08 · refreshed 2026-09-08 22:07 PDT**
+> **228 dated entries across 2 notes · 2026-03-13 → 2026-09-09 · refreshed 2026-09-09 07:04 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -252,3 +252,4 @@
 - `2026-09-07` [oil-value-chain.md:L2802](../oil-value-chain.md) — ⛔ CORRECTION 2026-09-07 ~8:15pm PDT — **THE FULL REUTERS TEXT (Jake's paste, `raw/2026-09-07-reuters-ship-fuel-shortage-bunker-FULL.txt`) BREAKS MY OW
 - `2026-09-08` [demand-destruction.md:L4113](../demand-destruction.md) — ⛔ CORRECTION 2026-09-08 ~11:15am PDT — **I FILED GOLDMAN'S $120 AS THEIR CALL. IT IS THEIR STRESS SCENARIO. THEIR BASE CASE IS BRENT ~$85 BY DEC-2026 
 - `2026-09-08` [demand-destruction.md:L4121](../demand-destruction.md) — 2026-09-08 ~9:20pm PDT — ⭐⭐⭐⭐⭐⭐ **THE INE-BRENT SPREAD, QUANTIFIED AND DECOMPOSED: SHANGHAI $109.95 (CONTRACT RECORD) vs BRENT $99.63 = **+$10.32**. T
+- `2026-09-09` [oil-value-chain.md:L2821](../oil-value-chain.md) — 2026-09-09 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐ **DECOMPOSE THE PUMP BEFORE READING IT (RULE 20), AND THE RECORD IS NOT THE STORY — THE *RATIO* IS. DIESEL $5.94 AGAIN
