@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **877 dated entries · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 21:23 PDT**
+> **879 dated entries · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 21:53 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -909,6 +909,8 @@
 - `2026-09-08` **[3]** ai-financing-fragility.md:L7752 — 2026-09-08 ~6:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE LABS ARE TRYING TO CROSS FROM STRUCTURED CREDIT INTO THE IG BOND MARKET: BANKERS FOR OPENAI *AND* ANTHROPIC ARE 
 - `2026-09-08` **[3]** ai-financing-fragility.md:L7767 — 2026-09-08 ~8:40am PDT — ✅⭐⭐⭐⭐⭐⭐ **QUALCOMM×AMAZON IS THE THIRD "WARRANTS-FOR-VOLUME" DEAL AND THE VAULT PRE-REGISTERED THE PATTERN. RUN THROUGH THE D
 - `2026-09-08` **[3]** ai-financing-fragility.md:L7791 — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐⭐ **THE FT DETAIL THAT CHANGES HOW THIS NOTE READS NVDA'S LARGEST EXPOSURE: THE $105B SB ENERGY SUPPORT IS STRUCTURED TO
+- `2026-09-08` **[3]** ai-financing-fragility.md:L7805 — 2026-09-08 ~9:50pm PDT — ⭐⭐⭐⭐⭐⭐ **THE VAULT'S NAMED BLIND SPOT IS BEING REBUILT WHILE WE WATCH: GS FICC SAYS REAL-MONEY ACCOUNTS WHO LAST TRADED CDS *
+- `2026-09-08` **[3]** ai-financing-fragility.md:L7836 — Addendum 2026-09-08 ~10:15pm PDT — ⛔⛔ **I CORRECT THE ENTRY I WROTE TWENTY MINUTES AGO, AND THE CORRECTION IS WORTH MORE THAN THE ENTRY. THE VAULT IS 
 - `2026-09-08` **[3]** balance-sheet-board.md:L811 — Addendum 2026-09-08 ~6:45am PDT — **ORCL INTO TONIGHT: THE NEW LINE IS "NO FURTHER DEBT ISSUANCE DURING CALENDAR 2026," AND IT COLLIDES WITH THE $3.3B
 - `2026-09-08` **[5]** metered-compute.md:L3395 — Addendum 2026-09-08 ~11:20am PDT — **TWO ITEMS THAT UPDATE THE 9/7 FOUR-MARKET STRUCTURE, ONE OF THEM AGAINST IT** *(gopher digest, `raw/2026-09-08-go
 - `2026-09-08` **[5]** memory-regime-question.md:L1403 — ⛔ CORRECTION 2026-09-08 ~9:40pm PDT — **THIS MORNING I FILED THAT CHINA'S DICHLOROSILANE DUTY *WEAKENS* THE MEMORY DISCONFIRMER. TONIGHT'S SCAN SAYS C

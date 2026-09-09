@@ -569,9 +569,16 @@ cron writes `data/fragility/*` on wb main directly, so its copy can be newer —
 `python3 tools/fragility_feed.py` (~90s). Page: `docs/index.html`. Data: `data/fragility/`.
 - **NO ABSOLUTE THRESHOLDS.** Everything is a percentile against its own history, and
   trending series are scored on RATE OF CHANGE ONLY.
-- **⛔ A GAP IS NOT A CALM ROW.** CDX IG/HY, swap spreads and single-name CDS have NO free
-  source and are listed as GAPS. Two of them are where AI-complex stress would appear FIRST.
+- **⛔ A GAP IS NOT A CALM ROW.** CDX IG/HY and swap spreads have NO free source and are
+  listed as GAPS. That is where AI-complex stress would appear FIRST.
   Never report "the ladder is calm" without naming what the ladder cannot see.
+  **✔ CORRECTED 2026-09-08: single-name CDS is NO LONGER a gap.** `tools/icc_cds.py` pulls
+  ICE Clear Credit end-of-day settlement prices for 12 AI-complex names, free and keyless,
+  since 2026-08-22 → `data/fragility/cds_panel.csv`. **It is MANUAL — nothing schedules it,
+  so the panel goes stale silently. Run it before quoting any CDS level.** Prices are
+  points-upfront and the spread column is a MODEL conversion: read DELTAS, not levels.
+  **The maturity rolls on each IMM date (Mar 20 / Sep 20) — a cross-roll comparison is
+  invalid unless the maturity column is checked. VOLUME is still unobservable (DTCC TIW ⬜).**
 - **⚠️ CHECK THE STALE FLAGS.** A stale number that looks calm is the most dangerous cell.
 - **⛔ READ `n/N lit`, NOT JUST THE STAGE COLOUR.** A stage holding 8 series has 8 chances to
   light; one holding 1 has one. **✦ = corroborated (≥2 independent series).** A stage lit on a

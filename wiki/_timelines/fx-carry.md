@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **493 dated entries across 3 notes · 2026-05-22 → 2026-09-08 · refreshed 2026-09-08 21:23 PDT**
+> **495 dated entries across 3 notes · 2026-05-22 → 2026-09-08 · refreshed 2026-09-08 21:53 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -512,6 +512,8 @@
 - `2026-09-08` [ai-financing-fragility.md:L7752](../ai-financing-fragility.md) — 2026-09-08 ~6:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE LABS ARE TRYING TO CROSS FROM STRUCTURED CREDIT INTO THE IG BOND MARKET: BANKERS FOR OPENAI *AND* ANTHROPIC ARE 
 - `2026-09-08` [ai-financing-fragility.md:L7767](../ai-financing-fragility.md) — 2026-09-08 ~8:40am PDT — ✅⭐⭐⭐⭐⭐⭐ **QUALCOMM×AMAZON IS THE THIRD "WARRANTS-FOR-VOLUME" DEAL AND THE VAULT PRE-REGISTERED THE PATTERN. RUN THROUGH THE D
 - `2026-09-08` [ai-financing-fragility.md:L7791](../ai-financing-fragility.md) — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐⭐ **THE FT DETAIL THAT CHANGES HOW THIS NOTE READS NVDA'S LARGEST EXPOSURE: THE $105B SB ENERGY SUPPORT IS STRUCTURED TO
+- `2026-09-08` [ai-financing-fragility.md:L7805](../ai-financing-fragility.md) — 2026-09-08 ~9:50pm PDT — ⭐⭐⭐⭐⭐⭐ **THE VAULT'S NAMED BLIND SPOT IS BEING REBUILT WHILE WE WATCH: GS FICC SAYS REAL-MONEY ACCOUNTS WHO LAST TRADED CDS *
+- `2026-09-08` [ai-financing-fragility.md:L7836](../ai-financing-fragility.md) — Addendum 2026-09-08 ~10:15pm PDT — ⛔⛔ **I CORRECT THE ENTRY I WROTE TWENTY MINUTES AGO, AND THE CORRECTION IS WORTH MORE THAN THE ENTRY. THE VAULT IS 
 - `2026-09-08` [market-fragility.md:L4488](../market-fragility.md) — 2026-09-08 ~3:30pm PDT — ⭐⭐⭐⭐⭐ **JAKE'S THESIS: "THE JUN-AUG CHOP IS RESOLVING INTO A REALIZED MW/VOLUME-DRIVEN SOFTWARE AND CHIP CYCLE FASTER THAN WE
 - `2026-09-08` [market-fragility.md:L4506](../market-fragility.md) — Addendum 2026-09-08 ~3:40pm PDT — **JAKE SHARPENS THE THESIS, AND ONE DISTINCTION IN IT IS NEW TO THE VAULT. MY 3:30pm PUSHBACK #1 IS PARTLY WITHDRAWN
 - `2026-09-08` [market-fragility.md:L4518](../market-fragility.md) — 2026-09-08 ~3:50pm PDT — ⛔✅⭐⭐⭐⭐⭐⭐ **THE THESIS TEST RAN (`raw/2026-09-08-jevons-beta-decay-colab-output.txt`): THE "NOW" COLUMN IS EMPTY SO THE QUESTI
