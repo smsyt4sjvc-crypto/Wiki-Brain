@@ -1,6 +1,6 @@
 # ⏱ WAR/OIL — merged timeline (the gate)
 
-> **362 dated entries across 3 notes · 2026-03-13 → 2026-09-08 · refreshed 2026-09-08 19:02 PDT**
+> **363 dated entries across 3 notes · 2026-03-13 → 2026-09-08 · refreshed 2026-09-08 21:19 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -384,6 +384,7 @@
 - `2026-09-07` [war-board.md:L4627](../war/war-board.md) — 2026-09-07 ~11:25am PDT — ⭐⭐⭐⭐⭐⭐ **gCAPTAIN SHIPPING INDEX (Jake's link; 21 items, 5 bodies pulled → `raw/2026-09-07-gcaptain-shipping-bodies.txt`): S
 - `2026-09-07` [war-board.md:L4646](../war/war-board.md) — 2026-09-07 ~8:15pm PDT — ⭐⭐⭐⭐⭐ **REUTERS IRAN-WAR LIVE INDEX (Jake's PDF, page captured 8:08pm PT, `raw/2026-09-07-reuters-iran-war-live-page.pdf/.txt
 - `2026-09-08` [demand-destruction.md:L4113](../demand-destruction.md) — ⛔ CORRECTION 2026-09-08 ~11:15am PDT — **I FILED GOLDMAN'S $120 AS THEIR CALL. IT IS THEIR STRESS SCENARIO. THEIR BASE CASE IS BRENT ~$85 BY DEC-2026 
+- `2026-09-08` [demand-destruction.md:L4121](../demand-destruction.md) — 2026-09-08 ~9:20pm PDT — ⭐⭐⭐⭐⭐⭐ **THE INE-BRENT SPREAD, QUANTIFIED AND DECOMPOSED: SHANGHAI $109.95 (CONTRACT RECORD) vs BRENT $99.63 = **+$10.32**. T
 - `2026-09-08` [war-board.md:L4674](../war/war-board.md) — 2026-09-08 ~6:45am PDT — ⛔⭐⭐⭐⭐⭐ **US-OPEN BRIEF vs THE PRIMARY I PULLED YESTERDAY: THE WEEKEND KPLER COUNTS DO NOT MATCH, AND THE "DARK CROSSINGS RECO
 - `2026-09-08` [war-board.md:L4695](../war/war-board.md) — 2026-09-08 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **VITOL'S CEO PUTS HORMUZ CRUDE FLOW AT ~10 mb/d AND CALLS IT "IMPROVED" — A FIFTH NUMBER ON THE BOARD'S MOST CONTEST
 - `2026-09-08` [war-board.md:L4712](../war/war-board.md) — 2026-09-08 ~3:20pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **CENTCOM DESTROYS FIVE MORE IRGC TANKERS (primary release, verbatim) — THE BOARD'S 9/5 FORECAST PRINTED IN THREE DA

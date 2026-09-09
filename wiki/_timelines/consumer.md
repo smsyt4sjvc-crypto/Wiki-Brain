@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **452 dated entries across 6 notes · 2026-03-13 → 2026-09-08 · refreshed 2026-09-08 19:02 PDT**
+> **453 dated entries across 6 notes · 2026-03-13 → 2026-09-08 · refreshed 2026-09-08 21:19 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -472,6 +472,7 @@
 - `2026-09-07` [new-economy-regime.md:L4928](../new-economy-regime.md) — 2026-09-07 ~6:05pm PDT — ⭐⭐⭐⭐⭐ **UMICH 1-YEAR EXPECTATIONS SPLIT BY STOCKHOLDINGS (Jake's chart, Aug 28 2026 vintage, `raw/2026-09-07-umich-inflation-
 - `2026-09-07` [new-economy-regime.md:L4950](../new-economy-regime.md) — Addendum 2026-09-07 ~7:45pm PDT — **CHINA AUGUST TRADE (Bloomberg headlines via Jake): EXPORTS +25.0% y/y USD (est. +25.9) · IMPORTS +28.2% (est. +31.
 - `2026-09-08` [demand-destruction.md:L4113](../demand-destruction.md) — ⛔ CORRECTION 2026-09-08 ~11:15am PDT — **I FILED GOLDMAN'S $120 AS THEIR CALL. IT IS THEIR STRESS SCENARIO. THEIR BASE CASE IS BRENT ~$85 BY DEC-2026 
+- `2026-09-08` [demand-destruction.md:L4121](../demand-destruction.md) — 2026-09-08 ~9:20pm PDT — ⭐⭐⭐⭐⭐⭐ **THE INE-BRENT SPREAD, QUANTIFIED AND DECOMPOSED: SHANGHAI $109.95 (CONTRACT RECORD) vs BRENT $99.63 = **+$10.32**. T
 - `2026-09-08` [market-fragility.md:L4488](../market-fragility.md) — 2026-09-08 ~3:30pm PDT — ⭐⭐⭐⭐⭐ **JAKE'S THESIS: "THE JUN-AUG CHOP IS RESOLVING INTO A REALIZED MW/VOLUME-DRIVEN SOFTWARE AND CHIP CYCLE FASTER THAN WE
 - `2026-09-08` [market-fragility.md:L4506](../market-fragility.md) — Addendum 2026-09-08 ~3:40pm PDT — **JAKE SHARPENS THE THESIS, AND ONE DISTINCTION IN IT IS NEW TO THE VAULT. MY 3:30pm PUSHBACK #1 IS PARTLY WITHDRAWN
 - `2026-09-08` [market-fragility.md:L4518](../market-fragility.md) — 2026-09-08 ~3:50pm PDT — ⛔✅⭐⭐⭐⭐⭐⭐ **THE THESIS TEST RAN (`raw/2026-09-08-jevons-beta-decay-colab-output.txt`): THE "NOW" COLUMN IS EMPTY SO THE QUESTI
