@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **492 dated entries across 3 notes · 2026-05-22 → 2026-09-08 · refreshed 2026-09-08 21:19 PDT**
+> **493 dated entries across 3 notes · 2026-05-22 → 2026-09-08 · refreshed 2026-09-08 21:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -517,3 +517,4 @@
 - `2026-09-08` [market-fragility.md:L4518](../market-fragility.md) — 2026-09-08 ~3:50pm PDT — ⛔✅⭐⭐⭐⭐⭐⭐ **THE THESIS TEST RAN (`raw/2026-09-08-jevons-beta-decay-colab-output.txt`): THE "NOW" COLUMN IS EMPTY SO THE QUESTI
 - `2026-09-08` [market-fragility.md:L4550](../market-fragility.md) — 2026-09-08 ~3:55pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **EVENT-ANCHORED TEST (Jake's design: each name's own MAY-2026 print, 60 sessions either side; `raw/2026-09-08-compu
 - `2026-09-08` [new-economy-regime.md:L4962](../new-economy-regime.md) — 2026-09-08 ~8:40am PDT — ⭐⭐⭐⭐⭐ **WASHINGTON TAKES DIRECT EQUITY IN QUANTUM: D-WAVE AND RIGETTI FINALISE $100M CHIPS DEALS TODAY — AND THE D-WAVE ARITH
+- `2026-09-08` [new-economy-regime.md:L4979](../new-economy-regime.md) — Addendum 2026-09-08 ~9:35pm PDT — ✔✔ **UBS CLOSES LAST NIGHT'S CHINA ⬜ FROM ABOVE: GLOBAL EXPORT VALUES +19% y/y (84th PERCENTILE OF 25 YEARS) — AND T

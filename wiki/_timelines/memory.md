@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **142 dated entries across 2 notes · 2026-07-16 → 2026-09-07 · refreshed 2026-09-08 21:19 PDT**
+> **143 dated entries across 2 notes · 2026-07-16 → 2026-09-08 · refreshed 2026-09-08 21:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -161,3 +161,4 @@
 - `2026-09-07` [compression-thesis.md:L3017](../compression-thesis.md) — 2026-09-07 ~1:20pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS "TPU INFERENCE EXTERNALIZATION FULL STEAM AHEAD" (InferenceX Official Preview, Sept 7; Jake's PDF `raw/2
 - `2026-09-07` [memory-regime-question.md:L1371](../memory-regime-question.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐ **THE KOREAN TAPE CATCHES UP TO THE PHYSICAL READ — ON THE SAME WEEKEND HORMUZ ESCALATES AND JAZAN IS HIT: KOSPI +4.6%, 
 - `2026-09-07` [memory-regime-question.md:L1383](../memory-regime-question.md) — 2026-09-07 ~8:25am PDT — ⭐⭐⭐⭐⭐ **TRENDFORCE: 2Q26 DRAM INDUSTRY REVENUE +59.5% QoQ TO $154.7B · SUPPLIER INVENTORIES AT HISTORIC LOWS · Q3 CONVENTIONA
+- `2026-09-08` [memory-regime-question.md:L1403](../memory-regime-question.md) — ⛔ CORRECTION 2026-09-08 ~9:40pm PDT — **THIS MORNING I FILED THAT CHINA'S DICHLOROSILANE DUTY *WEAKENS* THE MEMORY DISCONFIRMER. TONIGHT'S SCAN SAYS C

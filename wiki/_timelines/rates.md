@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **397 dated entries across 3 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 21:19 PDT**
+> **398 dated entries across 3 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 21:23 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -418,6 +418,7 @@
 - `2026-09-08` [market-fragility.md:L4518](../market-fragility.md) — 2026-09-08 ~3:50pm PDT — ⛔✅⭐⭐⭐⭐⭐⭐ **THE THESIS TEST RAN (`raw/2026-09-08-jevons-beta-decay-colab-output.txt`): THE "NOW" COLUMN IS EMPTY SO THE QUESTI
 - `2026-09-08` [market-fragility.md:L4550](../market-fragility.md) — 2026-09-08 ~3:55pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **EVENT-ANCHORED TEST (Jake's design: each name's own MAY-2026 print, 60 sessions either side; `raw/2026-09-08-compu
 - `2026-09-08` [new-economy-regime.md:L4962](../new-economy-regime.md) — 2026-09-08 ~8:40am PDT — ⭐⭐⭐⭐⭐ **WASHINGTON TAKES DIRECT EQUITY IN QUANTUM: D-WAVE AND RIGETTI FINALISE $100M CHIPS DEALS TODAY — AND THE D-WAVE ARITH
+- `2026-09-08` [new-economy-regime.md:L4979](../new-economy-regime.md) — Addendum 2026-09-08 ~9:35pm PDT — ✔✔ **UBS CLOSES LAST NIGHT'S CHINA ⬜ FROM ABOVE: GLOBAL EXPORT VALUES +19% y/y (84th PERCENTILE OF 25 YEARS) — AND T
 - `2026-09-08` [rates-board.md:L2693](../rates-board.md) — 2026-09-08 ~8:10am PDT — ✅⛔⭐⭐⭐⭐⭐ **NY FED SURVEY (registered item, resolved): 1Y 3.58% (unch from 3.6) · 3Y 3.19% (from 3.3) · 5Y 3.01% (unch). THE TE
 - `2026-09-08` [rates-board.md:L2715](../rates-board.md) — 2026-09-08 ~11:20am PDT — ✅⭐⭐⭐⭐⭐ **THE 3Y CLEARS WELL (registered item), BESSENT PRE-EMPTIVELY DISCLAIMS HIS OWN TOOL, AND DEUTSCHE BANK'S COUNTER-THE
 - `2026-09-08` [rates-board.md:L2733](../rates-board.md) — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐ **CLOSE: THE PRE-REGISTERED BREAKEVEN TEST SHOWED UP THREE DAYS EARLY, AND THE 3Y's STRENGTH WAS ENTIRELY DOMESTIC** *(
