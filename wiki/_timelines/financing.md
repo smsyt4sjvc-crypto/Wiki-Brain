@@ -1,6 +1,6 @@
 # ⏱ FINANCING — merged timeline (the gate)
 
-> **242 dated entries across 2 notes · 2026-05-22 → 2026-09-09 · refreshed 2026-09-09 07:04 PDT**
+> **244 dated entries across 2 notes · 2026-05-22 → 2026-09-09 · refreshed 2026-09-09 07:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -267,3 +267,5 @@
 - `2026-09-08` [ai-financing-fragility.md:L7942](../ai-financing-fragility.md) — Addendum 2026-09-08 ~11:30pm PDT — ⛔⛔ **AND THE SECOND IMAGE IS THE 8/6 GS FCF CHART AT FULL RESOLUTION, WHICH EXPOSES A READING ERROR IN THIS FILE'S 
 - `2026-09-08` [balance-sheet-board.md:L811](../balance-sheet-board.md) — Addendum 2026-09-08 ~6:45am PDT — **ORCL INTO TONIGHT: THE NEW LINE IS "NO FURTHER DEBT ISSUANCE DURING CALENDAR 2026," AND IT COLLIDES WITH THE $3.3B
 - `2026-09-09` [ai-financing-fragility.md:L7953](../ai-financing-fragility.md) — 2026-09-09 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PERIMETER HOLE I FLAGGED LAST NIGHT CLOSES IN TWELVE HOURS, AND IT CLOSES IN THE WORST DIRECTION: THE GS ISSUANC
+- `2026-09-09` [ai-financing-fragility.md:L7969](../ai-financing-fragility.md) — 2026-09-09 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT NOW HOLDS FOUR "PAYBACK PERIODS" FOR THE SAME ASSET CLASS SPANNING **ONE TO SEVEN YEARS** — A 7× RANGE — 
+- `2026-09-09` [ai-financing-fragility.md:L7991](../ai-financing-fragility.md) — Addendum 2026-09-09 ~8:10am PDT — **QCOM GETS ITS GUIDANCE, AND IT REFRAMES THE VAULT'S OWN "~$6B/YR" — THE AVERAGE IS ROUGHLY RIGHT AND THE *PATH* IS

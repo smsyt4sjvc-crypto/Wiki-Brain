@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **887 dated entries · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 07:04 PDT**
+> **891 dated entries · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 07:45 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -922,3 +922,7 @@
 - `2026-09-08` **[5]** memory-regime-question.md:L1403 — ⛔ CORRECTION 2026-09-08 ~9:40pm PDT — **THIS MORNING I FILED THAT CHINA'S DICHLOROSILANE DUTY *WEAKENS* THE MEMORY DISCONFIRMER. TONIGHT'S SCAN SAYS C
 - `2026-09-09` **[1]** rates-board.md:L2811 — 2026-09-09 ~7:10am PDT — ⭐⭐⭐⭐⭐ **THE PRE-REGISTERED DAY ARRIVES, AND ONE DETAIL IN THE BRIEF CHANGES THE INSTRUMENT: THE LONG-END BUYBACK MOVES FROM A
 - `2026-09-09` **[3]** ai-financing-fragility.md:L7953 — 2026-09-09 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PERIMETER HOLE I FLAGGED LAST NIGHT CLOSES IN TWELVE HOURS, AND IT CLOSES IN THE WORST DIRECTION: THE GS ISSUANC
+- `2026-09-09` **[3]** ai-financing-fragility.md:L7969 — 2026-09-09 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT NOW HOLDS FOUR "PAYBACK PERIODS" FOR THE SAME ASSET CLASS SPANNING **ONE TO SEVEN YEARS** — A 7× RANGE — 
+- `2026-09-09` **[3]** ai-financing-fragility.md:L7991 — Addendum 2026-09-09 ~8:10am PDT — **QCOM GETS ITS GUIDANCE, AND IT REFRAMES THE VAULT'S OWN "~$6B/YR" — THE AVERAGE IS ROUGHLY RIGHT AND THE *PATH* IS
+- `2026-09-09` **[5]** memory-regime-question.md:L1411 — Addendum 2026-09-09 ~8:25am PDT — **A CHIP *BUYER* NAMES MEMORY AS A BINDING CONSTRAINT, WHICH IS A DIFFERENT INSTRUMENT FROM EVERY OTHER SOURCE IN TH
+- `2026-09-09` **[5]** compression-thesis.md:L3036 — 2026-09-09 ~8:20am PDT — ⭐⭐⭐⭐⭐⭐ **OPENAI'S ADVERTISING BUSINESS HIT A ~$1BN ANNUALIZED PACE IN SEVEN MONTHS — AND THAT IS NOT A REVENUE ITEM, IT IS A 

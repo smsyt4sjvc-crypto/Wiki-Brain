@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **198 dated entries across 3 notes · 2026-07-01 → 2026-09-08 · refreshed 2026-09-09 07:04 PDT**
+> **199 dated entries across 3 notes · 2026-07-01 → 2026-09-09 · refreshed 2026-09-09 07:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -217,3 +217,4 @@
 - `2026-09-07` [compression-thesis.md:L3017](../compression-thesis.md) — 2026-09-07 ~1:20pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS "TPU INFERENCE EXTERNALIZATION FULL STEAM AHEAD" (InferenceX Official Preview, Sept 7; Jake's PDF `raw/2
 - `2026-09-07` [metered-compute.md:L3370](../metered-compute.md) — 2026-09-07 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **WEEKLY TOKEN REPORT (w/e 9/6) + JAKE'S SEGMENTATION QUESTION: THE FRONTIER LIST PRICE WENT *UP* THROUGH THE AUGUST D
 - `2026-09-08` [metered-compute.md:L3395](../metered-compute.md) — Addendum 2026-09-08 ~11:20am PDT — **TWO ITEMS THAT UPDATE THE 9/7 FOUR-MARKET STRUCTURE, ONE OF THEM AGAINST IT** *(gopher digest, `raw/2026-09-08-go
+- `2026-09-09` [compression-thesis.md:L3036](../compression-thesis.md) — 2026-09-09 ~8:20am PDT — ⭐⭐⭐⭐⭐⭐ **OPENAI'S ADVERTISING BUSINESS HIT A ~$1BN ANNUALIZED PACE IN SEVEN MONTHS — AND THAT IS NOT A REVENUE ITEM, IT IS A 

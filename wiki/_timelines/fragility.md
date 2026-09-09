@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **374 dated entries across 6 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 07:04 PDT**
+> **377 dated entries across 6 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 07:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -401,4 +401,7 @@
 - `2026-09-08` [rates-board.md:L2781](../rates-board.md) — 2026-09-08 ~10:40pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN'S MACRO DESK ADOPTS THE COLLISION THESIS IN PUBLIC AND IN THE BOARD'S OWN WORDS: "THE FED IS JUST A PASSENGE
 - `2026-09-08` [rates-board.md:L2802](../rates-board.md) — Addendum 2026-09-08 ~11:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE CHART UNDER "2027 AI DV01 > USTs" DOES NOT SUPPORT ITS OWN CAPTION, AND THE REASON IS A COMPOSITION SH
 - `2026-09-09` [ai-financing-fragility.md:L7953](../ai-financing-fragility.md) — 2026-09-09 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PERIMETER HOLE I FLAGGED LAST NIGHT CLOSES IN TWELVE HOURS, AND IT CLOSES IN THE WORST DIRECTION: THE GS ISSUANC
+- `2026-09-09` [ai-financing-fragility.md:L7969](../ai-financing-fragility.md) — 2026-09-09 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT NOW HOLDS FOUR "PAYBACK PERIODS" FOR THE SAME ASSET CLASS SPANNING **ONE TO SEVEN YEARS** — A 7× RANGE — 
+- `2026-09-09` [ai-financing-fragility.md:L7991](../ai-financing-fragility.md) — Addendum 2026-09-09 ~8:10am PDT — **QCOM GETS ITS GUIDANCE, AND IT REFRAMES THE VAULT'S OWN "~$6B/YR" — THE AVERAGE IS ROUGHLY RIGHT AND THE *PATH* IS
 - `2026-09-09` [rates-board.md:L2811](../rates-board.md) — 2026-09-09 ~7:10am PDT — ⭐⭐⭐⭐⭐ **THE PRE-REGISTERED DAY ARRIVES, AND ONE DETAIL IN THE BRIEF CHANGES THE INSTRUMENT: THE LONG-END BUYBACK MOVES FROM A
+- `2026-09-09` [transmission-chain.md:L311](../transmission-chain.md) — 2026-09-09 ~8:00am PDT — ⭐⭐⭐⭐⭐⭐ **THE CHAIN HAS A NEW BREAK AND THE GOPHER FOUND IT BEFORE I DID: GOOGLE IS NOW SELLING TPU SYSTEMS *OUTRIGHT* FOR INS

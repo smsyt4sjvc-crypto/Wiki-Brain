@@ -1,6 +1,6 @@
 # ⏱ CHAIN — merged timeline (the gate)
 
-> **5 dated entries across 1 notes · 2026-08-18 → 2026-08-20 · refreshed 2026-09-09 07:04 PDT**
+> **6 dated entries across 1 notes · 2026-08-18 → 2026-09-09 · refreshed 2026-09-09 07:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -18,3 +18,7 @@
 - `2026-08-19` [transmission-chain.md:L77](../transmission-chain.md) — ⛔⛔ AMENDMENT 2026-08-19 ~10:05am PDT — **TWO STRUCTURAL HOLES, AND THE SECOND IS THE MORE IMPORTANT: (a) STAGE 4 IS NOT ONE NUMBER — PART OF IT IS 15-
 - `2026-08-19` [transmission-chain.md:L161](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-19 ~1:05pm PDT — **THE FOMC INDEPENDENTLY DESCRIBES STAGES 2, 3 AND 4 OF THIS CHAIN, IN ITS OWN MINUTES, IN THE SAME ORDER — and it add
 - `2026-08-20` [transmission-chain.md:L252](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-20 ~7:55am PDT — **STAGE 4b GETS BOTH A FEDERAL TEMPLATE *AND* A CONSTRAINT THE CHAIN HAS NO NODE FOR: THE "RATEPAYER PROTECTION PLEDGE
+
+## 2026-09
+
+- `2026-09-09` [transmission-chain.md:L311](../transmission-chain.md) — 2026-09-09 ~8:00am PDT — ⭐⭐⭐⭐⭐⭐ **THE CHAIN HAS A NEW BREAK AND THE GOPHER FOUND IT BEFORE I DID: GOOGLE IS NOW SELLING TPU SYSTEMS *OUTRIGHT* FOR INS

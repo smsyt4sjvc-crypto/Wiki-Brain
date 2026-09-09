@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **501 dated entries across 3 notes · 2026-05-22 → 2026-09-09 · refreshed 2026-09-09 07:04 PDT**
+> **503 dated entries across 3 notes · 2026-05-22 → 2026-09-09 · refreshed 2026-09-09 07:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -525,4 +525,6 @@
 - `2026-09-08` [new-economy-regime.md:L4979](../new-economy-regime.md) — Addendum 2026-09-08 ~9:35pm PDT — ✔✔ **UBS CLOSES LAST NIGHT'S CHINA ⬜ FROM ABOVE: GLOBAL EXPORT VALUES +19% y/y (84th PERCENTILE OF 25 YEARS) — AND T
 - `2026-09-08` [new-economy-regime.md:L4986](../new-economy-regime.md) — 2026-09-08 ~11:00pm PDT — ⭐⭐⭐⭐ **DECOMPOSE THE GROUP MEAN, AGAIN, AND IT INVERTS THE STORY: 58% OF US WORKERS FEAR OBSOLESCENCE — BUT **74% OF TECHNOL
 - `2026-09-09` [ai-financing-fragility.md:L7953](../ai-financing-fragility.md) — 2026-09-09 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PERIMETER HOLE I FLAGGED LAST NIGHT CLOSES IN TWELVE HOURS, AND IT CLOSES IN THE WORST DIRECTION: THE GS ISSUANC
+- `2026-09-09` [ai-financing-fragility.md:L7969](../ai-financing-fragility.md) — 2026-09-09 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT NOW HOLDS FOUR "PAYBACK PERIODS" FOR THE SAME ASSET CLASS SPANNING **ONE TO SEVEN YEARS** — A 7× RANGE — 
+- `2026-09-09` [ai-financing-fragility.md:L7991](../ai-financing-fragility.md) — Addendum 2026-09-09 ~8:10am PDT — **QCOM GETS ITS GUIDANCE, AND IT REFRAMES THE VAULT'S OWN "~$6B/YR" — THE AVERAGE IS ROUGHLY RIGHT AND THE *PATH* IS
 - `2026-09-09` [market-fragility.md:L4573](../market-fragility.md) — 2026-09-09 ~7:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE REGISTERED TEST ARRIVES ONE DAY EARLY AND FROM AN UNEXPECTED NAME: SERVICETITAN BEAT ON REVENUE AND FELL **19%**

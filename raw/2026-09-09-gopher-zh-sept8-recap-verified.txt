@@ -1,0 +1,34 @@
+GOPHER — verified items from the ZeroHedge Sept 8 recap (full text behind Premium).
+Delivered by Jake ~7:39am PDT 2026-09-09. Sources named by the gopher as primaries.
+
+1. GOOGLE — Thomas Kurian (Google Cloud transcript): AI servers pay back in UNDER TWO
+   YEARS. Google's OWN SILICON has roughly HALF the payback period of GPUs. Most
+   infrastructure contract value comes from FIVE-YEAR COMMITMENTS.
+   Gopher caveat: the transcript does not define every cost included in "payback."
+
+2. GOOGLE — expanding hardware sales that shift the power-and-building burden to
+   customers. Three channels: TPU cloud subscriptions; OUTRIGHT SYSTEM PURCHASES for
+   customers' own facilities; and a BLACKSTONE-BACKED NEOCLOUD channel. Kurian: the TPU
+   business is OVER TWICE the size of the next-largest hyperscaler's accelerator business.
+   Gopher note: for a MW-to-revenue model, direct hardware revenue needs separate
+   treatment because the associated electricity is consumed at the CUSTOMER's facility.
+
+3. QUALCOMM — Amazon relationship covers MULTIPLE GENERATIONS of custom inference chips
+   plus optical connectivity. Management expects Amazon revenue to BEGIN IN THE DECEMBER
+   QUARTER. Reiterated data-centre targets of $5 BILLION IN FY2027 and $15 BILLION IN
+   FY2029. The $60 billion figure describes PURCHASE THRESHOLDS TIED TO STOCK WARRANTS
+   over ten years.
+
+4. QUALCOMM — explicitly described RISING TOKEN DEMAND alongside POWER, WAFER and MEMORY
+   constraints. Management also sees workloads SPLITTING ACROSS MORE SPECIALIZED HARDWARE.
+   Gopher's own read: fits the Jevons framework - cheaper computation can encourage greater
+   usage while performance per watt becomes more valuable under physical constraints. It
+   remains a DEMAND FORECAST, not a measured economy-wide result.
+
+5. OPENAI — advertising business reached approximately a $1 BILLION ANNUALIZED REVENUE
+   PACE, per CFO Sarah Friar, SEVEN MONTHS after launch (Business Insider conference
+   reporting). The figure alone says nothing about profitability after serving costs.
+
+GOPHER'S READ: constructive for continued infrastructure demand, with growing competition
+over who captures the chip profits. Google's server payback, contract duration, and
+hardware-sales model are the most useful disclosures.
