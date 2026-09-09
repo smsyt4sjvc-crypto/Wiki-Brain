@@ -1,6 +1,6 @@
 # ⏱ INVENTORY — merged timeline (the gate)
 
-> **148 dated entries across 1 notes · 2026-03-13 → 2026-09-09 · refreshed 2026-09-09 11:02 PDT**
+> **150 dated entries across 1 notes · 2026-03-13 → 2026-09-09 · refreshed 2026-09-09 11:54 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -173,3 +173,5 @@
 - `2026-09-08` [demand-destruction.md:L4113](../demand-destruction.md) — ⛔ CORRECTION 2026-09-08 ~11:15am PDT — **I FILED GOLDMAN'S $120 AS THEIR CALL. IT IS THEIR STRESS SCENARIO. THEIR BASE CASE IS BRENT ~$85 BY DEC-2026 
 - `2026-09-08` [demand-destruction.md:L4121](../demand-destruction.md) — 2026-09-08 ~9:20pm PDT — ⭐⭐⭐⭐⭐⭐ **THE INE-BRENT SPREAD, QUANTIFIED AND DECOMPOSED: SHANGHAI $109.95 (CONTRACT RECORD) vs BRENT $99.63 = **+$10.32**. T
 - `2026-09-09` [demand-destruction.md:L4146](../demand-destruction.md) — 2026-09-09 ~8:50am PDT — ⭐⭐⭐⭐⭐ **DECOMPOSE THE PRINT BEFORE READING IT, AND CHINA'S INFLATION IS NOT A DEMAND STORY AT ALL: **ENERGY IS ~0.24 OF THE 0
+- `2026-09-09` [demand-destruction.md:L4163](../demand-destruction.md) — 2026-09-09 ~11:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE 9/4 REGISTERED ⬜ CLOSES WITH A MEASUREMENT, NOT AN OPINION: **US DISTILLATE DEMAND IS FLAT YEAR-ON-YEAR (+0.9% 
+- `2026-09-09` [demand-destruction.md:L4181](../demand-destruction.md) — Addendum 2026-09-09 ~12:05pm PDT — ⭐⭐⭐⭐⭐⭐ **I ASSERTED A MISSING INVENTORY BUFFER TEN MINUTES AGO AND FLAGGED IT AS UNFETCHED. PULLED IT. **CONFIRMED,

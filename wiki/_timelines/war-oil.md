@@ -1,6 +1,6 @@
 # ⏱ WAR/OIL — merged timeline (the gate)
 
-> **365 dated entries across 3 notes · 2026-03-13 → 2026-09-09 · refreshed 2026-09-09 11:02 PDT**
+> **367 dated entries across 3 notes · 2026-03-13 → 2026-09-09 · refreshed 2026-09-09 11:54 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -389,4 +389,6 @@
 - `2026-09-08` [war-board.md:L4695](../war/war-board.md) — 2026-09-08 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **VITOL'S CEO PUTS HORMUZ CRUDE FLOW AT ~10 mb/d AND CALLS IT "IMPROVED" — A FIFTH NUMBER ON THE BOARD'S MOST CONTEST
 - `2026-09-08` [war-board.md:L4712](../war/war-board.md) — 2026-09-08 ~3:20pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **CENTCOM DESTROYS FIVE MORE IRGC TANKERS (primary release, verbatim) — THE BOARD'S 9/5 FORECAST PRINTED IN THREE DA
 - `2026-09-09` [demand-destruction.md:L4146](../demand-destruction.md) — 2026-09-09 ~8:50am PDT — ⭐⭐⭐⭐⭐ **DECOMPOSE THE PRINT BEFORE READING IT, AND CHINA'S INFLATION IS NOT A DEMAND STORY AT ALL: **ENERGY IS ~0.24 OF THE 0
+- `2026-09-09` [demand-destruction.md:L4163](../demand-destruction.md) — 2026-09-09 ~11:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE 9/4 REGISTERED ⬜ CLOSES WITH A MEASUREMENT, NOT AN OPINION: **US DISTILLATE DEMAND IS FLAT YEAR-ON-YEAR (+0.9% 
+- `2026-09-09` [demand-destruction.md:L4181](../demand-destruction.md) — Addendum 2026-09-09 ~12:05pm PDT — ⭐⭐⭐⭐⭐⭐ **I ASSERTED A MISSING INVENTORY BUFFER TEN MINUTES AGO AND FLAGGED IT AS UNFETCHED. PULLED IT. **CONFIRMED,
 - `2026-09-09` [oil-value-chain.md:L2821](../oil-value-chain.md) — 2026-09-09 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐ **DECOMPOSE THE PUMP BEFORE READING IT (RULE 20), AND THE RECORD IS NOT THE STORY — THE *RATIO* IS. DIESEL $5.94 AGAIN

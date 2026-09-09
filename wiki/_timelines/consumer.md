@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **457 dated entries across 6 notes · 2026-03-13 → 2026-09-09 · refreshed 2026-09-09 11:02 PDT**
+> **459 dated entries across 6 notes · 2026-03-13 → 2026-09-09 · refreshed 2026-09-09 11:54 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -481,4 +481,6 @@
 - `2026-09-08` [new-economy-regime.md:L4979](../new-economy-regime.md) — Addendum 2026-09-08 ~9:35pm PDT — ✔✔ **UBS CLOSES LAST NIGHT'S CHINA ⬜ FROM ABOVE: GLOBAL EXPORT VALUES +19% y/y (84th PERCENTILE OF 25 YEARS) — AND T
 - `2026-09-08` [new-economy-regime.md:L4986](../new-economy-regime.md) — 2026-09-08 ~11:00pm PDT — ⭐⭐⭐⭐ **DECOMPOSE THE GROUP MEAN, AGAIN, AND IT INVERTS THE STORY: 58% OF US WORKERS FEAR OBSOLESCENCE — BUT **74% OF TECHNOL
 - `2026-09-09` [demand-destruction.md:L4146](../demand-destruction.md) — 2026-09-09 ~8:50am PDT — ⭐⭐⭐⭐⭐ **DECOMPOSE THE PRINT BEFORE READING IT, AND CHINA'S INFLATION IS NOT A DEMAND STORY AT ALL: **ENERGY IS ~0.24 OF THE 0
+- `2026-09-09` [demand-destruction.md:L4163](../demand-destruction.md) — 2026-09-09 ~11:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE 9/4 REGISTERED ⬜ CLOSES WITH A MEASUREMENT, NOT AN OPINION: **US DISTILLATE DEMAND IS FLAT YEAR-ON-YEAR (+0.9% 
+- `2026-09-09` [demand-destruction.md:L4181](../demand-destruction.md) — Addendum 2026-09-09 ~12:05pm PDT — ⭐⭐⭐⭐⭐⭐ **I ASSERTED A MISSING INVENTORY BUFFER TEN MINUTES AGO AND FLAGGED IT AS UNFETCHED. PULLED IT. **CONFIRMED,
 - `2026-09-09` [market-fragility.md:L4573](../market-fragility.md) — 2026-09-09 ~7:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE REGISTERED TEST ARRIVES ONE DAY EARLY AND FROM AN UNEXPECTED NAME: SERVICETITAN BEAT ON REVENUE AND FELL **19%**
