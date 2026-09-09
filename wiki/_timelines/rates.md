@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **403 dated entries across 3 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 07:45 PDT**
+> **404 dated entries across 3 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 07:51 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -428,3 +428,4 @@
 - `2026-09-08` [rates-board.md:L2802](../rates-board.md) — Addendum 2026-09-08 ~11:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE CHART UNDER "2027 AI DV01 > USTs" DOES NOT SUPPORT ITS OWN CAPTION, AND THE REASON IS A COMPOSITION SH
 - `2026-09-09` [market-fragility.md:L4573](../market-fragility.md) — 2026-09-09 ~7:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE REGISTERED TEST ARRIVES ONE DAY EARLY AND FROM AN UNEXPECTED NAME: SERVICETITAN BEAT ON REVENUE AND FELL **19%**
 - `2026-09-09` [rates-board.md:L2811](../rates-board.md) — 2026-09-09 ~7:10am PDT — ⭐⭐⭐⭐⭐ **THE PRE-REGISTERED DAY ARRIVES, AND ONE DETAIL IN THE BRIEF CHANGES THE INSTRUMENT: THE LONG-END BUYBACK MOVES FROM A
+- `2026-09-09` [rates-board.md:L2830](../rates-board.md) — Addendum 2026-09-09 ~7:55am PDT — ⛔⛔ **I CORRECT MY OWN CORRECTION FROM FORTY-FIVE MINUTES AGO, AND THE ORIGINAL BOARD LANGUAGE WAS RIGHT. THE BUYBACK

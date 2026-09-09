@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **377 dated entries across 6 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 07:45 PDT**
+> **379 dated entries across 6 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 07:51 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -403,5 +403,7 @@
 - `2026-09-09` [ai-financing-fragility.md:L7953](../ai-financing-fragility.md) — 2026-09-09 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PERIMETER HOLE I FLAGGED LAST NIGHT CLOSES IN TWELVE HOURS, AND IT CLOSES IN THE WORST DIRECTION: THE GS ISSUANC
 - `2026-09-09` [ai-financing-fragility.md:L7969](../ai-financing-fragility.md) — 2026-09-09 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT NOW HOLDS FOUR "PAYBACK PERIODS" FOR THE SAME ASSET CLASS SPANNING **ONE TO SEVEN YEARS** — A 7× RANGE — 
 - `2026-09-09` [ai-financing-fragility.md:L7991](../ai-financing-fragility.md) — Addendum 2026-09-09 ~8:10am PDT — **QCOM GETS ITS GUIDANCE, AND IT REFRAMES THE VAULT'S OWN "~$6B/YR" — THE AVERAGE IS ROUGHLY RIGHT AND THE *PATH* IS
+- `2026-09-09` [ai-financing-fragility.md:L7999](../ai-financing-fragility.md) — 2026-09-09 ~8:35am PDT — ⭐⭐⭐⭐⭐ **THE YEN CHANNEL IS NOT A NEW BLIND SPOT — JAKE REGISTERED IT MONTHS AGO AND THE VAULT CALLED IT "HIS SHARPEST CATCH."
 - `2026-09-09` [rates-board.md:L2811](../rates-board.md) — 2026-09-09 ~7:10am PDT — ⭐⭐⭐⭐⭐ **THE PRE-REGISTERED DAY ARRIVES, AND ONE DETAIL IN THE BRIEF CHANGES THE INSTRUMENT: THE LONG-END BUYBACK MOVES FROM A
+- `2026-09-09` [rates-board.md:L2830](../rates-board.md) — Addendum 2026-09-09 ~7:55am PDT — ⛔⛔ **I CORRECT MY OWN CORRECTION FROM FORTY-FIVE MINUTES AGO, AND THE ORIGINAL BOARD LANGUAGE WAS RIGHT. THE BUYBACK
 - `2026-09-09` [transmission-chain.md:L311](../transmission-chain.md) — 2026-09-09 ~8:00am PDT — ⭐⭐⭐⭐⭐⭐ **THE CHAIN HAS A NEW BREAK AND THE GOPHER FOUND IT BEFORE I DID: GOOGLE IS NOW SELLING TPU SYSTEMS *OUTRIGHT* FOR INS
