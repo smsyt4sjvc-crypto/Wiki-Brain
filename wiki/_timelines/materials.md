@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **206 dated entries across 3 notes · 2026-07-09 → 2026-09-09 · refreshed 2026-09-09 08:54 PDT**
+> **207 dated entries across 3 notes · 2026-07-09 → 2026-09-09 · refreshed 2026-09-09 09:20 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -225,3 +225,4 @@
 - `2026-09-08` [war-board.md:L4695](../war/war-board.md) — 2026-09-08 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **VITOL'S CEO PUTS HORMUZ CRUDE FLOW AT ~10 mb/d AND CALLS IT "IMPROVED" — A FIFTH NUMBER ON THE BOARD'S MOST CONTEST
 - `2026-09-08` [war-board.md:L4712](../war/war-board.md) — 2026-09-08 ~3:20pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **CENTCOM DESTROYS FIVE MORE IRGC TANKERS (primary release, verbatim) — THE BOARD'S 9/5 FORECAST PRINTED IN THREE DA
 - `2026-09-09` [buildout-bottleneck-map.md:L1777](../buildout-bottleneck-map.md) — 2026-09-09 ~7:35am PDT — ⭐⭐⭐⭐⭐ **DO NOT ADD NAMEPLATE TO FIRM. ORACLE'S "2 GW RENEWABLE + 2.45 GW FUEL CELL" IS NOT 4.45 GW — AT THE EVENING PEAK IT I
+- `2026-09-09` [physical-ai-hardware-stack.md:L143](../physical-ai-hardware-stack.md) — 2026-09-09 ~10:05am PDT — **FOUR ROSTER EVENTS IN ONE SCAN, THREE ON UNGRADED NAMES — AND THE MOST INTERESTING IS THE ONE THAT CUTS *AGAINST* THE DATA

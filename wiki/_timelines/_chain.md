@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **897 dated entries · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 08:54 PDT**
+> **901 dated entries · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 09:20 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -182,8 +182,8 @@
 - `2026-07-21` **[5]** compression-thesis.md:L386 — 2026-07-21 ~6:48am PT (Tue open) — MU clears the $907 reclaim; chip-bear steamrolled near-term; circular wire INTENSIFIES
 - `2026-07-21` **[5]** compression-thesis.md:L408 — 2026-07-21 ~7am PT — China RETALIATES: considering AI + semi export controls (the arms race goes two-way)
 - `2026-07-21` **[5]** compression-thesis.md:L433 — 2026-07-21 ~7:25am PT — MSFT tests Kimi K3 in Copilot: the incumbent's incumbent shops OpenAI's replacement
-- `2026-07-21` **[5]** compression-thesis.md:L2905 — DATA — SecurityWeek (fetched), reporting OpenAI's technical report of **2026-07-21** — the SAME disclosure this note filed on 7/22
-- `2026-07-21` **[5]** compression-thesis.md:L2944 — ⛔ WHAT IS AND IS NOT IN THE PRIMARY (`raw/2026-07-21-openai-hugging-face-incident-technical-report.txt`)
+- `2026-07-21` **[5]** compression-thesis.md:L2906 — DATA — SecurityWeek (fetched), reporting OpenAI's technical report of **2026-07-21** — the SAME disclosure this note filed on 7/22
+- `2026-07-21` **[5]** compression-thesis.md:L2945 — ⛔ WHAT IS AND IS NOT IN THE PRIMARY (`raw/2026-07-21-openai-hugging-face-incident-technical-report.txt`)
 - `2026-07-22` **[3]** ai-financing-fragility.md:L619 — 2026-07-22 ~7:30am PT — the credit leg goes MAINSTREAM + a fresh circular node (AMD→Anthropic $5B)
 - `2026-07-22` **[3]** ai-financing-fragility.md:L646 — 2026-07-22 ~3:50pm PT — the CREDIT LEG fires across names: hyperscaler bonds "slaughtered," SpaceX bonds at JUNK, G-spread RECORD
 - `2026-07-22` **[3]** ai-financing-fragility.md:L676 — 2026-07-22 ~4:45pm PT — AMD-Anthropic DETAIL (WSJ): the LEASE BACKSTOP upgrades the wire from correlated to credit-transmitting
@@ -532,7 +532,7 @@
 - `2026-08-12` **[5]** metered-compute.md:L2266 — 2026-08-12 ~10:45am PDT — 📌 NBIS Q2 GRADED (leg 1 of 2): THE MARGIN CONDITIONAL CONFIRMS — and the EBITDA beat is 40% against a revenue beat of 2%
 - `2026-08-12` **[5]** metered-compute.md:L2313 — 2026-08-12 ~9:50pm PDT — 🔗 NEW SILICON DATA TICKER IN A FAMILY THIS NOTE ALREADY TRACKS: `SDA100RT` = A100 RENTAL PRICE INDEX, **$1.29/GPU-hr**
 - `2026-08-12` **[5]** memory-regime-question.md:L917 — 2026-08-12 ~10:40pm PDT — ★★★★★★ THE THREAD-LINK JAKE'S ONE-LINER NAMES: **THIS NOTE AND THE COLLATERAL NOTE HAVE BEEN THE SAME THREAD ALL ALONG, AND 
-- `2026-08-12` **[5]** compression-thesis.md:L2070 — 2026-08-12 ~9:00pm PDT — 🎯 JAKE'S THESIS GRADED: "GOOGLE COMES OUT A CLEAR WINNER; TPU IS THE HARD-TO-CATCH ADVANTAGE"
+- `2026-08-12` **[5]** compression-thesis.md:L2071 — 2026-08-12 ~9:00pm PDT — 🎯 JAKE'S THESIS GRADED: "GOOGLE COMES OUT A CLEAR WINNER; TPU IS THE HARD-TO-CATCH ADVANTAGE"
 - `2026-08-13` **[1]** new-economy-regime.md:L3103 — 2026-08-13 ~6:45am PDT — ★★★★★★ THE PPI PRINTS **+0.4% CORE — EXACTLY THE VAULT'S PRE-REGISTERED NUMBER, DOUBLE CONSENSUS.** And the headline 0.0% is 
 - `2026-08-13` **[1]** new-economy-regime.md:L3167 — 2026-08-13 ~8:10am PDT — ⛔⛔⛔ **I GOT THE PPI BACKWARDS AN HOUR AGO. IT PRINTED COOLER THAN EXPECTED ON EVERY MEASURE THE MARKET TRADES** — I compared 
 - `2026-08-13` **[1]** new-economy-regime.md:L3232 — 2026-08-13 ~10:55am PDT — ★★★★★ THE 30Y AUCTION CLOSES THIS MORNING'S REGISTERED ITEM — **and the headline fuses two different instruments: the TAIL i
@@ -567,9 +567,9 @@
 - `2026-08-16` **[1]** new-economy-regime.md:L3811 — DATA (MEASURED — `tape.py`-style close-array pulls, 2026-08-16 ~11:28pm PDT)
 - `2026-08-16` **[3]** ai-financing-fragility.md:L6294 — 2026-08-16 ~9:00pm PDT — ★★★ WSJ PUTS **$3 TRILLION** OF OFF-BALANCE-SHEET AI COMMITMENTS ON THE FRONT PAGE. **JAKE: "Fashionably late?" — MEASURED BY
 - `2026-08-16` **[5]** metered-compute.md:L2334 — 2026-08-16 ~9:55pm PDT — ★★★★★★★ JAKE'S NUMBERS **RESOLVE THE ELASTICITY TEST THIS NOTE REGISTERED ON 7/24** — and the answer is far tighter than 300×
-- `2026-08-16` **[5]** compression-thesis.md:L2151 — 2026-08-16 ~9:38pm PDT — ★★★★★★ JAKE DECODES THE OPEN-SOURCE INCENTIVE, AND HIS OWN CITED EVIDENCE IS **STRONGER AND CHEAPER THAN HE STATED**: STRIPE 
-- `2026-08-16` **[5]** compression-thesis.md:L2205 — 2026-08-16 ~9:50pm PDT — ★★★★★★★ JAKE'S OPENROUTER NUMBERS, VERIFIED AND EXTENDED. **THE CAP TABLE IS THE ARGUMENT: CAPITALG (ALPHABET) *LED* AND NVEN
-- `2026-08-16` **[5]** compression-thesis.md:L2266 — 2026-08-16 ~10:07pm PDT — ★★★★★ JAKE FORMALISES OPEN-vs-CLOSED AS **COMMODITIZE-YOUR-COMPLEMENT** AND BUILDS THE LAYER/RENT TABLE. The frame is right 
+- `2026-08-16` **[5]** compression-thesis.md:L2152 — 2026-08-16 ~9:38pm PDT — ★★★★★★ JAKE DECODES THE OPEN-SOURCE INCENTIVE, AND HIS OWN CITED EVIDENCE IS **STRONGER AND CHEAPER THAN HE STATED**: STRIPE 
+- `2026-08-16` **[5]** compression-thesis.md:L2206 — 2026-08-16 ~9:50pm PDT — ★★★★★★★ JAKE'S OPENROUTER NUMBERS, VERIFIED AND EXTENDED. **THE CAP TABLE IS THE ARGUMENT: CAPITALG (ALPHABET) *LED* AND NVEN
+- `2026-08-16` **[5]** compression-thesis.md:L2267 — 2026-08-16 ~10:07pm PDT — ★★★★★ JAKE FORMALISES OPEN-vs-CLOSED AS **COMMODITIZE-YOUR-COMPLEMENT** AND BUILDS THE LAYER/RENT TABLE. The frame is right 
 - `2026-08-17` **[1]** rates-board.md:L26 — [2026-08-17] **10Y ~4.71-4.712%.** Source: third-party verification brief (S10 Barron's/market
 - `2026-08-17` **[1]** rates-board.md:L73 — [2026-08-17] **The supply-priced long end and the AI-financing thread may be the same story seen
 - `2026-08-17` **[3]** ai-financing-fragility.md:L6361 — 2026-08-17 ~9:10am PDT — ★★★★★★ THE OHIO BACKSTOP IS ~$105B AND IT DOES NOT FIT NVIDIA'S OWN DISCLOSED CAP. ⇒ EITHER THE INITIAL PHASE OF ONE CAMPUS I
@@ -586,7 +586,7 @@
 - `2026-08-18` **[3]** ai-financing-fragility.md:L6513 — [2026-08-18] **NVIDIA's announcement emphasises the infrastructure relationship and a $1.5B EQUITY
 - `2026-08-18` **[3]** ai-financing-fragility.md:L6515 — [2026-08-18] **The "$105B" is graded QUALIFIED: *"media reporting discussed financing or guarantees
 - `2026-08-18` **[5]** memory-regime-question.md:L954 — 2026-08-18 ~4:45pm PDT — ★★★★★ **JAKE ASKS THE RIGHT QUESTION AND THE VOLUME ANSWERS IT: THE AUGUST PULLBACK IS RUNNING AT ~HALF THE JULY DRAWDOWN'S P
-- `2026-08-18` **[5]** compression-thesis.md:L2324 — 2026-08-18 ~2:30pm PDT (source 2026-08-13 11:11pm) — ⚠️★★★★ **A 57× PRICE SPREAD ACROSS A 7.2-POINT PERFORMANCE SPREAD — THE COMPRESSION THESIS AS ONE
+- `2026-08-18` **[5]** compression-thesis.md:L2325 — 2026-08-18 ~2:30pm PDT (source 2026-08-13 11:11pm) — ⚠️★★★★ **A 57× PRICE SPREAD ACROSS A 7.2-POINT PERFORMANCE SPREAD — THE COMPRESSION THESIS AS ONE
 - `2026-08-19` **[1]** rates-board.md:L182 — 2026-08-19 ~7:00am PDT — ★★★★★★ **TREASURY DOUBLES LONG-END BUYBACKS ($2B → "AT LEAST" $4B/OPERATION, 10-20Y AND 20-30Y, FROM SEPT 9 TO NOV 4). ⇒ THE 
 - `2026-08-19` **[1]** rates-board.md:L243 — 2026-08-19 ~7:03am PDT (scanner 14:03 UTC) — ⭐⭐⭐⭐⭐ **THE BUYBACK TEST FIRED THE SAME MORNING AND IT FIRED IN FAVOUR: LONG YIELDS FELL SHARPLY, TLT +1.
 - `2026-08-19` **[1]** rates-board.md:L277 — 2026-08-19 ~9:15am PDT — ★★★★★★ **THE SHAPE SETTLES THE ATTRIBUTION AND MY 7:03am CAVEAT WAS TOO WEAK: 5Y −2bp · 10Y −6bp · 30Y −9bp IS A MONOTONIC BU
@@ -631,7 +631,7 @@
 - `2026-08-22` **[3]** ai-financing-fragility.md:L6972 — 2026-08-22 ~1:35pm PDT — ⛔ **POOLSIDE IS A MAP GAP, AND THE REASON MATTERS: NVDA ANNOUNCED A $1B INVESTMENT IN IT AT A $12B VALUATION IN *OCTOBER 2025
 - `2026-08-22` **[4]** ai-capex-cycle.md:L3379 — 2026-08-22 ~9:00am PDT — **ON/SYNAPTICS S-4: THE HEADLINE IS 12% DILUTION, BUT THE NUMBER THE FILING ACTUALLY DISCLOSES IS THAT *ON'S OWN STOCK FELL 3
 - `2026-08-22` **[5]** memory-regime-question.md:L1069 — 2026-08-22 ~1:00pm PDT — ★★★★★★ **THE F3 FORK RESOLVES: NVDA CHOSE PASS-THROUGH, NOT CONTENT CUTS. AND BECAUSE THE VAULT HOLDS MEMORY AT 62% OF THE VE
-- `2026-08-22` **[5]** compression-thesis.md:L2383 — 2026-08-22 ~1:15pm PDT — ⛔ **NO, IT DID NOT COME OUT OF THE BLUE — THE VAULT NAMED THE *STRATEGY* IN JULY AND HELD THE VEHICLES. ★★★ WHAT IS ACTUALLY 
+- `2026-08-22` **[5]** compression-thesis.md:L2384 — 2026-08-22 ~1:15pm PDT — ⛔ **NO, IT DID NOT COME OUT OF THE BLUE — THE VAULT NAMED THE *STRATEGY* IN JULY AND HELD THE VEHICLES. ★★★ WHAT IS ACTUALLY 
 - `2026-08-23` **[1]** rates-board.md:L935 — 2026-08-23 ~4:35pm PDT — ✅✅✅ **TCHIR'S HEADLINE VERIFIED AGAINST THE PRIMARY AND IT IS EXACT: THE FED OWNS 52.5% OF EVERYTHING MATURING 2036-2041.** ⛔
 - `2026-08-23` **[1]** new-economy-regime.md:L4204 — 2026-08-23 ~11:05pm PDT — 🕳️🕳️🕳️ **MAP GAP #21, AND IT IS LARGER THAN #20: JAKE NAMES SIX LIVE US PRICE INTERVENTIONS AND THE VAULT HOLDS *NONE* OF TH
 - `2026-08-23` **[1]** new-economy-regime.md:L4294 — 2026-08-23 ~11:45pm PDT — ⛔⛔ **HE ADDS INTEL AND MP AND THAT CONCEDES MY OWN PUSHBACK: STATE EQUITY *IS* THE OWNERSHIP TRANSFER I SAID WAS ABSENT.** ★
@@ -644,8 +644,8 @@
 - `2026-08-23` **[5]** metered-compute.md:L2907 — 2026-08-23 ~8:55pm PDT — ⛔⛔ **"READING PDFs AND VERIFYING." HE NAMED IT IN FOUR WORDS AND THE RE-CUT SAYS 65.3%.** ★★★★★★ **MY 8:30pm BUCKETING HID TH
 - `2026-08-23` **[5]** memory-regime-question.md:L1152 — 2026-08-23 ~8:50am PDT — ⛔ **JAKE: "WE ALREADY KNOW ABOUT THE 15% NVIDIA INCREASE." CORRECT — THIS NOTE FILED IT 2026-08-22 ~1:00pm PDT (`:L1109`), EI
 - `2026-08-23` **[5]** memory-regime-question.md:L1198 — 2026-08-23 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐ **TWO THREADS THIS VAULT HAS RUN SEPARATELY ARE ONE SHORTAGE, AND THE PROOF IS AN ASYMMETRY NOBODY IN THE SOURCE MATER
-- `2026-08-23` **[5]** compression-thesis.md:L2462 — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A
-- `2026-08-23` **[5]** compression-thesis.md:L2498 — 2026-08-23 ~9:20pm PDT — ✅ **PERPLEXITY WAS ALREADY ON FILE BY NAME, IN THE EXACT LINE THAT EXPLAINED THE POOLSIDE DEAL 30 HOURS AGO: `:L2485` — "the 
+- `2026-08-23` **[5]** compression-thesis.md:L2463 — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A
+- `2026-08-23` **[5]** compression-thesis.md:L2499 — 2026-08-23 ~9:20pm PDT — ✅ **PERPLEXITY WAS ALREADY ON FILE BY NAME, IN THE EXACT LINE THAT EXPLAINED THE POOLSIDE DEAL 30 HOURS AGO: `:L2485` — "the 
 - `2026-08-24` **[1]** rates-board.md:L1025 — 2026-08-24 ~12:15am PDT — ⛔⛔⛔ **THE TGA REVELATION BREAKS THIS BOARD'S OWN LOAD-BEARING CONCLUSION, WRITTEN 8/19 AT `:L223`: *"TREASURY BUYBACKS ARE C
 - `2026-08-24` **[1]** rates-board.md:L1101 — 2026-08-24 ~11:45pm PDT — ★★★★★★ **JAKE'S WEARY-ROTATION THESIS, FILED AS HIS AND SHARPENED: AT 82bp OVER, THE EXIT FROM AI CREDIT INTO TREASURIES IS 
 - `2026-08-24` **[2]** hyperscaler-credit.md:L516 — DATA — THE FULL PANEL THE TWO-NAME CHART CANNOT SHOW (ICE, clearing 2026-08-24)
@@ -661,10 +661,10 @@
 - `2026-08-25` **[3]** balance-sheet-board.md:L341 — Addendum 2026-08-25 ~7:40pm PDT — ⭐⭐⭐ **THREE HOURS AFTER THE 4:45pm SCAN, ZH HEADLINES THE SAME DATA: "OFF-BALANCE SHEET TIME BOMB INSIDE AI HITS $3.
 - `2026-08-25` **[3]** balance-sheet-board.md:L389 — 2026-08-25 ~11:40pm PDT — ⛔⛔⛔ **THE MSFT "CLEAN ONE" LABEL GETS ITS OPTICS LEVER: EXTENDING DATA-CENTER USEFUL LIVES 15→25 YEARS FLIPS THE NEW-LEASE P
 - `2026-08-25` **[5]** metered-compute.md:L2975 — 2026-08-25 ~10:50pm PDT — ★★★★★ **THE RAMP MODEL-MIX CHART (FT): THE ROUTING THESIS SHOWS UP IN THE #1 LAB'S OWN REVENUE MIX — AND THE CHART'S BIGGEST
-- `2026-08-25` **[5]** compression-thesis.md:L2590 — 2026-08-25 ~7:40am PDT — ⭐⭐⭐ **THE NEMOTRON-NEUTRALITY TEST REGISTERED 36 HOURS AGO TAKES ITS FIRST TICK, AND THE MECHANISM IS SHARPER THAN THE ONE I 
-- `2026-08-25` **[5]** compression-thesis.md:L2633 — 2026-08-25 ~3:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JALAPEÑO MEASURES, AND THE VAULT'S PRIOR ON IT WAS ONE LINE IN A BACKLOG: `ai-capex-cycle:L333` filed it in AVGO's $
-- `2026-08-25` **[5]** compression-thesis.md:L2698 — Addendum 2026-08-25 ~4:00pm PDT — 📊 **THE INFERENCEX CURVE ARRIVES AND IT CONFIRMS THE GOPHER'S CAVEAT VISIBLY: "2× BETTER" IS A POINT ON A CURVE (~20
-- `2026-08-25` **[5]** compression-thesis.md:L2721 — Addendum 2026-08-25 ~11:55pm PDT — ⭐⭐⭐⭐⭐ **THE FULL PORTABLE COMPUTER ARTICLE (VentureBeat/Nuñez, 6am) LANDS THE NUMBER THE TOKEN THREAD HAS WANTED AL
+- `2026-08-25` **[5]** compression-thesis.md:L2591 — 2026-08-25 ~7:40am PDT — ⭐⭐⭐ **THE NEMOTRON-NEUTRALITY TEST REGISTERED 36 HOURS AGO TAKES ITS FIRST TICK, AND THE MECHANISM IS SHARPER THAN THE ONE I 
+- `2026-08-25` **[5]** compression-thesis.md:L2634 — 2026-08-25 ~3:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JALAPEÑO MEASURES, AND THE VAULT'S PRIOR ON IT WAS ONE LINE IN A BACKLOG: `ai-capex-cycle:L333` filed it in AVGO's $
+- `2026-08-25` **[5]** compression-thesis.md:L2699 — Addendum 2026-08-25 ~4:00pm PDT — 📊 **THE INFERENCEX CURVE ARRIVES AND IT CONFIRMS THE GOPHER'S CAVEAT VISIBLY: "2× BETTER" IS A POINT ON A CURVE (~20
+- `2026-08-25` **[5]** compression-thesis.md:L2722 — Addendum 2026-08-25 ~11:55pm PDT — ⭐⭐⭐⭐⭐ **THE FULL PORTABLE COMPUTER ARTICLE (VentureBeat/Nuñez, 6am) LANDS THE NUMBER THE TOKEN THREAD HAS WANTED AL
 - `2026-08-26` **[1]** rates-board.md:L1228 — 2026-08-26 ~8:35am PDT — DAILY OPENING SCAN #2 (8/26, 6:04-6:14am PT quotes) — ⭐⭐⭐⭐ **THE GENUINELY NEW SERIES IN TODAY'S SCAN IS THE ISSUANCE LADDER:
 - `2026-08-26` **[1]** rates-board.md:L1281 — Addendum 2026-08-26 ~8:55am PDT — ⭐⭐⭐⭐ **THE PCE DETAIL REVERSES THE MORNING READ'S EMPHASIS: +0.2% MoM ANNUALIZES TO 2.43% — THE INCOMING PULSE IS NE
 - `2026-08-26` **[1]** rates-board.md:L1309 — 2026-08-26 ~11:15am PDT — WEEK TAPE (Mon→Wed 2pm ET, Jake's wrap) — ⭐⭐⭐⭐⭐ **THE 5Y WAS "MUCH LESS CONVINCING" WITH FOREIGN/INDIRECT BELOW AVERAGE — TH
@@ -692,7 +692,7 @@
 - `2026-08-26` **[5]** metered-compute.md:L3087 — Addendum 2026-08-26 ~7:08pm PDT — **THE PRIMARY ARTIFACT ARRIVES (Jake): Huang's 7/24 post — HIS FIRST EVER TWEET — sharing the letter. 66M views/173K
 - `2026-08-26` **[5]** memory-regime-question.md:L1327 — 2026-08-26 ~9:12am PDT — ⭐⭐⭐⭐ **SUSQUEHANNA (via DJ/Barron's, ANALYST rung): DRAM CONTRACT PRICES +>50% QoQ THIS QUARTER, NAND ~+60% — A PRE-PRINT COR
 - `2026-08-26` **[5]** memory-regime-question.md:L1339 — Addendum 2026-08-26 ~4:00pm PDT — ⭐⭐⭐⭐⭐ **NVDA'S MARGIN GUIDE IS THE SAME-DAY CONFIRMATION OF THE MORNING'S SUSQUEHANNA CALL: 75.0% → 74.0% (Q3) → 71-
-- `2026-08-26` **[5]** compression-thesis.md:L2755 — 2026-08-26 ~9:10am PDT — ⭐⭐⭐ **EXPORT-CONTROL ENFORCEMENT GOES FROM HYPOTHETICAL TO INDICTMENT: TAIWAN PROSECUTORS CHARGE 9 — INCLUDING AN NVDA TAIWAN
+- `2026-08-26` **[5]** compression-thesis.md:L2756 — 2026-08-26 ~9:10am PDT — ⭐⭐⭐ **EXPORT-CONTROL ENFORCEMENT GOES FROM HYPOTHETICAL TO INDICTMENT: TAIWAN PROSECUTORS CHARGE 9 — INCLUDING AN NVDA TAIWAN
 - `2026-08-27` **[1]** rates-board.md:L1411 — 2026-08-27 ~6:30am PDT — **CLAIMS: 203K vs 208Ke (4wk 205.5K) · CONTINUING −18K to ~1.78M — THE NO-HIRE/NO-FIRE SPLIT HOLDS ON BOTH LEGS: firing outri
 - `2026-08-27` **[1]** rates-board.md:L1424 — Addendum 2026-08-27 ~6:46am PDT — THURSDAY OPENING APPENDIX (the scan body re-ran Wednesday's; the appendix is the new data): **(1) 5Y CHARACTERIZATIO
 - `2026-08-27` **[1]** rates-board.md:L1426 — 2026-08-27 ~8:15am PDT — ⭐⭐⭐⭐⭐⭐ **BLOOMBERG CONFIRMS THE BOARD'S "ADMINISTERED 30Y" FINDING AS STREET CONSENSUS WITHIN 24 HOURS: BofA — "A NEW REGIME,
@@ -707,11 +707,11 @@
 - `2026-08-27` **[4]** ai-capex-cycle.md:L3469 — 2026-08-27 ~3:10pm PDT — ⭐⭐⭐⭐⭐ **MRVL: THE DEMAND RATCHET CONTINUES — $2.739B (+37% y/y), DC $2.172B (+46% y/y, 79% of company), Q3 guide $3.15B (+15%
 - `2026-08-27` **[4]** ai-capex-cycle.md:L3482 — Addendum 2026-08-27 ~4:09pm PDT — ⭐⭐⭐⭐ **THE MACRO-SHARE DATUM: HIGH-TECH CAPEX (equipment + software + R&D) = 55.2% OF TOTAL US NOMINAL CAPITAL SPEND
 - `2026-08-27` **[5]** metered-compute.md:L3089 — 2026-08-27 ~9:15pm PDT — ⭐⭐⭐⭐ **THE TRIANGLE CLOSES: NVDA–NOW–HUGGING FACE (Jake's chain). The vault held two edges — the 7/25 sandwich topology (NVDA
-- `2026-08-27` **[5]** compression-thesis.md:L2766 — 2026-08-27 ~8:00am PDT — ⭐⭐⭐⭐⭐ **GLM-5.3-FLASH (Zhipu/Z.ai, vendor announcement): 320B total / 18B ACTIVE, "one-tenth the price" of GLM-5.2, "APPROACH
-- `2026-08-27` **[5]** compression-thesis.md:L2795 — 2026-08-27 ~1:00pm PDT — ⭐⭐⭐⭐⭐ **TAPE-CONFIRMED (Yahoo, 3:57pm ET, header-reconciled ✓): SOFTWARE IS REPRICING VIOLENTLY — CRM +23.3% ($205.62→$253.50
-- `2026-08-27` **[5]** compression-thesis.md:L2819 — Addendum 2026-08-27 ~2:55pm PDT — **CONFIRMATION #2, per Jake: OKTA +31% — a SECOND software name, in a DIFFERENT sub-sector (identity/security vs CRM
-- `2026-08-27` **[5]** compression-thesis.md:L2821 — Addendum 2026-08-27 ~3:20pm PDT — **JAKE REFRAMES THE SOFTWARE BREAKOUT AND HIS FRAME IS BETTER SUPPORTED BY THE WEEK'S DATA: "ACCUMULATION SIGNAL. So
-- `2026-08-27` **[5]** compression-thesis.md:L2832 — 2026-08-27 ~8:10pm PDT — ⭐⭐⭐⭐⭐⭐ **THE ANTHROPIC BLACKLIST FALLS: JUDGE RITA LIN (N.D. Cal.) VACATES THE PENTAGON'S SUPPLY-CHAIN-RISK DESIGNATION — FIR
+- `2026-08-27` **[5]** compression-thesis.md:L2767 — 2026-08-27 ~8:00am PDT — ⭐⭐⭐⭐⭐ **GLM-5.3-FLASH (Zhipu/Z.ai, vendor announcement): 320B total / 18B ACTIVE, "one-tenth the price" of GLM-5.2, "APPROACH
+- `2026-08-27` **[5]** compression-thesis.md:L2796 — 2026-08-27 ~1:00pm PDT — ⭐⭐⭐⭐⭐ **TAPE-CONFIRMED (Yahoo, 3:57pm ET, header-reconciled ✓): SOFTWARE IS REPRICING VIOLENTLY — CRM +23.3% ($205.62→$253.50
+- `2026-08-27` **[5]** compression-thesis.md:L2820 — Addendum 2026-08-27 ~2:55pm PDT — **CONFIRMATION #2, per Jake: OKTA +31% — a SECOND software name, in a DIFFERENT sub-sector (identity/security vs CRM
+- `2026-08-27` **[5]** compression-thesis.md:L2822 — Addendum 2026-08-27 ~3:20pm PDT — **JAKE REFRAMES THE SOFTWARE BREAKOUT AND HIS FRAME IS BETTER SUPPORTED BY THE WEEK'S DATA: "ACCUMULATION SIGNAL. So
+- `2026-08-27` **[5]** compression-thesis.md:L2833 — 2026-08-27 ~8:10pm PDT — ⭐⭐⭐⭐⭐⭐ **THE ANTHROPIC BLACKLIST FALLS: JUDGE RITA LIN (N.D. Cal.) VACATES THE PENTAGON'S SUPPLY-CHAIN-RISK DESIGNATION — FIR
 - `2026-08-28` **[1]** rates-board.md:L1544 — 2026-08-28 ~8:15am PDT — ⭐⭐⭐⭐⭐ **WARSH AT JACKSON HOLE (Jake's post-speech brief): A HAWK BLOC FORMS, SEPT HIKE ODDS 35%→46% — AND THE CURVE PRINTS TH
 - `2026-08-28` **[1]** rates-board.md:L1609 — Addendum 2026-08-28 ~9:35am PDT — ⛔⭐⭐⭐⭐ **JAKE'S TWO REFINEMENTS TO THE MORNING ENTRY, BOTH GRADED RIGHT — one relabels the regime claim, one CORRECTS
 - `2026-08-28` **[1]** rates-board.md:L1655 — 2026-08-28 ~1:50pm PDT — ⭐⭐⭐⭐⭐ **CLOSE (Warsh day, full scan): BEAR-FLATTENER CONFIRMED AT THE CLOSE — 2Y +14bp to 4.34 vs 30Y +3bp to 5.22 (2s30s 99→
@@ -721,7 +721,7 @@
 - `2026-08-28` **[4]** ai-capex-cycle.md:L3500 — Addendum 2026-08-28 ~9:50am PDT — **MRVL: the selloff's stated cause CONFIRMS the filed structure rather than contradicting it.** Scan detail: managem
 - `2026-08-28` **[5]** metered-compute.md:L3150 — 2026-08-28 ~7:35pm PDT — ⭐⭐⭐⭐ **OPENAI CUTS CURSOR OFF (statement via Jake, "the petty"): partnership ends following CURSOR'S ACQUISITION BY SPACEX; "
 - `2026-08-28` **[5]** metered-compute.md:L3182 — Addendum 2026-08-28 ~7:35pm PDT (full statement, same hour) — **THE FULL TEXT UPGRADES THE READ THREE WAYS: it's a CHANGE-OF-CONTROL clause exercised 
-- `2026-08-28` **[5]** compression-thesis.md:L2860 — Addendum 2026-08-28 ~9:40am PDT — **SOFTWARE TEST #3 (WDAY): PASSED, softly.** Beat on adj-EPS + revenue; **AI >25% of new ACV** (the accumulation sig
+- `2026-08-28` **[5]** compression-thesis.md:L2861 — Addendum 2026-08-28 ~9:40am PDT — **SOFTWARE TEST #3 (WDAY): PASSED, softly.** Beat on adj-EPS + revenue; **AI >25% of new ACV** (the accumulation sig
 - `2026-08-29` **[1]** rates-board.md:L1712 — Addendum 2026-08-29 ~9:00am PDT — official Treasury close refinement (8/29 scan): **2Y 4.348% (+11.8bp) · 10Y 4.721%** (vs the close scan's 4.34/+14 —
 - `2026-08-29` **[3]** ai-financing-fragility.md:L7499 — 2026-08-29 ~8:55am PDT — ⭐⭐⭐⭐⭐ **IREN 10-K (SEC-filed, 8/29 scan): THE PERIPHERY CONSOLIDATES ITS SPV WHILE THE CORE DOESN'T — IE US Hardware 3 LLC (t
 - `2026-08-29` **[4]** ai-capex-cycle.md:L3502 — Addendum 2026-08-29 ~8:57am PDT — ⭐⭐⭐⭐ **MRVL 10-Q (8/28): foundry/test purchase commitments $2.757B → $8.519B (+209% q/q, +$5.76B), capex commitments
@@ -803,10 +803,10 @@
 - `2026-09-02` **[4]** ai-capex-cycle.md:L3539 — Addendum 2026-09-02 ~10:07am PDT — **FIRST LAB TO SIGN THE BARGAIN PUBLICLY: Anthropic's Tom Brown (Chapel Hill, via Jake) praised the pro-data-center
 - `2026-09-02` **[4]** ai-capex-cycle.md:L3541 — 2026-09-02 ~1:50pm PDT — ⭐⭐⭐⭐⭐⭐ **AVGO Q3 FY26 GRADED AGAINST THE PRE-REGISTERED SCORECARD (release + ZH wires via Jake, `raw/2026-09-02-avgo-q3-print
 - `2026-09-02` **[5]** metered-compute.md:L3290 — 2026-09-02 ~7:10pm PDT — ⭐⭐⭐⭐ **HUANG vs ALTMAN, PUBLICLY SPLIT ON WHETHER COMPUTE MUST BE OWNED (Jake's catch, Chapel Hill): HUANG — AI is infrastruc
-- `2026-09-02` **[5]** compression-thesis.md:L2862 — Addendum 2026-09-02 ~10:05am PDT — ⭐⭐⭐⭐ **THE RESET, SIX DAYS AFTER THE COURT (Lutnick at Chapel Hill, via Jake): "We trust Anthropic… [they've] done 
-- `2026-09-02` **[5]** compression-thesis.md:L2864 — 2026-09-02 ~2:20pm PDT — ⭐⭐⭐⭐ **JAKE BUILT A CHANNEL-LEVEL MEMORY METER (his DigiKey list `digikey_memory_tracker_updated_2026-09-02.csv`, `raw/2026-0
-- `2026-09-02` **[5]** compression-thesis.md:L2865 — DATA (2026-09-02 snapshot)
-- `2026-09-02` **[5]** compression-thesis.md:L2882 — Addendum 2026-09-02 ~2:25pm PDT — ⭐⭐⭐⭐⭐ **THE PRODUCT PAGE SETTLES IT AND ADDS A PRICE (Jake, `raw/2026-09-02-digikey-MTC40F2046-product-page.pdf` — M
+- `2026-09-02` **[5]** compression-thesis.md:L2863 — Addendum 2026-09-02 ~10:05am PDT — ⭐⭐⭐⭐ **THE RESET, SIX DAYS AFTER THE COURT (Lutnick at Chapel Hill, via Jake): "We trust Anthropic… [they've] done 
+- `2026-09-02` **[5]** compression-thesis.md:L2865 — 2026-09-02 ~2:20pm PDT — ⭐⭐⭐⭐ **JAKE BUILT A CHANNEL-LEVEL MEMORY METER (his DigiKey list `digikey_memory_tracker_updated_2026-09-02.csv`, `raw/2026-0
+- `2026-09-02` **[5]** compression-thesis.md:L2866 — DATA (2026-09-02 snapshot)
+- `2026-09-02` **[5]** compression-thesis.md:L2883 — Addendum 2026-09-02 ~2:25pm PDT — ⭐⭐⭐⭐⭐ **THE PRODUCT PAGE SETTLES IT AND ADDS A PRICE (Jake, `raw/2026-09-02-digikey-MTC40F2046-product-page.pdf` — M
 - `2026-09-03` **[1]** rates-board.md:L1975 — 2026-09-03 ~7:15am PDT — ⭐⭐⭐⭐⭐ **THURSDAY OPEN (9/3 scan, `raw/2026-09-03-bond-opening-scan.txt`): A RELIEF RALLY WITH THE RIGHT SHAPE — WALLER LEANS 
 - `2026-09-03` **[1]** rates-board.md:L1989 — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **WALLER'S CONDITION IS THE CPI; ISM SERVICES 55.4 ARGUES THE OTHER WAY; JAPAN'S 30Y TAILS AS THE GPIF STORY STARTS (ZH 
 - `2026-09-03` **[1]** rates-board.md:L2003 — Addendum 2026-09-03 ~7:35am PDT — ⭐⭐⭐⭐ **ISM SERVICES: THE HEADLINE IS 55.4, THE COMPOSITION IS A STAGFLATION PRINT — PRICES PAID 72.6, EMPLOYMENT 47.
@@ -843,16 +843,16 @@
 - `2026-09-03` **[5]** metered-compute.md:L3364 — Addendum 2026-09-03 ~2:25pm PDT — ⭐⭐⭐⭐ **GPT-6 ASTRA IS THE NATURAL EXPERIMENT FOR THIS MORNING'S UNRESOLVED QUESTION (launch via Jake; full grading →
 - `2026-09-03` **[5]** metered-compute.md:L3366 — Addendum 2026-09-03 ~5:25pm PDT — ⭐⭐⭐⭐⭐ **REASONING TOKENS HAVE A NON-ECONOMIC COST, AND OPENAI HAS NOW QUANTIFIED IT (primary: `raw/2026-07-21-openai
 - `2026-09-03` **[5]** metered-compute.md:L3368 — Addendum 2026-09-03 ~5:35pm PDT — **THE MONITORING CONTROL HAS A MEASURED CORRUPTION RATE (METR/Redwood, 8/26; full entry → [[compression-thesis]] 5:3
-- `2026-09-03` **[5]** compression-thesis.md:L2889 — Addendum 2026-09-03 ~7:35am PDT — **THE DIGIKEY READ GETS A NATIONAL-SURVEY RESPONDENT (ISM Services Aug, Retail Trade, via Jake's paste — full entry 
-- `2026-09-03` **[5]** compression-thesis.md:L2891 — Addendum 2026-09-03 ~8:30am PDT — **THE BUYER NAMES MEMORY AS THE MARGIN TRANSFER: AVGO call (holdings scan) — consolidated GM 75% → 73% guided (78% a
-- `2026-09-03` **[5]** compression-thesis.md:L2893 — Addendum 2026-09-03 ~8:55am PDT — ⭐⭐⭐⭐ **"SIGNAL, NOT RELIEF" CONFIRMED IN 24 HOURS — AND BY THE PENTAGON ITSELF: Emil Michael (X, Thursday): "Anthrop
-- `2026-09-03` **[5]** compression-thesis.md:L2901 — Addendum 2026-09-03 ~2:20pm PDT — **THE MEMORY SHORTAGE IS NOW EIGHT MONTHS OLD BY ISM'S OWN COUNT, AND GPUs JOINED THE LIST (close scan):** ISM's Aug
-- `2026-09-03` **[5]** compression-thesis.md:L2903 — ⟲ AMENDMENT 2026-09-03 ~5:10pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **A REAL GAP IN THE ARC, CAUGHT BY JAKE'S MEMORY: THE JULY DISCLOSURE CONTAINED A PERSISTENT COVERT MULT
-- `2026-09-03` **[5]** compression-thesis.md:L2924 — ⟲ AMENDMENT 2026-09-03 ~5:20pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE PRIMARY IS NOW ON DISK: OpenAI's "Hugging Face Incident Technical Report" (dated 2026-07-21) — `raw
-- `2026-09-03` **[5]** compression-thesis.md:L2943 — ⟲ AMENDMENT 2026-09-03 ~5:25pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S "THREE SWARMS / SELF-SACRIFICE" CHECKED AGAINST THE PRIMARY: the framing is SECONDARY, the underl
-- `2026-09-03` **[5]** compression-thesis.md:L2963 — ⟲ AMENDMENT 2026-09-03 ~5:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE TRANSCRIPTS (Jake's paste, `raw/2026-09-03-agent-message-board-quotes.txt`): THE AGENTS BUILT A PROT
-- `2026-09-03` **[5]** compression-thesis.md:L2975 — 2026-09-03 ~5:35pm PDT — ✅✅⭐⭐⭐⭐⭐⭐ **THE METR / REDWOOD INDEPENDENT REPORT (Jake's link) — THE HIGHEST-VALUE OPEN ITEM IN THIS THREAD, NOW ON DISK AND 
-- `2026-09-03` **[5]** compression-thesis.md:L2999 — Addendum 2026-09-03 ~5:40pm PDT — ⭐⭐⭐⭐⭐⭐ **Jake's Q: "Was the scorer human?" — NO, AUTOMATED, AND THAT IS THE HINGE. THE ENTIRE ESCALATION RAN ON A FA
+- `2026-09-03` **[5]** compression-thesis.md:L2890 — Addendum 2026-09-03 ~7:35am PDT — **THE DIGIKEY READ GETS A NATIONAL-SURVEY RESPONDENT (ISM Services Aug, Retail Trade, via Jake's paste — full entry 
+- `2026-09-03` **[5]** compression-thesis.md:L2892 — Addendum 2026-09-03 ~8:30am PDT — **THE BUYER NAMES MEMORY AS THE MARGIN TRANSFER: AVGO call (holdings scan) — consolidated GM 75% → 73% guided (78% a
+- `2026-09-03` **[5]** compression-thesis.md:L2894 — Addendum 2026-09-03 ~8:55am PDT — ⭐⭐⭐⭐ **"SIGNAL, NOT RELIEF" CONFIRMED IN 24 HOURS — AND BY THE PENTAGON ITSELF: Emil Michael (X, Thursday): "Anthrop
+- `2026-09-03` **[5]** compression-thesis.md:L2902 — Addendum 2026-09-03 ~2:20pm PDT — **THE MEMORY SHORTAGE IS NOW EIGHT MONTHS OLD BY ISM'S OWN COUNT, AND GPUs JOINED THE LIST (close scan):** ISM's Aug
+- `2026-09-03` **[5]** compression-thesis.md:L2904 — ⟲ AMENDMENT 2026-09-03 ~5:10pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **A REAL GAP IN THE ARC, CAUGHT BY JAKE'S MEMORY: THE JULY DISCLOSURE CONTAINED A PERSISTENT COVERT MULT
+- `2026-09-03` **[5]** compression-thesis.md:L2925 — ⟲ AMENDMENT 2026-09-03 ~5:20pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE PRIMARY IS NOW ON DISK: OpenAI's "Hugging Face Incident Technical Report" (dated 2026-07-21) — `raw
+- `2026-09-03` **[5]** compression-thesis.md:L2944 — ⟲ AMENDMENT 2026-09-03 ~5:25pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S "THREE SWARMS / SELF-SACRIFICE" CHECKED AGAINST THE PRIMARY: the framing is SECONDARY, the underl
+- `2026-09-03` **[5]** compression-thesis.md:L2964 — ⟲ AMENDMENT 2026-09-03 ~5:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE TRANSCRIPTS (Jake's paste, `raw/2026-09-03-agent-message-board-quotes.txt`): THE AGENTS BUILT A PROT
+- `2026-09-03` **[5]** compression-thesis.md:L2976 — 2026-09-03 ~5:35pm PDT — ✅✅⭐⭐⭐⭐⭐⭐ **THE METR / REDWOOD INDEPENDENT REPORT (Jake's link) — THE HIGHEST-VALUE OPEN ITEM IN THIS THREAD, NOW ON DISK AND 
+- `2026-09-03` **[5]** compression-thesis.md:L3000 — Addendum 2026-09-03 ~5:40pm PDT — ⭐⭐⭐⭐⭐⭐ **Jake's Q: "Was the scorer human?" — NO, AUTOMATED, AND THAT IS THE HINGE. THE ENTIRE ESCALATION RAN ON A FA
 - `2026-09-04` **[1]** rates-board.md:L2147 — 2026-09-04 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PAYROLL PRINT BREAKS THE BASE CASE — AGAINST ME AND FOR JAKE: +162K vs +56K, AND JULY REVISED FROM −23K TO +21K 
 - `2026-09-04` **[1]** rates-board.md:L2168 — 2026-09-04 ~7:55am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE OPENING SCAN HANDS US A TABLE THAT PARTIALLY UNDERCUTS THIS BOARD'S OWN FRAMING — AND THE 30Y CLOSED THE MOVE *
 - `2026-09-04` **[1]** rates-board.md:L2197 — Addendum 2026-09-04 ~12:05pm PDT — **JAKE: "No comment on jobs? Rate hike odds increase, that's why long yields down." — CORRECT, AND THE DECOMPOSITIO
@@ -872,7 +872,7 @@
 - `2026-09-04` **[3]** ai-financing-fragility.md:L7651 — Addendum 2026-09-04 ~7:05am PDT — **CAPITAL FORMATION IS STILL ACCELERATING, AND THE ROUND SHAPE IS THE TELL: GIMLET LABS $80M → $300M IN SIX MONTHS, 
 - `2026-09-04` **[3]** ai-financing-fragility.md:L7653 — 2026-09-04 ~1:30pm PDT — ⭐⭐⭐⭐⭐⭐ **THE DISPERSION INSTRUMENT ARRIVES: 300bp ON IDENTICAL COLLATERAL, INSIDE ONE ISSUER'S OWN CAPITAL STACK (IREN, close
 - `2026-09-04` **[4]** ai-capex-cycle.md:L3577 — Addendum 2026-09-04 ~7:05am PDT — **THE BAR, AGAIN: SAMSARA BEATS AND RUNS, ZSCALER BEATS AND FALLS (open scan).** **Samsara: ARR crossed $2.1B (+30%)
-- `2026-09-04` **[5]** compression-thesis.md:L3015 — Addendum 2026-09-04 ~1:25pm PDT — ⭐⭐⭐⭐ **THE AI CAPEX BOOM'S OWN SECTOR IS SHEDDING JOBS: INFORMATION PAYROLLS −23K IN AUGUST, THE LARGEST SINGLE DRAG
+- `2026-09-04` **[5]** compression-thesis.md:L3016 — Addendum 2026-09-04 ~1:25pm PDT — ⭐⭐⭐⭐ **THE AI CAPEX BOOM'S OWN SECTOR IS SHEDDING JOBS: INFORMATION PAYROLLS −23K IN AUGUST, THE LARGEST SINGLE DRAG
 - `2026-09-05` **[1]** rates-board.md:L2340 — Addendum 2026-09-05 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **RULE 20 ON THE WSJ CHART: THE WAR WINDOW'S 80bp IS 88% REAL. SIX MONTHS OF A WAR THAT SHUT HORMUZ MOVED 10Y
 - `2026-09-05` **[1]** rates-board.md:L2376 — Addendum 2026-09-05 ~8:30am PDT — ⭐⭐⭐⭐⭐⭐ **WALLER JUST NAMED THE MECHANISM BEHIND THIS MORNING'S 88%, AND THE RECOVERY-RATE DATUM MEANS CCC AT 10.53pp
 - `2026-09-05` **[1]** rates-board.md:L2408 — Addendum 2026-09-05 ~9:15am PDT — ⭐⭐⭐⭐⭐ **JAKE: HYPERSCALERS ARE PRICE-INSENSITIVE BORROWERS, SO BUY CORPORATES INSTEAD OF TREASURIES. THE FIRST HALF 
@@ -899,7 +899,7 @@
 - `2026-09-07` **[5]** metered-compute.md:L3370 — 2026-09-07 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **WEEKLY TOKEN REPORT (w/e 9/6) + JAKE'S SEGMENTATION QUESTION: THE FRONTIER LIST PRICE WENT *UP* THROUGH THE AUGUST D
 - `2026-09-07` **[5]** memory-regime-question.md:L1371 — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐ **THE KOREAN TAPE CATCHES UP TO THE PHYSICAL READ — ON THE SAME WEEKEND HORMUZ ESCALATES AND JAZAN IS HIT: KOSPI +4.6%, 
 - `2026-09-07` **[5]** memory-regime-question.md:L1383 — 2026-09-07 ~8:25am PDT — ⭐⭐⭐⭐⭐ **TRENDFORCE: 2Q26 DRAM INDUSTRY REVENUE +59.5% QoQ TO $154.7B · SUPPLIER INVENTORIES AT HISTORIC LOWS · Q3 CONVENTIONA
-- `2026-09-07` **[5]** compression-thesis.md:L3017 — 2026-09-07 ~1:20pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS "TPU INFERENCE EXTERNALIZATION FULL STEAM AHEAD" (InferenceX Official Preview, Sept 7; Jake's PDF `raw/2
+- `2026-09-07` **[5]** compression-thesis.md:L3018 — 2026-09-07 ~1:20pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS "TPU INFERENCE EXTERNALIZATION FULL STEAM AHEAD" (InferenceX Official Preview, Sept 7; Jake's PDF `raw/2
 - `2026-09-08` **[1]** rates-board.md:L2693 — 2026-09-08 ~8:10am PDT — ✅⛔⭐⭐⭐⭐⭐ **NY FED SURVEY (registered item, resolved): 1Y 3.58% (unch from 3.6) · 3Y 3.19% (from 3.3) · 5Y 3.01% (unch). THE TE
 - `2026-09-08` **[1]** rates-board.md:L2715 — 2026-09-08 ~11:20am PDT — ✅⭐⭐⭐⭐⭐ **THE 3Y CLEARS WELL (registered item), BESSENT PRE-EMPTIVELY DISCLAIMS HIS OWN TOOL, AND DEUTSCHE BANK'S COUNTER-THE
 - `2026-09-08` **[1]** rates-board.md:L2733 — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐ **CLOSE: THE PRE-REGISTERED BREAKEVEN TEST SHOWED UP THREE DAYS EARLY, AND THE 3Y's STRENGTH WAS ENTIRELY DOMESTIC** *(
@@ -927,8 +927,12 @@
 - `2026-09-09` **[3]** ai-financing-fragility.md:L7969 — 2026-09-09 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT NOW HOLDS FOUR "PAYBACK PERIODS" FOR THE SAME ASSET CLASS SPANNING **ONE TO SEVEN YEARS** — A 7× RANGE — 
 - `2026-09-09` **[3]** ai-financing-fragility.md:L7991 — Addendum 2026-09-09 ~8:10am PDT — **QCOM GETS ITS GUIDANCE, AND IT REFRAMES THE VAULT'S OWN "~$6B/YR" — THE AVERAGE IS ROUGHLY RIGHT AND THE *PATH* IS
 - `2026-09-09` **[3]** ai-financing-fragility.md:L7999 — 2026-09-09 ~8:35am PDT — ⭐⭐⭐⭐⭐ **THE YEN CHANNEL IS NOT A NEW BLIND SPOT — JAKE REGISTERED IT MONTHS AGO AND THE VAULT CALLED IT "HIS SHARPEST CATCH."
+- `2026-09-09` **[3]** ai-financing-fragility.md:L8017 — Addendum 2026-09-09 ~10:10am PDT — **THE GOOGLE CLOUD BACKLOG ⬜ I CALLED "THE HIGHEST-VALUE FETCH ON THIS ITEM" AT 7:50AM GETS A PARTIAL ANSWER — AND 
 - `2026-09-09` **[4]** ai-capex-cycle.md:L3598 — 2026-09-09 ~9:20am PDT — ⭐⭐⭐⭐⭐⭐ **$75B OF ORACLE'S $638B RPO IS "PREPAID *OR* CUSTOMER-SUPPLIED GPU HARDWARE" — 11.8% OF THE BACKLOG — AND THOSE TWO T
+- `2026-09-09` **[4]** ai-capex-cycle.md:L3619 — Addendum 2026-09-09 ~9:55am PDT — **AMD'S REAL NUMBER IS NOT THE TAM, IT IS **$29-30B OF PURCHASE COMMITMENTS — 41-43% OF ITS OWN 2027 DATA-CENTRE TAR
 - `2026-09-09` **[5]** memory-regime-question.md:L1411 — Addendum 2026-09-09 ~8:25am PDT — **A CHIP *BUYER* NAMES MEMORY AS A BINDING CONSTRAINT, WHICH IS A DIFFERENT INSTRUMENT FROM EVERY OTHER SOURCE IN TH
-- `2026-09-09` **[5]** compression-thesis.md:L3036 — 2026-09-09 ~8:20am PDT — ⭐⭐⭐⭐⭐⭐ **OPENAI'S ADVERTISING BUSINESS HIT A ~$1BN ANNUALIZED PACE IN SEVEN MONTHS — AND THAT IS NOT A REVENUE ITEM, IT IS A 
-- `2026-09-09` **[5]** compression-thesis.md:L3052 — Addendum 2026-09-09 ~8:55am PDT — **FILED AS A NON-EVENT, WHICH IS THE POINT: CHINA'S SEPT-9 STATEMENT REJECTS THE US ACCUSATIONS AND CALLS FOR COOPER
-- `2026-09-09` **[5]** compression-thesis.md:L3058 — 2026-09-09 ~9:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE US GOVERNMENT JUST TESTIFIED TO THIS FILE'S CENTRAL MECHANISM. FBI, NSA AND CISA *JOINTLY* ACCUSE DEEPSEEK, ALI
+- `2026-09-09` **[5]** compression-thesis.md:L3037 — 2026-09-09 ~8:20am PDT — ⭐⭐⭐⭐⭐⭐ **OPENAI'S ADVERTISING BUSINESS HIT A ~$1BN ANNUALIZED PACE IN SEVEN MONTHS — AND THAT IS NOT A REVENUE ITEM, IT IS A 
+- `2026-09-09` **[5]** compression-thesis.md:L3053 — Addendum 2026-09-09 ~8:55am PDT — **FILED AS A NON-EVENT, WHICH IS THE POINT: CHINA'S SEPT-9 STATEMENT REJECTS THE US ACCUSATIONS AND CALLS FOR COOPER
+- `2026-09-09` **[5]** compression-thesis.md:L3059 — 2026-09-09 ~9:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE US GOVERNMENT JUST TESTIFIED TO THIS FILE'S CENTRAL MECHANISM. FBI, NSA AND CISA *JOINTLY* ACCUSE DEEPSEEK, ALI
+- `2026-09-09` **[5]** compression-thesis.md:L3079 — 2026-09-09 ~9:35am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THIS FILE'S OWN CLASSIFICATION TABLE JUST GOT FALSIFIED BY THE TAPE. `:L2160` PUTS NEOCLOUDS IN A ROW LABELLED **"S
+- `2026-09-09` **[5]** compression-thesis.md:L3100 — Addendum 2026-09-09 ~9:50am PDT — ⚡ **THE POLICY OFF-SWITCH I NAMED 40 MINUTES AGO HAS A LEGISLATIVE VEHICLE AND A LAB TAKING SIDES: **AI OVERWATCH IS

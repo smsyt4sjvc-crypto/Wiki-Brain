@@ -1,0 +1,63 @@
+DAILY HOLDINGS SCAN — MATERIAL CHANGES, Sep. 9 2026 late morning (Jake paste ~9:13am PDT)
+Window: since prior Sep. 8 morning scan. Primary-source verification appended by the scan itself.
+
+AMD (Citi conf, mgmt comments — NOT an SEC guidance filing): 2027 data-centre sales could reach
+  ~$70B (roughly double); MI450 production shipments begin Q3 with larger Q4/2027 ramp; server CPUs
+  >80% YoY H2 2026 and >70% in 2027; wafers/HBM/advanced packaging/substrates constrained despite
+  ~$29B-$30B of purchase commitments. **AI TAM CORRECTED TO ~$2T BY 2030, NOT $3T.**
+AMD/TSM/INTC: AMD expects TSMC to remain its PRIMARY WAFER SUPPLIER for the foreseeable future and
+  co-develops technology with TSMC. INTC remains optionality, not a disclosed AMD production win.
+ADI: $1.35B Alif Semiconductor acquisition + up to $200M contingent (SEC 8-K + company release).
+  AI-native low-power MCUs/fusion processors with integrated NPUs, real-time sensor fusion,
+  ON-DEVICE INFERENCE; silicon already shipping with consumer/industrial design wins; close expected
+  before year-end 2026.
+IREN: 2GW Sweetwater Hub CONDITIONALLY included as ERCOT Batch Zero base load. Sweetwater 1 =
+  1,400MW; Sweetwater 2 = 600MW; Sweetwater 1 substation ALREADY ENERGIZED; 300MW GROSS DATA-CENTRE
+  CAPACITY targeted Q4 2027. ERCOT notice: Batch Zero classifications remain CONDITIONAL and can
+  depend on verification/model remediation or PUCT exceptions. NOT final interconnection approval.
+NBIS (mgmt at Goldman, not formal guidance): demand visibility now extends into Q1/Q2 2028; FIRST
+  BLACKWELL AUCTION CLEARED 15%-20% ABOVE PRIOR LIST PRICING; some customers requesting tens of
+  thousands of GPUs/vGPUs; four major customer wins averaging roughly $1B each; management says it
+  could effectively presell all 2027 capacity today.
+MPWR/GFS: long-term 300mm manufacturing agreement, GlobalFoundries Singapore fab, volume production
+  early 2027; smart power stages for AI/cloud plus automotive/industrial. NO DEAL VALUE OR MINIMUM
+  VOLUMES DISCLOSED.
+ALAB (Citi): Scorpio X entering Q3 volume production, pulled forward; customer engagements risen
+  from 10 to HIGH TEENS; expected to become ALAB's largest product family by Q3 revenue; several
+  engagements expected to convert to design wins by year-end; portfolio now ships to ALL US-based
+  hyperscalers.
+CRWV (Goldman conf): AI compute demand may not reach supply equilibrium until END OF DECADE;
+  "9-MONTH RULE" — customer requirements repeatedly look much larger nine months later; agentic AI
+  compounding demand; enterprises increasingly want dedicated large clusters; MANY ANNOUNCED GW
+  PROJECTS MAY NEVER BECOME OPERATIONAL because of build/financing complexity.
+OKLO — **CORRECTION TO PRIOR SCANS**: the disputed PJM project (FERC EL26-101) is an EARLY-STAGE
+  VIRGINIA project tied to Possum Point/Ladysmith interconnections, **NOT a confirmed Meta/Ohio
+  project.** Oklo's communications head told Nuclear News this directly. FERC still lists EL26-101
+  among pending complaints. Prior reports tying the 750MW dispute to Oklo's Meta-backed Ohio
+  activity OVERSTATED the direct connection.
+
+CROSS-PORTFOLIO:
+GOOGLE: €13B Finland AI/digital infrastructure investment for 2027-2028 (Hamina, Kajaani, Muhos,
+  Vaala).
+GOOGLE/FORTUM: 22-YEAR NUCLEAR PPA supporting LOVIISA LIFE EXTENSION; ultimately contracts UP TO
+  50% of Loviisa capacity THROUGH 2050; plus an MOU covering potential new nuclear, renewables and
+  flexibility. Read-through named to CEG/VST/TLN and GEV/BWXT/SMR/OKLO — none received a contract.
+GOOGLE CLOUD (Goldman): AI servers generally pay back in <2 years; PROPRIETARY SILICON ROUGHLY TWICE
+  AS FAST. **DEALS >$100M GROWING >2x QoQ AND YoY.**
+FT: bankers for OpenAI and Anthropic discussing prospective IG ratings with agencies after potential
+  IPOs; Morgan Stanley/Goldman named. NO RATING GRANTED. Both remain loss-making/negative-FCF.
+RATES: Treasury raised long-end buybacks to as much as $6B per operation; 10Y rose to ~4.85%,
+  highest since 2023.
+OIL: Brent ~$100-101; US gasoline ~$4.22/gal, diesel ~$5.94/gal, after HOUTHI ATTACKS HIT SAUDI OIL
+  INFRASTRUCTURE while Hormuz traffic remains severely disrupted.
+OPTICS: ALAB says optics increasingly important as clusters span racks; AMD says its 2027 MI400
+  family will offer BOTH COPPER AND near-package OPTICAL scale-up connectivity, with the
+  technologies COEXISTING FOR MULTIPLE GENERATIONS.
+CHINA: NSA/FBI/CISA formally accused China-based AI companies of industrial-scale distillation.
+  Separately, **ANTHROPIC EXITED ITI** over the trade group's opposition to pending AI-chip/security
+  -control legislation including **AI OVERWATCH, which is included in the SENATE NDAA.** CURRENT
+  EXPORT LAW HAS NOT CHANGED in this scan window.
+
+NO NEW HOLDING-SPECIFIC EVENT FOUND: INTC NVDA ASX MCHP KLAC ON MRVL QCOM AVGO NXPI TXN LRCX DELL
+TSM AMAT CRDO MU TER MTSI ASML ALOY UUUU USAR MP VST CEG TLN BWXT GEV SMR ETR RNW RIVN QRVO ORCL
+SWKS EWY COHR ARM LITE.
