@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **457 dated entries across 6 notes · 2026-03-13 → 2026-09-09 · refreshed 2026-09-09 10:15 PDT**
+> **457 dated entries across 6 notes · 2026-03-13 → 2026-09-09 · refreshed 2026-09-09 11:02 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
