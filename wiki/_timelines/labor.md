@@ -1,6 +1,6 @@
 # ⏱ LABOR — merged timeline (the gate)
 
-> **162 dated entries across 1 notes · 2026-06-30 → 2026-09-08 · refreshed 2026-09-08 21:53 PDT**
+> **163 dated entries across 1 notes · 2026-06-30 → 2026-09-08 · refreshed 2026-09-08 22:02 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -184,3 +184,4 @@
 - `2026-09-07` [new-economy-regime.md:L4950](../new-economy-regime.md) — Addendum 2026-09-07 ~7:45pm PDT — **CHINA AUGUST TRADE (Bloomberg headlines via Jake): EXPORTS +25.0% y/y USD (est. +25.9) · IMPORTS +28.2% (est. +31.
 - `2026-09-08` [new-economy-regime.md:L4962](../new-economy-regime.md) — 2026-09-08 ~8:40am PDT — ⭐⭐⭐⭐⭐ **WASHINGTON TAKES DIRECT EQUITY IN QUANTUM: D-WAVE AND RIGETTI FINALISE $100M CHIPS DEALS TODAY — AND THE D-WAVE ARITH
 - `2026-09-08` [new-economy-regime.md:L4979](../new-economy-regime.md) — Addendum 2026-09-08 ~9:35pm PDT — ✔✔ **UBS CLOSES LAST NIGHT'S CHINA ⬜ FROM ABOVE: GLOBAL EXPORT VALUES +19% y/y (84th PERCENTILE OF 25 YEARS) — AND T
+- `2026-09-08` [new-economy-regime.md:L4986](../new-economy-regime.md) — 2026-09-08 ~11:00pm PDT — ⭐⭐⭐⭐ **DECOMPOSE THE GROUP MEAN, AGAIN, AND IT INVERTS THE STORY: 58% OF US WORKERS FEAR OBSOLESCENCE — BUT **74% OF TECHNOL

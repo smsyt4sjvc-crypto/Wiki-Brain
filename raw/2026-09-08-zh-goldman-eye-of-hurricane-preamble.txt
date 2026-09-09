@@ -1,0 +1,46 @@
+ZeroHedge, "Goldman Credit Desk Sees 'Eye Of Hurricane' In AI Debt Issuance... Then All
+Hell Breaks Loose" — PREMIUM, paywalled. Free preamble captured 2026-09-08 ~9:55pm PDT
+from https://www.zerohedge.com/markets/goldman-credit-desk-sees-eye-hurricane-ai-debt-issuance-then-all-hell-breaks-loose
+
+"What a year it has been for credit issuance: with hyperscaler capex expected to near $1
+trillion this year (and blow above it in 2027), and with most hyperscalers now free cash
+flow negative as all of their FCF goes to build data centers and fund memory makers (at a
+time when an onslaught of Chinese open-weight models guarantees that the ROIC for the AI
+trade will never meet investor bogeys), there has been an absolute deluge of debt issuance
+to fund AI obligations, both on and off balance sheet (for our most detailed analysis on
+the topic please see 'The Off-Balance Sheet Time Bomb Inside AI Hits $3.1 Trillion: Up
+$1.3TN In Three Months')
+
+For those who don't want to, or have the time, to read all the painful details but still
+want a general answer to the question just how much debt are hyperscalers issuing, we
+point you to the latest Eye on the Market report (available to pro subscribers) by
+JPMorgan's Michael Cembalest who made the following stunning observations which echoes
+what we said about hyperscaler debt now competing with demand for US Treasuries!"
+
+[BODY PAYWALLED — the Cembalest excerpt is the JPMAM material Jake pasted 2026-09-07.]
+
+---
+
+ZeroHedge, "Goldman Warns 'The Fed Is Just A Passenger', AI CapEx Is Driving Rates Now" —
+PREMIUM, paywalled. Free preamble, same session.
+URL slug: /markets/goldman-warns-ai-capex-rate-hike-fed-didnt-vote
+
+"Three of Goldman Sachs' top cross-asset class traders just said the quiet part (about the
+AI bubble) out loud in a YouTube clip...
+
+The bank's 'The Macro Call' discussion - featuring Mark Wilson (host, Head of Equities
+Franchise Sales), Jan Scheffel (Global Co-Head of Short Term Macro Trading), and George
+Cole (Head of European Rates Strategy) - is not another Goldilocks 'AI will raise
+productivity someday and everything will be awesome' slideshow.
+
+It is an admission that the financing of the AI build-out is already a structural force
+keeping global yields elevated.
+
+AI CapEx/Productivity timing-mismatch..."
+
+[BODY PAYWALLED. Note: the source is a public YouTube clip — the primary is fetchable.]
+
+---
+
+X FEED (PDF): the CDS tweet is a QUOTE-TWEET of ZeroHedge's own 2026-08-10 post:
+"Calling it: top job on Wall Street in 2027 will be CDS traders"

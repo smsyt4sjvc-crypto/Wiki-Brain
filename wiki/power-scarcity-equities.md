@@ -277,3 +277,20 @@ Source: Jake's DAILY HOLDINGS SCAN 2026-08-22 → `raw/2026-08-22-holdings-scan/
   moat makes shovel-ready sites MORE valuable), or it is buying into a headwind it has not priced.**
   ⇒ **⬜ Cloverleaf's project list and interconnection positions would separate those, and neither
   is disclosed.**
+
+### 2026-09-08 ~10:50pm PDT — **THE SOCAL HEATWAVE IS A DISCONFIRMER OF THE GRID-FRAGILITY FRAME, NOT AN EXAMPLE OF IT: 10-15°F ABOVE NORMAL PRODUCES A CAISO PEAK AT 91% OF A FOUR-YEAR-OLD RECORD, AND THE "SURGING" PRICE IS THE HIGHEST IN *ONE WEEK*.** *(ZH/Bloomberg/Arcus-NRGStream, RSS full text)*
+#### DATA
+- **CAISO forecast peak: 47,379 MW Wednesday · 45,183 MW Thursday. September 2022 record: 52,061 MW.** CAISO serves ~80% of California + a slice of Nevada.
+- LA-area temps **85-105°F, ~10-15°F above normal**; SF 86°F Wed; Sacramento 100°F Thu; statewide max peaks **Thursday ~95°F**, then **~75°F by mid-month**.
+- **SP15 (SoCal hub) day-ahead for Tuesday's 6pm hour: $87.69/MWh — "the highest hourly reading in a little over a week."**
+- ⚠️ NWS heat advisories Central Valley + coastal; extreme-heat warnings parts of SoCal. Stress framed as **evening, as solar generation declines**.
+
+#### THESIS (interpretation — NOT fact)
+- **★★★★ DECOMPOSE BEFORE READING — THE STANDING CHECK, AND IT REVERSES THE HEADLINE. 47,379 / 52,061 = 91.0% of the record, on a day 10-15°F above normal.** ⇒ **CAISO has ~4.7 GW (9%) of headroom against its own high-water mark during an anomalous heat event.** **That is not a system at the edge; it is a system with margin.** **The vault's power-scarcity thread is about MULTI-YEAR load growth from data centres, and this print is evidence that California's peak has NOT grown into its 2022 record in four years.** *(Analysis. ⚠️ Peak ≠ reserve margin — the binding constraint is dispatchable capacity at the evening ramp, not the peak MW number. ⬜ CAISO's actual reserve margin and any Flex Alert / EEA notice, which is the datum that would change this read.)*
+- **⛔ "$87.69, THE HIGHEST IN A LITTLE OVER A WEEK" IS A SUPERLATIVE ON A SEVEN-DAY WINDOW AND SHOULD BE READ AS THE ABSENCE OF A PRICE STORY.** SP15 scarcity pricing runs in the hundreds to thousands per MWh; **$87.69 is an ordinary summer evening.** ⇒ **when a wire reaches for "highest in a week," the honest translation is "nothing here."** **✓ Same class as the group-mean check and the read-the-caption-first check: the superlative's WINDOW is the tell.**
+- **★★★ WHAT IS GENUINELY STRUCTURAL AND IS BURIED IN ONE CLAUSE: *"particularly in the evening as solar generation declines."*** **The duck curve is the real constraint and it is present on normal days too — the heatwave only makes it visible.** ⇒ **the investable read is unchanged and is about the EVENING RAMP: dispatchable gas peakers, storage duration, and transmission — not about summer peak MW.** **This is why the China battery-storage approval halt filed tonight matters more to this thread than the heatwave does.** → [[buildout-bottleneck-map]].
+- **⚖️ THE OTHER SIDE, HELD HONESTLY: a forecast is not an outcome.** If Wednesday's actual exceeds the forecast, or CAISO issues a Flex Alert, the read flips from "margin" to "forecast error under stress" — and forecast error under stress is itself the fragility. **⬜ Wednesday's realized peak vs 47,379 is a cheap, dated check.**
+#### GRADES (16c) → [[grades]]
+**No moves. A four-day weather event does not clear the 120-day bar on any power name.** Direction: **mildly NEGATIVE for the "California grid is about to break" version of the power-scarcity story; NEUTRAL for the evening-ramp/duration version, which this does not test.**
+**📌 REGISTERED:** ⬜ **Wednesday's REALIZED CAISO peak vs the 47,379 forecast** · ⬜ **any Flex Alert / EEA-1 notice** · ⬜ CAISO reserve margin (the number that actually governs) · SP15 evening-hour prints Wed/Thu vs $87.69.
+**Links:** [[buildout-bottleneck-map]] · [[power-not-petroleum]] · [[nuclear]]

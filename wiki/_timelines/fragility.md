@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **367 dated entries across 6 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 21:53 PDT**
+> **369 dated entries across 6 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 22:02 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -390,8 +390,10 @@
 - `2026-09-08` [ai-financing-fragility.md:L7791](../ai-financing-fragility.md) — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐⭐ **THE FT DETAIL THAT CHANGES HOW THIS NOTE READS NVDA'S LARGEST EXPOSURE: THE $105B SB ENERGY SUPPORT IS STRUCTURED TO
 - `2026-09-08` [ai-financing-fragility.md:L7805](../ai-financing-fragility.md) — 2026-09-08 ~9:50pm PDT — ⭐⭐⭐⭐⭐⭐ **THE VAULT'S NAMED BLIND SPOT IS BEING REBUILT WHILE WE WATCH: GS FICC SAYS REAL-MONEY ACCOUNTS WHO LAST TRADED CDS *
 - `2026-09-08` [ai-financing-fragility.md:L7836](../ai-financing-fragility.md) — Addendum 2026-09-08 ~10:15pm PDT — ⛔⛔ **I CORRECT THE ENTRY I WROTE TWENTY MINUTES AGO, AND THE CORRECTION IS WORTH MORE THAN THE ENTRY. THE VAULT IS 
+- `2026-09-08` [ai-financing-fragility.md:L7879](../ai-financing-fragility.md) — Addendum 2026-09-08 ~10:35pm PDT — ⛔⛔ **THE SAME PASTE, READ PROPERLY: THAT CDS QUOTE IS NOT A STANDALONE ANECDOTE. IT IS ONE LEG OF A THREE-DESK GOLD
 - `2026-09-08` [balance-sheet-board.md:L811](../balance-sheet-board.md) — Addendum 2026-09-08 ~6:45am PDT — **ORCL INTO TONIGHT: THE NEW LINE IS "NO FURTHER DEBT ISSUANCE DURING CALENDAR 2026," AND IT COLLIDES WITH THE $3.3B
 - `2026-09-08` [rates-board.md:L2693](../rates-board.md) — 2026-09-08 ~8:10am PDT — ✅⛔⭐⭐⭐⭐⭐ **NY FED SURVEY (registered item, resolved): 1Y 3.58% (unch from 3.6) · 3Y 3.19% (from 3.3) · 5Y 3.01% (unch). THE TE
 - `2026-09-08` [rates-board.md:L2715](../rates-board.md) — 2026-09-08 ~11:20am PDT — ✅⭐⭐⭐⭐⭐ **THE 3Y CLEARS WELL (registered item), BESSENT PRE-EMPTIVELY DISCLAIMS HIS OWN TOOL, AND DEUTSCHE BANK'S COUNTER-THE
 - `2026-09-08` [rates-board.md:L2733](../rates-board.md) — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐ **CLOSE: THE PRE-REGISTERED BREAKEVEN TEST SHOWED UP THREE DAYS EARLY, AND THE 3Y's STRENGTH WAS ENTIRELY DOMESTIC** *(
 - `2026-09-08` [rates-board.md:L2763](../rates-board.md) — 2026-09-08 ~7:05pm PDT — ⭐⭐⭐⭐⭐ **"10Y HIGHEST CLOSE SINCE 2023" IS TRUE, AND IT IS A 1-2bp BREAK OF A TRIPLE TOP. THE VAULT HELD NOTHING ON THE 2023 E
+- `2026-09-08` [rates-board.md:L2781](../rates-board.md) — 2026-09-08 ~10:40pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN'S MACRO DESK ADOPTS THE COLLISION THESIS IN PUBLIC AND IN THE BOARD'S OWN WORDS: "THE FED IS JUST A PASSENGE
