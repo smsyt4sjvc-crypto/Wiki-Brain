@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **408 dated entries across 3 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 12:17 PDT**
+> **409 dated entries across 3 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 13:58 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -433,3 +433,4 @@
 - `2026-09-09` [rates-board.md:L2859](../rates-board.md) — 2026-09-09 ~10:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE AUCTION: 10Y STOPS AT 4.834% vs WI 4.849% — A **1.5bp STOP-THROUGH, THE BIGGEST SINCE APRIL 2025.** THE PRE-RE
 - `2026-09-09` [rates-board.md:L2876](../rates-board.md) — Addendum 2026-09-09 ~10:15am PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE CORRECTS THE FRAME AND THE CORRECTION IS STRUCTURAL: *"Supply and demand were neither the problem. T
 - `2026-09-09` [rates-board.md:L2887](../rates-board.md) — Addendum 2026-09-09 ~11:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **ALL FOUR REGISTERED INTERNALS ARRIVE AND THEY KILL MY OWN CAVEAT: **DEALERS TOOK 4.31%, THE LOWEST SINCE 
+- `2026-09-09` [rates-board.md:L2911](../rates-board.md) — 2026-09-09 ~2:05pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MONITOR SUPPLIES THE TWO DECOMPOSITIONS THE BOARD HAS BEEN MISSING, AND THEY POINT OPPOSITE WAYS. (1) THE 12-MO

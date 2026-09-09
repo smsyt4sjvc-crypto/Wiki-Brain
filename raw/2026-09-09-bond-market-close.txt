@@ -1,0 +1,77 @@
+BOND MARKET CLOSE — WEDNESDAY SEP 9 2026 (Jake paste ~1:53pm PDT). Key figures extracted.
+CURVE (Treasury CMT ~3:30pm ET): 4W 3.72 | 3M 3.95(+1) | 6M 4.01(+1) | 1Y 4.17(+2) | 2Y 4.43(+4)
+ | 3Y 4.49(+5) | 5Y 4.61(+4) | 7Y 4.71(+3) | 10Y 4.83(+3) | 20Y 5.28(+2) | 30Y 5.28(+3)
+2s10s +40 (prior +41) | 5s30s +67 (prior +68) | MILD BEAR-FLATTENING | 20s30s = 0 FLAT
+Intraday after buyback announcement: 10Y ~4.85-4.86, 30Y ~5.30. Auction pulled yields back.
+QUARTERLY ANCHORS (2Y/10Y/30Y): now 4.43/4.83/5.28 · Jun 9 4.13/4.53/5.01 (+30/+30/+27) ·
+ Mar 9 3.56/4.12/4.72 (+87/+71/+56) · Dec 9 25 3.61/4.18/4.80 (+82/+65/+48) ·
+ Sep 9 25 3.54/4.08/4.72 (+89/+75/+56)
+REAL YIELDS (Sep 8 official, Sep 9 TIPS NOT POSTED): 5Y 2.17 | 10Y 2.43 | 30Y 2.96
+BREAKEVENS (Sep 8): 5Y ~2.40 | 10Y ~2.37
+EFFR 3.63 | SOFR 3.64 | target 3.50-3.75 | Sept 25bp HIKE ~60%
+Brent close ~101.21 | WTI ~96.05
+ICE BofA (SEP 8 daily closes, NOT today): IG 5.53%/81bp | AAA 5.40/43 | AA 5.39/61 | A 5.40/69 |
+ BBB OAS 99 (yield series stale at 5.70 Sep 7) | HY 7.22/267 | BB 6.11/155 | B 7.31/276 |
+ CCC 15.01%/1,056bp.  Sep 8 changes: OAS broadly UNCHANGED; HY OAS -1bp; B OAS -1; CCC OAS +1.
+IG MATURITY YIELDS (Sep 8): 1-3Y 4.87% | 7-10Y 5.69% | 15Y+ 6.26%
+MOVE: latest verified 73.10 (Sep 4). CRWV 5Y CDS: monitor cites >800bp Sep 3 (STALE).
+BUYBACK: Thursday 10-20Y at MAXIMUM $6B (prior typical ~$2B; new framework "at least ~$4B").
+ Market expectations had risen to ~$8-10B. Reaction: 10Y ~4.85-4.86, 30Y ~5.30.
+ Treasury: buybacks generally do NOT materially reduce privately-held net marketable borrowing
+ because replacement securities are issued. LIQUIDITY SUPPORT YES / SUPPLY REDUCTION NO.
+AUCTION: $39B 10Y reopening. High yield 4.834% (highest since 2007). B/C 2.71x (recent ~2.52x).
+ Indirect ~79.2% | Dealers ~4.3% | Directs ~16.5%. Direct+indirect ~96%.
+TOMORROW: $22B 30Y + the actual $6B buyback + PPI + ORCL earnings AMC. Friday CPI.
+ Week's coupon supply: 3Y $58B + 10Y $39B + 30Y $22B = $119B.
+FEDERAL FINANCING: Q3 privately-held net marketable borrowing $739B (prior est $671B, +$68B;
+ +$87B ex the higher beginning cash balance). Q4 est $628B. Q3+Q4 = $1.367T. Treasury notes
+ rising federal INTEREST EXPENSE is a meaningful contributor to outlay growth.
+CORPORATE: August US IG issuance record ~$164B. BofA September forecast ~$190B; some dealers
+ ~$215B with upside near ~$250B.
+NVDA: AR $40.7B -> $63.1B (+55% QoQ). DSO 45 -> 60 days. Qualifying IG data-centre customers can
+ receive terms from ~90 days UP TO ONE YEAR. Equity-method infrastructure-financier investments
+ ~$1.0B -> ~$3.3B (+230%). Max VIE loss exposure ~$2.3B -> ~$4.7B (+104%). Primary-beneficiary
+ conclusion UNCHANGED. SB Energy max guarantee $105B + ~$3.5B other = ~$108.5B gross contingent;
+ the $105B phases in with completed construction and TERMINATES on conditions incl. OpenAI
+ achieving an acceptable credit rating.
+META: uncommenced leases $182.88B -> $278.99B (+52.6%). Noncancelable commitments $237.67B ->
+ $349.31B (+47%). Additional July DC leases ~$68B. One VIE/project: est dev cost ~$27B, Meta
+ initial leases ~$12.31B, RVG threshold ~$28B. Separate BlackRock campus: Meta contributes ~$2.3B
+ of assets, RECEIVES ~$1B distribution, leases developed properties, max RVG exposure ~$13B.
+GOOGL: uncommenced DC leases $75.6B -> $85.2B (+12.7%). Future VIE funding commitments $1.1B ->
+ $21.9B, including a $20B milestone-linked future capital commitment to a PRIVATE COMPANY.
+ Active DC backstops: financial guarantees $7.6B; CREDIT DERIVATIVES $43.8B; additional planned
+ future backstops ~$24.1B. Alphabet retains contractual rights after default to assume certain
+ underlying leases or sublease assets. Primary-beneficiary conclusion UNCHANGED.
+MSFT: uncommenced DC leases ~$196.6B -> $329.1B (+67.4%). Commercial RPO ~$678B. States no
+ related-party arrangements with unconsolidated entities reasonably likely to materially affect
+ liquidity or capital availability.
+AMZN: leases not yet commenced $106.35B -> $137.214B (+29%). Unconditional purchase obligations
+ $103.77B -> $130.065B (+25%). Total commitments $569.28B -> $650.034B (+14%).
+ ANTHROPIC: Amazon facility up to $20B; Q2 funding reduced remaining availability to ~$15B.
+ AT INCEPTION ANTHROPIC COULD DRAW NOTHING — AWS COMPUTE-CAPACITY DELIVERY MILESTONES
+ PROGRESSIVELY UNLOCK BORROWING AVAILABILITY.
+QCOM 8-K (filed yesterday): Amazon warrant up to 25M QCOM shares, EXERCISE PRICE $161.26, expiry
+ Sep 2036. 3.75M vested at issuance on initial purchase commitments. Further vesting tied to
+ commercial arrangements + binding purchase orders + actual purchases up to a max $60B of
+ payments. $60B is a VESTING CEILING, not a firm purchase order.
+ORCL: uncommenced DC leases ~$260B. Lessor borrowing guaranteed by Oracle $2.2B -> $3.3B (+50%),
+ MATURES SEPTEMBER 2026. No refinancing/extension located by cutoff. Earnings tomorrow AMC.
+SPACEX/xAI: three Valor related-party equipment leases, aggregate cash payments ~$6.986B +
+ ~$6.633B + ~$6.587B = ~$20.206B, SpaceX or subsidiaries GUARANTEE payment/performance.
+ Other financings Dec 2025 $4.562B -> Jun 2026 $13.406B (+194%), category includes AI
+ infrastructure transactions that FAILED SALE-LEASEBACK ACCOUNTING (economics stayed as SpaceX
+ debt). Total debt + finance leases Jun 30: notes $25.000B + other financings $13.406B +
+ finance leases $1.079B = ~$39.512B. xAI/X legacy debt migrated into SpaceX via a ~$20B bridge
+ then ~$25B of senior unsecured notes. AI capex Q1 ~$7.7B -> Q2 ~$15.8B (+105%); AI ~86% of Q2
+ total capex. One AI-segment customer ~19.5% of Q2 consolidated revenue.
+TSLA: SpaceX equity-method investment $2.0B, ownership <1%. SpaceX Megapack purchases recognized
+ by Tesla: Q2 revenue $318M / H1 $405M; cost of revenue Q2 $242M / H1 $307M. No Tesla guarantee
+ of SpaceX/xAI debt located.
+OTHER AI CREDIT: IREN/Blue Owl/PIMCO GPU financing for non-IG-customer deployments ~9%;
+ MSFT-supported GPU financing benchmark ~6% (~300bp gap). LAMBDA: existing GPU-backed SPV TLB
+ $926M, rated Baa2, priced SOFR+300. NEXUS/Anthropic reported $16B Texas project includes
+ roughly $1.3B of mezzanine/private-credit financing.
+TRIGGERS: LEVEL 1 ACTIVE (NVDA, META, GOOGL, MSFT, AMZN, SpaceXAI). LEVEL 2 ACTIVE (NVDA, META,
+ GOOGL, AMZN, ORCL, SpaceX/xAI). LEVELS 3-6: NONE LOCATED TODAY. No Item 4.01/4.02 located.
+OVERALL FRAGILITY: ELEVATED AND RISING, NOT ACUTE.

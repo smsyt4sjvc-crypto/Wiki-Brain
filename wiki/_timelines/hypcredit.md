@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **341 dated entries across 3 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 12:17 PDT**
+> **343 dated entries across 3 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 13:58 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -363,9 +363,11 @@
 - `2026-09-09` [ai-financing-fragility.md:L7991](../ai-financing-fragility.md) — Addendum 2026-09-09 ~8:10am PDT — **QCOM GETS ITS GUIDANCE, AND IT REFRAMES THE VAULT'S OWN "~$6B/YR" — THE AVERAGE IS ROUGHLY RIGHT AND THE *PATH* IS
 - `2026-09-09` [ai-financing-fragility.md:L7999](../ai-financing-fragility.md) — 2026-09-09 ~8:35am PDT — ⭐⭐⭐⭐⭐ **THE YEN CHANNEL IS NOT A NEW BLIND SPOT — JAKE REGISTERED IT MONTHS AGO AND THE VAULT CALLED IT "HIS SHARPEST CATCH."
 - `2026-09-09` [ai-financing-fragility.md:L8017](../ai-financing-fragility.md) — Addendum 2026-09-09 ~10:10am PDT — **THE GOOGLE CLOUD BACKLOG ⬜ I CALLED "THE HIGHEST-VALUE FETCH ON THIS ITEM" AT 7:50AM GETS A PARTIAL ANSWER — AND 
+- `2026-09-09` [ai-financing-fragility.md:L8023](../ai-financing-fragility.md) — 2026-09-09 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MONITOR'S BIGGEST NUMBER IS ONE NOBODY IN IT DECOMPOSES: **70% OF NVIDIA'S $22.4B RECEIVABLES INCREASE IS *TERM
 - `2026-09-09` [rates-board.md:L2811](../rates-board.md) — 2026-09-09 ~7:10am PDT — ⭐⭐⭐⭐⭐ **THE PRE-REGISTERED DAY ARRIVES, AND ONE DETAIL IN THE BRIEF CHANGES THE INSTRUMENT: THE LONG-END BUYBACK MOVES FROM A
 - `2026-09-09` [rates-board.md:L2830](../rates-board.md) — Addendum 2026-09-09 ~7:55am PDT — ⛔⛔ **I CORRECT MY OWN CORRECTION FROM FORTY-FIVE MINUTES AGO, AND THE ORIGINAL BOARD LANGUAGE WAS RIGHT. THE BUYBACK
 - `2026-09-09` [rates-board.md:L2838](../rates-board.md) — 2026-09-09 ~9:00am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE 11:00 ET NUMBER PRINTED AT **$6B** — THE TOP OF MY PRE-WRITTEN RANGE — AND THE 10Y WENT TO **4.83-4.85%, THE HI
 - `2026-09-09` [rates-board.md:L2859](../rates-board.md) — 2026-09-09 ~10:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE AUCTION: 10Y STOPS AT 4.834% vs WI 4.849% — A **1.5bp STOP-THROUGH, THE BIGGEST SINCE APRIL 2025.** THE PRE-RE
 - `2026-09-09` [rates-board.md:L2876](../rates-board.md) — Addendum 2026-09-09 ~10:15am PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE CORRECTS THE FRAME AND THE CORRECTION IS STRUCTURAL: *"Supply and demand were neither the problem. T
 - `2026-09-09` [rates-board.md:L2887](../rates-board.md) — Addendum 2026-09-09 ~11:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **ALL FOUR REGISTERED INTERNALS ARRIVE AND THEY KILL MY OWN CAVEAT: **DEALERS TOOK 4.31%, THE LOWEST SINCE 
+- `2026-09-09` [rates-board.md:L2911](../rates-board.md) — 2026-09-09 ~2:05pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MONITOR SUPPLIES THE TWO DECOMPOSITIONS THE BOARD HAS BEEN MISSING, AND THEY POINT OPPOSITE WAYS. (1) THE 12-MO
