@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **400 dated entries across 3 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 22:02 PDT**
+> **401 dated entries across 3 notes · 2026-02-10 → 2026-09-08 · refreshed 2026-09-08 22:07 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -425,3 +425,4 @@
 - `2026-09-08` [rates-board.md:L2733](../rates-board.md) — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐ **CLOSE: THE PRE-REGISTERED BREAKEVEN TEST SHOWED UP THREE DAYS EARLY, AND THE 3Y's STRENGTH WAS ENTIRELY DOMESTIC** *(
 - `2026-09-08` [rates-board.md:L2763](../rates-board.md) — 2026-09-08 ~7:05pm PDT — ⭐⭐⭐⭐⭐ **"10Y HIGHEST CLOSE SINCE 2023" IS TRUE, AND IT IS A 1-2bp BREAK OF A TRIPLE TOP. THE VAULT HELD NOTHING ON THE 2023 E
 - `2026-09-08` [rates-board.md:L2781](../rates-board.md) — 2026-09-08 ~10:40pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN'S MACRO DESK ADOPTS THE COLLISION THESIS IN PUBLIC AND IN THE BOARD'S OWN WORDS: "THE FED IS JUST A PASSENGE
+- `2026-09-08` [rates-board.md:L2802](../rates-board.md) — Addendum 2026-09-08 ~11:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE CHART UNDER "2027 AI DV01 > USTs" DOES NOT SUPPORT ITS OWN CAPTION, AND THE REASON IS A COMPOSITION SH
