@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **162 dated entries across 3 notes · 2026-05-22 → 2026-09-08 · refreshed 2026-09-09 07:51 PDT**
+> **163 dated entries across 3 notes · 2026-05-22 → 2026-09-09 · refreshed 2026-09-09 08:54 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -187,3 +187,4 @@
 - `2026-09-07` [ai-capex-cycle.md:L3579](../ai-capex-cycle.md) — 2026-09-07 ~8:30am PDT — ⭐⭐⭐⭐⭐ **HUANG (X post, 9/6, reported 9/7): ASTRA TRAINED ON "~100K+ GRACE BLACKWELL NVLINK72," "400K GPUs COMING ONLINE NEXT"
 - `2026-09-07` [balance-sheet-board.md:L809](../balance-sheet-board.md) — Pointer 2026-09-07 ~8:15am PDT — **IREN: $30B capex ceiling by Jun-2027 · $19B raised past year · $7.6B cash / $7.6B debt · $3.5B ATM remaining (FT vi
 - `2026-09-08` [balance-sheet-board.md:L811](../balance-sheet-board.md) — Addendum 2026-09-08 ~6:45am PDT — **ORCL INTO TONIGHT: THE NEW LINE IS "NO FURTHER DEBT ISSUANCE DURING CALENDAR 2026," AND IT COLLIDES WITH THE $3.3B
+- `2026-09-09` [ai-capex-cycle.md:L3598](../ai-capex-cycle.md) — 2026-09-09 ~9:20am PDT — ⭐⭐⭐⭐⭐⭐ **$75B OF ORACLE'S $638B RPO IS "PREPAID *OR* CUSTOMER-SUPPLIED GPU HARDWARE" — 11.8% OF THE BACKLOG — AND THOSE TWO T

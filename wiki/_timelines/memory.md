@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **146 dated entries across 2 notes · 2026-07-16 → 2026-09-09 · refreshed 2026-09-09 07:51 PDT**
+> **147 dated entries across 2 notes · 2026-07-16 → 2026-09-09 · refreshed 2026-09-09 08:54 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -164,4 +164,5 @@
 - `2026-09-08` [memory-regime-question.md:L1403](../memory-regime-question.md) — ⛔ CORRECTION 2026-09-08 ~9:40pm PDT — **THIS MORNING I FILED THAT CHINA'S DICHLOROSILANE DUTY *WEAKENS* THE MEMORY DISCONFIRMER. TONIGHT'S SCAN SAYS C
 - `2026-09-09` [compression-thesis.md:L3036](../compression-thesis.md) — 2026-09-09 ~8:20am PDT — ⭐⭐⭐⭐⭐⭐ **OPENAI'S ADVERTISING BUSINESS HIT A ~$1BN ANNUALIZED PACE IN SEVEN MONTHS — AND THAT IS NOT A REVENUE ITEM, IT IS A 
 - `2026-09-09` [compression-thesis.md:L3052](../compression-thesis.md) — Addendum 2026-09-09 ~8:55am PDT — **FILED AS A NON-EVENT, WHICH IS THE POINT: CHINA'S SEPT-9 STATEMENT REJECTS THE US ACCUSATIONS AND CALLS FOR COOPER
+- `2026-09-09` [compression-thesis.md:L3058](../compression-thesis.md) — 2026-09-09 ~9:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE US GOVERNMENT JUST TESTIFIED TO THIS FILE'S CENTRAL MECHANISM. FBI, NSA AND CISA *JOINTLY* ACCUSE DEEPSEEK, ALI
 - `2026-09-09` [memory-regime-question.md:L1411](../memory-regime-question.md) — Addendum 2026-09-09 ~8:25am PDT — **A CHIP *BUYER* NAMES MEMORY AS A BINDING CONSTRAINT, WHICH IS A DIFFERENT INSTRUMENT FROM EVERY OTHER SOURCE IN TH

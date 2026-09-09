@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **404 dated entries across 3 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 07:51 PDT**
+> **405 dated entries across 3 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 08:54 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -429,3 +429,4 @@
 - `2026-09-09` [market-fragility.md:L4573](../market-fragility.md) — 2026-09-09 ~7:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE REGISTERED TEST ARRIVES ONE DAY EARLY AND FROM AN UNEXPECTED NAME: SERVICETITAN BEAT ON REVENUE AND FELL **19%**
 - `2026-09-09` [rates-board.md:L2811](../rates-board.md) — 2026-09-09 ~7:10am PDT — ⭐⭐⭐⭐⭐ **THE PRE-REGISTERED DAY ARRIVES, AND ONE DETAIL IN THE BRIEF CHANGES THE INSTRUMENT: THE LONG-END BUYBACK MOVES FROM A
 - `2026-09-09` [rates-board.md:L2830](../rates-board.md) — Addendum 2026-09-09 ~7:55am PDT — ⛔⛔ **I CORRECT MY OWN CORRECTION FROM FORTY-FIVE MINUTES AGO, AND THE ORIGINAL BOARD LANGUAGE WAS RIGHT. THE BUYBACK
+- `2026-09-09` [rates-board.md:L2838](../rates-board.md) — 2026-09-09 ~9:00am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE 11:00 ET NUMBER PRINTED AT **$6B** — THE TOP OF MY PRE-WRITTEN RANGE — AND THE 10Y WENT TO **4.83-4.85%, THE HI

@@ -1,0 +1,50 @@
+Daily Market Brief — Wednesday, September 9, 2026 (Jake paste, ~8:48am PDT / 11:48am ET)
+[Full text archived. Key verified figures extracted below.]
+
+1. Treasury set THURSDAY's 10-20Y liquidity-support buyback at UP TO $6B, above the old $2B
+   size and the previously announced minimum of $4B. 10Y yield pushed to ~4.83-4.85%, HIGHEST
+   SINCE 2023. 10Y reopening still 1:00pm ET today; 30Y reopening Thursday.
+   Calendar: Aug PPI Thu 8:30am ET · Aug Existing-Home Sales Thu 10:00am ET · Aug CPI Fri
+   8:30am ET · prelim Sept UMich sentiment + inflation expectations Fri 10:00am ET.
+   Markets price ~60.4% probability of a 25bp Fed HIKE next week.
+   Brief's own read: "the most informative outcome would actually be cool PPI/CPI + stubbornly
+   high 10Y/30Y yields. That would separate the long-end problem from near-term Fed inflation
+   policy and strengthen the case that Treasury supply, term premium and private/corporate
+   capital competition are independently tightening financial conditions."
+
+2. Brent ~$100.80-100.95 this morning, WTI ~$95.60. US says it destroyed FIVE Iranian oil
+   tankers after Iran attempted missile attacks on a US warship; IRAN SAYS it subsequently
+   attacked 10 SHIPS near Hormuz and fired ballistic missiles at a US-used base in Jordan.
+   Reuters describes this as the LARGEST DECLARED WAVE of tit-for-tat shipping attacks since
+   the war began. US national average diesel above $5.94/gal, a fresh record.
+   Brief: "Brent futures have finally caught up with physical crude and refined products that
+   were already trading above the psychological $100 threshold." Friday's Aug CPI largely
+   PREDATES today's oil surge.
+
+3. META +5% early after launching Muse. Sends emails, books travel, shops, fills forms, tasks
+   across other apps; runs in a DEDICATED CLOUD VM; initially US-only via standalone app and
+   WhatsApp. Meta says it will offer BOTH FREE AND SUBSCRIPTION usage. Meta expects $130-145B
+   of 2026 capex. ALPHABET SHARES DOWN ~2% on competitive pressure to Gemini/search workflows.
+   RISK: "Reuters reported internal concerns about Muse MISHANDLING SENSITIVE PERSONAL DATA
+   during development, so adoption and trust - not benchmark performance - may be the real
+   gating variable."
+
+4. TSMC August revenue Thursday 13:30 Taipei / 1:30am ET. Through July, TSMC 2026 revenue
+   NT$2.872T, +37.0% YoY; JULY ALONE +44.7%. ORACLE reports Q1 FY27 after Thursday's close,
+   call 5:00pm ET. Street ~$19.1B revenue, $1.73-1.74 adjusted EPS; options pricing a move of
+   MORE THAN 11%.
+   ORCL capital structure: $638B RPO, INCLUDING $75B OF PREPAID OR CUSTOMER-SUPPLIED GPU
+   HARDWARE. FY26 free cash flow NEGATIVE $23.7B because capex reached $55.7B.
+   Brief: weight OCI growth, capex, FCF, customer-supplied hardware/prepayments, debt/equity
+   funding and RPO conversion far above a few cents of EPS.
+
+5. FBI, NSA and CISA JOINTLY accused Chinese developers including DEEPSEEK, ALIBABA, MOONSHOT
+   AI and Z.AI of targeted, INDUSTRIAL-SCALE DISTILLATION of capabilities from US frontier
+   models including Anthropic Claude, OpenAI GPT, Google Gemini and xAI Grok, allegedly since
+   at least LATE 2024 and likely with Chinese-government awareness. China today rejected the
+   accusations as groundless; its Foreign Ministry simultaneously said the two countries should
+   strengthen AI cooperation.
+   CONFIRMED: no new AI-chip export controls or model-access restrictions were announced today.
+   Speculation flagged as speculation by the brief: Washington now has a cybersecurity basis to
+   move beyond GPUs to restricting API access, model weights, cloud accounts or bulk frontier-
+   model subscriptions used by Chinese developers.

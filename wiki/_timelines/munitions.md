@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **255 dated entries across 2 notes · 2026-05-22 → 2026-09-08 · refreshed 2026-09-09 07:51 PDT**
+> **256 dated entries across 2 notes · 2026-05-22 → 2026-09-09 · refreshed 2026-09-09 08:54 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -280,3 +280,4 @@
 - `2026-09-08` [war-board.md:L4674](../war/war-board.md) — 2026-09-08 ~6:45am PDT — ⛔⭐⭐⭐⭐⭐ **US-OPEN BRIEF vs THE PRIMARY I PULLED YESTERDAY: THE WEEKEND KPLER COUNTS DO NOT MATCH, AND THE "DARK CROSSINGS RECO
 - `2026-09-08` [war-board.md:L4695](../war/war-board.md) — 2026-09-08 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **VITOL'S CEO PUTS HORMUZ CRUDE FLOW AT ~10 mb/d AND CALLS IT "IMPROVED" — A FIFTH NUMBER ON THE BOARD'S MOST CONTEST
 - `2026-09-08` [war-board.md:L4712](../war/war-board.md) — 2026-09-08 ~3:20pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **CENTCOM DESTROYS FIVE MORE IRGC TANKERS (primary release, verbatim) — THE BOARD'S 9/5 FORECAST PRINTED IN THREE DA
+- `2026-09-09` [ai-capex-cycle.md:L3598](../ai-capex-cycle.md) — 2026-09-09 ~9:20am PDT — ⭐⭐⭐⭐⭐⭐ **$75B OF ORACLE'S $638B RPO IS "PREPAID *OR* CUSTOMER-SUPPLIED GPU HARDWARE" — 11.8% OF THE BACKLOG — AND THOSE TWO T
