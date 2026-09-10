@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **906 dated entries · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 13:58 PDT**
+> **907 dated entries · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 17:06 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -933,6 +933,7 @@
 - `2026-09-09` **[3]** ai-financing-fragility.md:L7999 — 2026-09-09 ~8:35am PDT — ⭐⭐⭐⭐⭐ **THE YEN CHANNEL IS NOT A NEW BLIND SPOT — JAKE REGISTERED IT MONTHS AGO AND THE VAULT CALLED IT "HIS SHARPEST CATCH."
 - `2026-09-09` **[3]** ai-financing-fragility.md:L8017 — Addendum 2026-09-09 ~10:10am PDT — **THE GOOGLE CLOUD BACKLOG ⬜ I CALLED "THE HIGHEST-VALUE FETCH ON THIS ITEM" AT 7:50AM GETS A PARTIAL ANSWER — AND 
 - `2026-09-09` **[3]** ai-financing-fragility.md:L8023 — 2026-09-09 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MONITOR'S BIGGEST NUMBER IS ONE NOBODY IN IT DECOMPOSES: **70% OF NVIDIA'S $22.4B RECEIVABLES INCREASE IS *TERM
+- `2026-09-09` **[3]** ai-financing-fragility.md:L8047 — 2026-09-09 ~5:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT ALREADY HOLDS THE Q1 13F, SO HALF THE AUTHOR'S NOVEMBER TEST IS ANSWERABLE TONIGHT: **NVIDIA HAS NOT SOLD
 - `2026-09-09` **[4]** ai-capex-cycle.md:L3598 — 2026-09-09 ~9:20am PDT — ⭐⭐⭐⭐⭐⭐ **$75B OF ORACLE'S $638B RPO IS "PREPAID *OR* CUSTOMER-SUPPLIED GPU HARDWARE" — 11.8% OF THE BACKLOG — AND THOSE TWO T
 - `2026-09-09` **[4]** ai-capex-cycle.md:L3619 — Addendum 2026-09-09 ~9:55am PDT — **AMD'S REAL NUMBER IS NOT THE TAM, IT IS **$29-30B OF PURCHASE COMMITMENTS — 41-43% OF ITS OWN 2027 DATA-CENTRE TAR
 - `2026-09-09` **[5]** memory-regime-question.md:L1411 — Addendum 2026-09-09 ~8:25am PDT — **A CHIP *BUYER* NAMES MEMORY AS A BINDING CONSTRAINT, WHICH IS A DIFFERENT INSTRUMENT FROM EVERY OTHER SOURCE IN TH

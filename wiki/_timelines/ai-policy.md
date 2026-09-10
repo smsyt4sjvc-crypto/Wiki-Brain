@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **533 dated entries across 4 notes · 2026-05-22 → 2026-09-09 · refreshed 2026-09-09 13:58 PDT**
+> **534 dated entries across 4 notes · 2026-05-22 → 2026-09-09 · refreshed 2026-09-09 17:06 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -553,6 +553,7 @@
 - `2026-09-09` [ai-financing-fragility.md:L7999](../ai-financing-fragility.md) — 2026-09-09 ~8:35am PDT — ⭐⭐⭐⭐⭐ **THE YEN CHANNEL IS NOT A NEW BLIND SPOT — JAKE REGISTERED IT MONTHS AGO AND THE VAULT CALLED IT "HIS SHARPEST CATCH."
 - `2026-09-09` [ai-financing-fragility.md:L8017](../ai-financing-fragility.md) — Addendum 2026-09-09 ~10:10am PDT — **THE GOOGLE CLOUD BACKLOG ⬜ I CALLED "THE HIGHEST-VALUE FETCH ON THIS ITEM" AT 7:50AM GETS A PARTIAL ANSWER — AND 
 - `2026-09-09` [ai-financing-fragility.md:L8023](../ai-financing-fragility.md) — 2026-09-09 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MONITOR'S BIGGEST NUMBER IS ONE NOBODY IN IT DECOMPOSES: **70% OF NVIDIA'S $22.4B RECEIVABLES INCREASE IS *TERM
+- `2026-09-09` [ai-financing-fragility.md:L8047](../ai-financing-fragility.md) — 2026-09-09 ~5:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT ALREADY HOLDS THE Q1 13F, SO HALF THE AUTHOR'S NOVEMBER TEST IS ANSWERABLE TONIGHT: **NVIDIA HAS NOT SOLD
 - `2026-09-09` [compression-thesis.md:L3037](../compression-thesis.md) — 2026-09-09 ~8:20am PDT — ⭐⭐⭐⭐⭐⭐ **OPENAI'S ADVERTISING BUSINESS HIT A ~$1BN ANNUALIZED PACE IN SEVEN MONTHS — AND THAT IS NOT A REVENUE ITEM, IT IS A 
 - `2026-09-09` [compression-thesis.md:L3053](../compression-thesis.md) — Addendum 2026-09-09 ~8:55am PDT — **FILED AS A NON-EVENT, WHICH IS THE POINT: CHINA'S SEPT-9 STATEMENT REJECTS THE US ACCUSATIONS AND CALLS FOR COOPER
 - `2026-09-09` [compression-thesis.md:L3059](../compression-thesis.md) — 2026-09-09 ~9:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE US GOVERNMENT JUST TESTIFIED TO THIS FILE'S CENTRAL MECHANISM. FBI, NSA AND CISA *JOINTLY* ACCUSE DEEPSEEK, ALI

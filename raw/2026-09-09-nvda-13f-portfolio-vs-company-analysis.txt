@@ -1,0 +1,38 @@
+Analyst piece (via Jake, ~5:02pm PDT 2026-09-09). NVDA 13F portfolio vs NVDA the stock, and the
+four Intel explanations. Verbatim figures extracted.
+
+SESSION (12:29pm NY): NVDA -2.0%. Every listed company in NVIDIA's own equity portfolio is UP.
+ CRWV +14.7% | NBIS +9.8% | INTC +9.2% | COHR +8.9% | Nokia +6.7% | SPCX +3.2% | Synopsys +1.4%
+ Applying June weights the portfolio is +7.2%. NINE POINTS OF SPREAD in a single session.
+13F at 30 JUNE: eight positions worth $63.4bn, seven of them listed. INTC = 47.3% of the portfolio.
+
+THE FOUR INTEL EXPLANATIONS, GRADED BY THE AUTHOR:
+1. A FILING (real, verifiable, four weeks old): Intel priced 210,526,315 shares at $95.00 on
+   10 August under Form 424B5 = exactly $20.0bn, with an option over another 31,578,947 shares.
+   "A reason Intel is where it is rather than a reason Intel moved today."
+2. A JUNE NUMBER WEARING TODAY'S CLOTHES: NVIDIA's stake is being quoted at about $30bn. That
+   figure, $29,989,261,126, is the 13F valuation at 30 June and implies Intel at $139.63. Intel
+   is $104.58. The same 214,776,632 shares are worth about $22.5bn now. NVIDIA paid $5.00bn at
+   $23.28 in December, so it is up about 4.5x on cost AND about $7.5bn below the quoted mark.
+   "Both of those are true. Only one is being said."
+3. UNCONFIRMED: a press report sourced to the supply chain has Intel raising PC processor prices
+   by about 10% in October. No company confirmation. "It may well be right. It is not evidence yet."
+4. DENIED: Korean media reported ~31 August that SK hynix would use Intel Foundry for HBM4E base
+   dies. SK HYNIX SAID IT IS NOT CURRENTLY CONSIDERING INTEL FOUNDRY FOR HBM4E PRODUCTION. The
+   technical half is real and worth keeping: SK hynix validated its designs against Intel's
+   EMIB-T at Hot Chips 2026. The commercial half is what the named customer has denied.
+
+THE AUTHOR'S OWN PRIOR TEST, held to: "the thing that would change my view on Intel Foundry is one
+line in the next 10-Q, external customer revenue with a customer named, because the segment booked
+$5.77bn of revenue last quarter and $293m of it came from outside customers. Today the market is
+trading a named customer. The customer says no."
+
+HIS OBJECTION: "not that Intel should not be up... What I object to is the laundering. A June
+valuation quoted as today's, and a denied report repeated as fact, stacked into a list that reads
+like four confirmations."
+
+WATCHING: whether Intel holds this into Friday (same test he set for the optical rotation
+yesterday); whether SK hynix says anything further ("a denial that is still a denial in a month is
+a different object from one that turns into an announcement"); and NVIDIA's next 13F, due in
+NOVEMBER for the September quarter — "If Intel is still 47% of it after a quarter like this, the
+position is a strategy. If it has been trimmed, it was a trade."
