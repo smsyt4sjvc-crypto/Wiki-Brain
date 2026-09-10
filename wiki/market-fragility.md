@@ -4718,3 +4718,36 @@ At 2:55pm I filed the Dow/Nasdaq split as *"not what a discount-rate shock looks
 **No moves. TTAN is not on the roster and I am not initialising a name off one after-hours print.** **Direction, and it is two-directional for once: mildly NEGATIVE for seat/transaction-denominated software (the tape is pricing the volume line), and — more importantly — a NEW NEGATIVE INPUT to the consumer/demand-destruction thread that the vault's oil work has been building toward all week from the price side.** **This is the first DEMAND-side corroboration of it, and it came from a software print.**
 **📌 REGISTERED:** 🚩 **TTAN Q3 sequential prints, prior three years (season vs signal)** · 🚩 **job COUNT vs average TICKET in the volume deceleration (demand destruction vs trade-down)** · **NOW/CRM next print: seat count vs revenue per seat — the standing test, unchanged** · ⬜ other high-frequency consumer-services volume reads to corroborate (the vault has none) · Friday CPI + UMich.
 **Links:** [[demand-destruction]] · [[consumption-vs-investment-crux]] · [[compression-thesis]] · [[new-economy-regime]] · [[oil-value-chain]]
+
+## 2026-09-10 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE DOT-COM RATES CLAIM SPLICES TWO DIFFERENT WINDOWS, AND CHECKING IT PRODUCED SOMETHING BETTER THAN THE DEBUNK: **THE JANUARY-2000 TREASURY BUYBACK INVERTED THE LONG END AND TOOK 59bp OUT OF THE 30Y IN SIX WEEKS. THIS WEEK'S $6BN BUYBACK SENT IT UP.** SAME INSTRUMENT, OPPOSITE RESULT, AND THE DIFFERENCE IS THE FISCAL BACKDROP.** *(claim via Jake; all figures pulled in-container from FRED NASDAQCOM / DGS30 / DGS10)*
+### THE CLAIM, TESTED
+> *"During the dot-com boom, the Nasdaq surged more than 200% while the 30-year yield rose roughly 200bps. Euphoria can overpower macro."*
+| window | Nasdaq | 30Y |
+|---|---|---|
+| **1998-10-08 → 2000-03-10** (LTCM low → Nasdaq peak) | **+255.8%** | **+120bp** |
+| **1998-10-05 → 2000-01-18** (LTCM low → 30Y peak) | **+168.8%** | **+205bp** |
+| 1999-10-01 → 2000-03-10 (final 5 months) | +84.5% | **+4bp** |
+| **1996-07-01 → 2000-03-10** ("irrational exuberance" → peak) | **+321.6%** | **−72bp** |
+| **1995-01-03 → 2000-03-10** (the whole boom) | **+579.0%** | **−174bp** |
+- **⛔ THE TWO LEGS PEAK ON DIFFERENT DATES AND THE CLAIM SPLICES THEM. Get +200% on the Nasdaq and the 30Y did +120bp. Get +200bp on the 30Y and the Nasdaq did +169%. THERE IS NO SINGLE WINDOW THAT DELIVERS BOTH.** ⇒ **✔ same error class the vault has caught four times this week — two facts from different windows presented as one, like "6 vessels vs 125," "highest auction stop since 2007," and "$87.69, highest in a week."**
+- **⛔⛔ AND THE LONGER WINDOWS INVERT THE PICTURE ENTIRELY: over the ACTUAL dot-com boom the 30-YEAR YIELD *FELL*. 1995→2000: Nasdaq +579% while the 30Y dropped 174bp. 1996→2000: +322% with the 30Y down 72bp.** ⇒ **THE RISING-RATE LEG IS THE TERMINAL FIFTEEN MONTHS ONLY. The boom coincided with falling long rates for four of its five years, and the claim selects the one stretch that reverses that.**
+- **⛔ AND THE HALF THE CLAIM OMITS: peak 2000-03-10 at 5,049 → trough 2002-10-09 at 1,114 = **−77.9%.** "Rates alone won't stop a tech melt-up" is true and it is not the useful sentence. What stopped it was earnings, and the 30Y FELL from 6.19% to 4.95% while the Nasdaq lost three-quarters of its value.** ⇒ **📌 rates did not cause the top and rates did not cushion the bust. The whole rates frame is the wrong axis for both halves of that cycle, which is a stronger version of the poster's own point than the one made.**
+### ⚖️ WHERE THE CLAIM IS RIGHT, AND IT IS NOT A SMALL CONCESSION
+- **NOMINAL RATES WERE HIGHER THEN THAN NOW. The 30Y peaked at 6.75% on 2000-01-18 with the Nasdaq at 4,131 and still 22% of the rally ahead of it. Today's 30Y is 5.28%.** ⇒ **on the poster's own terms, a melt-up ran with long rates ~150bp above today's level. "The level of rates does not by itself cap an equity mania" is TRUE and the vault should hold it.**
+### ⇒ BUT THE ANALOGY FAILS ON THE ONE VARIABLE THIS VAULT ACTUALLY TRACKS
+- **★★★★★★ 1999 TECH DID NOT NEED THE BOND MARKET. 2026 AI DOES. THAT IS THE WHOLE DIFFERENCE AND IT IS NOT A DETAIL.** **Dot-coms were EQUITY-funded and capex-light — VC and IPO proceeds, minimal debt, no physical plant.** ⇒ **rising rates could not bite because there was almost nothing to refinance.** **2026: hyperscalers are FCF-negative in aggregate (the GS chart), USD AI issuance runs $375bn→$613bn 2026→27E with 53% of the growth in CHIP FINANCING, 15Y+ IG costs 6.26%, Oracle carries $638bn of RPO against −$23.7bn FCF, and Nvidia lent customers ~$15.8bn of payment terms in a single quarter.** ⇒ **⇒ THE VAULT'S THESIS WAS NEVER "RATES KILL TECH." IT IS THAT THIS BUILDOUT IS EXTERNALLY FUNDED IN A WAY THE LAST ONE WAS NOT, SO THE COST OF CAPITAL REACHES THE INCOME STATEMENT THROUGH A CHANNEL THAT DID NOT EXIST IN 1999.** **The dot-com comparison is an argument about EQUITY MULTIPLES; the vault's argument is about DEBT SERVICE. They are not the same claim and the analogy cannot settle it.**
+### ⭐⭐ THE FINDING THE CHECK PRODUCED — AND IT IS LIVE TODAY
+- **Treasury announced debt buybacks on 13 January 2000 (surplus era, retiring the long bond). The 30Y peaked at 6.75% five days later and then:**
+  | date | 30Y | 10Y | **10s30s** |
+  |---|---|---|---|
+  | 1999-12-15 | 6.34 | 6.25 | **+9bp** |
+  | 2000-01-18 | 6.75 | 6.75 | **0bp** |
+  | 2000-02-01 | 6.43 | 6.62 | **−19bp** |
+  | 2000-03-01 | 6.16 | 6.39 | **−23bp** |
+  | 2000-06-01 | 5.95 | 6.20 | **−25bp** |
+  ⇒ **THE LONG END INVERTED AGAINST THE 10Y WITHIN TWO WEEKS AND THE 30Y GAVE UP 59bp IN SIX. A BUYBACK PROGRAMME MOVED THE LONG BOND THAT HARD, ON SCARCITY.**
+- **⇒ ⛔ AND THIS WEEK: a $6BN buyback announcement sent the 30Y toward 5.30% and the 10Y to 4.85-4.86.** ⇒ **SAME INSTRUMENT, OPPOSITE RESULT — AND THE DIFFERENCE IS THE FISCAL BACKDROP. In 2000 Treasury ran a SURPLUS and was genuinely RETIRING duration, so the buyback created scarcity. In 2026 Treasury borrows $1.367T across Q3+Q4 and issues replacement securities against every buyback by its own admission.** ⇒ **📌 THIS IS THE BEST HISTORICAL CALIBRATION THE BOARD HAS FOR WHAT A BUYBACK CAN AND CANNOT DO, AND IT SAYS THE 2026 VERSION IS ARITHMETICALLY TOO SMALL TO MATTER — not because the tool is weak, but because the denominator is 200× larger.** **✔ It also retro-explains Wednesday: the market's $8-10bn whisper was not greedy, it was reaching for a number big enough to register against the borrowing.** 🔴 **LIVE TODAY: the actual $6bn operation plus the $22B 30Y auction.**
+### GRADES (16c) → [[grades]]
+**No moves — a historical analogy is not a driver.** **📌 DIRECTION: the concession stands (rate LEVELS do not cap a mania) and it does not touch the financing thesis, which runs through debt service rather than through multiples.**
+**📌 REGISTERED:** 🔴 **today: $6bn buyback executed + $22B 30Y — does 10s30s move at all? In 2000 it moved 28bp in six weeks** · 📌 **the 2000 buyback episode adopted as the board's calibration case for buyback efficacy** · ⬜ 1999-2000 REAL 30Y vs today's 2.96% (the level comparison in real terms, unfetched).
+**Links:** [[rates-board]] · [[ai-financing-fragility]] · [[compression-thesis]] · [[cepi]]

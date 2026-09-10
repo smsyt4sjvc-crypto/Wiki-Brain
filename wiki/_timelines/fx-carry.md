@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **508 dated entries across 3 notes · 2026-05-22 → 2026-09-10 · refreshed 2026-09-10 06:27 PDT**
+> **509 dated entries across 3 notes · 2026-05-22 → 2026-09-10 · refreshed 2026-09-10 06:59 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -532,4 +532,5 @@
 - `2026-09-09` [ai-financing-fragility.md:L8023](../ai-financing-fragility.md) — 2026-09-09 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MONITOR'S BIGGEST NUMBER IS ONE NOBODY IN IT DECOMPOSES: **70% OF NVIDIA'S $22.4B RECEIVABLES INCREASE IS *TERM
 - `2026-09-09` [ai-financing-fragility.md:L8047](../ai-financing-fragility.md) — 2026-09-09 ~5:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT ALREADY HOLDS THE Q1 13F, SO HALF THE AUTHOR'S NOVEMBER TEST IS ANSWERABLE TONIGHT: **NVIDIA HAS NOT SOLD
 - `2026-09-09` [market-fragility.md:L4573](../market-fragility.md) — 2026-09-09 ~7:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE REGISTERED TEST ARRIVES ONE DAY EARLY AND FROM AN UNEXPECTED NAME: SERVICETITAN BEAT ON REVENUE AND FELL **19%**
+- `2026-09-10` [market-fragility.md:L4591](../market-fragility.md) — 2026-09-10 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE DOT-COM RATES CLAIM SPLICES TWO DIFFERENT WINDOWS, AND CHECKING IT PRODUCED SOMETHING BETTER THAN THE DEBUNK: *
 - `2026-09-10` [new-economy-regime.md:L5003](../new-economy-regime.md) — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
