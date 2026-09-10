@@ -3781,3 +3781,38 @@ denominator's health = the diversification that no longer exists).
 ### GRADES (16c) → [[grades]]
 **AMAT UNGRADED — one of the 31, and it has now produced a three-step upward revision series and the best structural datum in two days of scans.** 🔴 **Fifth consecutive session the coverage gap has landed on the day's best evidence (NBIS, AMD/ADI/ALAB, INTC, and now AMAT).** **LRCX / KLAC / ASML also ungraded; MU 7 holds on the DRAM/HBM read-through with no new filing. TSM 7 holds — the August print was pre-registered and delivered.**
 **📌 REGISTERED:** 🚩 **⬜ AMAT's definition of "leading-edge wafer starts," and the ABSOLUTE series by end market — separates crowding-out from mix drift** · 🚩 **wafer allocation as a tracked instrument alongside GW and HBM — currently absent** · ⬜ whether the 2:1 expectation appears in any filed document · **AMAT as a tranche-1 coverage-audit candidate.**
+
+## 2026-09-10 ~2:00pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **ORACLE Q1 FY27. THE COMPUTE SIDE IS AS STRONG AS JAKE SAYS AND THE JEVONS READ IS CONFIRMED. ⛔ BUT THE FCF COMPARISON HE DRAWS IS A PERIMETER ERROR — **QUARTERLY vs ANNUAL** — AND THE ANNUALIZED BURN IS ESSENTIALLY UNCHANGED. THE RATIO IS WHERE THE REAL IMPROVEMENT LIVES, AND IT IS BIGGER THAN THE FCF FRAMING SUGGESTS. AND "NO INCREMENTAL CAPITAL RAISING" FIRES THIS MORNING'S ADOPTED JOIN IN REAL TIME.** *(Jake's print summary; call 5:00pm ET pending)*
+
+### DATA
+- **Rev $19.3B (+30%) vs ~$19.1B exp · adj EPS $1.92 vs ~$1.74 · total cloud $11.6B (+62%) · **OCI/IaaS $7.4B, +121% y/y vs +93% last quarter** · RPO **$664B**, +$26B seq from $638B · **>$30B new AI-cloud contracts booked** · **850 MW delivered, >300,000 GPUs, Q1 delivery ~3× Q4** · **OCF a record $23B (+184%)**, capex ~$28.5-28.6B · **$20B ATM equity sale COMPLETED in Q1** · Q2 guide rev +30-34%, cloud +65-71% · ~+6-7% AH.**
+
+### ✔ WHAT IS CONFIRMED — AND IT IS THE JEVONS LEG, PROPERLY
+- **OCI ACCELERATED 93% → 121% *WHILE* capacity delivery ran ~3× the prior quarter.** ⇒ **⭐ that is the correct shape of a Jevons confirmation and it is rare: supply expanded sharply and the growth RATE rose anyway.** ⇒ **✔ Jake's read is right — more capacity did not dilute growth, it revealed demand. Guide +65-71% cloud says Q1 was not a one-quarter capacity dump.**
+- **⭐⭐ AND A GENUINELY NEW CROSS-CHECK THE VAULT HAS WANTED: **$28.5B capex ÷ 850 MW ≈ $33.5B PER GW.** The vault independently holds AVGO's Anthropic tranche one at **~$35B/GW all-in** (`forest.md:54`).** ⇒ **TWO UNRELATED SOURCES — a hyperscaler's cash capex and a chip vendor's SPV — CONVERGE ON ~$33-35B/GW.** ⚠️ **PERIMETER, and it is large: a quarter's capex does not fund that same quarter's delivered MW (lead times run quarters). This is an order-of-magnitude corroboration, NOT an identity.** **Also implies ~353 GPUs/MW ≈ 2.83 kW per GPU all-in.**
+
+### ⛔⛔ THE CORRECTION — THE FCF COMPARISON MIXES PERIMETERS (rule 21b)
+- **Jake: *"compare with FY26's −$23.7B FCF: cash generation is catching up dramatically."*** **That sets a **QUARTERLY** FCF against an **ANNUAL** one.**
+  | | Q1 FY27 | annualized | FY26 actual |
+  |---|---|---|---|
+  | FCF | **−$5.5B** | **−$22.0B** | **−$23.7B** |
+- ⇒ **⛔ AT THIS RUN RATE THE ANNUAL BURN IS −$22.0B AGAINST −$23.7B — **7% BETTER, NOT "DRAMATIC."*** **(⚠️ and −$5.5 to −$5.6B is the arithmetic on the stated inputs; the note said −$5.0 to −$5.4B.)**
+- ⇒ **✔ BUT THE CONCLUSION SURVIVES ON A BETTER METRIC, AND THIS IS THE PART THAT IS STRONGER THAN THE FCF FRAMING: **CAPEX/OCF FELL 1.74× → 1.24×.** OCF annualizes to **$92B vs FY26's $32.0B = 2.9×**, while capex annualizes to **$114B vs $55.7B = 2.05×.*** ⇒ **⇒ OPERATING CASH IS COMPOUNDING FASTER THAN CAPEX — 2.9× vs 2.05×. THAT is the bull case, it is real, and the FCF line understates it because both blades doubled at once.** *(Analysis. Rule 20.)*
+
+### ⛔ THE NUMBER THE NOTE DOES NOT CONTAIN — CONVERSION, WHICH THE VAULT PRE-REGISTERED
+- **RPO $664B against OCI at $7.4B/qtr ⇒ **22.4 YEARS** of OCI revenue. Against TOTAL revenue ⇒ **8.6 years.**
+- **And **RPO grew only +4.1% sequentially** while **>$30B was booked** ⇒ net consumption ≈ $4B against $19.3B of revenue.**
+- ⇒ **⇒ THE BACKLOG IS STILL BEING ADDED TO FASTER THAN IT CONVERTS, AND THE CONVERSION HORIZON IS LENGTHENING, NOT SHORTENING.** ⚠️ **⛔ DO NOT OVER-READ THE +4.1%: FY26's +363% was lumped by the OpenAI award, so one sequential quarter is not a trend.** **But "backlog per year of revenue" is now a tracked ratio.** *(Analysis.)*
+
+### ⭐⭐⭐ AND THE LINE THAT MATTERS MOST — IT FIRES THIS MORNING'S ADOPTED JOIN, IN REAL TIME
+- **Oracle: the >$30B of new AI contracts caused **NO INCREMENTAL CHANGE TO ITS CAPITAL-RAISING PLAN "BECAUSE OF HOW THOSE CONTRACTS WERE STRUCTURED."***
+- ⇒ **✔ THAT IS THE 9/9 DISCLOSURE OPERATING AT SCALE: `ai-capex-cycle` 9/9 9:20am — *"$75B of Oracle's $638B RPO is PREPAID **OR** CUSTOMER-SUPPLIED GPU HARDWARE."*** ⇒ **the customer funds the hardware. ⇒ **COST-SHIFTING FAMILY, 8TH INSTANCE, AND THE LARGEST.***
+- ⇒ **⛔⛔ AND HERE IS THE READ THE BULL CASE MISSES: **CAPEX THAT REQUIRES NO ORACLE CAPITAL HAS NOT DISAPPEARED — IT HAS MOVED TO THE COUNTERPARTY'S BALANCE SHEET.** Oracle's credit genuinely improves. The counterparty's does not.**
+- ⇒ **★★★★★★★ THIS MORNING I ADOPTED THE JOIN: *"compression does not show up as a short in the model layer — it shows up as COUNTERPARTY CREDIT QUALITY."* **ORACLE JUST DEMONSTRATED THE MECHANISM ON THE SAME DAY: its growth is funded by the token-denominated layer whose unit economics the compression file says are the ones being compressed.*** ⇒ **⇒ ORACLE IS DE-RISKING ITSELF BY TRANSFERRING THE FUNDING BURDEN TO OPENAI-CLASS ENTITIES. That is bullish ORCL and it is the single most bearish structural datum available on the counterparty.** **📌 The join is no longer a hypothesis; it has an instance with a number on it.** *(Analysis — NOT fact.)*
+- **✅ AND A REGISTERED ITEM HALF-CLOSES: *"whether the $40bn FY27 raise is debt, equity or both."* **AT LEAST $20B WAS EQUITY AND IT IS DONE** — the ATM completed in Q1. Overhang gone, at the cost of real dilution. ⬜ the remaining ~$20B's form.**
+
+### GRADES (16c) → [[grades]] — **ORCL 4 → 5**, moved in this commit
+- **The 4 was set on FINANCING RISK (9/1: *"$260B uncommenced, BBB−/~226bp CDS"*). That leg improved materially and specifically: OCF +184% to a record, capex/OCF 1.74×→1.24×, the $20B ATM completed, and management stating no incremental raise from >$30B of new contracts.** ⇒ **↑ 5.**
+- **⛔ WHY NOT 6: the annualized burn is essentially unchanged (−$22.0B), the conversion horizon LENGTHENED to 22.4 years of OCI revenue, and the improvement is partly achieved by shifting funding onto a counterparty the vault's own compression work flags as deteriorating.**
+- 🔴 **SAME-DAY REVERSAL TRIGGERS — the 5:00pm ET call: (1) any calendar-2026 DEBT issuance, (2) the **$3.3B lessor guarantee maturing this month**, (3) customer-prepayment/customer-owned-GPU detail behind "how those contracts were structured," (4) any disclosure of the **NM Supreme Court stay on Jupiter (deadline Nov 23)**.**
+**📌 REGISTERED:** ✅ **ORCL 4→5** · ✅ **$20B of the raise was EQUITY, completed** · 📌 **NEW TRACKED RATIO: backlog per year of revenue (22.4y OCI / 8.6y total)** · ⭐ **$33.5B/GW corroborates $35B/GW from an unrelated source** · 📌 **cost-shifting instance #8, the largest** · 🔴 **the call, four named reversal triggers.**
