@@ -3243,3 +3243,45 @@ blacklist entries should be reconciled against the adjudicated timeline).
 **No listed pure-play on the token-denominated leg — the standing finding.** **📌 DIRECTION: mildly NEGATIVE for frontier-lab economics at a given capability level; NEUTRAL-to-POSITIVE for compute sellers; and it raises the value of the ADVERTISING/OUTCOME escape hatches (OpenAI ads at ~$1B annualised, Meta's Muse take-rate) filed earlier this week, because those monetise the OUTPUT rather than the TOKEN.**
 **📌 REGISTERED:** 🚩 **⬜ the same dispersion on a CODING/AGENTIC benchmark — decides whether this generalises beyond design** · 🚩 **⬜ OpenDesign's task set and scoring method** · ⬜ whether DeepSeek V4.1 Flash's $0.023 is a promotional/subsidised rate or a sustainable one (a 70× gap invites the question) · **the FBI/NSA/CISA distillation advisory's text (standing 🚩 from 9/9).**
 **Links:** [[metered-compute]] · [[ai-financing-fragility]] · [[market-fragility]] · [[agentic-payments]]
+
+## 2026-09-10 ~9:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MODEL ECONOMICS, DECOMPOSED (Jake's Q). MODEL ECONOMICS IS A *SPREAD* — PRICE/TOKEN MINUS COST/TOKEN — AND THIS VAULT HAS BEEN MEASURING ONE BLADE AND FORECASTING THE OTHER. PUT TOGETHER, THE SIGN OF THE ANSWER **FLIPS ON THE WINDOW YOU CHOOSE**, WHICH IS THE SAME TRAP THAT CAUGHT THE OECD PULL THIS MORNING. AND THE CROSS-SECTION SAYS COMPRESSION IS **EARLY, NOT LATE**: ~99% OF THE PRICE UMBRELLA IS STILL STANDING AT CONSTANT QUALITY.** *(Rule 20 — Decomposition First. Rule 14 — answered as a CALL.)*
+
+### DECOMPOSITION — the four quantities, with perimeters (rule 21b)
+| quantity | value | instrument | status |
+|---|---|---|---|
+| **price/token** | **$1.09 (Dec-25) → $2.12 (May peak) → $1.62 (Jul) → $0.967 (Aug-31)** | SDLLMTK broad, **usage-weighted** | **MEASURED**, vault's own series (`forest.md:54`) |
+| **cost/token** | **−60 to −70%/yr** | Goldman public frame (`metered-compute:L3389`) | ⬜ **FORECAST, NOT A MEASUREMENT** |
+| **volume** | **×24 2026→2030 = +121%/yr** | Goldman, same note | ⬜ **FORECAST** |
+| **dispersion** | **159× price / 1.26× quality** | OpenDesign Arena, one task class | **MEASURED**, 9/10 8:50am |
+
+### ⛔⛔ THE WINDOW FLIPS THE SIGN — AND THIS IS THE ENTRY
+- **Margin expands if and only if price falls SLOWER than cost. Same series, same endpoint, two start dates:**
+  | anchor | total | annualized | vs cost −60/−70% | ⇒ |
+  |---|---|---|---|---|
+  | **from the MAY PEAK** (4mo) | **−54.4%** | **−90.5%/yr** | price falls **FASTER** | ⇒ **MARGINS COMPRESS** |
+  | **from DEC-25** (8mo) | **−11.3%** | **−16.4%/yr** | price falls **SLOWER** | ⇒ **MARGINS EXPAND** |
+- ⇒ **⛔ THE BEAR CASE AND THE BULL CASE ARE THE SAME DATA READ FROM TWO STARTING POINTS FOUR MONTHS APART.** **"Token prices collapsed 54%" and "token prices are down 11% in eight months" are both true of the same index on the same day.** *(Analysis.)*
+- ⇒ **✔ AND THE TIE-BREAK IS AVAILABLE, BECAUSE THE MAY PEAK IS ITSELF THE SUSPICIOUS OBJECT: the index **DOUBLED (+94%) Dec→May** in an industry whose cost/token was falling 60-70%/yr. A usage-weighted index cannot rise 94% on price in that environment.** ⇒ **⇒ THE MAY PEAK IS ALMOST CERTAINLY MIX — reasoning models entering the weighting — AND THE "−54% COLLAPSE" IS SUBSTANTIALLY THAT MIX UNWINDING.** **⇒ ⛔ PEAK-ANCHORING IS THE WRONG READ, AND I HAVE USED IT ALL WEEK.** **The Dec anchor is the honest one, and it says margins are EXPANDING, not compressing.**
+- ⚠️ **BUT IT DOES NOT FULLY ACQUIT, AND THE VAULT ALREADY HOLDS THE REASON: `forest.md:54` (9/3) — *"August was NOT cheap-tokens-taking-share — the expensive tier fell hardest,"* PROPRIETARY **−25.4% in one month** to $2.08 against open −18.4%.** ⇒ **that is an INTRA-TIER move, so it is NOT mix between tiers — it is price cuts or intra-tier routing, and the vault flagged that as unresolved on 9/3 and it is still unresolved.** **⛔ I will NOT annualize a one-month print (the vault's own rule: on a series this volatile, only the multi-week average is a datum). −25.4% in August is a data point, not a rate.**
+
+### ⭐⭐⭐ THE NEW FINDING — THE CROSS-SECTION BOUNDS THE TIME SERIES
+- **A time series tells you where price has BEEN. A dispersion snapshot tells you where it can GO — because in a commoditising market dispersion collapses toward the low-cost producer.**
+- **On OpenDesign's task class: **Claude Fable 5.1 costs $3.66 for 80.3 quality. DeepSeek V4.1 Flash costs $0.023 for 81.2 — HIGHER quality at 1/159th the price.**
+- ⇒ **⛔⛔ THE ENTIRE $3.637 DIFFERENTIAL BUYS *NEGATIVE* QUALITY ON THIS TASK CLASS. THAT IS A **99.4% PRICE UMBRELLA AT CONSTANT-OR-BETTER QUALITY.**
+- ⇒ **★★★★★★★ THE CALL: **COMPRESSION IS EARLY, NOT LATE.** The time series has delivered 54% from a mix-inflated peak and ~11% from a clean anchor. The cross-section says **~99% is available at constant quality.** ⇒ **the vault has been treating token compression as a mature process nearly done; the dispersion says it has barely started.*** *(Analysis. This is the strongest single statement this file can currently make.)*
+- ⚠️ **AND THE PERIMETER THAT KEEPS IT HONEST: the umbrella is not pure rent. It buys trust, latency, integration, switching cost, task-class fit and enterprise indemnity — none of which the arena scores, and DELIVERABILITY RUNS 53-60% ACROSS THE WHOLE FIELD.** ⇒ **"99.4% of the price is not quality" is TRUE AS MEASURED and does NOT mean 99.4% is capturable by a buyer. It bounds the umbrella; it does not price the moat.** 🚩 **⬜ the same dispersion on a CODING/AGENTIC benchmark remains the test of generality (standing since 8:50am).**
+
+### ⇒ WHO CAPTURES IT — THREE OF FOUR DENOMINATIONS *WIN* FROM TOKEN COMPRESSION
+| denomination | examples | effect of falling token price |
+|---|---|---|
+| **TOKEN** | OpenAI, Anthropic, xAI, DeepSeek | ⛔ **the only loser** — it is their unit of sale |
+| **COMPUTE** | ORCL · CRWV · IREN · NBIS | ✔ **Jevons volume**; NBIS cleared **15-20% above list** = pricing power, filed 9/9 |
+| **OUTCOME/SEAT** | PLTR · NOW · CRM | ✔ **cheaper inference is a COGS cut** |
+| **ATTENTION/IMPRESSION** | OpenAI ads (~$1B annualised in 7mo) · Meta Muse | ✔ **COGS cut**, filed 9/9 as the fourth denomination |
+- ⇒ **⛔⛔ THE INVESTABLE CONCLUSION, AND IT IS UNCOMFORTABLE: THE COMPRESSION THESIS IS REAL, MEASURED — AND **LARGELY UNTRADEABLE ON THE SHORT SIDE.** The entity that loses is PRIVATE in every case. `:L3243` — *"no listed pure-play on the token-denominated leg"* — is not a coverage gap, it is a STRUCTURAL FEATURE: every listed way to express this thesis sits on the WINNING side of it.** *(Analysis.)*
+- ⇒ **★★★★★★ SO HOW DOES IT REACH LISTED MARKETS? THROUGH THE FINANCING, AND THAT IS THE TRANSMISSION CHANNEL THIS FILE HAS NOT NAMED: **the token-denominated labs are the COUNTERPARTIES on the compute contracts.** AVGO's XPV — Apollo + Blackstone, >20GW OpenAI/Anthropic by end-2028, $35B tranche one for Anthropic's 1GW (`forest.md:54`) — is credit written against entities whose unit of sale is the thing being compressed.** ⇒ **⇒ COMPRESSION DOES NOT SHOW UP AS A SHORT IN THE MODEL LAYER. IT SHOWS UP AS **COUNTERPARTY CREDIT QUALITY** IN [[ai-financing-fragility]] — which is where the vault should route it, and the two files have been running in parallel without this join.** 📌 **JOIN ADOPTED.**
+
+### GRADES (16c) → [[grades]]
+**No grade change.** **📌 DIRECTION UNCHANGED FROM 8:50am but the CONFIDENCE INTERVAL WIDENS: the margin sign is window-dependent and the cost blade is a forecast the vault has never verified.** ⇒ **the compute leg's case STRENGTHENS (it wins under both windows); the frontier-lab case is NOT established either way and should stop being asserted as established.**
+**📌 REGISTERED:** 🚩🚩 **⬜ COST/TOKEN AS A MEASURED SERIES — the single largest hole in this file. Every margin claim rests on a Goldman forecast the vault has never independently sourced.** · 📌 **RULE: stop anchoring the token index to the May peak; the peak is mix.** · 🚩 **⬜ price-cuts vs intra-tier routing (unresolved since 9/3; the discriminator is the flagship LIST-PRICE log)** · 📌 **JOIN: compression → counterparty credit → [[ai-financing-fragility]]** · 🚩 **⬜ the same dispersion on a coding/agentic benchmark.**
+**Links:** [[metered-compute]] · [[ai-financing-fragility]] · [[forest]] · [[grades]]
