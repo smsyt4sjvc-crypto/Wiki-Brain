@@ -3332,3 +3332,44 @@ blacklist entries should be reconciled against the adjudicated timeline).
 - **⇒ 📌 THE 9:05am CALL IS **DOWNGRADED, NOT WITHDRAWN**: "compression is early, not late" rested on the umbrella being pure rent at constant quality. It is not. The direction stands — the umbrella is large and the low-cost producer is competitive — but the MAGNITUDE is no longer quotable and the 99.4% figure must not be repeated.** **The frontier looks MORE intact than at 8:50am, not less: Astra leads design quality by 3.4 points over Claude and 3.0 over the cheap winner, and takes a scenario outright.**
 - **📌 RULE, AND IT IS THE LESSON: **A LEADERBOARD IS NOT A DOCUMENT. READ THE METHODOLOGY BEFORE QUOTING THE TABLE.** I extracted no text, read ~13 of 42 pages, and filed seven paragraphs of interpretation off a ranking widget. The extraction that corrected all of this took one command and I ran it only when asked.**
 **📌 REGISTERED:** 🚩🚩 **⬜ per-token LIST PRICES for the 13 models — the only way to split price from token efficiency** · 📌 **ROUTING > MODEL CHOICE: 5 scenarios, 5 winners, none the composite #1** · 📌 **RULE: read the methodology before quoting the table** · ⚠️ **single interested source (Powerformer, Inc.) — rule 9** · 🚩 **⬜ the same dispersion on a coding/agentic benchmark (standing).**
+
+## 2026-09-10 ~2:15pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE GRAND VIEW AGENTIC-AI CHART HAS **ONE DATUM AND ONE ASSUMPTION**, NOT SEVEN DATA POINTS — THE ARITHMETIC PROVES IT. AND TAKEN AT FACE VALUE IT SAYS THE **ENTIRE** ENTERPRISE AGENTIC AI MARKET IN **2030** IS **86% OF ORACLE'S CAPEX FOR ONE QUARTER** — OR **0.72 GW** OF DATACENTRE AT THE VAULT'S OWN COST PER GW.** *(Grand View Research → `raw/2026-09-10-gvr-enterprise-agentic-ai-market-size.png`)*
+
+### ⛔ FIRST — THE SERIES IS A FORMULA, AND THE y/y COLUMN GIVES IT AWAY
+| year | value | y/y |
+|---|---|---|
+| 2024 | $2.60B | — |
+| 2025 | $3.71B | +42.69% |
+| 2026 | $5.30B | +42.86% |
+| **2027** | **$7.75B** | **+46.23%** |
+| **2028** | **$11.33B** | **+46.19%** |
+| **2029** | **$16.56B** | **+46.16%** |
+| 2030 | $24.50B | +47.95% |
+- **Six growth rates spanning **42.69% to 47.95% — a 5.25pp range across six years** — and 2027/2028/2029 print **46.23 / 46.19 / 46.16%**, identical to within four hundredths of a point.**
+- **A flat 45.33% CAGR from the 2024 base reproduces every year to within **$0.30** (max deviation 1.8%).**
+- ⇒ **⛔⛔ THIS IS NOT A SEVEN-YEAR FORECAST. IT IS **ONE BASE-YEAR ESTIMATE ($2.60B) AND ONE GROWTH ASSUMPTION (~45%)**, COMPOUNDED SIX TIMES AND SMOOTHED AT THE ENDPOINTS.** ⇒ **⇒ THE CHART CONTAINS **TWO** NUMBERS. THE OTHER FIVE ARE ARITHMETIC WEARING THE COSTUME OF EVIDENCE.** **📌 RULE 21(b), GENERALISED: on any multi-year market-size chart, compute the y/y column FIRST. Near-constant growth means the forecast has ONE input, and the honest citation is "GVR assumes ~45% CAGR off a $2.6B 2024 base," never "the market reaches $24.5B in 2030."** *(Analysis.)*
+- ⚠️ **AND ERROR CLASS 8: Grand View SELLS this report. A ~45% CAGR is the product. The base year is the only thing resembling a measurement and its method is not shown.** **Rule 9: one origin, and it is a commercial vendor.**
+
+### ⭐⭐⭐ SECOND — THE SCALE COMPARISON, AND IT IS THE REASON THE CHART MATTERS
+| the ENTIRE 2030 agentic market ($24.5B) vs | | share |
+|---|---|---|
+| **ORCL capex — ONE QUARTER (Q1 FY27)** | **$28.5B** | **86.0%** |
+| ORCL capex annualized | $114B | 21.5% |
+| AVGO FY28 AI revenue | $230B | 10.7% |
+| hyperscaler issuance 2027 (GS) | $400B | 6.1% |
+| ORCL RPO | $664B | 3.7% |
+| **one GW of datacentre (vault's own ~$34B/GW)** | **$34B** | **72.1%** |
+- ⇒ **★★★★★★★ **THE WHOLE FORECAST MARKET, SIX YEARS OUT, BUYS 0.72 GW.** Oracle delivered **850 MW IN ONE QUARTER** (this afternoon's print).** ⇒ **⇒ ORACLE BUILT MORE CAPACITY IN NINETY DAYS THAN THIS ENTIRE MARKET IS FORECAST TO BE WORTH IN 2030.** *(Analysis.)*
+
+### ⛔ AND HERE IS THE DISCIPLINE THAT STOPS THIS BEING A CHEAP DUNK — THE PERIMETER IS **NOT STATED ON THE CHART**
+- **"Enterprise agentic AI market" almost certainly means a NARROW software/platform category: it will exclude compute, model-API spend, internally-built deployments, and every dollar of displaced labour. **The image does not say.***
+- ⇒ **⇒ THEREFORE THE CHART ADMITS EXACTLY TWO READINGS AND CANNOT ADJUDICATE BETWEEN THEM:**
+  1. **NARROW perimeter ⇒ the number is fine and says NOTHING about AI ROI.** Comparing it to capex is apples-to-oranges and the comparison above is then rhetoric, not evidence.
+  2. **BROAD perimeter ⇒ the ROI gap is catastrophic** — two orders of magnitude between what is being financed and what is forecast to be sold.
+- ⇒ **📌 THE FINDING IS THAT THE CHART WILL BE QUOTED BOTH WAYS AND SUPPORTS NEITHER. **A market-size number without a stated perimeter is not a small number or a large one — it is not a number.*** 🚩 **⬜ GVR's segment definition. Until it exists, this chart is NOT usable as evidence for or against the ROI thesis, and I am recording it as UNUSABLE rather than filing the dunk.** *(Analysis. This is the honest outcome and it is less satisfying than the table above.)*
+
+### ⇒ WHAT IT **DOES** LEGITIMATELY TOUCH — THE DENOMINATION AXIS, AND A ROSTER HOLE
+- **"Enterprise agentic AI" is the **OUTCOME/SEAT** leg of the vault's four-denomination axis (PLTR/NOW/CRM — *"cheaper inference is a COGS cut"*).**
+- ⇒ **⛔⛔ AND CHECKING `grades.md` AGAINST THE AXIS PRODUCES A REAL COVERAGE FINDING: **PLTR, NOW AND CRM ARE ON NO ROSTER ROW.** The vault already holds *"no listed pure-play on the TOKEN-denominated leg"* as structural.** ⇒ **⇒ TWO OF THE FOUR DENOMINATIONS HAVE **ZERO** ROSTER REPRESENTATION (token, outcome/seat), WHILE COMPUTE (ORCL/CRWV/IREN/NBIS) AND ATTENTION (GOOGL/META) ARE WELL COVERED.**
+- ⇒ **📌 THE TOKEN GAP IS STRUCTURAL — those issuers are private. **THE OUTCOME/SEAT GAP IS NOT: PLTR, NOW AND CRM ARE ALL LISTED AND ALL UNGRADED.*** ⇒ **that is a coverage choice, not a market constraint, and it means the book is positioned entirely on the legs that WIN from token compression while holding nothing on the leg that monetises the OUTPUT.** **📌 CARRIED INTO THE TRANCHE WORK JAKE APPROVED TODAY — the denomination axis should be a selection criterion for tranche ordering, not just the 53-name holdings list.**
+**📌 REGISTERED:** 📌 **RULE: compute the y/y column before quoting any market-size chart — near-constant growth = one input** · ⛔ **THIS CHART FILED AS UNUSABLE pending ⬜ GVR's segment definition** · ⭐ **the 2030 market = 0.72 GW; Oracle delivered 850 MW last quarter** · 🚩🚩 **⬜ PLTR/NOW/CRM — listed, ungraded, and the vault's only access to the outcome/seat denomination** · 📌 **denomination coverage as a tranche-ordering criterion.**
