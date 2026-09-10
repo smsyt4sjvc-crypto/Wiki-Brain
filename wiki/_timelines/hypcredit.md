@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **348 dated entries across 3 notes · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 06:59 PDT**
+> **349 dated entries across 3 notes · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 07:12 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -376,3 +376,4 @@
 - `2026-09-09` [rates-board.md:L2956](../rates-board.md) — Addendum 2026-09-09 ~6:50pm PDT — 📖 **DEFINITION FILED, BECAUSE I USED THE TERM FOR A FULL ENTRY WITHOUT DEFINING IT AND JAKE HAD TO ASK. THE VAULT HA
 - `2026-09-10` [rates-board.md:L2967](../rates-board.md) — 2026-09-10 ~6:35am PDT — ⭐⭐⭐⭐⭐⭐ **AUGUST PPI: THE SOFT CORE IS PARTLY *MARGIN COMPRESSION*, NOT DISINFLATION — AND THE BLS'S OWN "EX TRADE MARGINS" SE
 - `2026-09-10` [rates-board.md:L2994](../rates-board.md) — Addendum 2026-09-10 ~6:45am PDT — ⛔⛔ **THE FULLER TABLE ARRIVES TEN MINUTES AFTER I FILED AND IT CORRECTS MY MARGIN-COMPRESSION READ. THE TRADE-MARGIN
+- `2026-09-10` [rates-board.md:L3009](../rates-board.md) — Addendum 2026-09-10 ~7:30am PDT — **THE OPEN: 10Y ~4.91%, HIKE ODDS 62% → 74% IN A SESSION, AND **THE ECB HIKED** — WHICH IS THE ITEM THAT CHALLENGES 
