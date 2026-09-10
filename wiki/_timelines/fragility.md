@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **389 dated entries across 6 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 18:52 PDT**
+> **390 dated entries across 6 notes · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 06:24 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -417,3 +417,4 @@
 - `2026-09-09` [rates-board.md:L2931](../rates-board.md) — 2026-09-09 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE ASKS WHAT THE CTA CHARTS MEAN. THE ANSWER IS THAT THEY EXPOSE A HOLE IN THE THREE-CELL MATRIX I PRE-REGISTERED
 - `2026-09-09` [rates-board.md:L2956](../rates-board.md) — Addendum 2026-09-09 ~6:50pm PDT — 📖 **DEFINITION FILED, BECAUSE I USED THE TERM FOR A FULL ENTRY WITHOUT DEFINING IT AND JAKE HAD TO ASK. THE VAULT HA
 - `2026-09-09` [transmission-chain.md:L311](../transmission-chain.md) — 2026-09-09 ~8:00am PDT — ⭐⭐⭐⭐⭐⭐ **THE CHAIN HAS A NEW BREAK AND THE GOPHER FOUND IT BEFORE I DID: GOOGLE IS NOW SELLING TPU SYSTEMS *OUTRIGHT* FOR INS
+- `2026-09-10` [rates-board.md:L2967](../rates-board.md) — 2026-09-10 ~6:35am PDT — ⭐⭐⭐⭐⭐⭐ **AUGUST PPI: THE SOFT CORE IS PARTLY *MARGIN COMPRESSION*, NOT DISINFLATION — AND THE BLS'S OWN "EX TRADE MARGINS" SE

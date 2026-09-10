@@ -1,0 +1,19 @@
+AUGUST PPI, released Thu Sep 10 2026 (Jake paste ~6:21am PDT; Barron's + BLS tables + WSJ)
+
+Measure                       Actual   Expected   July (revised)
+Headline, monthly             +0.4%    +0.4%      +0.1%
+Core ex food/energy, monthly  +0.2%    +0.3%      +0.3%
+Headline, yearly              5.4%     5.4%       4.8%
+Core ex food/energy, yearly   4.6%     -          4.3%
+
+WHAT DROVE IT (BLS release):
+  DIESEL +24.1% in one month
+  overall ENERGY +4.2%
+  TRANSPORTATION/WAREHOUSING +2.3%
+  SERVICES OVERALL +0.1%
+  Excluding food, energy AND TRADE MARGINS: +0.3% monthly, +4.7% yearly
+
+AGGREGATOR'S READ (as pasted): "The softer monthly core offers some market relief, while energy
+and freight costs keep inflation pressure elevated. This gives the Fed mixed evidence and leaves
+tomorrow's CPI especially consequential. It comes out Friday at 5:30 a.m. Spokane time."
+[Note: 5:30am Pacific = 8:30am ET. Correct.]
