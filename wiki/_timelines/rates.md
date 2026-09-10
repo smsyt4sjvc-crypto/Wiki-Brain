@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **419 dated entries across 3 notes · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 07:47 PDT**
+> **420 dated entries across 3 notes · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 07:51 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -444,3 +444,4 @@
 - `2026-09-10` [rates-board.md:L3009](../rates-board.md) — Addendum 2026-09-10 ~7:30am PDT — **THE OPEN: 10Y ~4.91%, HIKE ODDS 62% → 74% IN A SESSION, AND **THE ECB HIKED** — WHICH IS THE ITEM THAT CHALLENGES 
 - `2026-09-10` [rates-board.md:L3018](../rates-board.md) — 2026-09-10 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE SAYS THE SELLOFF IS GLOBAL. I SAID I HAD NO INSTRUMENT; I FOUND ONE. THE ANSWER **DEPENDS ENTIRELY ON THE WIND
 - `2026-09-10` [rates-board.md:L3047](../rates-board.md) — Addendum 2026-09-10 ~7:55am PDT — ⛔⛔⛔ **JAKE: "WE HAVE IT HERE… WE'VE GONE OVER IT." HE IS RIGHT AND IT IS THE FOURTH RULE-21 FAILURE IN TWO DAYS. THE
+- `2026-09-10` [rates-board.md:L3066](../rates-board.md) — 2026-09-10 ~8:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **RABOBANK SUPPLIES THE PIECE THE BOARD HAS BEEN MISSING ALL WEEK — AND IT *COMPETES* WITH A CAUSAL STORY THE VAULT A
