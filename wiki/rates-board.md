@@ -3322,3 +3322,24 @@ If IG repriced FIRST and Treasuries followed, **IG OAS must WIDEN (IG moving, US
 - ⇒ **⭐ AND IT ADDS A CAUSAL LINK THE VAULT DID NOT HAVE: **the buyback disappointment CREATED the concession that made yesterday's 10Y auction blow out.** That is a mechanism, not a coincidence — a weak buyback cheapened the paper into the auction.**
 - ⚠️ **STILL UNRESOLVED AND NOT PAPERED OVER: Treasury's calendar shows 9/9 as `Nominal Coupons 1Mo-2Y`, **Cash Management**, cap $12.5B — a FRONT-END operation. A $6bn purchase against a $12.5B cap would indeed "disappoint," but the vault's two-day framing treated this as the 10-30Y expansion, which it was not.** 🚩 **⬜ the 9/9 operation's ACTUAL purchase amount and bucket, from Treasury's results file.**
 **📌 REGISTERED:** ✅ **internals CLOSED; $6bn RECONCILED to 9/9** · ⛔ **"19-year high" → 25 years (Aug 2001); "in a decade" → ON RECORD** · 📌 **INDIRECT ≠ FOREIGN — never record 79.5% as foreign; TIC is the instrument** · 📌 **TWO STRIKES TRACKED SEPARATELY: 30Y 5.30 (Rabobank, tested today, nothing happened) vs 10Y 5.00 (ZH, UNTESTED and live)** · 🚩🚩 **⬜ a Bessent statement naming a 10Y level — highest-value unfetched on this board** · 🚩 **⬜ the 9/9 buyback actual** · 🔴 **the tape into the close: a record auction bought a dip that lasted minutes.**
+
+## 2026-09-10 ~2:20pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE 2Y ROSE **15bp TODAY TO 4.58%** AND **BOTH CURVE SEGMENTS FLATTENED.** A TERM-PREMIUM / SUPPLY STORY **STEEPENS.** TODAY DID THE OPPOSITE. ⇒ TODAY WAS A **FED REPRICING THAT DRAGGED THE LONG END**, NOT AN AI-SUPPLY EVENT — AND I SPENT THE MORNING FRAMING IT AS THE LATTER.** ⟲ **CORRECTS the framing of my 8:50am / 10:05am / 10:40am entries.** *(ZH feed 2Y print; ORCL/curve levels same feed)*
+
+### DATA — ⚠️ instruments differ and I am flagging it before using it (my own 8:50am rule)
+- **ZH: *"US TWO-YEAR YIELD RISES 15 BASIS POINTS TO DAY TO 4.58%."* **The +15bp is ZH's own same-instrument intraday delta and is the usable quantity.** The LEVEL comparison below sets an intraday quote against 9/8 H.15 closes — different instruments, directionally sound, not a precise bp.**
+| | 9/8 H.15 close | today ~ | Δ |
+|---|---|---|---|
+| **2Y** | 4.39 | **4.58** | **+19bp (ZH: +15bp on the day)** |
+| 10Y | 4.80 | ~4.91 | +11bp |
+| 30Y | 5.25 | ~5.31 | +6bp (auction stop **5.308**) |
+| **2s10s** | **41bp** | **33bp** | **−8bp FLATTER** |
+| **2s30s** | **86bp** | **73bp** | **−13bp FLATTER** |
+
+### ⛔⛔ THE CORRECTION, AND IT IS THE DAY'S BIGGEST ONE
+- **A supply / term-premium repricing puts the pressure at the LONG end and **STEEPENS** the curve. **TODAY THE FRONT LED BY 3× THE LONG END AND BOTH SEGMENTS FLATTENED.***
+- ⇒ **⇒ THE DRIVER TODAY WAS **MONETARY POLICY**, NOT AI DURATION SUPPLY: PPI at +0.4%/+5.4% took hike odds ~62% → ~74%, and the front end repriced the Fed.** ⇒ **⛔ MY MORNING ENTRIES READ THE 30Y'S 5.308 AS A TERM-PREMIUM / SUPPLY EVENT. THE CURVE SAYS IT WAS LARGELY **DRAGGED**.** *(Analysis.)*
+- ⇒ **✔ AND THIS IS THE READING THAT FINALLY RECONCILES THE DAY'S CENTRAL PARADOX — a record-strong 30Y auction followed by a resumed selloff.** **They are not in tension once the move is front-led: **REAL MONEY BOUGHT DURATION AT 5.31 (dealers 2.21%, a record low) WHILE THE FRONT END REPRICED THE FED.** The long end was the BETTER-BID part of the curve today, and the selloff that "resumed" was concentrated where the auction was not.**
+- ⇒ **✔ AND IT IS THE VAULT'S OWN "SEPARATION SHAPE," REPEATING. `forest.md:67` (8/28 Jackson Hole): *"2Y +14bp to 4.34 vs 30Y +3bp to 5.22 — **the long end barely responds to a hawkish shock**."* **TODAY: 2Y +15bp, 30Y +6bp. Same shape, thirteen days later, same magnitudes.*** ⇒ **the board has now observed this twice and it should stop being surprised by it.** **📌 THE SEPARATION IS A REGIME, NOT AN EPISODE.**
+- **⚠️ WHAT THIS DOES **NOT** OVERTURN: the 25-year-high LEVEL, the record-low dealer take-down, and the "abundant and expensive" finding all stand — they are statements about the long end's ABSORPTION, which today was excellent. What changes is the ATTRIBUTION of today's move, not the structural read.** **⛔ AND IT MAKES THE FLIP-WATCH LADDER'S GATE 1 EVEN LESS INFORMATIVE: a 30Y dragged up by the front end is not the "sustained long-end stress" the gate was built to detect.**
+- 📌 **INSTRUMENT NOTE FOR THE STRIKE TESTS: today's 2Y move takes the 10Y to ~4.91 — **9bp from ZH's claimed "Bessent red line of 5.00%."** That line is now the live one and it is close.**
+**📌 REGISTERED:** ⛔ **today's move ATTRIBUTED TO POLICY, not supply — corrects the morning framing** · 📌 **the separation shape is a REGIME (2 observations: 8/28, 9/10)** · 📌 **gate 1 further weakened: a dragged 30Y is not long-end stress** · 🔴 **10Y ~4.91 = 9bp from the claimed 5.00 red line** · 🔴 **CPI 5:30am PT tomorrow is now the front-end event, not the long-end one.**

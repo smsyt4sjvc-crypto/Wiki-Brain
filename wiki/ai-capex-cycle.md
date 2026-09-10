@@ -3816,3 +3816,15 @@ denominator's health = the diversification that no longer exists).
 - **⛔ WHY NOT 6: the annualized burn is essentially unchanged (−$22.0B), the conversion horizon LENGTHENED to 22.4 years of OCI revenue, and the improvement is partly achieved by shifting funding onto a counterparty the vault's own compression work flags as deteriorating.**
 - 🔴 **SAME-DAY REVERSAL TRIGGERS — the 5:00pm ET call: (1) any calendar-2026 DEBT issuance, (2) the **$3.3B lessor guarantee maturing this month**, (3) customer-prepayment/customer-owned-GPU detail behind "how those contracts were structured," (4) any disclosure of the **NM Supreme Court stay on Jupiter (deadline Nov 23)**.**
 **📌 REGISTERED:** ✅ **ORCL 4→5** · ✅ **$20B of the raise was EQUITY, completed** · 📌 **NEW TRACKED RATIO: backlog per year of revenue (22.4y OCI / 8.6y total)** · ⭐ **$33.5B/GW corroborates $35B/GW from an unrelated source** · 📌 **cost-shifting instance #8, the largest** · 🔴 **the call, four named reversal triggers.**
+
+### Addendum 2026-09-10 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE LINE THE SUMMARY DID NOT CARRY: **ORACLE'S SOFTWARE REVENUE *MISSED* ($5.55B vs $5.67B) WHILE OCI *BEAT* ($7.39B vs $7.19B).** ⇒ THE VAULT'S SELLER-DENOMINATION AXIS JUST PRINTED **INSIDE A SINGLE COMPANY'S P&L, IN A SINGLE QUARTER** — WHICH CONTROLS FOR COMPANY, MANAGEMENT, MACRO AND PERIOD ALL AT ONCE.** *(ZH feed, Bloomberg-tagged consensus)* ⟲ **EXTENDS the 2:00pm entry.**
+| line | actual | est | surprise | denomination |
+|---|---|---|---|---|
+| **OCI / IaaS** | **$7.39B** | $7.19B | **+2.8%** | **COMPUTE** |
+| **Software** | **$5.55B** | $5.67B | **−2.1%** | **OUTCOME / SEAT** |
+| Total adj rev | $19.35B | $19.13B | +1.2% | — |
+- ⇒ **★★★★★★★ SAME COMPANY. SAME QUARTER. SAME SALESFORCE. SAME MACRO. **THE COMPUTE-DENOMINATED LINE BEAT AND THE SEAT/LICENCE-DENOMINATED LINE MISSED**, and the total beat only because the compute line carried it.** ⇒ **⇒ THIS IS THE STRONGEST TEST OF THE DENOMINATION AXIS THE VAULT HAS EVER HAD, BECAUSE EVERY CONFOUND IS HELD CONSTANT BY CONSTRUCTION.** *(Analysis.)*
+- ⇒ **✔ AND IT LANDS ON THE SAME DAY AS THE GVR CHART, WHICH SUPPOSEDLY SIZES THE OUTCOME/SEAT LEG AT A 45% CAGR. **ORACLE'S ACTUAL SEAT-DENOMINATED LINE SHRANK VERSUS EXPECTATIONS IN THE QUARTER.*** ⇒ **one is a modelled compounding formula; the other is a reported P&L line with a consensus attached. The vault weights the second.**
+- ⇒ **⛔ AND IT SHARPENS THE CONVERSION PROBLEM: with software missing, the **$664B RPO is even more concentrated in AI/OCI** than the headline implies — the diversifying leg is the one that underperformed.**
+- **✅ OFFICIAL CONFIRMATION of the line the 2:00pm counterparty-credit read was built on: *"ORACLE CONFIRMS NO INCREMENTAL IMPACT ON PLANS TO RAISE CAPITAL."* Also confirmed: adj rev $19.35B vs $19.13B est; 2Q guide +30-34%.**
+- **📌 GRADE: ORCL **HOLDS 5** — moved 20 minutes ago on the financing leg, and re-moving on a COMPONENT of the same event would repeat the OKLO error (*"I nearly downgraded on the same event twice"*). The software miss is filed as a FLAG on the row, not a move.** 🚩 **⬜ the ZH "ORCL Capex" chart image — not in hand.**
