@@ -39,7 +39,7 @@ the 20Y at 5.177 vs 30Y 5.184 is the max-sensitivity duration expression).** **8
 breakevens still anchored = REAL-yield/term-premium move again. ⚠️ THE CONTROL WEEK: buybacks not
 live until Sept 9 — the unadministered long end is printing the BEFORE leg of the experiment;
 5.25+ SUSTAINED through Sept 9 = the apparatus is too small. CONFIRMATION SEQUENCE adopted
-([[rates-board]] 8/31): 30Y >5.25-5.30 sustained → MOVE >85-90 → BBB >110-120 → HY >300 →
+([[rates-board]] 8/31; ⚠ GATE 1 RESTATED 9/10 — "30Y >5.25-5.30 sustained" is a SEAM on H.15 closes (8 crossings of 5.25 in 21 sessions, 14bp range); use TWO CONSECUTIVE H.15 DGS30 CLOSES ≥5.30, base rate 0 of 172 YTD; a gate must name its instrument — see [[rates-board]] 9/10 ~8:50am): 30Y >5.25-5.30 sustained → MOVE >85-90 → BBB >110-120 → HY >300 →
 new-issue concessions → a Level-2 name forced to add support. **CLOSE 8/31: the 30Y closed AT
 5.25 official (30Y REAL ~3%) — 9/1 OPEN: 5.274, gate 1 INSIDE the band on day 2; 10Y 4.79;
 UK 30Y gilt 5.9% (1998 high) extends the global ring; Aug IG FINAL $164B record, Sept cut to
