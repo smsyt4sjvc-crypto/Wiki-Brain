@@ -3242,3 +3242,41 @@ If IG repriced FIRST and Treasuries followed, **IG OAS must WIDEN (IG moving, US
 - ⇒ **⛔ SO EVERY BRENT NUMBER IN THE VAULT FROM 9/2 ONWARD IS SECONDARY — INCLUDING THE ONE I "CORRECTED" TO. Yesterday I flagged the $4 gap between *"Brent >$105"* (7:08am brief) and *"$101.21 Reuters settle"* (8:27am scan) and leaned toward Reuters. **THAT WAS ONE SECONDARY OVERRIDING ANOTHER, AND I PRESENTED IT AS A FIX.*** **Today's brief says $105.10 with ~$105.8 intraday.**
 - ⇒ **📌 HONEST STATUS: from $96.02 on 9/1, BOTH $101.2 (+5.4%) and $105.1 (+9.5%) are plausible over seven sessions with Hormuz plus a Mocha seizure. **NEITHER IS VERIFIED AND I CANNOT ARBITRATE THEM.** The vault should carry Brent as a RANGE, $101-106, with the last primary at $96.02/9-1, until a primary exists.** 🚩🚩 **⬜ A LIVE BRENT PRIMARY remains the vault's most-requested and least-obtained number — now standing 5+ days.**
 **📌 REGISTERED:** ✅ **buyback calendar PRIMARY archived; 8:50am held item CLOSED by dissolution** · 🚩🚩 **⬜ RECONCILE THE $6BN against a $2.0B cap** · 📌 **TEST RESTATED: the strike fires only on an OFF-CALENDAR 20-30Y operation or a Sept-24 upsize; the null is the base case** · 📌 **every buyback reference now carries BUCKET + CAP + TYPE** · 🔴 **13:00 ET $22B 30Y, then 13:40-14:00 ET $2.0B 10-20Y** · 🔴 **SEPT 24 = the next long-end operation, and now a dated event** · 🚩 **⬜ live Brent primary (5+ days standing).**
+
+## 2026-09-10 ~10:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE LIVE-FIRE DATE RESOLVES. $22B 30Y STOPS AT **5.308%** VS A **5.335%** WI — **2.7bp THROUGH, SECOND BIGGEST IN A DECADE.** THE LONG BOND CLEARED *ABOVE* RABOBANK'S 5.30% STRIKE AND IT CLEARED **STRONG.** ⇒ JAKE'S THESIS CONFIRMED A THIRD TIME AND ON THE HARDEST POINT OF THE CURVE — AND THE STRIKE HYPOTHESIS IS NOW DAMAGED FROM BOTH SIDES AT ONCE.** *(ZH @10:04am PT → `raw/2026-09-10-zh-30y-auction-result.png`)*
+
+### DATA — and the arithmetic checks
+- **High yield **5.308%** · WI **5.335%** · **stop through 2.7bp** (5.335−5.308 = 2.7 ✓) · "second biggest stop through in past decade."** ⚠️ **bid-to-cover, indirect share and dealer take-down NOT yet in hand.** 🚩 **⬜ the internals — yesterday's 10Y needed them to be read properly and this will too.**
+
+### ⛔ FIRST, THE INSTRUMENT RULE I ADOPTED 80 MINUTES AGO — APPLIED AGAINST MY OWN EXCITEMENT
+- **Gate 1 was restated at 8:50am as *"two consecutive H.15 `DGS30` CLOSES ≥5.30."* **AN AUCTION HIGH YIELD IS NOT THAT INSTRUMENT** — it is the clearing yield on one new issue at 13:00 ET, not a constant-maturity par close.**
+- ⇒ **⛔ **GATE 1 IS NOT FIRED BY THIS PRINT.** It is fired only if H.15 prints ≥5.30 today AND again tomorrow.** **Today would be observation **#2 of 2026** (after 8/17's 5.31) and the first back-to-back in 172 sessions.** 🔴 **CHECK H.15 TOMORROW — the whole restated gate turns on it.**
+- **📌 The rule earned its keep on the same morning it was written: a 5.308% headline is exactly the number that would have tripped a badly-instrumented gate.**
+
+### ⛔ SECOND, THE VAULT'S OWN BASELINE MISSED — RECORD IT BEFORE THE GOOD NEWS
+- **`forest.md:54` (9/3) pre-registered verbatim: *"baseline = a 5.25-5.30 range for Sept 10."*** ⇒ **THE AUCTION STOPPED AT 5.308% AND THE WI WAS 5.335% — BOTH ABOVE THE BOARD'S RANGE.** **The 30Y complex traded through the top of our baseline into the auction.** ⇒ **the board's level call was too low by ~1-3.5bp. Small in bp, but it is a MISS and it goes on the record next to the hits.**
+
+### ⚠️ THIRD, MY OWN 9/3 CAVEAT, HONORED RATHER THAN QUIETLY DROPPED
+- **`forest.md:54` also pre-registered: *"the Sept 10 live-fire test is now **CONFOUNDED BY DESIGN** — read the TAIL and concession **PER DOLLAR, size-adjusted**; **a stop on 12% less paper is a WEAKER result, not a stronger one**."*** **Treasury cut the 30Y $25B → $22B = **−12%**.**
+- ⇒ **✔ SO THE HONEST GRADE IS: A GENUINELY STRONG AUCTION, **SIZE-ADJUSTED SOMEWHAT LESS STRONG THAN "SECOND BIGGEST IN A DECADE" SOUNDS.** The decade comparison is across auctions of differing sizes and the vault should say so rather than quote the superlative bare.** **⇒ the board wrote the caveat seven days before the event and it applies against the result it wanted.**
+
+### ⭐⭐⭐ WHAT IS GENUINELY CONFIRMED — AND IT IS JAKE'S SENTENCE, NOW THREE FOR THREE
+- **Jake, 9/9: *"Supply and demand were neither the problem. It's that there ARE buyers and they're simply demanding a higher yield."***
+- **Wed 10Y: 1.5bp through, biggest since Apr-2025, decade-high bid-to-cover. Thu 30Y: 2.7bp through, second biggest in a decade — at a 19-year-high yield.** ⇒ **⇒ TWO AUCTIONS, TWO SESSIONS, BOTH STOPPING THROUGH BY DECADE-SCALE MARGINS, AT THE TWO POINTS ON THE CURVE THE FRAGILITY THESIS IS ABOUT.**
+- ⇒ **★★★★★★★ THE VAULT'S CENTRAL MACRO FINDING IS NOW CONFIRMED ON THE 30Y, THE HARDEST POINT TO CLEAR: **CAPITAL IS ABUNDANT AND EXPENSIVE, NOT SCARCE.** There is no buyers' strike. There is a REPRICING.** ⇒ **the fragility thread stays aimed at a DISCOUNT-RATE GRIND rather than a funding freeze — and today is the strongest evidence yet for that aim.** *(Analysis.)*
+
+### ⛔⛔ THE STRIKE TEST — DAMAGED FROM BOTH SIDES, BUT THE LOGIC MUST BE STATED PRECISELY
+- **PRE-AUCTION (9:20am, from Treasury's own calendar): today's buyback is **10Y-20Y, $2.0B**; the 20-30Y bucket is not touched until **Sept 24**.** ⇒ **Treasury is not buying the sector.**
+- **POST-AUCTION: the 30Y cleared **above** 5.30% and cleared **well**.** ⇒ **Treasury does not NEED to buy the sector.**
+- ⇒ **⛔ AND HERE IS THE DISTINCTION THE BOARD HAS BEEN CONFLATING, WHICH TODAY SEPARATES: **RABOBANK'S CLAIM HAS A LEVEL READING AND A DYSFUNCTION READING, AND THEY RESOLVE DIFFERENTLY.***
+  | reading | trigger | today | verdict |
+  |---|---|---|---|
+  | **LEVEL strike at 5.30%** | 30Y above 5.30 | **crossed, in the auction itself** | ⇒ **if Treasury stays quiet, FALSIFIED** |
+  | **DYSFUNCTION backstop** | a failing long-end auction | **did not occur — 2.7bp through** | ⇒ **NOT TESTED. The put was made irrelevant, not disproved** |
+- ⇒ **📌 SO THE CORRECT VERDICT IS SPLIT, AND I WILL NOT COLLAPSE IT INTO A HEADLINE: **the LEVEL reading is on the verge of falsification and the DYSFUNCTION reading is untouched.** My 8:10am *"ABSENCE IS ALSO EVIDENCE HERE"* holds ONLY for the level reading — absence is not evidence against a backstop whose trigger condition never arrived.** *(Analysis. This is the sharpest the board has been on Rabobank and it took the auction to see it.)*
+- 🔴 **REMAINING LIVE WINDOW TODAY: 13:40-14:00 ET, the $2.0B 10-20Y operation. An OFF-CALENDAR 20-30Y op, or any Treasury statement, still fires the level strike. Silence closes it.**
+
+### ⚠️ AND THE SECOND ITEM IN THE SAME POST — IT FEEDS THE OIL THREAD, NOT THE RATES ONE
+- **WSJ via ZH: *"Iran has resumed its production of ballistic missiles using stockpiled components and working in underground facilities, eroding what the U.S. and Israel have touted as a major achievement of the war."***
+- ⇒ **⭐ THE RELEVANCE IS TO THE RISK-PREMIUM DECAY ASSUMPTION, WHICH THE VAULT HAS NEVER STATED EXPLICITLY: a war premium decays only if the war's outcome degraded the capability. **This says it did not.*** ⇒ **the Hormuz/Bab el-Mandeb premium should be modelled as PERSISTENT rather than decaying — which matters directly for the Brent range the board is now carrying unverified ($101-106, last primary $96.02 on 9/1).** ⚠️ **Single outlet, WSJ-sourced, relayed by ZH — rule 9: one origin.** 🚩 **⬜ corroboration from a second independent outlet before this changes any oil assumption.**
+**📌 REGISTERED:** 🔴 **H.15 `DGS30` TOMORROW — decides whether gate 1's first-ever back-to-back ≥5.30 prints** · 🚩 **⬜ the 30Y auction INTERNALS (bid-to-cover, indirect, dealer)** · ⛔ **BASELINE MISS recorded: 5.25-5.30 pre-registered, 5.308 stop / 5.335 WI** · 📌 **size-adjust the superlative — 12% less paper** · 📌 **RABOBANK SPLIT INTO LEVEL vs DYSFUNCTION readings; level near-falsified, dysfunction untested** · 🔴 **13:40-14:00 ET $2.0B 10-20Y; Sept 24 = next long-end op** · 🚩 **⬜ Iran missile-production corroboration.**
