@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **908 dated entries · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 18:29 PDT**
+> **909 dated entries · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 18:52 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -928,6 +928,7 @@
 - `2026-09-09` **[1]** rates-board.md:L2887 — Addendum 2026-09-09 ~11:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **ALL FOUR REGISTERED INTERNALS ARRIVE AND THEY KILL MY OWN CAVEAT: **DEALERS TOOK 4.31%, THE LOWEST SINCE 
 - `2026-09-09` **[1]** rates-board.md:L2911 — 2026-09-09 ~2:05pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MONITOR SUPPLIES THE TWO DECOMPOSITIONS THE BOARD HAS BEEN MISSING, AND THEY POINT OPPOSITE WAYS. (1) THE 12-MO
 - `2026-09-09` **[1]** rates-board.md:L2931 — 2026-09-09 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE ASKS WHAT THE CTA CHARTS MEAN. THE ANSWER IS THAT THEY EXPOSE A HOLE IN THE THREE-CELL MATRIX I PRE-REGISTERED
+- `2026-09-09` **[1]** rates-board.md:L2956 — Addendum 2026-09-09 ~6:50pm PDT — 📖 **DEFINITION FILED, BECAUSE I USED THE TERM FOR A FULL ENTRY WITHOUT DEFINING IT AND JAKE HAD TO ASK. THE VAULT HA
 - `2026-09-09` **[3]** ai-financing-fragility.md:L7953 — 2026-09-09 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PERIMETER HOLE I FLAGGED LAST NIGHT CLOSES IN TWELVE HOURS, AND IT CLOSES IN THE WORST DIRECTION: THE GS ISSUANC
 - `2026-09-09` **[3]** ai-financing-fragility.md:L7969 — 2026-09-09 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT NOW HOLDS FOUR "PAYBACK PERIODS" FOR THE SAME ASSET CLASS SPANNING **ONE TO SEVEN YEARS** — A 7× RANGE — 
 - `2026-09-09` **[3]** ai-financing-fragility.md:L7991 — Addendum 2026-09-09 ~8:10am PDT — **QCOM GETS ITS GUIDANCE, AND IT REFRAMES THE VAULT'S OWN "~$6B/YR" — THE AVERAGE IS ROUGHLY RIGHT AND THE *PATH* IS

@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **410 dated entries across 3 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 18:29 PDT**
+> **411 dated entries across 3 notes · 2026-02-10 → 2026-09-09 · refreshed 2026-09-09 18:52 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -435,3 +435,4 @@
 - `2026-09-09` [rates-board.md:L2887](../rates-board.md) — Addendum 2026-09-09 ~11:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **ALL FOUR REGISTERED INTERNALS ARRIVE AND THEY KILL MY OWN CAVEAT: **DEALERS TOOK 4.31%, THE LOWEST SINCE 
 - `2026-09-09` [rates-board.md:L2911](../rates-board.md) — 2026-09-09 ~2:05pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MONITOR SUPPLIES THE TWO DECOMPOSITIONS THE BOARD HAS BEEN MISSING, AND THEY POINT OPPOSITE WAYS. (1) THE 12-MO
 - `2026-09-09` [rates-board.md:L2931](../rates-board.md) — 2026-09-09 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE ASKS WHAT THE CTA CHARTS MEAN. THE ANSWER IS THAT THEY EXPOSE A HOLE IN THE THREE-CELL MATRIX I PRE-REGISTERED
+- `2026-09-09` [rates-board.md:L2956](../rates-board.md) — Addendum 2026-09-09 ~6:50pm PDT — 📖 **DEFINITION FILED, BECAUSE I USED THE TERM FOR A FULL ENTRY WITHOUT DEFINING IT AND JAKE HAD TO ASK. THE VAULT HA
