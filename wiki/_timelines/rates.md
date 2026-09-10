@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **420 dated entries across 3 notes · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 08:31 PDT**
+> **421 dated entries across 3 notes · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -438,6 +438,7 @@
 - `2026-09-09` [rates-board.md:L2931](../rates-board.md) — 2026-09-09 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE ASKS WHAT THE CTA CHARTS MEAN. THE ANSWER IS THAT THEY EXPOSE A HOLE IN THE THREE-CELL MATRIX I PRE-REGISTERED
 - `2026-09-09` [rates-board.md:L2956](../rates-board.md) — Addendum 2026-09-09 ~6:50pm PDT — 📖 **DEFINITION FILED, BECAUSE I USED THE TERM FOR A FULL ENTRY WITHOUT DEFINING IT AND JAKE HAD TO ASK. THE VAULT HA
 - `2026-09-10` [market-fragility.md:L4591](../market-fragility.md) — 2026-09-10 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE DOT-COM RATES CLAIM SPLICES TWO DIFFERENT WINDOWS, AND CHECKING IT PRODUCED SOMETHING BETTER THAN THE DEBUNK: *
+- `2026-09-10` [market-fragility.md:L4624](../market-fragility.md) — 2026-09-10 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE AGENDA EXPLAINS THE WEEK, AND IT IS A CLASS-8 CATCH ON EVERYTHING BULLISH THE VAULT HAS FILED SINCE MONDAY: **TH
 - `2026-09-10` [new-economy-regime.md:L5003](../new-economy-regime.md) — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
 - `2026-09-10` [rates-board.md:L2967](../rates-board.md) — 2026-09-10 ~6:35am PDT — ⭐⭐⭐⭐⭐⭐ **AUGUST PPI: THE SOFT CORE IS PARTLY *MARGIN COMPRESSION*, NOT DISINFLATION — AND THE BLS'S OWN "EX TRADE MARGINS" SE
 - `2026-09-10` [rates-board.md:L2994](../rates-board.md) — Addendum 2026-09-10 ~6:45am PDT — ⛔⛔ **THE FULLER TABLE ARRIVES TEN MINUTES AFTER I FILED AND IT CORRECTS MY MARGIN-COMPRESSION READ. THE TRADE-MARGIN

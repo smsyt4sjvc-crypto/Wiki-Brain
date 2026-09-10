@@ -1,6 +1,6 @@
 # ⏱ MODEL-ECON — merged timeline (the gate)
 
-> **197 dated entries across 2 notes · 2026-07-16 → 2026-09-09 · refreshed 2026-09-10 08:31 PDT**
+> **198 dated entries across 2 notes · 2026-07-16 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -216,3 +216,4 @@
 - `2026-09-09` [compression-thesis.md:L3059](../compression-thesis.md) — 2026-09-09 ~9:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE US GOVERNMENT JUST TESTIFIED TO THIS FILE'S CENTRAL MECHANISM. FBI, NSA AND CISA *JOINTLY* ACCUSE DEEPSEEK, ALI
 - `2026-09-09` [compression-thesis.md:L3079](../compression-thesis.md) — 2026-09-09 ~9:35am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THIS FILE'S OWN CLASSIFICATION TABLE JUST GOT FALSIFIED BY THE TAPE. `:L2160` PUTS NEOCLOUDS IN A ROW LABELLED **"S
 - `2026-09-09` [compression-thesis.md:L3100](../compression-thesis.md) — Addendum 2026-09-09 ~9:50am PDT — ⚡ **THE POLICY OFF-SWITCH I NAMED 40 MINUTES AGO HAS A LEGISLATIVE VEHICLE AND A LAB TAKING SIDES: **AI OVERWATCH IS
+- `2026-09-10` [compression-thesis.md:L3107](../compression-thesis.md) — 2026-09-10 ~8:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BEST QUANTIFICATION OF TOKEN-PRICE COMPRESSION THIS FILE HAS EVER HAD: **A 159× PRICE RANGE ACROSS A 1.26× QUAL

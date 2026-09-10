@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **536 dated entries across 4 notes · 2026-05-22 → 2026-09-10 · refreshed 2026-09-10 08:31 PDT**
+> **537 dated entries across 4 notes · 2026-05-22 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -561,3 +561,4 @@
 - `2026-09-09` [compression-thesis.md:L3100](../compression-thesis.md) — Addendum 2026-09-09 ~9:50am PDT — ⚡ **THE POLICY OFF-SWITCH I NAMED 40 MINUTES AGO HAS A LEGISLATIVE VEHICLE AND A LAB TAKING SIDES: **AI OVERWATCH IS
 - `2026-09-10` [ai-capex-cycle.md:L3628](../ai-capex-cycle.md) — Addendum 2026-09-10 ~7:35am PDT — ✅ **THE PRE-REGISTERED TSMC TEST RESOLVES AND IT RESOLVES HARD: AUGUST +53.3% YoY AFTER JULY'S +44.7% — **TWO CONSEC
 - `2026-09-10` [ai-capex-cycle.md:L3637](../ai-capex-cycle.md) — Addendum 2026-09-10 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **AMAT'S BEST NUMBER IS NOT THE 40% — IT IS THAT **LEADING-EDGE WAFER STARTS HAVE GONE FROM 1 DATA-CENTRE : 4
+- `2026-09-10` [compression-thesis.md:L3107](../compression-thesis.md) — 2026-09-10 ~8:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BEST QUANTIFICATION OF TOKEN-PRICE COMPRESSION THIS FILE HAS EVER HAD: **A 159× PRICE RANGE ACROSS A 1.26× QUAL

@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **919 dated entries · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 08:31 PDT**
+> **920 dated entries · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -954,3 +954,4 @@
 - `2026-09-10` **[1]** new-economy-regime.md:L5003 — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
 - `2026-09-10` **[4]** ai-capex-cycle.md:L3628 — Addendum 2026-09-10 ~7:35am PDT — ✅ **THE PRE-REGISTERED TSMC TEST RESOLVES AND IT RESOLVES HARD: AUGUST +53.3% YoY AFTER JULY'S +44.7% — **TWO CONSEC
 - `2026-09-10` **[4]** ai-capex-cycle.md:L3637 — Addendum 2026-09-10 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **AMAT'S BEST NUMBER IS NOT THE 40% — IT IS THAT **LEADING-EDGE WAFER STARTS HAVE GONE FROM 1 DATA-CENTRE : 4
+- `2026-09-10` **[5]** compression-thesis.md:L3107 — 2026-09-10 ~8:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BEST QUANTIFICATION OF TOKEN-PRICE COMPRESSION THIS FILE HAS EVER HAD: **A 159× PRICE RANGE ACROSS A 1.26× QUAL

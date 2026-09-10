@@ -1,6 +1,6 @@
 # ⏱ FED — merged timeline (the gate)
 
-> **293 dated entries across 2 notes · 2026-06-30 → 2026-09-10 · refreshed 2026-09-10 08:31 PDT**
+> **294 dated entries across 2 notes · 2026-06-30 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -314,4 +314,5 @@
 - `2026-09-08` [new-economy-regime.md:L4986](../new-economy-regime.md) — 2026-09-08 ~11:00pm PDT — ⭐⭐⭐⭐ **DECOMPOSE THE GROUP MEAN, AGAIN, AND IT INVERTS THE STORY: 58% OF US WORKERS FEAR OBSOLESCENCE — BUT **74% OF TECHNOL
 - `2026-09-09` [market-fragility.md:L4573](../market-fragility.md) — 2026-09-09 ~7:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE REGISTERED TEST ARRIVES ONE DAY EARLY AND FROM AN UNEXPECTED NAME: SERVICETITAN BEAT ON REVENUE AND FELL **19%**
 - `2026-09-10` [market-fragility.md:L4591](../market-fragility.md) — 2026-09-10 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE DOT-COM RATES CLAIM SPLICES TWO DIFFERENT WINDOWS, AND CHECKING IT PRODUCED SOMETHING BETTER THAN THE DEBUNK: *
+- `2026-09-10` [market-fragility.md:L4624](../market-fragility.md) — 2026-09-10 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE AGENDA EXPLAINS THE WEEK, AND IT IS A CLASS-8 CATCH ON EVERYTHING BULLISH THE VAULT HAS FILED SINCE MONDAY: **TH
 - `2026-09-10` [new-economy-regime.md:L5003](../new-economy-regime.md) — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
