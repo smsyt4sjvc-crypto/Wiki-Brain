@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **910 dated entries · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 06:24 PDT**
+> **912 dated entries · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 06:27 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -945,3 +945,5 @@
 - `2026-09-09` **[5]** compression-thesis.md:L3079 — 2026-09-09 ~9:35am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THIS FILE'S OWN CLASSIFICATION TABLE JUST GOT FALSIFIED BY THE TAPE. `:L2160` PUTS NEOCLOUDS IN A ROW LABELLED **"S
 - `2026-09-09` **[5]** compression-thesis.md:L3100 — Addendum 2026-09-09 ~9:50am PDT — ⚡ **THE POLICY OFF-SWITCH I NAMED 40 MINUTES AGO HAS A LEGISLATIVE VEHICLE AND A LAB TAKING SIDES: **AI OVERWATCH IS
 - `2026-09-10` **[1]** rates-board.md:L2967 — 2026-09-10 ~6:35am PDT — ⭐⭐⭐⭐⭐⭐ **AUGUST PPI: THE SOFT CORE IS PARTLY *MARGIN COMPRESSION*, NOT DISINFLATION — AND THE BLS'S OWN "EX TRADE MARGINS" SE
+- `2026-09-10` **[1]** rates-board.md:L2994 — Addendum 2026-09-10 ~6:45am PDT — ⛔⛔ **THE FULLER TABLE ARRIVES TEN MINUTES AFTER I FILED AND IT CORRECTS MY MARGIN-COMPRESSION READ. THE TRADE-MARGIN
+- `2026-09-10` **[1]** new-economy-regime.md:L5003 — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
