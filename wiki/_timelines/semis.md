@@ -1,6 +1,6 @@
 # ⏱ SEMIS — merged timeline (the gate)
 
-> **77 dated entries across 2 notes · 2026-07-09 → 2026-09-09 · refreshed 2026-09-10 07:43 PDT**
+> **78 dated entries across 2 notes · 2026-07-09 → 2026-09-10 · refreshed 2026-09-10 07:47 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -96,3 +96,4 @@
 - `2026-09-07` [buildout-bottleneck-map.md:L1745](../buildout-bottleneck-map.md) — 2026-09-07 ~8:25am PDT — ⭐⭐⭐⭐ **EO 14420 RESTATED WITH ITS EQUIPMENT UNIVERSE AND ITS CLOCK: DOE HAS 120 DAYS FROM AUG 26 (→ ~DEC 24, INSIDE THE GRADE
 - `2026-09-08` [buildout-bottleneck-map.md:L1760](../buildout-bottleneck-map.md) — 2026-09-08 ~10:55pm PDT — **TWO SUPPLY-SIDE ITEMS FROM THE SAME FEED THAT POINT THE SAME WAY: CHINA PAUSES APPROVALS FOR NEW BATTERY-STORAGE PLANTS (O
 - `2026-09-09` [buildout-bottleneck-map.md:L1777](../buildout-bottleneck-map.md) — 2026-09-09 ~7:35am PDT — ⭐⭐⭐⭐⭐ **DO NOT ADD NAMEPLATE TO FIRM. ORACLE'S "2 GW RENEWABLE + 2.45 GW FUEL CELL" IS NOT 4.45 GW — AT THE EVENING PEAK IT I
+- `2026-09-10` [buildout-bottleneck-map.md:L1793](../buildout-bottleneck-map.md) — 2026-09-10 ~8:00am PDT — ⭐⭐⭐⭐⭐⭐⭐ **SEMIANALYSIS SIZES BEHIND-THE-METER AND HANDS THE BOARD THREE THINGS AT ONCE: **$150B OF OPENAI-ORACLE CONTRACTED S
