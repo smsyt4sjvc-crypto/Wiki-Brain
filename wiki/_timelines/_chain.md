@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **915 dated entries · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 07:38 PDT**
+> **917 dated entries · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 07:43 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -739,6 +739,7 @@
 - `2026-08-31` **[1]** rates-board.md:L1869 — DATA (Jake's brief, `raw/2026-08-31-global-bond-yields.txt`; source links per country in the raw file)
 - `2026-08-31` **[1]** rates-board.md:L1883 — Addendum 2026-08-31 ~7:12pm PDT — **THE CONFIRMATION SEQUENCE GAINS A GLOBAL RING (extends the adopted ladder — additions, not replacements):** alongs
 - `2026-08-31` **[1]** rates-board.md:L1886 — 2026-08-31 ~10:20pm PDT — ⭐⭐⭐⭐⭐ **DALLAS FED FORMALIZED THE DURATION COLLISION IN FEBRUARY (De Vere/Ramaswamy/Searls, Feb 10, 2026 — Jake's upload: "F
+- `2026-08-31` **[1]** rates-board.md:L3048 — ⛔ WHAT THE VAULT ALREADY HELD — `forest.md:60`, filed 2026-08-31 7:10pm
 - `2026-08-31` **[1]** new-economy-regime.md:L4572 — Addendum 2026-08-31 ~9:40am PDT — **THE INDUSTRY COUNTER-MOBILIZES (8/31 scan): a pro-AI advocacy group launches a $50M campaign starting in KANSAS, O
 - `2026-08-31` **[1]** new-economy-regime.md:L4574 — 2026-08-31 ~9:45am PDT — ⭐⭐⭐⭐ **BESSENT'S G20 (ZH fetch, Jake's pointer): "the world cannot have a China with a $1.2 TRILLION trade surplus" — G20 fin
 - `2026-08-31` **[1]** new-economy-regime.md:L4617 — Addendum 2026-08-31 ~9:50am PDT — ⟲⭐⭐⭐⭐ **JAKE'S STANDING CALL, CREDITED (pre-repo, ~January): he read the TWO-OCEAN CHINA SQUEEZE at the time of the 
@@ -948,5 +949,6 @@
 - `2026-09-10` **[1]** rates-board.md:L2994 — Addendum 2026-09-10 ~6:45am PDT — ⛔⛔ **THE FULLER TABLE ARRIVES TEN MINUTES AFTER I FILED AND IT CORRECTS MY MARGIN-COMPRESSION READ. THE TRADE-MARGIN
 - `2026-09-10` **[1]** rates-board.md:L3009 — Addendum 2026-09-10 ~7:30am PDT — **THE OPEN: 10Y ~4.91%, HIKE ODDS 62% → 74% IN A SESSION, AND **THE ECB HIKED** — WHICH IS THE ITEM THAT CHALLENGES 
 - `2026-09-10` **[1]** rates-board.md:L3018 — 2026-09-10 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE SAYS THE SELLOFF IS GLOBAL. I SAID I HAD NO INSTRUMENT; I FOUND ONE. THE ANSWER **DEPENDS ENTIRELY ON THE WIND
+- `2026-09-10` **[1]** rates-board.md:L3047 — Addendum 2026-09-10 ~7:55am PDT — ⛔⛔⛔ **JAKE: "WE HAVE IT HERE… WE'VE GONE OVER IT." HE IS RIGHT AND IT IS THE FOURTH RULE-21 FAILURE IN TWO DAYS. THE
 - `2026-09-10` **[1]** new-economy-regime.md:L5003 — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
 - `2026-09-10` **[4]** ai-capex-cycle.md:L3628 — Addendum 2026-09-10 ~7:35am PDT — ✅ **THE PRE-REGISTERED TSMC TEST RESOLVES AND IT RESOLVES HARD: AUGUST +53.3% YoY AFTER JULY'S +44.7% — **TWO CONSEC
