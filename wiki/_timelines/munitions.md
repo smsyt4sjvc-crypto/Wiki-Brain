@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **259 dated entries across 2 notes · 2026-05-22 → 2026-09-10 · refreshed 2026-09-10 08:23 PDT**
+> **260 dated entries across 2 notes · 2026-05-22 → 2026-09-10 · refreshed 2026-09-10 08:31 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -283,4 +283,5 @@
 - `2026-09-09` [ai-capex-cycle.md:L3598](../ai-capex-cycle.md) — 2026-09-09 ~9:20am PDT — ⭐⭐⭐⭐⭐⭐ **$75B OF ORACLE'S $638B RPO IS "PREPAID *OR* CUSTOMER-SUPPLIED GPU HARDWARE" — 11.8% OF THE BACKLOG — AND THOSE TWO T
 - `2026-09-09` [ai-capex-cycle.md:L3619](../ai-capex-cycle.md) — Addendum 2026-09-09 ~9:55am PDT — **AMD'S REAL NUMBER IS NOT THE TAM, IT IS **$29-30B OF PURCHASE COMMITMENTS — 41-43% OF ITS OWN 2027 DATA-CENTRE TAR
 - `2026-09-10` [ai-capex-cycle.md:L3628](../ai-capex-cycle.md) — Addendum 2026-09-10 ~7:35am PDT — ✅ **THE PRE-REGISTERED TSMC TEST RESOLVES AND IT RESOLVES HARD: AUGUST +53.3% YoY AFTER JULY'S +44.7% — **TWO CONSEC
+- `2026-09-10` [ai-capex-cycle.md:L3637](../ai-capex-cycle.md) — Addendum 2026-09-10 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **AMAT'S BEST NUMBER IS NOT THE 40% — IT IS THAT **LEADING-EDGE WAFER STARTS HAVE GONE FROM 1 DATA-CENTRE : 4
 - `2026-09-10` [war-board.md:L4761](../war/war-board.md) — 2026-09-10 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐⭐ **I WENT TO DEBUNK RYSTAD'S ~2 mb/d HORMUZ NUMBER AS INCONSISTENT WITH $105 BRENT. THE VAULT ALREADY HELD "HORMUZ RUN

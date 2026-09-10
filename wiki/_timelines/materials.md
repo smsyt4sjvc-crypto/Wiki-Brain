@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **210 dated entries across 3 notes · 2026-07-09 → 2026-09-10 · refreshed 2026-09-10 08:23 PDT**
+> **211 dated entries across 3 notes · 2026-07-09 → 2026-09-10 · refreshed 2026-09-10 08:31 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -228,4 +228,5 @@
 - `2026-09-09` [physical-ai-hardware-stack.md:L143](../physical-ai-hardware-stack.md) — 2026-09-09 ~10:05am PDT — **FOUR ROSTER EVENTS IN ONE SCAN, THREE ON UNGRADED NAMES — AND THE MOST INTERESTING IS THE ONE THAT CUTS *AGAINST* THE DATA
 - `2026-09-10` [buildout-bottleneck-map.md:L1793](../buildout-bottleneck-map.md) — 2026-09-10 ~8:00am PDT — ⭐⭐⭐⭐⭐⭐⭐ **SEMIANALYSIS SIZES BEHIND-THE-METER AND HANDS THE BOARD THREE THINGS AT ONCE: **$150B OF OPENAI-ORACLE CONTRACTED S
 - `2026-09-10` [buildout-bottleneck-map.md:L1817](../buildout-bottleneck-map.md) — Addendum 2026-09-10 ~8:35am PDT — ⛔⛔ **I READ ONE FIFTH OF THAT PIECE AND FILED ON IT. THE REST CONTAINS THE SINGLE MOST DATED, BINARY ITEM ON ORACLE 
+- `2026-09-10` [buildout-bottleneck-map.md:L1845](../buildout-bottleneck-map.md) — Addendum 2026-09-10 ~8:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE SCAN AND THE SEMIANALYSIS PIECE LANDED IN THE SAME HOUR AND NEITHER SOURCE HAS THE OTHER. PUT THEM TOG
 - `2026-09-10` [war-board.md:L4761](../war/war-board.md) — 2026-09-10 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐⭐ **I WENT TO DEBUNK RYSTAD'S ~2 mb/d HORMUZ NUMBER AS INCONSISTENT WITH $105 BRENT. THE VAULT ALREADY HELD "HORMUZ RUN

@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **918 dated entries · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 08:23 PDT**
+> **919 dated entries · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 08:31 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -953,3 +953,4 @@
 - `2026-09-10` **[1]** rates-board.md:L3066 — 2026-09-10 ~8:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **RABOBANK SUPPLIES THE PIECE THE BOARD HAS BEEN MISSING ALL WEEK — AND IT *COMPETES* WITH A CAUSAL STORY THE VAULT A
 - `2026-09-10` **[1]** new-economy-regime.md:L5003 — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
 - `2026-09-10` **[4]** ai-capex-cycle.md:L3628 — Addendum 2026-09-10 ~7:35am PDT — ✅ **THE PRE-REGISTERED TSMC TEST RESOLVES AND IT RESOLVES HARD: AUGUST +53.3% YoY AFTER JULY'S +44.7% — **TWO CONSEC
+- `2026-09-10` **[4]** ai-capex-cycle.md:L3637 — Addendum 2026-09-10 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **AMAT'S BEST NUMBER IS NOT THE 40% — IT IS THAT **LEADING-EDGE WAFER STARTS HAVE GONE FROM 1 DATA-CENTRE : 4
