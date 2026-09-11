@@ -391,3 +391,38 @@ The gap-to-consensus is the weak version because the mean is outlier-dragged. **
 - ⬜ **the drift column is monthly snapshots of a CHANGING analyst panel** (EQT's n moved 20→22→19 across the year), so month-to-month moves like BE 290→206→275 are partly panel turnover, not revisions. **The 12-month endpoints are usable; the path is not.**
 
 **📌 REGISTERED:** ⛔⛔⛔ **MY 2:35pm IV TABLE PUBLISHED THE FORWARD AS THE SPOT — all seven breakevens were 8-15pp TOO LOW; EQT's bar is +62.6% not +54.3%, MU's +158% not +144%** · ✔ **the ORDER is unchanged and every ranking conclusion survives; the first-passage work is scale-invariant and untouched** · ⛔ **my dividend guess was backwards — TLN pays no dividend and had the LARGEST bias; noticing a discrepancy is not diagnosing it** · ⭐⭐ **Jake's reframe is a genuine method upgrade: start from the market's forward number, not from the vault's thesis** · ⛔ **QCOM's 118% "variance" is ONE analyst (cons at 19% of band) — discard; ORCL's 100.3% is REAL (43% of band, n=28)** · ★★★★★ **THE REFINERS ARE THE ONLY NEGATIVE GAPS ON THE BOARD (PBF −18.4 · DINO −14.0 · VLO −12.9 · MPC −11.9 · PSX −6.2), PBF is 1/7/3 buy-hold-sell, and the "stale analyst" rebuttal FAILS because the street RAISED PBF's target +138% in 12 months and price still outran it — fully independent corroboration of the 99.4th-percentile call from an instrument sharing no input** · ⛔ **refiner flag hardens ⚠️→⛔: next refiner move should be a TRIM, not an add — no grade cut, 16c(c)** · ⭐⭐⭐⭐ **TLN now condemned by THREE independent instruments (breakeven, OI, disp/IV 0.61) — the most secure conclusion in the LEAPS thread — while simultaneously needing +29% to reach its most bearish target, which is the stock-vs-option split, not a contradiction** · ⛔ **instruments SPLIT on EQT: disp/IV 1.10 favours it, but it is one of only two finalists whose spot has already cleared the street's floor** · ⛔ **disp/IV is a RANK, NOT A LEVEL — analyst sigma ≈ range/3.7 and a target is a conditional mean; do not quote the level** · ⚠️ **CVX/XOM have the tightest dispersion on the board — for options that is a warning, not comfort** · ⭐ **WMB sits below all 17 targets with the 8th-tightest dispersion — crowding, not edge, but it keeps 🚩 WMB as the next piece** · ⬜ **target staleness per name; the drift PATH is panel-contaminated (endpoints only).**
+
+## 2026-09-11 ~3:58pm PDT — ⛔ **JAKE CORRECTS THE INSTRUMENT: *"I meant just issues price distance from guidance."*** ⇒ **HE ASKED FOR ONE COLUMN AND I BUILT THREE. THE STRAIGHT SCREEN IS BELOW — AND IT HAS A ZERO LINE THAT IS NOT ZERO.** ⟲ **REPLACES the 3:55pm dispersion framing as the ANSWER (the dispersion work stands on its own; it was not what was asked).**
+
+- ⛔ **MY ERROR WAS SEMANTIC AND IT COST A WHOLE PASS: I read "variance" as *disagreement among analysts* when he meant **variance between price and guidance.** The word was ambiguous; **the sentence was not** — *"forward 12 mo guidance and current price deviations"* names the two terms and the operation. **I had the right data in the first pull and answered a question he did not ask.** 📌 **rule 20 failure in a new place: I decomposed the QUESTION before checking I had parsed the SENTENCE.**
+
+### ⇒ THE SCREEN — spot vs consensus 12-month target, 40 names
+**⛔ THE ZERO LINE IS +24.4%, NOT 0%.** The median gap across the 40 is **+24.4%** and only **6 of 40** trade above consensus. **Sell-side targets carry a structural upward bias** (of ~827 ratings on this board, ~640 buy / 179 hold / **8 sell**). ⇒ **a name at +25% is not cheap. It is AVERAGE. The usable number is the gap MINUS the median.**
+
+| | **gap** | **vs median** | B/H/S | |
+|---|---|---|---|---|
+| **CRDO** | +76.2% | **+51.8pp** | 13/1/0 | |
+| **IREN** | +72.4% | **+48.0pp** | 7/2/1 | ⚠️ the 1 sell |
+| **ORCL** | +72.1% | **+47.7pp** | 24/4/0 | **n=28, targets $145→$400** |
+| **MU** | +60.4% | **+36.1pp** | 28/1/0 | |
+| GFS | +57.4% | +33.0pp | 7/8/0 | ⚠️ more holds than buys |
+| CRWV | +55.8% | +31.4pp | 15/5/1 | |
+| **VST** | +49.9% | **+25.6pp** | **16/0/0** | |
+| NVDA | +48.5% | +24.1pp | **30/0/0** | |
+| TLN · BWXT · HWM | +47.6 / +47.4 / +47.2% | +23pp | | |
+| MP +44.9 · AVGO +43.6 · GEV +33.5 · EXE +32.0 · VRT +31.4 | | +19 to +7pp | | |
+| *— the median, +24.4% —* | | **0** | | |
+| AR +27.0 · MRVL +26.8 · **TSM +26.7** · **EQT +25.5** | | **+1 to +3pp** | | **indistinguishable from the board** |
+| NEE · **CEG +22.6** · PWR · **WMB +19.2** · ETN · LNG +14.3 | | −1 to −10pp | | |
+| QCOM +12.2 · OXY +8.2 · **VG +7.5** · **COP +7.0** · DELL +5.4 | | −12 to −19pp | | |
+| **CVX +3.0** · **XOM +1.4** · PARR +0.2 · BE −0.1 | | −21 to −24pp | | |
+| **PSX −6.2 · MPC −11.9 · VLO −12.9 · DINO −14.0 · PBF −18.4** | | **−30 to −43pp** | PBF **1/7/3** | **the only negatives** |
+
+### ⇒ WHAT THE STRAIGHT COLUMN SAYS THAT THE DISPERSION WORK DID NOT
+- ⛔⛔ **THE LEAPS FINALISTS ARE ALL AT OR BELOW THE MEDIAN: TSM +2.3pp · EQT +1.2pp · CEG −1.8pp · GEV +9.1pp.** ⇒ **on the single instrument Jake actually asked for, FOUR OF THE SIX ARE INDISTINGUISHABLE FROM THE AVERAGE NAME ON THE BOARD.** **Only VST (+25.6pp) and MU (+36.1pp) carry an above-median gap — and MU is the one I took OFF for a +158% breakeven.** 📌 **the street sees no unusual upside in the list I built.**
+- ⭐⭐ **THE THREE LARGEST GAPS ARE NOT ENERGY AND NOT ON THE LEAPS LIST: CRDO +51.8pp, IREN +48.0pp, ORCL +47.7pp.** ⇒ **all three are AI-INFRASTRUCTURE, i.e. the exact bet Jake said he did NOT want** (*"constrained regardless of US data centers"*). **The screen's top is the opposite of his premise, and that is a real finding, not a reason to ignore it.**
+- ⚠️ **AND A GAP IS NOT AN EDGE — IT IS A DISAGREEMENT, AND THE STREET IS THE SIDE THAT MOVES.** A +72% gap on ORCL means either the price is wrong or **28 analysts are about to cut.** ⇒ **the drift column says which way they have been moving, and on ORCL it is +12.5% over 12 months — the SLOWEST revision on the whole board bar MP (+3.3%).** ⛔ **a huge gap with a flat revision trend is a STALE target set, not an opportunity.** *(Contrast CRDO +133% drift, IREN +186% — those targets are live.)*
+- ✔ **THE REFINER RESULT IS UNCHANGED AND IT IS THE ONLY PART OF THE 3:55pm ENTRY THAT WAS ALREADY ANSWERING THIS QUESTION**: five names, the only negative gaps of 40, −30 to −43pp below the median, PBF 1/7/3. **⛔→ TRIM, not add.** Already flagged on the ledger rows.
+- ⬜ **WHAT I STILL CANNOT TELL YOU: the DATE of any target.** ORCL's flat drift is circumstantial evidence of staleness, not proof. 🚩 **⬜ per-name target dates — no keyless route found.**
+
+**📌 REGISTERED:** ⛔ **I answered the wrong question — "variance" = price-vs-guidance, not analyst disagreement; the sentence was unambiguous even though the word was** · ⛔⛔ **THE ZERO LINE IS +24.4% (median of 40), only 6 of 40 above consensus, 8 sells in ~827 ratings ⇒ a +25% gap is AVERAGE, not cheap** · ⛔⛔ **FOUR OF SIX LEAPS FINALISTS SIT WITHIN ±2pp OF THE MEDIAN — the street sees no unusual upside in the list I built; only VST (+25.6pp) and MU (+36.1pp) stand out and MU is already off** · ⭐⭐ **the three largest gaps — CRDO +51.8 · IREN +48.0 · ORCL +47.7 — are all AI-infrastructure, i.e. exactly the bet Jake said he did not want** · ⛔ **a gap is a DISAGREEMENT and the street moves too: ORCL's +72% gap comes with the slowest 12-month revision on the board (+12.5%) = a STALE target set, while CRDO (+133%) and IREN (+186%) are live** · ✔ **refiners unchanged: only negatives, −30 to −43pp below median, PBF 1/7/3, TRIM not add** · ⬜ **per-name target dates.**
