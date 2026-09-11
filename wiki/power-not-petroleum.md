@@ -501,3 +501,38 @@ context not established. Rung: REPORTED.**
    "end reliance by 2027-01-01" policy target that such a meeting would test.**
 3. 🚩 **CARRIED from `:L449`: the coal retirement schedule (EIA-860M).** Still the load-bearing fetch.
 **Links:** [[power-scarcity-equities]] · [[buildout-bottleneck-map]] · [[transmission-chain]] · [[nuclear]]
+
+## 2026-09-10 ~6:30pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **TWO RESERVE MAPS, ONE FINDING: **NOTHING THIS VAULT TRACKED TODAY IS A GEOLOGY PROBLEM.** THE US HOLDS THE WORLD'S LARGEST COAL RESERVE (~248 BILLION TONNES) AND IS CHOOSING NOT TO BURN IT; VENEZUELA HOLDS THE WORLD'S LARGEST OIL RESERVE (~303 BILLION BARRELS) AND CANNOT SELL IT. ⇒ **THE VAULT'S POWER-SCARCITY THESIS SITS ON TOP OF THE LARGEST FOSSIL RESERVE ON EARTH, WHICH MEANS ITS DOMINANT RISK IS POLITICAL REVERSAL, NOT DEPLETION.*** *(IEA/Barclays via Worldometers → `raw/2026-09-10-barclays-oil-coal-reserves-maps.png`)* ⟲ **EXTENDS `:L476-484`.**
+
+### DATA — read off the legends, not the shading
+- **OIL (2025): scale tops at **303,008,000,000 barrels** and **VENEZUELA is rendered at the maximum.** Saudi, Canada dark; US/Russia/Iran mid.**
+- **COAL (2023): scale tops at **247,882,705,205 metric tons** and **THE US is rendered at the maximum.** Russia, China, Australia dark; India mid.**
+- ⚠️ **SOURCE IS WORLDOMETERS — a secondary aggregator, not BP/EI or the EIA. 🚩 ⬜ both figures against a primary.**
+
+### ⛔ CHOROPLETH DISCIPLINE, BECAUSE THESE ARE WEAK INSTRUMENTS AND THE VAULT HAS BEEN BURNED BY CHARTS TODAY
+1. **A choropleth colours a COUNTRY, so LAND AREA drives perception.** Russia, Canada and the US look consequential partly because they are large on the projection.
+2. **A linear scale from ~0 to the maximum renders everything outside the top three or four identically pale. The map cannot separate #5 from #50** — it is a ranking device for the leaders and nothing else.
+3. **⛔⛔ AND THE LOAD-BEARING ONE (rule 21b): **"RESERVES IN BARRELS" CONFLATES QUALITY.** Venezuela's ~303bn is overwhelmingly **ORINOCO EXTRA-HEAVY** — it requires upgrading and coking and is economically marginal at many prices. **IT IS NOT INTERCHANGEABLE WITH 300bn BARRELS OF LIGHT SWEET.***
+   - ⇒ **✅ AND THE VAULT ALREADY KNOWS THIS, WHICH IS WHY THE REFINERY BASKET EXISTS: *"PBF — Chalmette built for Venezuelan heavy = most direct feedstock beneficiary"* and *"more heavy crude arriving into a system with no spare conversion capacity WIDENS the crude-to-product spread the basket earns."*** ⇒ **⇒ THE DARKEST COUNTRY ON THE OIL MAP IS DARK *BECAUSE OF A QUALITY THE MAP CANNOT SHOW*, AND THAT QUALITY IS THE REFINERY BASKET'S ENTIRE MOAT.**
+4. **Coal reserves likewise blend anthracite, bituminous and lignite — very different energy content per tonne.** And "reserves" is an accounting category with a long history of political inflation.
+⇒ **📌 NEITHER MAP IS A SUPPLY FORECAST. Each says WHERE THE GEOLOGY IS. Every binding constraint the vault holds is somewhere else in the chain.**
+
+### ★★★ THE COAL MAP SUPPLIES THE DENOMINATOR THIS FILE'S OWN THREAD WAS MISSING
+- **`:L480` already holds the sharp version: *"Trump's object is **SITING**. The MAHA letter's object is **FUEL**. **A world where data centres are sited freely AND coal stays foreclosed is fully consistent, and it is the WORST case for the power constraint: demand permitted, cheap supply denied.**"***
+- ⇒ **⭐⭐⭐ THE MAP NOW SIZES WHAT IS BEING FORECLOSED: **THE SINGLE LARGEST COAL RESERVE ON EARTH, INSIDE THE COUNTRY DOING THE BUILDOUT.*** ⇒ **⇒ US POWER SCARCITY FOR AI IS NOT A RESOURCE CONDITION. IT IS A POLICY CONDITION SITTING ON ~248 BILLION TONNES.**
+- ⇒ **⛔⛔ AND THAT IS A GRADE-RELEVANT RISK THE BOARD HAS NOT PRICED: the deliverable-MW scarcity premium (VST/CEG/TLN 7 · GEV 7 · ETN 7 · PWR 7 · VRT 7) rests on cheap supply staying denied. **A POLICY REVERSAL UNLOCKS 248 Bt ON A TIMESCALE OF MONTHS, NOT THE DECADE A BUILD WOULD TAKE.*** ⇒ **the scarcity trade's dominant risk is a permission change, not a demand miss.** 🚩 **AND THE VAULT'S OWN LOAD-BEARING FETCH IS STILL OPEN: `:L502` — **the coal retirement schedule (EIA-860M)** — which is precisely the instrument that would measure how fast a reversal could bite.** *(Analysis. No grade moves on a map.)*
+
+### ⇒ THE UNIFYING READ — AND IT REFRAMES EVERY ENERGY ENTRY FILED TODAY
+| today's constraint | is it geology? |
+|---|---|
+| Hormuz at ~11%, bilateral interdiction | **no — access** |
+| Bab-el-Mandeb, IRGC-directed | **no — permission** |
+| Ras Laffan struck, Qatar force majeure | **no — physical damage + contract** |
+| TTF at a YTD high, EU storage lowest since 2011 | **no — transport + a filling calendar** |
+| Pakistan's blackouts | **no — price auction for re-routed cargoes** |
+| US datacentre power scarcity | **no — policy, atop the world's largest coal reserve** |
+- ⇒ **★★★★★★★ **NOT ONE OF THEM IS A RESERVES PROBLEM.** They are ACCESS, TRANSPORT, CONVERSION and PERMISSION problems.** ⇒ **⇒ AND THOSE REVERSE ON **POLITICAL** TIMESCALES — MONTHS — NOT GEOLOGICAL ONES.**
+- ⇒ **📌 THEREFORE THE ENERGY BOOK'S DOMINANT RISK IS **POLITICAL REVERSAL**, NOT DEPLETION. That is the sharpened form of this afternoon's refiner argument: I held VLO/MPC at 9 on a 99.4th-percentile crack proxy calling it REVERSION RISK — **the mechanism of that reversion now has a name, and it is a policy decision in Caracas, Washington or Tehran, any one of which can move faster than any physical constraint in the chain.***
+- **✔ AND IT IS CONSISTENT WITH THE NOVEMBER CLUSTER: Trump's *"war ends right after the midterms,"* the Venezuela stake, the IAEA referral — **every named catalyst on the energy boards is a POLITICAL date, not a production date.** The vault built that calendar without noticing what it was made of.**
+**📌 REGISTERED:** ⭐ **coal map sizes `:L480`'s foreclosure — ~248 Bt, the largest on earth, in the buildout country** · ⛔ **the MW-scarcity premium's dominant risk is a PERMISSION change, not a demand miss** · 🚩 **`:L502` EIA-860M coal retirement schedule — still the load-bearing fetch, now with a reason** · 📌 **reserve maps conflate QUALITY; Venezuela's heavy is the refinery basket's moat** · 🚩 **⬜ both reserve figures against a primary (Worldometers is an aggregator)** · ★ **the energy book's dominant risk is political reversal, not depletion.**
+**Links:** [[oil-value-chain]] · [[demand-destruction]] · [[nuclear]] · [[europe-energy-crunch]] · [[grades]]
