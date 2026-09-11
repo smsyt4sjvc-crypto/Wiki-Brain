@@ -141,3 +141,36 @@ _Note created 2026-08-18, closing the TTF/European-gas gap registered at `war-bo
 **No moves on one incident with no damage.** **📌 DIRECTION: raises the European energy tail without changing any name today. LNG 6 hold — a threat to RUSSIAN supply is structurally POSITIVE for US LNG exporters, and that is the cleanest read-through here.** ⚠️ **⬜ whether any US exporter has spare uncontracted volume to capture it — the vault filed on 9/7 that the export book is largely long-term contracted, which caps the upside.**
 **📌 REGISTERED:** 🚩 **a SECOND strike on Russian LNG or export infrastructure — one is an incident, two is a campaign** · ⬜ **Yamal's exact EU share and contract structure** · ⬜ **EU storage today (standing 🔴 from 9/7, GIE key)** · ⬜ TTF forward curve vs the €80 spike (is the winter priced or just the spot?) · **LNG/CQP uncontracted volume.**
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[war/war-board]] · [[power-not-petroleum]]
+
+## 2026-09-10 ~6:00pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **TTF PRINTS ITS YTD HIGH ON THE DAY — 82.047 €/MWh, A TRIPLE OFF THE JANUARY LOW. ⛔ THE "12.2×" DOES NOT CHECK ON MY PRIMARIES (I GET **9.94×**) — BUT THE DECOMPOSITION IS WORTH MORE THAN THE RATIO: **THE ENTIRE MOVE IS THE EUROPEAN LEG. HENRY HUB IS FLAT AT −0.4% YTD.** THAT IS THIS MORNING'S "LANDLOCKED" FINDING PROVEN AT ITS EXTREME.** *(Bloomberg TTF YTD → `raw/2026-09-10-bloomberg-ttf-ytd.png`; HH = EIA/FRED `DHHNGSP`; FX = FRED `DEXUSEU`)*
+
+### DATA — chart, read off its own header
+- **Last **82.047** · **High on 09/10/26 = 82.047** (⇒ TODAY IS THE YTD HIGH) · Average 47.935 · Low **27.399 on 01/05/26**. Daily, 12/31/25 → 09/10/26, "Local CCY."**
+- **The curve steps discretely from ~32 to ~54 in late Feb / early March — a GAP, not a grind — then ranges ~40-62 through June, then accelerates from July into a near-vertical final leg.** ⬜ **what the late-Feb gap was; it is the single largest one-move on the chart and the vault should name it.**
+
+### ⛔ THE RATIO CLAIM, CHECKED — PERIMETERS FIRST (rule 21b)
+- **TTF is **EUR per MWh**. Henry Hub is **USD per MMBtu**. Two units AND two currencies ⇒ no ratio exists until both are converted. 1 MWh = 3.412 MMBtu; FX = `DEXUSEU` 1.1618 (9/4).**
+- **82.047 €/MWh ÷ 3.412 = 24.05 €/MMBtu × 1.1618 = **$27.94/MMBtu**. ÷ HH **$2.81 (9/9)** = **9.94×.***
+- ⇒ **⛔ THE CLAIM IS **12.2×**. MINE IS **9.94×** — the claim sits **18.5% higher**, and 12.2× requires a US benchmark of **$2.29/MMBtu**, which the spot series does not contain anywhere this year (its 2026 range is roughly $2.70-3.10).**
+- ⇒ **📌 I CANNOT RECONCILE IT AND I AM NOT QUOTING IT. Candidate explanations, none verified: a FUTURES strip rather than spot · a different European benchmark (delivered LNG / JKM / a German industrial tariff) · a different FX or conversion.** 🚩 **⬜ which US benchmark the 12.2× uses — one line would settle it.**
+- ⇒ **✔ AND THE HONEST PART: **THE DIRECTION AND THE ORDER OF MAGNITUDE BOTH HOLD.** 9.94× or 12.2×, it is an enormous and widening spread, and the finding below does not depend on which.** *(Same discipline as today's Brent problem: the level is contested, the direction is not.)*
+
+### ⭐⭐⭐ THE DECOMPOSITION — AND IT IS THE ENTRY
+| | 2026-01-05 | 2026-09-10 | Δ |
+|---|---|---|---|
+| TTF | 27.40 €/MWh | **82.05** | **+199.5%** |
+| TTF in USD | $9.41/MMBtu | **$27.94** | **+197.0%** |
+| **Henry Hub** | **$2.82** | **$2.81** | **−0.4%** ← |
+| **RATIO** | **3.34×** | **9.94×** | **+198.0%** |
+| spread | $6.59/MMBtu | **$25.13** | |
+- ⇒ **★★★★★★★ **OF A 198% MOVE IN THE RATIO, THE AMERICAN LEG CONTRIBUTED MINUS NOUGHT-POINT-FOUR PERCENT.** The European price tripled; the US price did not move.** ⇒ **⇒ THIS IS NOT "EUROPEANS PAY MORE THAN AMERICANS." IT IS **TWO MARKETS THAT ARE NOT CONNECTED**, observed for nine months.** *(Analysis.)*
+- ⇒ **✔✔ AND IT IS THIS MORNING'S FINDING AT ITS LIMIT (`buildout-bottleneck-map` 10:50am): *"US gas is LANDLOCKED — it connects to global LNG ONLY through liquefaction, which is FIXED in the short run. A global LNG shock cannot reach Henry Hub through spot. There is no spare train to load."*** ⇒ **⛔ A **$25/MMBtu** ARBITRAGE THAT PERSISTS FOR NINE MONTHS WITHOUT MOVING THE US PRICE **ONE CENT** IS THE CLEANEST PROOF OF THAT CLAIM AVAILABLE. If spare liquefaction existed, this spread would be closing. It is widening.**
+
+### ⇒ THREE JOINS TO TODAY'S OWN WORK, AND THEY ALL TIGHTEN
+1. **QATAR (10:50am).** **Qatar is buying US LNG into a market where delivered European gas is ~10× the US wellhead.** ⇒ **the economics are overwhelming, which is exactly why a LONG-TERM SPA gets signed and why new liquefaction gets FID'd — and new liquefaction is the ONLY mechanism that ever transmits this spread to Henry Hub.** ✔ **the "slow, contractual, multi-year re-rating, not a spike" call is unchanged and better supported.**
+2. **⭐⭐ GOOGLE / LOVIISA (9:25am) GETS ITS ECONOMIC REASON.** **At ~$27.94/MMBtu delivered, **EUROPEAN DATACENTRES HAVE NO GAS OPTION AT ALL.*** ⇒ **⇒ THAT IS WHY GOOGLE SIGNED **22 YEARS OF EXISTING NUCLEAR** RATHER THAN BUILDING GENERATION: in Europe the choice is not gas-vs-nuclear on cost, it is nuclear or nothing.** **✔ and it explains the REASSIGNMENT shape the vault flagged — with no gas option, the only fast route to European AI power is to take someone else's existing electrons.**
+3. **LNG (Cheniere) — THE GRADE'S OWN TRIGGER IS HALF-FIRED.** Its row names the upgrade path as ***"a large UNCONTRACTED share into an OCT-NOV TTF SPIKE."*** ⇒ **⛔ THE SPIKE IS HERE AND IT IS **EARLY — SEPTEMBER, NOT OCT-NOV.** But **⬜ uncontracted % REMAINS UNKNOWN**, and under FOB tolling the contracted base is *"indifferent to TTF."*** ⇒ **📌 HALF THE CONDITION IS MET AND THE OTHER HALF IS UNMEASURED, SO THE GRADE CANNOT MOVE.** **⇒ ⬜ CHENIERE'S UNCONTRACTED SHARE IS NOW THE SINGLE HIGHEST-VALUE UNKNOWN ON THE ROSTER — it is the difference between LNG 6 and a materially higher number, and it is a disclosed figure.** 🚩🚩
+
+### GRADES (16c) → [[grades]] — **LNG HOLDS 6** (trigger half-fired, ⬜ uncontracted %) · **no other roster name moves.** **⚠️ The European industrial read — at 10× US gas, energy-intensive EU manufacturing is uncompetitive — is a STATE this file already carries, not a new event.**
+**📌 REGISTERED:** ⛔ **"12.2×" NOT REPRODUCIBLE — I get 9.94×; do not quote theirs** · 🚩 **⬜ which US benchmark the 12.2× uses** · ⭐ **the ratio move is 100% European; HH −0.4% YTD = the landlocked claim proven** · 🚩🚩 **⬜ CHENIERE UNCONTRACTED % — highest-value unknown on the roster** · ⬜ **the late-Feb step change in TTF, unnamed** · 📌 **no European gas option ⇒ the Loviisa nuclear PPA's economic reason.**
+**Links:** [[buildout-bottleneck-map]] · [[nuclear]] · [[demand-destruction]] · [[grades]]
