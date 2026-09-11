@@ -169,3 +169,39 @@ it moves names' grades through entries, and lives on [[rates-board]]/[[forest]].
 - **🚩🚩 **THE VAULT HOLDS NO OPTIONS DATA. NO IMPLIED VOL, NO SKEW, NO TERM STRUCTURE, NO OPEN INTEREST.** ⇒ **RECOMMENDING A LEAPS WITHOUT IV IS LIKE RECOMMENDING A BOND WITHOUT THE YIELD** — every name above could be the right thesis at an unpayable premium, and I cannot tell you which.** ⇒ **📌 THE RANKING ABOVE IS A **THESIS** RANKING, NOT A **TRADE** RANKING, and the gap between them is exactly the option's price.** **⬜ THIS IS THE SINGLE HIGHEST-VALUE GAP FOR THE QUESTION HE ACTUALLY ASKED.**
 - **⚠️ AND ONE CLAUSE ON THE RULE, SINCE HE WROTE IT: 16c(c) exists because *"predicting anything any further out in this environment is a mistake."* **This answer is given at 4× that horizon at his request; the ledger's numbers do not vouch for it and I am not pretending they do.***
 **📌 REGISTERED:** ★ **LEAPS FIVE: EQT · GEV · VST/CEG/TLN · TSM · MU — a THESIS ranking** · ⛔ **the ledger INVERTS at this horizon: VLO/MPC 9s are the worst candidates on it** · ⭐ **the horizon ACTIVATES dismissed disconfirmers — GEV's casting flag is the proof, and every "beyond-window" note in this file must be re-opened** · ⛔ **TWO BETS, FIVE TICKERS** · 🚩🚩 **⬜ NO IV/SKEW/TERM STRUCTURE — thesis ranking ≠ trade ranking.**
+
+## 2026-09-11 ~2:35pm PDT — ✅⭐⭐⭐⭐⭐⭐⭐ **IV PULLED (Jake's ask) — THE ⬜ I NAMED TEN MINUTES AGO AS *"THE SINGLE HIGHEST-VALUE GAP"* IS **CLOSED**. CBOE DELAYED QUOTES, KEYLESS, AND **`280121` IS A LIVE EXPIRY.** ⇒ **THE TRADE RANKING AGREES WITH THE THESIS RANKING AT THE TOP AND DESTROYS IT AT THE BOTTOM: MU NEEDS +143.6% TO BREAK EVEN AND COMES OFF THE LIST.*** *(CBOE `cdn.cboe.com/api/global/delayed_quotes/options/{T}.json`, stamped 2026-09-11 21:27:20; Jan-21-2028 = **497 days out**)*
+
+### DATA — Jan-2028 chain, 25-delta call, live
+| | spot | **Jan-28 ATM IV** | ~30d ATM | **term** | 25Δ strike | mid | **cost %spot** | **BREAKEVEN** | Jan-28 OI |
+|---|---|---|---|---|---|---|---|---|---|
+| **EQT** | 56.95 | **36.0%** ← cheapest | 32.1% | +12% | 85 | 2.90 | **5.1%** | **+54.3%** ← lowest bar | 36,150 |
+| **TSM** | 456.73 | **39.7%** | 30.5% | **+30%** ← steepest | 680 | 28.15 | 6.2% | **+55.0%** | 89,538 |
+| **CEG** | 300.13 | **45.7%** | 40.7% | +12% | 520 | 18.65 | 6.2% | +79.5% | 17,929 |
+| VST | 156.28 | 49.0% | 43.3% | +13% | 280 | 10.00 | 6.4% | +85.6% | 23,849 |
+| GEV | 1008.32 | 51.2% | 41.3% | +24% | 1760 | 72.90 | 7.2% | +81.8% | **11,943** ← thin |
+| TLN | 331.01 | 57.2% | 52.8% | +8% | 640 | 20.70 | 6.3% | **+99.6%** | **9,004** ← thinnest |
+| **MU** | 1033.86 | **63.6%** ← dearest | 63.0% | **+1%** | 2440 | 77.97 | **7.5%** | **+143.6%** | 168,988 |
+- **⛔ METHOD NOTE, BECAUSE I GOT IT WRONG ON THE FIRST PASS: my initial term-structure column used **TODAY'S EXPIRY (260911)** as "front" and printed IVs of 180-305%. **Same-day options have near-zero time value, so IV explodes — it was an ARTIFACT, not a signal.** Rebuilt against the first expiry ≥21 DTE. *(Exactly the class of chart error I catch in other people's data.)*
+
+### ★★★★★★★ WHAT IT CHANGES — AND IT CHANGES THE LIST
+1. **✅ **EQT IS #1 ON BOTH RANKINGS.** Cheapest IV (36.0%), cheapest cost (5.1% of spot), **lowest breakeven on the board (+54.3%).** ⇒ **the rare case where the best idea is also the cheapest to express** — and it is the name I graded **6** because 16c(c) could not reward it.**
+2. **⛔⛔ **MU COMES OFF.** 63.6% IV, the dearest premium, and a 25-delta that needs **+143.6% BY JANUARY 2028 TO BREAK EVEN** — on a shortage **already 8 months old** in a famously cyclical market. ⇒ **that is not a thesis expression, it is a lottery ticket, and my own #5 ranking already flagged the innings problem.** **📌 I am NOT back-filling the slot: FOUR is the honest number (16c(e) — do not manufacture).**
+3. **⭐⭐ **WITHIN THE NUCLEAR TRIO THE MARKET PICKS FOR YOU, AND IT IS NOT THE ONE I NAMED FIRST: CEG 45.7% / +79.5% vs VST 49.0% / +85.6% vs TLN 57.2% / +99.6%.** ⇒ **CEG IS THE CHEAPEST EXPRESSION OF AN IDENTICAL THESIS.** **TLN IS DOMINATED ON EVERY AXIS — highest breakeven, near-highest IV, thinnest OI (9,004). DROP IT.** ⇒ **I wrote "VST/CEG/TLN" as one line; the chain says that was lazy and it costs ~20pp of breakeven.**
+4. **⚠️ TSM CARRIES THE STEEPEST TERM PREMIUM (+30% Jan-28 over 30-day).** Its ATM IV is second-cheapest in absolute terms but **you are paying the most for TIME specifically** — the market prices TSM's 16-month uncertainty well above its 1-month. **Still #2 on breakeven (+55.0%), so it survives, but the premium is for the horizon, not the name.**
+5. **⚠️ GEV IS THE LIQUIDITY PROBLEM: 11,943 OI across the ENTIRE Jan-28 expiry, 7.2% of spot, +81.8% breakeven.** The thesis is the strongest structurally (**backlog sold out through 2030 — it outlives the option**) and it is the **2nd-dearest and 2nd-thinnest.** ⇒ **conviction is high and the execution is poor; that gap is what the option charges you.**
+
+### ⇒ THE REVISED LIST — **FOUR**, RANKED BY TRADE RATHER THAN THESIS
+| # | name | thesis rank | why it survives the chain |
+|---|---|---|---|
+| **1** | **EQT** | 1 | cheapest IV **and** lowest breakeven. Both rankings agree |
+| **2** | **TSM** | 4 | +55.0% breakeven, deep liquidity (89,538) — ⚠️ paying for the horizon (+30% term) |
+| **3** | **CEG** | 3 | the trio's cheapest door; +79.5% |
+| **4** | **GEV** | 2 | best structural thesis, worst execution — thin and dear |
+| ~~5~~ | ~~MU~~ | 5 | ⛔ **+143.6% breakeven. OFF.** |
+- **📌 THE CORRELATION WARNING FROM 2:25pm STANDS AND TIGHTENS: #1 and #3 are still the same Henry Hub bet; #2 and #4 are the AI buildout. **FOUR TICKERS, TWO BETS.**
+
+### 🚩 THE GAP THAT REMAINS, NAMED HONESTLY
+- **I have **CROSS-SECTIONAL** IV — which name is dear relative to the others, today. **I DO NOT HAVE TIME-SERIES IV: no IV RANK, no IV PERCENTILE.*** ⇒ **⛔ I cannot tell you whether EQT at 36.0% is CHEAP FOR EQT or merely cheap for the group.** A name can be the cheapest on the board and still sit at the 90th percentile of its own history. 🚩 **⬜ 52-week IV rank per name — the last piece, and it is the difference between "cheapest here" and "cheap."**
+- ⚠️ **Delayed quotes, not live. Mids on wide LEAPS spreads overstate fillability — the 25Δ bid/ask on an 11,943-OI name is not the price you get.**
+**📌 REGISTERED:** ✅ **the 2:25pm ⬜ CLOSED — CBOE works, keyless, `280121` live** · ⛔ **MU OFF: +143.6% breakeven, 8 months into a cyclical shortage** · ⭐ **CEG replaces "VST/CEG/TLN" — ~20pp cheaper breakeven than TLN for the same thesis** · ✅ **EQT is #1 on BOTH rankings** · ⚠️ **TSM's premium is for the HORIZON (+30% term), not the name** · ⚠️ **GEV: best thesis, thinnest book** · 🚩 **⬜ IV RANK/PERCENTILE — cross-sectional ≠ historical** · ⛔ **my first term-structure pass used today's expiry and printed 305% IV — artifact, rebuilt.**
