@@ -3343,3 +3343,52 @@ If IG repriced FIRST and Treasuries followed, **IG OAS must WIDEN (IG moving, US
 - **⚠️ WHAT THIS DOES **NOT** OVERTURN: the 25-year-high LEVEL, the record-low dealer take-down, and the "abundant and expensive" finding all stand — they are statements about the long end's ABSORPTION, which today was excellent. What changes is the ATTRIBUTION of today's move, not the structural read.** **⛔ AND IT MAKES THE FLIP-WATCH LADDER'S GATE 1 EVEN LESS INFORMATIVE: a 30Y dragged up by the front end is not the "sustained long-end stress" the gate was built to detect.**
 - 📌 **INSTRUMENT NOTE FOR THE STRIKE TESTS: today's 2Y move takes the 10Y to ~4.91 — **9bp from ZH's claimed "Bessent red line of 5.00%."** That line is now the live one and it is close.**
 **📌 REGISTERED:** ⛔ **today's move ATTRIBUTED TO POLICY, not supply — corrects the morning framing** · 📌 **the separation shape is a REGIME (2 observations: 8/28, 9/10)** · 📌 **gate 1 further weakened: a dragged 30Y is not long-end stress** · 🔴 **10Y ~4.91 = 9bp from the claimed 5.00 red line** · 🔴 **CPI 5:30am PT tomorrow is now the front-end event, not the long-end one.**
+
+## 2026-09-11 ~6:40am PDT — ⭐⭐⭐⭐⭐⭐⭐ **AUGUST CPI. ⛔ "INFLATION ACCELERATED" IS TRUE OF THE MONTHLY AND **FALSE OF THE ANNUAL** — HEADLINE y/y UNCHANGED AT 3.4%, **CORE y/y FELL 2.5 → 2.4.** AND THE PRE-REGISTERED PPI-CPI WEDGE **FIRED, WIDER: 1.3pp → 2.0pp IN ONE MONTH.** ⇒ THE PIPELINE IS FILLING FASTER THAN IT DRAINS, AND THE ABSORPTION IS CONCENTRATED IN **CORE**, NOT ENERGY.** *(BLS via Jake)*
+
+### ✅ THE PRE-REGISTERED TEST, RESOLVED — AND I HAD THE BASELINE WRONG YESTERDAY
+- **Yesterday: *"PRE-REGISTERED FOR TOMORROW: the August PPI-minus-CPI headline wedge… WIDER than 2.0pp = the pipeline fills faster than it drains. NARROWER = pass-through is happening and margins get relief."***
+- ⇒ **⛔ MY BASELINE WAS MIS-SPECIFIED: I compared **Aug PPI to JULY CPI** (2.0pp) and called that the benchmark. **THE CLEAN TEST IS SAME-MONTH-BOTH-SIDES, AND THE VAULT HELD JULY'S PAIR ALL ALONG (CPI 3.4 / PPI 4.7).***
+  | | PPI y/y | CPI y/y | **wedge** |
+  |---|---|---|---|
+  | **JULY** | 4.7% | 3.4% | **1.3pp** |
+  | **AUGUST** | 5.4% | 3.4% | **2.0pp** |
+- ⇒ **★★★★★★ **THE WEDGE WIDENED +0.7pp IN A SINGLE MONTH.** THE TEST FIRED, AND IT FIRED WIDER.** ⇒ **⇒ THE PRODUCER PIPELINE IS FILLING FASTER THAN IT DRAINS. More consumer inflation is in transit REGARDLESS of what energy does from here** — which is the 9/10 *"more retail diesel inflation is coming MECHANICALLY"* call, now confirmed at the index level.
+
+### ⛔ THE FRAMING ERROR THAT WILL DOMINATE TODAY'S COVERAGE — MONTHLY vs ANNUAL (rule 21b)
+| | July | Aug | |
+|---|---|---|---|
+| headline m/m | 0.1 | **0.4** | **accelerated** |
+| core m/m | 0.2 | **0.3** | accelerated |
+| **headline y/y** | 3.4 | **3.4** | **UNCHANGED** |
+| **core y/y** | 2.5 | **2.4** | ⬇ **FELL** |
+- ⇒ **⛔ *"AUGUST INFLATION ACCELERATED"* IS A STATEMENT ABOUT THE **MONTHLY** RATE. **ON THE ANNUAL RATES NOTHING ACCELERATED AND CORE DECELERATED.*** ⇒ **two different perimeters, opposite signs, and the monthly is the noisier one.** **📌 The Fed targets the annual. The tape trades the monthly.**
+
+### ⭐⭐ WHERE THE 0.4 ACTUALLY CAME FROM — AND IT IS NOT WHAT THE ENERGY THREAD WOULD PREDICT
+- **headline 0.4 − core 0.3 = **0.1pp** from food+energy, and groceries printed **0.0%** ⇒ essentially all of that 0.1 is energy.**
+- ⇒ **⇒ **0.3 OF THE 0.4 IS CORE.** THE ACCELERATION IS NOT PRIMARILY AN ENERGY EVENT** — despite energy +2.1% m/m and **+16.3% y/y.** ⇒ **⛔ THIS CUTS AGAINST MY OWN ENERGY FRAMING FROM LAST NIGHT AND I AM RECORDING IT AS SUCH.**
+- **⚠️ AND THE LARGEST SINGLE CONTRIBUTOR IS SUSPECT: **CELLPHONE SERVICE +5.9% m/m, and Jake flags it as NOT SEASONALLY ADJUSTED.** A 5.9% monthly move on an unadjusted series is a repricing or an artifact, not a trend. **Flagged, not weighted.***
+
+### ⭐⭐⭐ THE MARGIN FINDING SHARPENS — THE SQUEEZE IS IN **CORE**, NOT ENERGY
+| wedge | | |
+|---|---|---|
+| headline | 5.4 − 3.4 | **2.0pp** |
+| **core** | 4.6 − 2.4 | **2.2pp** |
+| **core ex-trade-margins** | 4.7 − 2.4 | **2.3pp** |
+- ⇒ **★★★★★★ **THE CORE WEDGE IS WIDER THAN THE HEADLINE WEDGE.** ⇒ **PRODUCERS ARE PASSING THROUGH ENERGY AND ABSORBING CORE.*** ⇒ **that is the 9/10 margin-compression finding located precisely: the compression is NOT a general phenomenon, it is concentrated in the core basket, and the energy line is being handed straight to the consumer.** *(Analysis.)*
+
+### ⭐⭐ TWO COMPONENT LINES THAT CONFIRM YESTERDAY'S ENERGY WORK FROM THE OFFICIAL INDEX
+1. **FUEL OIL +10.1% m/m — THE DISTILLATE THESIS ARRIVING IN CPI.** Against PPI diesel **+24.1%**, that is **42% of the wholesale move passing through in ONE MONTH** — and **2.1× the pace of EIA retail diesel (+4.7% in Aug).** ⇒ **✔ the pass-through is running FASTER in the consumer index than the retail-diesel series implied.** ⚠️ **small weight (~0.1% of CPI) — it is a CONFIRMATION, not a contributor.**
+2. **⭐⭐⭐ ELECTRICITY −0.2% AND NATURAL GAS SERVICE −1.1% — THE LANDLOCKED FINDING, PRINTING IN THE OFFICIAL CONSUMER INDEX.** ⇒ **⇒ IN A MONTH WHEN TTF HIT A YTD HIGH, EU STORAGE SAT AT A 2011 LOW AND DIESEL MADE AN ALL-TIME HIGH, **THE US CONSUMER'S HOME-HEATING AND POWER BILLS *FELL*.*** ⇒ **that is yesterday's dispersion call — *"not energy, but distillate and seaborne LNG"* — confirmed by BLS, from a completely independent direction.** **✔ And it is the AI power-cost thread too: electricity −0.2% m/m says datacentre demand is NOT yet visible in consumer power prices.**
+
+### ⛔ SHELTER — I THINK JAKE'S READ INVERTS, AND THE VAULT HAS THE REASON
+- **His read: *"Shelter's acceleration also matters because it accounts for roughly 35% of CPI."* Shelter printed **+0.3% m/m, +3.0% y/y.***
+- ⇒ **⛔ BUT SHELTER CPI LAGS MARKET RENTS BY ROUGHLY A YEAR, AND YESTERDAY'S HOUSING PRINT IS THE LEADING EDGE: **existing-home sales 3.98M (first sub-4M since Jun-2025) · inventory 4.9 months, the highest in over a decade · median price +1.6% y/y.*** ⇒ **⇒ SHELTER AT +3.0% y/y IS A **LAGGING** SERIES SITTING ON TOP OF A TRANSACTION MARKET THAT IS COLLAPSING AND A PRICE SERIES RUNNING AT +1.6%.**
+- ⇒ **★★★ **AT A ~35% WEIGHT, SHELTER IS THEREFORE THE LARGEST *DISINFLATIONARY* FORCE STILL IN THE PIPE, NOT AN INFLATIONARY ONE.** The weight he correctly identifies is the reason it matters — but the SIGN runs the other way.** *(Analysis — and it is the one place I disagree with his read.)*
+
+### ⇒ THE FED READ, AND IT IS GENUINELY AMBIGUOUS
+- **FOR a hike: monthly headline and core both accelerated; energy +16.3% y/y; the wedge widening means more is in transit; hike odds were already ~74% after PPI.**
+- **AGAINST: **core y/y FELL**, headline y/y flat, core goods **+0.7% y/y** (essentially no goods inflation), groceries 0.0%, and the largest single monthly contributor is an **unadjusted** cellphone line.**
+- ⇒ **📌 THE PRINT DOES NOT SETTLE SEPT 16. The disagreement will live exactly on the monthly/annual perimeter, and whichever side a desk needs is available in the same release.**
+- 🔴 **UMICH 7:00am PT — 20 MINUTES. MY PRE-REGISTRATION STANDS FROM LAST NIGHT: I LOWERED the expectation of a spike in 5-10Y inflation expectations, because consumers see GASOLINE (+3.9% m/m but 17% below its record) and NOT diesel. **CPI gasoline +3.9% is a real pump move and is the main risk to that call.** If expectations jump, I said the driver would not be the pump — I now have to allow that it might be.**
+**📌 REGISTERED:** ✅ **WEDGE TEST FIRED WIDER (1.3 → 2.0pp) — pipeline filling faster than it drains** · ⛔ **my baseline was mis-specified yesterday; the clean pair was on file** · ★ **CORE wedge (2.2pp) > HEADLINE wedge (2.0pp) ⇒ producers pass through energy, absorb core** · ⭐ **electricity −0.2% and nat-gas service −1.1% = the landlocked call confirmed by BLS** · ⛔ **shelter's SIGN inverts Jake's read — largest disinflationary force in the pipe** · ⚠️ **cellphone +5.9% is UNADJUSTED — flagged, not weighted** · 🔴 **UMich in 20 minutes; gasoline +3.9% is the risk to my pre-registration.**
