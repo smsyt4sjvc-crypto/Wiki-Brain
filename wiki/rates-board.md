@@ -3392,3 +3392,41 @@ If IG repriced FIRST and Treasuries followed, **IG OAS must WIDEN (IG moving, US
 - ⇒ **📌 THE PRINT DOES NOT SETTLE SEPT 16. The disagreement will live exactly on the monthly/annual perimeter, and whichever side a desk needs is available in the same release.**
 - 🔴 **UMICH 7:00am PT — 20 MINUTES. MY PRE-REGISTRATION STANDS FROM LAST NIGHT: I LOWERED the expectation of a spike in 5-10Y inflation expectations, because consumers see GASOLINE (+3.9% m/m but 17% below its record) and NOT diesel. **CPI gasoline +3.9% is a real pump move and is the main risk to that call.** If expectations jump, I said the driver would not be the pump — I now have to allow that it might be.**
 **📌 REGISTERED:** ✅ **WEDGE TEST FIRED WIDER (1.3 → 2.0pp) — pipeline filling faster than it drains** · ⛔ **my baseline was mis-specified yesterday; the clean pair was on file** · ★ **CORE wedge (2.2pp) > HEADLINE wedge (2.0pp) ⇒ producers pass through energy, absorb core** · ⭐ **electricity −0.2% and nat-gas service −1.1% = the landlocked call confirmed by BLS** · ⛔ **shelter's SIGN inverts Jake's read — largest disinflationary force in the pipe** · ⚠️ **cellphone +5.9% is UNADJUSTED — flagged, not weighted** · 🔴 **UMich in 20 minutes; gasoline +3.9% is the risk to my pre-registration.**
+
+## 2026-09-11 ~7:25am PDT — ⛔⭐⭐⭐⭐⭐⭐ **UMICH 47.8 (exp 51.0) — THE SECOND-LOWEST READING IN **675 MONTHS**. ⛔ MY PRE-REGISTRATION RESOLVES **SPLIT, AND THE HALF I GOT WRONG IS A PERIMETER ERROR OF MY OWN: I USED A *LEVEL* TO FORECAST A RESPONSE TO A *CHANGE*.** AND THE MISS IS **ENTIRELY IN EXPECTATIONS** — CURRENT CONDITIONS MISSED BY 0.4, EXPECTATIONS BY 5.2.** *(UMich prelim Sept, via Jake; history from FRED `UMCSENT`)*
+
+### ⛔ GRADING MY OWN CALL — SPLIT, AND THE ERROR IS NAMED
+- **Last night I wrote: *"I am LOWERING the expectation that UMich inflation expectations spike tomorrow… if 5-10Y expectations jump, the driver is NOT the pump."* At 6:40am I flagged my own risk: *"CPI gasoline +3.9% is a real pump move and is the main risk to that call."***
+  | horizon | actual | exp | |
+  |---|---|---|---|
+  | **1-Year** | **4.6%** | 4.2% | **+0.4 — SPIKED** |
+  | **5-10 Year** | **3.4%** | 3.3% | **+0.1 — essentially in line** |
+- ⇒ **✔ RIGHT ON THE HORIZON I NAMED (5-10Y held). ⛔ WRONG ON THE ONE THAT CARRIES THE HEADLINE (1Y spiked).**
+- ⇒ **⛔⛔ AND THE ERROR IS PRECISE AND IT IS MINE: **MY MECHANISM WAS CORRECT — consumers see gasoline, and gasoline moved +3.9%. MY INFERENCE WAS WRONG — I CONCLUDED THAT BECAUSE GASOLINE SITS 17% BELOW ITS RECORD, EXPECTATIONS WOULD NOT RESPOND.** ⇒ **I USED THE *LEVEL* TO FORECAST A RESPONSE TO THE *CHANGE*. CONSUMERS PRICE THE DELTA AT THE PUMP, NOT THE DISTANCE FROM A 2022 PEAK.*** **📌 RULE 21(b), POINTED INWARD: a level and a change are different perimeters, and a forecast must use the one the respondent actually experiences.**
+
+### ⭐⭐⭐ THE HORIZON SPLIT IS THE FINDING, AND IT IS CONSTRUCTIVE
+- **1Y **4.6%** vs 5-10Y **3.4%** ⇒ a **1.2pp spread.***
+- ⇒ **★★★★★★ **NEAR-TERM EXPECTATIONS SPIKE WHILE LONG-TERM STAY ANCHORED IS THE TEXTBOOK SIGNATURE OF A SUPPLY SHOCK THAT CONSUMERS BELIEVE IS TEMPORARY.*** ⇒ **✔ THE ANCHOR HELD — and that is the leg that matters for the Fed.** **This is the vault's "real but transitory" read, which already carries four instruments (NY Fed expectations · UMich · the inverted breakeven curve · services PPI); UMich just confirmed the anchoring leg while the pump leg did exactly what a pump leg does.**
+
+### ⛔⛔ THE MISS IS ENTIRELY IN EXPECTATIONS — 13× THE CURRENT-CONDITIONS MISS
+| | actual | exp | miss |
+|---|---|---|---|
+| Headline | 47.8 | 51.0 | −3.2 |
+| **Current Conditions** | **50.9** | 51.3 | **−0.4** |
+| **Expectations** | **45.8** | 51.0 | **−5.2** |
+- ⇒ **⇒ **CONSUMERS SAY THEIR SITUATION *NOW* IS ROUGHLY AS EXPECTED AND THEIR VIEW OF THE *FUTURE* COLLAPSED.***
+- ⇒ **★★★ AND THE VAULT NOW HAS THIS SHAPE IN **TWO INDEPENDENT SURVEYS**: the ETS survey (**74% of tech workers fearing obsolescence**) against **initial claims 206k and a 1.2% insured unemployment rate** — filed 9/10 as *"FEAR IS HIGH AND SEPARATIONS ARE AT GENERATIONAL LOWS."*** ⇒ **⇒ **EXPECTATIONS COLLAPSING WHILE CURRENT AND HARD DATA HOLD IS NOW A PATTERN, NOT AN INSTANCE.*** **📌 And the vault's own caveat governs both: *"the survey is evidence about EXPECTATIONS, not about the labour market."***
+
+### ⚠️ THE HISTORICAL PERIMETER — AND IT CUTS AGAINST READING THIS AS A COLLAPSE
+- **FRED `UMCSENT`, **675 months back to 1952**: only **ONE** month has EVER printed below 47.8.**
+- **⛔ AND THAT MONTH WAS **MAY 2026 — FOUR MONTHS AGO, at 44.8.** The all-time low is not 2022; **it is this year.***
+- **The path: Feb 56.6 → Mar 53.3 → Apr 49.8 → **MAY 44.8 (ALL-TIME LOW)** → Jun 49.5 → **Jul 55.2** → [Aug n/a] → **Sept prelim 47.8.***
+- ⇒ **⇒ **+23% OFF THE ALL-TIME LOW IN TWO MONTHS, THEN −13% BACK.** THIS SERIES IS NOT IN A SECULAR COLLAPSE — IT IS **OSCILLATING VIOLENTLY AT HISTORICALLY DEPRESSED LEVELS.***
+- ⇒ **📌 MY OWN RULE FROM THIS WEEK APPLIES: *on a series whose range is a large fraction of its level, only the multi-week average is a datum.* **A 23% round trip in four months means ONE PRELIMINARY PRINT IS NOT A DATUM** — and preliminaries get revised.** ⚠️ **PERIMETER: FRED's last observation is JULY (55.2). I do not hold August, so the 55.2 → 47.8 comparison skips a month.** 🚩 **⬜ the August final.**
+
+### ⇒ THE FED READ — THE MESSIEST INPUT SET OF THE CYCLE
+- **HAWKISH: monthly CPI accelerated (0.4/0.3) · energy +16.3% y/y · the PPI-CPI wedge widened 1.3 → 2.0pp · **1Y expectations 4.6%.***
+- **DOVISH: **core CPI y/y FELL 2.5 → 2.4** · headline y/y flat · core goods +0.7% y/y · groceries 0.0% · **sentiment at the 2nd-lowest print in 675 months** · **5-10Y expectations ANCHORED.***
+- ⇒ **📌 **THIS IS A STAGFLATIONARY *SURVEY* SITTING ON TOP OF BENIGN *HARD* DATA** — worse growth expectations and higher near-term inflation expectations, against claims at 206k and core annual inflation falling.** ⇒ **⇒ SEPT 16 IS NOT SETTLED BY EITHER PRINT, AND BOTH SIDES OF THE ARGUMENT ARE AVAILABLE IN THIS MORNING'S TWO RELEASES.**
+- **⭐ AND THE CONSUMPTION READ, WHICH IS WHERE THIS REACHES THE BOOK: **expectations at 45.8 with current conditions at 50.9 is a consumer who is FINE NOW AND EXPECTS NOT TO BE.** That is the precondition for precautionary saving — and it lands on a month when existing-home sales printed 3.98M, the first sub-4M since June 2025.** ⇒ **the demand-destruction file gains a second, survey-side instrument alongside Pakistan's rationing.**
+**📌 REGISTERED:** ⛔ **MY CALL SPLIT: right on 5-10Y (named), wrong on 1Y — and the error was using a LEVEL to forecast a response to a CHANGE** · ★ **1Y 4.6 vs 5-10Y 3.4 = a 1.2pp spread ⇒ supply shock believed TEMPORARY; the anchor HELD** · ★★ **the miss is 13× concentrated in EXPECTATIONS — and it is now a PATTERN across two surveys (ETS + UMich)** · ⚠️ **2nd-lowest in 675 months, but the ATL was MAY 2026 and the series round-tripped 23% since — one preliminary print is not a datum** · 🚩 **⬜ the August final** · 📌 **Sept 16 unsettled; stagflationary survey over benign hard data.**
