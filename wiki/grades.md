@@ -237,3 +237,42 @@ it moves names' grades through entries, and lives on [[rates-board]]/[[forest]].
 - **EQT: a signed Qatar SPA / a new-train FID — ⬜ **NO DATE.** · CEG/VST: the **EIA-860M coal-retirement schedule** — ⬜ standing, still unfetched · GEV: backlog through 2030 — **no single date, which is why it grinds** · TSM: monthly revenue prints — **continuous, the only one with a recurring dated catalyst.**
 - ⇒ **⛔ **ONLY TSM HAS A RECURRING DATED CATALYST INSIDE ANY PLAUSIBLE HOLD.** For the others the vault is long a thesis with no clock — which is exactly the condition under which theta wins.** 🚩🚩 **⬜ a dated catalyst per name is now the binding gap, above IV rank.**
 **📌 REGISTERED:** ✅ **metric corrected — breakeven-at-expiry is wrong for a sell-early plan; 25Δ was the wrong strike** · ★★ **FLAT FOR 12 MONTHS = −29% TO −39%: LEAPS do not pay for "doesn't regress," they pay for "goes up on a clock"** · ⛔ **if the premise is genuinely "doesn't regress," the STOCK is the right instrument — equity has no theta** · ⚠️ **EQT needs a CHANGE (HH is flat and falling); CEG/VST/GEV/TSM are CONTINUATION bets that fit his premise but pay less** · ✅ **EQT still ranks #1 on the numbers after the reframe** · 🚩🚩 **⬜ a DATED catalyst per name — only TSM has one; this now outranks IV rank as the binding gap.**
+
+## 2026-09-11 ~2:40pm PDT — ✅⭐⭐⭐⭐⭐⭐⭐ **JAKE: *"STOCKS I THINK WILL UNDOUBTEDLY BE HIGHER **SOMETIME** BETWEEN NOW AND JAN 2028. POWER AND ENERGY ARE GLOBALLY CONSTRAINED **REGARDLESS OF US DATA CENTERS.**"* — **BOTH HALVES ARE RIGHT AND BOTH ARE MEASURABLE. "SOMETIME" IS A CLAIM ON THE RUNNING MAXIMUM, AND IT IS WORTH ~2.4×. ⛔ BUT THE OPTIONS MARKET HAS PRICED IT ALMOST PERFECTLY — SO THE CHOICE MUST BE MADE ON THESIS, AND HIS OWN THESIS RE-ORDERS MY LIST.*** ⟲ **EXTENDS the 2:35pm re-run.**
+
+### ✅ "SOMETIME" IS A DIFFERENT BET AND IT IS WORTH ~2.4× — MEASURED
+**A LEAPS you may sell at any time is a claim on the **RUNNING MAXIMUM** of the path, not the terminal value. First-passage vs terminal, zero drift (conservative — real drift raises every touch number):**
+| | IV | **P(touch +20%)** | P(finish +20%) | **ratio** | P(touch +30%) | P(touch +50%) | **touch/$** |
+|---|---|---|---|---|---|---|---|
+| **EQT** | 36.0% | **60%** | 26% | **2.32×** | 46% | 27% | 2.4 |
+| **TSM** | 39.7% | 63% | 27% | 2.37× | 50% | 31% | **2.5** |
+| **CEG** | 45.7% | 66% | 27% | 2.44× | 54% | 36% | **2.5** |
+| VST | 49.0% | 68% | 27% | 2.49× | 56% | 38% | 2.4 |
+| GEV | 51.2% | 69% | 27% | 2.52× | 57% | 40% | 2.4 |
+| MU | 63.6% | **73%** | 27% | **2.71×** | **62%** | **47%** | **2.3** |
+- ⇒ **★★★★★★ **HIS REFRAME IS WORTH BETWEEN 2.3× AND 2.7× ON THE PROBABILITY. THAT IS NOT RHETORIC, IT IS THE REFLECTION PRINCIPLE.** My 2:35pm "flat costs 29-39%" assumed the stock never gets there and stays never — **the correct statement is that it must get there ONCE, and the odds of touching +20% at some point are ~60-73%, not ~26%.***
+- ⇒ **⭐⭐ AND NOTE WHAT THE TABLE SAYS ABOUT VOL: **P(FINISH +20%) IS ~26-27% FOR EVERY NAME REGARDLESS OF IV** — at the terminal point high vol cuts both ways. **BUT P(TOUCH) RISES MONOTONICALLY WITH IV, 60% → 73%.*** ⇒ **⇒ "SOMETIME" IS PRECISELY THE FRAMING IN WHICH HIGH VOLATILITY IS AN **ASSET** RATHER THAN A COST — which is the opposite of how I ranked these an hour ago.**
+
+### ⛔⛔ BUT THE MARKET HAS ALREADY PRICED IT — AND THAT IS THE REAL FINDING
+- **Touch-probability PER DOLLAR of premium: **CEG 2.5 · TSM 2.5 · EQT 2.4 · VST 2.4 · GEV 2.4 · MU 2.3.** **A SPREAD OF ROUGHLY 8% ACROSS SIX NAMES SPANNING 36% TO 64% IV.***
+- ⇒ **★★★★★★★ **THE OPTIONS MARKET IS OFFERING NO FREE LUNCH ON VOL SELECTION. Higher IV buys a higher touch probability at almost exactly fair cost.*** ⇒ **⇒ **THE OPTIONS MATH IS A WASH, AND THEREFORE THE CHOICE MUST BE MADE ON THESIS.*** **📌 That also means my two earlier rankings — 25Δ breakeven, then 65Δ flat-case — were both sorting on noise. The 8% spread is inside model error.**
+- ⇒ **⇒ **MU DOES NOT COME BACK.** Its touch probability is the highest and its touch-per-dollar is the **worst (2.3)**. You pay for exactly what you get. **The 8-months-into-a-cyclical-shortage objection is now the ONLY argument that matters for it — and it stands.**
+
+### ★★★ HIS SECOND CLAIM IS THE TIEBREAKER, AND THE VAULT BACKS IT HARD
+- ***"Power and energy are globally constrained REGARDLESS of US data centers, but they compound demand and capital."***
+- **✔ THE VAULT'S OWN EVIDENCE, NONE OF IT AI-DEPENDENT: TTF at a YTD high · EU storage the lowest for the date since 2011 · Pakistan choosing blackouts over a $26.97 cargo · retail diesel at an all-time high across 1,695 weeks with the ratio at the 99.4th percentile (freight, agriculture, industrial — **not datacentres**) · Ras Laffan struck · Russian refineries under near-daily drone strikes · India ~70% and China ~55% coal.**
+- ⇒ **⭐⭐⭐ **THE ENERGY CONSTRAINT DOES NOT DEPEND ON THE AI CAPEX THESIS BEING RIGHT. THAT REMOVES THE SINGLE LARGEST CORRELATED RISK FROM THE TRADE**, and it is the strongest argument made in this thread — by either of us.**
+- ⇒ **⛔ BUT IT DOES NOT APPLY EVENLY, AND APPLYING IT CONSISTENTLY RE-ORDERS MY LIST:**
+  | name | how AI-independent? |
+  |---|---|
+  | **EQT** | ✅ **GENUINELY** — US gas clears on LNG export, industrial and power; AI is a minority driver |
+  | **CEG / VST** | ◐ **PARTIALLY** — datacentre PPAs are a large part of the current story, but electrification/industrial/weather are not |
+  | **GEV** | ⚠️ **LEAST** — the backlog is heavily datacentre and grid buildout |
+  | **TSM** | ⛔ **NOT AT ALL** — it is a pure AI/semis bet |
+- ⇒ **★★★★★★★ **SINCE THE OPTIONS MATH IS A WASH, THE TIEBREAK IS "WHERE IS HIS THESIS ACTUALLY LOAD-BEARING" — AND THAT ORDERS: EQT > CEG/VST > GEV > TSM.*** ⇒ **⛔ WHICH INVERTS MY 2:35pm RANKING ON TSM: it was #2 on the numbers and it is the name his stated reasoning supports **LEAST.** If the reason for the trade is "energy is constrained regardless of AI," **TSM is not that trade.***
+
+### ⇒ WHERE THIS LEAVES IT
+- **✅ EQT #1 ON ALL THREE PASSES NOW** — cheapest vol, smallest flat-case loss, and the only name where "globally constrained regardless of datacentres" is fully load-bearing. **⚠️ the tension I raised at 2:35pm survives: EQT still needs a RE-RATING from a flat $2.81 base, so it is the highest-conviction name on his logic and the most dependent on something HAPPENING.**
+- **📌 CEG next — partially AI-independent, best touch-per-dollar, cheapest door in the nuclear trio.**
+- **⚠️ TSM and GEV are the AI-buildout leg, and should be held as *that*, not as the energy trade. Sizing them as "energy" would be mislabelling the risk.**
+**📌 REGISTERED:** ✅ **"SOMETIME" MEASURED: P(touch) is 2.3-2.7× P(finish); my flat-case framing assumed a path that never touches** · ⭐ **P(finish) is IV-invariant (~26-27%) while P(touch) rises with IV ⇒ high vol is an ASSET in this framing** · ⛔⛔ **TOUCH-PER-DOLLAR IS FLAT (2.3-2.5, ~8% spread) — the market has priced it; BOTH my earlier rankings sorted on noise** · ⇒ **CHOOSE ON THESIS** · ★ **the energy constraint is AI-INDEPENDENT — the strongest argument in this thread** · ⛔ **applied consistently it re-orders to EQT > CEG/VST > GEV > TSM, inverting my TSM call** · **MU stays off: best touch, worst touch-per-dollar.**
