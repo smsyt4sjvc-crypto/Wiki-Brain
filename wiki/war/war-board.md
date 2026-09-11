@@ -5003,3 +5003,33 @@ Three vessels, one unladen — call it single-digit millions of barrels. **Again
 - ⇒ **⭐ AND THE INTERNAL TELL I ALREADY LOGGED NOW READS AS STRUCTURE RATHER THAN HEDGING: a **HARD CLAIM IN THE HEADER** (*"The Houthis have taken Hisn Murad"*) against **TWO CONDITIONALS AND A HYPOTHETICAL IN THE BODY** (*"**IF** they manage to entrench themselves," "**IF** the Houthis would decide to expand"*).** ⇒ **the certainty is in the part that travels; the hedges are in the part that does not.**
 - **⛔ AND THE AMPLIFICATION TRAP, WHICH IS RULE 9'S MODERN FORM: **2M followers means ONE origin can produce the APPEARANCE of widespread reporting through redistribution alone.** "N outlets, one origin" becomes "N thousand accounts, one origin," and the vault will meet this claim again tomorrow looking corroborated when it is the same post.** 📌 **If Hisn Murad resurfaces, check whether the new instance has its own reporting or is a re-post of this one.**
 - **✔ AND THE DEFENCE OF HOW THE 6:30pm ENTRY WAS BUILT, STATED PLAINLY: **NONE OF ITS ANALYSIS DEPENDS ON THE CLAIM BEING TRUE.** The 0.62× shock arithmetic comes from Lloyd's/Suez transit data; the option-premium restructuring comes from the Mocha→Hisn Murad SEQUENCE and the CNN IRGC report; the permission-regime framing comes from the vault's own Hormuz calibration.** ⇒ **⇒ THAT IS THE RIGHT WAY TO HANDLE A THIN SOURCE — size the branch from INDEPENDENT data so the conclusion survives the claim failing.** **If Hisn Murad turns out to be false, the entry loses a date and keeps its findings.**
+
+### Addendum 2026-09-10 ~6:35pm PDT — ⛔ **JAKE: *"RT'D BY ZH. USUALLY RELIABLE."* — **HE IS RIGHT ON THE PROBABILITY AND THE VAULT HAS THE DATED PROOF, WHICH I FAILED TO READ BEFORE ARGUING (rule 21 miss).** THE BOARD RAN THIS EXACT CASE **48 HOURS AGO** AND ALREADY WROTE THE RESOLUTION.**
+### ✅ THE PRECEDENT — THE JORDAN SALVO, AND IT IS STRUCTURALLY IDENTICAL
+| | |
+|---|---|
+| **9/8 3:20pm** | ZH breaking claim, Tasnim-linked. Board **refuses to file as an event** |
+| **9/8 9:40pm** | rung upgraded. **Still refused** |
+| **9/8 11:05pm** | **"A STANDALONE ZH HEADLINE AND *NOT ONE NEW ORIGIN*. RULE 9 UNCHANGED."** Still refused |
+| **9/9 8:45am** | ✅ **CONFIRMED — AP + Jordan's own government** |
+- ⇒ **LAG FROM FIRST ZH ITEM TO CONFIRMATION: ~17 HOURS. THE CLAIM WAS TRUE.**
+- ⇒ **✔ SO JAKE'S "USUALLY RELIABLE" HAS EVIDENCE IN THIS VAULT, DATED, ON A MATCHING CASE. I implied a thin claim was a doubtful one. **On the EVENT, the base rate the vault actually holds says otherwise (n=1, resolved true, fast).** Conceded.**
+
+### ⭐⭐⭐ BUT THE BOARD ALREADY DREW THE DISTINCTION, AND IT IS SHARPER THAN EITHER OF OUR POSITIONS
+> **`:L4883-4885`, 9/9: *"The discipline paid: the board refused to file it as an event… and was right to — **but note carefully that it was right about the SOURCING, not about the FACT. The salvo happened.**"* ⇒ *"the lesson is not 'Tasnim was wrong'; it is that **A CLAIM CAN BE TRUE AND STILL BE UNFILABLE**, and the board's job is to say which of those it is holding."***
+- ⇒ **📌 THAT RESOLVES TODAY'S DISAGREEMENT WITHOUT EITHER SIDE LOSING: **the RT raises the ODDS THE EVENT HAPPENED. It does not change the FILING STATUS.** Those are different axes and the board settled it on 9/9.**
+- **⛔ AND ON THE RT SPECIFICALLY, THE VAULT IS BLUNT: on 9/8 a **standalone ZH ARTICLE** added *"NOT ONE NEW ORIGIN."* **A RETWEET ADDS LESS THAN AN ARTICLE.** ⇒ my 6:30pm amplification-trap prediction now has a dated precedent rather than being a hypothesis.**
+
+### ⭐⭐⭐ AND THE CONFIRMATION REVEALED THE PATTERN THAT ACTUALLY MATTERS — **MAGNITUDE DEFLATION**
+- **The 9/9 confirmation is logged as ✅ *"AND THE CONFIRMATION IS **DEFLATIONARY**: 18 INTERCEPTIONS, TWO MISSILES FELL IN UNPOPULATED AREAS."***
+- ⇒ **★★★★★★★ THE EARLY VERSION TRAVELLED AS *"IRAN FIRES 20 BALLISTIC MISSILES AT JORDAN."* THE CONFIRMED VERSION IS *"JORDAN INTERCEPTED 90% WITH NO CASUALTIES."* **SAME EVENT. OPPOSITE MARKET MEANING.***
+- ⇒ **📌 THE CALIBRATED READ ON THIS SOURCE CLASS, FROM THE VAULT'S OWN EVIDENCE: **DIRECTIONALLY TRUE, MAGNITUDE-INFLATED.** The event usually happened. The IMPACT is usually smaller than the framing.**
+- ⇒ **✔✔ AND THAT MAPS ONTO HISN MURAD EXACTLY, WHICH IS WHY THE 6:30pm ENTRY IS BUILT THE WAY IT IS: *"The Houthis have taken Hisn Murad"* is the EVENT claim — probably true, per the base rate. *"It will become incredibly hard to sail through the Strait without Houthi permission"* is the **MAGNITUDE** claim — **and I deflated it BEFORE any confirmation arrived, with the 0.62× transit arithmetic and the Cape-route-already-built finding.*** ⇒ **the method did its job: take the event seriously, size the consequence from independent data.**
+
+### ⇒ THE STANDING CALIBRATION ON ZH, BUILT FROM THIS VAULT'S OWN WORK (not priors)
+- **✔ ZH's NUMBERS ARE ACCURATE.** Today's 30Y auction internals — 2.7bp through, B/C 2.612, indirects 79.5%, dealers 2.21% — **summed to 100.01% and survived every arithmetic check I ran.**
+- **⛔ ZH's HEADLINES OVERSTATE.** Same piece: *"2nd Highest FOREIGN Demand"* when indirect is a **bidding channel, not a nationality.** Its tweet said *"in the past decade"* while its own article said *"on record."* Earlier: *"Abqaiq targeted"* — **not confirmed by any wire in the sweep.**
+- **✔ AND A POINT IN ITS FAVOUR ON INTEGRITY: ZH LABELS ITS OWN UNVERIFIED MATERIAL** — the board logged it flagging imagery as *"unverified but widely circulating."*
+- ⇒ **📌 STANDING RULE: **TRUST ZH'S DATA. DISCOUNT ZH'S HEADLINES. TREAT ITS GEOPOLITICAL RELAYS AS ~17-HOUR-EARLY SIGNALS RATHER THAN CONFIRMED EVENTS — AND EXPECT THE CONFIRMATION TO DEFLATE THE MAGNITUDE.***
+- **⛔ MY OWN ERROR, NAMED: rule 9 is an EPISTEMIC standard and I applied it as though the cost of DELAY were zero. In a TRADING vault it is not — a 70%-likely claim that is 17 hours early can be worth more than a certain one that is late. **The board's method already reconciles this (file as a CLAIM, size from INDEPENDENT data) and I argued the sourcing instead of applying it.**
+**📌 REGISTERED:** ✅ **Jake's "usually reliable" CORROBORATED by the vault's own n=1 (Jordan, ~17h to AP+government)** · 📌 **a claim can be TRUE and still unfilable — the axes are ODDS and FILING STATUS** · ⭐ **PATTERN: directionally true, magnitude-inflated — the confirmation deflates** · 📌 **STANDING: trust ZH data, discount ZH headlines, treat relays as ~17h-early** · ⛔ **an RT adds less than a standalone article, which the board logged as "NOT ONE NEW ORIGIN."**
