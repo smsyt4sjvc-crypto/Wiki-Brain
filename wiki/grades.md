@@ -205,3 +205,35 @@ it moves names' grades through entries, and lives on [[rates-board]]/[[forest]].
 - **I have **CROSS-SECTIONAL** IV — which name is dear relative to the others, today. **I DO NOT HAVE TIME-SERIES IV: no IV RANK, no IV PERCENTILE.*** ⇒ **⛔ I cannot tell you whether EQT at 36.0% is CHEAP FOR EQT or merely cheap for the group.** A name can be the cheapest on the board and still sit at the 90th percentile of its own history. 🚩 **⬜ 52-week IV rank per name — the last piece, and it is the difference between "cheapest here" and "cheap."**
 - ⚠️ **Delayed quotes, not live. Mids on wide LEAPS spreads overstate fillability — the 25Δ bid/ask on an 11,943-OI name is not the price you get.**
 **📌 REGISTERED:** ✅ **the 2:25pm ⬜ CLOSED — CBOE works, keyless, `280121` live** · ⛔ **MU OFF: +143.6% breakeven, 8 months into a cyclical shortage** · ⭐ **CEG replaces "VST/CEG/TLN" — ~20pp cheaper breakeven than TLN for the same thesis** · ✅ **EQT is #1 on BOTH rankings** · ⚠️ **TSM's premium is for the HORIZON (+30% term), not the name** · ⚠️ **GEV: best thesis, thinnest book** · 🚩 **⬜ IV RANK/PERCENTILE — cross-sectional ≠ historical** · ⛔ **my first term-structure pass used today's expiry and printed 305% IV — artifact, rebuilt.**
+
+## 2026-09-11 ~2:35pm PDT — ⛔⭐⭐⭐⭐⭐⭐⭐ **JAKE: *"I DON'T HAVE TO HOLD THEM INTO JAN 2028… ENERGY/POWER DOESN'T SEEM LIKELY TO REGRESS."* — **HE IS RIGHT THAT I ANSWERED THE WRONG QUESTION (breakeven-at-expiry is the wrong metric for a sell-early plan, and 25-delta was the wrong STRIKE). RE-RUN AT 65-DELTA. ⛔ AND THE RE-RUN PRODUCES THE ONE NUMBER THAT MATTERS AND IT CUTS AGAINST HIS PREMISE: **FLAT FOR 12 MONTHS = −29% TO −39%.*** ⟲ **CORRECTS the 2:30pm table's metric and strike.**
+
+### ✅ THE REFRAME IS CORRECT AND MY ERROR WAS STRUCTURAL
+- **I computed **BREAKEVEN AT EXPIRY** (+54.3% EQT … +143.6% MU). **THAT METRIC ONLY BINDS IF YOU HOLD TO EXPIRY.*** ⇒ **for a position sold early, what matters is **MARK-TO-MARKET: delta, theta over the hold, and vega** — and on a 497-day option theta per day is small, which is the entire reason LEAPS exist.**
+- ⇒ **⛔ AND IT MEANS **25-DELTA WAS THE WRONG STRIKE**: a 25Δ is optimised for a hold-to-expiry lottery payoff. **A sell-early plan wants a HIGHER delta — more stock-like, less theta drag.** I never asked his holding period and should have.**
+
+### ⇒ RE-RUN: ~65-DELTA, JAN-2028, HELD **12 MONTHS THEN SOLD** (r=4%, IV held constant)
+| | spot | strike | Δ | premium | **leverage** | **θ/mo** | **+20% move** | **FLAT** |
+|---|---|---|---|---|---|---|---|---|
+| **EQT** | 56.95 | 52 | 0.67 | 10.77 | **3.5×** | **2.0%** | **+59%** | **−29%** |
+| **TSM** | 456.73 | 430 | 0.66 | 90.95 | 3.3× | 2.2% | +46% | −34% |
+| **CEG** | 300.13 | 290 | 0.64 | 64.55 | 3.0× | 2.3% | +30% | −38% |
+| VST | 156.28 | 150 | 0.65 | 36.27 | 2.8× | 2.3% | +26% | −38% |
+| GEV | 1008.32 | 970 | 0.65 | 241.50 | 2.7× | 2.3% | +23% | **−39%** |
+- **leverage = $ of stock exposure per $ of premium · FLAT = what you lose if the stock does nothing for a year and you then sell.**
+
+### ⛔⛔ THE FINDING, AND IT IS THE ANSWER TO HIS STATED REASONING
+- **His premise: *"energy/power doesn't seem likely to regress."* **THAT DESCRIBES A FLAT OUTCOME AS ACCEPTABLE. THE TABLE SAYS FLAT COSTS 29-39%.***
+- ⇒ **★★★★★★★ **LEAPS DO NOT PAY FOR "DOESN'T REGRESS." THEY PAY FOR "GOES UP, ON A CLOCK."** The question is not how FAR — it is how FAST.** ⇒ **theta runs ~2.0-2.3% of premium per month, and over twelve months that ~24-28% IS the flat-case loss. The decay is the whole downside and it is paid whether or not the thesis is right.** *(Analysis.)*
+- ⇒ **⇒ **IF THE PREMISE REALLY IS "DOESN'T REGRESS," THE CORRECT INSTRUMENT IS THE STOCK, NOT THE OPTION.** Equity has no theta: a flat year costs zero. **The option is worth its 2%/month ONLY if he has a catalyst with a DATE inside his holding period.*** **📌 That is the question I should have asked first and am asking now: WHAT IS THE HOLDING PERIOD, AND WHAT DATED EVENT IS EXPECTED INSIDE IT?**
+
+### ⚠️ AND ONE NAME IS IN TENSION WITH HIS OWN LOGIC — IT IS MY #1
+- **⛔ **EQT IS THE ONLY NAME ON THE LIST THAT REQUIRES A *CHANGE* RATHER THAN A *CONTINUATION*.** Henry Hub is **$2.81 and DOWN 5.5% since June** — *"doesn't regress"* for EQT means **staying at $2.81, which IS the −29% outcome.** The thesis is a **RE-RATING** driven by new liquefaction, and that is an event, not a state.**
+- **✔ CEG · VST · GEV · TSM are **CONTINUATION** bets — they pay if the current state persists and grinds. **THOSE FIT HIS STATED PREMISE BETTER. They also pay LESS on a +20% move (+23% to +30% vs EQT's +59%) and bleed MORE when flat.***
+- ⇒ **📌 THE HONEST TRADE-OFF, STATED PLAINLY: **EQT HAS THE BEST PAYOFF AND THE LEAST SUPPORT FROM HIS OWN REASONING. THE CONTINUATION NAMES FIT HIS REASONING AND PAY THE LEAST.** He should pick which premise he is actually trading.**
+- **✔ EQT DOES SURVIVE THE RE-RUN ON THE NUMBERS: best upside (+59%), **smallest flat-case loss (−29%)**, lowest theta (2.0%/mo), highest leverage (3.5×). **The ranking is robust to the reframe; only the REASON changes.***
+
+### 🚩 THE GAP THIS EXPOSES — DATED CATALYSTS INSIDE A 12-MONTH HOLD
+- **EQT: a signed Qatar SPA / a new-train FID — ⬜ **NO DATE.** · CEG/VST: the **EIA-860M coal-retirement schedule** — ⬜ standing, still unfetched · GEV: backlog through 2030 — **no single date, which is why it grinds** · TSM: monthly revenue prints — **continuous, the only one with a recurring dated catalyst.**
+- ⇒ **⛔ **ONLY TSM HAS A RECURRING DATED CATALYST INSIDE ANY PLAUSIBLE HOLD.** For the others the vault is long a thesis with no clock — which is exactly the condition under which theta wins.** 🚩🚩 **⬜ a dated catalyst per name is now the binding gap, above IV rank.**
+**📌 REGISTERED:** ✅ **metric corrected — breakeven-at-expiry is wrong for a sell-early plan; 25Δ was the wrong strike** · ★★ **FLAT FOR 12 MONTHS = −29% TO −39%: LEAPS do not pay for "doesn't regress," they pay for "goes up on a clock"** · ⛔ **if the premise is genuinely "doesn't regress," the STOCK is the right instrument — equity has no theta** · ⚠️ **EQT needs a CHANGE (HH is flat and falling); CEG/VST/GEV/TSM are CONTINUATION bets that fit his premise but pay less** · ✅ **EQT still ranks #1 on the numbers after the reframe** · 🚩🚩 **⬜ a DATED catalyst per name — only TSM has one; this now outranks IV rank as the binding gap.**
