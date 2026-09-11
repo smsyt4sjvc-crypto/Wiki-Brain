@@ -533,6 +533,36 @@ context not established. Rung: REPORTED.**
 | US datacentre power scarcity | **no — policy, atop the world's largest coal reserve** |
 - ⇒ **★★★★★★★ **NOT ONE OF THEM IS A RESERVES PROBLEM.** They are ACCESS, TRANSPORT, CONVERSION and PERMISSION problems.** ⇒ **⇒ AND THOSE REVERSE ON **POLITICAL** TIMESCALES — MONTHS — NOT GEOLOGICAL ONES.**
 - ⇒ **📌 THEREFORE THE ENERGY BOOK'S DOMINANT RISK IS **POLITICAL REVERSAL**, NOT DEPLETION. That is the sharpened form of this afternoon's refiner argument: I held VLO/MPC at 9 on a 99.4th-percentile crack proxy calling it REVERSION RISK — **the mechanism of that reversion now has a name, and it is a policy decision in Caracas, Washington or Tehran, any one of which can move faster than any physical constraint in the chain.***
+  ⟲ SUPERSEDED 2026-09-11 → power-not-petroleum.md:L566 — binary geology-vs-politics missed PHYSICAL CAPITAL DESTRUCTION, which is irreversible by decree; a ceasefire widens the crack
 - **✔ AND IT IS CONSISTENT WITH THE NOVEMBER CLUSTER: Trump's *"war ends right after the midterms,"* the Venezuela stake, the IAEA referral — **every named catalyst on the energy boards is a POLITICAL date, not a production date.** The vault built that calendar without noticing what it was made of.**
 **📌 REGISTERED:** ⭐ **coal map sizes `:L480`'s foreclosure — ~248 Bt, the largest on earth, in the buildout country** · ⛔ **the MW-scarcity premium's dominant risk is a PERMISSION change, not a demand miss** · 🚩 **`:L502` EIA-860M coal retirement schedule — still the load-bearing fetch, now with a reason** · 📌 **reserve maps conflate QUALITY; Venezuela's heavy is the refinery basket's moat** · 🚩 **⬜ both reserve figures against a primary (Worldometers is an aggregator)** · ★ **the energy book's dominant risk is political reversal, not depletion.**
 **Links:** [[oil-value-chain]] · [[demand-destruction]] · [[nuclear]] · [[europe-energy-crunch]] · [[grades]]
+
+## 2026-09-10 ~7:25pm PDT — ⛔⛔⛔ **JAKE: *"BLOWN UP REFINERIES IN RUSSIA AREN'T POLITICAL."* — **HE IS RIGHT AND IT BREAKS THE TAXONOMY I BUILT AN HOUR AGO. MY BINARY (GEOLOGY vs POLITICS) WAS MISSING THE CATEGORY THAT MATTERS MOST IN A SHOOTING WAR: PHYSICAL CAPITAL DESTRUCTION.** AND THE REPAIR PRODUCES A TRADEABLE INVERSION — **A CEASEFIRE WIDENS THE CRACK.*** ⟲ **SUPERSEDES `:L535`.**
+
+### ⛔ THE FAILURE, AND IT IS WORSE THAN A GAP — I HAD THE COUNTER-EXAMPLE IN MY OWN HANDS
+- **At 7:15pm, eight minutes before he wrote this, I filed: *"A CEASEFIRE REOPENS A STRAIT. **IT DOES NOT REBUILD A STRUCK REFINERY**, LIFT RUSSIA'S EXPORT BAN, OR UN-DEFER US MAINTENANCE."***
+- ⇒ **⛔ I WROTE THE REFUTATION OF MY OWN 6:30pm RULE AND DID NOT GO BACK AND FIX THE RULE. **NOTICING AN EXCEPTION AND LEAVING THE GENERALISATION STANDING IS THE APPEND-ONLY FAILURE STEP ZERO-B EXISTS TO PREVENT** — I treated it as a new observation instead of an amendment.**
+
+### ✅ THE CORRECTED TAXONOMY — **THREE** CATEGORIES, SORTED BY REVERSAL CLOCK
+| category | reverses by | clock | binding instances TODAY |
+|---|---|---|---|
+| **GEOLOGY** | nothing | decades | **none** — Venezuela 303bn bbl, US 248bn t coal |
+| **⭐ PHYSICAL CAPITAL** | **construction + capital + specialist labour** | **MONTHS-TO-YEARS, IRREVERSIBLE BY DECREE** | **Russian refineries (near-daily drone strikes) · Middle East refining · RAS LAFFAN (3 helium plants, force majeure EXTENDED) · the Petroline pumping station (struck 7/27) · ~10 Iranian tankers + Saudi VLCCs destroyed** |
+| **PERMISSION / POLICY** | a decision | **DAYS-TO-MONTHS** | Hormuz transit · Bab-el-Mandeb · **Russia's diesel EXPORT BAN** · Venezuela sanctions · US coal policy · the EU storage mandate |
+- ⇒ **⇒ THE 6:30pm CLAIM — *"the energy book's dominant risk is POLITICAL REVERSAL"* — **WAS BUILT ON A BINARY THAT COLLAPSED TWO DIFFERENT CLOCKS INTO ONE.** ⇒ **THE ENERGY BOOK CARRIES **TWO** RISKS WITH **DIFFERENT HALF-LIVES**, and I priced only the fast one.**
+- ⇒ **⭐ AND THE SCALE OF WHAT I UNDER-COUNTED IS LARGE: this war has been **DESTROYING CAPITAL STOCK FOR MONTHS**, not merely restricting access. Note how the same line splits — **Russia's refineries are physical; Russia's export BAN is a decree.** Same country, same commodity, two clocks.**
+
+### ★★★★★★★ THE INVERSION THAT FALLS OUT — AND IT IS TRADEABLE
+- **A ceasefire reverses the PERMISSION column and leaves the CAPITAL column intact.**
+  - **CRUDE** — transit restored ⇒ **input cost FALLS**
+  - **PRODUCT** — refineries still wrecked, ban is a separate decision, US turnarounds still deferred ⇒ **output stays TIGHT**
+- ⇒ **⇒ **A CEASEFIRE WIDENS THE CRACK SPREAD.*** ⇒ **⛔⛔ WHICH INVERTS MY OWN 6:30pm RISK FRAMING: I called political reversal the dominant RISK to the energy book. **FOR THE REFINERS IT IS PLAUSIBLY A TAILWIND** — the thing I named as their danger cuts their input cost while their margin driver is protected by destroyed capital.** *(Analysis. This is the sharpest consequence of Jake's correction and I did not have it an hour ago.)*
+- ⇒ **✔ AND IT IS THE SECOND INDEPENDENT ROUTE TO TONIGHT'S GRADING ORDER — distillate above crude — now with the mechanism stated forwards rather than inferred.**
+
+### GRADES (16c) → [[grades]] — **NO MOVES, AND THE REASON IS A DELIBERATE ONE**
+- **⛔ THE ARGUMENT I HELD THE REFINERS ON IS NOW WEAKER. I held VLO/MPC at 9 and the rest at 7-8 on *"99.4th-percentile crack ⇒ REVERSION RISK."* **THE MECHANISM THAT WOULD DRIVE THAT REVERSION IS CRUDE NORMALISING — AND IT DOES NOT REACH THE PRODUCT SIDE.** ⇒ the reversion case loses its main engine.**
+- ⇒ **📌 THEY STILL DO NOT MOVE, AND I WANT THE REASON ON THE RECORD RATHER THAN IMPLIED: **VLO AND MPC ARE ALREADY AT 9 — THERE IS NO ROOM TO EXPRESS THIS**, and the new Q4 **deferred-maintenance volume risk** (filed 7:15pm) is a genuine offset. ⇒ **the DISCONFIRMER changed, the NUMBER did not, and a ledger that moves on reasoning refinements rather than on new facts stops meaning anything.**
+- **⚠️ THE HONEST RESIDUAL: if I were initialising this basket from scratch tonight — with the crack durable against a ceasefire and only Q4 volume against it — **I would set it HIGHER than 8-9 looks from the outside.** Recorded so the ledger is not read as lukewarm.**
+**📌 REGISTERED:** ⛔ **`:L535` SUPERSEDED — the binary was wrong; the taxonomy is THREE-way** · ★ **PHYSICAL CAPITAL DESTRUCTION is a distinct category with a construction-timescale clock, irreversible by decree** · ★★ **A CEASEFIRE WIDENS THE CRACK — political reversal is a TAILWIND for refiners, not a risk** · ⛔ **METHOD: I wrote the counter-example eight minutes before he did and filed it as an observation instead of an amendment (STEP ZERO-B)** · 📌 **refiners unmoved because they are already at 9 and the Q4 volume risk offsets — the disconfirmer changed, not the number.**
+  ⟲ SUPERSEDES power-not-petroleum.md:L535 — binary geology-vs-politics missed PHYSICAL CAPITAL DESTRUCTION, which is irreversible by decree; a ceasefire widens the crack
