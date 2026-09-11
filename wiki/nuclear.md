@@ -804,3 +804,35 @@ series); first commercial offtake discussion outside DoD = the transition tell.
 - ⇒ **⭐⭐ AND IT SHARPENS THE SOCIAL-LICENCE PREDICTION INTO A DATED, FOREIGN TEST. The vault has tracked the social-licence rung domestically (Abbott's Texas proposal to repeal DC tax incentives, `forest.md:54`). **A 22-year contract for 5% of a small country's power, signed by a foreign company, is a far more exposed political object than a US state tax incentive** — and its exposure RISES if Finnish power prices rise for any unrelated reason.** 🚩 **⬜ Finnish regulatory or parliamentary reaction; ⬜ Finnish industrial-power price trajectory 2028-2030 as the trigger variable.**
 - ⚠️ **PERIMETERS (rule 21b): "~10% of Finland's electricity" is a SECONDARY, unsourced in the brief and not yet checked against Fortum or Finnish grid data.** **"Up to 50%" is a CEILING, phased from 2028 — the 5% figure applies from 2030, not now.** **And the 9/9 entry's honest limit still governs the MW comparison: Loviisa is ~1GW-class and small against a €13B build — the significance is TERM and TEMPLATE, and now DENOMINATOR, not volume.** 🚩 **⬜ Loviisa's nameplate MW and Finland's total generation, which would replace the ~10% secondary with an arithmetic of our own.**
 - **📌 GRADES: no change. VST/CEG/TLN 7 hold; the 9/9 reading is unaltered — this addendum supplies scale, not direction.** **📌 The 🚩 registered on 9/9 remains THE test: *does any US hyperscaler sign a life-extension PPA with CEG, VST or TLN on similar terms?***
+
+## 2026-09-10 ~6:25pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE: *"I THOUGHT CHINA HAD WAY MORE NUCLEAR."* — **HE IS RIGHT AND THE CHART IS RIGHT. THEY MEASURE DIFFERENT THINGS.** CHINA IS **4.82% NUCLEAR BY SHARE** AND SIMULTANEOUSLY **THE WORLD'S LARGEST NUCLEAR BUILDER — 36 REACTORS, >49% OF ALL GLOBAL CONSTRUCTION, 18 YEARS RUNNING.** ⇒ AND THE ARITHMETIC UNDERNEATH IT PRODUCES A FINDING THE VAULT DID NOT HAVE.** *(IEA/Barclays chart → `raw/2026-09-10-iea-barclays-generation-mix-2025.png`; fleet data WNA/EIA)*
+
+### ✅ THE RESOLUTION — SHARE vs ABSOLUTE (rule 21b, and it is the whole answer)
+| the question | the answer |
+|---|---|
+| **nuclear as a SHARE of China's own generation** | **4.82%** (450 TWh of ~9,336 TWh) — **small** |
+| **operating FLEET** | **58 reactors, ~61 GW — SECOND LARGEST ON EARTH**, behind the US |
+| **UNDER CONSTRUCTION** | **36 reactors, ~38.9 GW = >49% OF ALL WORLD NUCLEAR CONSTRUCTION**, first for **18 consecutive years** |
+- ⇒ **⇒ CHINA IS SIMULTANEOUSLY THE WORLD'S BIGGEST NUCLEAR BUILDER AND ONE OF THE LEAST NUCLEAR-DEPENDENT MAJOR ECONOMIES. Both are true, and the chart only shows the second.** **A percentage of a colossal denominator is small while the numerator leads the world.**
+- **✔ METHOD CHECK: my eyeball read of the China nuclear band was ~5% against a sourced **4.82%** ⇒ the band-reading held. Other bands on this chart are therefore ~±2pp: **US** coal ~17 / gas ~40 / nuclear ~17 / renewables ~25 · **EU** coal ~9.5 / gas ~17 / nuclear ~23 / renewables ~49 · **China** coal ~55 / gas ~2 / nuclear ~5 / renewables ~37.** ⚠️ **eyeballed; only the 4.82% is sourced.**
+
+### ⭐⭐⭐ THE FINDING — A WORLD-RECORD BUILD BARELY MOVES THE MIX, AND THAT IS THE POINT
+- **38.9 GW under construction = **64% of the existing fleet**. At 90% capacity factor it adds **~307 TWh/yr** ⇒ nuclear goes 450 → **757 TWh**, which would take China past the US in absolute nuclear generation.**
+- **BUT THE DENOMINATOR GROWS TOO:**
+  | total generation growth | nuclear share in 6 years |
+  |---|---|
+  | 2%/yr | **7.2%** |
+  | 3%/yr | **6.8%** |
+  | 4%/yr | **6.4%** |
+- ⇒ **★★★★★★ **CHINA CAN COMPLETE THE LARGEST NUCLEAR BUILD IN HISTORY AND STILL BE UNDER 7% NUCLEAR.** ⇒ **IN A FAST-GROWING GRID, EVEN A RECORD BUILD IS DILUTED BY ITS OWN DENOMINATOR.** *(Analysis.)*
+- ⇒ **⛔⛔ AND THAT SHARPENS THIS MORNING'S REASSIGNMENT FINDING INTO A GENERAL RULE THE VAULT DID NOT HAVE: **THE SAME TECHNOLOGY HAS OPPOSITE ECONOMIC MEANINGS DEPENDING ON WHETHER THE GRID IS GROWING.***
+  - **FLAT GRID (Europe): a datacentre PPA on existing nuclear is **REASSIGNMENT** — Google's 50% of Loviisa creates zero new electrons and Finnish consumers face the residual (filed 9:25am).**
+  - **GROWING GRID (China): new nuclear is genuinely **ADDITIVE** — and gets diluted anyway.**
+  - ⇒ **📌 the vault's 32% additive / 68% reassigned split is not a property of the TECHNOLOGY. It is a property of the GRID'S GROWTH RATE.** **That is the rule the split was missing.**
+
+### ⇒ WHAT THE OTHER COLUMNS CORROBORATE — TODAY'S OWN WORK, FROM AN INDEPENDENT SOURCE
+- **⛔ CHINA IS ~55% COAL. ⇒ **THE CHINESE AI BUILDOUT RUNS ON COAL**, which is cheap, domestic, and not exposed to Hormuz, TTF or Henry Hub.** ⇒ **DeepSeek's $0.023-per-task economics (filed 8:50am) sit on a power cost structure US labs cannot replicate** — and it is a **CARBON-POLICY EXPOSURE**, not a permanent advantage, if trade policy ever prices it. 🚩 **⬜ the vault has no instrument on Chinese power cost per MWh.**
+- **✔ US ~40% GAS ⇒ US datacentre power is **GAS-SET AT THE MARGIN**, which is precisely this morning's finding that *"Henry Hub at $2.90 is the cheapest input in the entire AI cost stack and the one nobody is hedging."* **The chart puts a share on that exposure: roughly two-fifths of the US grid.***
+- **✔ EU HAS THE **HIGHEST NUCLEAR SHARE (~23%) AND THE LOWEST FOSSIL SHARE** OF ANY MAJOR REGION. ⇒ **in Europe, nuclear IS the grid** ⇒ **that is the structural reason Google signed 22 years of Loviisa rather than building gas — with TTF at ~$27.94/MMBtu there is no gas option, and nuclear is what the grid already is.** **Two independent routes to the same 9:25am conclusion.**
+**📌 REGISTERED:** ✅ **share-vs-absolute resolved: 4.82% share, 2nd-largest fleet, >49% of world construction** · ★ **NEW RULE: additive-vs-reassigned is a property of the GRID'S GROWTH RATE, not of the technology** · ⭐ **a record build leaves China under 7% nuclear** · 🚩 **⬜ Chinese power cost per MWh — the missing input under Chinese model economics** · ⚠️ **all non-China band reads are eyeballed ±2pp.**
+**Links:** [[buildout-bottleneck-map]] · [[europe-energy-crunch]] · [[compression-thesis]] · [[grades]]
