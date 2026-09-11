@@ -1960,3 +1960,40 @@ Today's holdings-scan conclusion, filed at 8:35am: **"raw announced GW is becomi
 - **⚠️ HENRY HUB'S LAST PRINT IS 2026-09-01 — the same nine-day staleness as Brent and WTI. $2.90 is a primary, but it is not today's.**
 **📌 REGISTERED:** 🚩🚩 **⬜ GAS-PRICE SENSITIVITY ON THE DATACENTRE POWER STACK — the vault has none, and ~$3 gas is load-bearing everywhere** · 🚩 **⬜ the Bloomberg article; ⬜ volume/tenor/counterparty if it signs** · 📌 **THE DECIDING VARIABLE IS SIGNATURE-vs-TALK — a signed long-term SPA re-rates US gas over years; "discussions" re-rate nothing** · 📌 **the accurate object stays a DISCRETIONARY PERMISSION REGIME plus Ras Laffan damage plus contract rigidity — do not collapse it to "blockade"** · ⬜ **Qatar's share of global LNG** · **Henry Hub as a tracked series from today.**
 **Links:** [[demand-destruction]] · [[nuclear]] · [[ai-financing-fragility]] · [[forest]]
+
+## 2026-09-10 ~6:05pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE: *"DIDN'T THEY JUST REPORT QATAR WAS BUYING US LNG?"* — CHECKED, AND **IT IS NOT A CONTRADICTION. IT IS THE SAME STORY AT TWO POINTS IN TIME**, AND THE ARTICLE SUPPLIES THE MECHANISM I WAS MISSING THIS MORNING: **QATAR DECLARED FORCE MAJEURE** AFTER THE RAS LAFFAN STRIKES. ⛔ AND IT CORRECTS MY OWN 10:50am REASONING IN A WAY THAT MAKES THE FINDING *STRONGER*.** *(Irina Slav / OilPrice via ZH, Thu 9/10 5:55pm ET)* ⟲ **EXTENDS the 10:50am Qatar entry.**
+
+### ✅ THE RECONCILIATION — AND THE SEQUENCE IS THE POINT
+- **Ras Laffan struck (vault-VERIFIED 7/12, `:L328-330`) → **QATAR DECLARES FORCE MAJEURE ON EXPORTS** → Pakistan, its biggest LNG supplier by long-term contract, is cut off → Pakistan forced onto spot at $20-27/MMBtu with 24-hour rolling blackouts → **Qatar in talks to BUY US LNG** (Bloomberg, this morning) → **first Qatari cargoes now tracking into Pakistan.***
+- ⇒ **⇒ BUYING REPLACEMENT MOLECULES AND RESUMING DELIVERIES ARE THE SAME ACT. **YOU SOURCE SUBSTITUTES WHEN YOU INTEND TO KEEP THE CONTRACTS.** A supplier walking away from its book does not go shopping.** ⇒ **both reports are evidence of one thing: **QATAR IS DEFENDING ITS CONTRACT FRANCHISE.***
+- **✅ SECOND INDEPENDENT CONFIRMATION OF THE RAS LAFFAN DAMAGE — the vault verified it in July through the **HELIUM** route (3 plants, ~30% of global supply); this confirms it through the **LNG** route, with a named legal instrument.**
+
+### ⛔ AND IT CORRECTS MY OWN REASONING FROM 10:50am — IN THE DIRECTION THAT STRENGTHENS IT
+- **I wrote: *"A seller under a long-term SPA **must deliver or default**; buying replacement cargoes is what a solvent counterparty does."***
+- ⇒ **⛔ THAT IS WRONG AS LAW. **FORCE MAJEURE IS PRECISELY THE INSTRUMENT THAT EXCUSES NON-DELIVERY**, and Qatar invoked it — then **EXTENDED** it.**
+- ⇒ **✔ BUT THE CORRECTED READING IS STRONGER, NOT WEAKER: **QATAR HOLDS LEGAL COVER NOT TO DELIVER AND IS SOURCING THIRD-PARTY CARGOES TO DELIVER ANYWAY.*** ⇒ **⇒ THE CONTRACT RIGIDITY IS **COMMERCIAL, NOT LEGAL** — a franchise-defence decision taken *despite* an available escape hatch. That is a far better signal about how Qatar values its long-term book than a legal obligation would be.** *(Analysis. The morning's conclusion survives; its stated mechanism was wrong.)*
+
+### ⛔ HEADLINE vs BODY — AND THE BODY IS THE HARDER FACT
+- **Headline: *"Pakistan's Energy Crisis Set To Ease."* **Body: QatarEnergy ANNOUNCED AN EXTENSION OF ITS FORCE MAJEURE**, and what is arriving is *"the first cargo… as early as Thursday."***
+- ⇒ **ONE CARGO AGAINST A LONG-TERM CONTRACT BOOK, WITH THE FORCE MAJEURE STILL RUNNING AND NEWLY EXTENDED. "Set to ease" is the headline's word, not the body's.** 📌 **Same lesson as the OpenDesign miss this morning: read past the top.**
+
+### ⭐⭐⭐⭐ THE NUMBERS INDEPENDENTLY VALIDATE THE TTF ARITHMETIC I DID AN HOUR AGO — AND SETTLE THE 12.2× DISPUTE
+| | |
+|---|---|
+| **my TTF conversion (6:00pm)** — 82.047 €/MWh → USD/MMBtu | **$27.94** |
+| **Pakistan's REJECTED tender bid** (a real transaction price) | **$26.969** |
+| **agreement** | **3.6%** |
+- ⇒ **★★★★★★★ A EUROPEAN HUB PRICE IN €/MWh, CONVERTED BY ME, LANDS WITHIN **3.6%** OF AN ACTUAL ASIAN DELIVERED-LNG BID QUOTED IN $/MMBtu BY A PAKISTANI STATE EXECUTIVE. **DIFFERENT MARKET, DIFFERENT SOURCE, DIFFERENT UNIT SYSTEM, DIFFERENT CONTINENT.*** ⇒ **the conversion method is validated.**
+- ⇒ **⛔⛔ AND IT SETTLES THIS EVENING'S DISPUTE: **Pakistan's $26.969 bid ÷ Henry Hub $2.81 = 9.6× — which corroborates MY 9.94× AND NOT THE CLAIMED 12.2×.*** **Two independent routes now land at ~9.6-9.9×.** 📌 **THE 12.2× IS RETIRED, NOT MERELY UNVERIFIED.**
+- **⭐ AND THE THIRD MARK IS THE INTERESTING ONE: the exec puts *"the international LNG price"* at **$23.18**. ⇒ **TTF AT $27.94 IS TRADING 20.5% ABOVE THE INTERNATIONAL BENCHMARK.*** ⇒ **⇒ EUROPE IS OUTBIDDING ASIA BY A FIFTH. THAT IS WHY CARGOES SAIL WEST AND PAKISTAN SITS IN THE DARK** — the European fill-chase has a named victim.
+
+### ★★★ DEMAND DESTRUCTION IN ITS PUREST OBSERVABLE FORM — AND THE VAULT HAS A FILE FOR IT
+- **A Pakistan LNG tender this month drew **ONE OFFER, AT $26.969/MMBtu, AND WAS REJECTED AS TOO EXPENSIVE.** *"The price was considered too high, so a fresh tender has been issued."***
+- ⇒ **⛔ A FAILED TENDER IS NOT A PRICE. IT IS **A COUNTRY DECLINING TO BUY ENERGY AT THE MARKET-CLEARING PRICE** — and the alternative it chose is **ROLLING BLACKOUTS OF UP TO 24 HOURS.*** ⇒ **that is demand rationed by price, observed at the moment of rationing, with the quantity going to ZERO rather than to a lower number.** *(Analysis → [[demand-destruction]].)*
+- **Scale: **$20+/MMBtu paid consistently over three months** · *"three times higher than pre-war"* ⇒ pre-war ≈ **$7-9/MMBtu** · **power generation costs +38% y/y as of July** and *"likely higher since."* · **Pakistan's bid is 9.6× the US wellhead.**
+- ⇒ **📌 THIS IS THE DEMAND-SIDE TWIN OF THE LANDLOCKED FINDING: Henry Hub is FLAT at $2.81 while a sovereign 9.6× away is choosing blackouts over cargoes. **THE SAME DISCONNECTION, VIEWED FROM THE STARVING END.***
+- **✅ AND IT PARTIALLY CLOSES THIS MORNING'S ⬜ on Qatar's market position: *"Qatar was the biggest supplier of LNG to Pakistan, under long-term contracts."* A named dependency, not a global share.** 🚩 **⬜ the global share still open.**
+
+### GRADES (16c) → [[grades]] — **LNG HOLDS 6.** Tolling logic unchanged; ⬜ uncontracted % still the binding unknown. **⚠️ NOTE THE ASYMMETRY THOUGH: a force-majeured Qatar sourcing third-party cargoes is a DEMAND-SIDE bid for US molecules that competes with the European fill-chase — bullish for US cargo HOLDERS, and for Cheniere only through MARKETING volumes.**
+**📌 REGISTERED:** ✅ **NOT a contradiction — force majeure is the missing mechanism; Qatar is defending its franchise** · ⛔ **my 10:50am "must deliver or default" was WRONG AS LAW; the corrected read (delivering despite legal cover) is stronger** · ⭐ **TTF conversion VALIDATED to 3.6% by an Asian tender bid** · ⛔ **THE 12.2× IS RETIRED — two independent routes give ~9.6-9.9×** · ⭐ **Europe is bidding 20.5% over the international mark** · ★ **a failed tender = demand destruction measured at the moment of rationing** · 🚩 **⬜ Qatar's global LNG share; ⬜ force-majeure expiry date.**
+**Links:** [[demand-destruction]] · [[europe-energy-crunch]] · [[nuclear]] · [[grades]]
