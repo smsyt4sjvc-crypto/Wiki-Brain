@@ -105,6 +105,9 @@ monetary transmission is ASYMMETRIC — hikes ration housing (already breaking),
 permitted ⇒ by elimination the adjustment variable is the REAL YIELD — administered curve +
 above-target inflation = repression; gold is the residual claim ([[new-economy-regime]] 8/26).**
 
+
+**⭐ 2026-09-11 3:55pm — A THIRD INSTRUMENT ON THE ROSTER, AND IT CAUGHT MY OWN ARITHMETIC (Jake: *"start with wall st forward 12-mo guidance and current price deviations"*):** **sell-side 12-month targets on 40 names (Nasdaq, keyless). (1) ⛔ IT EXPOSED A HARD ERROR — my 9/11 2:35pm LEAPS table published the FORWARD as the SPOT (parity solved without discounting the strike), so every breakeven was 8-15pp too low; **order unchanged, levels restated** ([[grades]] 9/11 3:55pm). (2) ★ **THE REFINERS ARE THE ONLY NEGATIVE GAPS ON THE BOARD** — street targets sit BELOW spot on PBF/VLO/MPC/DINO/PSX and PBF is 1 buy/7 hold/**3 sell**, while the "stale analyst" rebuttal fails (the street RAISED PBF's target +138% in 12 months and price still outran it) ⇒ **independent corroboration, from an instrument sharing no input, of the 9/10 99.4th-percentile call: the next refiner move is a TRIM, not an add.** (3) **TLN condemned by a third independent instrument** (dearest vol on the board against the TIGHTEST analyst spread, disp/IV 0.61) — now the most secure conclusion in the LEAPS thread. ⛔ **Perimeter: 12-month numbers cannot move a 120-day grade (16c(c)) and none were moved; range-based "variance" is outlier-driven — QCOM's 118% is ONE analyst, ORCL's 100.3% is real (n=28, $145→$400).**
+
 ## ⚡ BRANCHES — if X does Y (dated in · pruned when resolved)
 | in | IF | THEN | instrument |
 |---|---|---|---|
