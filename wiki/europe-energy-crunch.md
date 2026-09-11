@@ -174,3 +174,33 @@ _Note created 2026-08-18, closing the TTF/European-gas gap registered at `war-bo
 ### GRADES (16c) → [[grades]] — **LNG HOLDS 6** (trigger half-fired, ⬜ uncontracted %) · **no other roster name moves.** **⚠️ The European industrial read — at 10× US gas, energy-intensive EU manufacturing is uncompetitive — is a STATE this file already carries, not a new event.**
 **📌 REGISTERED:** ⛔ **"12.2×" NOT REPRODUCIBLE — I get 9.94×; do not quote theirs** · 🚩 **⬜ which US benchmark the 12.2× uses** · ⭐ **the ratio move is 100% European; HH −0.4% YTD = the landlocked claim proven** · 🚩🚩 **⬜ CHENIERE UNCONTRACTED % — highest-value unknown on the roster** · ⬜ **the late-Feb step change in TTF, unnamed** · 📌 **no European gas option ⇒ the Loviisa nuclear PPA's economic reason.**
 **Links:** [[buildout-bottleneck-map]] · [[nuclear]] · [[demand-destruction]] · [[grades]]
+
+## 2026-09-10 ~6:10pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE: *"SOMETHING'S GOTTA GIVE BEFORE THE WEATHER — OR THOSE SPOTS WILL START FILLING? RAPIDLY?"* — **ANSWERED AS A CALL (rule 14). THEY *ARE* FILLING RAPIDLY, AT ONE OF THE HIGHEST INJECTION RATES IN YEARS, AND IT IS STILL NOT ENOUGH.** EU STORAGE IS **66.59%** — **16.58pp BELOW THE 5-YEAR AVERAGE AND THE LOWEST FOR THE DATE SINCE RECORDS BEGAN IN 2011.** ⇒ **WHAT GIVES IS NOT THE PRICE AND NOT THE WEATHER. IT IS THE TARGET — AND SOMEONE ELSE'S SUPPLY.*** *(AGSI via ACER/TASS/Oxford Energy; AGSI's own API is key-walled — error class 7, varied the tool)*
+
+### DATA
+- **EU storage **66.59% (Sep 5)**, from **65.39% (Sep 1)**. **16.58pp below the 5-yr average** for the date. **79% a year ago.** **LOWEST FOR THE DATE SINCE RECORDS BEGAN (2011).** Entered injection season at the lowest since 2018 (~31 bcm).**
+- **EU standard: **90% full between Oct 1 and Dec 1.** Net injection needed ≈ **68 bcm.***
+- **Injection in early September is running at *"one of the highest levels seen in recent years"* — and TTF is at a YTD high, near late-2022 levels. Europe is filling **"even at high prices."***
+
+### ⛔ THE ARITHMETIC — AND IT IS THE ANSWER
+**Observed: +1.20pp in 4 days = **0.300 pp/day**, at a near-record rate.**
+| checkpoint | days | projects | shortfall vs 90% | rate NEEDED |
+|---|---|---|---|---|
+| **Oct 1 — target window OPENS** | 26 | **74.4%** | **−15.6pp** | **0.900 pp/day = 3.00× current** |
+| Nov 1 | 57 | 83.7% | −6.3pp | 0.411 = **1.37×** |
+| Dec 1 — window CLOSES | 87 | 92.7% | +2.7 | 0.269 = 0.90× |
+- ⇒ **⛔⛔ **AT A NEAR-RECORD INJECTION RATE, EUROPE REACHES 90% ON ~NOVEMBER 22** — **51 DAYS AFTER THE TARGET WINDOW OPENS**, and well into the period when withdrawals normally begin.** **Hitting 90% by Oct 1 requires **THREE TIMES** a rate already described as one of the highest in years. That is not a forecast problem; it is arithmetically out of reach.**
+- ⚠️⚠️ **AND THE PROJECTION IS **OPTIMISTIC**, BY CONSTRUCTION: injection rates **DECLINE** as storage fills (back-pressure rises, deliverability falls). A linear extrapolation is the BEST case. ⇒ the real shortfall is worse than the table.**
+- ⚠️ **PERIMETER, and it is the weakest link: **0.300 pp/day is measured over FOUR DAYS.** The vault's own rule — on a volatile series only the multi-week average is a datum — applies to me here. **This is a direction and a magnitude, NOT a projection.** 🚩 **⬜ the 4-week average injection rate; it is the number that would make this a real forecast.**
+
+### ★★★★★★★ THE CALL — WHAT ACTUALLY GIVES
+1. **NOT THE PRICE.** **The bid is DEADLINE-DRIVEN and therefore PRICE-INELASTIC until the deadline.** Europe must fill before winter regardless of cost, and TASS/ACER both record it filling *"even at high prices."* ⇒ **that is why TTF prints its YTD high in SEPTEMBER rather than in January — the scarcity is a CALENDAR, not a temperature.** ⇒ **there is a structural FLOOR under TTF through roughly Nov 1.**
+2. **⛔ THE TARGET GIVES.** 90%-by-Oct-1 is unreachable at 3× a record rate. **The EU has already softened this standard once into a flexible one.** ⇒ **BASE CASE: the target is flexed, waived or quietly restated, and that is the cheapest of the three things that can break.** 🚩 **⬜ the current legal status of the 90% rule — it decides whether this is a headline or a non-event.**
+3. **★★★ AND THE THING THAT HAS *ALREADY* GIVEN IS SOMEONE ELSE'S SUPPLY.** **Europe is bidding **20.5% above the international LNG mark** (computed 6:00pm: TTF $27.94 vs $23.18). **Pakistan rejected its only cargo bid at $26.97 and took 24-hour blackouts instead.*** ⇒ **⇒ PAKISTAN'S BLACKOUTS ARE EUROPE'S STORAGE FILL. The marginal molecule is not being created; it is being RE-ROUTED, and the price is the auction that decides who goes dark.** *(Analysis. This is the cleanest single statement of the day's energy work.)*
+4. **THE WEATHER IS THE *RESIDUAL*, NOT THE TRIGGER.** ⇒ **Europe enters winter short on the most likely path. A mild winter makes it survivable; a cold one converts a storage shortfall into a physical one.** **⇒ the weather does not decide whether there is a problem — it decides the SIZE of one already locked in by the calendar.**
+
+### ⇒ WHAT THIS RESOLVES INSIDE THE VAULT
+- **✅ IT EXPLAINS THE CHENIERE GRADE'S OWN LANGUAGE. The `grades.md` row names the upgrade path as *"a large uncontracted share into an **OCT-NOV** TTF spike"* — written without a stated reason for those months. **NOW THERE IS ONE: Oct-Nov is when the injection deadline binds hardest AND when an inadequate fill converts into a winter-risk premium.*** ⇒ **the trigger was better-specified than its author knew.** 🚩🚩 **⬜ Cheniere's uncontracted % — still the binding unknown, and now on a dated clock.**
+- **📌 THE NOVEMBER CLUSTER GAINS TWO DATES: **Nov 1 (deadline pressure peaks / the inelastic bid releases)** and **Dec 1 (the 90% window closes)** — alongside 11/3 midterms, 11/4 refunding, 11/10 rare earths, 11/12 Cursor, ~11/14 NVDA 13F, 11/23 Jupiter, and the war's claimed termination date.**
+- **✔ AND IT IS CONSISTENT WITH THE LANDLOCKED FINDING RATHER THAN A SEPARATE STORY: Henry Hub sits flat at $2.81 through all of this because no spare liquefaction connects the two markets. **Europe's deadline cannot reach US supply; it can only outbid Asia for the cargoes already floating.***
+**📌 REGISTERED:** ★ **CALL: the TARGET gives, not the price; the weather sizes a problem already locked in** · ⭐ **90% by Oct 1 needs 3× a record injection rate — out of reach** · ⭐ **Pakistan's blackouts are Europe's storage fill** · 📌 **structural TTF floor to ~Nov 1, then it releases or converts to winter risk** · 🚩 **⬜ the 4-week average injection rate (makes this a forecast)** · 🚩 **⬜ current legal status of the 90% rule** · 📌 **Nov 1 and Dec 1 added to the November cluster.**
