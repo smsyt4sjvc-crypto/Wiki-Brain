@@ -1,0 +1,23 @@
+Open roles → 
+ ← All news November 12, 2025 · customers
+ Fluidstack selected by Anthropic to deliver custom data centers in New York and Texas
+ The $50 billion investment in American computing infrastructure will create approximately 800 permanent and 2,400 construction jobs.
+
+ San Francisco, CA | Wednesday 12th November 2025 | 07:00 
+ Fluidstack is announcing a $50 billion American computing infrastructure deal with Anthropic , building data centers in New York and Texas, with more sites to come. These facilities are custom built for Anthropic, with a focus on maximizing efficiency for their workloads and underpinning their work at the frontier of AI.
+ The project will create approximately 800 permanent jobs and 2,400 construction jobs, with sites coming online throughout 2026. It will help advance President Trump’s goals of maintaining American AI leadership.
+ Anthropic selected New York Headquartered Fluidstack for its ability to move with exceptional agility, enabling rapid delivery of gigawatts of power. “Fluidstack was built for this moment,” said Gary Wu , Co-Founder and CEO of Fluidstack . "We're proud to partner with frontier AI leaders like Anthropic to accelerate and deploy the infrastructure necessary to realize their vision." 
+ The approximately 800 permanent positions will earn an average salary of nearly $144,000. Construction will also create thousands of good-paying local jobs. This investment reflects both Fluidstack and Anthropic’s commitment to technological leadership and meaningful economic impact in the communities where we operate.
+ “We’re getting closer to AI that can accelerate scientific discovery and help solve complex problems in ways that weren’t possible before. Realizing that potential requires infrastructure that can support continued development at the frontier,” said Dario Amodei, CEO and Co-Founder of Anthropic . “These sites will help us build more capable AI systems that can drive those breakthroughs, while creating American jobs."
+ About Fluidstack 
+ Fluidstack accelerates the world’s most ambitious AI projects by removing the bottlenecks to compute. Partnering with leading AI labs, governments, and enterprises, we deploy scaled infrastructure at speed to unlock a future of abundant intelligence.
+
+ More news
+ All news → 
+
+ Fluidstack raised $830M Series A
+ Read announcement 
+ Fluidstack Expands U.S. Investment by Relocating Global Headquarters to New York City
+ Read announcement 
+ Fluidstack awarded ClusterMAX™ Gold by SemiAnalysis
+ Read announcement
