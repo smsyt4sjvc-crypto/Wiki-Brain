@@ -685,3 +685,28 @@ project space; more are likely.**
     **⚠️ AND SCOPE-MATCHING IS NOT THE SAME AS AGREEING** — I checked whether PUE dissolved the
     Huang/Krishna contradiction and it does not, either direction. **Pin the perimeters first, THEN
     find out whether the dispute is real. Most of the time it is.**
+
+22. **⛔ DEBATE BEFORE ENTRY (Jake, 2026-09-13: "We debate input before we push… We need to lock
+    down what we want, enter it once, to reduce errors and speed. You have internet so verifying is
+    default. Large fetches can still be gophers. The discussion needs to be had prior to entry into
+    the vault.")**
+    **THE WORKFLOW:** inbound → librarian gate + VERIFICATION (fetch the primary NOW, during the
+    discussion — not after filing) → **PROPOSED ENTRY presented in CHAT** (what goes where, the key
+    claims, what verified, what didn't) → Jake responds → **the SETTLED version enters the vault
+    ONCE.**
+    · **wiki/ is CONCLUSIONS — entered once, after the discussion.** No entry → correction →
+      supersede chains born inside a single conversation.
+    · **chat-log/ is THE DEBATE RECORD — still written freely.** The staging area is the chat and
+      its log, not the boards.
+    · **Verification is DEFAULT, not follow-up.** Internet is available; the primary gets fetched in
+      the discussion phase. Large fetches still delegate to gophers (rule 19 tiers).
+    · **Grade moves, supersedes, new ⚡ branches, and new rules ALWAYS wait for the discussion.**
+      Time-critical reads (a gate print, an auction result) are PULLED and REPORTED in chat
+      immediately — the vault entry still waits.
+    **WHY (this session's own record, one day):** the 159×/1.26× synthesis was filed and corrected
+    within two hours; the Fluidstack entry was amended twice in thirty minutes ("withdraws my
+    conclusion from 20 minutes ago"); the rates diagnosis flipped across three entries in 24 hours.
+    **Every one of those chains would have been ONE clean entry under this rule — and the review
+    that broke the 159× synthesis is exactly the discussion that should have happened BEFORE it
+    entered.** *(Also the fifth near-miss that week was caught only at the last step: "re-read the
+    entry, not my memory of it." Debate-first makes that check structural instead of heroic.)*
