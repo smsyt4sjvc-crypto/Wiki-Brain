@@ -1465,3 +1465,12 @@ four-die design abandoned = STRONGLY REPORTED, NOT NVDA-CONFIRMED · "Rubin Ultr
 - **MU 7 hold** — a qualitative buyer comment is not a driver; the two-track hypothesis is the thing to test before any grade moves.
 
 ### Addendum 2026-09-14 ~3:25pm PDT (rule 22, entered once) — ⭐⭐⭐ **THE SHORTAGE IS NOW SHAPING NVDA'S OWN FLAGSHIP: SemiAnalysis — the production Vera Rubin SKU runs **1.5TB of CPU LPDDR5X per compute tray at 2300W**, and *"we chat more about why NVIDIA had to CUT THEIR VERA MEMORY IN HALF"* (paid section).** ⇒ **the CPU-side memory content this board flagged as the BIGGER cost share (SOCAMM2, `:L850`: memory ≈ 62% of the Vera Rubin BOM) has been HALVED on the production part — supply constraint expressed as a spec cut on the most valuable system in the industry.** Consistent with, and escalating, the F3 pass-through resolution: NVDA passes memory cost through AND now rations memory content. ⬜ the paid section's reasoning · whether the cut is supply (MU/SK/Samsung allocation) or thermals/cost.
+
+## 2026-09-15 ~9:00am PDT — **MU TAIWAN LABOR: THE STANDING "TAIWAN ⬜" CAP BECOMES A DATED OPERATIONAL RISK — MEDIATION 9/18 AND 9/21.** *(Reuters via holdings scan; settled per rule 22.)*
+### DATA (observed)
+- **Micron's Taoyuan union: absent a concrete proposal at the Sep 18 and Sep 21 mediation sessions, it may declare negotiations broken and move toward a STRIKE VOTE.** Taoyuan + Taichung unions represent **>80% of ~15,000 Taiwan employees** — the DRAM/HBM manufacturing heart. **Ask: a PERMANENT 15% of operating profit to employees** (vs one-off rewards). **NO strike called; NO production impact; Micron: continuing mediation "in good faith."**
+### THESIS (interpretation — NOT fact)
+- **The grades row was pre-positioned — "Taiwan ⬜" has capped MU 8 since 9/2-9/3; this converts the cap from vague concentration risk to a dated operational catalyst.** At record HBM margins a permanent 15% of operating profit is a multi-billion-dollar annual ask — the anchor's size is why mediation may be hard. **Two-sided: a stoppage is SUPPLY-BULLISH for memory pricing (the shortage regime tightens further) and operationally negative MU — the rare event that hurts the name while proving its board's thesis.**
+### GRADES (16c) → [[grades]]
+**MU 8 HOLD — no strike, no production impact; row cap updated. 🔴 9/18 + 9/21 = the catalysts.**
+**Links:** [[grades]] · [[compression-thesis]] (memory shortage ledger)

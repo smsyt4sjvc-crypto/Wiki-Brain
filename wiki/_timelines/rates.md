@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **439 dated entries across 3 notes · 2026-02-10 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
+> **440 dated entries across 3 notes · 2026-02-10 → 2026-09-15 · refreshed 2026-09-15 09:06 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -464,3 +464,4 @@
 - `2026-09-14` [rates-board.md:L3509](../rates-board.md) — Addendum 2026-09-14 ~9:15am PDT — ⭐⭐⭐⭐⭐ **SEPT 30, 8:30am ET, REGISTERED AS THE DATED ARBITER OF LAST NIGHT'S GS-vs-JAKE ENTRY: **BEA'S ANNUAL UPDATE 
 - `2026-09-14` [rates-board.md:L3515](../rates-board.md) — 2026-09-14 ~5:15pm PDT — 🔴⭐⭐⭐⭐⭐ **MONDAY CLOSE (evening fragility scan; settled per rule 22, entered once): THE ROUND TRIP — 10Y BROKE 5% INTRADAY (5.
 - `2026-09-14` [rates-board.md:L3523](../rates-board.md) — Addendum 2026-09-14 ~7:35pm PDT — ⭐⭐⭐⭐ **PRE-FOMC, JAKE: "PRO-HIKES" — REAL WAGES **−0.3% y/y, FIVE MONTHS NEGATIVE** (Rattner chart, BLS/FRED: wages 
+- `2026-09-15` [rates-board.md:L3531](../rates-board.md) — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **TUESDAY PRE-FED SCOREBOARD: 10Y 5.041 OVERNIGHT (HIGHEST SINCE JUL-2007), HOLDING ~5.00 INTO THE OPEN — NOT ABSORBED 

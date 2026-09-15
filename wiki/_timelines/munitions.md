@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **273 dated entries across 2 notes · 2026-05-22 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
+> **274 dated entries across 2 notes · 2026-05-22 → 2026-09-15 · refreshed 2026-09-15 09:06 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -298,3 +298,4 @@
 - `2026-09-13` [war-board.md:L4993](../war/war-board.md) — 2026-09-13 ~6:25pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE "RESUMPTION vs REPAIR" DISCRIMINATOR RESOLVES — TO **REPAIR, WITH TWO CLOCKS**: YANBU HOLDS **5-7 DAYS OF EXPOR
 - `2026-09-14` [war-board.md:L5008](../war/war-board.md) — 2026-09-14 ~8:50am PDT — ⭐⭐⭐⭐⭐ **OMAN POSTPONED — **BY SAUDI ARABIA** — AND THE 77-SHIP LIST GIVES THE PERMISSION REGIME ITS ENFORCEMENT ARM (settled 
 - `2026-09-14` [war-board.md:L5015](../war/war-board.md) — Addendum 2026-09-14 ~9:05am PDT — ⛔⭐⭐⭐ **THE PETROLINE REPAIR CLOCK RE-OPENS TO **CONTESTED, THREE WAYS** — HOURS AFTER I FILED IT AS "WEEKS" (settled
+- `2026-09-15` [war-board.md:L5021](../war/war-board.md) — 2026-09-15 ~9:00am PDT — **HORMUZ TRANSIT REGIME + THE GULF AWS BACKFILL (a construction blind spot closed).** *(Jake's two morning scans + web verifi

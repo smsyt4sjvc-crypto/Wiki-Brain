@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **161 dated entries across 2 notes · 2026-07-16 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
+> **162 dated entries across 2 notes · 2026-07-16 → 2026-09-15 · refreshed 2026-09-15 09:06 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -180,3 +180,4 @@
 - `2026-09-13` [compression-thesis.md:L3411](../compression-thesis.md) — Addendum 2026-09-13 ~5:30pm PDT — ⭐⭐⭐⭐ **"BRUTAL DAY FOR AI STOCKS TOMORROW" TWEET, AUDITED — AND JAKE'S THREE-LAYER FORMULATION OF WHY ITS MECHANISM 
 - `2026-09-13` [compression-thesis.md:L3432](../compression-thesis.md) — Addendum 2026-09-13 ~6:35pm PDT — ✅ **THE THREE-LAYER MODEL'S FIRST OUT-OF-SAMPLE TEST ARRIVED 90 MINUTES AFTER IT WAS FILED, AND THE GRADIENT MATCHES
 - `2026-09-14` [memory-regime-question.md:L1419](../memory-regime-question.md) — Addendum 2026-09-14 ~3:25pm PDT (rule 22, entered once) — ⭐⭐⭐ **THE SHORTAGE IS NOW SHAPING NVDA'S OWN FLAGSHIP: SemiAnalysis — the production Vera Ru
+- `2026-09-15` [memory-regime-question.md:L1421](../memory-regime-question.md) — 2026-09-15 ~9:00am PDT — **MU TAIWAN LABOR: THE STANDING "TAIWAN ⬜" CAP BECOMES A DATED OPERATIONAL RISK — MEDIATION 9/18 AND 9/21.** *(Reuters via ho

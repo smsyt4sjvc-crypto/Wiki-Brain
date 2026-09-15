@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **962 dated entries · 2026-02-10 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
+> **965 dated entries · 2026-02-10 → 2026-09-15 · refreshed 2026-09-15 09:06 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -997,3 +997,6 @@
 - `2026-09-14` **[3]** ai-financing-fragility.md:L8278 — 2026-09-14 ~5:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE EVENING SCAN DELIVERS THE AGGREGATE AND CLOSES YESTERDAY'S ⬜ (settled per rule 22, entered once): **~$1.09 TRIL
 - `2026-09-14` **[5]** metered-compute.md:L3471 — 2026-09-14 ~3:25pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS: FIRST VERIFIED VERA RUBIN NVL72 AGENTIC-INFERENCE RESULTS (settled per rule 22, entered once) — AND THE
 - `2026-09-14` **[5]** memory-regime-question.md:L1419 — Addendum 2026-09-14 ~3:25pm PDT (rule 22, entered once) — ⭐⭐⭐ **THE SHORTAGE IS NOW SHAPING NVDA'S OWN FLAGSHIP: SemiAnalysis — the production Vera Ru
+- `2026-09-15` **[1]** rates-board.md:L3531 — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **TUESDAY PRE-FED SCOREBOARD: 10Y 5.041 OVERNIGHT (HIGHEST SINCE JUL-2007), HOLDING ~5.00 INTO THE OPEN — NOT ABSORBED 
+- `2026-09-15` **[5]** metered-compute.md:L3487 — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE THESIS GETS A TAPE: CFTC DEEMS A COMPUTE EXCHANGE + CLEARINGHOUSE "MATERIALLY COMPLETE," AND CME LAUNCHES AI-COMP
+- `2026-09-15` **[5]** memory-regime-question.md:L1421 — 2026-09-15 ~9:00am PDT — **MU TAIWAN LABOR: THE STANDING "TAIWAN ⬜" CAP BECOMES A DATED OPERATIONAL RISK — MEDIATION 9/18 AND 9/21.** *(Reuters via ho

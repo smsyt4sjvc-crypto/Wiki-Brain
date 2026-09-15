@@ -1,6 +1,6 @@
 # ⏱ MODEL-ECON — merged timeline (the gate)
 
-> **211 dated entries across 2 notes · 2026-07-16 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
+> **212 dated entries across 2 notes · 2026-07-16 → 2026-09-15 · refreshed 2026-09-15 09:06 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -230,3 +230,4 @@
 - `2026-09-13` [compression-thesis.md:L3411](../compression-thesis.md) — Addendum 2026-09-13 ~5:30pm PDT — ⭐⭐⭐⭐ **"BRUTAL DAY FOR AI STOCKS TOMORROW" TWEET, AUDITED — AND JAKE'S THREE-LAYER FORMULATION OF WHY ITS MECHANISM 
 - `2026-09-13` [compression-thesis.md:L3432](../compression-thesis.md) — Addendum 2026-09-13 ~6:35pm PDT — ✅ **THE THREE-LAYER MODEL'S FIRST OUT-OF-SAMPLE TEST ARRIVED 90 MINUTES AFTER IT WAS FILED, AND THE GRADIENT MATCHES
 - `2026-09-14` [metered-compute.md:L3471](../metered-compute.md) — 2026-09-14 ~3:25pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS: FIRST VERIFIED VERA RUBIN NVL72 AGENTIC-INFERENCE RESULTS (settled per rule 22, entered once) — AND THE
+- `2026-09-15` [metered-compute.md:L3487](../metered-compute.md) — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE THESIS GETS A TAPE: CFTC DEEMS A COMPUTE EXCHANGE + CLEARINGHOUSE "MATERIALLY COMPLETE," AND CME LAUNCHES AI-COMP

@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **561 dated entries across 4 notes · 2026-05-22 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
+> **562 dated entries across 4 notes · 2026-05-22 → 2026-09-15 · refreshed 2026-09-15 09:06 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -586,3 +586,4 @@
 - `2026-09-14` [ai-financing-fragility.md:L8271](../ai-financing-fragility.md) — Addendum 2026-09-14 ~8:55am PDT — ⭐⭐⭐⭐ **MONDAY'S REPRICING, SCORED (settled per rule 22, entered once): A DISCOUNT-RATE SHOCK IN AN AI-PACING COSTUME
 - `2026-09-14` [ai-financing-fragility.md:L8278](../ai-financing-fragility.md) — 2026-09-14 ~5:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE EVENING SCAN DELIVERS THE AGGREGATE AND CLOSES YESTERDAY'S ⬜ (settled per rule 22, entered once): **~$1.09 TRIL
 - `2026-09-14` [metered-compute.md:L3471](../metered-compute.md) — 2026-09-14 ~3:25pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS: FIRST VERIFIED VERA RUBIN NVL72 AGENTIC-INFERENCE RESULTS (settled per rule 22, entered once) — AND THE
+- `2026-09-15` [metered-compute.md:L3487](../metered-compute.md) — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE THESIS GETS A TAPE: CFTC DEEMS A COMPUTE EXCHANGE + CLEARINGHOUSE "MATERIALLY COMPLETE," AND CME LAUNCHES AI-COMP
