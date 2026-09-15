@@ -1,6 +1,6 @@
 # ⏱ INVENTORY — merged timeline (the gate)
 
-> **152 dated entries across 1 notes · 2026-03-13 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
+> **157 dated entries across 1 notes · 2026-03-13 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -177,3 +177,8 @@
 - `2026-09-09` [demand-destruction.md:L4181](../demand-destruction.md) — Addendum 2026-09-09 ~12:05pm PDT — ⭐⭐⭐⭐⭐⭐ **I ASSERTED A MISSING INVENTORY BUFFER TEN MINUTES AGO AND FLAGGED IT AS UNFETCHED. PULLED IT. **CONFIRMED,
 - `2026-09-09` [demand-destruction.md:L4190](../demand-destruction.md) — 2026-09-09 ~12:20pm PDT — ⭐⭐⭐⭐⭐⭐ **A SITTING PRESIDENT PUTS A *DATE* ON AN OIL DECLINE AND TIES IT TO AN ELECTION — AND THE MARKET PRICED THE HALF THA
 - `2026-09-10` [demand-destruction.md:L4207](../demand-destruction.md) — Addendum 2026-09-10 ~7:40am PDT — **TRUMP'S $5,000 DIVIDEND: ~$1.23 TRILLION, CONDITIONAL ON THE MIDTERMS, AND REQUIRED TO BE *SPENT DOMESTICALLY.* IT
+- `2026-09-10` [demand-destruction.md:L4215](../demand-destruction.md) — 2026-09-10 ~4:50pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **US RETAIL DIESEL IS AT AN **ALL-TIME HIGH — $5.967**, ABOVE THE 2022 PEAK, IN 1,695 WEEKS OF EIA DATA — WHILE GASOL
+- `2026-09-10` [demand-destruction.md:L4265](../demand-destruction.md) — 2026-09-10 ~6:35pm PDT — ★★★★★★★ **JAKE: *"THE NEXT COUPLE YEARS HAVE TO BE DOMINATED BY ENERGY RIGHT?"* — **ANSWERED AS A CALL (rule 14). NO AS STATE
+- `2026-09-14` [demand-destruction.md:L4291](../demand-destruction.md) — 2026-09-14 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE DIESEL THESIS'S NAMED DISCONFIRMER ARRIVES AS A CLAIM: TRUMP POSTS THAT RUSSIA AND UKRAINE "AGREE" TO HALT ATTACK
+- `2026-09-14` [demand-destruction.md:L4297](../demand-destruction.md) — 2026-09-14 ~4:50pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BOARD'S TITLE EVENT (settled per rule 22, entered once): THE IEA PRINTS **2020-SCALE DEMAND DESTRUCTION — −2.5 
+- `2026-09-14` [demand-destruction.md:L4315](../demand-destruction.md) — Addendum 2026-09-14 ~8:10pm PDT — ⭐⭐⭐⭐ **CHINA'S AUGUST DATA (settled per rule 22, entered once): PRODUCTION UP, ABSORPTION DOWN — AND IT IS THE **SEC

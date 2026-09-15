@@ -1,6 +1,6 @@
 # ⏱ SHEETS — merged timeline (the gate)
 
-> **248 dated entries across 2 notes · 2026-05-22 → 2026-09-09 · refreshed 2026-09-10 08:36 PDT**
+> **257 dated entries across 2 notes · 2026-05-22 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -273,3 +273,12 @@
 - `2026-09-09` [ai-financing-fragility.md:L8017](../ai-financing-fragility.md) — Addendum 2026-09-09 ~10:10am PDT — **THE GOOGLE CLOUD BACKLOG ⬜ I CALLED "THE HIGHEST-VALUE FETCH ON THIS ITEM" AT 7:50AM GETS A PARTIAL ANSWER — AND 
 - `2026-09-09` [ai-financing-fragility.md:L8023](../ai-financing-fragility.md) — 2026-09-09 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MONITOR'S BIGGEST NUMBER IS ONE NOBODY IN IT DECOMPOSES: **70% OF NVIDIA'S $22.4B RECEIVABLES INCREASE IS *TERM
 - `2026-09-09` [ai-financing-fragility.md:L8047](../ai-financing-fragility.md) — 2026-09-09 ~5:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT ALREADY HOLDS THE Q1 13F, SO HALF THE AUTHOR'S NOVEMBER TEST IS ANSWERABLE TONIGHT: **NVIDIA HAS NOT SOLD
+- `2026-09-11` [ai-financing-fragility.md:L8070](../ai-financing-fragility.md) — 2026-09-11 ~9:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **BofA PUTS AN INDEX ON THE VAULT'S CENTRAL CALL — AND IT IS **PROGRESSION, NOT CONFIRMATION**: THE AI CREDIT PREMIUM
+- `2026-09-12` [ai-financing-fragility.md:L8113](../ai-financing-fragility.md) — Addendum 2026-09-12 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE CIRCULARITY GAINS ITS **THIRD** INSTANCE AND ITS FIRST AT **IPO-EQUITY** LEVEL: NVDA REPORTEDLY CONSIDER
+- `2026-09-12` [ai-financing-fragility.md:L8136](../ai-financing-fragility.md) — Addendum 2026-09-12 ~9:45am PDT — ⭐⭐⭐⭐⭐ **THE DENOMINATOR ARRIVES. THE BOARD HAS BEEN ARGUING ABOUT ANTHROPIC-AS-COUNTERPARTY FOR WEEKS WITH **NO REVE
+- `2026-09-13` [ai-financing-fragility.md:L8156](../ai-financing-fragility.md) — 2026-09-13 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **A $50 BILLION ANTHROPIC COMPUTE COUNTERPARTY THE VAULT HAS **NEVER RECORDED** — `grep -i fluidstack` RETURNS **ZERO
+- `2026-09-13` [ai-financing-fragility.md:L8189](../ai-financing-fragility.md) — Addendum 2026-09-13 ~11:25am PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **JAKE IS RIGHT AND IT IS **THE SAME COMPANY, THREE DAYS AGO: THE PENTAGON IS IN TALKS TO LEND ~$5 BILLION
+- `2026-09-13` [ai-financing-fragility.md:L8217](../ai-financing-fragility.md) — Addendum 2026-09-13 ~11:45am PDT — ✅⭐⭐⭐⭐⭐⭐⭐⭐ **THE CHECK I REGISTERED 30 MINUTES AGO IS SCORED, AND I WENT TO THE 10-Q MYSELF: **CONFIRMED VERBATIM — 
+- `2026-09-13` [ai-financing-fragility.md:L8257](../ai-financing-fragility.md) — Addendum 2026-09-13 ~6:30pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN SUPPLIES THE HIGH-YIELD TIER, AND THE TWO-DESK PICTURE IS NOW COMPLETE: **THE AI CREDIT PREMIUM ROUG
+- `2026-09-14` [ai-financing-fragility.md:L8271](../ai-financing-fragility.md) — Addendum 2026-09-14 ~8:55am PDT — ⭐⭐⭐⭐ **MONDAY'S REPRICING, SCORED (settled per rule 22, entered once): A DISCOUNT-RATE SHOCK IN AN AI-PACING COSTUME
+- `2026-09-14` [ai-financing-fragility.md:L8278](../ai-financing-fragility.md) — 2026-09-14 ~5:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE EVENING SCAN DELIVERS THE AGGREGATE AND CLOSES YESTERDAY'S ⬜ (settled per rule 22, entered once): **~$1.09 TRIL

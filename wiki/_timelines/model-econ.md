@@ -1,6 +1,6 @@
 # ⏱ MODEL-ECON — merged timeline (the gate)
 
-> **198 dated entries across 2 notes · 2026-07-16 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
+> **211 dated entries across 2 notes · 2026-07-16 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -217,3 +217,16 @@
 - `2026-09-09` [compression-thesis.md:L3079](../compression-thesis.md) — 2026-09-09 ~9:35am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THIS FILE'S OWN CLASSIFICATION TABLE JUST GOT FALSIFIED BY THE TAPE. `:L2160` PUTS NEOCLOUDS IN A ROW LABELLED **"S
 - `2026-09-09` [compression-thesis.md:L3100](../compression-thesis.md) — Addendum 2026-09-09 ~9:50am PDT — ⚡ **THE POLICY OFF-SWITCH I NAMED 40 MINUTES AGO HAS A LEGISLATIVE VEHICLE AND A LAB TAKING SIDES: **AI OVERWATCH IS
 - `2026-09-10` [compression-thesis.md:L3107](../compression-thesis.md) — 2026-09-10 ~8:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BEST QUANTIFICATION OF TOKEN-PRICE COMPRESSION THIS FILE HAS EVER HAD: **A 159× PRICE RANGE ACROSS A 1.26× QUAL
+- `2026-09-10` [compression-thesis.md:L3141](../compression-thesis.md) — 2026-09-10 ~9:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MODEL ECONOMICS, DECOMPOSED (Jake's Q). MODEL ECONOMICS IS A *SPREAD* — PRICE/TOKEN MINUS COST/TOKEN — AND THIS
+- `2026-09-10` [compression-thesis.md:L3183](../compression-thesis.md) — 2026-09-10 ~9:15am PDT — ⛔⛔⛔ **JAKE ASKS WHETHER I READ THE ARTICLE. I DID NOT — I READ THE LEADERBOARD (pp.9-13) AND STOPPED, AND THE METHODOLOGY BEG
+- `2026-09-10` [compression-thesis.md:L3230](../compression-thesis.md) — 2026-09-10 ~2:15pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE GRAND VIEW AGENTIC-AI CHART HAS **ONE DATUM AND ONE ASSUMPTION**, NOT SEVEN DATA POINTS — THE ARITHMETIC PROVES
+- `2026-09-10` [compression-thesis.md:L3271](../compression-thesis.md) — Addendum 2026-09-10 ~2:20pm PDT — ⚡ **THE POLICY OFF-SWITCH TAKES ITS NEXT STEP AND IT HAS A NAME: **SENATOR VAN HOLLEN HAS WRITTEN TO ALTMAN ABOUT GP
+- `2026-09-10` [compression-thesis.md:L3277](../compression-thesis.md) — 2026-09-10 ~5:00pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **ANTHROPIC'S SEPT-2026 THREAT REPORT (read in full, fetched). ⛔ CLASS 8 FIRST AND IT IS UNAVOIDABLE: **THE VENDOR IS
+- `2026-09-10` [metered-compute.md:L3399](../metered-compute.md) — 2026-09-10 ~5:55pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **NADELLA'S "REVERSE INFORMATION PARADOX" (Jul 12) vs THE VAULT'S RECORD. JAKE'S CLAIM CHECKED, NOT AGREED WITH: **ON
+- `2026-09-12` [metered-compute.md:L3438](../metered-compute.md) — ⟲ AMENDMENT 2026-09-12 ~8:20am PDT — ⭐⭐⭐⭐⭐⭐ **THE RSI CLAIM FINALLY HAS AN ARTIFACT, AND IT CARRIES **NUMBERS PLUS A SELF-CAVEAT** — WHICH IS WHAT `L1
+- `2026-09-13` [compression-thesis.md:L3320](../compression-thesis.md) — 2026-09-13 ~7:45am PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **JAKE'S READ IS RIGHT AND THIS FILE ALREADY HOLDS THE NUMBER THAT PROVES IT: **A 159× PRICE RANGE ACROSS A 1.26× QU
+- `2026-09-13` [compression-thesis.md:L3354](../compression-thesis.md) — ⛔⛔⛔ CORRECTION 2026-09-13 ~8:05am PDT — **THE REVIEW IS RIGHT ON EVERY COUNT AND THE ERRORS ARE MINE FROM YESTERDAY, NOT IN THE 9/10 ENTRY. I DEGRADED
+- `2026-09-13` [compression-thesis.md:L3391](../compression-thesis.md) — Addendum 2026-09-13 ~1:55pm PDT — ⇒ **JAKE: *"THIS IS BULLISH IF TRUE… FREE OF THAT CULPABILITY, THEY CAN FLOOR IT."* — THE CALL, AND IT NEEDS A **FOR
+- `2026-09-13` [compression-thesis.md:L3411](../compression-thesis.md) — Addendum 2026-09-13 ~5:30pm PDT — ⭐⭐⭐⭐ **"BRUTAL DAY FOR AI STOCKS TOMORROW" TWEET, AUDITED — AND JAKE'S THREE-LAYER FORMULATION OF WHY ITS MECHANISM 
+- `2026-09-13` [compression-thesis.md:L3432](../compression-thesis.md) — Addendum 2026-09-13 ~6:35pm PDT — ✅ **THE THREE-LAYER MODEL'S FIRST OUT-OF-SAMPLE TEST ARRIVED 90 MINUTES AFTER IT WAS FILED, AND THE GRADIENT MATCHES
+- `2026-09-14` [metered-compute.md:L3471](../metered-compute.md) — 2026-09-14 ~3:25pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS: FIRST VERIFIED VERA RUBIN NVL72 AGENTIC-INFERENCE RESULTS (settled per rule 22, entered once) — AND THE

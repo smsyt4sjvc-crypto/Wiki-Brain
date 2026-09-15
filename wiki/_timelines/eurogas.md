@@ -1,6 +1,6 @@
 # ⏱ EUROGAS — merged timeline (the gate)
 
-> **228 dated entries across 3 notes · 2026-07-23 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
+> **244 dated entries across 3 notes · 2026-07-23 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -246,4 +246,20 @@
 - `2026-09-08` [war-board.md:L4712](../war/war-board.md) — 2026-09-08 ~3:20pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **CENTCOM DESTROYS FIVE MORE IRGC TANKERS (primary release, verbatim) — THE BOARD'S 9/5 FORECAST PRINTED IN THREE DA
 - `2026-09-09` [oil-value-chain.md:L2821](../oil-value-chain.md) — 2026-09-09 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐ **DECOMPOSE THE PUMP BEFORE READING IT (RULE 20), AND THE RECORD IS NOT THE STORY — THE *RATIO* IS. DIESEL $5.94 AGAIN
 - `2026-09-10` [europe-energy-crunch.md:L111](../europe-energy-crunch.md) — 2026-09-10 ~8:15am PDT — ⭐⭐⭐⭐⭐⭐ **A SECOND ENERGY FRONT OPENS AND IT IS NOT IN THE GULF: **UKRAINIAN DRONES ARE NOW STRIKING GAS FACILITIES DEEP INSID
+- `2026-09-10` [europe-energy-crunch.md:L126](../europe-energy-crunch.md) — 2026-09-10 ~6:00pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **TTF PRINTS ITS YTD HIGH ON THE DAY — 82.047 €/MWh, A TRIPLE OFF THE JANUARY LOW. ⛔ THE "12.2×" DOES NOT CHECK ON MY
+- `2026-09-10` [europe-energy-crunch.md:L159](../europe-energy-crunch.md) — 2026-09-10 ~6:10pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE: *"SOMETHING'S GOTTA GIVE BEFORE THE WEATHER — OR THOSE SPOTS WILL START FILLING? RAPIDLY?"* — **ANSWERED AS A
+- `2026-09-10` [europe-energy-crunch.md:L190](../europe-energy-crunch.md) — 2026-09-10 ~6:15pm PDT — ⛔⛔⛔ **JAKE: *"YOU'RE GONNA HAVE TO EXPLAIN THE OCTOBER 1 THING AND WHAT WINDOW."* — HE IS RIGHT TO ASK AND **THE ANSWER IS TH
+- `2026-09-10` [oil-value-chain.md:L2842](../oil-value-chain.md) — 2026-09-10 ~7:15pm PDT — ⛔⭐⭐⭐⭐⭐⭐⭐ **APPEC (Vitol + KPC) SAYS THE DIESEL CRUNCH WORSENS — AND IT IS *LITERALLY* THIS MORNING'S "N COMPANIES, ONE STAGE"
+- `2026-09-10` [oil-value-chain.md:L2879](../oil-value-chain.md) — 2026-09-10 ~7:30pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐⭐ **JAKE, TWICE IN FIVE MINUTES: *"RUSSIA'S DECREE IS CAUSED BY REFINERY CONSTRAINT TOO… THEY WERE IMPORTING AT ONE P
 - `2026-09-10` [war-board.md:L4761](../war/war-board.md) — 2026-09-10 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐⭐ **I WENT TO DEBUNK RYSTAD'S ~2 mb/d HORMUZ NUMBER AS INCONSISTENT WITH $105 BRENT. THE VAULT ALREADY HELD "HORMUZ RUN
+- `2026-09-10` [war-board.md:L4780](../war/war-board.md) — 2026-09-10 ~4:50pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BOARD'S OWN 9/10 READ SAID THE PROXY SUBSTITUTIONS WERE *"DELIBERATELY NOT SYMMETRIC"* AND *"LOWER IRAN'S ATTRI
+- `2026-09-10` [war-board.md:L4805](../war/war-board.md) — 2026-09-10 ~5:05pm PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐⭐ **THE TRIPWIRE IRAN NAMED ITSELF HAS BEEN CROSSED. NETANYAHU: *"Tonight we destroyed the largest Iranian outpost o
+- `2026-09-10` [war-board.md:L4833](../war/war-board.md) — 2026-09-10 ~6:30pm PDT — ⛔⭐⭐⭐⭐⭐⭐⭐ **"HOUTHIS TAKE HISN MURAD" — THE NARROWEST POINT OF BAB-EL-MANDEB, ONE DAY AFTER MOCHA. ⛔ IT PARTLY FALSIFIES MY OW
+- `2026-09-10` [war-board.md:L4866](../war/war-board.md) — Addendum 2026-09-10 ~6:30pm PDT — ⛔ **THE HISN MURAD SOURCE IS NAMED: **@visegrad24.** ⇒ **THE ⬜ DOES NOT CLOSE, AND THE REASON IS A DISTINCTION THIS 
+- `2026-09-10` [war-board.md:L4875](../war/war-board.md) — Addendum 2026-09-10 ~6:35pm PDT — ⛔ **JAKE: *"RT'D BY ZH. USUALLY RELIABLE."* — **HE IS RIGHT ON THE PROBABILITY AND THE VAULT HAS THE DATED PROOF, WH
+- `2026-09-12` [war-board.md:L4905](../war/war-board.md) — 2026-09-12 ~8:55am PDT — ✅⭐⭐⭐⭐⭐⭐⭐ **THE SAUDI "EAST-WEST PIPELINE" IS **PETROLINE**, AND THIS BOARD NAMED ITS THROUGHPUT AS THE DECISIVE RESOLVER IN A
+- `2026-09-12` [war-board.md:L4934](../war/war-board.md) — Addendum 2026-09-12 ~9:35am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BIGGEST ITEM IN THIS BRIEF IS NOT THE PIPELINE — IT IS **THE US CHANGING ITS HORMUZ PROTECTION REGIME 
+- `2026-09-13` [war-board.md:L4951](../war/war-board.md) — 2026-09-13 ~8:55pm PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **JAKE ASKS *"WHY WOULD TRUMP NOT BE HELPING? … MISSILE CONSTRAINT?"* — AND **THIS BOARD HAS CARRIED THE ANSWER SINC
+- `2026-09-13` [war-board.md:L4993](../war/war-board.md) — 2026-09-13 ~6:25pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE "RESUMPTION vs REPAIR" DISCRIMINATOR RESOLVES — TO **REPAIR, WITH TWO CLOCKS**: YANBU HOLDS **5-7 DAYS OF EXPOR
+- `2026-09-14` [war-board.md:L5008](../war/war-board.md) — 2026-09-14 ~8:50am PDT — ⭐⭐⭐⭐⭐ **OMAN POSTPONED — **BY SAUDI ARABIA** — AND THE 77-SHIP LIST GIVES THE PERMISSION REGIME ITS ENFORCEMENT ARM (settled 
+- `2026-09-14` [war-board.md:L5015](../war/war-board.md) — Addendum 2026-09-14 ~9:05am PDT — ⛔⭐⭐⭐ **THE PETROLINE REPAIR CLOCK RE-OPENS TO **CONTESTED, THREE WAYS** — HOURS AFTER I FILED IT AS "WEEKS" (settled

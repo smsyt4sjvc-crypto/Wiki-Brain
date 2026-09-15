@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **421 dated entries across 3 notes · 2026-02-10 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
+> **439 dated entries across 3 notes · 2026-02-10 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -273,6 +273,7 @@
 - `2026-08-19` [rates-board.md:L623](../rates-board.md) — 2026-08-19 ~3:40pm PDT — ⛔✅★★★★★★ **THE CAUSAL DIRECTION IS INVERTED — CROWDING OUT RUNS GOVERNMENT→CORPORATE, AND THE TAPE SAYS CORPORATES ARE *LOSIN
 - `2026-08-19` [rates-board.md:L696](../rates-board.md) — 2026-08-19 ~4:45pm PDT — ★★★★★★ **YES, AND IT ALREADY HAPPENS — BUT IT SHOWS UP IN *SWAPS*, NOT IN CORPORATE SPREADS, AND THE MECHANISM IS BALANCE SHE
 - `2026-08-19` [rates-board.md:L944](../rates-board.md) — DATA (MEASURED — SOMA per-CUSIP, bucketed by years to maturity from 2026-08-19)
+- `2026-08-19` [rates-board.md:L3088](../rates-board.md) — ✓ REGISTERED ITEM CLOSED — `:L211`, open since 2026-08-19
 - `2026-08-20` [new-economy-regime.md:L4075](../new-economy-regime.md) — 2026-08-20 ~8:10am PDT — ✅⭐⭐⭐⭐ **THE CLAIMS DATA INDEPENDENTLY CONFIRMS THE FOMC MINUTES LINE I FILED YESTERDAY, ONE DAY LATER AND FROM A COMPLETELY D
 - `2026-08-20` [rates-board.md:L755](../rates-board.md) — 2026-08-20 ~7:40am PDT — ⛔✅ **THE BRIEF SAYS THE BUYBACK MOVE WAS "LARGELY ERASED." PRIMARY SAYS *HALF*, AND THE SHAPE OF THE GIVE-BACK IS THE FINDING
 - `2026-08-20` [rates-board.md:L817](../rates-board.md) — 2026-08-20 ~12:25pm PDT — ★★★★★★ **TODAY'S OPERATION IS ROUTINE AND SAYS NOTHING — BUT PULLING THE FULL HISTORY TO PROVE THAT FOUND THE REAL STORY: ⭐ 
@@ -349,6 +350,7 @@
 - `2026-09-01` [rates-board.md:L1928](../rates-board.md) — Addendum 2026-09-01 ~12:35pm PDT — ✅⭐⭐⭐⭐⭐ **BOND CLOSE, CONTROL-WEEK DAY 2 (Yahoo ^TYX, "at close 1:59pm CDT," header test ✓): 30Y 5.27 (+2bp from 5.2
 - `2026-09-01` [rates-board.md:L1930](../rates-board.md) — 2026-09-01 ~1:15pm PDT — ⭐⭐⭐⭐⭐⭐ **TUESDAY CLOSE (9/1 scan, `raw/2026-09-01-bond-close-scan.txt`): THE FLIP TEST RESULT IS IN — Monday's OAS obs (war p
 - `2026-09-01` [rates-board.md:L1948](../rates-board.md) — Addendum 2026-09-01 ~1:30pm PDT — ✅⭐⭐⭐⭐ **THE FRAGILITY LADDER CORROBORATES THE BOTTOM-RUNG READ FROM A SECOND INSTRUMENT (feed refreshed in-session, 
+- `2026-09-01` [rates-board.md:L3157](../rates-board.md) — ⚠️ BRENT — THE VAULT HAS NO PRIMARY AFTER 2026-09-01, AND THAT REFRAMES YESTERDAY'S "CORRECTION"
 - `2026-09-02` [new-economy-regime.md:L4805](../new-economy-regime.md) — 2026-09-02 ~7:50am PDT — ⭐⭐⭐ **ADP AUGUST +38K (cons +48K; July rev +46K from +44K) — the frozen-churn regime's next tick, now with SECTOR SHAPE: good
 - `2026-09-02` [new-economy-regime.md:L4811](../new-economy-regime.md) — 2026-09-02 ~8:20am PDT — **Chapel Hill Day 2 (Jake's summary → full entry [[buildout-bottleneck-map]] 9/2): LUTNICK — the administration's inclination
 - `2026-09-02` [new-economy-regime.md:L4813](../new-economy-regime.md) — Addendum 2026-09-02 ~8:47am PDT — **Two ZH items to the regime threads:** (1) **UBER cuts ~10% (~3,600) — "removing layers," reallocating to delivery,
@@ -446,3 +448,19 @@
 - `2026-09-10` [rates-board.md:L3018](../rates-board.md) — 2026-09-10 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE SAYS THE SELLOFF IS GLOBAL. I SAID I HAD NO INSTRUMENT; I FOUND ONE. THE ANSWER **DEPENDS ENTIRELY ON THE WIND
 - `2026-09-10` [rates-board.md:L3047](../rates-board.md) — Addendum 2026-09-10 ~7:55am PDT — ⛔⛔⛔ **JAKE: "WE HAVE IT HERE… WE'VE GONE OVER IT." HE IS RIGHT AND IT IS THE FOURTH RULE-21 FAILURE IN TWO DAYS. THE
 - `2026-09-10` [rates-board.md:L3066](../rates-board.md) — 2026-09-10 ~8:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **RABOBANK SUPPLIES THE PIECE THE BOARD HAS BEEN MISSING ALL WEEK — AND IT *COMPETES* WITH A CAUSAL STORY THE VAULT A
+- `2026-09-10` [rates-board.md:L3086](../rates-board.md) — 2026-09-10 ~8:50am PDT — ⛔⭐⭐⭐⭐⭐⭐ **PRE-AUCTION, ON THE PRIMARY: THE 30Y HAS CLOSED ABOVE 5.30 EXACTLY ONCE IN 172 SESSIONS THIS YEAR — 5.31 ON 8/17 — 
+- `2026-09-10` [rates-board.md:L3120](../rates-board.md) — 2026-09-10 ~9:20am PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐⭐ **TREASURY'S OWN BUYBACK CALENDAR, OBTAINED — AND IT BREAKS THE BRIEF *AND* FOUR THINGS THIS VAULT HOLDS. **TODAY'
+- `2026-09-10` [rates-board.md:L3163](../rates-board.md) — 2026-09-10 ~10:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE LIVE-FIRE DATE RESOLVES. $22B 30Y STOPS AT **5.308%** VS A **5.335%** WI — **2.7bp THROUGH, SECOND BIGGEST IN 
+- `2026-09-10` [rates-board.md:L3201](../rates-board.md) — 2026-09-10 ~10:40am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE FULL ZH PIECE (both pages, extracted). THE INTERNALS ARE THE STORY AND THEY ARE STRONGER THAN THE STOP: **DEAL
+- `2026-09-10` [rates-board.md:L3243](../rates-board.md) — 2026-09-10 ~2:20pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE 2Y ROSE **15bp TODAY TO 4.58%** AND **BOTH CURVE SEGMENTS FLATTENED.** A TERM-PREMIUM / SUPPLY STORY **STEEPEN
+- `2026-09-11` [rates-board.md:L3264](../rates-board.md) — 2026-09-11 ~6:40am PDT — ⭐⭐⭐⭐⭐⭐⭐ **AUGUST CPI. ⛔ "INFLATION ACCELERATED" IS TRUE OF THE MONTHLY AND **FALSE OF THE ANNUAL** — HEADLINE y/y UNCHANGED A
+- `2026-09-11` [rates-board.md:L3313](../rates-board.md) — 2026-09-11 ~7:25am PDT — ⛔⭐⭐⭐⭐⭐⭐ **UMICH 47.8 (exp 51.0) — THE SECOND-LOWEST READING IN **675 MONTHS**. ⛔ MY PRE-REGISTRATION RESOLVES **SPLIT, AND TH
+- `2026-09-12` [rates-board.md:L3351](../rates-board.md) — 2026-09-12 ~8:50am PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **GATE 1 HAS ITS FIRST LEG. DGS30 CLOSED **5.37 ON 9/10 — THE YTD HIGH AND ONLY THE **SECOND** CLOSE ≥5.30 IN 182 OB
+- `2026-09-12` [rates-board.md:L3379](../rates-board.md) — Addendum 2026-09-12 ~9:30am PDT — ⛔⛔ **SELF-CORRECTION FIRST: MY 8:50am "IT IS FLATTENING, NOT STEEPENING" WAS **ALREADY ON THIS BOARD, FILED 9/10 AT 
+- `2026-09-13` [market-fragility.md:L4643](../market-fragility.md) — 2026-09-13 ~7:20pm PDT — ⭐⭐⭐⭐⭐ **NDX SINGLE-STOCK 1m PUT-CALL SKEW AT **ZERO** — ~2.75σ BELOW ITS 20-YEAR MEAN, THE SECOND ZERO-TOUCH IN THE SERIES — 
+- `2026-09-13` [rates-board.md:L3417](../rates-board.md) — 2026-09-13 ~10:00am PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **THE ⬜ I REGISTERED TWICE IS CLOSED AND **IT CORRECTS MY OWN 9/12 DIAGNOSIS: THE MOVE IS 75-80% *REAL*, NOT INFLAT
+- `2026-09-13` [rates-board.md:L3467](../rates-board.md) — 2026-09-13 ~8:05pm PDT — ⭐⭐⭐⭐⭐⭐ **PRE-FOMC, REGISTERED BEFORE THE EVENT AND SETTLED ACROSS FOUR DISCUSSION ROUNDS (rule 22): JAKE'S ONE-AND-DONE CALL 
+- `2026-09-14` [rates-board.md:L3500](../rates-board.md) — 2026-09-14 ~8:45am PDT — 🔴⭐⭐⭐⭐ **MONDAY SCOREBOARD — ALL FOUR PRE-REGISTERED DISCRIMINATORS SCORED LIVE (settled per rule 22, entered once).** *(H.15 
+- `2026-09-14` [rates-board.md:L3509](../rates-board.md) — Addendum 2026-09-14 ~9:15am PDT — ⭐⭐⭐⭐⭐ **SEPT 30, 8:30am ET, REGISTERED AS THE DATED ARBITER OF LAST NIGHT'S GS-vs-JAKE ENTRY: **BEA'S ANNUAL UPDATE 
+- `2026-09-14` [rates-board.md:L3515](../rates-board.md) — 2026-09-14 ~5:15pm PDT — 🔴⭐⭐⭐⭐⭐ **MONDAY CLOSE (evening fragility scan; settled per rule 22, entered once): THE ROUND TRIP — 10Y BROKE 5% INTRADAY (5.
+- `2026-09-14` [rates-board.md:L3523](../rates-board.md) — Addendum 2026-09-14 ~7:35pm PDT — ⭐⭐⭐⭐ **PRE-FOMC, JAKE: "PRO-HIKES" — REAL WAGES **−0.3% y/y, FIVE MONTHS NEGATIVE** (Rattner chart, BLS/FRED: wages 

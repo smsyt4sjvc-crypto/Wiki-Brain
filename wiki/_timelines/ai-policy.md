@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **537 dated entries across 4 notes · 2026-05-22 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
+> **561 dated entries across 4 notes · 2026-05-22 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -561,4 +561,28 @@
 - `2026-09-09` [compression-thesis.md:L3100](../compression-thesis.md) — Addendum 2026-09-09 ~9:50am PDT — ⚡ **THE POLICY OFF-SWITCH I NAMED 40 MINUTES AGO HAS A LEGISLATIVE VEHICLE AND A LAB TAKING SIDES: **AI OVERWATCH IS
 - `2026-09-10` [ai-capex-cycle.md:L3628](../ai-capex-cycle.md) — Addendum 2026-09-10 ~7:35am PDT — ✅ **THE PRE-REGISTERED TSMC TEST RESOLVES AND IT RESOLVES HARD: AUGUST +53.3% YoY AFTER JULY'S +44.7% — **TWO CONSEC
 - `2026-09-10` [ai-capex-cycle.md:L3637](../ai-capex-cycle.md) — Addendum 2026-09-10 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **AMAT'S BEST NUMBER IS NOT THE 40% — IT IS THAT **LEADING-EDGE WAFER STARTS HAVE GONE FROM 1 DATA-CENTRE : 4
+- `2026-09-10` [ai-capex-cycle.md:L3655](../ai-capex-cycle.md) — 2026-09-10 ~2:00pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **ORACLE Q1 FY27. THE COMPUTE SIDE IS AS STRONG AS JAKE SAYS AND THE JEVONS READ IS CONFIRMED. ⛔ BUT THE FCF COMPARIS
+- `2026-09-10` [ai-capex-cycle.md:L3690](../ai-capex-cycle.md) — Addendum 2026-09-10 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE LINE THE SUMMARY DID NOT CARRY: **ORACLE'S SOFTWARE REVENUE *MISSED* ($5.55B vs $5.67B) WHILE OCI *BEA
 - `2026-09-10` [compression-thesis.md:L3107](../compression-thesis.md) — 2026-09-10 ~8:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BEST QUANTIFICATION OF TOKEN-PRICE COMPRESSION THIS FILE HAS EVER HAD: **A 159× PRICE RANGE ACROSS A 1.26× QUAL
+- `2026-09-10` [compression-thesis.md:L3141](../compression-thesis.md) — 2026-09-10 ~9:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MODEL ECONOMICS, DECOMPOSED (Jake's Q). MODEL ECONOMICS IS A *SPREAD* — PRICE/TOKEN MINUS COST/TOKEN — AND THIS
+- `2026-09-10` [compression-thesis.md:L3183](../compression-thesis.md) — 2026-09-10 ~9:15am PDT — ⛔⛔⛔ **JAKE ASKS WHETHER I READ THE ARTICLE. I DID NOT — I READ THE LEADERBOARD (pp.9-13) AND STOPPED, AND THE METHODOLOGY BEG
+- `2026-09-10` [compression-thesis.md:L3230](../compression-thesis.md) — 2026-09-10 ~2:15pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE GRAND VIEW AGENTIC-AI CHART HAS **ONE DATUM AND ONE ASSUMPTION**, NOT SEVEN DATA POINTS — THE ARITHMETIC PROVES
+- `2026-09-10` [compression-thesis.md:L3271](../compression-thesis.md) — Addendum 2026-09-10 ~2:20pm PDT — ⚡ **THE POLICY OFF-SWITCH TAKES ITS NEXT STEP AND IT HAS A NAME: **SENATOR VAN HOLLEN HAS WRITTEN TO ALTMAN ABOUT GP
+- `2026-09-10` [compression-thesis.md:L3277](../compression-thesis.md) — 2026-09-10 ~5:00pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **ANTHROPIC'S SEPT-2026 THREAT REPORT (read in full, fetched). ⛔ CLASS 8 FIRST AND IT IS UNAVOIDABLE: **THE VENDOR IS
+- `2026-09-10` [metered-compute.md:L3399](../metered-compute.md) — 2026-09-10 ~5:55pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **NADELLA'S "REVERSE INFORMATION PARADOX" (Jul 12) vs THE VAULT'S RECORD. JAKE'S CLAIM CHECKED, NOT AGREED WITH: **ON
+- `2026-09-11` [ai-financing-fragility.md:L8070](../ai-financing-fragility.md) — 2026-09-11 ~9:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **BofA PUTS AN INDEX ON THE VAULT'S CENTRAL CALL — AND IT IS **PROGRESSION, NOT CONFIRMATION**: THE AI CREDIT PREMIUM
+- `2026-09-12` [ai-financing-fragility.md:L8113](../ai-financing-fragility.md) — Addendum 2026-09-12 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE CIRCULARITY GAINS ITS **THIRD** INSTANCE AND ITS FIRST AT **IPO-EQUITY** LEVEL: NVDA REPORTEDLY CONSIDER
+- `2026-09-12` [ai-financing-fragility.md:L8136](../ai-financing-fragility.md) — Addendum 2026-09-12 ~9:45am PDT — ⭐⭐⭐⭐⭐ **THE DENOMINATOR ARRIVES. THE BOARD HAS BEEN ARGUING ABOUT ANTHROPIC-AS-COUNTERPARTY FOR WEEKS WITH **NO REVE
+- `2026-09-12` [metered-compute.md:L3438](../metered-compute.md) — ⟲ AMENDMENT 2026-09-12 ~8:20am PDT — ⭐⭐⭐⭐⭐⭐ **THE RSI CLAIM FINALLY HAS AN ARTIFACT, AND IT CARRIES **NUMBERS PLUS A SELF-CAVEAT** — WHICH IS WHAT `L1
+- `2026-09-13` [ai-financing-fragility.md:L8156](../ai-financing-fragility.md) — 2026-09-13 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **A $50 BILLION ANTHROPIC COMPUTE COUNTERPARTY THE VAULT HAS **NEVER RECORDED** — `grep -i fluidstack` RETURNS **ZERO
+- `2026-09-13` [ai-financing-fragility.md:L8189](../ai-financing-fragility.md) — Addendum 2026-09-13 ~11:25am PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **JAKE IS RIGHT AND IT IS **THE SAME COMPANY, THREE DAYS AGO: THE PENTAGON IS IN TALKS TO LEND ~$5 BILLION
+- `2026-09-13` [ai-financing-fragility.md:L8217](../ai-financing-fragility.md) — Addendum 2026-09-13 ~11:45am PDT — ✅⭐⭐⭐⭐⭐⭐⭐⭐ **THE CHECK I REGISTERED 30 MINUTES AGO IS SCORED, AND I WENT TO THE 10-Q MYSELF: **CONFIRMED VERBATIM — 
+- `2026-09-13` [ai-financing-fragility.md:L8257](../ai-financing-fragility.md) — Addendum 2026-09-13 ~6:30pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN SUPPLIES THE HIGH-YIELD TIER, AND THE TWO-DESK PICTURE IS NOW COMPLETE: **THE AI CREDIT PREMIUM ROUG
+- `2026-09-13` [compression-thesis.md:L3320](../compression-thesis.md) — 2026-09-13 ~7:45am PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **JAKE'S READ IS RIGHT AND THIS FILE ALREADY HOLDS THE NUMBER THAT PROVES IT: **A 159× PRICE RANGE ACROSS A 1.26× QU
+- `2026-09-13` [compression-thesis.md:L3354](../compression-thesis.md) — ⛔⛔⛔ CORRECTION 2026-09-13 ~8:05am PDT — **THE REVIEW IS RIGHT ON EVERY COUNT AND THE ERRORS ARE MINE FROM YESTERDAY, NOT IN THE 9/10 ENTRY. I DEGRADED
+- `2026-09-13` [compression-thesis.md:L3391](../compression-thesis.md) — Addendum 2026-09-13 ~1:55pm PDT — ⇒ **JAKE: *"THIS IS BULLISH IF TRUE… FREE OF THAT CULPABILITY, THEY CAN FLOOR IT."* — THE CALL, AND IT NEEDS A **FOR
+- `2026-09-13` [compression-thesis.md:L3411](../compression-thesis.md) — Addendum 2026-09-13 ~5:30pm PDT — ⭐⭐⭐⭐ **"BRUTAL DAY FOR AI STOCKS TOMORROW" TWEET, AUDITED — AND JAKE'S THREE-LAYER FORMULATION OF WHY ITS MECHANISM 
+- `2026-09-13` [compression-thesis.md:L3432](../compression-thesis.md) — Addendum 2026-09-13 ~6:35pm PDT — ✅ **THE THREE-LAYER MODEL'S FIRST OUT-OF-SAMPLE TEST ARRIVED 90 MINUTES AFTER IT WAS FILED, AND THE GRADIENT MATCHES
+- `2026-09-14` [ai-financing-fragility.md:L8271](../ai-financing-fragility.md) — Addendum 2026-09-14 ~8:55am PDT — ⭐⭐⭐⭐ **MONDAY'S REPRICING, SCORED (settled per rule 22, entered once): A DISCOUNT-RATE SHOCK IN AN AI-PACING COSTUME
+- `2026-09-14` [ai-financing-fragility.md:L8278](../ai-financing-fragility.md) — 2026-09-14 ~5:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE EVENING SCAN DELIVERS THE AGGREGATE AND CLOSES YESTERDAY'S ⬜ (settled per rule 22, entered once): **~$1.09 TRIL
+- `2026-09-14` [metered-compute.md:L3471](../metered-compute.md) — 2026-09-14 ~3:25pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS: FIRST VERIFIED VERA RUBIN NVL72 AGENTIC-INFERENCE RESULTS (settled per rule 22, entered once) — AND THE

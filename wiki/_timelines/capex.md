@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **166 dated entries across 3 notes · 2026-05-22 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
+> **168 dated entries across 3 notes · 2026-05-22 → 2026-09-10 · refreshed 2026-09-14 21:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -191,3 +191,5 @@
 - `2026-09-09` [ai-capex-cycle.md:L3619](../ai-capex-cycle.md) — Addendum 2026-09-09 ~9:55am PDT — **AMD'S REAL NUMBER IS NOT THE TAM, IT IS **$29-30B OF PURCHASE COMMITMENTS — 41-43% OF ITS OWN 2027 DATA-CENTRE TAR
 - `2026-09-10` [ai-capex-cycle.md:L3628](../ai-capex-cycle.md) — Addendum 2026-09-10 ~7:35am PDT — ✅ **THE PRE-REGISTERED TSMC TEST RESOLVES AND IT RESOLVES HARD: AUGUST +53.3% YoY AFTER JULY'S +44.7% — **TWO CONSEC
 - `2026-09-10` [ai-capex-cycle.md:L3637](../ai-capex-cycle.md) — Addendum 2026-09-10 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **AMAT'S BEST NUMBER IS NOT THE 40% — IT IS THAT **LEADING-EDGE WAFER STARTS HAVE GONE FROM 1 DATA-CENTRE : 4
+- `2026-09-10` [ai-capex-cycle.md:L3655](../ai-capex-cycle.md) — 2026-09-10 ~2:00pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **ORACLE Q1 FY27. THE COMPUTE SIDE IS AS STRONG AS JAKE SAYS AND THE JEVONS READ IS CONFIRMED. ⛔ BUT THE FCF COMPARIS
+- `2026-09-10` [ai-capex-cycle.md:L3690](../ai-capex-cycle.md) — Addendum 2026-09-10 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE LINE THE SUMMARY DID NOT CARRY: **ORACLE'S SOFTWARE REVENUE *MISSED* ($5.55B vs $5.67B) WHILE OCI *BEA

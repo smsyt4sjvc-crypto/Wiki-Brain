@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **233 dated entries across 2 notes · 2026-03-13 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
+> **240 dated entries across 2 notes · 2026-03-13 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -258,3 +258,10 @@
 - `2026-09-09` [demand-destruction.md:L4190](../demand-destruction.md) — 2026-09-09 ~12:20pm PDT — ⭐⭐⭐⭐⭐⭐ **A SITTING PRESIDENT PUTS A *DATE* ON AN OIL DECLINE AND TIES IT TO AN ELECTION — AND THE MARKET PRICED THE HALF THA
 - `2026-09-09` [oil-value-chain.md:L2821](../oil-value-chain.md) — 2026-09-09 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐ **DECOMPOSE THE PUMP BEFORE READING IT (RULE 20), AND THE RECORD IS NOT THE STORY — THE *RATIO* IS. DIESEL $5.94 AGAIN
 - `2026-09-10` [demand-destruction.md:L4207](../demand-destruction.md) — Addendum 2026-09-10 ~7:40am PDT — **TRUMP'S $5,000 DIVIDEND: ~$1.23 TRILLION, CONDITIONAL ON THE MIDTERMS, AND REQUIRED TO BE *SPENT DOMESTICALLY.* IT
+- `2026-09-10` [demand-destruction.md:L4215](../demand-destruction.md) — 2026-09-10 ~4:50pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **US RETAIL DIESEL IS AT AN **ALL-TIME HIGH — $5.967**, ABOVE THE 2022 PEAK, IN 1,695 WEEKS OF EIA DATA — WHILE GASOL
+- `2026-09-10` [demand-destruction.md:L4265](../demand-destruction.md) — 2026-09-10 ~6:35pm PDT — ★★★★★★★ **JAKE: *"THE NEXT COUPLE YEARS HAVE TO BE DOMINATED BY ENERGY RIGHT?"* — **ANSWERED AS A CALL (rule 14). NO AS STATE
+- `2026-09-10` [oil-value-chain.md:L2842](../oil-value-chain.md) — 2026-09-10 ~7:15pm PDT — ⛔⭐⭐⭐⭐⭐⭐⭐ **APPEC (Vitol + KPC) SAYS THE DIESEL CRUNCH WORSENS — AND IT IS *LITERALLY* THIS MORNING'S "N COMPANIES, ONE STAGE"
+- `2026-09-10` [oil-value-chain.md:L2879](../oil-value-chain.md) — 2026-09-10 ~7:30pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐⭐ **JAKE, TWICE IN FIVE MINUTES: *"RUSSIA'S DECREE IS CAUSED BY REFINERY CONSTRAINT TOO… THEY WERE IMPORTING AT ONE P
+- `2026-09-14` [demand-destruction.md:L4291](../demand-destruction.md) — 2026-09-14 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE DIESEL THESIS'S NAMED DISCONFIRMER ARRIVES AS A CLAIM: TRUMP POSTS THAT RUSSIA AND UKRAINE "AGREE" TO HALT ATTACK
+- `2026-09-14` [demand-destruction.md:L4297](../demand-destruction.md) — 2026-09-14 ~4:50pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BOARD'S TITLE EVENT (settled per rule 22, entered once): THE IEA PRINTS **2020-SCALE DEMAND DESTRUCTION — −2.5 
+- `2026-09-14` [demand-destruction.md:L4315](../demand-destruction.md) — Addendum 2026-09-14 ~8:10pm PDT — ⭐⭐⭐⭐ **CHINA'S AUGUST DATA (settled per rule 22, entered once): PRODUCTION UP, ABSORPTION DOWN — AND IT IS THE **SEC

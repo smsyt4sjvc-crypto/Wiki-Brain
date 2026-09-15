@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **510 dated entries across 3 notes · 2026-05-22 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
+> **520 dated entries across 3 notes · 2026-05-22 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -535,3 +535,13 @@
 - `2026-09-10` [market-fragility.md:L4591](../market-fragility.md) — 2026-09-10 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE DOT-COM RATES CLAIM SPLICES TWO DIFFERENT WINDOWS, AND CHECKING IT PRODUCED SOMETHING BETTER THAN THE DEBUNK: *
 - `2026-09-10` [market-fragility.md:L4624](../market-fragility.md) — 2026-09-10 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE AGENDA EXPLAINS THE WEEK, AND IT IS A CLASS-8 CATCH ON EVERYTHING BULLISH THE VAULT HAS FILED SINCE MONDAY: **TH
 - `2026-09-10` [new-economy-regime.md:L5003](../new-economy-regime.md) — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
+- `2026-09-11` [ai-financing-fragility.md:L8070](../ai-financing-fragility.md) — 2026-09-11 ~9:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **BofA PUTS AN INDEX ON THE VAULT'S CENTRAL CALL — AND IT IS **PROGRESSION, NOT CONFIRMATION**: THE AI CREDIT PREMIUM
+- `2026-09-12` [ai-financing-fragility.md:L8113](../ai-financing-fragility.md) — Addendum 2026-09-12 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE CIRCULARITY GAINS ITS **THIRD** INSTANCE AND ITS FIRST AT **IPO-EQUITY** LEVEL: NVDA REPORTEDLY CONSIDER
+- `2026-09-12` [ai-financing-fragility.md:L8136](../ai-financing-fragility.md) — Addendum 2026-09-12 ~9:45am PDT — ⭐⭐⭐⭐⭐ **THE DENOMINATOR ARRIVES. THE BOARD HAS BEEN ARGUING ABOUT ANTHROPIC-AS-COUNTERPARTY FOR WEEKS WITH **NO REVE
+- `2026-09-13` [ai-financing-fragility.md:L8156](../ai-financing-fragility.md) — 2026-09-13 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **A $50 BILLION ANTHROPIC COMPUTE COUNTERPARTY THE VAULT HAS **NEVER RECORDED** — `grep -i fluidstack` RETURNS **ZERO
+- `2026-09-13` [ai-financing-fragility.md:L8189](../ai-financing-fragility.md) — Addendum 2026-09-13 ~11:25am PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **JAKE IS RIGHT AND IT IS **THE SAME COMPANY, THREE DAYS AGO: THE PENTAGON IS IN TALKS TO LEND ~$5 BILLION
+- `2026-09-13` [ai-financing-fragility.md:L8217](../ai-financing-fragility.md) — Addendum 2026-09-13 ~11:45am PDT — ✅⭐⭐⭐⭐⭐⭐⭐⭐ **THE CHECK I REGISTERED 30 MINUTES AGO IS SCORED, AND I WENT TO THE 10-Q MYSELF: **CONFIRMED VERBATIM — 
+- `2026-09-13` [ai-financing-fragility.md:L8257](../ai-financing-fragility.md) — Addendum 2026-09-13 ~6:30pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN SUPPLIES THE HIGH-YIELD TIER, AND THE TWO-DESK PICTURE IS NOW COMPLETE: **THE AI CREDIT PREMIUM ROUG
+- `2026-09-13` [market-fragility.md:L4643](../market-fragility.md) — 2026-09-13 ~7:20pm PDT — ⭐⭐⭐⭐⭐ **NDX SINGLE-STOCK 1m PUT-CALL SKEW AT **ZERO** — ~2.75σ BELOW ITS 20-YEAR MEAN, THE SECOND ZERO-TOUCH IN THE SERIES — 
+- `2026-09-14` [ai-financing-fragility.md:L8271](../ai-financing-fragility.md) — Addendum 2026-09-14 ~8:55am PDT — ⭐⭐⭐⭐ **MONDAY'S REPRICING, SCORED (settled per rule 22, entered once): A DISCOUNT-RATE SHOCK IN AN AI-PACING COSTUME
+- `2026-09-14` [ai-financing-fragility.md:L8278](../ai-financing-fragility.md) — 2026-09-14 ~5:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE EVENING SCAN DELIVERS THE AGGREGATE AND CLOSES YESTERDAY'S ⬜ (settled per rule 22, entered once): **~$1.09 TRIL

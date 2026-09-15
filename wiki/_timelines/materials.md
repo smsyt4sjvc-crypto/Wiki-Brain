@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **211 dated entries across 3 notes · 2026-07-09 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
+> **224 dated entries across 3 notes · 2026-07-09 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -229,4 +229,17 @@
 - `2026-09-10` [buildout-bottleneck-map.md:L1793](../buildout-bottleneck-map.md) — 2026-09-10 ~8:00am PDT — ⭐⭐⭐⭐⭐⭐⭐ **SEMIANALYSIS SIZES BEHIND-THE-METER AND HANDS THE BOARD THREE THINGS AT ONCE: **$150B OF OPENAI-ORACLE CONTRACTED S
 - `2026-09-10` [buildout-bottleneck-map.md:L1817](../buildout-bottleneck-map.md) — Addendum 2026-09-10 ~8:35am PDT — ⛔⛔ **I READ ONE FIFTH OF THAT PIECE AND FILED ON IT. THE REST CONTAINS THE SINGLE MOST DATED, BINARY ITEM ON ORACLE 
 - `2026-09-10` [buildout-bottleneck-map.md:L1845](../buildout-bottleneck-map.md) — Addendum 2026-09-10 ~8:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE SCAN AND THE SEMIANALYSIS PIECE LANDED IN THE SAME HOUR AND NEITHER SOURCE HAS THE OTHER. PUT THEM TOG
+- `2026-09-10` [buildout-bottleneck-map.md:L1857](../buildout-bottleneck-map.md) — 2026-09-10 ~10:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE 7/12 CHAIN'S COMMERCIAL CONSEQUENCE PRINTS: **QATAR — A TOP-TIER LNG *EXPORTER* — IS IN TALKS TO *BUY* US LNG 
+- `2026-09-10` [buildout-bottleneck-map.md:L1891](../buildout-bottleneck-map.md) — 2026-09-10 ~6:05pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE: *"DIDN'T THEY JUST REPORT QATAR WAS BUYING US LNG?"* — CHECKED, AND **IT IS NOT A CONTRADICTION. IT IS THE SA
 - `2026-09-10` [war-board.md:L4761](../war/war-board.md) — 2026-09-10 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐⭐ **I WENT TO DEBUNK RYSTAD'S ~2 mb/d HORMUZ NUMBER AS INCONSISTENT WITH $105 BRENT. THE VAULT ALREADY HELD "HORMUZ RUN
+- `2026-09-10` [war-board.md:L4780](../war/war-board.md) — 2026-09-10 ~4:50pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BOARD'S OWN 9/10 READ SAID THE PROXY SUBSTITUTIONS WERE *"DELIBERATELY NOT SYMMETRIC"* AND *"LOWER IRAN'S ATTRI
+- `2026-09-10` [war-board.md:L4805](../war/war-board.md) — 2026-09-10 ~5:05pm PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐⭐ **THE TRIPWIRE IRAN NAMED ITSELF HAS BEEN CROSSED. NETANYAHU: *"Tonight we destroyed the largest Iranian outpost o
+- `2026-09-10` [war-board.md:L4833](../war/war-board.md) — 2026-09-10 ~6:30pm PDT — ⛔⭐⭐⭐⭐⭐⭐⭐ **"HOUTHIS TAKE HISN MURAD" — THE NARROWEST POINT OF BAB-EL-MANDEB, ONE DAY AFTER MOCHA. ⛔ IT PARTLY FALSIFIES MY OW
+- `2026-09-10` [war-board.md:L4866](../war/war-board.md) — Addendum 2026-09-10 ~6:30pm PDT — ⛔ **THE HISN MURAD SOURCE IS NAMED: **@visegrad24.** ⇒ **THE ⬜ DOES NOT CLOSE, AND THE REASON IS A DISTINCTION THIS 
+- `2026-09-10` [war-board.md:L4875](../war/war-board.md) — Addendum 2026-09-10 ~6:35pm PDT — ⛔ **JAKE: *"RT'D BY ZH. USUALLY RELIABLE."* — **HE IS RIGHT ON THE PROBABILITY AND THE VAULT HAS THE DATED PROOF, WH
+- `2026-09-12` [war-board.md:L4905](../war/war-board.md) — 2026-09-12 ~8:55am PDT — ✅⭐⭐⭐⭐⭐⭐⭐ **THE SAUDI "EAST-WEST PIPELINE" IS **PETROLINE**, AND THIS BOARD NAMED ITS THROUGHPUT AS THE DECISIVE RESOLVER IN A
+- `2026-09-12` [war-board.md:L4934](../war/war-board.md) — Addendum 2026-09-12 ~9:35am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BIGGEST ITEM IN THIS BRIEF IS NOT THE PIPELINE — IT IS **THE US CHANGING ITS HORMUZ PROTECTION REGIME 
+- `2026-09-13` [war-board.md:L4951](../war/war-board.md) — 2026-09-13 ~8:55pm PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **JAKE ASKS *"WHY WOULD TRUMP NOT BE HELPING? … MISSILE CONSTRAINT?"* — AND **THIS BOARD HAS CARRIED THE ANSWER SINC
+- `2026-09-13` [war-board.md:L4993](../war/war-board.md) — 2026-09-13 ~6:25pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE "RESUMPTION vs REPAIR" DISCRIMINATOR RESOLVES — TO **REPAIR, WITH TWO CLOCKS**: YANBU HOLDS **5-7 DAYS OF EXPOR
+- `2026-09-14` [war-board.md:L5008](../war/war-board.md) — 2026-09-14 ~8:50am PDT — ⭐⭐⭐⭐⭐ **OMAN POSTPONED — **BY SAUDI ARABIA** — AND THE 77-SHIP LIST GIVES THE PERMISSION REGIME ITS ENFORCEMENT ARM (settled 
+- `2026-09-14` [war-board.md:L5015](../war/war-board.md) — Addendum 2026-09-14 ~9:05am PDT — ⛔⭐⭐⭐ **THE PETROLINE REPAIR CLOCK RE-OPENS TO **CONTESTED, THREE WAYS** — HOURS AFTER I FILED IT AS "WEEKS" (settled

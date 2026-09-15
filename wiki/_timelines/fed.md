@@ -1,6 +1,6 @@
 # ⏱ FED — merged timeline (the gate)
 
-> **294 dated entries across 2 notes · 2026-06-30 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
+> **295 dated entries across 2 notes · 2026-06-30 → 2026-09-13 · refreshed 2026-09-14 21:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -316,3 +316,4 @@
 - `2026-09-10` [market-fragility.md:L4591](../market-fragility.md) — 2026-09-10 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE DOT-COM RATES CLAIM SPLICES TWO DIFFERENT WINDOWS, AND CHECKING IT PRODUCED SOMETHING BETTER THAN THE DEBUNK: *
 - `2026-09-10` [market-fragility.md:L4624](../market-fragility.md) — 2026-09-10 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE AGENDA EXPLAINS THE WEEK, AND IT IS A CLASS-8 CATCH ON EVERYTHING BULLISH THE VAULT HAS FILED SINCE MONDAY: **TH
 - `2026-09-10` [new-economy-regime.md:L5003](../new-economy-regime.md) — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
+- `2026-09-13` [market-fragility.md:L4643](../market-fragility.md) — 2026-09-13 ~7:20pm PDT — ⭐⭐⭐⭐⭐ **NDX SINGLE-STOCK 1m PUT-CALL SKEW AT **ZERO** — ~2.75σ BELOW ITS 20-YEAR MEAN, THE SECOND ZERO-TOUCH IN THE SERIES — 

@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **103 dated entries across 3 notes · 2026-06-30 → 2026-09-10 · refreshed 2026-09-10 08:36 PDT**
+> **110 dated entries across 3 notes · 2026-06-30 → 2026-09-14 · refreshed 2026-09-14 21:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -125,3 +125,10 @@
 - `2026-09-10` [buildout-bottleneck-map.md:L1793](../buildout-bottleneck-map.md) — 2026-09-10 ~8:00am PDT — ⭐⭐⭐⭐⭐⭐⭐ **SEMIANALYSIS SIZES BEHIND-THE-METER AND HANDS THE BOARD THREE THINGS AT ONCE: **$150B OF OPENAI-ORACLE CONTRACTED S
 - `2026-09-10` [buildout-bottleneck-map.md:L1817](../buildout-bottleneck-map.md) — Addendum 2026-09-10 ~8:35am PDT — ⛔⛔ **I READ ONE FIFTH OF THAT PIECE AND FILED ON IT. THE REST CONTAINS THE SINGLE MOST DATED, BINARY ITEM ON ORACLE 
 - `2026-09-10` [buildout-bottleneck-map.md:L1845](../buildout-bottleneck-map.md) — Addendum 2026-09-10 ~8:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE SCAN AND THE SEMIANALYSIS PIECE LANDED IN THE SAME HOUR AND NEITHER SOURCE HAS THE OTHER. PUT THEM TOG
+- `2026-09-10` [buildout-bottleneck-map.md:L1857](../buildout-bottleneck-map.md) — 2026-09-10 ~10:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE 7/12 CHAIN'S COMMERCIAL CONSEQUENCE PRINTS: **QATAR — A TOP-TIER LNG *EXPORTER* — IS IN TALKS TO *BUY* US LNG 
+- `2026-09-10` [buildout-bottleneck-map.md:L1891](../buildout-bottleneck-map.md) — 2026-09-10 ~6:05pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE: *"DIDN'T THEY JUST REPORT QATAR WAS BUYING US LNG?"* — CHECKED, AND **IT IS NOT A CONTRADICTION. IT IS THE SA
+- `2026-09-10` [nuclear.md:L767](../nuclear.md) — Addendum 2026-09-10 ~9:25am PDT — ⭐⭐⭐⭐⭐ **THE MISSING DENOMINATOR ARRIVES: **LOVIISA IS ~10% OF FINLAND'S ELECTRICITY.** ⇒ GOOGLE'S 50% SHARE IS **~5%
+- `2026-09-10` [nuclear.md:L775](../nuclear.md) — 2026-09-10 ~6:25pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE: *"I THOUGHT CHINA HAD WAY MORE NUCLEAR."* — **HE IS RIGHT AND THE CHART IS RIGHT. THEY MEASURE DIFFERENT THING
+- `2026-09-10` [power-not-petroleum.md:L485](../power-not-petroleum.md) — 2026-09-10 ~6:30pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **TWO RESERVE MAPS, ONE FINDING: **NOTHING THIS VAULT TRACKED TODAY IS A GEOLOGY PROBLEM.** THE US HOLDS THE WORLD'S 
+- `2026-09-10` [power-not-petroleum.md:L521](../power-not-petroleum.md) — 2026-09-10 ~7:25pm PDT — ⛔⛔⛔ **JAKE: *"BLOWN UP REFINERIES IN RUSSIA AREN'T POLITICAL."* — **HE IS RIGHT AND IT BREAKS THE TAXONOMY I BUILT AN HOUR AG
+- `2026-09-14` [nuclear.md:L807](../nuclear.md) — 2026-09-14 ~9:20am PDT — ⭐⭐⭐⭐ **HAMAOKA: JAPAN LOSES TWO PROSPECTIVE RESTARTS FOR YEARS — **ANNOUNCED GENERATION NOW GETS THE SAME HAIRCUT AS ANNOUNCE
