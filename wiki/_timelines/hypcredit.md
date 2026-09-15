@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **382 dated entries across 3 notes · 2026-02-10 → 2026-09-15 · refreshed 2026-09-15 10:16 PDT**
+> **383 dated entries across 3 notes · 2026-02-10 → 2026-09-15 · refreshed 2026-09-15 10:20 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -410,3 +410,4 @@
 - `2026-09-15` [rates-board.md:L3531](../rates-board.md) — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **TUESDAY PRE-FED SCOREBOARD: 10Y 5.041 OVERNIGHT (HIGHEST SINCE JUL-2007), HOLDING ~5.00 INTO THE OPEN — NOT ABSORBED 
 - `2026-09-15` [rates-board.md:L3547](../rates-board.md) — Addendum 2026-09-15 ~10:10am PDT — **THE SIX-PANEL GLOBAL CHART: JAPAN IS THE ANCHOR DEPARTURE.** *(Jake chart `raw/2026-09-15-global-10y-six-panel-ch
 - `2026-09-15` [rates-board.md:L3552](../rates-board.md) — 2026-09-15 ~10:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE $13B 20Y REOPENING: RECORD STOP 5.420%, 2.0bp TAIL (BIGGEST SINCE DEC-2024), INDIRECTS 52.5% — A RECORD LOW FOR
+- `2026-09-15` [rates-board.md:L3566](../rates-board.md) — Addendum 2026-09-15 ~10:20am PDT — **THE BESSENT HEARING vs THE 20Y TAPE: TREASURY'S DIAGNOSIS AND THE MARGINAL CLEARING PRICE OF DURATION NOW DISAGRE
