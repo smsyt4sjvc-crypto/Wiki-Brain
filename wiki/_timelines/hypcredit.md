@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **380 dated entries across 3 notes · 2026-02-10 → 2026-09-15 · refreshed 2026-09-15 09:06 PDT**
+> **382 dated entries across 3 notes · 2026-02-10 → 2026-09-15 · refreshed 2026-09-15 10:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -408,3 +408,5 @@
 - `2026-09-14` [rates-board.md:L3515](../rates-board.md) — 2026-09-14 ~5:15pm PDT — 🔴⭐⭐⭐⭐⭐ **MONDAY CLOSE (evening fragility scan; settled per rule 22, entered once): THE ROUND TRIP — 10Y BROKE 5% INTRADAY (5.
 - `2026-09-14` [rates-board.md:L3523](../rates-board.md) — Addendum 2026-09-14 ~7:35pm PDT — ⭐⭐⭐⭐ **PRE-FOMC, JAKE: "PRO-HIKES" — REAL WAGES **−0.3% y/y, FIVE MONTHS NEGATIVE** (Rattner chart, BLS/FRED: wages 
 - `2026-09-15` [rates-board.md:L3531](../rates-board.md) — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **TUESDAY PRE-FED SCOREBOARD: 10Y 5.041 OVERNIGHT (HIGHEST SINCE JUL-2007), HOLDING ~5.00 INTO THE OPEN — NOT ABSORBED 
+- `2026-09-15` [rates-board.md:L3547](../rates-board.md) — Addendum 2026-09-15 ~10:10am PDT — **THE SIX-PANEL GLOBAL CHART: JAPAN IS THE ANCHOR DEPARTURE.** *(Jake chart `raw/2026-09-15-global-10y-six-panel-ch
+- `2026-09-15` [rates-board.md:L3552](../rates-board.md) — 2026-09-15 ~10:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE $13B 20Y REOPENING: RECORD STOP 5.420%, 2.0bp TAIL (BIGGEST SINCE DEC-2024), INDIRECTS 52.5% — A RECORD LOW FOR
