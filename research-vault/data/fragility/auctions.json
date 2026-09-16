@@ -702,5 +702,16 @@
   "direct": 4019900000.0,
   "dealer": 484800000.0,
   "offering": 22000000000.0
+ },
+ {
+  "date": "2026-09-15",
+  "term": "19-Year 11-Month",
+  "cusip": "912810UX4",
+  "high_yield": 5.42,
+  "bid_to_cover": 2.57,
+  "indirect": 6775838200.0,
+  "direct": 3962584000.0,
+  "dealer": 2176481000.0,
+  "offering": 13000000000.0
  }
 ]
