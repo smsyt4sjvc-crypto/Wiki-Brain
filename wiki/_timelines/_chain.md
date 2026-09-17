@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **971 dated entries · 2026-02-10 → 2026-09-16 · refreshed 2026-09-16 18:41 PDT**
+> **973 dated entries · 2026-02-10 → 2026-09-16 · refreshed 2026-09-16 19:18 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1005,4 +1005,6 @@
 - `2026-09-15` **[5]** metered-compute.md:L3487 — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE THESIS GETS A TAPE: CFTC DEEMS A COMPUTE EXCHANGE + CLEARINGHOUSE "MATERIALLY COMPLETE," AND CME LAUNCHES AI-COMP
 - `2026-09-15` **[5]** memory-regime-question.md:L1421 — 2026-09-15 ~9:00am PDT — **MU TAIWAN LABOR: THE STANDING "TAIWAN ⬜" CAP BECOMES A DATED OPERATIONAL RISK — MEDIATION 9/18 AND 9/21.** *(Reuters via ho
 - `2026-09-16` **[1]** rates-board.md:L3585 — 2026-09-16 ~6:40pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **FOMC: 25bp TO 3.75-4.00 UNANIMOUS, DOTS 4.1 (ANOTHER HIKE), GROWTH MARKED UP — AND THE 30Y **FELL** ON A MAXIMALLY 
+- `2026-09-16` **[1]** rates-board.md:L3598 — Addendum 2026-09-16 ~7:15pm PDT — ⭐⭐⭐⭐ **THE 5% HISTORY (Jake's Q, FRED-pinned): BOTH PRIOR TOUCHES WERE THE CYCLE TOP IN YIELDS WITHIN DAYS — AND THE
 - `2026-09-16` **[3]** ai-financing-fragility.md:L8299 — 2026-09-16 ~6:40pm PDT — ⭐⭐⭐⭐⭐ **THE TRANSMISSION BEGINS FROM THE BOTTOM: HY/BB/B +6bp WITH IG PINNED AT 80 — AND AI-SPECIFIC PAPER IS WHERE INVESTORS
+- `2026-09-16` **[3]** ai-financing-fragility.md:L8310 — 2026-09-16 ~7:15pm PDT — ⭐⭐⭐⭐ **FDIC CHART 7: BANK UNREALIZED LOSSES $326.7B, GROWING TWO STRAIGHT QUARTERS — AS OF JUNE 30, BEFORE THIS MONTH'S CURVE

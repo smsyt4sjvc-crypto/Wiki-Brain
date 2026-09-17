@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **563 dated entries across 4 notes · 2026-05-22 → 2026-09-16 · refreshed 2026-09-16 18:41 PDT**
+> **564 dated entries across 4 notes · 2026-05-22 → 2026-09-16 · refreshed 2026-09-16 19:18 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -588,3 +588,4 @@
 - `2026-09-14` [metered-compute.md:L3471](../metered-compute.md) — 2026-09-14 ~3:25pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS: FIRST VERIFIED VERA RUBIN NVL72 AGENTIC-INFERENCE RESULTS (settled per rule 22, entered once) — AND THE
 - `2026-09-15` [metered-compute.md:L3487](../metered-compute.md) — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE THESIS GETS A TAPE: CFTC DEEMS A COMPUTE EXCHANGE + CLEARINGHOUSE "MATERIALLY COMPLETE," AND CME LAUNCHES AI-COMP
 - `2026-09-16` [ai-financing-fragility.md:L8299](../ai-financing-fragility.md) — 2026-09-16 ~6:40pm PDT — ⭐⭐⭐⭐⭐ **THE TRANSMISSION BEGINS FROM THE BOTTOM: HY/BB/B +6bp WITH IG PINNED AT 80 — AND AI-SPECIFIC PAPER IS WHERE INVESTORS
+- `2026-09-16` [ai-financing-fragility.md:L8310](../ai-financing-fragility.md) — 2026-09-16 ~7:15pm PDT — ⭐⭐⭐⭐ **FDIC CHART 7: BANK UNREALIZED LOSSES $326.7B, GROWING TWO STRAIGHT QUARTERS — AS OF JUNE 30, BEFORE THIS MONTH'S CURVE
