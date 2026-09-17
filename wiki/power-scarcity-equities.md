@@ -370,3 +370,14 @@ Source: Jake's DAILY HOLDINGS SCAN 2026-08-22 → `raw/2026-08-22-holdings-scan/
 **NO MOVES — 16c(c): the payoff mechanism (IRP cycles, order-to-revenue, litigation clock) sits beyond 120 days, exactly as `:L358` already ruled; inside 120 days the rule is in court.** *(Jake's scan graded the ITEM 5/5 for the thesis environment — agreed at that altitude; the 120-day grade driver it is not — debated and held.)*
 **📌 REGISTERED:** ⬜ the significance-finding rescission's finalization · ⬜ litigation venue/stay posture · ⬜ first utility IRP citing the repeal · Bernstein's utility-driven claim as GEV's non-AI demand floor.
 **Links:** [[buildout-bottleneck-map]] · [[transmission-chain]] (stage: policy → capex commitments) · [[nuclear]] · `:L338` (the §202(c) entry this extends)
+
+## 2026-09-16 ~6:55pm PDT — ⭐⭐⭐⭐⭐ **AEMA LAUNCHES: THE 8/7 CO-LOCATION THESIS GOES INSTITUTIONAL — GOOGLE/NVIDIA/EMERALD AI FORMALIZE FLEXIBLE-LOAD + COLOCATED GENERATION AS THE INDUSTRY ARCHITECTURE, WITH THE RATEPAYER WEDGE NOW POLLED AT ~80% BIPARTISAN.** *(9/16 open scan, approved; settled per rule 22.)*
+### DATA (observed)
+- **The AI Energy Management Alliance launched 9/16: founders Google, Nvidia, Emerald AI; participants include Anthropic, AES, National Grid, Constellation, NRG, RWE.** Stated objective: speed-to-power via FLEXIBLE data centers — **dynamically reduce grid draw using colocated generation, storage and workload management; conventional interconnection cited at 5-7+ years.**
+- **The wedge, quantified: AP-NORC — 84% concerned data centers raise local electricity prices; Axios — 79% of Democrats and 76% of Republicans support making developers pay for their own grid upgrades.**
+### THESIS (interpretation — NOT fact)
+- **★★★★★ THE VAULT FILED THIS CONFIGURATION 8/7 (nuclear:L712): "behind-the-meter is the only generation class not hostage to grid politics — the one configuration both coalitions permit." Today the industry incorporated around it.** The realistic architecture is grid + colocated/BTM + storage + controllable load (the scan's refinement, adopted) — not full grid secession.
+- **★★★ SECOND SCARCITY-EROSION VECTOR THIS WEEK: flexible/curtailable DC load peak-shaves exactly the tight-hours pricing the merchant IPPs monetize** — same direction as the EPA split (equipment/buildout > scarcity premium). Beneficiaries: BE, VRT, GEV, ETN, PWR + BTM generation; the scan's equipment-over-borrowers relative trade matches the filed rates read.
+- **🚩 NRG IS IN THE ALLIANCE — the grades ledger's named "cheapest open hole" (Tier-1 merchant IPP, no row) gains its second datum in a week. ⬜ the workup is now overdue.**
+**📌 REGISTERED:** ⬜ AEMA's technical framework doc (what "flexible" commits members to — curtailment depth/hours) · ⬜ NRG row · first utility rate case citing AEMA architecture.
+**Links:** [[nuclear]] (:L712 the wedge) · [[transmission-chain]] (:L309) · [[buildout-bottleneck-map]] · [[grades]]

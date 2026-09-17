@@ -1,6 +1,6 @@
 # ⏱ FINANCING — merged timeline (the gate)
 
-> **257 dated entries across 2 notes · 2026-05-22 → 2026-09-14 · refreshed 2026-09-15 10:20 PDT**
+> **258 dated entries across 2 notes · 2026-05-22 → 2026-09-16 · refreshed 2026-09-16 18:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -282,3 +282,4 @@
 - `2026-09-13` [ai-financing-fragility.md:L8257](../ai-financing-fragility.md) — Addendum 2026-09-13 ~6:30pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN SUPPLIES THE HIGH-YIELD TIER, AND THE TWO-DESK PICTURE IS NOW COMPLETE: **THE AI CREDIT PREMIUM ROUG
 - `2026-09-14` [ai-financing-fragility.md:L8271](../ai-financing-fragility.md) — Addendum 2026-09-14 ~8:55am PDT — ⭐⭐⭐⭐ **MONDAY'S REPRICING, SCORED (settled per rule 22, entered once): A DISCOUNT-RATE SHOCK IN AN AI-PACING COSTUME
 - `2026-09-14` [ai-financing-fragility.md:L8278](../ai-financing-fragility.md) — 2026-09-14 ~5:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE EVENING SCAN DELIVERS THE AGGREGATE AND CLOSES YESTERDAY'S ⬜ (settled per rule 22, entered once): **~$1.09 TRIL
+- `2026-09-16` [ai-financing-fragility.md:L8299](../ai-financing-fragility.md) — 2026-09-16 ~6:40pm PDT — ⭐⭐⭐⭐⭐ **THE TRANSMISSION BEGINS FROM THE BOTTOM: HY/BB/B +6bp WITH IG PINNED AT 80 — AND AI-SPECIFIC PAPER IS WHERE INVESTORS

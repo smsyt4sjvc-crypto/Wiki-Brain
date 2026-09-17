@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **443 dated entries across 3 notes · 2026-02-10 → 2026-09-15 · refreshed 2026-09-15 10:20 PDT**
+> **445 dated entries across 3 notes · 2026-02-10 → 2026-09-16 · refreshed 2026-09-16 18:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -468,3 +468,5 @@
 - `2026-09-15` [rates-board.md:L3547](../rates-board.md) — Addendum 2026-09-15 ~10:10am PDT — **THE SIX-PANEL GLOBAL CHART: JAPAN IS THE ANCHOR DEPARTURE.** *(Jake chart `raw/2026-09-15-global-10y-six-panel-ch
 - `2026-09-15` [rates-board.md:L3552](../rates-board.md) — 2026-09-15 ~10:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE $13B 20Y REOPENING: RECORD STOP 5.420%, 2.0bp TAIL (BIGGEST SINCE DEC-2024), INDIRECTS 52.5% — A RECORD LOW FOR
 - `2026-09-15` [rates-board.md:L3566](../rates-board.md) — Addendum 2026-09-15 ~10:20am PDT — **THE BESSENT HEARING vs THE 20Y TAPE: TREASURY'S DIAGNOSIS AND THE MARGINAL CLEARING PRICE OF DURATION NOW DISAGRE
+- `2026-09-15` [rates-board.md:L3574](../rates-board.md) — 2026-09-15 close (entered 9/16, per the approved 9/15 scan) — ⭐⭐⭐⭐⭐⭐ **THE STATE CHANGE: YESTERDAY 5% BROUGHT THE BUYERS; TODAY 5% BECAME THE CLOSE. 3
+- `2026-09-16` [rates-board.md:L3585](../rates-board.md) — 2026-09-16 ~6:40pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **FOMC: 25bp TO 3.75-4.00 UNANIMOUS, DOTS 4.1 (ANOTHER HIKE), GROWTH MARKED UP — AND THE 30Y **FELL** ON A MAXIMALLY 

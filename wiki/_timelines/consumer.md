@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **470 dated entries across 6 notes · 2026-03-13 → 2026-09-14 · refreshed 2026-09-15 10:20 PDT**
+> **472 dated entries across 6 notes · 2026-03-13 → 2026-09-16 · refreshed 2026-09-16 18:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -493,5 +493,7 @@
 - `2026-09-10` [new-economy-regime.md:L5003](../new-economy-regime.md) — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
 - `2026-09-13` [market-fragility.md:L4643](../market-fragility.md) — 2026-09-13 ~7:20pm PDT — ⭐⭐⭐⭐⭐ **NDX SINGLE-STOCK 1m PUT-CALL SKEW AT **ZERO** — ~2.75σ BELOW ITS 20-YEAR MEAN, THE SECOND ZERO-TOUCH IN THE SERIES — 
 - `2026-09-14` [demand-destruction.md:L4291](../demand-destruction.md) — 2026-09-14 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE DIESEL THESIS'S NAMED DISCONFIRMER ARRIVES AS A CLAIM: TRUMP POSTS THAT RUSSIA AND UKRAINE "AGREE" TO HALT ATTACK
-- `2026-09-14` [demand-destruction.md:L4297](../demand-destruction.md) — 2026-09-14 ~4:50pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BOARD'S TITLE EVENT (settled per rule 22, entered once): THE IEA PRINTS **2020-SCALE DEMAND DESTRUCTION — −2.5 
-- `2026-09-14` [demand-destruction.md:L4315](../demand-destruction.md) — Addendum 2026-09-14 ~8:10pm PDT — ⭐⭐⭐⭐ **CHINA'S AUGUST DATA (settled per rule 22, entered once): PRODUCTION UP, ABSORPTION DOWN — AND IT IS THE **SEC
+- `2026-09-14` [demand-destruction.md:L4298](../demand-destruction.md) — 2026-09-14 ~4:50pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BOARD'S TITLE EVENT (settled per rule 22, entered once): THE IEA PRINTS **2020-SCALE DEMAND DESTRUCTION — −2.5 
+- `2026-09-14` [demand-destruction.md:L4316](../demand-destruction.md) — Addendum 2026-09-14 ~8:10pm PDT — ⭐⭐⭐⭐ **CHINA'S AUGUST DATA (settled per rule 22, entered once): PRODUCTION UP, ABSORPTION DOWN — AND IT IS THE **SEC
+- `2026-09-16` [demand-destruction.md:L4325](../demand-destruction.md) — 2026-09-16 ~6:45pm PDT — ⭐⭐⭐⭐⭐ **EIA WEEK + SPR AT 285MM (LOWEST SINCE 1982) + THE DIESEL CRACK PRINTS $117 — THE BUILD AND THE RECORD CRACK ARE THE S
+- `2026-09-16` [demand-destruction.md:L4336](../demand-destruction.md) — 2026-09-16 ~6:50pm PDT — ⛔⭐⭐⭐⭐ **THE ENERGY-TRUCE CLAIM IS FALSIFIED — BOTH REGISTERED RESOLVERS FIRED: UKRAINE STRUCK SYZRAN AFTER TRUMP'S ASK, AND Z

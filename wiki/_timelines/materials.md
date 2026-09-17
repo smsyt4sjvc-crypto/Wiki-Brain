@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **225 dated entries across 3 notes · 2026-07-09 → 2026-09-15 · refreshed 2026-09-15 10:20 PDT**
+> **226 dated entries across 3 notes · 2026-07-09 → 2026-09-16 · refreshed 2026-09-16 18:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -244,3 +244,4 @@
 - `2026-09-14` [war-board.md:L5008](../war/war-board.md) — 2026-09-14 ~8:50am PDT — ⭐⭐⭐⭐⭐ **OMAN POSTPONED — **BY SAUDI ARABIA** — AND THE 77-SHIP LIST GIVES THE PERMISSION REGIME ITS ENFORCEMENT ARM (settled 
 - `2026-09-14` [war-board.md:L5015](../war/war-board.md) — Addendum 2026-09-14 ~9:05am PDT — ⛔⭐⭐⭐ **THE PETROLINE REPAIR CLOCK RE-OPENS TO **CONTESTED, THREE WAYS** — HOURS AFTER I FILED IT AS "WEEKS" (settled
 - `2026-09-15` [war-board.md:L5021](../war/war-board.md) — 2026-09-15 ~9:00am PDT — **HORMUZ TRANSIT REGIME + THE GULF AWS BACKFILL (a construction blind spot closed).** *(Jake's two morning scans + web verifi
+- `2026-09-16` [war-board.md:L5032](../war/war-board.md) — 2026-09-16 ~6:50pm PDT — **HORMUZ AT −97% ON A CITABLE RUNG · THE HOUSE VOTES 220-204 · AND THE US SIDE OF THE INSTRUMENTALISM THESIS.** *(9/16 open s
