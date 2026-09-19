@@ -387,3 +387,14 @@ Source: Jake's DAILY HOLDINGS SCAN 2026-08-22 → `raw/2026-08-22-holdings-scan/
 - **🚩 NRG IS IN THE ALLIANCE — the grades ledger's named "cheapest open hole" (Tier-1 merchant IPP, no row) gains its second datum in a week. ⬜ the workup is now overdue.**
 **📌 REGISTERED:** ⬜ AEMA's technical framework doc (what "flexible" commits members to — curtailment depth/hours) · ⬜ NRG row · first utility rate case citing AEMA architecture.
 **Links:** [[nuclear]] (:L712 the wedge) · [[transmission-chain]] (:L309) · [[buildout-bottleneck-map]] · [[grades]]
+
+## 2026-09-19 ~12:35pm PDT (covers Thu-Fri; settled per rule 22) — ⭐⭐⭐⭐⭐ **THE WEDGE WEEK COMPLETES: AEMA (9/16 am) → RATEPAYER PROTECTION ACT 417-3 (9/16 pm) → AMAZON-GENERAC $8B BACKUP-POWER (9/16 filing) — POLLING, PRIVATE ARCHITECTURE, NATIONAL LEGISLATION AND HARD DOLLARS IN 48 HOURS.**
+### DATA (observed)
+- **The House passed the Ratepayer Protection Act 417-3: directs state regulators to CONSIDER standards making large-load customers bear their incremental generation/transmission costs.** No moratorium, no rate-setting — the margin is the message.
+- **AMZN-Generac (Generac 8-K 9/16): long-term backup-generator supply; ~$2.4B initial deliveries 2027-28; warrants for up to 1.694M GNRC shares at $200.93, vesting on cumulative purchases up to $8B. GNRC ~+30%.** ⚠️ Explicitly BACKUP generators — resilience spend, not grid replacement.
+- **Bernstein: procurement shifting to PREFABRICATED INTEGRATED MODULES — Schneider prefab capacity +270% in 2yrs; VRT OneCore scales 12.5MW modules → 1GW campuses; VRT/Schneider/ETN named strongest.**
+### THESIS (interpretation — NOT fact)
+- **★★★★★ THE SEQUENCE IS THE FINDING: polling (84%/~77% bipartisan) → the industry incorporates around the wedge (AEMA) → Congress votes 417-3 → a hyperscaler signs $8B of self-supplied resilience — all inside 48 hours. Every increment of internalized grid cost improves BTM/self-funded/colocated RELATIVE economics; the bill and AEMA are the same force from opposite directions.**
+- **★★ The warrant structure is the vendor-equity extraction pattern rerun (cf. the WULF/Google penny warrants): the hyperscaler takes equity upside in the supplier as it hands it demand.** Modular prefab = a bottleneck-relief vector that concentrates margin in integrated OEMs — the equipment-over-borrowers trade again.
+**📌 REGISTERED:** ⬜ GNRC roster initialization · ⬜ AEMA technical framework (curtailment depth/hours) · ⬜ first rate case citing the Act · NRG workup (third datum this week).
+**Links:** [[nuclear]] (:L712 the wedge) · [[buildout-bottleneck-map]] · [[transmission-chain]] · [[grades]]

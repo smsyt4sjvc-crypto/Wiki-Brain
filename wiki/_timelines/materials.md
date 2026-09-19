@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **226 dated entries across 3 notes · 2026-07-09 → 2026-09-16 · refreshed 2026-09-16 19:18 PDT**
+> **228 dated entries across 3 notes · 2026-07-09 → 2026-09-19 · refreshed 2026-09-19 12:31 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -245,3 +245,5 @@
 - `2026-09-14` [war-board.md:L5015](../war/war-board.md) — Addendum 2026-09-14 ~9:05am PDT — ⛔⭐⭐⭐ **THE PETROLINE REPAIR CLOCK RE-OPENS TO **CONTESTED, THREE WAYS** — HOURS AFTER I FILED IT AS "WEEKS" (settled
 - `2026-09-15` [war-board.md:L5021](../war/war-board.md) — 2026-09-15 ~9:00am PDT — **HORMUZ TRANSIT REGIME + THE GULF AWS BACKFILL (a construction blind spot closed).** *(Jake's two morning scans + web verifi
 - `2026-09-16` [war-board.md:L5032](../war/war-board.md) — 2026-09-16 ~6:50pm PDT — **HORMUZ AT −97% ON A CITABLE RUNG · THE HOUSE VOTES 220-204 · AND THE US SIDE OF THE INSTRUMENTALISM THESIS.** *(9/16 open s
+- `2026-09-19` [buildout-bottleneck-map.md:L1930](../buildout-bottleneck-map.md) — 2026-09-19 ~12:50pm PDT (settled per rule 22) — ⭐⭐⭐⭐ **TRENDFORCE QUANTIFIES THE GAP — 268 GW BY 2030 — AND ITS OWN CAVEAT IS THE LOAD-BEARING PART: T
+- `2026-09-19` [war-board.md:L5039](../war/war-board.md) — 2026-09-19 ~12:40pm PDT (covers Thu-Fri overnight; settled per rule 22) — ⭐⭐⭐⭐⭐ **BOTH PATRONS LEAN ON TEHRAN — THE FIRST DE-ESCALATION VECTOR WITH A 

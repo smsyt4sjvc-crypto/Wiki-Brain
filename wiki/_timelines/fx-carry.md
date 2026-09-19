@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **522 dated entries across 3 notes · 2026-05-22 → 2026-09-16 · refreshed 2026-09-16 19:18 PDT**
+> **524 dated entries across 3 notes · 2026-05-22 → 2026-09-19 · refreshed 2026-09-19 12:31 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -547,3 +547,5 @@
 - `2026-09-14` [ai-financing-fragility.md:L8278](../ai-financing-fragility.md) — 2026-09-14 ~5:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE EVENING SCAN DELIVERS THE AGGREGATE AND CLOSES YESTERDAY'S ⬜ (settled per rule 22, entered once): **~$1.09 TRIL
 - `2026-09-16` [ai-financing-fragility.md:L8299](../ai-financing-fragility.md) — 2026-09-16 ~6:40pm PDT — ⭐⭐⭐⭐⭐ **THE TRANSMISSION BEGINS FROM THE BOTTOM: HY/BB/B +6bp WITH IG PINNED AT 80 — AND AI-SPECIFIC PAPER IS WHERE INVESTORS
 - `2026-09-16` [ai-financing-fragility.md:L8310](../ai-financing-fragility.md) — 2026-09-16 ~7:15pm PDT — ⭐⭐⭐⭐ **FDIC CHART 7: BANK UNREALIZED LOSSES $326.7B, GROWING TWO STRAIGHT QUARTERS — AS OF JUNE 30, BEFORE THIS MONTH'S CURVE
+- `2026-09-19` [ai-financing-fragility.md:L8319](../ai-financing-fragility.md) — 2026-09-19 ~12:30pm PDT (covers Thu-Fri; settled per rule 22) — ⭐⭐⭐⭐⭐⭐ **THE FUNDING-SIDE WEEK: THE ORCL GUARANTEE SENTENCE VANISHES · CRWV TAPS CONVE
+- `2026-09-19` [market-fragility.md:L4664](../market-fragility.md) — 2026-09-19 ~12:50pm PDT (covers Friday; settled per rule 22) — **THE $7T EXPIRY: THE VOL-SUPPRESSION STRUCTURE MEETS ITS UNWIND WINDOW.** *(Citadel/Ru

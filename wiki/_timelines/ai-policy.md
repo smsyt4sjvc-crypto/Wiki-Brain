@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **564 dated entries across 4 notes · 2026-05-22 → 2026-09-16 · refreshed 2026-09-16 19:18 PDT**
+> **567 dated entries across 4 notes · 2026-05-22 → 2026-09-19 · refreshed 2026-09-19 12:31 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -589,3 +589,6 @@
 - `2026-09-15` [metered-compute.md:L3487](../metered-compute.md) — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE THESIS GETS A TAPE: CFTC DEEMS A COMPUTE EXCHANGE + CLEARINGHOUSE "MATERIALLY COMPLETE," AND CME LAUNCHES AI-COMP
 - `2026-09-16` [ai-financing-fragility.md:L8299](../ai-financing-fragility.md) — 2026-09-16 ~6:40pm PDT — ⭐⭐⭐⭐⭐ **THE TRANSMISSION BEGINS FROM THE BOTTOM: HY/BB/B +6bp WITH IG PINNED AT 80 — AND AI-SPECIFIC PAPER IS WHERE INVESTORS
 - `2026-09-16` [ai-financing-fragility.md:L8310](../ai-financing-fragility.md) — 2026-09-16 ~7:15pm PDT — ⭐⭐⭐⭐ **FDIC CHART 7: BANK UNREALIZED LOSSES $326.7B, GROWING TWO STRAIGHT QUARTERS — AS OF JUNE 30, BEFORE THIS MONTH'S CURVE
+- `2026-09-19` [ai-financing-fragility.md:L8319](../ai-financing-fragility.md) — 2026-09-19 ~12:30pm PDT (covers Thu-Fri; settled per rule 22) — ⭐⭐⭐⭐⭐⭐ **THE FUNDING-SIDE WEEK: THE ORCL GUARANTEE SENTENCE VANISHES · CRWV TAPS CONVE
+- `2026-09-19` [compression-thesis.md:L3437](../compression-thesis.md) — 2026-09-19 ~12:45pm PDT (covers Thu-Fri; settled per rule 22) — **HUAWEI ACCELERATES IN SILICON (the non-signatory's physical proof) · CoWoS-L HOLDS T
+- `2026-09-19` [metered-compute.md:L3498](../metered-compute.md) — 2026-09-19 ~12:45pm PDT (settled per rule 22 after Jake's challenge) — ⭐⭐⭐⭐⭐⭐ **THE VINTAGE-UNIFORMITY FINDING + THE $/MW REVENUE LADDER: THE SCARCE U

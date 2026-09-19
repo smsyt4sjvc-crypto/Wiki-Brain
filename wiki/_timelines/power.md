@@ -1,6 +1,6 @@
 # ⏱ POWER — merged timeline (the gate)
 
-> **110 dated entries across 3 notes · 2026-06-30 → 2026-09-14 · refreshed 2026-09-16 19:18 PDT**
+> **111 dated entries across 3 notes · 2026-06-30 → 2026-09-19 · refreshed 2026-09-19 12:31 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -132,3 +132,4 @@
 - `2026-09-10` [power-not-petroleum.md:L485](../power-not-petroleum.md) — 2026-09-10 ~6:30pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **TWO RESERVE MAPS, ONE FINDING: **NOTHING THIS VAULT TRACKED TODAY IS A GEOLOGY PROBLEM.** THE US HOLDS THE WORLD'S 
 - `2026-09-10` [power-not-petroleum.md:L521](../power-not-petroleum.md) — 2026-09-10 ~7:25pm PDT — ⛔⛔⛔ **JAKE: *"BLOWN UP REFINERIES IN RUSSIA AREN'T POLITICAL."* — **HE IS RIGHT AND IT BREAKS THE TAXONOMY I BUILT AN HOUR AG
 - `2026-09-14` [nuclear.md:L807](../nuclear.md) — 2026-09-14 ~9:20am PDT — ⭐⭐⭐⭐ **HAMAOKA: JAPAN LOSES TWO PROSPECTIVE RESTARTS FOR YEARS — **ANNOUNCED GENERATION NOW GETS THE SAME HAIRCUT AS ANNOUNCE
+- `2026-09-19` [buildout-bottleneck-map.md:L1930](../buildout-bottleneck-map.md) — 2026-09-19 ~12:50pm PDT (settled per rule 22) — ⭐⭐⭐⭐ **TRENDFORCE QUANTIFIES THE GAP — 268 GW BY 2030 — AND ITS OWN CAVEAT IS THE LOAD-BEARING PART: T

@@ -1,6 +1,6 @@
 # ⏱ SEMIS — merged timeline (the gate)
 
-> **82 dated entries across 2 notes · 2026-07-09 → 2026-09-10 · refreshed 2026-09-16 19:18 PDT**
+> **83 dated entries across 2 notes · 2026-07-09 → 2026-09-19 · refreshed 2026-09-19 12:31 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -101,3 +101,4 @@
 - `2026-09-10` [buildout-bottleneck-map.md:L1845](../buildout-bottleneck-map.md) — Addendum 2026-09-10 ~8:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE SCAN AND THE SEMIANALYSIS PIECE LANDED IN THE SAME HOUR AND NEITHER SOURCE HAS THE OTHER. PUT THEM TOG
 - `2026-09-10` [buildout-bottleneck-map.md:L1857](../buildout-bottleneck-map.md) — 2026-09-10 ~10:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE 7/12 CHAIN'S COMMERCIAL CONSEQUENCE PRINTS: **QATAR — A TOP-TIER LNG *EXPORTER* — IS IN TALKS TO *BUY* US LNG 
 - `2026-09-10` [buildout-bottleneck-map.md:L1891](../buildout-bottleneck-map.md) — 2026-09-10 ~6:05pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE: *"DIDN'T THEY JUST REPORT QATAR WAS BUYING US LNG?"* — CHECKED, AND **IT IS NOT A CONTRADICTION. IT IS THE SA
+- `2026-09-19` [buildout-bottleneck-map.md:L1930](../buildout-bottleneck-map.md) — 2026-09-19 ~12:50pm PDT (settled per rule 22) — ⭐⭐⭐⭐ **TRENDFORCE QUANTIFIES THE GAP — 268 GW BY 2030 — AND ITS OWN CAVEAT IS THE LOAD-BEARING PART: T
