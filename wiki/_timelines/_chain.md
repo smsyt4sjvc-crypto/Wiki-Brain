@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **978 dated entries · 2026-02-10 → 2026-09-19 · refreshed 2026-09-19 12:31 PDT**
+> **980 dated entries · 2026-02-10 → 2026-09-19 · refreshed 2026-09-19 22:15 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1011,5 +1011,7 @@
 - `2026-09-16` **[3]** ai-financing-fragility.md:L8310 — 2026-09-16 ~7:15pm PDT — ⭐⭐⭐⭐ **FDIC CHART 7: BANK UNREALIZED LOSSES $326.7B, GROWING TWO STRAIGHT QUARTERS — AS OF JUNE 30, BEFORE THIS MONTH'S CURVE
 - `2026-09-19` **[1]** rates-board.md:L3608 — 2026-09-19 ~12:30pm PDT (covers Thu-Fri, settled per rule 22) — ⭐⭐⭐⭐⭐⭐ **THE POST-HIKE VERDICT: FULL-CURVE REAL-LED RALLY THURSDAY, CREDIT TIGHTENED A
 - `2026-09-19` **[3]** ai-financing-fragility.md:L8319 — 2026-09-19 ~12:30pm PDT (covers Thu-Fri; settled per rule 22) — ⭐⭐⭐⭐⭐⭐ **THE FUNDING-SIDE WEEK: THE ORCL GUARANTEE SENTENCE VANISHES · CRWV TAPS CONVE
+- `2026-09-19` **[3]** ai-financing-fragility.md:L8333 — 2026-09-19 ~10:10pm PDT — ⭐⭐⭐⭐⭐⭐ **THE $3.1T DECOMPOSED PER COMPANY (MORGAN STANLEY) · A REPORTED $500B NVDA CHIP FACILITY WITH 25% RVS · NIPPON LIFE'
 - `2026-09-19` **[5]** metered-compute.md:L3498 — 2026-09-19 ~12:45pm PDT (settled per rule 22 after Jake's challenge) — ⭐⭐⭐⭐⭐⭐ **THE VINTAGE-UNIFORMITY FINDING + THE $/MW REVENUE LADDER: THE SCARCE U
+- `2026-09-19` **[5]** metered-compute.md:L3509 — 2026-09-19 ~10:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MW/$ FULCRUM (Jake's synthesis, adopted as THIS BOARD'S ORGANIZING TEST): DOES WORKLOAD GROWTH + SCARCITY PRES
 - `2026-09-19` **[5]** compression-thesis.md:L3437 — 2026-09-19 ~12:45pm PDT (covers Thu-Fri; settled per rule 22) — **HUAWEI ACCELERATES IN SILICON (the non-signatory's physical proof) · CoWoS-L HOLDS T

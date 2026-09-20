@@ -1,6 +1,6 @@
 # ⏱ SHEETS — merged timeline (the gate)
 
-> **260 dated entries across 2 notes · 2026-05-22 → 2026-09-19 · refreshed 2026-09-19 12:31 PDT**
+> **261 dated entries across 2 notes · 2026-05-22 → 2026-09-19 · refreshed 2026-09-19 22:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -285,3 +285,4 @@
 - `2026-09-16` [ai-financing-fragility.md:L8299](../ai-financing-fragility.md) — 2026-09-16 ~6:40pm PDT — ⭐⭐⭐⭐⭐ **THE TRANSMISSION BEGINS FROM THE BOTTOM: HY/BB/B +6bp WITH IG PINNED AT 80 — AND AI-SPECIFIC PAPER IS WHERE INVESTORS
 - `2026-09-16` [ai-financing-fragility.md:L8310](../ai-financing-fragility.md) — 2026-09-16 ~7:15pm PDT — ⭐⭐⭐⭐ **FDIC CHART 7: BANK UNREALIZED LOSSES $326.7B, GROWING TWO STRAIGHT QUARTERS — AS OF JUNE 30, BEFORE THIS MONTH'S CURVE
 - `2026-09-19` [ai-financing-fragility.md:L8319](../ai-financing-fragility.md) — 2026-09-19 ~12:30pm PDT (covers Thu-Fri; settled per rule 22) — ⭐⭐⭐⭐⭐⭐ **THE FUNDING-SIDE WEEK: THE ORCL GUARANTEE SENTENCE VANISHES · CRWV TAPS CONVE
+- `2026-09-19` [ai-financing-fragility.md:L8333](../ai-financing-fragility.md) — 2026-09-19 ~10:10pm PDT — ⭐⭐⭐⭐⭐⭐ **THE $3.1T DECOMPOSED PER COMPANY (MORGAN STANLEY) · A REPORTED $500B NVDA CHIP FACILITY WITH 25% RVS · NIPPON LIFE'

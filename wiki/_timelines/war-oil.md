@@ -1,6 +1,6 @@
 # ⏱ WAR/OIL — merged timeline (the gate)
 
-> **394 dated entries across 3 notes · 2026-03-13 → 2026-09-19 · refreshed 2026-09-19 12:31 PDT**
+> **395 dated entries across 3 notes · 2026-03-13 → 2026-09-19 · refreshed 2026-09-19 22:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -419,3 +419,4 @@
 - `2026-09-16` [war-board.md:L5032](../war/war-board.md) — 2026-09-16 ~6:50pm PDT — **HORMUZ AT −97% ON A CITABLE RUNG · THE HOUSE VOTES 220-204 · AND THE US SIDE OF THE INSTRUMENTALISM THESIS.** *(9/16 open s
 - `2026-09-19` [demand-destruction.md:L4342](../demand-destruction.md) — 2026-09-19 ~12:40pm PDT (covers Thu-Fri; settled per rule 22) — ⭐⭐⭐⭐⭐ **THE CRACK AT 1.7× THE 2022 RECORD WHILE BRENT FALLS ON A WORKAROUND THAT RUNS 
 - `2026-09-19` [war-board.md:L5039](../war/war-board.md) — 2026-09-19 ~12:40pm PDT (covers Thu-Fri overnight; settled per rule 22) — ⭐⭐⭐⭐⭐ **BOTH PATRONS LEAN ON TEHRAN — THE FIRST DE-ESCALATION VECTOR WITH A 
+- `2026-09-19` [war-board.md:L5050](../war/war-board.md) — 2026-09-19 ~10:10pm PDT — ⭐⭐⭐⭐⭐ **HOUTHI BALLISTIC MISSILE AT RIYADH (INTERCEPTED) + A FIVE-CAPITAL US EMBASSY ALERT WAVE — THE CLIENT DEFIES BOTH PAT

@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **276 dated entries across 2 notes · 2026-05-22 → 2026-09-19 · refreshed 2026-09-19 12:31 PDT**
+> **277 dated entries across 2 notes · 2026-05-22 → 2026-09-19 · refreshed 2026-09-19 22:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -301,3 +301,4 @@
 - `2026-09-15` [war-board.md:L5021](../war/war-board.md) — 2026-09-15 ~9:00am PDT — **HORMUZ TRANSIT REGIME + THE GULF AWS BACKFILL (a construction blind spot closed).** *(Jake's two morning scans + web verifi
 - `2026-09-16` [war-board.md:L5032](../war/war-board.md) — 2026-09-16 ~6:50pm PDT — **HORMUZ AT −97% ON A CITABLE RUNG · THE HOUSE VOTES 220-204 · AND THE US SIDE OF THE INSTRUMENTALISM THESIS.** *(9/16 open s
 - `2026-09-19` [war-board.md:L5039](../war/war-board.md) — 2026-09-19 ~12:40pm PDT (covers Thu-Fri overnight; settled per rule 22) — ⭐⭐⭐⭐⭐ **BOTH PATRONS LEAN ON TEHRAN — THE FIRST DE-ESCALATION VECTOR WITH A 
+- `2026-09-19` [war-board.md:L5050](../war/war-board.md) — 2026-09-19 ~10:10pm PDT — ⭐⭐⭐⭐⭐ **HOUTHI BALLISTIC MISSILE AT RIYADH (INTERCEPTED) + A FIVE-CAPITAL US EMBASSY ALERT WAVE — THE CLIENT DEFIES BOTH PAT

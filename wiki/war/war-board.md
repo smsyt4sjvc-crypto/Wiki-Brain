@@ -5211,3 +5211,14 @@ Three vessels, one unladen — call it single-digit millions of barrels. **Again
 - **★★★ The visa contrast confirms the filed configuration within a day: the tracks that touch FUEL get meetings and visas (Iran's president, mid-war); the tracks that don't get denials (Abbas). The de-escalation stage for UNGA week is being physically assembled.**
 **📌 REGISTERED:** ⬜ Bessent-He readout (this weekend) · ⬜ any Iranian public response to the patron pressure · ⬜ Mokha→east advance vs the pressure (the test of which force wins) · Yanbu/E-W partial-restoration reports ("much sooner than full").
 **Links:** [[demand-destruction]] · [[oil-value-chain]] · [[forest]]
+
+## 2026-09-19 ~10:10pm PDT — ⭐⭐⭐⭐⭐ **HOUTHI BALLISTIC MISSILE AT RIYADH (INTERCEPTED) + A FIVE-CAPITAL US EMBASSY ALERT WAVE — THE CLIENT DEFIES BOTH PATRONS WITHIN ~48 HOURS OF THE PRESSURE.** *(ZH feed scroll `raw/2026-09-19-zh-feed-scroll.pdf` + Jake's rung-disciplined recap; settled per rule 22.)*
+### DATA (observed, rungs marked)
+- **Saudi Arabia says it intercepted a Houthi ballistic missile aimed at RIYADH; explosions/smoke observed near the airport area** (official Saudi claim + observation); additional Houthi infrastructure claims LESS ESTABLISHED.
+- **US missions issued unusually broad security alerts in ONE EVENING: Jerusalem · Muscat · Beirut · Baghdad · Manama (Manama confirmed at the official embassy page, 9/19)** — explicitly warning the SAUDI-HOUTHI conflict could escalate rapidly; Oman citizens warned of flight cancellations/AIRSPACE CLOSURES. **⚠️ Security/aviation alerts, NOT evacuation orders.**
+- **Trump returned to Washington Saturday evening, earlier than the published Sunday schedule** (pool report) — **⚠️ NO verified evidence the Middle East caused it; the inference is analysis, not fact.**
+### THESIS (interpretation — NOT fact)
+- **★★★★★ THE PATRON-PRESSURE TEST IS ALREADY STRAINING: the missile at Riyadh came ~48 HOURS AFTER China and Pakistan both asked Tehran to restrain the Houthis (the 9/19 entry). Client defiance of both patrons — or a launch already in motion — either way the de-escalation vector's first read is FAILURE-LEANING, with the Mokha expansion pointing the same direction.**
+- **★★★ Jake's frame, adopted as the header: two duration mismatches running in parallel — AI (fast-compressing technology vs 15-19yr obligations) and the Middle East (fast-escalating Saudi-Houthi conditions vs Washington's containment attempt into UNGA/Xi week).**
+**📌 REGISTERED — THE FOUR TRIPWIRES (Jake's, verbatim in substance): actual Gulf airspace closures · ordered/authorized embassy departures · significant US force movements · major Saudi/US retaliation.** Sunday's Brent open = the first market test. ⬜ whether the Riyadh attempt draws the Saudi response the mutual-defense pact (Pakistan) implies.
+**Links:** [[demand-destruction]] · [[oil-value-chain]] · [[forest]] (the ⚡ branch's kill-side risk)

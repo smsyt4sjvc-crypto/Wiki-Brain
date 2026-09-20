@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **434 dated entries across 6 notes · 2026-02-10 → 2026-09-19 · refreshed 2026-09-19 12:31 PDT**
+> **435 dated entries across 6 notes · 2026-02-10 → 2026-09-19 · refreshed 2026-09-19 22:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -461,4 +461,5 @@
 - `2026-09-16` [rates-board.md:L3598](../rates-board.md) — Addendum 2026-09-16 ~7:15pm PDT — ⭐⭐⭐⭐ **THE 5% HISTORY (Jake's Q, FRED-pinned): BOTH PRIOR TOUCHES WERE THE CYCLE TOP IN YIELDS WITHIN DAYS — AND THE
 - `2026-09-16` [rates-board.md:L3603](../rates-board.md) — Addendum 2026-09-16 ~7:40pm PDT (Y'd 9/17) — **WHAT THE HIKE DOES TO THE DEFICIT AND DEBT SERVICE (MSPD-pinned, Aug-31 stock): THE HIKE IS CHEAP; THE 
 - `2026-09-19` [ai-financing-fragility.md:L8319](../ai-financing-fragility.md) — 2026-09-19 ~12:30pm PDT (covers Thu-Fri; settled per rule 22) — ⭐⭐⭐⭐⭐⭐ **THE FUNDING-SIDE WEEK: THE ORCL GUARANTEE SENTENCE VANISHES · CRWV TAPS CONVE
+- `2026-09-19` [ai-financing-fragility.md:L8333](../ai-financing-fragility.md) — 2026-09-19 ~10:10pm PDT — ⭐⭐⭐⭐⭐⭐ **THE $3.1T DECOMPOSED PER COMPANY (MORGAN STANLEY) · A REPORTED $500B NVDA CHIP FACILITY WITH 25% RVS · NIPPON LIFE'
 - `2026-09-19` [rates-board.md:L3608](../rates-board.md) — 2026-09-19 ~12:30pm PDT (covers Thu-Fri, settled per rule 22) — ⭐⭐⭐⭐⭐⭐ **THE POST-HIKE VERDICT: FULL-CURVE REAL-LED RALLY THURSDAY, CREDIT TIGHTENED A
