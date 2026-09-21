@@ -2021,3 +2021,32 @@ Today's holdings-scan conclusion, filed at 8:35am: **"raw announced GW is becomi
 - **DATA (TrendForce, 9/16): global DC power demand ~161 GW in 2026 (+31% y/y), >30% growth again 2027; by 2030 modeled demand 490.7 GW vs 222.6 GW grid-deliverable = 268 GW nominal gap; US alone >170 GW. ⚠️ Perimeter ⬜: GW-IT vs facility undefined in the summary. EXPLICITLY EXCLUDED: behind-the-meter/self-built generation.**
 - **THESIS: the official gap OVERSTATES true shortage to exactly the degree the BTM architecture succeeds — making invisible supply the THIRD scarcity-erosion vector of the week (EPA thermal supply · AEMA flexible load · BTM generation that never enters utility statistics). The wedge thesis now has a quantified ceiling it is eating into — and the scarcity-premium names are short that erosion while the equipment names are long the gap either way.**
 **Links:** [[power-scarcity-equities]] · [[power-to-silicon-thesis]] · [[nuclear]] · [[transmission-chain]]
+
+## 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE GW-DESTRUCTION LEDGER (Jake's compilation, adopted as this board's spine section): "ANNOUNCED DEMAND IS NO LONGER SUFFICIENT TO MAKE A GW FINANCEABLE" — THE AI-POWER BUILDOUT IS BEING RE-UNDERWRITTEN IN REAL TIME.** *(Settled per rule 22; his 19-row table verbatim, rungs as sourced.)*
+### DATA (observed) — the ledger
+| Date | Project | What broke | Status |
+|---|---|---|---|
+| Mar-26 | OpenAI/Oracle/Crusoe Abilene TX | ~1.2→2GW expansion fell apart (financing + OpenAI-demand uncertainty); capacity re-marketed | Expansion abandoned |
+| Apr-9 | Stargate UK | paused — energy costs + regulatory | Paused |
+| Apr-Jul | QTS/Compass Virginia Digital Gateway | legal/regulatory killed up-to-37-DC project; "no viable path" | Cancelled |
+| Jun-18 | Stream SC | $800M — utility couldn't deliver power in timeframe | Cancelled (power availability) |
+| Jun-30 | Kalina Alberta | DC + 200MW gas withdrawn (local opposition) | Withdrawn |
+| Jul | Energy Storage Solutions NC | ~$19.2B withdrawn amid 2-yr moratorium consideration | Withdrawn |
+| Jul-8 | Serverfarm/VoltaGrid GA | ~90MW onsite gas STOP-WORK (generators before air permits) | Stop-work |
+| Jul-21 | Oracle/Vantage/OpenAI WI | regulators refuse credit-protection relaxation; >$7B collateral, >$100M/yr cost | Economics worsened |
+| Jul-30 | Vantage/VoltaGrid WA | BTM gas withdrawn (air-permit opposition; Grant County PUD out) | Cancelled |
+| Aug-4 | Clearway NV | DC + colocated gas on federal land dropped | Cancelled |
+| Aug-17 | Synapse Alberta | 1.4GW gas + 1.8GW backup REJECTED (siting) | Permit denied |
+| Aug | CoreWeave $2.6B loan | weak demand → ~9.1% + cash lockbox to clear | Debt repriced |
+| Aug-14 | Jupiter gas supply | Green Chile pipeline slips 8/15/26 → 2/1/27 | ~6-mo fuel delay |
+| Aug-31 | Oklo/PJM | 750MW dropped from interconnection study; emergency FERC complaint | Interconnection dispute |
+| Sep-17 | Holtec | $825-900M IPO postponed — "data-center development" uncertainty | Equity postponed |
+| Sep-18 | TerraPower/Bechtel | EPC exits Natrium next phase; ~200 layoffs; no replacement named | EPC split |
+| Sep-18 | Jupiter $18B debt | quoted 89-91; distribution stalled | Stressed project debt |
+| Sep-20 | AI infra financing (FT) | up to ~$300B of AI infra/chip debt supported by RESIDUAL-VALUE GUARANTEES (Meta/Nvidia/Broadcom) | Risk → guarantors |
+- **Baird (via Utility Dive): DC project cancellations 2 (2023) → 6 (2024) → 25 (2025). NCSL 9/15: 16 states considering moratorium legislation (most failed/vetoed/proposals — the point is siting risk is now an UNDERWRITING variable). Medium-voltage switchgear lead times ~40-60+ weeks; contractors: 1GW-scale routinely fails feasibility on power/permitting/labor.**
+- **COUNTERWEIGHT (kept prominent — this is NOT a capex freeze): Crusoe closed the initial part of $3.9B at a $30.9B valuation · CRWV's loan FUNDED after repricing · AEP Ohio: 5.6GW of BINDING contracts signed under the tougher tariff.**
+### THESIS (interpretation — Jake's, adopted)
+- **★★★★★ THE CHAIN, each link now a failure point: announced GW → creditworthy tenant → binding take-or-pay → collateral/guarantee → final power solution → fuel/interconnection → permits → EPC risk allocation → syndicated financing → equipment procurement → ACTUAL ENERGIZATION.** June-July was the physical/permitting shakeout; **August-September is the credit market pricing the same problem** — qualitatively different signals.
+- **📌 THE DE-RISKED-GW THRESHOLD, UPGRADED TO THE BOARD STANDARD: count NO capacity as de-risked without binding offtake + executable power/fuel path + materially complete permits + funded/syndicated capital + committed EPC and long-lead equipment. A PPA, nuclear announcement or "power secured" release no longer counts alone.** Jake's GW-destruction feed (cancellations, PPA renegotiations, EPC exits, permit denials, debt repricing, stalled syndications, collateral changes, energization slips) = the board's instrument; surface only events that change build-probability.
+**Links:** [[ai-financing-fragility]] · [[power-scarcity-equities]] · [[nuclear]] · [[power-to-silicon-thesis]] · [[grades]]

@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **229 dated entries across 3 notes · 2026-07-09 → 2026-09-19 · refreshed 2026-09-19 22:15 PDT**
+> **231 dated entries across 3 notes · 2026-07-09 → 2026-09-20 · refreshed 2026-09-20 19:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -248,3 +248,5 @@
 - `2026-09-19` [buildout-bottleneck-map.md:L1930](../buildout-bottleneck-map.md) — 2026-09-19 ~12:50pm PDT (settled per rule 22) — ⭐⭐⭐⭐ **TRENDFORCE QUANTIFIES THE GAP — 268 GW BY 2030 — AND ITS OWN CAVEAT IS THE LOAD-BEARING PART: T
 - `2026-09-19` [war-board.md:L5039](../war/war-board.md) — 2026-09-19 ~12:40pm PDT (covers Thu-Fri overnight; settled per rule 22) — ⭐⭐⭐⭐⭐ **BOTH PATRONS LEAN ON TEHRAN — THE FIRST DE-ESCALATION VECTOR WITH A 
 - `2026-09-19` [war-board.md:L5050](../war/war-board.md) — 2026-09-19 ~10:10pm PDT — ⭐⭐⭐⭐⭐ **HOUTHI BALLISTIC MISSILE AT RIYADH (INTERCEPTED) + A FIVE-CAPITAL US EMBASSY ALERT WAVE — THE CLIENT DEFIES BOTH PAT
+- `2026-09-20` [buildout-bottleneck-map.md:L1935](../buildout-bottleneck-map.md) — 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE GW-DESTRUCTION LEDGER (Jake's compilation, adopted as this board's spine section): "ANNOUNCED DEMAND IS NO LONG
+- `2026-09-20` [war-board.md:L5061](../war/war-board.md) — 2026-09-20 ~12:05pm PDT — ⭐⭐⭐⭐⭐ **THE ZELENSKY MEETING + THE GRAHAM-ACT "THEN WHAT" — THE STRIKES BOUGHT THE TABLE, AND THE STICK IS WORTH MORE HELD T

@@ -1,6 +1,6 @@
 # ⏱ SCREEN-METHOD — merged timeline (the gate)
 
-> **160 dated entries across 5 notes · 2026-07-01 → 2026-09-19 · refreshed 2026-09-19 22:15 PDT**
+> **161 dated entries across 5 notes · 2026-07-01 → 2026-09-20 · refreshed 2026-09-20 19:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -179,3 +179,4 @@
 - `2026-09-10` [market-fragility.md:L4624](../market-fragility.md) — 2026-09-10 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE AGENDA EXPLAINS THE WEEK, AND IT IS A CLASS-8 CATCH ON EVERYTHING BULLISH THE VAULT HAS FILED SINCE MONDAY: **TH
 - `2026-09-13` [market-fragility.md:L4643](../market-fragility.md) — 2026-09-13 ~7:20pm PDT — ⭐⭐⭐⭐⭐ **NDX SINGLE-STOCK 1m PUT-CALL SKEW AT **ZERO** — ~2.75σ BELOW ITS 20-YEAR MEAN, THE SECOND ZERO-TOUCH IN THE SERIES — 
 - `2026-09-19` [market-fragility.md:L4664](../market-fragility.md) — 2026-09-19 ~12:50pm PDT (covers Friday; settled per rule 22) — **THE $7T EXPIRY: THE VOL-SUPPRESSION STRUCTURE MEETS ITS UNWIND WINDOW.** *(Citadel/Ru
+- `2026-09-20` [market-fragility.md:L4669](../market-fragility.md) — 2026-09-20 ~6:45pm PDT — ⭐⭐⭐⭐ **THE SITUATIONAL AWARENESS THREAD, NEXT CHAPTER: JPM → CLEAR STREET — THE POST-ARCHEGOS PATTERN ONE LEVEL DOWN — AND TH

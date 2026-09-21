@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **474 dated entries across 6 notes · 2026-03-13 → 2026-09-19 · refreshed 2026-09-19 22:15 PDT**
+> **477 dated entries across 6 notes · 2026-03-13 → 2026-09-20 · refreshed 2026-09-20 19:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -498,4 +498,7 @@
 - `2026-09-16` [demand-destruction.md:L4325](../demand-destruction.md) — 2026-09-16 ~6:45pm PDT — ⭐⭐⭐⭐⭐ **EIA WEEK + SPR AT 285MM (LOWEST SINCE 1982) + THE DIESEL CRACK PRINTS $117 — THE BUILD AND THE RECORD CRACK ARE THE S
 - `2026-09-16` [demand-destruction.md:L4336](../demand-destruction.md) — 2026-09-16 ~6:50pm PDT — ⛔⭐⭐⭐⭐ **THE ENERGY-TRUCE CLAIM IS FALSIFIED — BOTH REGISTERED RESOLVERS FIRED: UKRAINE STRUCK SYZRAN AFTER TRUMP'S ASK, AND Z
 - `2026-09-19` [demand-destruction.md:L4342](../demand-destruction.md) — 2026-09-19 ~12:40pm PDT (covers Thu-Fri; settled per rule 22) — ⭐⭐⭐⭐⭐ **THE CRACK AT 1.7× THE 2022 RECORD WHILE BRENT FALLS ON A WORKAROUND THAT RUNS 
+- `2026-09-19` [demand-destruction.md:L4353](../demand-destruction.md) — Addendum 2026-09-19 ~10:20pm PT (Y'd 9/20) — **THE BAN CLOCK MOVES BOTH WAYS: THUNE ESCALATES AND DIESEL PRINTS $6.31 — BUT THE EXECUTIVE PUBLICLY DEC
 - `2026-09-19` [market-fragility.md:L4664](../market-fragility.md) — 2026-09-19 ~12:50pm PDT (covers Friday; settled per rule 22) — **THE $7T EXPIRY: THE VOL-SUPPRESSION STRUCTURE MEETS ITS UNWIND WINDOW.** *(Citadel/Ru
+- `2026-09-20` [demand-destruction.md:L4357](../demand-destruction.md) — Addendum 2026-09-20 ~12:05pm PT — **BAN CLOCK UPDATE #2: GRASSLEY DEMANDS IMPLEMENTATION (the harvest vector) — THE TRIPWIRE DIAL AT ~$6.50 AND ACCELE
+- `2026-09-20` [market-fragility.md:L4669](../market-fragility.md) — 2026-09-20 ~6:45pm PDT — ⭐⭐⭐⭐ **THE SITUATIONAL AWARENESS THREAD, NEXT CHAPTER: JPM → CLEAR STREET — THE POST-ARCHEGOS PATTERN ONE LEVEL DOWN — AND TH

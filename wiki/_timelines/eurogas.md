@@ -1,6 +1,6 @@
 # ⏱ EUROGAS — merged timeline (the gate)
 
-> **248 dated entries across 3 notes · 2026-07-23 → 2026-09-19 · refreshed 2026-09-19 22:15 PDT**
+> **249 dated entries across 3 notes · 2026-07-23 → 2026-09-20 · refreshed 2026-09-20 19:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -267,3 +267,4 @@
 - `2026-09-16` [war-board.md:L5032](../war/war-board.md) — 2026-09-16 ~6:50pm PDT — **HORMUZ AT −97% ON A CITABLE RUNG · THE HOUSE VOTES 220-204 · AND THE US SIDE OF THE INSTRUMENTALISM THESIS.** *(9/16 open s
 - `2026-09-19` [war-board.md:L5039](../war/war-board.md) — 2026-09-19 ~12:40pm PDT (covers Thu-Fri overnight; settled per rule 22) — ⭐⭐⭐⭐⭐ **BOTH PATRONS LEAN ON TEHRAN — THE FIRST DE-ESCALATION VECTOR WITH A 
 - `2026-09-19` [war-board.md:L5050](../war/war-board.md) — 2026-09-19 ~10:10pm PDT — ⭐⭐⭐⭐⭐ **HOUTHI BALLISTIC MISSILE AT RIYADH (INTERCEPTED) + A FIVE-CAPITAL US EMBASSY ALERT WAVE — THE CLIENT DEFIES BOTH PAT
+- `2026-09-20` [war-board.md:L5061](../war/war-board.md) — 2026-09-20 ~12:05pm PDT — ⭐⭐⭐⭐⭐ **THE ZELENSKY MEETING + THE GRAHAM-ACT "THEN WHAT" — THE STRIKES BOUGHT THE TABLE, AND THE STICK IS WORTH MORE HELD T

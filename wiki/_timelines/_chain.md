@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **980 dated entries · 2026-02-10 → 2026-09-19 · refreshed 2026-09-19 22:15 PDT**
+> **983 dated entries · 2026-02-10 → 2026-09-20 · refreshed 2026-09-20 19:28 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1015,3 +1015,6 @@
 - `2026-09-19` **[5]** metered-compute.md:L3498 — 2026-09-19 ~12:45pm PDT (settled per rule 22 after Jake's challenge) — ⭐⭐⭐⭐⭐⭐ **THE VINTAGE-UNIFORMITY FINDING + THE $/MW REVENUE LADDER: THE SCARCE U
 - `2026-09-19` **[5]** metered-compute.md:L3509 — 2026-09-19 ~10:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MW/$ FULCRUM (Jake's synthesis, adopted as THIS BOARD'S ORGANIZING TEST): DOES WORKLOAD GROWTH + SCARCITY PRES
 - `2026-09-19` **[5]** compression-thesis.md:L3437 — 2026-09-19 ~12:45pm PDT (covers Thu-Fri; settled per rule 22) — **HUAWEI ACCELERATES IN SILICON (the non-signatory's physical proof) · CoWoS-L HOLDS T
+- `2026-09-20` **[1]** rates-board.md:L3621 — 2026-09-20 ~11:30am PDT — ⭐⭐⭐⭐⭐ **THE CREDIT BRIDGE + THE FREIGHT PIPELINE: THE DELAYED-DEMAND-COLLAPSE MECHANISM (Jake's frame, adopted) — A MATURE S
+- `2026-09-20` **[3]** ai-financing-fragility.md:L8345 — 2026-09-20 ~5:35pm PDT — ⭐⭐⭐⭐⭐⭐ **PROJECT JUPITER: THE $18B LOAN QUOTED 89-91 WITH SYNDICATION STALLED AT ~9-26% COMPLETION — "FINANCING FLASHING DIST
+- `2026-09-20` **[3]** ai-financing-fragility.md:L8364 — 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐ **WHY THE FINANCING LEG IS SYSTEMIC WHERE THE PHYSICAL LEGS ARE LOCAL (Jake's question, answered and adopted): THE PHY
