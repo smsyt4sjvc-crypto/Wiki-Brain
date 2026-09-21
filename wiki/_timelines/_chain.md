@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **983 dated entries · 2026-02-10 → 2026-09-20 · refreshed 2026-09-20 19:28 PDT**
+> **985 dated entries · 2026-02-10 → 2026-09-20 · refreshed 2026-09-20 19:47 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1018,3 +1018,5 @@
 - `2026-09-20` **[1]** rates-board.md:L3621 — 2026-09-20 ~11:30am PDT — ⭐⭐⭐⭐⭐ **THE CREDIT BRIDGE + THE FREIGHT PIPELINE: THE DELAYED-DEMAND-COLLAPSE MECHANISM (Jake's frame, adopted) — A MATURE S
 - `2026-09-20` **[3]** ai-financing-fragility.md:L8345 — 2026-09-20 ~5:35pm PDT — ⭐⭐⭐⭐⭐⭐ **PROJECT JUPITER: THE $18B LOAN QUOTED 89-91 WITH SYNDICATION STALLED AT ~9-26% COMPLETION — "FINANCING FLASHING DIST
 - `2026-09-20` **[3]** ai-financing-fragility.md:L8364 — 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐ **WHY THE FINANCING LEG IS SYSTEMIC WHERE THE PHYSICAL LEGS ARE LOCAL (Jake's question, answered and adopted): THE PHY
+- `2026-09-20` **[5]** metered-compute.md:L3518 — Addendum 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐⭐ **THE FULCRUM OPERATIONALIZED (Jake's inversion, adopted): THE TWO RATIOS SWAP ROLES — $/MW-REVENUE BECOMES EX
+- `2026-09-20` **[5]** compression-thesis.md:L3441 — 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐ **ZCODE OPEN-SOURCED (Apache 2.0, Zhipu/Z.ai): THE OPEN STACK COMPLETES ITS THIRD LAYER IN ONE WEEK — AND THE HARNESS LA

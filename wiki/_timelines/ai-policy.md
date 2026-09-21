@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **571 dated entries across 4 notes · 2026-05-22 → 2026-09-20 · refreshed 2026-09-20 19:28 PDT**
+> **573 dated entries across 4 notes · 2026-05-22 → 2026-09-20 · refreshed 2026-09-20 19:47 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -596,3 +596,5 @@
 - `2026-09-19` [metered-compute.md:L3509](../metered-compute.md) — 2026-09-19 ~10:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MW/$ FULCRUM (Jake's synthesis, adopted as THIS BOARD'S ORGANIZING TEST): DOES WORKLOAD GROWTH + SCARCITY PRES
 - `2026-09-20` [ai-financing-fragility.md:L8345](../ai-financing-fragility.md) — 2026-09-20 ~5:35pm PDT — ⭐⭐⭐⭐⭐⭐ **PROJECT JUPITER: THE $18B LOAN QUOTED 89-91 WITH SYNDICATION STALLED AT ~9-26% COMPLETION — "FINANCING FLASHING DIST
 - `2026-09-20` [ai-financing-fragility.md:L8364](../ai-financing-fragility.md) — 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐ **WHY THE FINANCING LEG IS SYSTEMIC WHERE THE PHYSICAL LEGS ARE LOCAL (Jake's question, answered and adopted): THE PHY
+- `2026-09-20` [compression-thesis.md:L3441](../compression-thesis.md) — 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐ **ZCODE OPEN-SOURCED (Apache 2.0, Zhipu/Z.ai): THE OPEN STACK COMPLETES ITS THIRD LAYER IN ONE WEEK — AND THE HARNESS LA
+- `2026-09-20` [metered-compute.md:L3518](../metered-compute.md) — Addendum 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐⭐ **THE FULCRUM OPERATIONALIZED (Jake's inversion, adopted): THE TWO RATIOS SWAP ROLES — $/MW-REVENUE BECOMES EX

@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **221 dated entries across 3 notes · 2026-07-01 → 2026-09-19 · refreshed 2026-09-20 19:28 PDT**
+> **223 dated entries across 3 notes · 2026-07-01 → 2026-09-20 · refreshed 2026-09-20 19:47 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -240,3 +240,5 @@
 - `2026-09-19` [compression-thesis.md:L3437](../compression-thesis.md) — 2026-09-19 ~12:45pm PDT (covers Thu-Fri; settled per rule 22) — **HUAWEI ACCELERATES IN SILICON (the non-signatory's physical proof) · CoWoS-L HOLDS T
 - `2026-09-19` [metered-compute.md:L3498](../metered-compute.md) — 2026-09-19 ~12:45pm PDT (settled per rule 22 after Jake's challenge) — ⭐⭐⭐⭐⭐⭐ **THE VINTAGE-UNIFORMITY FINDING + THE $/MW REVENUE LADDER: THE SCARCE U
 - `2026-09-19` [metered-compute.md:L3509](../metered-compute.md) — 2026-09-19 ~10:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MW/$ FULCRUM (Jake's synthesis, adopted as THIS BOARD'S ORGANIZING TEST): DOES WORKLOAD GROWTH + SCARCITY PRES
+- `2026-09-20` [compression-thesis.md:L3441](../compression-thesis.md) — 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐ **ZCODE OPEN-SOURCED (Apache 2.0, Zhipu/Z.ai): THE OPEN STACK COMPLETES ITS THIRD LAYER IN ONE WEEK — AND THE HARNESS LA
+- `2026-09-20` [metered-compute.md:L3518](../metered-compute.md) — Addendum 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐⭐ **THE FULCRUM OPERATIONALIZED (Jake's inversion, adopted): THE TWO RATIOS SWAP ROLES — $/MW-REVENUE BECOMES EX

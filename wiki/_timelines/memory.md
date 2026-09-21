@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **163 dated entries across 2 notes · 2026-07-16 → 2026-09-19 · refreshed 2026-09-20 19:28 PDT**
+> **164 dated entries across 2 notes · 2026-07-16 → 2026-09-20 · refreshed 2026-09-20 19:47 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -182,3 +182,4 @@
 - `2026-09-14` [memory-regime-question.md:L1419](../memory-regime-question.md) — Addendum 2026-09-14 ~3:25pm PDT (rule 22, entered once) — ⭐⭐⭐ **THE SHORTAGE IS NOW SHAPING NVDA'S OWN FLAGSHIP: SemiAnalysis — the production Vera Ru
 - `2026-09-15` [memory-regime-question.md:L1421](../memory-regime-question.md) — 2026-09-15 ~9:00am PDT — **MU TAIWAN LABOR: THE STANDING "TAIWAN ⬜" CAP BECOMES A DATED OPERATIONAL RISK — MEDIATION 9/18 AND 9/21.** *(Reuters via ho
 - `2026-09-19` [compression-thesis.md:L3437](../compression-thesis.md) — 2026-09-19 ~12:45pm PDT (covers Thu-Fri; settled per rule 22) — **HUAWEI ACCELERATES IN SILICON (the non-signatory's physical proof) · CoWoS-L HOLDS T
+- `2026-09-20` [compression-thesis.md:L3441](../compression-thesis.md) — 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐ **ZCODE OPEN-SOURCED (Apache 2.0, Zhipu/Z.ai): THE OPEN STACK COMPLETES ITS THIRD LAYER IN ONE WEEK — AND THE HARNESS LA
