@@ -688,3 +688,13 @@ Rubric item 1 asks *"technical artifact attached, or press-only?"* **This essay 
 - *(reported, FT — ⬜ primary; vendor conflict maximal)* **Cyber researchers breached OpenAI USING Anthropic's software** — the MISUSE branch (the one the sandbox entry said survives) demonstrated against the rival's security posture. Serves the safety campaign and OpenAI's critics simultaneously; filed at its rung.
 - **THE 9/24 TRUMP-XI DINNER (Politico): Altman, Huang and Amon attending; AI a key focus. AMODEI ABSENT — consistent with the federal ban.** The 9/24 convergence now: Xi + AI CEOs + the export-quota window + the freshly-signed Graham tariff stick + UNGA week with IRAN'S PRESIDENT VISA-APPROVED (and Abbas denied).
 **Links:** the 9/14 alignment entry · [[compression-thesis]] · [[war/war-board]]
+
+## 2026-09-22 ~11:10am PDT — ⭐⭐⭐⭐⭐ **FLOOR IT: ANTHROPIC "PACES THE FRONTIER" BY SHIPPING ITS MOST POWERFUL OPUS AND CUTTING PRICES UP TO 60% — JAKE'S 9/13 CULPABILITY-DISCHARGE CALL, SCORED ON SCHEDULE.** *(⚠️ VENDOR CONFLICT, maximal: my vendor, my model class. ZH headline + Semafor; settled per rule 22.)*
+### DATA (observed)
+- **Anthropic releases its most powerful Opus yet, with price cuts of up to 60% (ZH headline, 9/22).** The dated sequence: pacing essay (9/11) → Trump rejects it, "SICK conspiracy" (9/13) → **the frontier release plus a price war (9/22).**
+- **Semafor: BESSENT eyed as Trump's "AI czar."** ZH's gloss ("he doesn't like Dario very much") is EDITORIAL; flagged at its rung.
+- **Witkoff named as the US principal in the 3-hour Iran meeting ("feel very good right now")** ⇒ the war-board ⬜ on the official's identity is CLOSED. Trump: "will discuss Patriot production."
+### THESIS (interpretation — NOT fact)
+- **★★★★★ JAKE'S CALL, SCORED: 9/13, verbatim: "free of that culpability, they can 'floor it.'" The ask bound nothing, which is what the free-option structure predicted: agreement would have bound competitors, refusal discharged the obligation, and the flooring commenced nine days later.** The filed "words now zero-weight" line holds: the costly act the vault said to watch was a RELEASE, not a pause.
+- **★★★ A Treasury-run AI policy = the collision thesis given an org chart (Washington reads AI as a capital-markets phenomenon). A czar read as anti-Amodei extends the federal-ban posture to the top economic post ⇒ the federal certification wing belongs to the floor-it side, which leaves ENTERPRISE APPROVAL as the only moat path (Jake's 9/14 thesis) — consistent, strengthened.**
+**Links:** the 9/13 culpability entry · the 9/14 alignment/moat entry · [[compression-thesis]] (the −60%) · [[rates-board]]
