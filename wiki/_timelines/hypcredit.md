@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **397 dated entries across 3 notes · 2026-02-10 → 2026-09-21 · refreshed 2026-09-21 19:45 PDT**
+> **399 dated entries across 3 notes · 2026-02-10 → 2026-09-21 · refreshed 2026-09-21 21:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -424,4 +424,6 @@
 - `2026-09-20` [ai-financing-fragility.md:L8364](../ai-financing-fragility.md) — 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐ **WHY THE FINANCING LEG IS SYSTEMIC WHERE THE PHYSICAL LEGS ARE LOCAL (Jake's question, answered and adopted): THE PHY
 - `2026-09-20` [rates-board.md:L3621](../rates-board.md) — 2026-09-20 ~11:30am PDT — ⭐⭐⭐⭐⭐ **THE CREDIT BRIDGE + THE FREIGHT PIPELINE: THE DELAYED-DEMAND-COLLAPSE MECHANISM (Jake's frame, adopted) — A MATURE S
 - `2026-09-21` [ai-financing-fragility.md:L8381](../ai-financing-fragility.md) — 2026-09-21 ~7:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE CAPITAL STRUCTURE COMPLETED TOP-TO-BOTTOM IN SEVEN DAYS — AND THE CLEARING YIELD TRIANGULATED AT ~9-10%: SB ENER
+- `2026-09-21` [ai-financing-fragility.md:L8394](../ai-financing-fragility.md) — Addendum 2026-09-21 ~9:35pm PDT — **THE QUALITY STACK AT OPPOSITE TAILS: CCC 99th PERCENTILE vs IG/BB/B AT THE 0-4th — RECORD INTRA-CREDIT DISPERSION,
+- `2026-09-21` [hyperscaler-credit.md:L576](../hyperscaler-credit.md) — 2026-09-21 ~9:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE FORTRESS-IMPLICATION LADDER, ALREADY PRICED: THE CDS PANEL ORDERS THE COHORT BY CONTINGENT-EXPOSURE-TO-CUSHION —
 - `2026-09-21` [rates-board.md:L3632](../rates-board.md) — 2026-09-21 (entered ~7:45pm PT) — ⭐⭐⭐⭐ **THE WEEK-AHEAD BOARD + THE MONDAY CLOSE: A REAL-LED BULL FLATTENER WITH BRENT AT $100 — AND THE STREET FORECA
