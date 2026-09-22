@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **451 dated entries across 3 notes · 2026-02-10 → 2026-09-20 · refreshed 2026-09-20 19:47 PDT**
+> **452 dated entries across 3 notes · 2026-02-10 → 2026-09-21 · refreshed 2026-09-21 19:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -476,3 +476,4 @@
 - `2026-09-19` [rates-board.md:L3608](../rates-board.md) — 2026-09-19 ~12:30pm PDT (covers Thu-Fri, settled per rule 22) — ⭐⭐⭐⭐⭐⭐ **THE POST-HIKE VERDICT: FULL-CURVE REAL-LED RALLY THURSDAY, CREDIT TIGHTENED A
 - `2026-09-20` [market-fragility.md:L4669](../market-fragility.md) — 2026-09-20 ~6:45pm PDT — ⭐⭐⭐⭐ **THE SITUATIONAL AWARENESS THREAD, NEXT CHAPTER: JPM → CLEAR STREET — THE POST-ARCHEGOS PATTERN ONE LEVEL DOWN — AND TH
 - `2026-09-20` [rates-board.md:L3621](../rates-board.md) — 2026-09-20 ~11:30am PDT — ⭐⭐⭐⭐⭐ **THE CREDIT BRIDGE + THE FREIGHT PIPELINE: THE DELAYED-DEMAND-COLLAPSE MECHANISM (Jake's frame, adopted) — A MATURE S
+- `2026-09-21` [rates-board.md:L3632](../rates-board.md) — 2026-09-21 (entered ~7:45pm PT) — ⭐⭐⭐⭐ **THE WEEK-AHEAD BOARD + THE MONDAY CLOSE: A REAL-LED BULL FLATTENER WITH BRENT AT $100 — AND THE STREET FORECA

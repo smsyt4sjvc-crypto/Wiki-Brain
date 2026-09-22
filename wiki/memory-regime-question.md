@@ -1482,3 +1482,16 @@ four-die design abandoned = STRONGLY REPORTED, NOT NVDA-CONFIRMED · "Rubin Ultr
 ### GRADES (16c) → [[grades]]
 **MU 8 HOLD — no strike, no production impact; row cap updated. 🔴 9/18 + 9/21 = the catalysts.**
 **Links:** [[grades]] · [[compression-thesis]] (memory shortage ledger)
+
+## 2026-09-21 ~7:45pm PDT — ⭐⭐⭐⭐ **THE ACER/CXMT INBOUND: CLASS-8 SYMMETRIC, INTERNALLY CONTRADICTORY — AND THE REAL CONTENT IS THE COMMODITY-vs-HBM SEGMENTATION PLUS A CXMT RUNG UPGRADE.** *(ZH; settled per rule 22.)*
+### DATA (observed, rungs marked)
+- **Acer CEO Jason Chen: "the supply shortage problem has already completely disappeared" — AND, same interview: prices "+5-20% toward year-end, plateau H1-27, then decline," with the decline "STRICTLY A HOPE" and "nobody can know the timing." He also describes memory-maker public statements as PRICE SIGNALING around antitrust.** ⚠️ Class 8: the speaker is THE BUYER, run over by memory +500%/12mo. Counter-book: SK Hynix/Adata call shortage to 2030/2036 (the sell side). **The vault's instruments stay its own: ISM months-short streak · DigiKey allocation · the MU reversal trigger = BACKORDERS REOPENING (not fired).**
+- **CXMT (the real content): 5th-gen in MASS PRODUCTION — 11.95nm quad-patterning, +50% chips/wafer, 24Gb LPDDR5X — ADOPTED BY ACER, HP, ASUS.** ⟲ upgrades the filed CXMT rung (glut/transfer, announced) → OPERATING with major-OEM adoption.
+- **GS: rising memory prices adding ~0.5% TO CORE PCE.**
+### THESIS (interpretation — NOT fact)
+- **★★★★ THE CONTRADICTION RESOLVES AS AVAILABILITY-vs-PRICE: "disappeared" + "+5-20%" can't both hold in the spot sense — Acer can SOURCE chips, at rising prices. Allocation easing at the COMMODITY end ≠ the shortage regime ending.**
+- **★★★★ THE SEGMENTATION, stated explicitly: the Chinese valve opens on COMMODITY memory (LPDDR/DDR — CXMT's lane) while HBM/AI memory — where MU's margins increasingly live — stays a western oligopoly under AI allocation. A 2027 commodity decline and a persistent HBM squeeze are fully compatible; the MU bear case requires CXMT reaching HBM-class product, which nothing here claims.**
+- **★★★ THE GS PCE DATUM = Barr's "rapid AI buildout pushed us off course" given its mechanism: AI demand → memory allocation → consumer electronics prices → core PCE → the Fed. The collision thesis's measured channel (→ [[rates-board]]).**
+### GRADES (16c) → [[grades]]
+**MU 8 HOLD — the disconfirmer is a self-disclaimed hope from the buy side, timed at the 120-day edge, with the same source forecasting +5-20% near-term. Registered: the CXMT 2027 capacity watch · backorders-reopening trigger unchanged · ⬜ MU earnings date this window (mediation #2 readout also ⬜).**
+**Links:** [[compression-thesis]] · [[market-fragility]] (:L1378 CXMT) · [[grades]] · [[rates-board]]

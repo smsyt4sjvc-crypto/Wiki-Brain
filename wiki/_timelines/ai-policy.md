@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **573 dated entries across 4 notes · 2026-05-22 → 2026-09-20 · refreshed 2026-09-20 19:47 PDT**
+> **574 dated entries across 4 notes · 2026-05-22 → 2026-09-21 · refreshed 2026-09-21 19:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -598,3 +598,4 @@
 - `2026-09-20` [ai-financing-fragility.md:L8364](../ai-financing-fragility.md) — 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐ **WHY THE FINANCING LEG IS SYSTEMIC WHERE THE PHYSICAL LEGS ARE LOCAL (Jake's question, answered and adopted): THE PHY
 - `2026-09-20` [compression-thesis.md:L3441](../compression-thesis.md) — 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐ **ZCODE OPEN-SOURCED (Apache 2.0, Zhipu/Z.ai): THE OPEN STACK COMPLETES ITS THIRD LAYER IN ONE WEEK — AND THE HARNESS LA
 - `2026-09-20` [metered-compute.md:L3518](../metered-compute.md) — Addendum 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐⭐ **THE FULCRUM OPERATIONALIZED (Jake's inversion, adopted): THE TWO RATIOS SWAP ROLES — $/MW-REVENUE BECOMES EX
+- `2026-09-21` [ai-financing-fragility.md:L8381](../ai-financing-fragility.md) — 2026-09-21 ~7:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE CAPITAL STRUCTURE COMPLETED TOP-TO-BOTTOM IN SEVEN DAYS — AND THE CLEARING YIELD TRIANGULATED AT ~9-10%: SB ENER

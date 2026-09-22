@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **985 dated entries · 2026-02-10 → 2026-09-20 · refreshed 2026-09-20 19:47 PDT**
+> **988 dated entries · 2026-02-10 → 2026-09-21 · refreshed 2026-09-21 19:45 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1020,3 +1020,6 @@
 - `2026-09-20` **[3]** ai-financing-fragility.md:L8364 — 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐ **WHY THE FINANCING LEG IS SYSTEMIC WHERE THE PHYSICAL LEGS ARE LOCAL (Jake's question, answered and adopted): THE PHY
 - `2026-09-20` **[5]** metered-compute.md:L3518 — Addendum 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐⭐ **THE FULCRUM OPERATIONALIZED (Jake's inversion, adopted): THE TWO RATIOS SWAP ROLES — $/MW-REVENUE BECOMES EX
 - `2026-09-20` **[5]** compression-thesis.md:L3441 — 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐ **ZCODE OPEN-SOURCED (Apache 2.0, Zhipu/Z.ai): THE OPEN STACK COMPLETES ITS THIRD LAYER IN ONE WEEK — AND THE HARNESS LA
+- `2026-09-21` **[1]** rates-board.md:L3632 — 2026-09-21 (entered ~7:45pm PT) — ⭐⭐⭐⭐ **THE WEEK-AHEAD BOARD + THE MONDAY CLOSE: A REAL-LED BULL FLATTENER WITH BRENT AT $100 — AND THE STREET FORECA
+- `2026-09-21` **[3]** ai-financing-fragility.md:L8381 — 2026-09-21 ~7:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE CAPITAL STRUCTURE COMPLETED TOP-TO-BOTTOM IN SEVEN DAYS — AND THE CLEARING YIELD TRIANGULATED AT ~9-10%: SB ENER
+- `2026-09-21` **[5]** memory-regime-question.md:L1430 — 2026-09-21 ~7:45pm PDT — ⭐⭐⭐⭐ **THE ACER/CXMT INBOUND: CLASS-8 SYMMETRIC, INTERNALLY CONTRADICTORY — AND THE REAL CONTENT IS THE COMMODITY-vs-HBM SEGM

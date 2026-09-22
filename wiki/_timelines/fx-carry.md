@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **528 dated entries across 3 notes · 2026-05-22 → 2026-09-20 · refreshed 2026-09-20 19:47 PDT**
+> **529 dated entries across 3 notes · 2026-05-22 → 2026-09-21 · refreshed 2026-09-21 19:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -553,3 +553,4 @@
 - `2026-09-20` [ai-financing-fragility.md:L8345](../ai-financing-fragility.md) — 2026-09-20 ~5:35pm PDT — ⭐⭐⭐⭐⭐⭐ **PROJECT JUPITER: THE $18B LOAN QUOTED 89-91 WITH SYNDICATION STALLED AT ~9-26% COMPLETION — "FINANCING FLASHING DIST
 - `2026-09-20` [ai-financing-fragility.md:L8364](../ai-financing-fragility.md) — 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐ **WHY THE FINANCING LEG IS SYSTEMIC WHERE THE PHYSICAL LEGS ARE LOCAL (Jake's question, answered and adopted): THE PHY
 - `2026-09-20` [market-fragility.md:L4669](../market-fragility.md) — 2026-09-20 ~6:45pm PDT — ⭐⭐⭐⭐ **THE SITUATIONAL AWARENESS THREAD, NEXT CHAPTER: JPM → CLEAR STREET — THE POST-ARCHEGOS PATTERN ONE LEVEL DOWN — AND TH
+- `2026-09-21` [ai-financing-fragility.md:L8381](../ai-financing-fragility.md) — 2026-09-21 ~7:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE CAPITAL STRUCTURE COMPLETED TOP-TO-BOTTOM IN SEVEN DAYS — AND THE CLEARING YIELD TRIANGULATED AT ~9-10%: SB ENER
