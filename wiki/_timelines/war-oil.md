@@ -1,6 +1,6 @@
 # ⏱ WAR/OIL — merged timeline (the gate)
 
-> **401 dated entries across 3 notes · 2026-03-13 → 2026-09-22 · refreshed 2026-09-22 11:11 PDT**
+> **403 dated entries across 3 notes · 2026-03-13 → 2026-09-22 · refreshed 2026-09-22 12:40 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -424,5 +424,7 @@
 - `2026-09-20` [demand-destruction.md:L4358](../demand-destruction.md) — Addendum 2026-09-20 ~12:05pm PT — **BAN CLOCK UPDATE #2: GRASSLEY DEMANDS IMPLEMENTATION (the harvest vector) — THE TRIPWIRE DIAL AT ~$6.50 AND ACCELE
 - `2026-09-20` [war-board.md:L5061](../war/war-board.md) — 2026-09-20 ~12:05pm PDT — ⭐⭐⭐⭐⭐ **THE ZELENSKY MEETING + THE GRAHAM-ACT "THEN WHAT" — THE STRIKES BOUGHT THE TABLE, AND THE STICK IS WORTH MORE HELD T
 - `2026-09-22` [demand-destruction.md:L4362](../demand-destruction.md) — 2026-09-22 ~10:55am PDT — ⭐⭐⭐⭐⭐ **BAN CLOCK #3 — THE PRESIDENT OVER THE INTERIOR SECRETARY: TRUMP "I'VE CALLED FOR IT TOO" · BESSENT "EXAMINING WHETHE
+- `2026-09-22` [demand-destruction.md:L4374](../demand-destruction.md) — 2026-09-22 ~12:40pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN: "REFINING MARGINS MUST REMAIN ELEVATED TO RESTRAIN CONSUMPTION" — THE CRACK IS THE RATIONING MECHANISM, THR
 - `2026-09-22` [war-board.md:L5072](../war/war-board.md) — 2026-09-22 ~10:55am PDT — ⭐⭐⭐⭐⭐ **A THREE-HOUR DIRECT US-IRAN MEETING AT UNGA — THE ASSEMBLED STAGE PRODUCES ITS PAYOFF; THE ALERT WAVE RESOLVED INTO 
 - `2026-09-22` [war-board.md:L5078](../war/war-board.md) — Addendum 2026-09-22 ~11:10am PDT — ⭐⭐⭐⭐⭐ **THREE TRACKS, NOT TWO — AND TRACK TWO FIRED BEFORE TRACK ONE'S HEADLINE: FARS (IRGC-AFFILIATED) ANNOUNCED T
+- `2026-09-22` [war-board.md:L5084](../war/war-board.md) — Addendum 2026-09-22 ~12:40pm PDT — ⭐⭐⭐⭐⭐ **CORRECTION + DETENTION: BRENT'S SUB-$100 WAS PRICED ON A REOPENING REPORT IRAN DENIED — AND THE IRGC MOVED 

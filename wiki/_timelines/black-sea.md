@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **246 dated entries across 2 notes · 2026-03-13 → 2026-09-22 · refreshed 2026-09-22 11:11 PDT**
+> **247 dated entries across 2 notes · 2026-03-13 → 2026-09-22 · refreshed 2026-09-22 12:40 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -271,3 +271,4 @@
 - `2026-09-19` [demand-destruction.md:L4353](../demand-destruction.md) — Addendum 2026-09-19 ~10:20pm PT (Y'd 9/20) — **THE BAN CLOCK MOVES BOTH WAYS: THUNE ESCALATES AND DIESEL PRINTS $6.31 — BUT THE EXECUTIVE PUBLICLY DEC
 - `2026-09-20` [demand-destruction.md:L4358](../demand-destruction.md) — Addendum 2026-09-20 ~12:05pm PT — **BAN CLOCK UPDATE #2: GRASSLEY DEMANDS IMPLEMENTATION (the harvest vector) — THE TRIPWIRE DIAL AT ~$6.50 AND ACCELE
 - `2026-09-22` [demand-destruction.md:L4362](../demand-destruction.md) — 2026-09-22 ~10:55am PDT — ⭐⭐⭐⭐⭐ **BAN CLOCK #3 — THE PRESIDENT OVER THE INTERIOR SECRETARY: TRUMP "I'VE CALLED FOR IT TOO" · BESSENT "EXAMINING WHETHE
+- `2026-09-22` [demand-destruction.md:L4374](../demand-destruction.md) — 2026-09-22 ~12:40pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN: "REFINING MARGINS MUST REMAIN ELEVATED TO RESTRAIN CONSUMPTION" — THE CRACK IS THE RATIONING MECHANISM, THR
