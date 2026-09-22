@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **223 dated entries across 3 notes · 2026-07-01 → 2026-09-20 · refreshed 2026-09-21 21:37 PDT**
+> **224 dated entries across 3 notes · 2026-07-01 → 2026-09-22 · refreshed 2026-09-22 10:58 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -242,3 +242,4 @@
 - `2026-09-19` [metered-compute.md:L3509](../metered-compute.md) — 2026-09-19 ~10:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MW/$ FULCRUM (Jake's synthesis, adopted as THIS BOARD'S ORGANIZING TEST): DOES WORKLOAD GROWTH + SCARCITY PRES
 - `2026-09-20` [compression-thesis.md:L3441](../compression-thesis.md) — 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐ **ZCODE OPEN-SOURCED (Apache 2.0, Zhipu/Z.ai): THE OPEN STACK COMPLETES ITS THIRD LAYER IN ONE WEEK — AND THE HARNESS LA
 - `2026-09-20` [metered-compute.md:L3518](../metered-compute.md) — Addendum 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐⭐ **THE FULCRUM OPERATIONALIZED (Jake's inversion, adopted): THE TWO RATIOS SWAP ROLES — $/MW-REVENUE BECOMES EX
+- `2026-09-22` [compression-thesis.md:L3446](../compression-thesis.md) — 2026-09-22 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE AGENTIC WAR OPENS: MUSE GOES #1 → AMAZON BLOCKS IT → A ZERO-DAY LANDS → RECORD CALL VOLUME ABSORBS ALL OF IT. "A
