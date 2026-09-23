@@ -179,9 +179,8 @@ above-target inflation = repression; gold is the residual claim ([[new-economy-r
 
 ## 💰 WHERE'S THE MONEY — daily top 5 at the close (rule 16d · full ledger [[money-board]])
 *score = net marks (bear/flat/bull, evidence-weighted) × % move per 1σ day of the name's driver · longs AND shorts*
-**2026-09-23 close (final, 58 marks — rate + fuel short, freight long):**
-1. **UAL BEAR** −4.27 (BNO, corr −0.73) · 2. **DHI BEAR** −3.77 (TLT) · 3. **LEN BEAR** −3.64 (TLT) ·
-4. **ORCL BEAR** −3.63 (TLT, corr +0.35) · 5. **DHT BULL** +3.60 (BWET, corr +0.58) — forward test = 9/24 close · first run's day-0: 4/5 as marked
+**CUMULATIVE (9/23 close, 108 marks incl. the September grades backfill):** 1. **MU BULL** +8.72 · 2. CRWV BEAR −6.48 (⚠️ weak link) · 3. RGTI BEAR −6.46 · 4. QBTS BEAR −6.42 · 5. **DELL BULL** +6.35 · (6. ORCL BEAR −6.04) — ⚠️ refiners under-scored (crude driver, trade the crack)
+**📒 REGISTERED BOOK 9/23 (scored every close, `--book`):** L DINO 106.11 · DHT 21.28 · MU 1,071.88 | S UAL 110.72 · ORCL 144.56 · LEN 81.53 — two bets: Hormuz-shut + real-rates-high; MU independent
 `python3 tools/money_board.py` · `vault_find "money-board"`
 
 ## 🧺 CONFIDENCE BASKET (≤10, audited 8/24 — [[high-confidence-basket]])
