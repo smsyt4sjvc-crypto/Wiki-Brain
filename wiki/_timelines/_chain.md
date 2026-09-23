@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **993 dated entries · 2026-02-10 → 2026-09-22 · refreshed 2026-09-22 12:40 PDT**
+> **997 dated entries · 2026-02-10 → 2026-09-22 · refreshed 2026-09-22 18:50 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1026,5 +1026,9 @@
 - `2026-09-21` **[3]** ai-financing-fragility.md:L8394 — Addendum 2026-09-21 ~9:35pm PDT — **THE QUALITY STACK AT OPPOSITE TAILS: CCC 99th PERCENTILE vs IG/BB/B AT THE 0-4th — RECORD INTRA-CREDIT DISPERSION,
 - `2026-09-21` **[5]** memory-regime-question.md:L1430 — 2026-09-21 ~7:45pm PDT — ⭐⭐⭐⭐ **THE ACER/CXMT INBOUND: CLASS-8 SYMMETRIC, INTERNALLY CONTRADICTORY — AND THE REAL CONTENT IS THE COMMODITY-vs-HBM SEGM
 - `2026-09-22` **[1]** rates-board.md:L3644 — 2026-09-22 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE $69B 2Y: A 0.2bp TAIL AND A 47bp LEVEL — "THE TAIL ISN'T THE WARNING. THE LEVEL IS." (Jake's analysis, adopted.)
+- `2026-09-22` **[1]** rates-board.md:L3653 — 2026-09-22 (entered ~6:50pm PT) — **TUESDAY CLOSE: A FRONT-END BULL STEEPENER, THE 2Y CLEARS 4.787% ON SOLID DEMAND, REAL YIELDS TICK UP — AND MARKS S
+- `2026-09-22` **[3]** ai-financing-fragility.md:L8398 — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE DAM GETS TESTED DEAL BY DEAL: AI ISSUERS NOW PAY NEW-ISSUE CONCESSIONS INSIDE INVESTMENT GRADE — AND THE PERIPHER
+- `2026-09-22` **[5]** metered-compute.md:L3522 — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE JEVONS INSTRUMENT ARRIVES (RAMP AI INDEX, WEEKLY $ VOLUMES) + THE LADDER GAINS A LANDLORD RUNG ($2.58M/MW-YR).** 
 - `2026-09-22` **[5]** compression-thesis.md:L3446 — 2026-09-22 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE AGENTIC WAR OPENS: MUSE GOES #1 → AMAZON BLOCKS IT → A ZERO-DAY LANDS → RECORD CALL VOLUME ABSORBS ALL OF IT. "A
 - `2026-09-22` **[5]** compression-thesis.md:L3459 — 2026-09-22 ~11:10am PDT — ⭐⭐⭐⭐⭐ **−60%: PREMIUM PRICING COMPRESSED BY CHOICE — AND THE MIDDLE OF THE STACK SQUEEZED FROM BOTH ENDS.** *(Settled per ru
+- `2026-09-22` **[5]** compression-thesis.md:L3465 — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐ **BOTH LABS FLOOR IT THE SAME DAY + ALIBABA'S 5-10T-PARAMETER ROADMAP — THE FOURTH CHINA-ACCELERATES ARTIFACT IN EIGHT D

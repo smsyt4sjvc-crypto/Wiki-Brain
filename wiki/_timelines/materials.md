@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **234 dated entries across 3 notes · 2026-07-09 → 2026-09-22 · refreshed 2026-09-22 12:40 PDT**
+> **237 dated entries across 3 notes · 2026-07-09 → 2026-09-22 · refreshed 2026-09-22 18:50 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -250,6 +250,9 @@
 - `2026-09-19` [war-board.md:L5050](../war/war-board.md) — 2026-09-19 ~10:10pm PDT — ⭐⭐⭐⭐⭐ **HOUTHI BALLISTIC MISSILE AT RIYADH (INTERCEPTED) + A FIVE-CAPITAL US EMBASSY ALERT WAVE — THE CLIENT DEFIES BOTH PAT
 - `2026-09-20` [buildout-bottleneck-map.md:L1935](../buildout-bottleneck-map.md) — 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE GW-DESTRUCTION LEDGER (Jake's compilation, adopted as this board's spine section): "ANNOUNCED DEMAND IS NO LONG
 - `2026-09-20` [war-board.md:L5061](../war/war-board.md) — 2026-09-20 ~12:05pm PDT — ⭐⭐⭐⭐⭐ **THE ZELENSKY MEETING + THE GRAHAM-ACT "THEN WHAT" — THE STRIKES BOUGHT THE TABLE, AND THE STICK IS WORTH MORE HELD T
+- `2026-09-22` [buildout-bottleneck-map.md:L1966](../buildout-bottleneck-map.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE IDLE-GPU TEST (Jake's reverse-engineering) + CHINA'S WATTS-FOR-SILICON TRADE + COPPER.** *(Settled per rule 22; E
 - `2026-09-22` [war-board.md:L5072](../war/war-board.md) — 2026-09-22 ~10:55am PDT — ⭐⭐⭐⭐⭐ **A THREE-HOUR DIRECT US-IRAN MEETING AT UNGA — THE ASSEMBLED STAGE PRODUCES ITS PAYOFF; THE ALERT WAVE RESOLVED INTO 
 - `2026-09-22` [war-board.md:L5078](../war/war-board.md) — Addendum 2026-09-22 ~11:10am PDT — ⭐⭐⭐⭐⭐ **THREE TRACKS, NOT TWO — AND TRACK TWO FIRED BEFORE TRACK ONE'S HEADLINE: FARS (IRGC-AFFILIATED) ANNOUNCED T
 - `2026-09-22` [war-board.md:L5084](../war/war-board.md) — Addendum 2026-09-22 ~12:40pm PDT — ⭐⭐⭐⭐⭐ **CORRECTION + DETENTION: BRENT'S SUB-$100 WAS PRICED ON A REOPENING REPORT IRAN DENIED — AND THE IRGC MOVED 
+- `2026-09-22` [war-board.md:L5092](../war/war-board.md) — Addendum 2026-09-22 ~12:50pm PDT — ⭐⭐⭐⭐⭐ **THE US RUNS ITS OWN TWO TRACKS: TALKS (WITKOFF + KUSHNER, VIA MEDIATORS) · THREAT ("MAY HAVE TO BLOW UP PIC
+- `2026-09-22` [war-board.md:L5101](../war/war-board.md) — Addendum 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **TRIPWIRE #4 APPROXIMATELY FIRING: A 157-STRIKE SAUDI AIR CAMPAIGN IN TWO DAYS AFTER THE RIYADH MISSILE — REP

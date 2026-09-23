@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **453 dated entries across 3 notes · 2026-02-10 → 2026-09-22 · refreshed 2026-09-22 12:40 PDT**
+> **455 dated entries across 3 notes · 2026-02-10 → 2026-09-22 · refreshed 2026-09-22 18:50 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -477,4 +477,6 @@
 - `2026-09-20` [market-fragility.md:L4669](../market-fragility.md) — 2026-09-20 ~6:45pm PDT — ⭐⭐⭐⭐ **THE SITUATIONAL AWARENESS THREAD, NEXT CHAPTER: JPM → CLEAR STREET — THE POST-ARCHEGOS PATTERN ONE LEVEL DOWN — AND TH
 - `2026-09-20` [rates-board.md:L3621](../rates-board.md) — 2026-09-20 ~11:30am PDT — ⭐⭐⭐⭐⭐ **THE CREDIT BRIDGE + THE FREIGHT PIPELINE: THE DELAYED-DEMAND-COLLAPSE MECHANISM (Jake's frame, adopted) — A MATURE S
 - `2026-09-21` [rates-board.md:L3632](../rates-board.md) — 2026-09-21 (entered ~7:45pm PT) — ⭐⭐⭐⭐ **THE WEEK-AHEAD BOARD + THE MONDAY CLOSE: A REAL-LED BULL FLATTENER WITH BRENT AT $100 — AND THE STREET FORECA
+- `2026-09-22` [market-fragility.md:L4680](../market-fragility.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐ **BREADTH: SIX STRAIGHT DAYS OF NET NEW 52-WEEK LOWS UNDER A NEAR-HIGH S&P — AND BTIG'S JAN-2000 ANALOG IS MORE EXACT TH
 - `2026-09-22` [rates-board.md:L3644](../rates-board.md) — 2026-09-22 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE $69B 2Y: A 0.2bp TAIL AND A 47bp LEVEL — "THE TAIL ISN'T THE WARNING. THE LEVEL IS." (Jake's analysis, adopted.)
+- `2026-09-22` [rates-board.md:L3653](../rates-board.md) — 2026-09-22 (entered ~6:50pm PT) — **TUESDAY CLOSE: A FRONT-END BULL STEEPENER, THE 2Y CLEARS 4.787% ON SOLID DEMAND, REAL YIELDS TICK UP — AND MARKS S

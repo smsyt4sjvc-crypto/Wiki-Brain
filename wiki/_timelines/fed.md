@@ -1,6 +1,6 @@
 # ⏱ FED — merged timeline (the gate)
 
-> **297 dated entries across 2 notes · 2026-06-30 → 2026-09-20 · refreshed 2026-09-22 12:40 PDT**
+> **298 dated entries across 2 notes · 2026-06-30 → 2026-09-22 · refreshed 2026-09-22 18:50 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -319,3 +319,4 @@
 - `2026-09-13` [market-fragility.md:L4643](../market-fragility.md) — 2026-09-13 ~7:20pm PDT — ⭐⭐⭐⭐⭐ **NDX SINGLE-STOCK 1m PUT-CALL SKEW AT **ZERO** — ~2.75σ BELOW ITS 20-YEAR MEAN, THE SECOND ZERO-TOUCH IN THE SERIES — 
 - `2026-09-19` [market-fragility.md:L4664](../market-fragility.md) — 2026-09-19 ~12:50pm PDT (covers Friday; settled per rule 22) — **THE $7T EXPIRY: THE VOL-SUPPRESSION STRUCTURE MEETS ITS UNWIND WINDOW.** *(Citadel/Ru
 - `2026-09-20` [market-fragility.md:L4669](../market-fragility.md) — 2026-09-20 ~6:45pm PDT — ⭐⭐⭐⭐ **THE SITUATIONAL AWARENESS THREAD, NEXT CHAPTER: JPM → CLEAR STREET — THE POST-ARCHEGOS PATTERN ONE LEVEL DOWN — AND TH
+- `2026-09-22` [market-fragility.md:L4680](../market-fragility.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐ **BREADTH: SIX STRAIGHT DAYS OF NET NEW 52-WEEK LOWS UNDER A NEAR-HIGH S&P — AND BTIG'S JAN-2000 ANALOG IS MORE EXACT TH

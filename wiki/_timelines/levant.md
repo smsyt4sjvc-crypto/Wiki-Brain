@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **195 dated entries across 2 notes · 2026-07-01 → 2026-09-22 · refreshed 2026-09-22 12:40 PDT**
+> **197 dated entries across 2 notes · 2026-07-01 → 2026-09-22 · refreshed 2026-09-22 18:50 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -214,3 +214,5 @@
 - `2026-09-22` [war-board.md:L5072](../war/war-board.md) — 2026-09-22 ~10:55am PDT — ⭐⭐⭐⭐⭐ **A THREE-HOUR DIRECT US-IRAN MEETING AT UNGA — THE ASSEMBLED STAGE PRODUCES ITS PAYOFF; THE ALERT WAVE RESOLVED INTO 
 - `2026-09-22` [war-board.md:L5078](../war/war-board.md) — Addendum 2026-09-22 ~11:10am PDT — ⭐⭐⭐⭐⭐ **THREE TRACKS, NOT TWO — AND TRACK TWO FIRED BEFORE TRACK ONE'S HEADLINE: FARS (IRGC-AFFILIATED) ANNOUNCED T
 - `2026-09-22` [war-board.md:L5084](../war/war-board.md) — Addendum 2026-09-22 ~12:40pm PDT — ⭐⭐⭐⭐⭐ **CORRECTION + DETENTION: BRENT'S SUB-$100 WAS PRICED ON A REOPENING REPORT IRAN DENIED — AND THE IRGC MOVED 
+- `2026-09-22` [war-board.md:L5092](../war/war-board.md) — Addendum 2026-09-22 ~12:50pm PDT — ⭐⭐⭐⭐⭐ **THE US RUNS ITS OWN TWO TRACKS: TALKS (WITKOFF + KUSHNER, VIA MEDIATORS) · THREAT ("MAY HAVE TO BLOW UP PIC
+- `2026-09-22` [war-board.md:L5101](../war/war-board.md) — Addendum 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **TRIPWIRE #4 APPROXIMATELY FIRING: A 157-STRIKE SAUDI AIR CAMPAIGN IN TWO DAYS AFTER THE RIYADH MISSILE — REP

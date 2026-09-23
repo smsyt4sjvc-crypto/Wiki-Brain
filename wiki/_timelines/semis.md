@@ -1,6 +1,6 @@
 # ⏱ SEMIS — merged timeline (the gate)
 
-> **84 dated entries across 2 notes · 2026-07-09 → 2026-09-20 · refreshed 2026-09-22 12:40 PDT**
+> **85 dated entries across 2 notes · 2026-07-09 → 2026-09-22 · refreshed 2026-09-22 18:50 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -103,3 +103,4 @@
 - `2026-09-10` [buildout-bottleneck-map.md:L1891](../buildout-bottleneck-map.md) — 2026-09-10 ~6:05pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE: *"DIDN'T THEY JUST REPORT QATAR WAS BUYING US LNG?"* — CHECKED, AND **IT IS NOT A CONTRADICTION. IT IS THE SA
 - `2026-09-19` [buildout-bottleneck-map.md:L1930](../buildout-bottleneck-map.md) — 2026-09-19 ~12:50pm PDT (settled per rule 22) — ⭐⭐⭐⭐ **TRENDFORCE QUANTIFIES THE GAP — 268 GW BY 2030 — AND ITS OWN CAVEAT IS THE LOAD-BEARING PART: T
 - `2026-09-20` [buildout-bottleneck-map.md:L1935](../buildout-bottleneck-map.md) — 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE GW-DESTRUCTION LEDGER (Jake's compilation, adopted as this board's spine section): "ANNOUNCED DEMAND IS NO LONG
+- `2026-09-22` [buildout-bottleneck-map.md:L1966](../buildout-bottleneck-map.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE IDLE-GPU TEST (Jake's reverse-engineering) + CHINA'S WATTS-FOR-SILICON TRADE + COPPER.** *(Settled per rule 22; E

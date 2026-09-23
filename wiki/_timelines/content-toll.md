@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **225 dated entries across 3 notes · 2026-07-01 → 2026-09-22 · refreshed 2026-09-22 12:40 PDT**
+> **227 dated entries across 3 notes · 2026-07-01 → 2026-09-22 · refreshed 2026-09-22 18:50 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -244,3 +244,5 @@
 - `2026-09-20` [metered-compute.md:L3518](../metered-compute.md) — Addendum 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐⭐ **THE FULCRUM OPERATIONALIZED (Jake's inversion, adopted): THE TWO RATIOS SWAP ROLES — $/MW-REVENUE BECOMES EX
 - `2026-09-22` [compression-thesis.md:L3446](../compression-thesis.md) — 2026-09-22 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE AGENTIC WAR OPENS: MUSE GOES #1 → AMAZON BLOCKS IT → A ZERO-DAY LANDS → RECORD CALL VOLUME ABSORBS ALL OF IT. "A
 - `2026-09-22` [compression-thesis.md:L3459](../compression-thesis.md) — 2026-09-22 ~11:10am PDT — ⭐⭐⭐⭐⭐ **−60%: PREMIUM PRICING COMPRESSED BY CHOICE — AND THE MIDDLE OF THE STACK SQUEEZED FROM BOTH ENDS.** *(Settled per ru
+- `2026-09-22` [compression-thesis.md:L3465](../compression-thesis.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐ **BOTH LABS FLOOR IT THE SAME DAY + ALIBABA'S 5-10T-PARAMETER ROADMAP — THE FOURTH CHINA-ACCELERATES ARTIFACT IN EIGHT D
+- `2026-09-22` [metered-compute.md:L3522](../metered-compute.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE JEVONS INSTRUMENT ARRIVES (RAMP AI INDEX, WEEKLY $ VOLUMES) + THE LADDER GAINS A LANDLORD RUNG ($2.58M/MW-YR).** 

@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **577 dated entries across 4 notes · 2026-05-22 → 2026-09-22 · refreshed 2026-09-22 12:40 PDT**
+> **580 dated entries across 4 notes · 2026-05-22 → 2026-09-22 · refreshed 2026-09-22 18:50 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -600,5 +600,8 @@
 - `2026-09-20` [metered-compute.md:L3518](../metered-compute.md) — Addendum 2026-09-20 ~7:45pm PDT — ⭐⭐⭐⭐⭐ **THE FULCRUM OPERATIONALIZED (Jake's inversion, adopted): THE TWO RATIOS SWAP ROLES — $/MW-REVENUE BECOMES EX
 - `2026-09-21` [ai-financing-fragility.md:L8381](../ai-financing-fragility.md) — 2026-09-21 ~7:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE CAPITAL STRUCTURE COMPLETED TOP-TO-BOTTOM IN SEVEN DAYS — AND THE CLEARING YIELD TRIANGULATED AT ~9-10%: SB ENER
 - `2026-09-21` [ai-financing-fragility.md:L8394](../ai-financing-fragility.md) — Addendum 2026-09-21 ~9:35pm PDT — **THE QUALITY STACK AT OPPOSITE TAILS: CCC 99th PERCENTILE vs IG/BB/B AT THE 0-4th — RECORD INTRA-CREDIT DISPERSION,
+- `2026-09-22` [ai-financing-fragility.md:L8398](../ai-financing-fragility.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE DAM GETS TESTED DEAL BY DEAL: AI ISSUERS NOW PAY NEW-ISSUE CONCESSIONS INSIDE INVESTMENT GRADE — AND THE PERIPHER
 - `2026-09-22` [compression-thesis.md:L3446](../compression-thesis.md) — 2026-09-22 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE AGENTIC WAR OPENS: MUSE GOES #1 → AMAZON BLOCKS IT → A ZERO-DAY LANDS → RECORD CALL VOLUME ABSORBS ALL OF IT. "A
 - `2026-09-22` [compression-thesis.md:L3459](../compression-thesis.md) — 2026-09-22 ~11:10am PDT — ⭐⭐⭐⭐⭐ **−60%: PREMIUM PRICING COMPRESSED BY CHOICE — AND THE MIDDLE OF THE STACK SQUEEZED FROM BOTH ENDS.** *(Settled per ru
+- `2026-09-22` [compression-thesis.md:L3465](../compression-thesis.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐ **BOTH LABS FLOOR IT THE SAME DAY + ALIBABA'S 5-10T-PARAMETER ROADMAP — THE FOURTH CHINA-ACCELERATES ARTIFACT IN EIGHT D
+- `2026-09-22` [metered-compute.md:L3522](../metered-compute.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE JEVONS INSTRUMENT ARRIVES (RAMP AI INDEX, WEEKLY $ VOLUMES) + THE LADDER GAINS A LANDLORD RUNG ($2.58M/MW-YR).** 

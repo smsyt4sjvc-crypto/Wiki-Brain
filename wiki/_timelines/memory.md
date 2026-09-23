@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **167 dated entries across 2 notes · 2026-07-16 → 2026-09-22 · refreshed 2026-09-22 12:40 PDT**
+> **168 dated entries across 2 notes · 2026-07-16 → 2026-09-22 · refreshed 2026-09-22 18:50 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -186,3 +186,4 @@
 - `2026-09-21` [memory-regime-question.md:L1430](../memory-regime-question.md) — 2026-09-21 ~7:45pm PDT — ⭐⭐⭐⭐ **THE ACER/CXMT INBOUND: CLASS-8 SYMMETRIC, INTERNALLY CONTRADICTORY — AND THE REAL CONTENT IS THE COMMODITY-vs-HBM SEGM
 - `2026-09-22` [compression-thesis.md:L3446](../compression-thesis.md) — 2026-09-22 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE AGENTIC WAR OPENS: MUSE GOES #1 → AMAZON BLOCKS IT → A ZERO-DAY LANDS → RECORD CALL VOLUME ABSORBS ALL OF IT. "A
 - `2026-09-22` [compression-thesis.md:L3459](../compression-thesis.md) — 2026-09-22 ~11:10am PDT — ⭐⭐⭐⭐⭐ **−60%: PREMIUM PRICING COMPRESSED BY CHOICE — AND THE MIDDLE OF THE STACK SQUEEZED FROM BOTH ENDS.** *(Settled per ru
+- `2026-09-22` [compression-thesis.md:L3465](../compression-thesis.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐ **BOTH LABS FLOOR IT THE SAME DAY + ALIBABA'S 5-10T-PARAMETER ROADMAP — THE FOURTH CHINA-ACCELERATES ARTIFACT IN EIGHT D
