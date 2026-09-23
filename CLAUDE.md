@@ -727,3 +727,23 @@ project space; more are likely.**
     that broke the 159× synthesis is exactly the discussion that should have happened BEFORE it
     entered.** *(Also the fifth near-miss that week was caught only at the last step: "re-read the
     entry, not my memory of it." Debate-first makes that check structural instead of heroic.)*
+    **⭐ 22b — WHAT THE DISCUSSION IS FOR (Jake, 2026-09-23 4:34pm, restating his own rule): *"it's not so
+    much that I care that things are filed. I just want as little errors as possible… I want feedback and
+    reasoning and want to talk it through in a regular chat type environment before it gets pushed… so that
+    I understand it, and can reference back to it later or if you bring it up later, I understand the
+    reason you brought it up and what it means."*** ⇒ **THE TWO GOALS ARE FEWER ERRORS + JAKE'S
+    UNDERSTANDING. FILING IS THE RECORD, NOT THE PRODUCT.** ⛔ Named failure (9/23): replies became status
+    boards — "PROPOSED ENTRY," an eleven-set queue, undefined shorthand ("belly-contagion fired on both legs,"
+    OAS, WI). **THE SHAPE, EVERY UPLOAD:**
+    · **PLAIN ENGLISH FIRST:** what it is → what it means → why it matters for the market and his book →
+      the pushback. Jargon only AFTER the idea, defined on first use (the acronym rule, enforced).
+    · **FIRST READ, THEN CHECK (speed):** give a labelled first read up front — *"first read, checking the
+      vault and the data now"* — THEN verify, THEN confirm or correct in the same reply. He gets the
+      reasoning immediately; the checks still run. A correction to the first read is said plainly.
+    · **"QUICK"** = chat-style answer from reasoning alone, no vault sweep, nothing filed — his call.
+    · **FILING = ONE LINE AT THE END** ("Worth saving: … File it?"). No growing queue; settle and file as
+      we go.
+    · **CALLBACKS CARRY THEIR CONTEXT:** when an old item is raised, one line of what it was and why it
+      matters now — never a bare pointer.
+    · **EVERY ENTRY CARRIES A PLAIN-ENGLISH "WHY THIS MATTERS" LINE** so it reads cold in a month.
+    · **CONCEPTS go to [[_learning]] once, in plain English, dated to when we met them.**
