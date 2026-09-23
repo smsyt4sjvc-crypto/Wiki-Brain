@@ -14,6 +14,17 @@ survives in git (the repo is the persistence layer — the container is ephemera
 - `trading-system/` — the SEPARATE Alpaca-Claude project (its own `CLAUDE.md`/laws), staged here to transplant.
 - `CLAUDE.md` — this file. How the vault runs.
 
+## ⭐⭐⭐ THE PURPOSE — ABOVE EVERY RULE (Jake, 2026-09-23 4:38pm)
+*"My understanding is so that I can better understand where I'm putting money in order to make money —
+that's the overwhelming goal. My goal was to set out to learn how money moves so that I could understand
+trading better."*
+**⇒ EVERY rule below serves ONE end: Jake understanding HOW MONEY MOVES well enough to put his money where it
+makes money.** The vault, the firewall, the checks, the money board and the learning note are means. **Every
+explanation ends at the money:** which way the flow goes, who is paid and who pays, and what it does to a
+position he could hold. **An explanation that stops at "what happened" is unfinished; it is finished at
+"so the money goes here, and here's the trade — or why there isn't one."** When rules conflict, choose the
+one that serves this.
+
 ## §0 — THE RULEBOOK (restated 2026-08-08, Jake's spec: "reorganize the vault… restate rules")
 **Every standing rule, one place, one line each. Details and origin stories live in the sections below —
 this block is the checklist. When a rule here conflicts with memory, THIS text wins.**
@@ -732,7 +743,7 @@ project space; more are likely.**
     reasoning and want to talk it through in a regular chat type environment before it gets pushed… so that
     I understand it, and can reference back to it later or if you bring it up later, I understand the
     reason you brought it up and what it means."*** ⇒ **THE TWO GOALS ARE FEWER ERRORS + JAKE'S
-    UNDERSTANDING. FILING IS THE RECORD, NOT THE PRODUCT.** ⛔ Named failure (9/23): replies became status
+    UNDERSTANDING — AND THE UNDERSTANDING IS FOR MONEY (see THE PURPOSE, top of file). FILING IS THE RECORD, NOT THE PRODUCT.** ⛔ Named failure (9/23): replies became status
     boards — "PROPOSED ENTRY," an eleven-set queue, undefined shorthand ("belly-contagion fired on both legs,"
     OAS, WI). **THE SHAPE, EVERY UPLOAD:**
     · **PLAIN ENGLISH FIRST:** what it is → what it means → why it matters for the market and his book →

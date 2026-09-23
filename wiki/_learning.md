@@ -1,6 +1,8 @@
 # LEARNING NOTE — the concepts, in plain English
 
-**Started 2026-09-23 (Jake: "so that I understand it, and can reference back to it later").** One entry per
+**Started 2026-09-23 (Jake: "so that I understand it, and can reference back to it later" — and the point of
+understanding it: *"to learn how money moves so that I could understand trading better"*).** Every entry ends at
+the money: **which way the flow goes and what it does to a position.** One entry per
 concept, written once, in plain English: **what it is · why it matters · where we met it.** When a board or a
 reply uses one of these words, this is the lookup. Rule 22b in `CLAUDE.md`. Links: [[rates-board]] ·
 [[hyperscaler-credit]] · [[money-board]] · [[forest]].
