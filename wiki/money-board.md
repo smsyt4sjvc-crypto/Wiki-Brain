@@ -80,3 +80,8 @@ consumer staples, energy, ect. I care about money.").** Replaces the 1-10 number
 **📌 REGISTERED:** 🔴 9/24 close = the first FORWARD test of this top 5 · the 7Y auction, ICE 9/23
 OAS, SoftBank pricing and the Xi readout are tomorrow's inputs · ⬜ pointers into chat-log update
 when the pending entries file.
+
+### Addendum 2026-09-23 ~4:00pm PDT — **RERUN AFTER THE AFTERNOON INPUTS (58 marks · 46 names): ORCL AND DHT ENTER, ETN AND CCL DROP OUT.**
+- **New marks:** ICE CDS 12/12 wider → BEAR ORCL/CRWV (w=1, TLT) · AVGO CDS +6.8 → BEAR AVGO (w=1, SOXX) · Rezaei Gulf-airport threat → BEAR UAL/BA, BULL RTX/LMT/NOC (w=0.5) · Rezaei 4-5 day Hormuz ultimatum → BULL FRO/DHT/INSW (w=0.5, BWET) · truce extension (REPORTED) → BULL AAPL/TSLA/NKE (w=0.5).
+- **💰 TOP 5 (9/23 close, final):** 1. **UAL BEAR** −4.27 (BNO, corr −0.73) · 2. **DHI BEAR** −3.77 (TLT, +0.59) · 3. **LEN BEAR** −3.64 (TLT, +0.53) · 4. **ORCL BEAR** −3.63 (TLT, corr +0.35) · 5. **DHT BULL** +3.60 (BWET, +0.58). *Out: ETN +3.16 · CCL −2.96.*
+- **THESIS:** the board now reads **short the rate channel (homebuilders, ORCL) and the fuel channel (airlines), long freight (DHT)** — every name in it has |corr| ≥ 0.35 to its driver. **Forward test: the 9/24 close.** AVGO nets −1 (TPU +0.5 · SASAC −0.5 · CDS −1).

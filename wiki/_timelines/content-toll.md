@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **228 dated entries across 3 notes · 2026-07-01 → 2026-09-22 · refreshed 2026-09-23 15:20 PDT**
+> **229 dated entries across 3 notes · 2026-07-01 → 2026-09-23 · refreshed 2026-09-23 15:48 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -247,3 +247,4 @@
 - `2026-09-22` [compression-thesis.md:L3465](../compression-thesis.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐ **BOTH LABS FLOOR IT THE SAME DAY + ALIBABA'S 5-10T-PARAMETER ROADMAP — THE FOURTH CHINA-ACCELERATES ARTIFACT IN EIGHT D
 - `2026-09-22` [metered-compute.md:L3522](../metered-compute.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE JEVONS INSTRUMENT ARRIVES (RAMP AI INDEX, WEEKLY $ VOLUMES) + THE LADDER GAINS A LANDLORD RUNG ($2.58M/MW-YR).** 
 - `2026-09-22` [metered-compute.md:L3534](../metered-compute.md) — Addendum 2026-09-22 ~11:20pm PDT — **BLACKROCK NAMES COMPUTE A COLLATERALIZABLE ASSET CLASS — EXACTLY AS ITS RESALE VALUE IS BEING GUARANTEED BY THE V
+- `2026-09-23` [compression-thesis.md:L3470](../compression-thesis.md) — 2026-09-23 ~7:57am-3:25pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐ **BEIJING MOVES DOWN THE STACK: SASAC SURVEYS BROADCOM'S SWITCHES (UP TO ~90% OF STATE DEP

@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **249 dated entries across 2 notes · 2026-03-13 → 2026-09-23 · refreshed 2026-09-23 15:20 PDT**
+> **251 dated entries across 2 notes · 2026-03-13 → 2026-09-23 · refreshed 2026-09-23 15:48 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -273,4 +273,6 @@
 - `2026-09-22` [demand-destruction.md:L4362](../demand-destruction.md) — 2026-09-22 ~10:55am PDT — ⭐⭐⭐⭐⭐ **BAN CLOCK #3 — THE PRESIDENT OVER THE INTERIOR SECRETARY: TRUMP "I'VE CALLED FOR IT TOO" · BESSENT "EXAMINING WHETHE
 - `2026-09-22` [demand-destruction.md:L4374](../demand-destruction.md) — 2026-09-22 ~12:40pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN: "REFINING MARGINS MUST REMAIN ELEVATED TO RESTRAIN CONSUMPTION" — THE CRACK IS THE RATIONING MECHANISM, THR
 - `2026-09-23` [demand-destruction.md:L4388](../demand-destruction.md) — 2026-09-23 ~7:45am PDT — **EIA: QUADRANT ONE ON THE TANKS — CRUDE BUILDS (CUSHING-LED) WHILE PRODUCTS DRAW; THE SPR DRAIN CONTINUES.** *(EIA via ZH `r
+- `2026-09-23` [demand-destruction.md:L4392](../demand-destruction.md) — Addendum 2026-09-23 ~8:00am PDT (Y'd, entered ~3:50pm) — **THE TAPE AFTER THE EIA: BRENT RECLAIMS $100 ON THE STRIKE, THE WATERBORNE SPREAD WIDENS — A
+- `2026-09-23` [demand-destruction.md:L4397](../demand-destruction.md) — 2026-09-23 ~10:40am-12:40pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐⭐ **BAN CLOCK #4 — A 90-DAY PLAN IS REPORTED, THE MARKET REHEARSES THE SCENARIO BLOCK, TH
 - `2026-09-23` [oil-value-chain.md:L2908](../oil-value-chain.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐ **THE FREIGHT WEDGE WIDENS US REFINERS' EDGE: ASIA PAYS ~$15-20/BBL TO MOVE GULF CRUDE WHILE US GULF COAST RUNS A SOFTEN

@@ -248,3 +248,5 @@ _Note created 2026-08-18, closing the TTF/European-gas gap registered at `war-bo
 - **THESIS: each hit is survivable; the CONFIGURATION is the crisis — crude allocation, product supply, and the financing machine all thinner than the US equivalents simultaneously. If the US ban fires, the global crack goes vertical and Europe takes the vertical. The strategists-most-bullish-on-Europe-since-2018 datum (9/18 scan) now reads as the contrarian flag it looked like.**
 **📌 REGISTERED:** ⬜ EU emergency-response noises (IEA release, product reserves) · ⬜ European crack spreads vs US (the divergence instrument) · the four supply threads individually.
 **Links:** [[demand-destruction]] · [[oil-value-chain]] · [[war/war-board]] · [[forest]]
+
+- *(2026-09-23, Y'd)* **EU diesel crack RECORD $95+/bbl and EU diesel futures +7% intraday on the Politico 90-day US export-ban report — the rehearsal of Europe's loss if the US ban fires (~1.5 mb/d US exports; Europe the swing buyer).** → [[demand-destruction]] ban clock #4.

@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **447 dated entries across 6 notes · 2026-02-10 → 2026-09-23 · refreshed 2026-09-23 15:20 PDT**
+> **451 dated entries across 6 notes · 2026-02-10 → 2026-09-23 · refreshed 2026-09-23 15:48 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -222,7 +222,7 @@
 - `2026-08-19` [rates-board.md:L623](../rates-board.md) — 2026-08-19 ~3:40pm PDT — ⛔✅★★★★★★ **THE CAUSAL DIRECTION IS INVERTED — CROWDING OUT RUNS GOVERNMENT→CORPORATE, AND THE TAPE SAYS CORPORATES ARE *LOSIN
 - `2026-08-19` [rates-board.md:L696](../rates-board.md) — 2026-08-19 ~4:45pm PDT — ★★★★★★ **YES, AND IT ALREADY HAPPENS — BUT IT SHOWS UP IN *SWAPS*, NOT IN CORPORATE SPREADS, AND THE MECHANISM IS BALANCE SHE
 - `2026-08-19` [rates-board.md:L944](../rates-board.md) — DATA (MEASURED — SOMA per-CUSIP, bucketed by years to maturity from 2026-08-19)
-- `2026-08-19` [rates-board.md:L3088](../rates-board.md) — ✓ REGISTERED ITEM CLOSED — `:L211`, open since 2026-08-19
+- `2026-08-19` [rates-board.md:L3090](../rates-board.md) — ✓ REGISTERED ITEM CLOSED — `:L211`, open since 2026-08-19
 - `2026-08-19` [transmission-chain.md:L24](../transmission-chain.md) — ⟲ THE CHAIN IS A LOOP, NOT A LADDER (added 2026-08-19 from the FOMC minutes, `:L162`)
 - `2026-08-19` [transmission-chain.md:L77](../transmission-chain.md) — ⛔⛔ AMENDMENT 2026-08-19 ~10:05am PDT — **TWO STRUCTURAL HOLES, AND THE SECOND IS THE MORE IMPORTANT: (a) STAGE 4 IS NOT ONE NUMBER — PART OF IT IS 15-
 - `2026-08-19` [transmission-chain.md:L161](../transmission-chain.md) — ⭐⭐⭐⭐⭐⭐ 2026-08-19 ~1:05pm PDT — **THE FOMC INDEPENDENTLY DESCRIBES STAGES 2, 3 AND 4 OF THIS CHAIN, IN ITS OWN MINUTES, IN THE SAME ORDER — and it add
@@ -312,7 +312,7 @@
 - `2026-08-31` [rates-board.md:L1869](../rates-board.md) — DATA (Jake's brief, `raw/2026-08-31-global-bond-yields.txt`; source links per country in the raw file)
 - `2026-08-31` [rates-board.md:L1883](../rates-board.md) — Addendum 2026-08-31 ~7:12pm PDT — **THE CONFIRMATION SEQUENCE GAINS A GLOBAL RING (extends the adopted ladder — additions, not replacements):** alongs
 - `2026-08-31` [rates-board.md:L1886](../rates-board.md) — 2026-08-31 ~10:20pm PDT — ⭐⭐⭐⭐⭐ **DALLAS FED FORMALIZED THE DURATION COLLISION IN FEBRUARY (De Vere/Ramaswamy/Searls, Feb 10, 2026 — Jake's upload: "F
-- `2026-08-31` [rates-board.md:L3048](../rates-board.md) — ⛔ WHAT THE VAULT ALREADY HELD — `forest.md:60`, filed 2026-08-31 7:10pm
+- `2026-08-31` [rates-board.md:L3050](../rates-board.md) — ⛔ WHAT THE VAULT ALREADY HELD — `forest.md:60`, filed 2026-08-31 7:10pm
 
 ## 2026-09
 
@@ -330,7 +330,7 @@
 - `2026-09-01` [rates-board.md:L1928](../rates-board.md) — Addendum 2026-09-01 ~12:35pm PDT — ✅⭐⭐⭐⭐⭐ **BOND CLOSE, CONTROL-WEEK DAY 2 (Yahoo ^TYX, "at close 1:59pm CDT," header test ✓): 30Y 5.27 (+2bp from 5.2
 - `2026-09-01` [rates-board.md:L1930](../rates-board.md) — 2026-09-01 ~1:15pm PDT — ⭐⭐⭐⭐⭐⭐ **TUESDAY CLOSE (9/1 scan, `raw/2026-09-01-bond-close-scan.txt`): THE FLIP TEST RESULT IS IN — Monday's OAS obs (war p
 - `2026-09-01` [rates-board.md:L1948](../rates-board.md) — Addendum 2026-09-01 ~1:30pm PDT — ✅⭐⭐⭐⭐ **THE FRAGILITY LADDER CORROBORATES THE BOTTOM-RUNG READ FROM A SECOND INSTRUMENT (feed refreshed in-session, 
-- `2026-09-01` [rates-board.md:L3157](../rates-board.md) — ⚠️ BRENT — THE VAULT HAS NO PRIMARY AFTER 2026-09-01, AND THAT REFRAMES YESTERDAY'S "CORRECTION"
+- `2026-09-01` [rates-board.md:L3159](../rates-board.md) — ⚠️ BRENT — THE VAULT HAS NO PRIMARY AFTER 2026-09-01, AND THAT REFRAMES YESTERDAY'S "CORRECTION"
 - `2026-09-02` [ai-financing-fragility.md:L7636](../ai-financing-fragility.md) — 2026-09-02 ~8:18am PDT — ⭐⭐⭐⭐ **CAPITAL ACCESS IS BIFURCATED, MEASURED (9/2 opening scan): global convertible issuance ~$186.8B across 362 deals YTD t
 - `2026-09-02` [balance-sheet-board.md:L753](../balance-sheet-board.md) — 2026-09-02 ~8:15am PDT — ⛔⭐⭐⭐⭐⭐ **THE TRIGGER-3 PRECURSOR FIRED AT THE COUNTERPARTY LEVEL (9/2 opening scan, CRWV Q2 10-Q): during Q2 CoreWeave REASSE
 - `2026-09-02` [balance-sheet-board.md:L766](../balance-sheet-board.md) — Addendum 2026-09-02 ~8:45am PDT — **SB Energy S-1 (filed Aug 31; scan's late-catch) adds the OTHER dependency in SEC language: SB Energy is "substanti
@@ -375,19 +375,19 @@
 - `2026-09-05` [ai-financing-fragility.md:L7698](../ai-financing-fragility.md) — Addendum 2026-09-05 ~11:40am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE ORDER-BOOK DATA EXISTS AND IT CORRECTS ME TWICE: THE INDEX WAS HIDING THE HYPERSCALERS, AND JAKE'S SL
 - `2026-09-05` [rates-board.md:L2340](../rates-board.md) — Addendum 2026-09-05 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **RULE 20 ON THE WSJ CHART: THE WAR WINDOW'S 80bp IS 88% REAL. SIX MONTHS OF A WAR THAT SHUT HORMUZ MOVED 10Y
 - `2026-09-05` [rates-board.md:L2376](../rates-board.md) — Addendum 2026-09-05 ~8:30am PDT — ⭐⭐⭐⭐⭐⭐ **WALLER JUST NAMED THE MECHANISM BEHIND THIS MORNING'S 88%, AND THE RECOVERY-RATE DATUM MEANS CCC AT 10.53pp
-- `2026-09-05` [rates-board.md:L2408](../rates-board.md) — Addendum 2026-09-05 ~9:15am PDT — ⭐⭐⭐⭐⭐ **JAKE: HYPERSCALERS ARE PRICE-INSENSITIVE BORROWERS, SO BUY CORPORATES INSTEAD OF TREASURIES. THE FIRST HALF 
-- `2026-09-05` [rates-board.md:L2439](../rates-board.md) — Addendum 2026-09-05 ~11:10am PDT — ⭐⭐⭐⭐⭐⭐ **THE JPMAM CHART QUANTIFIES JAKE'S CALL — AND ITS OWN DENOMINATOR UNDERCUTS THE SUPPLY VERSION OF IT WHILE 
-- `2026-09-05` [rates-board.md:L2477](../rates-board.md) — Addendum 2026-09-05 ~11:20am PDT — ⭐⭐⭐⭐⭐⭐ **THE SLINKY IS REAL AND IT IS RUNNING BACKWARDS: THE IG YIELD HAS BEEN STATIONARY FOR 17 MONTHS WHILE THE 1
-- `2026-09-05` [rates-board.md:L2519](../rates-board.md) — Addendum 2026-09-05 ~11:30am PDT — ⭐⭐⭐⭐⭐⭐ **THE AUCTION TAPE ANSWERS JAKE'S QUESTION AND SPLITS IT: AT THE 10Y, HIGHER YIELDS BOUGHT MORE DEMAND. AT T
-- `2026-09-05` [rates-board.md:L2562](../rates-board.md) — Addendum 2026-09-05 ~3:25pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **GLOBAL GOVERNMENT YIELDS AT A 22-YEAR HIGH, AND THE US IS NOT LEADING IT. JAPAN IS — BY 194bp. THE AI-CROW
+- `2026-09-05` [rates-board.md:L2409](../rates-board.md) — Addendum 2026-09-05 ~9:15am PDT — ⭐⭐⭐⭐⭐ **JAKE: HYPERSCALERS ARE PRICE-INSENSITIVE BORROWERS, SO BUY CORPORATES INSTEAD OF TREASURIES. THE FIRST HALF 
+- `2026-09-05` [rates-board.md:L2440](../rates-board.md) — Addendum 2026-09-05 ~11:10am PDT — ⭐⭐⭐⭐⭐⭐ **THE JPMAM CHART QUANTIFIES JAKE'S CALL — AND ITS OWN DENOMINATOR UNDERCUTS THE SUPPLY VERSION OF IT WHILE 
+- `2026-09-05` [rates-board.md:L2478](../rates-board.md) — Addendum 2026-09-05 ~11:20am PDT — ⭐⭐⭐⭐⭐⭐ **THE SLINKY IS REAL AND IT IS RUNNING BACKWARDS: THE IG YIELD HAS BEEN STATIONARY FOR 17 MONTHS WHILE THE 1
+- `2026-09-05` [rates-board.md:L2520](../rates-board.md) — Addendum 2026-09-05 ~11:30am PDT — ⭐⭐⭐⭐⭐⭐ **THE AUCTION TAPE ANSWERS JAKE'S QUESTION AND SPLITS IT: AT THE 10Y, HIGHER YIELDS BOUGHT MORE DEMAND. AT T
+- `2026-09-05` [rates-board.md:L2563](../rates-board.md) — Addendum 2026-09-05 ~3:25pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **GLOBAL GOVERNMENT YIELDS AT A 22-YEAR HIGH, AND THE US IS NOT LEADING IT. JAPAN IS — BY 194bp. THE AI-CROW
 - `2026-09-07` [ai-financing-fragility.md:L7734](../ai-financing-fragility.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **IREN, QUANTIFIED FROM THE FUNDING SIDE: "UP TO $30B BY JUNE 2027" AGAINST $7.6B CASH + $3.5B OF ATM — AND THE CEO'S "
 - `2026-09-07` [balance-sheet-board.md:L809](../balance-sheet-board.md) — Pointer 2026-09-07 ~8:15am PDT — **IREN: $30B capex ceiling by Jun-2027 · $19B raised past year · $7.6B cash / $7.6B debt · $3.5B ATM remaining (FT vi
-- `2026-09-07` [rates-board.md:L2599](../rates-board.md) — 2026-09-07 ~8:15am PDT — **HOLIDAY-OPEN BRIEF: EL-ERIAN "EXPLICITLY MAKING OUR ARGUMENT" — FILED HERE THREE DAYS AGO WITH AN INSTITUTION ATTACHED. THE
-- `2026-09-07` [rates-board.md:L2620](../rates-board.md) — Addendum 2026-09-07 ~8:25am PDT — **DAILY BRIEF: THE WEEK RESTATED, WITH TWO THINGS TO ADD TO THE 8:15am TABLE — THE BUYBACK CONFOUND ON WEDNESDAY, AN
-- `2026-09-07` [rates-board.md:L2629](../rates-board.md) — Addendum 2026-09-07 ~9:35am PDT — **JAKE: "IS THIS TALKING ABOUT THE COUPON PRICE?" (Kobeissi post of BofA chart: 15yr+ Treasuries, 10-year rolling an
-- `2026-09-07` [rates-board.md:L2638](../rates-board.md) — 2026-09-07 ~10:05am PDT — ⭐⭐⭐⭐ **THE WEEK-AHEAD (ZH / DB / Goldman, Jake's PDF `raw/2026-09-07-zh-key-events-week-cpi.pdf`): FRIDAY'S CONSENSUS IS NOW
-- `2026-09-07` [rates-board.md:L2660](../rates-board.md) — Addendum 2026-09-07 ~5:30pm PDT — ⭐⭐⭐⭐⭐ **BofA VIA ZH (Jake's chart, `raw/2026-09-07-bofa-treasury-maturity-profile-debt-gdp-feedback.png`): "$7T OF B
-- `2026-09-07` [rates-board.md:L2676](../rates-board.md) — Addendum 2026-09-07 ~8:55pm PDT — **THE JPMAM CHART REPRINTS (Sept 7 data) WITH CEMBALEST'S FULL TEXT — $303bn IN TEN-YEAR EQUIVALENTS = 68% OF TREASU
+- `2026-09-07` [rates-board.md:L2600](../rates-board.md) — 2026-09-07 ~8:15am PDT — **HOLIDAY-OPEN BRIEF: EL-ERIAN "EXPLICITLY MAKING OUR ARGUMENT" — FILED HERE THREE DAYS AGO WITH AN INSTITUTION ATTACHED. THE
+- `2026-09-07` [rates-board.md:L2622](../rates-board.md) — Addendum 2026-09-07 ~8:25am PDT — **DAILY BRIEF: THE WEEK RESTATED, WITH TWO THINGS TO ADD TO THE 8:15am TABLE — THE BUYBACK CONFOUND ON WEDNESDAY, AN
+- `2026-09-07` [rates-board.md:L2631](../rates-board.md) — Addendum 2026-09-07 ~9:35am PDT — **JAKE: "IS THIS TALKING ABOUT THE COUPON PRICE?" (Kobeissi post of BofA chart: 15yr+ Treasuries, 10-year rolling an
+- `2026-09-07` [rates-board.md:L2640](../rates-board.md) — 2026-09-07 ~10:05am PDT — ⭐⭐⭐⭐ **THE WEEK-AHEAD (ZH / DB / Goldman, Jake's PDF `raw/2026-09-07-zh-key-events-week-cpi.pdf`): FRIDAY'S CONSENSUS IS NOW
+- `2026-09-07` [rates-board.md:L2662](../rates-board.md) — Addendum 2026-09-07 ~5:30pm PDT — ⭐⭐⭐⭐⭐ **BofA VIA ZH (Jake's chart, `raw/2026-09-07-bofa-treasury-maturity-profile-debt-gdp-feedback.png`): "$7T OF B
+- `2026-09-07` [rates-board.md:L2678](../rates-board.md) — Addendum 2026-09-07 ~8:55pm PDT — **THE JPMAM CHART REPRINTS (Sept 7 data) WITH CEMBALEST'S FULL TEXT — $303bn IN TEN-YEAR EQUIVALENTS = 68% OF TREASU
 - `2026-09-08` [ai-financing-fragility.md:L7753](../ai-financing-fragility.md) — 2026-09-08 ~6:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE LABS ARE TRYING TO CROSS FROM STRUCTURED CREDIT INTO THE IG BOND MARKET: BANKERS FOR OPENAI *AND* ANTHROPIC ARE 
 - `2026-09-08` [ai-financing-fragility.md:L7768](../ai-financing-fragility.md) — 2026-09-08 ~8:40am PDT — ✅⭐⭐⭐⭐⭐⭐ **QUALCOMM×AMAZON IS THE THIRD "WARRANTS-FOR-VOLUME" DEAL AND THE VAULT PRE-REGISTERED THE PATTERN. RUN THROUGH THE D
 - `2026-09-08` [ai-financing-fragility.md:L7792](../ai-financing-fragility.md) — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐⭐ **THE FT DETAIL THAT CHANGES HOW THIS NOTE READS NVDA'S LARGEST EXPOSURE: THE $105B SB ENERGY SUPPORT IS STRUCTURED TO
@@ -397,12 +397,12 @@
 - `2026-09-08` [ai-financing-fragility.md:L7904](../ai-financing-fragility.md) — 2026-09-08 ~11:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE CHARTS BEHIND THE TWEETS, AND THEY OVERTURN TWO OF TONIGHT'S THREE CONCLUSIONS. (1) THE "EYE OF THE HURRICANE"
 - `2026-09-08` [ai-financing-fragility.md:L7942](../ai-financing-fragility.md) — Addendum 2026-09-08 ~11:30pm PDT — ⛔⛔ **AND THE SECOND IMAGE IS THE 8/6 GS FCF CHART AT FULL RESOLUTION, WHICH EXPOSES A READING ERROR IN THIS FILE'S 
 - `2026-09-08` [balance-sheet-board.md:L811](../balance-sheet-board.md) — Addendum 2026-09-08 ~6:45am PDT — **ORCL INTO TONIGHT: THE NEW LINE IS "NO FURTHER DEBT ISSUANCE DURING CALENDAR 2026," AND IT COLLIDES WITH THE $3.3B
-- `2026-09-08` [rates-board.md:L2693](../rates-board.md) — 2026-09-08 ~8:10am PDT — ✅⛔⭐⭐⭐⭐⭐ **NY FED SURVEY (registered item, resolved): 1Y 3.58% (unch from 3.6) · 3Y 3.19% (from 3.3) · 5Y 3.01% (unch). THE TE
-- `2026-09-08` [rates-board.md:L2715](../rates-board.md) — 2026-09-08 ~11:20am PDT — ✅⭐⭐⭐⭐⭐ **THE 3Y CLEARS WELL (registered item), BESSENT PRE-EMPTIVELY DISCLAIMS HIS OWN TOOL, AND DEUTSCHE BANK'S COUNTER-THE
-- `2026-09-08` [rates-board.md:L2733](../rates-board.md) — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐ **CLOSE: THE PRE-REGISTERED BREAKEVEN TEST SHOWED UP THREE DAYS EARLY, AND THE 3Y's STRENGTH WAS ENTIRELY DOMESTIC** *(
-- `2026-09-08` [rates-board.md:L2763](../rates-board.md) — 2026-09-08 ~7:05pm PDT — ⭐⭐⭐⭐⭐ **"10Y HIGHEST CLOSE SINCE 2023" IS TRUE, AND IT IS A 1-2bp BREAK OF A TRIPLE TOP. THE VAULT HELD NOTHING ON THE 2023 E
-- `2026-09-08` [rates-board.md:L2781](../rates-board.md) — 2026-09-08 ~10:40pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN'S MACRO DESK ADOPTS THE COLLISION THESIS IN PUBLIC AND IN THE BOARD'S OWN WORDS: "THE FED IS JUST A PASSENGE
-- `2026-09-08` [rates-board.md:L2802](../rates-board.md) — Addendum 2026-09-08 ~11:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE CHART UNDER "2027 AI DV01 > USTs" DOES NOT SUPPORT ITS OWN CAPTION, AND THE REASON IS A COMPOSITION SH
+- `2026-09-08` [rates-board.md:L2695](../rates-board.md) — 2026-09-08 ~8:10am PDT — ✅⛔⭐⭐⭐⭐⭐ **NY FED SURVEY (registered item, resolved): 1Y 3.58% (unch from 3.6) · 3Y 3.19% (from 3.3) · 5Y 3.01% (unch). THE TE
+- `2026-09-08` [rates-board.md:L2717](../rates-board.md) — 2026-09-08 ~11:20am PDT — ✅⭐⭐⭐⭐⭐ **THE 3Y CLEARS WELL (registered item), BESSENT PRE-EMPTIVELY DISCLAIMS HIS OWN TOOL, AND DEUTSCHE BANK'S COUNTER-THE
+- `2026-09-08` [rates-board.md:L2735](../rates-board.md) — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐ **CLOSE: THE PRE-REGISTERED BREAKEVEN TEST SHOWED UP THREE DAYS EARLY, AND THE 3Y's STRENGTH WAS ENTIRELY DOMESTIC** *(
+- `2026-09-08` [rates-board.md:L2765](../rates-board.md) — 2026-09-08 ~7:05pm PDT — ⭐⭐⭐⭐⭐ **"10Y HIGHEST CLOSE SINCE 2023" IS TRUE, AND IT IS A 1-2bp BREAK OF A TRIPLE TOP. THE VAULT HELD NOTHING ON THE 2023 E
+- `2026-09-08` [rates-board.md:L2783](../rates-board.md) — 2026-09-08 ~10:40pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN'S MACRO DESK ADOPTS THE COLLISION THESIS IN PUBLIC AND IN THE BOARD'S OWN WORDS: "THE FED IS JUST A PASSENGE
+- `2026-09-08` [rates-board.md:L2804](../rates-board.md) — Addendum 2026-09-08 ~11:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE CHART UNDER "2027 AI DV01 > USTs" DOES NOT SUPPORT ITS OWN CAPTION, AND THE REASON IS A COMPOSITION SH
 - `2026-09-09` [ai-financing-fragility.md:L7953](../ai-financing-fragility.md) — 2026-09-09 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PERIMETER HOLE I FLAGGED LAST NIGHT CLOSES IN TWELVE HOURS, AND IT CLOSES IN THE WORST DIRECTION: THE GS ISSUANC
 - `2026-09-09` [ai-financing-fragility.md:L7969](../ai-financing-fragility.md) — 2026-09-09 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT NOW HOLDS FOUR "PAYBACK PERIODS" FOR THE SAME ASSET CLASS SPANNING **ONE TO SEVEN YEARS** — A 7× RANGE — 
 - `2026-09-09` [ai-financing-fragility.md:L7991](../ai-financing-fragility.md) — Addendum 2026-09-09 ~8:10am PDT — **QCOM GETS ITS GUIDANCE, AND IT REFRAMES THE VAULT'S OWN "~$6B/YR" — THE AVERAGE IS ROUGHLY RIGHT AND THE *PATH* IS
@@ -410,68 +410,72 @@
 - `2026-09-09` [ai-financing-fragility.md:L8017](../ai-financing-fragility.md) — Addendum 2026-09-09 ~10:10am PDT — **THE GOOGLE CLOUD BACKLOG ⬜ I CALLED "THE HIGHEST-VALUE FETCH ON THIS ITEM" AT 7:50AM GETS A PARTIAL ANSWER — AND 
 - `2026-09-09` [ai-financing-fragility.md:L8023](../ai-financing-fragility.md) — 2026-09-09 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MONITOR'S BIGGEST NUMBER IS ONE NOBODY IN IT DECOMPOSES: **70% OF NVIDIA'S $22.4B RECEIVABLES INCREASE IS *TERM
 - `2026-09-09` [ai-financing-fragility.md:L8047](../ai-financing-fragility.md) — 2026-09-09 ~5:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT ALREADY HOLDS THE Q1 13F, SO HALF THE AUTHOR'S NOVEMBER TEST IS ANSWERABLE TONIGHT: **NVIDIA HAS NOT SOLD
-- `2026-09-09` [rates-board.md:L2811](../rates-board.md) — 2026-09-09 ~7:10am PDT — ⭐⭐⭐⭐⭐ **THE PRE-REGISTERED DAY ARRIVES, AND ONE DETAIL IN THE BRIEF CHANGES THE INSTRUMENT: THE LONG-END BUYBACK MOVES FROM A
-- `2026-09-09` [rates-board.md:L2830](../rates-board.md) — Addendum 2026-09-09 ~7:55am PDT — ⛔⛔ **I CORRECT MY OWN CORRECTION FROM FORTY-FIVE MINUTES AGO, AND THE ORIGINAL BOARD LANGUAGE WAS RIGHT. THE BUYBACK
-- `2026-09-09` [rates-board.md:L2838](../rates-board.md) — 2026-09-09 ~9:00am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE 11:00 ET NUMBER PRINTED AT **$6B** — THE TOP OF MY PRE-WRITTEN RANGE — AND THE 10Y WENT TO **4.83-4.85%, THE HI
-- `2026-09-09` [rates-board.md:L2859](../rates-board.md) — 2026-09-09 ~10:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE AUCTION: 10Y STOPS AT 4.834% vs WI 4.849% — A **1.5bp STOP-THROUGH, THE BIGGEST SINCE APRIL 2025.** THE PRE-RE
-- `2026-09-09` [rates-board.md:L2876](../rates-board.md) — Addendum 2026-09-09 ~10:15am PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE CORRECTS THE FRAME AND THE CORRECTION IS STRUCTURAL: *"Supply and demand were neither the problem. T
-- `2026-09-09` [rates-board.md:L2887](../rates-board.md) — Addendum 2026-09-09 ~11:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **ALL FOUR REGISTERED INTERNALS ARRIVE AND THEY KILL MY OWN CAVEAT: **DEALERS TOOK 4.31%, THE LOWEST SINCE 
-- `2026-09-09` [rates-board.md:L2911](../rates-board.md) — 2026-09-09 ~2:05pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MONITOR SUPPLIES THE TWO DECOMPOSITIONS THE BOARD HAS BEEN MISSING, AND THEY POINT OPPOSITE WAYS. (1) THE 12-MO
-- `2026-09-09` [rates-board.md:L2931](../rates-board.md) — 2026-09-09 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE ASKS WHAT THE CTA CHARTS MEAN. THE ANSWER IS THAT THEY EXPOSE A HOLE IN THE THREE-CELL MATRIX I PRE-REGISTERED
-- `2026-09-09` [rates-board.md:L2956](../rates-board.md) — Addendum 2026-09-09 ~6:50pm PDT — 📖 **DEFINITION FILED, BECAUSE I USED THE TERM FOR A FULL ENTRY WITHOUT DEFINING IT AND JAKE HAD TO ASK. THE VAULT HA
+- `2026-09-09` [rates-board.md:L2813](../rates-board.md) — 2026-09-09 ~7:10am PDT — ⭐⭐⭐⭐⭐ **THE PRE-REGISTERED DAY ARRIVES, AND ONE DETAIL IN THE BRIEF CHANGES THE INSTRUMENT: THE LONG-END BUYBACK MOVES FROM A
+- `2026-09-09` [rates-board.md:L2832](../rates-board.md) — Addendum 2026-09-09 ~7:55am PDT — ⛔⛔ **I CORRECT MY OWN CORRECTION FROM FORTY-FIVE MINUTES AGO, AND THE ORIGINAL BOARD LANGUAGE WAS RIGHT. THE BUYBACK
+- `2026-09-09` [rates-board.md:L2840](../rates-board.md) — 2026-09-09 ~9:00am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE 11:00 ET NUMBER PRINTED AT **$6B** — THE TOP OF MY PRE-WRITTEN RANGE — AND THE 10Y WENT TO **4.83-4.85%, THE HI
+- `2026-09-09` [rates-board.md:L2861](../rates-board.md) — 2026-09-09 ~10:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE AUCTION: 10Y STOPS AT 4.834% vs WI 4.849% — A **1.5bp STOP-THROUGH, THE BIGGEST SINCE APRIL 2025.** THE PRE-RE
+- `2026-09-09` [rates-board.md:L2878](../rates-board.md) — Addendum 2026-09-09 ~10:15am PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE CORRECTS THE FRAME AND THE CORRECTION IS STRUCTURAL: *"Supply and demand were neither the problem. T
+- `2026-09-09` [rates-board.md:L2889](../rates-board.md) — Addendum 2026-09-09 ~11:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **ALL FOUR REGISTERED INTERNALS ARRIVE AND THEY KILL MY OWN CAVEAT: **DEALERS TOOK 4.31%, THE LOWEST SINCE 
+- `2026-09-09` [rates-board.md:L2913](../rates-board.md) — 2026-09-09 ~2:05pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE MONITOR SUPPLIES THE TWO DECOMPOSITIONS THE BOARD HAS BEEN MISSING, AND THEY POINT OPPOSITE WAYS. (1) THE 12-MO
+- `2026-09-09` [rates-board.md:L2933](../rates-board.md) — 2026-09-09 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE ASKS WHAT THE CTA CHARTS MEAN. THE ANSWER IS THAT THEY EXPOSE A HOLE IN THE THREE-CELL MATRIX I PRE-REGISTERED
+- `2026-09-09` [rates-board.md:L2958](../rates-board.md) — Addendum 2026-09-09 ~6:50pm PDT — 📖 **DEFINITION FILED, BECAUSE I USED THE TERM FOR A FULL ENTRY WITHOUT DEFINING IT AND JAKE HAD TO ASK. THE VAULT HA
 - `2026-09-09` [transmission-chain.md:L311](../transmission-chain.md) — 2026-09-09 ~8:00am PDT — ⭐⭐⭐⭐⭐⭐ **THE CHAIN HAS A NEW BREAK AND THE GOPHER FOUND IT BEFORE I DID: GOOGLE IS NOW SELLING TPU SYSTEMS *OUTRIGHT* FOR INS
-- `2026-09-10` [rates-board.md:L2967](../rates-board.md) — 2026-09-10 ~6:35am PDT — ⭐⭐⭐⭐⭐⭐ **AUGUST PPI: THE SOFT CORE IS PARTLY *MARGIN COMPRESSION*, NOT DISINFLATION — AND THE BLS'S OWN "EX TRADE MARGINS" SE
-- `2026-09-10` [rates-board.md:L2994](../rates-board.md) — Addendum 2026-09-10 ~6:45am PDT — ⛔⛔ **THE FULLER TABLE ARRIVES TEN MINUTES AFTER I FILED AND IT CORRECTS MY MARGIN-COMPRESSION READ. THE TRADE-MARGIN
-- `2026-09-10` [rates-board.md:L3009](../rates-board.md) — Addendum 2026-09-10 ~7:30am PDT — **THE OPEN: 10Y ~4.91%, HIKE ODDS 62% → 74% IN A SESSION, AND **THE ECB HIKED** — WHICH IS THE ITEM THAT CHALLENGES 
-- `2026-09-10` [rates-board.md:L3018](../rates-board.md) — 2026-09-10 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE SAYS THE SELLOFF IS GLOBAL. I SAID I HAD NO INSTRUMENT; I FOUND ONE. THE ANSWER **DEPENDS ENTIRELY ON THE WIND
-- `2026-09-10` [rates-board.md:L3047](../rates-board.md) — Addendum 2026-09-10 ~7:55am PDT — ⛔⛔⛔ **JAKE: "WE HAVE IT HERE… WE'VE GONE OVER IT." HE IS RIGHT AND IT IS THE FOURTH RULE-21 FAILURE IN TWO DAYS. THE
-- `2026-09-10` [rates-board.md:L3066](../rates-board.md) — 2026-09-10 ~8:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **RABOBANK SUPPLIES THE PIECE THE BOARD HAS BEEN MISSING ALL WEEK — AND IT *COMPETES* WITH A CAUSAL STORY THE VAULT A
-- `2026-09-10` [rates-board.md:L3086](../rates-board.md) — 2026-09-10 ~8:50am PDT — ⛔⭐⭐⭐⭐⭐⭐ **PRE-AUCTION, ON THE PRIMARY: THE 30Y HAS CLOSED ABOVE 5.30 EXACTLY ONCE IN 172 SESSIONS THIS YEAR — 5.31 ON 8/17 — 
-- `2026-09-10` [rates-board.md:L3120](../rates-board.md) — 2026-09-10 ~9:20am PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐⭐ **TREASURY'S OWN BUYBACK CALENDAR, OBTAINED — AND IT BREAKS THE BRIEF *AND* FOUR THINGS THIS VAULT HOLDS. **TODAY'
-- `2026-09-10` [rates-board.md:L3163](../rates-board.md) — 2026-09-10 ~10:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE LIVE-FIRE DATE RESOLVES. $22B 30Y STOPS AT **5.308%** VS A **5.335%** WI — **2.7bp THROUGH, SECOND BIGGEST IN 
-- `2026-09-10` [rates-board.md:L3201](../rates-board.md) — 2026-09-10 ~10:40am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE FULL ZH PIECE (both pages, extracted). THE INTERNALS ARE THE STORY AND THEY ARE STRONGER THAN THE STOP: **DEAL
-- `2026-09-10` [rates-board.md:L3243](../rates-board.md) — 2026-09-10 ~2:20pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE 2Y ROSE **15bp TODAY TO 4.58%** AND **BOTH CURVE SEGMENTS FLATTENED.** A TERM-PREMIUM / SUPPLY STORY **STEEPEN
+- `2026-09-10` [rates-board.md:L2969](../rates-board.md) — 2026-09-10 ~6:35am PDT — ⭐⭐⭐⭐⭐⭐ **AUGUST PPI: THE SOFT CORE IS PARTLY *MARGIN COMPRESSION*, NOT DISINFLATION — AND THE BLS'S OWN "EX TRADE MARGINS" SE
+- `2026-09-10` [rates-board.md:L2996](../rates-board.md) — Addendum 2026-09-10 ~6:45am PDT — ⛔⛔ **THE FULLER TABLE ARRIVES TEN MINUTES AFTER I FILED AND IT CORRECTS MY MARGIN-COMPRESSION READ. THE TRADE-MARGIN
+- `2026-09-10` [rates-board.md:L3011](../rates-board.md) — Addendum 2026-09-10 ~7:30am PDT — **THE OPEN: 10Y ~4.91%, HIKE ODDS 62% → 74% IN A SESSION, AND **THE ECB HIKED** — WHICH IS THE ITEM THAT CHALLENGES 
+- `2026-09-10` [rates-board.md:L3020](../rates-board.md) — 2026-09-10 ~7:50am PDT — ⭐⭐⭐⭐⭐⭐⭐ **JAKE SAYS THE SELLOFF IS GLOBAL. I SAID I HAD NO INSTRUMENT; I FOUND ONE. THE ANSWER **DEPENDS ENTIRELY ON THE WIND
+- `2026-09-10` [rates-board.md:L3049](../rates-board.md) — Addendum 2026-09-10 ~7:55am PDT — ⛔⛔⛔ **JAKE: "WE HAVE IT HERE… WE'VE GONE OVER IT." HE IS RIGHT AND IT IS THE FOURTH RULE-21 FAILURE IN TWO DAYS. THE
+- `2026-09-10` [rates-board.md:L3068](../rates-board.md) — 2026-09-10 ~8:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **RABOBANK SUPPLIES THE PIECE THE BOARD HAS BEEN MISSING ALL WEEK — AND IT *COMPETES* WITH A CAUSAL STORY THE VAULT A
+- `2026-09-10` [rates-board.md:L3088](../rates-board.md) — 2026-09-10 ~8:50am PDT — ⛔⭐⭐⭐⭐⭐⭐ **PRE-AUCTION, ON THE PRIMARY: THE 30Y HAS CLOSED ABOVE 5.30 EXACTLY ONCE IN 172 SESSIONS THIS YEAR — 5.31 ON 8/17 — 
+- `2026-09-10` [rates-board.md:L3122](../rates-board.md) — 2026-09-10 ~9:20am PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐⭐ **TREASURY'S OWN BUYBACK CALENDAR, OBTAINED — AND IT BREAKS THE BRIEF *AND* FOUR THINGS THIS VAULT HOLDS. **TODAY'
+- `2026-09-10` [rates-board.md:L3165](../rates-board.md) — 2026-09-10 ~10:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE LIVE-FIRE DATE RESOLVES. $22B 30Y STOPS AT **5.308%** VS A **5.335%** WI — **2.7bp THROUGH, SECOND BIGGEST IN 
+- `2026-09-10` [rates-board.md:L3204](../rates-board.md) — 2026-09-10 ~10:40am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE FULL ZH PIECE (both pages, extracted). THE INTERNALS ARE THE STORY AND THEY ARE STRONGER THAN THE STOP: **DEAL
+- `2026-09-10` [rates-board.md:L3246](../rates-board.md) — 2026-09-10 ~2:20pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE 2Y ROSE **15bp TODAY TO 4.58%** AND **BOTH CURVE SEGMENTS FLATTENED.** A TERM-PREMIUM / SUPPLY STORY **STEEPEN
 - `2026-09-11` [ai-financing-fragility.md:L8070](../ai-financing-fragility.md) — 2026-09-11 ~9:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **BofA PUTS AN INDEX ON THE VAULT'S CENTRAL CALL — AND IT IS **PROGRESSION, NOT CONFIRMATION**: THE AI CREDIT PREMIUM
-- `2026-09-11` [rates-board.md:L3264](../rates-board.md) — 2026-09-11 ~6:40am PDT — ⭐⭐⭐⭐⭐⭐⭐ **AUGUST CPI. ⛔ "INFLATION ACCELERATED" IS TRUE OF THE MONTHLY AND **FALSE OF THE ANNUAL** — HEADLINE y/y UNCHANGED A
-- `2026-09-11` [rates-board.md:L3313](../rates-board.md) — 2026-09-11 ~7:25am PDT — ⛔⭐⭐⭐⭐⭐⭐ **UMICH 47.8 (exp 51.0) — THE SECOND-LOWEST READING IN **675 MONTHS**. ⛔ MY PRE-REGISTRATION RESOLVES **SPLIT, AND TH
+- `2026-09-11` [rates-board.md:L3267](../rates-board.md) — 2026-09-11 ~6:40am PDT — ⭐⭐⭐⭐⭐⭐⭐ **AUGUST CPI. ⛔ "INFLATION ACCELERATED" IS TRUE OF THE MONTHLY AND **FALSE OF THE ANNUAL** — HEADLINE y/y UNCHANGED A
+- `2026-09-11` [rates-board.md:L3316](../rates-board.md) — 2026-09-11 ~7:25am PDT — ⛔⭐⭐⭐⭐⭐⭐ **UMICH 47.8 (exp 51.0) — THE SECOND-LOWEST READING IN **675 MONTHS**. ⛔ MY PRE-REGISTRATION RESOLVES **SPLIT, AND TH
 - `2026-09-12` [ai-financing-fragility.md:L8113](../ai-financing-fragility.md) — Addendum 2026-09-12 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE CIRCULARITY GAINS ITS **THIRD** INSTANCE AND ITS FIRST AT **IPO-EQUITY** LEVEL: NVDA REPORTEDLY CONSIDER
 - `2026-09-12` [ai-financing-fragility.md:L8136](../ai-financing-fragility.md) — Addendum 2026-09-12 ~9:45am PDT — ⭐⭐⭐⭐⭐ **THE DENOMINATOR ARRIVES. THE BOARD HAS BEEN ARGUING ABOUT ANTHROPIC-AS-COUNTERPARTY FOR WEEKS WITH **NO REVE
-- `2026-09-12` [rates-board.md:L3351](../rates-board.md) — 2026-09-12 ~8:50am PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **GATE 1 HAS ITS FIRST LEG. DGS30 CLOSED **5.37 ON 9/10 — THE YTD HIGH AND ONLY THE **SECOND** CLOSE ≥5.30 IN 182 OB
-- `2026-09-12` [rates-board.md:L3379](../rates-board.md) — Addendum 2026-09-12 ~9:30am PDT — ⛔⛔ **SELF-CORRECTION FIRST: MY 8:50am "IT IS FLATTENING, NOT STEEPENING" WAS **ALREADY ON THIS BOARD, FILED 9/10 AT 
+- `2026-09-12` [rates-board.md:L3354](../rates-board.md) — 2026-09-12 ~8:50am PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **GATE 1 HAS ITS FIRST LEG. DGS30 CLOSED **5.37 ON 9/10 — THE YTD HIGH AND ONLY THE **SECOND** CLOSE ≥5.30 IN 182 OB
+- `2026-09-12` [rates-board.md:L3382](../rates-board.md) — Addendum 2026-09-12 ~9:30am PDT — ⛔⛔ **SELF-CORRECTION FIRST: MY 8:50am "IT IS FLATTENING, NOT STEEPENING" WAS **ALREADY ON THIS BOARD, FILED 9/10 AT 
 - `2026-09-13` [ai-financing-fragility.md:L8156](../ai-financing-fragility.md) — 2026-09-13 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **A $50 BILLION ANTHROPIC COMPUTE COUNTERPARTY THE VAULT HAS **NEVER RECORDED** — `grep -i fluidstack` RETURNS **ZERO
 - `2026-09-13` [ai-financing-fragility.md:L8189](../ai-financing-fragility.md) — Addendum 2026-09-13 ~11:25am PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **JAKE IS RIGHT AND IT IS **THE SAME COMPANY, THREE DAYS AGO: THE PENTAGON IS IN TALKS TO LEND ~$5 BILLION
 - `2026-09-13` [ai-financing-fragility.md:L8217](../ai-financing-fragility.md) — Addendum 2026-09-13 ~11:45am PDT — ✅⭐⭐⭐⭐⭐⭐⭐⭐ **THE CHECK I REGISTERED 30 MINUTES AGO IS SCORED, AND I WENT TO THE 10-Q MYSELF: **CONFIRMED VERBATIM — 
 - `2026-09-13` [ai-financing-fragility.md:L8257](../ai-financing-fragility.md) — Addendum 2026-09-13 ~6:30pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN SUPPLIES THE HIGH-YIELD TIER, AND THE TWO-DESK PICTURE IS NOW COMPLETE: **THE AI CREDIT PREMIUM ROUG
-- `2026-09-13` [rates-board.md:L3417](../rates-board.md) — 2026-09-13 ~10:00am PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **THE ⬜ I REGISTERED TWICE IS CLOSED AND **IT CORRECTS MY OWN 9/12 DIAGNOSIS: THE MOVE IS 75-80% *REAL*, NOT INFLAT
-- `2026-09-13` [rates-board.md:L3467](../rates-board.md) — 2026-09-13 ~8:05pm PDT — ⭐⭐⭐⭐⭐⭐ **PRE-FOMC, REGISTERED BEFORE THE EVENT AND SETTLED ACROSS FOUR DISCUSSION ROUNDS (rule 22): JAKE'S ONE-AND-DONE CALL 
+- `2026-09-13` [rates-board.md:L3420](../rates-board.md) — 2026-09-13 ~10:00am PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **THE ⬜ I REGISTERED TWICE IS CLOSED AND **IT CORRECTS MY OWN 9/12 DIAGNOSIS: THE MOVE IS 75-80% *REAL*, NOT INFLAT
+- `2026-09-13` [rates-board.md:L3470](../rates-board.md) — 2026-09-13 ~8:05pm PDT — ⭐⭐⭐⭐⭐⭐ **PRE-FOMC, REGISTERED BEFORE THE EVENT AND SETTLED ACROSS FOUR DISCUSSION ROUNDS (rule 22): JAKE'S ONE-AND-DONE CALL 
 - `2026-09-14` [ai-financing-fragility.md:L8271](../ai-financing-fragility.md) — Addendum 2026-09-14 ~8:55am PDT — ⭐⭐⭐⭐ **MONDAY'S REPRICING, SCORED (settled per rule 22, entered once): A DISCOUNT-RATE SHOCK IN AN AI-PACING COSTUME
 - `2026-09-14` [ai-financing-fragility.md:L8278](../ai-financing-fragility.md) — 2026-09-14 ~5:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE EVENING SCAN DELIVERS THE AGGREGATE AND CLOSES YESTERDAY'S ⬜ (settled per rule 22, entered once): **~$1.09 TRIL
-- `2026-09-14` [rates-board.md:L3500](../rates-board.md) — 2026-09-14 ~8:45am PDT — 🔴⭐⭐⭐⭐ **MONDAY SCOREBOARD — ALL FOUR PRE-REGISTERED DISCRIMINATORS SCORED LIVE (settled per rule 22, entered once).** *(H.15 
-- `2026-09-14` [rates-board.md:L3509](../rates-board.md) — Addendum 2026-09-14 ~9:15am PDT — ⭐⭐⭐⭐⭐ **SEPT 30, 8:30am ET, REGISTERED AS THE DATED ARBITER OF LAST NIGHT'S GS-vs-JAKE ENTRY: **BEA'S ANNUAL UPDATE 
-- `2026-09-14` [rates-board.md:L3515](../rates-board.md) — 2026-09-14 ~5:15pm PDT — 🔴⭐⭐⭐⭐⭐ **MONDAY CLOSE (evening fragility scan; settled per rule 22, entered once): THE ROUND TRIP — 10Y BROKE 5% INTRADAY (5.
-- `2026-09-14` [rates-board.md:L3523](../rates-board.md) — Addendum 2026-09-14 ~7:35pm PDT — ⭐⭐⭐⭐ **PRE-FOMC, JAKE: "PRO-HIKES" — REAL WAGES **−0.3% y/y, FIVE MONTHS NEGATIVE** (Rattner chart, BLS/FRED: wages 
-- `2026-09-15` [rates-board.md:L3531](../rates-board.md) — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **TUESDAY PRE-FED SCOREBOARD: 10Y 5.041 OVERNIGHT (HIGHEST SINCE JUL-2007), HOLDING ~5.00 INTO THE OPEN — NOT ABSORBED 
-- `2026-09-15` [rates-board.md:L3547](../rates-board.md) — Addendum 2026-09-15 ~10:10am PDT — **THE SIX-PANEL GLOBAL CHART: JAPAN IS THE ANCHOR DEPARTURE.** *(Jake chart `raw/2026-09-15-global-10y-six-panel-ch
-- `2026-09-15` [rates-board.md:L3552](../rates-board.md) — 2026-09-15 ~10:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE $13B 20Y REOPENING: RECORD STOP 5.420%, 2.0bp TAIL (BIGGEST SINCE DEC-2024), INDIRECTS 52.5% — A RECORD LOW FOR
-- `2026-09-15` [rates-board.md:L3566](../rates-board.md) — Addendum 2026-09-15 ~10:20am PDT — **THE BESSENT HEARING vs THE 20Y TAPE: TREASURY'S DIAGNOSIS AND THE MARGINAL CLEARING PRICE OF DURATION NOW DISAGRE
-- `2026-09-15` [rates-board.md:L3574](../rates-board.md) — 2026-09-15 close (entered 9/16, per the approved 9/15 scan) — ⭐⭐⭐⭐⭐⭐ **THE STATE CHANGE: YESTERDAY 5% BROUGHT THE BUYERS; TODAY 5% BECAME THE CLOSE. 3
+- `2026-09-14` [rates-board.md:L3503](../rates-board.md) — 2026-09-14 ~8:45am PDT — 🔴⭐⭐⭐⭐ **MONDAY SCOREBOARD — ALL FOUR PRE-REGISTERED DISCRIMINATORS SCORED LIVE (settled per rule 22, entered once).** *(H.15 
+- `2026-09-14` [rates-board.md:L3512](../rates-board.md) — Addendum 2026-09-14 ~9:15am PDT — ⭐⭐⭐⭐⭐ **SEPT 30, 8:30am ET, REGISTERED AS THE DATED ARBITER OF LAST NIGHT'S GS-vs-JAKE ENTRY: **BEA'S ANNUAL UPDATE 
+- `2026-09-14` [rates-board.md:L3518](../rates-board.md) — 2026-09-14 ~5:15pm PDT — 🔴⭐⭐⭐⭐⭐ **MONDAY CLOSE (evening fragility scan; settled per rule 22, entered once): THE ROUND TRIP — 10Y BROKE 5% INTRADAY (5.
+- `2026-09-14` [rates-board.md:L3526](../rates-board.md) — Addendum 2026-09-14 ~7:35pm PDT — ⭐⭐⭐⭐ **PRE-FOMC, JAKE: "PRO-HIKES" — REAL WAGES **−0.3% y/y, FIVE MONTHS NEGATIVE** (Rattner chart, BLS/FRED: wages 
+- `2026-09-15` [rates-board.md:L3534](../rates-board.md) — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **TUESDAY PRE-FED SCOREBOARD: 10Y 5.041 OVERNIGHT (HIGHEST SINCE JUL-2007), HOLDING ~5.00 INTO THE OPEN — NOT ABSORBED 
+- `2026-09-15` [rates-board.md:L3550](../rates-board.md) — Addendum 2026-09-15 ~10:10am PDT — **THE SIX-PANEL GLOBAL CHART: JAPAN IS THE ANCHOR DEPARTURE.** *(Jake chart `raw/2026-09-15-global-10y-six-panel-ch
+- `2026-09-15` [rates-board.md:L3555](../rates-board.md) — 2026-09-15 ~10:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE $13B 20Y REOPENING: RECORD STOP 5.420%, 2.0bp TAIL (BIGGEST SINCE DEC-2024), INDIRECTS 52.5% — A RECORD LOW FOR
+- `2026-09-15` [rates-board.md:L3569](../rates-board.md) — Addendum 2026-09-15 ~10:20am PDT — **THE BESSENT HEARING vs THE 20Y TAPE: TREASURY'S DIAGNOSIS AND THE MARGINAL CLEARING PRICE OF DURATION NOW DISAGRE
+- `2026-09-15` [rates-board.md:L3577](../rates-board.md) — 2026-09-15 close (entered 9/16, per the approved 9/15 scan) — ⭐⭐⭐⭐⭐⭐ **THE STATE CHANGE: YESTERDAY 5% BROUGHT THE BUYERS; TODAY 5% BECAME THE CLOSE. 3
 - `2026-09-16` [ai-financing-fragility.md:L8299](../ai-financing-fragility.md) — 2026-09-16 ~6:40pm PDT — ⭐⭐⭐⭐⭐ **THE TRANSMISSION BEGINS FROM THE BOTTOM: HY/BB/B +6bp WITH IG PINNED AT 80 — AND AI-SPECIFIC PAPER IS WHERE INVESTORS
 - `2026-09-16` [ai-financing-fragility.md:L8310](../ai-financing-fragility.md) — 2026-09-16 ~7:15pm PDT — ⭐⭐⭐⭐ **FDIC CHART 7: BANK UNREALIZED LOSSES $326.7B, GROWING TWO STRAIGHT QUARTERS — AS OF JUNE 30, BEFORE THIS MONTH'S CURVE
-- `2026-09-16` [rates-board.md:L3585](../rates-board.md) — 2026-09-16 ~6:40pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **FOMC: 25bp TO 3.75-4.00 UNANIMOUS, DOTS 4.1 (ANOTHER HIKE), GROWTH MARKED UP — AND THE 30Y **FELL** ON A MAXIMALLY 
-- `2026-09-16` [rates-board.md:L3598](../rates-board.md) — Addendum 2026-09-16 ~7:15pm PDT — ⭐⭐⭐⭐ **THE 5% HISTORY (Jake's Q, FRED-pinned): BOTH PRIOR TOUCHES WERE THE CYCLE TOP IN YIELDS WITHIN DAYS — AND THE
-- `2026-09-16` [rates-board.md:L3603](../rates-board.md) — Addendum 2026-09-16 ~7:40pm PDT (Y'd 9/17) — **WHAT THE HIKE DOES TO THE DEFICIT AND DEBT SERVICE (MSPD-pinned, Aug-31 stock): THE HIKE IS CHEAP; THE 
+- `2026-09-16` [rates-board.md:L3588](../rates-board.md) — 2026-09-16 ~6:40pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **FOMC: 25bp TO 3.75-4.00 UNANIMOUS, DOTS 4.1 (ANOTHER HIKE), GROWTH MARKED UP — AND THE 30Y **FELL** ON A MAXIMALLY 
+- `2026-09-16` [rates-board.md:L3601](../rates-board.md) — Addendum 2026-09-16 ~7:15pm PDT — ⭐⭐⭐⭐ **THE 5% HISTORY (Jake's Q, FRED-pinned): BOTH PRIOR TOUCHES WERE THE CYCLE TOP IN YIELDS WITHIN DAYS — AND THE
+- `2026-09-16` [rates-board.md:L3606](../rates-board.md) — Addendum 2026-09-16 ~7:40pm PDT (Y'd 9/17) — **WHAT THE HIKE DOES TO THE DEFICIT AND DEBT SERVICE (MSPD-pinned, Aug-31 stock): THE HIKE IS CHEAP; THE 
 - `2026-09-19` [ai-financing-fragility.md:L8319](../ai-financing-fragility.md) — 2026-09-19 ~12:30pm PDT (covers Thu-Fri; settled per rule 22) — ⭐⭐⭐⭐⭐⭐ **THE FUNDING-SIDE WEEK: THE ORCL GUARANTEE SENTENCE VANISHES · CRWV TAPS CONVE
 - `2026-09-19` [ai-financing-fragility.md:L8333](../ai-financing-fragility.md) — 2026-09-19 ~10:10pm PDT — ⭐⭐⭐⭐⭐⭐ **THE $3.1T DECOMPOSED PER COMPANY (MORGAN STANLEY) · A REPORTED $500B NVDA CHIP FACILITY WITH 25% RVS · NIPPON LIFE'
-- `2026-09-19` [rates-board.md:L3608](../rates-board.md) — 2026-09-19 ~12:30pm PDT (covers Thu-Fri, settled per rule 22) — ⭐⭐⭐⭐⭐⭐ **THE POST-HIKE VERDICT: FULL-CURVE REAL-LED RALLY THURSDAY, CREDIT TIGHTENED A
+- `2026-09-19` [rates-board.md:L3611](../rates-board.md) — 2026-09-19 ~12:30pm PDT (covers Thu-Fri, settled per rule 22) — ⭐⭐⭐⭐⭐⭐ **THE POST-HIKE VERDICT: FULL-CURVE REAL-LED RALLY THURSDAY, CREDIT TIGHTENED A
 - `2026-09-20` [ai-financing-fragility.md:L8345](../ai-financing-fragility.md) — 2026-09-20 ~5:35pm PDT — ⭐⭐⭐⭐⭐⭐ **PROJECT JUPITER: THE $18B LOAN QUOTED 89-91 WITH SYNDICATION STALLED AT ~9-26% COMPLETION — "FINANCING FLASHING DIST
 - `2026-09-20` [ai-financing-fragility.md:L8364](../ai-financing-fragility.md) — 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐ **WHY THE FINANCING LEG IS SYSTEMIC WHERE THE PHYSICAL LEGS ARE LOCAL (Jake's question, answered and adopted): THE PHY
-- `2026-09-20` [rates-board.md:L3621](../rates-board.md) — 2026-09-20 ~11:30am PDT — ⭐⭐⭐⭐⭐ **THE CREDIT BRIDGE + THE FREIGHT PIPELINE: THE DELAYED-DEMAND-COLLAPSE MECHANISM (Jake's frame, adopted) — A MATURE S
+- `2026-09-20` [rates-board.md:L3624](../rates-board.md) — 2026-09-20 ~11:30am PDT — ⭐⭐⭐⭐⭐ **THE CREDIT BRIDGE + THE FREIGHT PIPELINE: THE DELAYED-DEMAND-COLLAPSE MECHANISM (Jake's frame, adopted) — A MATURE S
 - `2026-09-21` [ai-financing-fragility.md:L8381](../ai-financing-fragility.md) — 2026-09-21 ~7:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE CAPITAL STRUCTURE COMPLETED TOP-TO-BOTTOM IN SEVEN DAYS — AND THE CLEARING YIELD TRIANGULATED AT ~9-10%: SB ENER
 - `2026-09-21` [ai-financing-fragility.md:L8394](../ai-financing-fragility.md) — Addendum 2026-09-21 ~9:35pm PDT — **THE QUALITY STACK AT OPPOSITE TAILS: CCC 99th PERCENTILE vs IG/BB/B AT THE 0-4th — RECORD INTRA-CREDIT DISPERSION,
 - `2026-09-21` [hyperscaler-credit.md:L576](../hyperscaler-credit.md) — 2026-09-21 ~9:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE FORTRESS-IMPLICATION LADDER, ALREADY PRICED: THE CDS PANEL ORDERS THE COHORT BY CONTINGENT-EXPOSURE-TO-CUSHION —
-- `2026-09-21` [rates-board.md:L3632](../rates-board.md) — 2026-09-21 (entered ~7:45pm PT) — ⭐⭐⭐⭐ **THE WEEK-AHEAD BOARD + THE MONDAY CLOSE: A REAL-LED BULL FLATTENER WITH BRENT AT $100 — AND THE STREET FORECA
+- `2026-09-21` [rates-board.md:L3635](../rates-board.md) — 2026-09-21 (entered ~7:45pm PT) — ⭐⭐⭐⭐ **THE WEEK-AHEAD BOARD + THE MONDAY CLOSE: A REAL-LED BULL FLATTENER WITH BRENT AT $100 — AND THE STREET FORECA
 - `2026-09-22` [ai-financing-fragility.md:L8398](../ai-financing-fragility.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE DAM GETS TESTED DEAL BY DEAL: AI ISSUERS NOW PAY NEW-ISSUE CONCESSIONS INSIDE INVESTMENT GRADE — AND THE PERIPHER
 - `2026-09-22` [ai-financing-fragility.md:L8408](../ai-financing-fragility.md) — 2026-09-22 ~7:05pm PDT — ⭐⭐⭐⭐⭐⭐ **BEIGNET AT 94.8 (THE $27.29B HYPERION BOND, A+): MOSTLY RATES + META-WIDE WIDENING — THE BASIS TO META'S OWN CURVE I
-- `2026-09-22` [rates-board.md:L3644](../rates-board.md) — 2026-09-22 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE $69B 2Y: A 0.2bp TAIL AND A 47bp LEVEL — "THE TAIL ISN'T THE WARNING. THE LEVEL IS." (Jake's analysis, adopted.)
-- `2026-09-22` [rates-board.md:L3653](../rates-board.md) — 2026-09-22 (entered ~6:50pm PT) — **TUESDAY CLOSE: A FRONT-END BULL STEEPENER, THE 2Y CLEARS 4.787% ON SOLID DEMAND, REAL YIELDS TICK UP — AND MARKS S
-- `2026-09-23` [rates-board.md:L3659](../rates-board.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐⭐ **THE PMIs BLOW OUT (COMPOSITE 58.4) AND THE CURVE REPRICES THE FED PATH BELLY-FIRST: 3Y/5Y +10bp, 10Y TO 5.05% — A NEW
+- `2026-09-22` [rates-board.md:L3647](../rates-board.md) — 2026-09-22 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE $69B 2Y: A 0.2bp TAIL AND A 47bp LEVEL — "THE TAIL ISN'T THE WARNING. THE LEVEL IS." (Jake's analysis, adopted.)
+- `2026-09-22` [rates-board.md:L3656](../rates-board.md) — 2026-09-22 (entered ~6:50pm PT) — **TUESDAY CLOSE: A FRONT-END BULL STEEPENER, THE 2Y CLEARS 4.787% ON SOLID DEMAND, REAL YIELDS TICK UP — AND MARKS S
+- `2026-09-23` [ai-financing-fragility.md:L8421](../ai-financing-fragility.md) — 2026-09-23 ~7:57am PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐ **ANTHROPIC / STREAM: UP TO 1GW LEASED DIRECTLY, POSSIBLY WITH A GOOGLE CREDIT GUARANTEE — THE NE
+- `2026-09-23` [hyperscaler-credit.md:L591](../hyperscaler-credit.md) — 2026-09-23 ~3:21pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐⭐ **12/12 WIDER ON THE RATE-SHOCK DAY — THE FIRST CLEAN STAGE 1 → 2 PROPAGATION. BROAD, NOT RECORD
+- `2026-09-23` [rates-board.md:L3662](../rates-board.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐⭐ **THE PMIs BLOW OUT (COMPOSITE 58.4) AND THE CURVE REPRICES THE FED PATH BELLY-FIRST: 3Y/5Y +10bp, 10Y TO 5.05% — A NEW
+- `2026-09-23` [rates-board.md:L3673](../rates-board.md) — 2026-09-23 ~10:05am-1:25pm PDT (Y'd, entered ~3:50pm) — 🔴🔴🔴 **THE BELLY FAILS: $70B 5Y TAILS 3.2bp (2nd-BIGGEST ON RECORD) INTO A 15bp CONCESSION — WO
+- `2026-09-23` [rates-board.md:L3682](../rates-board.md) — 2026-09-23 ~1:01pm PDT (Y'd, entered ~3:50pm) — ⛔ **CORRECTION: THERE WAS NO 30Y SIZE CUT. $22B IS THE STANDARD REOPENING SIZE.**
