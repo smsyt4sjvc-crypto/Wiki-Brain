@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **997 dated entries · 2026-02-10 → 2026-09-22 · refreshed 2026-09-22 18:50 PDT**
+> **998 dated entries · 2026-02-10 → 2026-09-22 · refreshed 2026-09-22 19:06 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1028,6 +1028,7 @@
 - `2026-09-22` **[1]** rates-board.md:L3644 — 2026-09-22 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE $69B 2Y: A 0.2bp TAIL AND A 47bp LEVEL — "THE TAIL ISN'T THE WARNING. THE LEVEL IS." (Jake's analysis, adopted.)
 - `2026-09-22` **[1]** rates-board.md:L3653 — 2026-09-22 (entered ~6:50pm PT) — **TUESDAY CLOSE: A FRONT-END BULL STEEPENER, THE 2Y CLEARS 4.787% ON SOLID DEMAND, REAL YIELDS TICK UP — AND MARKS S
 - `2026-09-22` **[3]** ai-financing-fragility.md:L8398 — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE DAM GETS TESTED DEAL BY DEAL: AI ISSUERS NOW PAY NEW-ISSUE CONCESSIONS INSIDE INVESTMENT GRADE — AND THE PERIPHER
+- `2026-09-22` **[3]** ai-financing-fragility.md:L8408 — 2026-09-22 ~7:05pm PDT — ⭐⭐⭐⭐⭐⭐ **BEIGNET AT 94.8 (THE $27.29B HYPERION BOND, A+): MOSTLY RATES + META-WIDE WIDENING — THE BASIS TO META'S OWN CURVE I
 - `2026-09-22` **[5]** metered-compute.md:L3522 — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE JEVONS INSTRUMENT ARRIVES (RAMP AI INDEX, WEEKLY $ VOLUMES) + THE LADDER GAINS A LANDLORD RUNG ($2.58M/MW-YR).** 
 - `2026-09-22` **[5]** compression-thesis.md:L3446 — 2026-09-22 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE AGENTIC WAR OPENS: MUSE GOES #1 → AMAZON BLOCKS IT → A ZERO-DAY LANDS → RECORD CALL VOLUME ABSORBS ALL OF IT. "A
 - `2026-09-22` **[5]** compression-thesis.md:L3459 — 2026-09-22 ~11:10am PDT — ⭐⭐⭐⭐⭐ **−60%: PREMIUM PRICING COMPRESSED BY CHOICE — AND THE MIDDLE OF THE STACK SQUEEZED FROM BOTH ENDS.** *(Settled per ru
