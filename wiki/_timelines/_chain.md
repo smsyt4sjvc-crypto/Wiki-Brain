@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **998 dated entries · 2026-02-10 → 2026-09-22 · refreshed 2026-09-22 19:06 PDT**
+> **1000 dated entries · 2026-02-10 → 2026-09-23 · refreshed 2026-09-23 07:45 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1030,6 +1030,8 @@
 - `2026-09-22` **[3]** ai-financing-fragility.md:L8398 — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE DAM GETS TESTED DEAL BY DEAL: AI ISSUERS NOW PAY NEW-ISSUE CONCESSIONS INSIDE INVESTMENT GRADE — AND THE PERIPHER
 - `2026-09-22` **[3]** ai-financing-fragility.md:L8408 — 2026-09-22 ~7:05pm PDT — ⭐⭐⭐⭐⭐⭐ **BEIGNET AT 94.8 (THE $27.29B HYPERION BOND, A+): MOSTLY RATES + META-WIDE WIDENING — THE BASIS TO META'S OWN CURVE I
 - `2026-09-22` **[5]** metered-compute.md:L3522 — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE JEVONS INSTRUMENT ARRIVES (RAMP AI INDEX, WEEKLY $ VOLUMES) + THE LADDER GAINS A LANDLORD RUNG ($2.58M/MW-YR).** 
+- `2026-09-22` **[5]** metered-compute.md:L3534 — Addendum 2026-09-22 ~11:20pm PDT — **BLACKROCK NAMES COMPUTE A COLLATERALIZABLE ASSET CLASS — EXACTLY AS ITS RESALE VALUE IS BEING GUARANTEED BY THE V
 - `2026-09-22` **[5]** compression-thesis.md:L3446 — 2026-09-22 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE AGENTIC WAR OPENS: MUSE GOES #1 → AMAZON BLOCKS IT → A ZERO-DAY LANDS → RECORD CALL VOLUME ABSORBS ALL OF IT. "A
 - `2026-09-22` **[5]** compression-thesis.md:L3459 — 2026-09-22 ~11:10am PDT — ⭐⭐⭐⭐⭐ **−60%: PREMIUM PRICING COMPRESSED BY CHOICE — AND THE MIDDLE OF THE STACK SQUEEZED FROM BOTH ENDS.** *(Settled per ru
 - `2026-09-22` **[5]** compression-thesis.md:L3465 — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐ **BOTH LABS FLOOR IT THE SAME DAY + ALIBABA'S 5-10T-PARAMETER ROADMAP — THE FOURTH CHINA-ACCELERATES ARTIFACT IN EIGHT D
+- `2026-09-23` **[1]** rates-board.md:L3659 — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐⭐ **THE PMIs BLOW OUT (COMPOSITE 58.4) AND THE CURVE REPRICES THE FED PATH BELLY-FIRST: 3Y/5Y +10bp, 10Y TO 5.05% — A NEW

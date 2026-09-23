@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **237 dated entries across 3 notes · 2026-07-09 → 2026-09-22 · refreshed 2026-09-22 19:06 PDT**
+> **238 dated entries across 3 notes · 2026-07-09 → 2026-09-23 · refreshed 2026-09-23 07:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -256,3 +256,4 @@
 - `2026-09-22` [war-board.md:L5084](../war/war-board.md) — Addendum 2026-09-22 ~12:40pm PDT — ⭐⭐⭐⭐⭐ **CORRECTION + DETENTION: BRENT'S SUB-$100 WAS PRICED ON A REOPENING REPORT IRAN DENIED — AND THE IRGC MOVED 
 - `2026-09-22` [war-board.md:L5092](../war/war-board.md) — Addendum 2026-09-22 ~12:50pm PDT — ⭐⭐⭐⭐⭐ **THE US RUNS ITS OWN TWO TRACKS: TALKS (WITKOFF + KUSHNER, VIA MEDIATORS) · THREAT ("MAY HAVE TO BLOW UP PIC
 - `2026-09-22` [war-board.md:L5101](../war/war-board.md) — Addendum 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **TRIPWIRE #4 APPROXIMATELY FIRING: A 157-STRIKE SAUDI AIR CAMPAIGN IN TWO DAYS AFTER THE RIYADH MISSILE — REP
+- `2026-09-23` [war-board.md:L5106](../war/war-board.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE GUARD FIRES, THE DIPLOMATS NAME THE PRICE: A CARGO SHIP STRUCK IN HORMUZ THE DAY AFTER THE TALKS (RUBIO: "IRAN F

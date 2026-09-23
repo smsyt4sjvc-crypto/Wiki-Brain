@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **480 dated entries across 6 notes · 2026-03-13 → 2026-09-22 · refreshed 2026-09-22 19:06 PDT**
+> **482 dated entries across 6 notes · 2026-03-13 → 2026-09-23 · refreshed 2026-09-23 07:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -505,3 +505,5 @@
 - `2026-09-22` [demand-destruction.md:L4362](../demand-destruction.md) — 2026-09-22 ~10:55am PDT — ⭐⭐⭐⭐⭐ **BAN CLOCK #3 — THE PRESIDENT OVER THE INTERIOR SECRETARY: TRUMP "I'VE CALLED FOR IT TOO" · BESSENT "EXAMINING WHETHE
 - `2026-09-22` [demand-destruction.md:L4374](../demand-destruction.md) — 2026-09-22 ~12:40pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN: "REFINING MARGINS MUST REMAIN ELEVATED TO RESTRAIN CONSUMPTION" — THE CRACK IS THE RATIONING MECHANISM, THR
 - `2026-09-22` [market-fragility.md:L4680](../market-fragility.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐ **BREADTH: SIX STRAIGHT DAYS OF NET NEW 52-WEEK LOWS UNDER A NEAR-HIGH S&P — AND BTIG'S JAN-2000 ANALOG IS MORE EXACT TH
+- `2026-09-22` [market-fragility.md:L4685](../market-fragility.md) — 2026-09-22 ~9:15pm PDT — ⭐⭐⭐⭐ **"THREE COMPANIES WORTH MORE THAN 45 YEARS OF TECH IPOs" — THE CHART MEASURES WHERE CAPITAL FORMATION MOVED AS MUCH AS 
+- `2026-09-23` [demand-destruction.md:L4388](../demand-destruction.md) — 2026-09-23 ~7:45am PDT — **EIA: QUADRANT ONE ON THE TANKS — CRUDE BUILDS (CUSHING-LED) WHILE PRODUCTS DRAW; THE SPR DRAIN CONTINUES.** *(EIA via ZH `r

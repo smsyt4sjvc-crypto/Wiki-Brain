@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **247 dated entries across 2 notes · 2026-03-13 → 2026-09-22 · refreshed 2026-09-22 19:06 PDT**
+> **249 dated entries across 2 notes · 2026-03-13 → 2026-09-23 · refreshed 2026-09-23 07:45 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -272,3 +272,5 @@
 - `2026-09-20` [demand-destruction.md:L4358](../demand-destruction.md) — Addendum 2026-09-20 ~12:05pm PT — **BAN CLOCK UPDATE #2: GRASSLEY DEMANDS IMPLEMENTATION (the harvest vector) — THE TRIPWIRE DIAL AT ~$6.50 AND ACCELE
 - `2026-09-22` [demand-destruction.md:L4362](../demand-destruction.md) — 2026-09-22 ~10:55am PDT — ⭐⭐⭐⭐⭐ **BAN CLOCK #3 — THE PRESIDENT OVER THE INTERIOR SECRETARY: TRUMP "I'VE CALLED FOR IT TOO" · BESSENT "EXAMINING WHETHE
 - `2026-09-22` [demand-destruction.md:L4374](../demand-destruction.md) — 2026-09-22 ~12:40pm PDT — ⭐⭐⭐⭐⭐ **GOLDMAN: "REFINING MARGINS MUST REMAIN ELEVATED TO RESTRAIN CONSUMPTION" — THE CRACK IS THE RATIONING MECHANISM, THR
+- `2026-09-23` [demand-destruction.md:L4388](../demand-destruction.md) — 2026-09-23 ~7:45am PDT — **EIA: QUADRANT ONE ON THE TANKS — CRUDE BUILDS (CUSHING-LED) WHILE PRODUCTS DRAW; THE SPR DRAIN CONTINUES.** *(EIA via ZH `r
+- `2026-09-23` [oil-value-chain.md:L2908](../oil-value-chain.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐ **THE FREIGHT WEDGE WIDENS US REFINERS' EDGE: ASIA PAYS ~$15-20/BBL TO MOVE GULF CRUDE WHILE US GULF COAST RUNS A SOFTEN
