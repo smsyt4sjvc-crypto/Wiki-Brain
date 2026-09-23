@@ -86,8 +86,11 @@ def main():
     ap.add_argument("--asof", default=date.today().isoformat())
     ap.add_argument("--top", type=int, default=5)
     ap.add_argument("--no-beta", action="store_true")
+    ap.add_argument("--book", action="store_true", help="score the registered book(s) in data/money/book.csv")
     a = ap.parse_args()
     asof = datetime.strptime(a.asof, "%Y-%m-%d").date()
+    if a.book:
+        return score_book()
     marks = load_marks(asof)
 
     tal = defaultdict(lambda: {"bull": 0.0, "flat": 0.0, "bear": 0.0, "mom": 0.0,
@@ -138,6 +141,36 @@ def main():
         side = "BULL" if net > 0 else "BEAR"
         flag = "  ⚠️ weak link" if abs(b["corr"]) < 0.2 else ""
         print(f"  {i}. {tk:6} {side}  net {net:+.1f}  {b['sens']:+.2f}%/1σ {drv} (corr {b['corr']:+.2f})  score {sc:+.2f}{flag}")
+
+
+def last_close(tk):
+    ac = "etf" if tk in ETFS else "stocks"
+    url = f"https://api.nasdaq.com/api/quote/{tk}/info?assetclass={ac}"
+    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=25) as fh:
+        d = json.load(fh)["data"]
+    s = d.get("secondaryData") or d["primaryData"]   # secondaryData = REGULAR-session close after hours
+    return float(s["lastSalePrice"].replace("$", "").replace(",", ""))
+
+
+def score_book():
+    """Score each open position vs its registered stop / T1 / T2 (closing basis).
+    Event exits are NOT automatic — they are printed so the close review checks them."""
+    path = os.path.join(ROOT, "data", "money", "book.csv")
+    print("REGISTERED BOOK — stop = one weekly sigma (closing basis) · half off at T1, then stop to breakeven\n")
+    for r in csv.DictReader(open(path)):
+        if r["status"] != "open":
+            continue
+        e, st, t1, t2 = (float(r[k]) for k in ("entry", "stop", "t1", "t2"))
+        try:
+            px = last_close(r["ticker"])
+        except Exception as ex:
+            print(f"  {r['ticker']:5} ⚠️ no quote: {ex}"); continue
+        sgn = 1 if r["side"] == "long" else -1
+        pnl = sgn * (px / e - 1) * 100
+        hit = ("STOPPED" if sgn * (px - st) <= 0 else "T2 ✔" if sgn * (px - t2) >= 0
+               else "T1 ✔ (stop→BE)" if sgn * (px - t1) >= 0 else "live")
+        print(f"  {r['ticker']:5} {r['side']:5} entry {e:>9.2f}  now {px:>9.2f}  {pnl:+6.2f}%  "
+              f"stop {st} · T1 {t1} · T2 {t2}  [{hit}]\n        event exit: {r['event_exit']}")
 
 
 if __name__ == "__main__":

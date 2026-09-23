@@ -30,6 +30,12 @@ consumer staples, energy, ect. I care about money.").** Replaces the 1-10 number
 - **Tankers trade on FREIGHT, not crude:** FRO/DHT/INSW/STNG/TRMD vs BNO corr 0.08-0.18; vs BWET
   0.32-0.58. ⇒ **the driver must be what the name actually trades on, not what the story says.**
 
+### ⭐ CUMULATIVE, NOT DAILY (Jake, 2026-09-23 3:48pm: "The rankings are accumulative not daily")
+- The ranking is the **running 120-day sum of marks**, not the day's inputs. **Backfilled 9/23 from the frozen 16c
+  ledger** so September's record counts: grade **9 → +3 bull · 8 → +2 · 7 → +1 · 6 → FLAT 1 · 5 → −1 bear · 4 → −2 ·
+  ≤3 → −3**, each dated to its grade date (so it expires on schedule); 50 names; pointer = the grades.md row.
+- **The registered book** (`data/money/book.csv`) is scored at every close: `python3 tools/money_board.py --book`.
+
 ## THE IMPLICATION MAP (THESIS — analysis; the tape's correlation column validates or kills each link)
 *Event class → who it implicates, both directions, any sector. Grows with every new event type.*
 - **SHIPPING / CHOKEPOINT CONSTRAINED (Hormuz, Red Sea):** BULL crude tankers FRO/DHT/INSW ·
@@ -85,3 +91,20 @@ when the pending entries file.
 - **New marks:** ICE CDS 12/12 wider → BEAR ORCL/CRWV (w=1, TLT) · AVGO CDS +6.8 → BEAR AVGO (w=1, SOXX) · Rezaei Gulf-airport threat → BEAR UAL/BA, BULL RTX/LMT/NOC (w=0.5) · Rezaei 4-5 day Hormuz ultimatum → BULL FRO/DHT/INSW (w=0.5, BWET) · truce extension (REPORTED) → BULL AAPL/TSLA/NKE (w=0.5).
 - **💰 TOP 5 (9/23 close, final):** 1. **UAL BEAR** −4.27 (BNO, corr −0.73) · 2. **DHI BEAR** −3.77 (TLT, +0.59) · 3. **LEN BEAR** −3.64 (TLT, +0.53) · 4. **ORCL BEAR** −3.63 (TLT, corr +0.35) · 5. **DHT BULL** +3.60 (BWET, +0.58). *Out: ETN +3.16 · CCL −2.96.*
 - **THESIS:** the board now reads **short the rate channel (homebuilders, ORCL) and the fuel channel (airlines), long freight (DHT)** — every name in it has |corr| ≥ 0.35 to its driver. **Forward test: the 9/24 close.** AVGO nets −1 (TPU +0.5 · SASAC −0.5 · CDS −1).
+
+## 📒 REGISTERED BOOK — 2026-09-23 (Y'd 3:54pm; Jake: "top overall stocks to be holding right now with target returns and exit strategy aimed at maximum volatility, momentum and event harvesting")
+**RULES:** stop = one weekly σ (σd20 × √5), CLOSING basis · half off at T1, stop → breakeven, trail one weekly σ · **the event exit overrides price.** Entries = 9/23 regular-session closes (Nasdaq). Sizing is Jake's.
+
+| | name | entry | stop | T1 / T2 | vol · momentum · event | event exit |
+|---|---|---|---|---|---|---|
+| L1 | **DINO** | 106.11 | 100.4 (−5.4%) | 116.6 (+10%, high retest) / 123 (+16%) | σd 2.4% · 3M +62%, +11% vs 50DMA · grade 8 · INLAND = least export-ban exposure | flat ban fires Fri 9/25 → out |
+| L2 | **DHT** | 21.28 | 20.00 (−6.0%) | 23.27 (+9%) / 25.1 (+18%) | σd 2.7% · +9% vs 50DMA · freight corr 0.58 · VLCC ~2× record | verified Hormuz transits resume → out |
+| L3 | **MU** | 1,071.88 | 995 (−7.2%) | 1,160 (+8%) / 1,214 (+13%, prior high) | σd 3.2% · 1M +13% · grade 8 · earnings 9/30 | sell into the print (by 9/30 close) |
+| S1 | **UAL** | 110.72 | 116.7 (+5.4%) | 99.6 (−10%) / 94.1 (−15%) | σd 2.4% · corr −0.73 to Brent · Gulf-airport threat | Hormuz reopening → cover |
+| S2 | **ORCL** | 144.56 | 154.5 (+6.9%) | 130.1 (−10%) / 118.5 (−18%) | σd 3.1% · −40% off high · CDS 224 | SoftBank inside guidance AND IG OAS flat 9/24 → cover |
+| S3 | **LEN** | 81.53 | 86.1 (+5.6%) | 75.0 (−8%) / 70.1 (−14%) | σd 2.5% · rate channel corr +0.53 | 7Y no tail AND 10Y < 5.0 close → cover |
+
+*Alternates: VLO (grade 9, full ban exposure) · FRO (σd 2.9%, −11% off high) · CRWV short (σd 4.4%, but corr 0.16 = weak link, squeeze risk).*
+**⛔ THE BOOK IS TWO BETS, NOT SIX:** DINO + DHT + UAL-short = **"Hormuz stays shut"** (a verified reopening hits all three — long tankers / short airlines is NOT a hedge); ORCL + LEN shorts = **"real rates stay high"** (a clean 7Y + 10Y < 5.0 hits both); MU is the only independent leg. Both clusters are tested within days (7Y 9/24 · ban 9/25 · Rezaei ~9/27-28) — by design.
+**⚠️ Evidence limits:** marks ledger started 9/23; the stop/target rules are vol-scaled conventions, NOT back-tested; no forward score yet.
+**📌 SCORED AT EVERY CLOSE** (`--book`) — hits, stops and event exits logged here, losers as loudly as winners.
