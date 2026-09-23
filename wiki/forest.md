@@ -176,7 +176,15 @@ above-target inflation = repression; gold is the residual claim ([[new-economy-r
 | 8/27 | **Democrats take the House Nov 3** (need "a handful of seats"; Senate tossup; META/PLTR already running subpoena task forces; Musk spending $100M+ the other way = the bullseye) | **STATE EQUITY COMES FOR THE AI LAYER (Jake's March call, corrected): the Trump-built instrument (Intel 10%/MP/Westinghouse 20%) extended by a Dem House — shares in the AI companies as the price of the public support they consume (GPU carve-outs, EO walls, the put). Labs race to IPO ahead of the state's claim; any rescue gets TARP-style warrants; subpoenas = the extraction lever, not the end** | House-control prediction markets = daily gauge · pre-election deal-rush tell · `vault_find "subpoena, midterm"` |
 | 8/25 | **Delaware blocks/conditions Brighthouse, or NAIC/state captive-capital tightening** (Jake's domino: Walter → affiliate scrutiny → captives → DC ABS) | the insurance bid for DC paper thins BY RULE — stage-3 tightening invisible to spread gauges until issuance stalls; the $275B takeout cliff hardens; wrapper premiums widen, negative-FCF issuers first — **and the chain now funds the vendor directly: NVDA-sponsored platforms (Apollo/BlackRock/Blackstone/Brookfield/GS/KKR) raising >$500B for AI infra (8/26) — 8/30: first vehicle NAMED (KKR Helix, $10B+, NVDA + Kuwait SWF + Vistra inside), and the CONVEYOR is measurable: $849B private credit on life-insurer sheets (Chicago Fed) · BX sells under-construction DCs at a gain · FT: SRTs spreading + DC-debt appetite SOFTENING. The watch = sponsors keeping fees while shedding residual equity ([[ai-financing-fragility]] 8/30)** | **BHF deal spread = daily gauge of P(tightening)** · APO archetype · ORCL puts |
 
+## 💰 WHERE'S THE MONEY — daily top 5 at the close (rule 16d · full ledger [[money-board]])
+*score = net marks (bear/flat/bull, evidence-weighted) × % move per 1σ day of the name's driver · longs AND shorts*
+**2026-09-23 (first run — rate shock + fuel shock own the board):**
+1. **DHI BEAR** −3.77 (TLT, corr +0.59) · 2. **LEN BEAR** −3.64 (TLT) · 3. **UAL BEAR** −3.42 (BNO, corr −0.73) ·
+4. **ETN BULL** +3.16 (SPY) · 5. **CCL BEAR** −2.96 (BNO) — day-0: 4/5 moved as marked (not a forecast; forward test = 9/24 close)
+`python3 tools/money_board.py` · `vault_find "money-board"`
+
 ## 🧺 CONFIDENCE BASKET (≤10, audited 8/24 — [[high-confidence-basket]])
+  ⟲ SUPERSEDED 2026-09-23 → money-board.md:L54 — rule 16d: the daily money-board top 5 replaces the confidence basket (kept as history)
 *ticker · the call · the on-file disconfirmer · `vault_find` keywords*
 1. **TSM** — the chokepoint everyone pays · Taiwan concentration **— 8/30: fed concretely (Pentagon non-concur leak: no Pacific carrier, 1/4 destroyers ready, allies told interceptor shelf bare = the deterrence window visibly thinning)** · `TSM, CoWoS, foundry, non-concur`
 2. **MU** — bandwidth binds inference · HBM cycle history · `HBM4, bandwidth, DeepSeek decode`
@@ -190,6 +198,7 @@ above-target inflation = repression; gold is the residual claim ([[new-economy-r
 10. **VLO** — ✅ 9/3: the SUMMIT REVERSAL TRIGGER CLOSED FAVORABLY (Trump asked for MORE capacity — deregulation/permitting/Venezuela absorption — not lower margins; kill-switch n=4 all sparing the crack; EXIT BELL unrung). The state has now formally examined the bottleneck and cannot relieve it inside a decade (3-5yr builds; 400kb/d over 20 YEARS; 128 fewer refineries than 1982; newest 1977) ⇒ the moat is STRONGER after the meeting. New name-level risk: DEFERRED MAINTENANCE at >97% util. Basket HOLDS 9/9/8/8/8/7 — no upgrade, kill-switch #3 already contained the summit. — the divergence live: crack ~$67 while crude falls · **political kill-switch ARMING ($5.65 diesel headlines)** · `crack spread, 140%, NORSI, WPSR`
 
 ## 🔄 ROTATION BASKET (β for the weary-rotation branch — FIRST CUT 8/25, Jake to edit)
+  ⟲ SUPERSEDED 2026-09-23 → money-board.md:L54 — rule 16d: the money board's longs+shorts replace the rotation basket (kept as history)
 - **Long-end duration — SPECIFIC EXPRESSION UPGRADED 8/27: the 20Y sector (0.7bp cheap to 30Y; Citi long-20Y rec; scarcity rallies it hardest if Nov 4 cuts it) over generic TLT-class** — the rotation DELIVERS the long-end bid; Treasury buybacks
   are the other arm · `weary rotation, long-end bid, buyback, TGA`
 - **MSFT over the commitment-shaped** — quality leg of the same rotation · `clean sheet, positive FCF`

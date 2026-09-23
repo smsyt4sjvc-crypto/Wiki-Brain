@@ -44,6 +44,7 @@ so a March entry lands on an August paste. The router prints the path on every m
 6b. [[memory-regime-question]] — dip vs cliff vs revolving demand: THE question for the MU position (opened 7/28)
 7. [[portfolio-state]] — the running truth of the book (+ account constraints)
 8. [[grades]] — the 120-day investment ledger (rule 16c): one grade per name, moved only by material inbounds
+8b. 💰 [[money-board]] — **WHERE'S THE MONEY (rule 16d, 9/23)**: bear/flat/bull marks per input, any sector · daily top 5 by marks × driver sensitivity · the implication map (event → names). Replaces the 1-10 grade number; `tools/money_board.py`.
 
 ## 🤖 AI capex / compression / financing
 - [[ai-capex-cycle]] — the buildout cycle

@@ -168,6 +168,22 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     item's importance and its investability are different axes, and conflating them is how a
     ledger inflates. NR items still get filed, dated and reasoned; they just do not get a
     number.**
+16d. 💰★★★ **WHERE'S THE MONEY — THREE COLUMNS, NOT A NUMBER (set 2026-09-23, Jake: "Where should
+    the money be… give each stock 3 columns. Bearish, flat, bullish and marks point with each data
+    input… Whatever the event we need to assess the implications even if it's not in our universe…
+    I care about money.")** ⛔🔄 **RETIRES THE 1-10 NUMBER OF 16c** (`grades.md` frozen as history;
+    16c's coverage, anti-double-count and NR disciplines carry over to the marks).
+    **(a) Every data input marks EVERY name it implicates, ANY sector** — BEAR / FLAT / BULL —
+    weighted by the evidence ladder: **2** measured · **1** confirmed event · **0.5** reported/talks;
+    a lagged echo of an already-marked shock takes the lower weight. Marks expire at 120 days.
+    **(b) Daily at the close: top 5 by score = (bull − bear) × % move per 1σ day of the name's
+    driver (TLT/BNO/BWET/SOXX/SPY), longs AND shorts** → the 💰 section of [[forest]].
+    `python3 tools/money_board.py` · ledger `data/money/marks.csv` · note [[money-board]]
+    (implication map: event class → names, both directions).
+    **(c) Runs IN SESSION when Jake's closing scan arrives — no cron/Routine without his explicit
+    yes (rule 15).** **(d) The driver must be what the name TRADES on, not what the story says**
+    (tankers: freight, not crude — 9/23), and **a |corr| < 0.2 link is flagged weak**: a mark the
+    tape does not honour carries no money.
 17. **Code delivery: COMPLETE cells only** (iPhone/Colab). Acronyms spelled out at first use.
 18. **End of session: file → link → index → ⏱ TIMELINE → chat-log → commit → push. Every turn pushes.**
     ⏱ **`python3 tools/timeline_header.py --all --threads --chain` AFTER writing entries, BEFORE committing.**
@@ -208,8 +224,9 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     ⚡ **EXTENDED same night (Jake): any finding BIGGER THAN IMPLIED — or one HE catches — gets a
     ⚡ BRANCH in the forest THE SAME TURN it is filed: IF → THEN → INSTRUMENT, dated in, PRUNED
     when resolved ("if xxx does yyy that could send the stock soaring" must be VISIBLE, not buried
-    in a board).** **The forest also holds the CONFIDENCE BASKET and the ROTATION-β BASKET, each
-    line with `vault_find` keywords so the detail pulls in one command.** A branch that resolves
+    in a board).** ~~**The forest also holds the CONFIDENCE BASKET and the ROTATION-β BASKET, each
+    line with `vault_find` keywords so the detail pulls in one command.**~~ 🔄 **9/23: replaced by the
+    💰 WHERE'S THE MONEY daily top 5 (rule 16d); the baskets stay as history.** A branch that resolves
     moves to its board; the forest stays one scroll — prune before adding.
 19. ⭐ **MEASURED 2026-08-23 — `python3 tools/token_profile.py` profiles a session's own transcript
     by task type. FIRST RUN, 1,813 turns: carried-context multiplier 246× · input = 91% of the bill ·
