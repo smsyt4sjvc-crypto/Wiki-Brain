@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **584 dated entries across 4 notes · 2026-05-22 → 2026-09-23 · refreshed 2026-09-23 17:01 PDT**
+> **585 dated entries across 4 notes · 2026-05-22 → 2026-09-23 · refreshed 2026-09-23 17:15 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -609,3 +609,4 @@
 - `2026-09-22` [metered-compute.md:L3534](../metered-compute.md) — Addendum 2026-09-22 ~11:20pm PDT — **BLACKROCK NAMES COMPUTE A COLLATERALIZABLE ASSET CLASS — EXACTLY AS ITS RESALE VALUE IS BEING GUARANTEED BY THE V
 - `2026-09-23` [ai-financing-fragility.md:L8421](../ai-financing-fragility.md) — 2026-09-23 ~7:57am PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐ **ANTHROPIC / STREAM: UP TO 1GW LEASED DIRECTLY, POSSIBLY WITH A GOOGLE CREDIT GUARANTEE — THE NE
 - `2026-09-23` [compression-thesis.md:L3470](../compression-thesis.md) — 2026-09-23 ~7:57am-3:25pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐ **BEIJING MOVES DOWN THE STACK: SASAC SURVEYS BROADCOM'S SWITCHES (UP TO ~90% OF STATE DEP
+- `2026-09-23` [compression-thesis.md:L3477](../compression-thesis.md) — 2026-09-23 ~5:15pm PDT (Y'd) — 📱 **META CONNECT TESTS JAKE'S 7/24 TELECOM CALL: THE FLAT-RATE HALF HAS ARRIVED; THE DEVICE HALF IS ANNOUNCED BUT UNPRO
