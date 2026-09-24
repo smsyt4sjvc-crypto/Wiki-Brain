@@ -109,3 +109,10 @@ reply uses one of these words, this is the lookup. Rule 22b in `CLAUDE.md`. Link
   one weekly σ away**: far enough to survive normal noise, close enough to cap a wrong call.
 - **Momentum / event harvesting.** Ride what's already moving (momentum) into a DATED catalyst (an auction, an
   earnings date, a deadline) and exit on the event (harvesting), rather than holding and hoping.
+- **Rebased index (chart-reading).** Every line is reset to 100 at a start date, so you compare PERCENT moves, not
+  prices: 144 = +44% since the start. **Lines that start on different dates can't be compared to each other** —
+  only to themselves. *(Met: Silicon Data rents-vs-tokens chart, 9/23.)*
+- **GPU rent vs token price (the AI middleman's margin).** Rent = what it costs to run the chips; token price = what
+  AI output sells for. Rent up + tokens down = squeeze on whoever rents chips to sell tokens — UNLESS usage explodes
+  (more tokens per task keeps total spend up). **Money read:** new-chip rents rising = NVIDIA pricing power; the
+  H100's rent falling since August = older GPU fleets losing value (bad for H100-heavy landlords like CoreWeave).

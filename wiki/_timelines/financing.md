@@ -1,6 +1,6 @@
 # ⏱ FINANCING — merged timeline (the gate)
 
-> **268 dated entries across 2 notes · 2026-05-22 → 2026-09-23 · refreshed 2026-09-23 19:00 PDT**
+> **269 dated entries across 2 notes · 2026-05-22 → 2026-09-23 · refreshed 2026-09-23 20:48 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -293,3 +293,4 @@
 - `2026-09-22` [ai-financing-fragility.md:L8398](../ai-financing-fragility.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE DAM GETS TESTED DEAL BY DEAL: AI ISSUERS NOW PAY NEW-ISSUE CONCESSIONS INSIDE INVESTMENT GRADE — AND THE PERIPHER
 - `2026-09-22` [ai-financing-fragility.md:L8408](../ai-financing-fragility.md) — 2026-09-22 ~7:05pm PDT — ⭐⭐⭐⭐⭐⭐ **BEIGNET AT 94.8 (THE $27.29B HYPERION BOND, A+): MOSTLY RATES + META-WIDE WIDENING — THE BASIS TO META'S OWN CURVE I
 - `2026-09-23` [ai-financing-fragility.md:L8421](../ai-financing-fragility.md) — 2026-09-23 ~7:57am PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐ **ANTHROPIC / STREAM: UP TO 1GW LEASED DIRECTLY, POSSIBLY WITH A GOOGLE CREDIT GUARANTEE — THE NE
+- `2026-09-23` [ai-financing-fragility.md:L8429](../ai-financing-fragility.md) — 2026-09-23 ~8:30pm PDT (Y'd) — ⭐⭐⭐⭐ **RENTS vs TOKENS, NINE MONTHS REBASED: THE NEW CHIPS STILL CLIMB, THE TOKEN INDEX HALVED FROM ITS PEAK — AND THE 
