@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **409 dated entries across 3 notes · 2026-02-10 → 2026-09-23 · refreshed 2026-09-23 20:48 PDT**
+> **410 dated entries across 3 notes · 2026-02-10 → 2026-09-23 · refreshed 2026-09-23 21:22 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -433,6 +433,7 @@
 - `2026-09-22` [rates-board.md:L3656](../rates-board.md) — 2026-09-22 (entered ~6:50pm PT) — **TUESDAY CLOSE: A FRONT-END BULL STEEPENER, THE 2Y CLEARS 4.787% ON SOLID DEMAND, REAL YIELDS TICK UP — AND MARKS S
 - `2026-09-23` [ai-financing-fragility.md:L8421](../ai-financing-fragility.md) — 2026-09-23 ~7:57am PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐ **ANTHROPIC / STREAM: UP TO 1GW LEASED DIRECTLY, POSSIBLY WITH A GOOGLE CREDIT GUARANTEE — THE NE
 - `2026-09-23` [ai-financing-fragility.md:L8429](../ai-financing-fragility.md) — 2026-09-23 ~8:30pm PDT (Y'd) — ⭐⭐⭐⭐ **RENTS vs TOKENS, NINE MONTHS REBASED: THE NEW CHIPS STILL CLIMB, THE TOKEN INDEX HALVED FROM ITS PEAK — AND THE 
+- `2026-09-23` [ai-financing-fragility.md:L8436](../ai-financing-fragility.md) — 2026-09-23 ~7:53pm PDT (Y'd) — ⭐⭐⭐⭐ **NSCALE BURIED BYTEDANCE (FT): THE REVENUE IS SMALL — THE CHANNEL IS NOT. CHINA RENTS WHAT IT CAN'T BUY, AND THE 
 - `2026-09-23` [hyperscaler-credit.md:L591](../hyperscaler-credit.md) — 2026-09-23 ~3:21pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐⭐ **12/12 WIDER ON THE RATE-SHOCK DAY — THE FIRST CLEAN STAGE 1 → 2 PROPAGATION. BROAD, NOT RECORD
 - `2026-09-23` [rates-board.md:L3662](../rates-board.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐⭐ **THE PMIs BLOW OUT (COMPOSITE 58.4) AND THE CURVE REPRICES THE FED PATH BELLY-FIRST: 3Y/5Y +10bp, 10Y TO 5.05% — A NEW
 - `2026-09-23` [rates-board.md:L3673](../rates-board.md) — 2026-09-23 ~10:05am-1:25pm PDT (Y'd, entered ~3:50pm) — 🔴🔴🔴 **THE BELLY FAILS: $70B 5Y TAILS 3.2bp (2nd-BIGGEST ON RECORD) INTO A 15bp CONCESSION — WO

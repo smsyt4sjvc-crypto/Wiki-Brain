@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **537 dated entries across 3 notes · 2026-05-22 → 2026-09-23 · refreshed 2026-09-23 20:48 PDT**
+> **538 dated entries across 3 notes · 2026-05-22 → 2026-09-23 · refreshed 2026-09-23 21:22 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -561,4 +561,5 @@
 - `2026-09-22` [market-fragility.md:L4685](../market-fragility.md) — 2026-09-22 ~9:15pm PDT — ⭐⭐⭐⭐ **"THREE COMPANIES WORTH MORE THAN 45 YEARS OF TECH IPOs" — THE CHART MEASURES WHERE CAPITAL FORMATION MOVED AS MUCH AS 
 - `2026-09-23` [ai-financing-fragility.md:L8421](../ai-financing-fragility.md) — 2026-09-23 ~7:57am PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐ **ANTHROPIC / STREAM: UP TO 1GW LEASED DIRECTLY, POSSIBLY WITH A GOOGLE CREDIT GUARANTEE — THE NE
 - `2026-09-23` [ai-financing-fragility.md:L8429](../ai-financing-fragility.md) — 2026-09-23 ~8:30pm PDT (Y'd) — ⭐⭐⭐⭐ **RENTS vs TOKENS, NINE MONTHS REBASED: THE NEW CHIPS STILL CLIMB, THE TOKEN INDEX HALVED FROM ITS PEAK — AND THE 
+- `2026-09-23` [ai-financing-fragility.md:L8436](../ai-financing-fragility.md) — 2026-09-23 ~7:53pm PDT (Y'd) — ⭐⭐⭐⭐ **NSCALE BURIED BYTEDANCE (FT): THE REVENUE IS SMALL — THE CHANNEL IS NOT. CHINA RENTS WHAT IT CAN'T BUY, AND THE 
 - `2026-09-23` [market-fragility.md:L4695](../market-fragility.md) — 2026-09-23 ~12:45pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐ **"THE MOVE/VIX GAP IS THE TRADE" (Jake) — TESTED: THERE IS NO GAP BETWEEN THEM; THE GAP IS IMPL

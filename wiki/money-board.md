@@ -48,6 +48,8 @@ consumer staples, energy, ect. I care about money.").** Replaces the 1-10 number
 - **IG SPREADS TIGHTEN (flatten):** BULL AI-periphery issuers ORCL/CRWV · private-credit managers
   APO/BX/ARES/OWL · issuance-dependent capex chain. **IG WIDENS:** the mirror.
 - **US DIESEL EXPORT BAN:** BEAR VLO/MPC/PSX/PBF (the cap). BULL domestic diesel users ODFL/JBHT
+  ⭐ *(9/23 ~7:55pm, second-order, CONDITIONAL — mark only if the ban FIRES)*: BULL **MUSA** (retail margin — wins flat or partial, waiver or not) · **KEX** (Jones Act barges — ONLY under a flat ban; a waiver erases it) · **GLP** (storage contango + NE retail) · partly priced SUN/CASY/BP/SHEL · BEAR **DAR** (renewable-diesel margin). → [[demand-destruction]] ban #4 addendum.
+- **REMOTE-ACCESS LOOPHOLE CLOSES (chips rented offshore by Chinese firms):** BEAR neoclouds with offshore Chinese tenants (Nscale pre-IPO; ⬜ others) + their lenders · WATCH NVDA (back-door demand + capacity backstop) · the IPO-window channel: a stalled neocloud IPO → BEAR CRWV/NBIS/IREN equity. → [[ai-financing-fragility]] 9/23 Nscale.
   (weak corr to Brent). Europe's crack up (not investable here).
 - **CHINA LOCALIZATION STEP (survey → guidance → ban):** BEAR AVGO/NVDA/AMD; domestic winners
   (Huawei/H3C) not US-listed.
