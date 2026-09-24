@@ -68,6 +68,29 @@ reply uses one of these words, this is the lookup. Rule 22b in `CLAUDE.md`. Link
   the long-run fiscal or inflation picture.
 - **Basis point (bp).** 1/100th of a percent. 5.11% → 5.26% is +15bp.
 
+## WHO SETS WHICH RATE — AND WHICH BOND PROTECTS AGAINST WHAT (Jake's questions, 9/23 night)
+- **Fed funds (overnight rate, 3.75-4.00%)** — the one rate the government CONTROLS. Prices short money: savings,
+  credit cards, bank loans, and FLOATING loans (CoreWeave's, Jupiter's reset off SOFR).
+- **The 10Y (5.11% on 9/23)** — set by the MARKET. Prices long-lived things: mortgages, corporate bonds, and every
+  stock's valuation (future profits are discounted at roughly this rate).
+- **The link: 10Y ≈ the average Fed rate expected over 10 years + a term premium.** The Fed controls the first
+  part; the market sets the second. **When the premium drives the move (now: Fed ~4%, 10Y 5.11%), the Fed has lost
+  control of the number that matters most** — that's how a 4% Fed coexists with 7%+ mortgages.
+- **The single sharpest number: the 10Y REAL yield (2.76%)** — the true cost of money after inflation. It squeezes
+  growth stocks, homebuilders and data-centre projects. **Money:** ORCL/LEN shorts and equity valuations → watch the
+  10Y; CoreWeave's floating loans and SOFR-priced debt → watch the Fed.
+- **TIPS (real-yield bonds) are NOT floating.** The coupon is FIXED; the PRINCIPAL rises with inflation ($1,000 at
+  2% → inflation 3% → principal $1,030 → paid 2% × $1,030 = $20.60). At maturity you get at least the original $1,000.
+- **FRNs (floating-rate notes)** — the INTEREST RATE resets with short rates (Treasury's 2Y FRN resets weekly off the
+  3-month bill). They protect against the FED hiking, not against inflation.
+- **The trap:** the quoted real yield moves daily; **when real yields jump, TIPS PRICES FALL** (9/23: real +13bp,
+  breakevens flat ⇒ TIPS lost money on a day inflation expectations barely moved).
+  | worry | protection |
+  |---|---|
+  | inflation rises | TIPS |
+  | the Fed hikes short rates | FRNs (floaters) |
+  | long real rates rise (9/23's shock) | neither — short maturities or cash |
+
 ## CREDIT (how risky a company's debt looks)
 - **Credit spread.** Extra yield a company pays over Treasuries for being riskier. Wider = more fear.
 - **IG / HY / BBB / CCC.** Ratings buckets. **Investment grade (IG)** = safer (AAA down to BBB); **high yield
