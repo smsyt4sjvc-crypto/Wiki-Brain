@@ -1,6 +1,6 @@
 # ⏱ ALLIANCE — merged timeline (the gate)
 
-> **411 dated entries across 3 notes · 2026-03-13 → 2026-09-23 · refreshed 2026-09-23 17:15 PDT**
+> **412 dated entries across 3 notes · 2026-03-13 → 2026-09-23 · refreshed 2026-09-23 19:00 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -436,3 +436,4 @@
 - `2026-09-23` [oil-value-chain.md:L2908](../oil-value-chain.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐ **THE FREIGHT WEDGE WIDENS US REFINERS' EDGE: ASIA PAYS ~$15-20/BBL TO MOVE GULF CRUDE WHILE US GULF COAST RUNS A SOFTEN
 - `2026-09-23` [war-board.md:L5106](../war/war-board.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE GUARD FIRES, THE DIPLOMATS NAME THE PRICE: A CARGO SHIP STRUCK IN HORMUZ THE DAY AFTER THE TALKS (RUBIO: "IRAN F
 - `2026-09-23` [war-board.md:L5120](../war/war-board.md) — 2026-09-23 ~7:57am-3:25pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐⭐ **THE HARDLINER PUTS A CLOCK ON HORMUZ: REZAEI GIVES WASHINGTON "FOUR TO FIVE DAYS" — AND
+- `2026-09-23` [war-board.md:L5128](../war/war-board.md) — 2026-09-23 ~7:00pm PDT (Y'd) — ⚖️ **THE US-CHINA LEVERAGE LEDGER, BEFORE THE XI DINNER (Thu 9/24, remarks 7:55pm ET = 4:55pm PT, AFTER THE CLOSE): CHI

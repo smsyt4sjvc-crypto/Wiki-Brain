@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **199 dated entries across 2 notes · 2026-07-01 → 2026-09-23 · refreshed 2026-09-23 17:15 PDT**
+> **200 dated entries across 2 notes · 2026-07-01 → 2026-09-23 · refreshed 2026-09-23 19:00 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -218,3 +218,4 @@
 - `2026-09-22` [war-board.md:L5101](../war/war-board.md) — Addendum 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **TRIPWIRE #4 APPROXIMATELY FIRING: A 157-STRIKE SAUDI AIR CAMPAIGN IN TWO DAYS AFTER THE RIYADH MISSILE — REP
 - `2026-09-23` [war-board.md:L5106](../war/war-board.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE GUARD FIRES, THE DIPLOMATS NAME THE PRICE: A CARGO SHIP STRUCK IN HORMUZ THE DAY AFTER THE TALKS (RUBIO: "IRAN F
 - `2026-09-23` [war-board.md:L5120](../war/war-board.md) — 2026-09-23 ~7:57am-3:25pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐⭐ **THE HARDLINER PUTS A CLOCK ON HORMUZ: REZAEI GIVES WASHINGTON "FOUR TO FIVE DAYS" — AND
+- `2026-09-23` [war-board.md:L5128](../war/war-board.md) — 2026-09-23 ~7:00pm PDT (Y'd) — ⚖️ **THE US-CHINA LEVERAGE LEDGER, BEFORE THE XI DINNER (Thu 9/24, remarks 7:55pm ET = 4:55pm PT, AFTER THE CLOSE): CHI
