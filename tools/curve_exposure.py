@@ -19,7 +19,7 @@ Source: SEC XBRL debt-maturity tags (companyconcept API, free) + data/money/curv
 
 Usage:
     python3 tools/curve_exposure.py                          # the exposure table
-    python3 tools/curve_exposure.py --auction 7Y --tail 1.8  # proposed money-board marks (tail > 0.5bp = BEAR)
+    python3 tools/curve_exposure.py --auction 7Y --tail 1.8  # proposed marks: tail > 0.5bp = BEAR (0.5-1.5bp half, >=1.5 full)
     python3 tools/curve_exposure.py --auction 7Y --tail -1.0 # stop-through (< -0.5bp) = BULL
     ... --write                                             # append the proposed marks to data/money/marks.csv
 """
@@ -122,6 +122,9 @@ def main():
     if a.tail is None or abs(a.tail) < 0.5:
         print(f"\n{a.auction}: |tail| < 0.5bp = CLEAN — no marks."); return
     col = "bear" if a.tail > 0 else "bull"
+    # TAIL-SIZE SCALING (Y'd 9/24): 0.5-1.5bp = HALF strength · >=1.5bp = FULL. A 0.7bp tail (9/24 7Y)
+    # is not the same event as a 3.2bp tail (9/23 5Y) and must not mark the same.
+    scale = 1.0 if abs(a.tail) >= 1.5 else 0.5
     prim_b, sec_b = AUCTION[a.auction]
     ev = f"{a.auction} auction {'tail' if a.tail > 0 else 'stop-through'} {a.tail:+.1f}bp -> curve exposure"
     # EXPOSURE at this auction's bucket ($B): refinancing need (due <=2y) if the name ISSUES at this bucket
@@ -145,7 +148,7 @@ def main():
     for tk, amt in sorted(expo.items(), key=lambda z: -(z[1] / (caps.get(z[0]) or mktcap(z[0]) or 1e9))):
         cap = caps.get(tk) or mktcap(tk)
         m = amt / cap if cap else 0
-        w = 1.0 if m >= 0.10 else 0.5 if m >= 0.02 else 0
+        w = (1.0 if m >= 0.10 else 0.5 if m >= 0.02 else 0) * scale
         tag = f"w={w}" if w else "no mark (<2%)"
         print(f"  {tk:6} ${amt:6.1f}B = {100*m:5.1f}% of cap  {col if w else '':4} {tag:14} [{'; '.join(why[tk])}]")
         if w:

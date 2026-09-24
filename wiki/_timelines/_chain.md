@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1008 dated entries · 2026-02-10 → 2026-09-23 · refreshed 2026-09-23 21:22 PDT**
+> **1009 dated entries · 2026-02-10 → 2026-09-24 · refreshed 2026-09-24 11:23 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1043,3 +1043,4 @@
 - `2026-09-23` **[3]** ai-financing-fragility.md:L8436 — 2026-09-23 ~7:53pm PDT (Y'd) — ⭐⭐⭐⭐ **NSCALE BURIED BYTEDANCE (FT): THE REVENUE IS SMALL — THE CHANNEL IS NOT. CHINA RENTS WHAT IT CAN'T BUY, AND THE 
 - `2026-09-23` **[5]** compression-thesis.md:L3470 — 2026-09-23 ~7:57am-3:25pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐ **BEIJING MOVES DOWN THE STACK: SASAC SURVEYS BROADCOM'S SWITCHES (UP TO ~90% OF STATE DEP
 - `2026-09-23` **[5]** compression-thesis.md:L3477 — 2026-09-23 ~5:15pm PDT (Y'd) — 📱 **META CONNECT TESTS JAKE'S 7/24 TELECOM CALL: THE FLAT-RATE HALF HAS ARRIVED; THE DEVICE HALF IS ANNOUNCED BUT UNPRO
+- `2026-09-24` **[1]** rates-board.md:L3689 — 2026-09-24 ~10:05am PDT (Y'd, entered ~11:25am) — 🟡 **THE 7Y: SOFT, NOT A SECOND FAILURE — 0.7bp TAIL AT A 5.085% STOP (HIGHEST SINCE THE 2009 REINTRO
