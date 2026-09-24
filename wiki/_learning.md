@@ -33,6 +33,29 @@ reply uses one of these words, this is the lookup. Rule 22b in `CLAUDE.md`. Link
 - **Buyback.** Treasury buying back old bonds (often to improve trading, or to reshape maturities). **It does not
   reduce what the government has to borrow** — the bonds bought back are replaced with new ones.
 
+## WHO BORROWS WHERE ON THE CURVE (Jake's question, 9/23 — and why it decides which stock an auction hits)
+- **The key fact: a company's OLD fixed-rate bonds don't cost it more when yields rise — the rate is locked.**
+  Bondholders lose (the bond's price falls), but the company's interest bill doesn't change. **The pain lands
+  where the company must borrow NEXT:** debt coming due soon (it has to refinance at today's rates), new deals it
+  plans, and FLOATING-rate loans (their rate resets with short-term rates right away).
+- **Who refinances at which tenor:**
+  | borrower type | issues at | so it's hit by |
+  |---|---|---|
+  | Fortress IG (MSFT, GOOGL, AMZN, META, NVDA, AVGO) | 10-40 years | the 10Y-30Y |
+  | Crossover (ORCL, DELL, INTC) | 5-30 years | the belly AND the long end |
+  | High yield / neoclouds (CRWV, CIFR, WULF, SoftBank) | 3-7 years, often floating | the belly (5Y/7Y) + short rates |
+  | Construction / project loans (Jupiter) | floating | short rates (SOFR, the Fed) |
+  | Homebuyers (LEN, DHI) | 30y mortgage, lives ~7-10y | the 10Y |
+- **Materiality = debt due within 2 years ÷ the company's market value.** CoreWeave: $10.6B due ≈ 22% of its
+  market cap → a failed 5Y hits it directly. Meta: $4.2B ≈ 0.2% → barely registers. **The same auction, very
+  different money.** Tool: `python3 tools/curve_exposure.py --auction 7Y --tail <bp>`.
+- **⚠️ YELLOW FLAG — BACKSTOPS (Jake's idea).** Debt a company doesn't owe but guarantees or backstops (Google →
+  TeraWulf's 7.75% 2030 notes; Meta → Beignet; Oracle → Jupiter's floating loans; NVIDIA → neocloud capacity).
+  "Not their debt per se, and maybe never will be, but scrutinized as if it is to a degree" — and it's usually
+  SHORTER, HIGHER-YIELD paper than the backstopper's own bonds. Counted at half weight. **Money read, first run:
+  for Google the backstops are ~0.5% of its market value — they matter far more to the STARTUPS they prop up
+  than to Google's stock.**
+
 ## YIELDS (what a bond's return is made of)
 - **Nominal yield = real yield + breakeven inflation** (rule 20). The 10Y at 5.11% is the nominal.
 - **Real yield.** The return AFTER inflation, measured by TIPS (inflation-protected Treasuries). **High real
