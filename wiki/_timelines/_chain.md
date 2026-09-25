@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1014 dated entries · 2026-02-10 → 2026-09-24 · refreshed 2026-09-24 20:05 PDT**
+> **1015 dated entries · 2026-02-10 → 2026-09-24 · refreshed 2026-09-24 20:30 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1049,3 +1049,4 @@
 - `2026-09-24` **[2]** hyperscaler-credit.md:L597 — 2026-09-24 ~7:46-7:56pm PDT (Y'd, entered ~8:05pm) — ⭐⭐⭐⭐ **THE MOAT PARADOX (Jake): A FADING MOAT MAKES HYPERSCALERS MORE SENSITIVE TO THE COST OF CA
 - `2026-09-24` **[3]** ai-financing-fragility.md:L8443 — 2026-09-24 close (entered ~7:35pm PDT, Y'd) — ⭐⭐⭐⭐⭐ **THE PRINTS INTO THE ROUT: SOFTBANK PRICES INSIDE GUIDANCE · DIGITAL DRIVE ~9.25% · SANDERSVILLE 
 - `2026-09-24` **[3]** ai-financing-fragility.md:L8453 — 2026-09-24 ~7:34pm PDT (Y'd, entered ~8:05pm) — ⛔ **CORRECTION: JUPITER'S FORCE MAJEURE DOES NOT PUT THE LENDERS AT RISK — ORACLE KEEPS PAYING A "CARR
+- `2026-09-24` **[3]** ai-financing-fragility.md:L8460 — 2026-09-24 ~8:25pm PDT (Y'd, entered ~8:35pm) — ⭐⭐⭐⭐ **ANTHROPIC × AKAMAI: $11.6B / 7 YEARS OF CPUs, PAID FOR PARTLY WITH AN IN-THE-MONEY WARRANT — AG

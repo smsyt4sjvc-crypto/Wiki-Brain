@@ -32,7 +32,7 @@ MARKS = os.path.join(ROOT, "data", "money", "marks.csv")
 UA = {"User-Agent": "research-vault 7bm4q6x5sm@privaterelay.appleid.com"}
 ISSUERS = {"ORCL": 1341439, "META": 1326801, "CRWV": 1769628, "MSFT": 789019, "GOOGL": 1652044,
            "AMZN": 1018724, "NVDA": 1045810, "AVGO": 1730168, "TSLA": 1318605, "DELL": 1571996,
-           "AMD": 2488, "INTC": 50863, "WULF": 1083301, "CIFR": 1819989}
+           "AMD": 2488, "INTC": 50863, "WULF": 1083301, "CIFR": 1819989, "AKAM": 1086222}
 P = "LongTermDebtMaturitiesRepaymentsOfPrincipal"
 TAGS = [("y1", P + "InNextTwelveMonths"), ("y2", P + "InYearTwo"), ("y3", P + "InYearThree"),
         ("y4", P + "InYearFour"), ("y5", P + "InYearFive"), ("after5", P + "AfterYearFive")]
@@ -68,7 +68,7 @@ def mktcap(tk):
 # not mark (outside the 120-day window). Floating debt reprices off SHORT rates (FRONT) immediately.
 ISSUE = {"MSFT": "LONG", "GOOGL": "LONG", "AMZN": "LONG", "META": "LONG", "NVDA": "LONG", "AVGO": "LONG",
          "AMD": "BELLY+LONG", "ORCL": "BELLY+LONG", "DELL": "BELLY+LONG", "INTC": "BELLY+LONG",
-         "TSLA": "BELLY", "CRWV": "BELLY", "WULF": "BELLY", "CIFR": "BELLY"}
+         "TSLA": "BELLY", "CRWV": "BELLY", "WULF": "BELLY", "CIFR": "BELLY", "AKAM": "BELLY"}
 
 
 def profile(tk, cik):
