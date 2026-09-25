@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1021 dated entries · 2026-02-10 → 2026-09-25 · refreshed 2026-09-25 13:25 PDT**
+> **1022 dated entries · 2026-02-10 → 2026-09-25 · refreshed 2026-09-25 13:45 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1056,3 +1056,4 @@
 - `2026-09-25` **[2]** hyperscaler-credit.md:L607 — 2026-09-25 ~12:24pm PDT (Y'd) — ⭐⭐⭐⭐ **THE MOAT-PARADOX TELL, SMALL BUT THREE DAYS RUNNING: ALL FOUR FORTRESS NAMES WIDENING TOGETHER. ORCL 228. GS: T
 - `2026-09-25` **[3]** ai-financing-fragility.md:L8475 — 2026-09-25 ~12:26pm PDT (Y'd) — **ANTHROPIC'S IPO GOVERNANCE: FOUNDERS SEEK 50.1% OF THE VOTE ON ~14% OF THE EQUITY; A ZERO-EQUITY TRUST ELECTS THE BO
 - `2026-09-25` **[4]** ai-capex-cycle.md:L3702 — 2026-09-25 ~6:01am PDT (Y'd ~6:10am) — ⭐⭐⭐⭐ **AUGUST DURABLES: THE AI FOOTPRINT IS IN THE ORDERS — COMMUNICATIONS EQUIPMENT +40% Y/Y, CORE CAPEX NEARL
+- `2026-09-25` **[5]** compression-thesis.md:L3489 — 2026-09-25 ~1:25-1:45pm PDT (Y'd) — ⭐⭐⭐⭐⭐ **JAKE'S TAKEAWAY: CHINA'S OPEN MODELS SPLIT THE MARKET — OPEN SOURCE OWNS VOLUME, FRONTIER OWNS REVENUE — A
