@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **243 dated entries across 3 notes · 2026-07-09 → 2026-09-24 · refreshed 2026-09-25 06:19 PDT**
+> **245 dated entries across 3 notes · 2026-07-09 → 2026-09-25 · refreshed 2026-09-25 06:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -262,3 +262,5 @@
 - `2026-09-24` [buildout-bottleneck-map.md:L1978](../buildout-bottleneck-map.md) — 2026-09-24 ~8:00pm PDT (Y'd, entered ~8:05pm) — 🔴🔴 **TEXAS FREEZES EVERY DATA-CENTER PERMIT (9/21) — THE GRID PATH AND THE BRING-YOUR-OWN-POWER PATH S
 - `2026-09-24` [war-board.md:L5137](../war/war-board.md) — 2026-09-24 ~10:47am PDT (Y'd, entered ~11:25am) — ⭐⭐⭐⭐ **THE THREAT WIDENS THE MAP: "THE FRONT WILL EXPAND… REACHING THE INDIAN OCEAN" IF ATTACKED AGA
 - `2026-09-24` [war-board.md:L5143](../war/war-board.md) — 2026-09-24 ~7:30pm PDT (Y'd) — ⚖️ **THE XI DINNER, SCORED AGAINST THE LEVERAGE LEDGER (`:L5301`): BASE CASE CORRECT — SYMBOLIC + A TRUCE EXTENSION; CH
+- `2026-09-25` [buildout-bottleneck-map.md:L1992](../buildout-bottleneck-map.md) — 2026-09-25 ~6:32am PDT (Y'd ~6:36am) — 🧭⭐⭐⭐⭐⭐ **JUPITER AS THE PERMIT-NAVIGATION BELLWETHER (Jake): "the showcase example… how local politics will be 
+- `2026-09-25` [buildout-bottleneck-map.md:L2007](../buildout-bottleneck-map.md) — 2026-09-25 ~6:22am PDT (Y'd ~6:36am) — 🛰️ **GOOGLE'S SUNCATCHER: THE PERMIT-FREE ESCAPE VALVE — AT ONE TWO-MILLIONTH OF JUPITER'S SCALE. LAUNCHES OCT 
