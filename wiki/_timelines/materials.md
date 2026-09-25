@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **242 dated entries across 3 notes · 2026-07-09 → 2026-09-24 · refreshed 2026-09-24 19:33 PDT**
+> **243 dated entries across 3 notes · 2026-07-09 → 2026-09-24 · refreshed 2026-09-24 20:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -259,5 +259,6 @@
 - `2026-09-23` [war-board.md:L5106](../war/war-board.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE GUARD FIRES, THE DIPLOMATS NAME THE PRICE: A CARGO SHIP STRUCK IN HORMUZ THE DAY AFTER THE TALKS (RUBIO: "IRAN F
 - `2026-09-23` [war-board.md:L5120](../war/war-board.md) — 2026-09-23 ~7:57am-3:25pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐⭐ **THE HARDLINER PUTS A CLOCK ON HORMUZ: REZAEI GIVES WASHINGTON "FOUR TO FIVE DAYS" — AND
 - `2026-09-23` [war-board.md:L5128](../war/war-board.md) — 2026-09-23 ~7:00pm PDT (Y'd) — ⚖️ **THE US-CHINA LEVERAGE LEDGER, BEFORE THE XI DINNER (Thu 9/24, remarks 7:55pm ET = 4:55pm PT, AFTER THE CLOSE): CHI
+- `2026-09-24` [buildout-bottleneck-map.md:L1978](../buildout-bottleneck-map.md) — 2026-09-24 ~8:00pm PDT (Y'd, entered ~8:05pm) — 🔴🔴 **TEXAS FREEZES EVERY DATA-CENTER PERMIT (9/21) — THE GRID PATH AND THE BRING-YOUR-OWN-POWER PATH S
 - `2026-09-24` [war-board.md:L5137](../war/war-board.md) — 2026-09-24 ~10:47am PDT (Y'd, entered ~11:25am) — ⭐⭐⭐⭐ **THE THREAT WIDENS THE MAP: "THE FRONT WILL EXPAND… REACHING THE INDIAN OCEAN" IF ATTACKED AGA
 - `2026-09-24` [war-board.md:L5143](../war/war-board.md) — 2026-09-24 ~7:30pm PDT (Y'd) — ⚖️ **THE XI DINNER, SCORED AGAINST THE LEVERAGE LEDGER (`:L5301`): BASE CASE CORRECT — SYMBOLIC + A TRUCE EXTENSION; CH

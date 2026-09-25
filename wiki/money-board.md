@@ -50,6 +50,7 @@ consumer staples, energy, ect. I care about money.").** Replaces the 1-10 number
 - **US DIESEL EXPORT BAN:** BEAR VLO/MPC/PSX/PBF (the cap). BULL domestic diesel users ODFL/JBHT
   ⭐ *(9/23 ~7:55pm, second-order, CONDITIONAL — mark only if the ban FIRES)*: BULL **MUSA** (retail margin — wins flat or partial, waiver or not) · **KEX** (Jones Act barges — ONLY under a flat ban; a waiver erases it) · **GLP** (storage contango + NE retail) · partly priced SUN/CASY/BP/SHEL · BEAR **DAR** (renewable-diesel margin). → [[demand-destruction]] ban #4 addendum.
 - **REMOTE-ACCESS LOOPHOLE CLOSES (chips rented offshore by Chinese firms):** BEAR neoclouds with offshore Chinese tenants (Nscale pre-IPO; ⬜ others) + their lenders · WATCH NVDA (back-door demand + capacity backstop) · the IPO-window channel: a stalled neocloud IPO → BEAR CRWV/NBIS/IREN equity. → [[ai-financing-fragility]] 9/23 Nscale.
+- **STATE PERMIT HALT / MORATORIUM (Texas 9/21):** BEAR developers + neoclouds with builds in the state (IREN/CIFR/WULF in TX) · BEAR the state's load-growth generators (VST/CEG in ERCOT) · BEAR tenants with unbuilt commitments there (ORCL/Abilene) · orders slip for on-site power (GEV/BE/CAT) · BULL energized, permitted capacity anywhere. → [[buildout-bottleneck-map]] 9/24.
   (weak corr to Brent). Europe's crack up (not investable here).
 - **CHINA LOCALIZATION STEP (survey → guidance → ban):** BEAR AVGO/NVDA/AMD; domestic winners
   (Huawei/H3C) not US-listed.
@@ -128,3 +129,8 @@ when the pending entries file.
 - **⚖️ ORCL EVENT EXIT:** rule = "SoftBank prices inside guidance AND IG OAS flat on 9/24." **SoftBank half FIRED (priced at/inside the tight end); the IG half = ICE's 9/24 print (published 9/25).** But Jupiter's force-majeure notice is NEW Oracle-specific bear news the rule did not anticipate. **Proposal (Jake's call on size): if IG is flat, cover HALF per the rule, hold half for Jupiter.**
 - **LEN:** barely moved (+0.07%) through a +22bp two-day 10Y — homebuilders are NOT tracking the rate shock this week; watch. Cover rule not met.
 - **New marks:** ORCL bear w=1 (Jupiter force majeure) · AAPL/TSLA/NKE bull +0.5 (truce CONFIRMED — upgrade). 7Y curve marks (half strength) and the Safavi threat marks filed earlier today.
+
+### 2026-09-24 ~8:05pm PDT — ⚖️ **ORCL: JAKE HOLDS THE FULL SHORT — A DELIBERATE OVERRIDE OF THE REGISTERED HALF-COVER RULE.**
+- **The rule** (registered 9/23): cover if SoftBank prices inside guidance AND IG OAS is flat on 9/24. SoftBank half FIRED; the IG half = ICE 9/24 (published 9/25).
+- **Jake's call (8:03pm): HOLD, whatever ICE shows.** **Reason on record:** the rule was built on SECTOR credit fear easing; the new risk is ORACLE-SPECIFIC and outside its logic — Jupiter's carry cost (Oracle pays up to 3 yrs for possibly dark capacity; FT) + the Texas permit freeze (Abilene's later phases).
+- **Scoring note:** from here the ORCL leg is scored as an override — if it gives back gains after ICE prints flat, that is logged against the override, not the rule. The stop (154.5, closing basis) still governs.

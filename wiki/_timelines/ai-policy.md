@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **588 dated entries across 4 notes · 2026-05-22 → 2026-09-24 · refreshed 2026-09-24 19:33 PDT**
+> **589 dated entries across 4 notes · 2026-05-22 → 2026-09-24 · refreshed 2026-09-24 20:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -613,3 +613,4 @@
 - `2026-09-23` [compression-thesis.md:L3470](../compression-thesis.md) — 2026-09-23 ~7:57am-3:25pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐ **BEIJING MOVES DOWN THE STACK: SASAC SURVEYS BROADCOM'S SWITCHES (UP TO ~90% OF STATE DEP
 - `2026-09-23` [compression-thesis.md:L3477](../compression-thesis.md) — 2026-09-23 ~5:15pm PDT (Y'd) — 📱 **META CONNECT TESTS JAKE'S 7/24 TELECOM CALL: THE FLAT-RATE HALF HAS ARRIVED; THE DEVICE HALF IS ANNOUNCED BUT UNPRO
 - `2026-09-24` [ai-financing-fragility.md:L8443](../ai-financing-fragility.md) — 2026-09-24 close (entered ~7:35pm PDT, Y'd) — ⭐⭐⭐⭐⭐ **THE PRINTS INTO THE ROUT: SOFTBANK PRICES INSIDE GUIDANCE · DIGITAL DRIVE ~9.25% · SANDERSVILLE 
+- `2026-09-24` [ai-financing-fragility.md:L8453](../ai-financing-fragility.md) — 2026-09-24 ~7:34pm PDT (Y'd, entered ~8:05pm) — ⛔ **CORRECTION: JUPITER'S FORCE MAJEURE DOES NOT PUT THE LENDERS AT RISK — ORACLE KEEPS PAYING A "CARR

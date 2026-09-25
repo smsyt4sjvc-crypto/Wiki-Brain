@@ -1,6 +1,6 @@
 # ⏱ SEMIS — merged timeline (the gate)
 
-> **85 dated entries across 2 notes · 2026-07-09 → 2026-09-22 · refreshed 2026-09-24 19:33 PDT**
+> **86 dated entries across 2 notes · 2026-07-09 → 2026-09-24 · refreshed 2026-09-24 20:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -104,3 +104,4 @@
 - `2026-09-19` [buildout-bottleneck-map.md:L1930](../buildout-bottleneck-map.md) — 2026-09-19 ~12:50pm PDT (settled per rule 22) — ⭐⭐⭐⭐ **TRENDFORCE QUANTIFIES THE GAP — 268 GW BY 2030 — AND ITS OWN CAVEAT IS THE LOAD-BEARING PART: T
 - `2026-09-20` [buildout-bottleneck-map.md:L1935](../buildout-bottleneck-map.md) — 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE GW-DESTRUCTION LEDGER (Jake's compilation, adopted as this board's spine section): "ANNOUNCED DEMAND IS NO LONG
 - `2026-09-22` [buildout-bottleneck-map.md:L1966](../buildout-bottleneck-map.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE IDLE-GPU TEST (Jake's reverse-engineering) + CHINA'S WATTS-FOR-SILICON TRADE + COPPER.** *(Settled per rule 22; E
+- `2026-09-24` [buildout-bottleneck-map.md:L1978](../buildout-bottleneck-map.md) — 2026-09-24 ~8:00pm PDT (Y'd, entered ~8:05pm) — 🔴🔴 **TEXAS FREEZES EVERY DATA-CENTER PERMIT (9/21) — THE GRID PATH AND THE BRING-YOUR-OWN-POWER PATH S

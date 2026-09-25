@@ -1,6 +1,6 @@
 # ⏱ SHEETS — merged timeline (the gate)
 
-> **271 dated entries across 2 notes · 2026-05-22 → 2026-09-24 · refreshed 2026-09-24 19:33 PDT**
+> **272 dated entries across 2 notes · 2026-05-22 → 2026-09-24 · refreshed 2026-09-24 20:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -296,3 +296,4 @@
 - `2026-09-23` [ai-financing-fragility.md:L8429](../ai-financing-fragility.md) — 2026-09-23 ~8:30pm PDT (Y'd) — ⭐⭐⭐⭐ **RENTS vs TOKENS, NINE MONTHS REBASED: THE NEW CHIPS STILL CLIMB, THE TOKEN INDEX HALVED FROM ITS PEAK — AND THE 
 - `2026-09-23` [ai-financing-fragility.md:L8436](../ai-financing-fragility.md) — 2026-09-23 ~7:53pm PDT (Y'd) — ⭐⭐⭐⭐ **NSCALE BURIED BYTEDANCE (FT): THE REVENUE IS SMALL — THE CHANNEL IS NOT. CHINA RENTS WHAT IT CAN'T BUY, AND THE 
 - `2026-09-24` [ai-financing-fragility.md:L8443](../ai-financing-fragility.md) — 2026-09-24 close (entered ~7:35pm PDT, Y'd) — ⭐⭐⭐⭐⭐ **THE PRINTS INTO THE ROUT: SOFTBANK PRICES INSIDE GUIDANCE · DIGITAL DRIVE ~9.25% · SANDERSVILLE 
+- `2026-09-24` [ai-financing-fragility.md:L8453](../ai-financing-fragility.md) — 2026-09-24 ~7:34pm PDT (Y'd, entered ~8:05pm) — ⛔ **CORRECTION: JUPITER'S FORCE MAJEURE DOES NOT PUT THE LENDERS AT RISK — ORACLE KEEPS PAYING A "CARR
