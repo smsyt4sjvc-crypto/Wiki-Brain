@@ -139,3 +139,24 @@ reply uses one of these words, this is the lookup. Rule 22b in `CLAUDE.md`. Link
   AI output sells for. Rent up + tokens down = squeeze on whoever rents chips to sell tokens — UNLESS usage explodes
   (more tokens per task keeps total spend up). **Money read:** new-chip rents rising = NVIDIA pricing power; the
   H100's rent falling since August = older GPU fleets losing value (bad for H100-heavy landlords like CoreWeave).
+
+## HOUSING — WHY CHEAPER MORTGAGES DON'T MAKE HOUSES CHEAPER (Jake's question, 9/25)
+*Jake: "why wouldn't they instead subsidize points on the rate with the financing banks holding a 30Y swap against it"*
+- **Rate buydown / "points."** Paying cash up front to lower a mortgage rate. **Builders already do this** — Lennar
+  and D.R. Horton buy forward mortgage commitments in bulk and hand buyers a below-market rate. The cost comes out of
+  the builder's **gross margin**. *(Met: August new-home sales, 9/25 — sales up, prices down the most on record.)*
+- **Why a subsidy gets eaten by the price.** If every buyer can suddenly afford a bigger payment, sellers raise
+  prices until the monthly payment is back where it was. **Natural experiment: 2020-21, the Fed bought mortgage bonds,
+  rates fell to ~3%, and home prices rose ~40%.** A broad rate subsidy mostly transfers money to whoever owns the
+  houses. A builder's own buydown works only because it's selective — it's a hidden price cut on one house.
+- **Why a 30-year swap is the wrong hedge.** A 30-year mortgage almost never lasts 30 years: people move or refinance,
+  so its real life is ~7-10 years. And when rates fall, borrowers refinance (the loan disappears when it's most
+  valuable to the lender); when rates rise, nobody refinances (the loan gets longer when it's worth least). That
+  **"negative convexity"** is why mortgage investors hedge by constantly buying/selling Treasuries — which itself makes
+  rate swings bigger.
+- **What it costs.** Roughly **~6 points (6% of the loan) to buy 7.1% down to ~5.5%** — on a $400K loan, ~$24K.
+- **The better levers:** more supply (permits, zoning) and **portable / assumable mortgages** (you keep your 3% rate
+  when you move — which unlocks the "locked-in" sellers). ⬜ FHFA floated portability in 2025 (from memory, not verified).
+- **Money read:** buydowns are a margin cost ⇒ in a high-rate market, **builder volume can look fine while profits
+  shrink** — that's the LEN short. The tell is gross margin and incentives, not unit sales.
+

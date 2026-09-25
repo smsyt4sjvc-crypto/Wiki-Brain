@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1023 dated entries · 2026-02-10 → 2026-09-25 · refreshed 2026-09-25 13:57 PDT**
+> **1024 dated entries · 2026-02-10 → 2026-09-25 · refreshed 2026-09-25 16:00 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1053,6 +1053,7 @@
 - `2026-09-24` **[3]** ai-financing-fragility.md:L8467 — 2026-09-24 ~10:02pm PDT (Y'd 9/25 ~6:10am) — ⭐⭐⭐⭐⭐ **BARCLAYS MAPS ORACLE'S FIVE SITES: ~40% OF THE CAPACITY SELF-GENERATES ON GAS — EXACTLY THE PERMI
 - `2026-09-25` **[1]** rates-board.md:L3708 — 2026-09-25 overnight (Y'd ~11:10am) — **JAPAN AS A QUIET RISK TO TREASURY DEMAND (AND TO THE CALM IN STOCKS) · THE FED EASES BANK THRESHOLDS.** *(Bloo
 - `2026-09-25` **[1]** rates-board.md:L3713 — 2026-09-25 close (Y'd ~1:25pm PDT) — 🟠 **A BULL STEEPENER, NOT A PEAK: THE FRONT RALLIED, THE LONG END SOLD OFF — EVEN AS OIL FELL 2%. THE LONG-END PR
+- `2026-09-25` **[1]** rates-board.md:L3721 — 2026-09-25 ~3:15pm PDT (Y'd ~3:55pm) — 🏠 **AUGUST NEW-HOME SALES: VOLUME UP, PRICES DOWN THE MOST ON RECORD — BUILDERS ARE BUYING THE SALES WITH MARGI
 - `2026-09-25` **[2]** hyperscaler-credit.md:L607 — 2026-09-25 ~12:24pm PDT (Y'd) — ⭐⭐⭐⭐ **THE MOAT-PARADOX TELL, SMALL BUT THREE DAYS RUNNING: ALL FOUR FORTRESS NAMES WIDENING TOGETHER. ORCL 228. GS: T
 - `2026-09-25` **[3]** ai-financing-fragility.md:L8475 — 2026-09-25 ~12:26pm PDT (Y'd) — **ANTHROPIC'S IPO GOVERNANCE: FOUNDERS SEEK 50.1% OF THE VOTE ON ~14% OF THE EQUITY; A ZERO-EQUITY TRUST ELECTS THE BO
 - `2026-09-25` **[4]** ai-capex-cycle.md:L3702 — 2026-09-25 ~6:01am PDT (Y'd ~6:10am) — ⭐⭐⭐⭐ **AUGUST DURABLES: THE AI FOOTPRINT IS IN THE ORDERS — COMMUNICATIONS EQUIPMENT +40% Y/Y, CORE CAPEX NEARL
