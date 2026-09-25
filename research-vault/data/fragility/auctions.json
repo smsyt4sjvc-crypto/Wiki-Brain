@@ -1,16 +1,5 @@
 [
  {
-  "date": "2025-04-09",
-  "term": "9-Year 10-Month",
-  "cusip": "91282CMM0",
-  "high_yield": 4.435,
-  "bid_to_cover": 2.67,
-  "indirect": 34194897500.0,
-  "direct": 546000000.0,
-  "dealer": 4162929500.0,
-  "offering": 39000000000.0
- },
- {
   "date": "2025-04-10",
   "term": "29-Year 10-Month",
   "cusip": "912810UG1",
