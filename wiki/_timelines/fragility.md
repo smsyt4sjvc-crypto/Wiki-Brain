@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **460 dated entries across 6 notes · 2026-02-10 → 2026-09-24 · refreshed 2026-09-24 20:30 PDT**
+> **461 dated entries across 6 notes · 2026-02-10 → 2026-09-24 · refreshed 2026-09-25 06:11 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -484,6 +484,7 @@
 - `2026-09-24` [ai-financing-fragility.md:L8443](../ai-financing-fragility.md) — 2026-09-24 close (entered ~7:35pm PDT, Y'd) — ⭐⭐⭐⭐⭐ **THE PRINTS INTO THE ROUT: SOFTBANK PRICES INSIDE GUIDANCE · DIGITAL DRIVE ~9.25% · SANDERSVILLE 
 - `2026-09-24` [ai-financing-fragility.md:L8453](../ai-financing-fragility.md) — 2026-09-24 ~7:34pm PDT (Y'd, entered ~8:05pm) — ⛔ **CORRECTION: JUPITER'S FORCE MAJEURE DOES NOT PUT THE LENDERS AT RISK — ORACLE KEEPS PAYING A "CARR
 - `2026-09-24` [ai-financing-fragility.md:L8460](../ai-financing-fragility.md) — 2026-09-24 ~8:25pm PDT (Y'd, entered ~8:35pm) — ⭐⭐⭐⭐ **ANTHROPIC × AKAMAI: $11.6B / 7 YEARS OF CPUs, PAID FOR PARTLY WITH AN IN-THE-MONEY WARRANT — AG
+- `2026-09-24` [ai-financing-fragility.md:L8467](../ai-financing-fragility.md) — 2026-09-24 ~10:02pm PDT (Y'd 9/25 ~6:10am) — ⭐⭐⭐⭐⭐ **BARCLAYS MAPS ORACLE'S FIVE SITES: ~40% OF THE CAPACITY SELF-GENERATES ON GAS — EXACTLY THE PERMI
 - `2026-09-24` [hyperscaler-credit.md:L597](../hyperscaler-credit.md) — 2026-09-24 ~7:46-7:56pm PDT (Y'd, entered ~8:05pm) — ⭐⭐⭐⭐ **THE MOAT PARADOX (Jake): A FADING MOAT MAKES HYPERSCALERS MORE SENSITIVE TO THE COST OF CA
 - `2026-09-24` [rates-board.md:L3689](../rates-board.md) — 2026-09-24 ~10:05am PDT (Y'd, entered ~11:25am) — 🟡 **THE 7Y: SOFT, NOT A SECOND FAILURE — 0.7bp TAIL AT A 5.085% STOP (HIGHEST SINCE THE 2009 REINTRO
 - `2026-09-24` [rates-board.md:L3694](../rates-board.md) — 2026-09-24 close (entered ~7:35pm PDT, Y'd) — 🔴 **TWO DAYS, +22bp ON THE 10Y — ALL OF IT REAL. THE LONG END JOINS (BEAR STEEPENER) DESPITE A $4.1B BUY

@@ -2079,3 +2079,4 @@ Today's holdings-scan conclusion, filed at 8:35am: **"raw announced GW is becomi
 |---|---|---|---|
 | Sep-21 | **TEXAS — statewide** | Governor directs TCEQ to halt ALL data-center permits pending ERCOT + water audits; update Oct 19 | **State permit freeze (real capacity)** |
 | Sep-24 | **Jupiter (NM), 2.45GW** | Oracle force-majeure notice on POWER SUPPLY after permitting delays from local opposition; Oracle pays carry cost up to 3 yrs if phase 1 misses H1-2027 | **Real-capacity casualty; risk → tenant (ORCL)** |
+| Sep-24 (watch) | **Shackelford County TX, 1.4GW (Oracle/Vantage)** | behind-the-meter gas; first delivery F2Q27 (now) inside the Texas permit freeze — Barclays; ⬜ permits pre-9/21? | **Watch: next force-majeure candidate** |

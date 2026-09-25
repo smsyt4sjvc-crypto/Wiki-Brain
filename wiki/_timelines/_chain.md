@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1015 dated entries · 2026-02-10 → 2026-09-24 · refreshed 2026-09-24 20:30 PDT**
+> **1017 dated entries · 2026-02-10 → 2026-09-25 · refreshed 2026-09-25 06:11 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1050,3 +1050,5 @@
 - `2026-09-24` **[3]** ai-financing-fragility.md:L8443 — 2026-09-24 close (entered ~7:35pm PDT, Y'd) — ⭐⭐⭐⭐⭐ **THE PRINTS INTO THE ROUT: SOFTBANK PRICES INSIDE GUIDANCE · DIGITAL DRIVE ~9.25% · SANDERSVILLE 
 - `2026-09-24` **[3]** ai-financing-fragility.md:L8453 — 2026-09-24 ~7:34pm PDT (Y'd, entered ~8:05pm) — ⛔ **CORRECTION: JUPITER'S FORCE MAJEURE DOES NOT PUT THE LENDERS AT RISK — ORACLE KEEPS PAYING A "CARR
 - `2026-09-24` **[3]** ai-financing-fragility.md:L8460 — 2026-09-24 ~8:25pm PDT (Y'd, entered ~8:35pm) — ⭐⭐⭐⭐ **ANTHROPIC × AKAMAI: $11.6B / 7 YEARS OF CPUs, PAID FOR PARTLY WITH AN IN-THE-MONEY WARRANT — AG
+- `2026-09-24` **[3]** ai-financing-fragility.md:L8467 — 2026-09-24 ~10:02pm PDT (Y'd 9/25 ~6:10am) — ⭐⭐⭐⭐⭐ **BARCLAYS MAPS ORACLE'S FIVE SITES: ~40% OF THE CAPACITY SELF-GENERATES ON GAS — EXACTLY THE PERMI
+- `2026-09-25` **[4]** ai-capex-cycle.md:L3702 — 2026-09-25 ~6:01am PDT (Y'd ~6:10am) — ⭐⭐⭐⭐ **AUGUST DURABLES: THE AI FOOTPRINT IS IN THE ORDERS — COMMUNICATIONS EQUIPMENT +40% Y/Y, CORE CAPEX NEARL

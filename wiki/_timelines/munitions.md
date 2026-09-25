@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **288 dated entries across 2 notes · 2026-05-22 → 2026-09-24 · refreshed 2026-09-24 20:30 PDT**
+> **289 dated entries across 2 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-25 06:11 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -313,3 +313,4 @@
 - `2026-09-23` [war-board.md:L5128](../war/war-board.md) — 2026-09-23 ~7:00pm PDT (Y'd) — ⚖️ **THE US-CHINA LEVERAGE LEDGER, BEFORE THE XI DINNER (Thu 9/24, remarks 7:55pm ET = 4:55pm PT, AFTER THE CLOSE): CHI
 - `2026-09-24` [war-board.md:L5137](../war/war-board.md) — 2026-09-24 ~10:47am PDT (Y'd, entered ~11:25am) — ⭐⭐⭐⭐ **THE THREAT WIDENS THE MAP: "THE FRONT WILL EXPAND… REACHING THE INDIAN OCEAN" IF ATTACKED AGA
 - `2026-09-24` [war-board.md:L5143](../war/war-board.md) — 2026-09-24 ~7:30pm PDT (Y'd) — ⚖️ **THE XI DINNER, SCORED AGAINST THE LEVERAGE LEDGER (`:L5301`): BASE CASE CORRECT — SYMBOLIC + A TRUCE EXTENSION; CH
+- `2026-09-25` [ai-capex-cycle.md:L3702](../ai-capex-cycle.md) — 2026-09-25 ~6:01am PDT (Y'd ~6:10am) — ⭐⭐⭐⭐ **AUGUST DURABLES: THE AI FOOTPRINT IS IN THE ORDERS — COMMUNICATIONS EQUIPMENT +40% Y/Y, CORE CAPEX NEARL

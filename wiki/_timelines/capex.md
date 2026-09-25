@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **168 dated entries across 3 notes · 2026-05-22 → 2026-09-10 · refreshed 2026-09-24 20:30 PDT**
+> **169 dated entries across 3 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-25 06:11 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -193,3 +193,4 @@
 - `2026-09-10` [ai-capex-cycle.md:L3637](../ai-capex-cycle.md) — Addendum 2026-09-10 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **AMAT'S BEST NUMBER IS NOT THE 40% — IT IS THAT **LEADING-EDGE WAFER STARTS HAVE GONE FROM 1 DATA-CENTRE : 4
 - `2026-09-10` [ai-capex-cycle.md:L3655](../ai-capex-cycle.md) — 2026-09-10 ~2:00pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **ORACLE Q1 FY27. THE COMPUTE SIDE IS AS STRONG AS JAKE SAYS AND THE JEVONS READ IS CONFIRMED. ⛔ BUT THE FCF COMPARIS
 - `2026-09-10` [ai-capex-cycle.md:L3690](../ai-capex-cycle.md) — Addendum 2026-09-10 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE LINE THE SUMMARY DID NOT CARRY: **ORACLE'S SOFTWARE REVENUE *MISSED* ($5.55B vs $5.67B) WHILE OCI *BEA
+- `2026-09-25` [ai-capex-cycle.md:L3702](../ai-capex-cycle.md) — 2026-09-25 ~6:01am PDT (Y'd ~6:10am) — ⭐⭐⭐⭐ **AUGUST DURABLES: THE AI FOOTPRINT IS IN THE ORDERS — COMMUNICATIONS EQUIPMENT +40% Y/Y, CORE CAPEX NEARL
