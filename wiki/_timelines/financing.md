@@ -1,6 +1,6 @@
 # ⏱ FINANCING — merged timeline (the gate)
 
-> **274 dated entries across 2 notes · 2026-05-22 → 2026-09-24 · refreshed 2026-09-25 11:11 PDT**
+> **275 dated entries across 2 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-25 13:25 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -299,3 +299,4 @@
 - `2026-09-24` [ai-financing-fragility.md:L8453](../ai-financing-fragility.md) — 2026-09-24 ~7:34pm PDT (Y'd, entered ~8:05pm) — ⛔ **CORRECTION: JUPITER'S FORCE MAJEURE DOES NOT PUT THE LENDERS AT RISK — ORACLE KEEPS PAYING A "CARR
 - `2026-09-24` [ai-financing-fragility.md:L8460](../ai-financing-fragility.md) — 2026-09-24 ~8:25pm PDT (Y'd, entered ~8:35pm) — ⭐⭐⭐⭐ **ANTHROPIC × AKAMAI: $11.6B / 7 YEARS OF CPUs, PAID FOR PARTLY WITH AN IN-THE-MONEY WARRANT — AG
 - `2026-09-24` [ai-financing-fragility.md:L8467](../ai-financing-fragility.md) — 2026-09-24 ~10:02pm PDT (Y'd 9/25 ~6:10am) — ⭐⭐⭐⭐⭐ **BARCLAYS MAPS ORACLE'S FIVE SITES: ~40% OF THE CAPACITY SELF-GENERATES ON GAS — EXACTLY THE PERMI
+- `2026-09-25` [ai-financing-fragility.md:L8475](../ai-financing-fragility.md) — 2026-09-25 ~12:26pm PDT (Y'd) — **ANTHROPIC'S IPO GOVERNANCE: FOUNDERS SEEK 50.1% OF THE VOTE ON ~14% OF THE EQUITY; A ZERO-EQUITY TRUST ELECTS THE BO

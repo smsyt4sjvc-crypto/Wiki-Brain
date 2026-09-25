@@ -1,6 +1,6 @@
 # ⏱ VOL — merged timeline (the gate)
 
-> **178 dated entries across 4 notes · 2026-07-01 → 2026-09-23 · refreshed 2026-09-25 11:11 PDT**
+> **179 dated entries across 4 notes · 2026-07-01 → 2026-09-25 · refreshed 2026-09-25 13:25 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -197,3 +197,4 @@
 - `2026-09-22` [market-fragility.md:L4680](../market-fragility.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐ **BREADTH: SIX STRAIGHT DAYS OF NET NEW 52-WEEK LOWS UNDER A NEAR-HIGH S&P — AND BTIG'S JAN-2000 ANALOG IS MORE EXACT TH
 - `2026-09-22` [market-fragility.md:L4685](../market-fragility.md) — 2026-09-22 ~9:15pm PDT — ⭐⭐⭐⭐ **"THREE COMPANIES WORTH MORE THAN 45 YEARS OF TECH IPOs" — THE CHART MEASURES WHERE CAPITAL FORMATION MOVED AS MUCH AS 
 - `2026-09-23` [market-fragility.md:L4695](../market-fragility.md) — 2026-09-23 ~12:45pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐ **"THE MOVE/VIX GAP IS THE TRADE" (Jake) — TESTED: THERE IS NO GAP BETWEEN THEM; THE GAP IS IMPL
+- `2026-09-25` [market-fragility.md:L4700](../market-fragility.md) — 2026-09-25 ~1:07-1:25pm PDT (Y'd) — ⭐⭐⭐⭐ **MOVE +33% IN TWO DAYS SCORES THE 9/23 CALL — AND JAKE'S "GAP" IS NOW MORE RIGHT THAN IT WAS · BREADTH: 9 ST

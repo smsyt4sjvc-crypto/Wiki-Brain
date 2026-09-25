@@ -134,3 +134,7 @@ when the pending entries file.
 - **The rule** (registered 9/23): cover if SoftBank prices inside guidance AND IG OAS is flat on 9/24. SoftBank half FIRED; the IG half = ICE 9/24 (published 9/25).
 - **Jake's call (8:03pm): HOLD, whatever ICE shows.** **Reason on record:** the rule was built on SECTOR credit fear easing; the new risk is ORACLE-SPECIFIC and outside its logic — Jupiter's carry cost (Oracle pays up to 3 yrs for possibly dark capacity; FT) + the Texas permit freeze (Abilene's later phases).
 - **Scoring note:** from here the ORCL leg is scored as an override — if it gives back gains after ICE prints flat, that is logged against the override, not the rule. The stop (154.5, closing basis) still governs.
+
+### 2026-09-25 (Y'd) — ✔ CORRECTION TO THE ORCL "OVERRIDE": THE RULE WOULD NOT HAVE FIRED.
+- The cover rule required IG OAS **FLAT on 9/24**. ICE 9/24: **IG 79 (+2)** ⇒ the IG half did NOT fire ⇒ the registered rule would not have covered. **Jake's HOLD is rule-consistent; the ORCL leg is scored on the rule, not as an override** (the 9/24 override note stands as the record of intent). ORCL CDS 228 (+13 since 9/22).
+- New marks: AVGO bear 0.5 (CDS +10 in two days) · DINO/VLO/MPC bull 0.5 (Russia keeps diesel home; US swing supplier).

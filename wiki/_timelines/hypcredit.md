@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **419 dated entries across 3 notes · 2026-02-10 → 2026-09-25 · refreshed 2026-09-25 11:11 PDT**
+> **422 dated entries across 3 notes · 2026-02-10 → 2026-09-25 · refreshed 2026-09-25 13:25 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -446,4 +446,7 @@
 - `2026-09-24` [rates-board.md:L3689](../rates-board.md) — 2026-09-24 ~10:05am PDT (Y'd, entered ~11:25am) — 🟡 **THE 7Y: SOFT, NOT A SECOND FAILURE — 0.7bp TAIL AT A 5.085% STOP (HIGHEST SINCE THE 2009 REINTRO
 - `2026-09-24` [rates-board.md:L3694](../rates-board.md) — 2026-09-24 close (entered ~7:35pm PDT, Y'd) — 🔴 **TWO DAYS, +22bp ON THE 10Y — ALL OF IT REAL. THE LONG END JOINS (BEAR STEEPENER) DESPITE A $4.1B BUY
 - `2026-09-24` [rates-board.md:L3703](../rates-board.md) — 2026-09-24 ~7:37pm PDT (Y'd, entered ~8:05pm) — **UBS: OUTSIDE AI, INVESTMENT HAS BEEN IN RECESSION FOR TWO YEARS — SO HIKES SQUEEZE THE WEAK AND MISS
+- `2026-09-25` [ai-financing-fragility.md:L8475](../ai-financing-fragility.md) — 2026-09-25 ~12:26pm PDT (Y'd) — **ANTHROPIC'S IPO GOVERNANCE: FOUNDERS SEEK 50.1% OF THE VOTE ON ~14% OF THE EQUITY; A ZERO-EQUITY TRUST ELECTS THE BO
+- `2026-09-25` [hyperscaler-credit.md:L607](../hyperscaler-credit.md) — 2026-09-25 ~12:24pm PDT (Y'd) — ⭐⭐⭐⭐ **THE MOAT-PARADOX TELL, SMALL BUT THREE DAYS RUNNING: ALL FOUR FORTRESS NAMES WIDENING TOGETHER. ORCL 228. GS: T
 - `2026-09-25` [rates-board.md:L3708](../rates-board.md) — 2026-09-25 overnight (Y'd ~11:10am) — **JAPAN AS A QUIET RISK TO TREASURY DEMAND (AND TO THE CALM IN STOCKS) · THE FED EASES BANK THRESHOLDS.** *(Bloo
+- `2026-09-25` [rates-board.md:L3713](../rates-board.md) — 2026-09-25 close (Y'd ~1:25pm PDT) — 🟠 **A BULL STEEPENER, NOT A PEAK: THE FRONT RALLIED, THE LONG END SOLD OFF — EVEN AS OIL FELL 2%. THE LONG-END PR
