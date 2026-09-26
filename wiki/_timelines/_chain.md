@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1027 dated entries · 2026-02-10 → 2026-09-25 · refreshed 2026-09-25 18:19 PDT**
+> **1029 dated entries · 2026-02-10 → 2026-09-25 · refreshed 2026-09-25 18:55 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1058,7 +1058,9 @@
 - `2026-09-25` **[2]** hyperscaler-credit.md:L607 — 2026-09-25 ~12:24pm PDT (Y'd) — ⭐⭐⭐⭐ **THE MOAT-PARADOX TELL, SMALL BUT THREE DAYS RUNNING: ALL FOUR FORTRESS NAMES WIDENING TOGETHER. ORCL 228. GS: T
 - `2026-09-25` **[2]** hyperscaler-credit.md:L613 — 2026-09-25 ~4:45pm PDT (Y'd ~6:05pm) — ⚠️ **GOLDMAN'S "ONLY 59% OF THE BACKLOG" IS A BEST CASE: IT COUNTS ONE COHORT OF CAPITAL, EXCLUDES THE OFF-BALA
 - `2026-09-25` **[3]** ai-financing-fragility.md:L8475 — 2026-09-25 ~12:26pm PDT (Y'd) — **ANTHROPIC'S IPO GOVERNANCE: FOUNDERS SEEK 50.1% OF THE VOTE ON ~14% OF THE EQUITY; A ZERO-EQUITY TRUST ELECTS THE BO
+- `2026-09-25` **[3]** ai-financing-fragility.md:L8481 — 2026-09-25 ~6:43pm PDT (Y'd ~6:55pm) — 🟠 **BofA: RATES VOL IS PUSHING MONEY OUT OF CREDIT FUNDS — BUT THIS IS *EUROPEAN* EPFR DATA, AND FUNDS ARE NOT 
 - `2026-09-25` **[4]** ai-capex-cycle.md:L3702 — 2026-09-25 ~6:01am PDT (Y'd ~6:10am) — ⭐⭐⭐⭐ **AUGUST DURABLES: THE AI FOOTPRINT IS IN THE ORDERS — COMMUNICATIONS EQUIPMENT +40% Y/Y, CORE CAPEX NEARL
 - `2026-09-25` **[4]** ai-capex-cycle.md:L3710 — 2026-09-25 ~4:55pm PDT (Y'd ~6:05pm) — 🔁 **JAKE'S LOOP, THIRD LEG: THE GROWTH THAT JUSTIFIES HIGHER REAL YIELDS IS ITSELF THE DEBT-FINANCED AI SPENDIN
+- `2026-09-25` **[5]** metered-compute.md:L3538 — 2026-09-25 ~6:50pm PDT (Y'd ~6:55pm) — 🟠 **AI SPENDING IS CONCENTRATING WHILE ADOPTION BROADENS (Apollo/Ramp, verified) — BUT RAMP SEES CARD PAYERS ON
 - `2026-09-25` **[5]** memory-regime-question.md:L1445 — Addendum 2026-09-25 ~1:47pm PDT (Y'd) — **DRAM SPOT HAS PLATEAUED — DDR4 ROLLING OVER (SUPPLY-DRIVEN LEGACY), DDR5 FLAT. JAKE: "AGENTIC IMPACT ON DDR 
 - `2026-09-25` **[5]** compression-thesis.md:L3489 — 2026-09-25 ~1:25-1:45pm PDT (Y'd) — ⭐⭐⭐⭐⭐ **JAKE'S TAKEAWAY: CHINA'S OPEN MODELS SPLIT THE MARKET — OPEN SOURCE OWNS VOLUME, FRONTIER OWNS REVENUE — A
