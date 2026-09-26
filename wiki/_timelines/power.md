@@ -1,6 +1,6 @@
 # ⏱ POWER — merged timeline (the gate)
 
-> **117 dated entries across 3 notes · 2026-06-30 → 2026-09-25 · refreshed 2026-09-25 20:18 PDT**
+> **118 dated entries across 3 notes · 2026-06-30 → 2026-09-25 · refreshed 2026-09-25 20:40 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -139,3 +139,4 @@
 - `2026-09-24` [buildout-bottleneck-map.md:L1978](../buildout-bottleneck-map.md) — 2026-09-24 ~8:00pm PDT (Y'd, entered ~8:05pm) — 🔴🔴 **TEXAS FREEZES EVERY DATA-CENTER PERMIT (9/21) — THE GRID PATH AND THE BRING-YOUR-OWN-POWER PATH S
 - `2026-09-25` [buildout-bottleneck-map.md:L1992](../buildout-bottleneck-map.md) — 2026-09-25 ~6:32am PDT (Y'd ~6:36am) — 🧭⭐⭐⭐⭐⭐ **JUPITER AS THE PERMIT-NAVIGATION BELLWETHER (Jake): "the showcase example… how local politics will be 
 - `2026-09-25` [buildout-bottleneck-map.md:L2007](../buildout-bottleneck-map.md) — 2026-09-25 ~6:22am PDT (Y'd ~6:36am) — 🛰️ **GOOGLE'S SUNCATCHER: THE PERMIT-FREE ESCAPE VALVE — AT ONE TWO-MILLIONTH OF JUPITER'S SCALE. LAUNCHES OCT 
+- `2026-09-25` [buildout-bottleneck-map.md:L2014](../buildout-bottleneck-map.md) — 2026-09-25 ~8:31pm PDT (Y'd ~8:40pm) — 🔌 **"THE ASSET THAT CANNOT BE BOUGHT WITH MONEY": GRID CONNECTION AS THE SCARCE INPUT — A BUILDING TAKES 18-24 

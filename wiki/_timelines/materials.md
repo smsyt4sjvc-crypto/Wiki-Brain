@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **249 dated entries across 3 notes · 2026-07-09 → 2026-09-25 · refreshed 2026-09-25 20:18 PDT**
+> **250 dated entries across 3 notes · 2026-07-09 → 2026-09-25 · refreshed 2026-09-25 20:40 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -264,6 +264,7 @@
 - `2026-09-24` [war-board.md:L5143](../war/war-board.md) — 2026-09-24 ~7:30pm PDT (Y'd) — ⚖️ **THE XI DINNER, SCORED AGAINST THE LEVERAGE LEDGER (`:L5301`): BASE CASE CORRECT — SYMBOLIC + A TRUCE EXTENSION; CH
 - `2026-09-25` [buildout-bottleneck-map.md:L1992](../buildout-bottleneck-map.md) — 2026-09-25 ~6:32am PDT (Y'd ~6:36am) — 🧭⭐⭐⭐⭐⭐ **JUPITER AS THE PERMIT-NAVIGATION BELLWETHER (Jake): "the showcase example… how local politics will be 
 - `2026-09-25` [buildout-bottleneck-map.md:L2007](../buildout-bottleneck-map.md) — 2026-09-25 ~6:22am PDT (Y'd ~6:36am) — 🛰️ **GOOGLE'S SUNCATCHER: THE PERMIT-FREE ESCAPE VALVE — AT ONE TWO-MILLIONTH OF JUPITER'S SCALE. LAUNCHES OCT 
+- `2026-09-25` [buildout-bottleneck-map.md:L2014](../buildout-bottleneck-map.md) — 2026-09-25 ~8:31pm PDT (Y'd ~8:40pm) — 🔌 **"THE ASSET THAT CANNOT BE BOUGHT WITH MONEY": GRID CONNECTION AS THE SCARCE INPUT — A BUILDING TAKES 18-24 
 - `2026-09-25` [war-board.md:L5149](../war/war-board.md) — 2026-09-25 ~6:39am PDT (open scan — NEW ONLY) — **HORMUZ: THE TALKS ARE REAL, THE SHIPS ARE PARTLY MOVING — AND THE SAUDI BYPASS IS NOW A TARGET. UKRA
 - `2026-09-25` [war-board.md:L5157](../war/war-board.md) — 2026-09-25 ~6:42am-11:10am PDT (Y'd) — ⭐⭐⭐⭐ **THE OFFER ROSE IN RANK; THE RESISTANCE CHANGED SIDES; THE TERMS STILL DON'T MEET. ARAGHCHI OWNS A 7-DAY 
 - `2026-09-25` [war-board.md:L5165](../war/war-board.md) — 2026-09-25 ~3:30pm PDT (Y'd ~3:55pm) — ✈️ **THE AIRSPACE WAR: REZAEI'S 9/23 THREAT RUNS IN BOTH DIRECTIONS — IRAQ SHUTS FOUR AIRPORTS, THE UAE SUSPEND
