@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **293 dated entries across 2 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-25 18:06 PDT**
+> **294 dated entries across 2 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-25 18:19 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -318,3 +318,4 @@
 - `2026-09-25` [war-board.md:L5149](../war/war-board.md) — 2026-09-25 ~6:39am PDT (open scan — NEW ONLY) — **HORMUZ: THE TALKS ARE REAL, THE SHIPS ARE PARTLY MOVING — AND THE SAUDI BYPASS IS NOW A TARGET. UKRA
 - `2026-09-25` [war-board.md:L5157](../war/war-board.md) — 2026-09-25 ~6:42am-11:10am PDT (Y'd) — ⭐⭐⭐⭐ **THE OFFER ROSE IN RANK; THE RESISTANCE CHANGED SIDES; THE TERMS STILL DON'T MEET. ARAGHCHI OWNS A 7-DAY 
 - `2026-09-25` [war-board.md:L5165](../war/war-board.md) — 2026-09-25 ~3:30pm PDT (Y'd ~3:55pm) — ✈️ **THE AIRSPACE WAR: REZAEI'S 9/23 THREAT RUNS IN BOTH DIRECTIONS — IRAQ SHUTS FOUR AIRPORTS, THE UAE SUSPEND
+- `2026-09-25` [war-board.md:L5174](../war/war-board.md) — 2026-09-25 ~6:07-6:18pm PDT (Y'd ~6:18pm) — 🔴 **TRUMP REJECTS THE 7-DAY PLAN, KEEPS THE BLOCKADE, EXPECTS TO RESUME BOMBING *AFTER THE MIDTERMS* (WSJ,
