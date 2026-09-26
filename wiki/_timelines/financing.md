@@ -1,6 +1,6 @@
 # ⏱ FINANCING — merged timeline (the gate)
 
-> **276 dated entries across 2 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-25 18:55 PDT**
+> **277 dated entries across 2 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-25 19:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -301,3 +301,4 @@
 - `2026-09-24` [ai-financing-fragility.md:L8467](../ai-financing-fragility.md) — 2026-09-24 ~10:02pm PDT (Y'd 9/25 ~6:10am) — ⭐⭐⭐⭐⭐ **BARCLAYS MAPS ORACLE'S FIVE SITES: ~40% OF THE CAPACITY SELF-GENERATES ON GAS — EXACTLY THE PERMI
 - `2026-09-25` [ai-financing-fragility.md:L8475](../ai-financing-fragility.md) — 2026-09-25 ~12:26pm PDT (Y'd) — **ANTHROPIC'S IPO GOVERNANCE: FOUNDERS SEEK 50.1% OF THE VOTE ON ~14% OF THE EQUITY; A ZERO-EQUITY TRUST ELECTS THE BO
 - `2026-09-25` [ai-financing-fragility.md:L8481](../ai-financing-fragility.md) — 2026-09-25 ~6:43pm PDT (Y'd ~6:55pm) — 🟠 **BofA: RATES VOL IS PUSHING MONEY OUT OF CREDIT FUNDS — BUT THIS IS *EUROPEAN* EPFR DATA, AND FUNDS ARE NOT 
+- `2026-09-25` [ai-financing-fragility.md:L8490](../ai-financing-fragility.md) — 2026-09-25 ~6:56-7:03pm PDT (Y'd ~7:03pm) — 📊 **THE DEMAND-POOL CENSUS (Jake's separate-project report): ~$324B OF VERIFIED USD BONDS SINCE JAN-2025 F

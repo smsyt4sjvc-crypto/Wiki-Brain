@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **546 dated entries across 3 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-25 18:55 PDT**
+> **547 dated entries across 3 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-25 19:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -569,5 +569,6 @@
 - `2026-09-24` [ai-financing-fragility.md:L8467](../ai-financing-fragility.md) — 2026-09-24 ~10:02pm PDT (Y'd 9/25 ~6:10am) — ⭐⭐⭐⭐⭐ **BARCLAYS MAPS ORACLE'S FIVE SITES: ~40% OF THE CAPACITY SELF-GENERATES ON GAS — EXACTLY THE PERMI
 - `2026-09-25` [ai-financing-fragility.md:L8475](../ai-financing-fragility.md) — 2026-09-25 ~12:26pm PDT (Y'd) — **ANTHROPIC'S IPO GOVERNANCE: FOUNDERS SEEK 50.1% OF THE VOTE ON ~14% OF THE EQUITY; A ZERO-EQUITY TRUST ELECTS THE BO
 - `2026-09-25` [ai-financing-fragility.md:L8481](../ai-financing-fragility.md) — 2026-09-25 ~6:43pm PDT (Y'd ~6:55pm) — 🟠 **BofA: RATES VOL IS PUSHING MONEY OUT OF CREDIT FUNDS — BUT THIS IS *EUROPEAN* EPFR DATA, AND FUNDS ARE NOT 
+- `2026-09-25` [ai-financing-fragility.md:L8490](../ai-financing-fragility.md) — 2026-09-25 ~6:56-7:03pm PDT (Y'd ~7:03pm) — 📊 **THE DEMAND-POOL CENSUS (Jake's separate-project report): ~$324B OF VERIFIED USD BONDS SINCE JAN-2025 F
 - `2026-09-25` [market-fragility.md:L4700](../market-fragility.md) — 2026-09-25 ~1:07-1:25pm PDT (Y'd) — ⭐⭐⭐⭐ **MOVE +33% IN TWO DAYS SCORES THE 9/23 CALL — AND JAKE'S "GAP" IS NOW MORE RIGHT THAN IT WAS · BREADTH: 9 ST
 - `2026-09-25` [market-fragility.md:L4708](../market-fragility.md) — 2026-09-25 ~5:10pm PDT (Y'd ~6:05pm) — 📊 **1996-2000 vs 2023-NOW: AT THE SAME AGE THE NASDAQ IS UP THE SAME AMOUNT (+160% vs +159%) — AND THE 90s THEN
