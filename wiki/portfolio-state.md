@@ -132,6 +132,7 @@ weeks as MNST "inexplicably rode overbought RSI / top Bollinger" against it. Clo
 - **Nuclear:** "nuclear names" (specific tickers not itemized here — add when disclosed).
 - **LNG:** Venture Global (**VG**) + Cheniere (**LNG**).
 - **Passed on:** KRE (regional-bank) puts — declined the CRE/regional-bank short.
+  ⟲ SUPERSEDED 2026-09-26 → _calibration.md:L1312 — Jake took the KRE puts in Feb (short-dated) and lost to theta — not 'passed on'
 
 ## THESIS (interpretation — NOT fact)
 - *(user's thesis)* Debasement base case — "he'll inflate anyhow." Political-economy read:
