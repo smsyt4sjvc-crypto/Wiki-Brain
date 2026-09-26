@@ -160,3 +160,16 @@ reply uses one of these words, this is the lookup. Rule 22b in `CLAUDE.md`. Link
 - **Money read:** buydowns are a margin cost ⇒ in a high-rate market, **builder volume can look fine while profits
   shrink** — that's the LEN short. The tell is gross margin and incentives, not unit sales.
 
+## BORROWING AGAINST STOCK (met: Ellison's Oracle pledges, 9/26)
+- **Pledging ≠ selling.** Shares posted as loan collateral stay the owner's (votes, dividends, price exposure); repay and
+  the lender's claim is released. Founders borrow instead of selling to avoid capital-gains tax ("buy, borrow, die").
+- **The loan isn't priced on the company's credit spread** — it's a personal loan priced on the collateral (how volatile
+  and concentrated the stock is, how much is lent against it) and the borrower's wealth. The company's troubles reach the
+  borrower through the STOCK PRICE: a falling, more volatile stock = weaker collateral = lenders ask for more shares or
+  charge more.
+- **Regulation U (the Fed):** a stock-secured loan used to buy or carry public stock ("purpose" loan) can be at most 50%
+  of the collateral's value; other uses ("non-purpose": a private company, real estate) can borrow more. The borrower
+  signs a purpose statement — the bank must know what the money is for.
+- **What's public:** US proxies must report how many shares a director has pledged — NOT the lender, rate, size or terms.
+- **Money read:** the tell of stress is the pledged count RISING after a price drop (lenders calling for collateral).
+
