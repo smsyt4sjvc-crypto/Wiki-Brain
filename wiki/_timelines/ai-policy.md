@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **598 dated entries across 4 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-25 19:05 PDT**
+> **599 dated entries across 4 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-25 20:18 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -622,4 +622,5 @@
 - `2026-09-25` [ai-financing-fragility.md:L8481](../ai-financing-fragility.md) — 2026-09-25 ~6:43pm PDT (Y'd ~6:55pm) — 🟠 **BofA: RATES VOL IS PUSHING MONEY OUT OF CREDIT FUNDS — BUT THIS IS *EUROPEAN* EPFR DATA, AND FUNDS ARE NOT 
 - `2026-09-25` [ai-financing-fragility.md:L8490](../ai-financing-fragility.md) — 2026-09-25 ~6:56-7:03pm PDT (Y'd ~7:03pm) — 📊 **THE DEMAND-POOL CENSUS (Jake's separate-project report): ~$324B OF VERIFIED USD BONDS SINCE JAN-2025 F
 - `2026-09-25` [compression-thesis.md:L3489](../compression-thesis.md) — 2026-09-25 ~1:25-1:45pm PDT (Y'd) — ⭐⭐⭐⭐⭐ **JAKE'S TAKEAWAY: CHINA'S OPEN MODELS SPLIT THE MARKET — OPEN SOURCE OWNS VOLUME, FRONTIER OWNS REVENUE — A
+- `2026-09-25` [compression-thesis.md:L3499](../compression-thesis.md) — 2026-09-25 ~8:00-8:18pm PDT (Y'd ~8:18pm) — 🍼 **THE CAPSTONE (Jake): AN INFANT MARKET FINANCED AS A MATURE ONE. OPEN-WEIGHT PRICES BECOME THE FLOOR; F
 - `2026-09-25` [metered-compute.md:L3538](../metered-compute.md) — 2026-09-25 ~6:50pm PDT (Y'd ~6:55pm) — 🟠 **AI SPENDING IS CONCENTRATING WHILE ADOPTION BROADENS (Apollo/Ramp, verified) — BUT RAMP SEES CARD PAYERS ON
