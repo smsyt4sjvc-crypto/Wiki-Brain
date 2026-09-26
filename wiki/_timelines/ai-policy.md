@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **594 dated entries across 4 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-25 16:00 PDT**
+> **595 dated entries across 4 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-25 18:06 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -617,5 +617,6 @@
 - `2026-09-24` [ai-financing-fragility.md:L8460](../ai-financing-fragility.md) — 2026-09-24 ~8:25pm PDT (Y'd, entered ~8:35pm) — ⭐⭐⭐⭐ **ANTHROPIC × AKAMAI: $11.6B / 7 YEARS OF CPUs, PAID FOR PARTLY WITH AN IN-THE-MONEY WARRANT — AG
 - `2026-09-24` [ai-financing-fragility.md:L8467](../ai-financing-fragility.md) — 2026-09-24 ~10:02pm PDT (Y'd 9/25 ~6:10am) — ⭐⭐⭐⭐⭐ **BARCLAYS MAPS ORACLE'S FIVE SITES: ~40% OF THE CAPACITY SELF-GENERATES ON GAS — EXACTLY THE PERMI
 - `2026-09-25` [ai-capex-cycle.md:L3702](../ai-capex-cycle.md) — 2026-09-25 ~6:01am PDT (Y'd ~6:10am) — ⭐⭐⭐⭐ **AUGUST DURABLES: THE AI FOOTPRINT IS IN THE ORDERS — COMMUNICATIONS EQUIPMENT +40% Y/Y, CORE CAPEX NEARL
+- `2026-09-25` [ai-capex-cycle.md:L3710](../ai-capex-cycle.md) — 2026-09-25 ~4:55pm PDT (Y'd ~6:05pm) — 🔁 **JAKE'S LOOP, THIRD LEG: THE GROWTH THAT JUSTIFIES HIGHER REAL YIELDS IS ITSELF THE DEBT-FINANCED AI SPENDIN
 - `2026-09-25` [ai-financing-fragility.md:L8475](../ai-financing-fragility.md) — 2026-09-25 ~12:26pm PDT (Y'd) — **ANTHROPIC'S IPO GOVERNANCE: FOUNDERS SEEK 50.1% OF THE VOTE ON ~14% OF THE EQUITY; A ZERO-EQUITY TRUST ELECTS THE BO
 - `2026-09-25` [compression-thesis.md:L3489](../compression-thesis.md) — 2026-09-25 ~1:25-1:45pm PDT (Y'd) — ⭐⭐⭐⭐⭐ **JAKE'S TAKEAWAY: CHINA'S OPEN MODELS SPLIT THE MARKET — OPEN SOURCE OWNS VOLUME, FRONTIER OWNS REVENUE — A

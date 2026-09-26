@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **467 dated entries across 3 notes · 2026-02-10 → 2026-09-25 · refreshed 2026-09-25 16:00 PDT**
+> **469 dated entries across 3 notes · 2026-02-10 → 2026-09-25 · refreshed 2026-09-25 18:06 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -489,6 +489,8 @@
 - `2026-09-24` [rates-board.md:L3694](../rates-board.md) — 2026-09-24 close (entered ~7:35pm PDT, Y'd) — 🔴 **TWO DAYS, +22bp ON THE 10Y — ALL OF IT REAL. THE LONG END JOINS (BEAR STEEPENER) DESPITE A $4.1B BUY
 - `2026-09-24` [rates-board.md:L3703](../rates-board.md) — 2026-09-24 ~7:37pm PDT (Y'd, entered ~8:05pm) — **UBS: OUTSIDE AI, INVESTMENT HAS BEEN IN RECESSION FOR TWO YEARS — SO HIKES SQUEEZE THE WEAK AND MISS
 - `2026-09-25` [market-fragility.md:L4700](../market-fragility.md) — 2026-09-25 ~1:07-1:25pm PDT (Y'd) — ⭐⭐⭐⭐ **MOVE +33% IN TWO DAYS SCORES THE 9/23 CALL — AND JAKE'S "GAP" IS NOW MORE RIGHT THAN IT WAS · BREADTH: 9 ST
+- `2026-09-25` [market-fragility.md:L4708](../market-fragility.md) — 2026-09-25 ~5:10pm PDT (Y'd ~6:05pm) — 📊 **1996-2000 vs 2023-NOW: AT THE SAME AGE THE NASDAQ IS UP THE SAME AMOUNT (+160% vs +159%) — AND THE 90s THEN
 - `2026-09-25` [rates-board.md:L3708](../rates-board.md) — 2026-09-25 overnight (Y'd ~11:10am) — **JAPAN AS A QUIET RISK TO TREASURY DEMAND (AND TO THE CALM IN STOCKS) · THE FED EASES BANK THRESHOLDS.** *(Bloo
 - `2026-09-25` [rates-board.md:L3713](../rates-board.md) — 2026-09-25 close (Y'd ~1:25pm PDT) — 🟠 **A BULL STEEPENER, NOT A PEAK: THE FRONT RALLIED, THE LONG END SOLD OFF — EVEN AS OIL FELL 2%. THE LONG-END PR
 - `2026-09-25` [rates-board.md:L3721](../rates-board.md) — 2026-09-25 ~3:15pm PDT (Y'd ~3:55pm) — 🏠 **AUGUST NEW-HOME SALES: VOLUME UP, PRICES DOWN THE MOST ON RECORD — BUILDERS ARE BUYING THE SALES WITH MARGI
+- `2026-09-25` [rates-board.md:L3730](../rates-board.md) — 2026-09-25 ~4:40pm PDT (Y'd ~6:05pm) — 📐 **THE YEAR'S 10Y RISE, DECOMPOSED: +100bp, ~92bp OF IT REAL. REID (DEUTSCHE BANK) VERIFIED.** *(FRED DGS10 / 

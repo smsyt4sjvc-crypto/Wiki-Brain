@@ -4854,3 +4854,17 @@ At 2:55pm I filed the Dow/Nasdaq split as *"not what a discount-rate shock looks
 - **DATA — breadth (Bloomberg chart, `raw/2026-09-25-sp500-net-highs-lows.png`):** S&P net new 52-week highs − lows **−31, the 9th straight negative day** · prior troughs on the same chart: **Oct-2023 ~−65 · Apr-2025 (Liberation Day) ~−170 — both marked LOWS, followed by sharp rallies.**
 - **THESIS (analysis):** "the market has given up" overstates — −31 is mild vs its own 3-yr history (rule 10: a STATE, not a trigger). **The Oct-2023 parallel is nearly exact: 10Y at 5% (10/19/23), breadth −65, and the turn came when YIELDS PEAKED (early-Nov Fed + refunding).** ⇒ **the breadth question is the 10Y question.** Yields peak → breadth snaps back violently, the most beaten-down rate-sensitives rally hardest (Nov-2023: homebuilders +20%+ in weeks) = **the squeeze risk for the LEN/ORCL shorts** (stops 86.1 / 154.5 closing cap it). Yields keep rising → an Apr-2025-style flush. Consistent with the two-speed market (index held by anchors; record-low correlation; Jan-2000 comparison 9/22).
 **📌 REGISTERED:** 🔴 the first day the 10Y FALLS hard on REAL yields with breadth flipping positive = the squeeze tell.
+
+## 2026-09-25 ~5:10pm PDT (Y'd ~6:05pm) — 📊 **1996-2000 vs 2023-NOW: AT THE SAME AGE THE NASDAQ IS UP THE SAME AMOUNT (+160% vs +159%) — AND THE 90s THEN DOUBLED AGAIN IN FIVE MONTHS.** *(FRED NASDAQCOM / NASDAQ100 / SP500; Nasdaq quote API for 9/25; price only, no dividends.)*
+- **WHY THIS MATTERS (plain English):** "it's run too long to keep going" isn't supported by history — the 90s were exactly this far along and then went up another 85% before breaking. What ended it was dated: Fed hikes and the financing drying up. So the thing to watch is credit and rates, not how long the rally has lasted.
+- **DATA:**
+
+  | | 12/29/95 → 2000 peak (~4.2y) | 12/30/22 → 9/24-25/26 (3.7y) |
+  |---|---|---|
+  | S&P 500 | 615.93 → 1,527.46 (3/24/00): **+148%**, ~24%/yr | 3,839.50 → 7,704.13 (9/24): **+101%**, ~21%/yr |
+  | Nasdaq Composite | 1,052.13 → 5,048.62 (3/10/00): **+380%**, ~45%/yr | 10,466.48 → 27,068.72: **+159%**, ~29%/yr |
+  | Nasdaq 100 | 576.23 → 4,704.73 (3/27/00): **+716%**, ~64%/yr | 10,939.76 → 30,608.14: **+180%**, ~32%/yr |
+
+  **Same age (3.74y in, ~9/24/99):** Composite 2,740 = **+160%** (vs +159% now) · NDX 2,400 = +316% (vs +180% now) · **then ~Oct-99 → Mar-00: Composite ×1.85, NDX ×1.96.** ⚠️ S&P 1995 close 615.93 is the standard figure, not re-verified (FRED SP500 starts 2016); 3/24/00 1,527.46 verified (Wikipedia closing milestones).
+- **THESIS (analysis):** WARNING, not trigger — a parallel times nothing. It kills "too long to continue." The 90s break came after **175bp of Fed hikes (Jun-99 → May-00)** and the build-out's financing drying up; today's analogue = the 10Y >5% with reals leading + the IG test. **If credit holds, the historical pattern says the late leg can be violent UPWARD ⇒ own the cheap index hedge rather than press index shorts.** Megacaps are less stretched than 1999 leaders (NDX 2.8× vs 4.2× at the same age).
+**Links:** [[ai-capex-cycle]] 9/25 ~4:55pm · [[rates-board]]
