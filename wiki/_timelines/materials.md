@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **250 dated entries across 3 notes · 2026-07-09 → 2026-09-25 · refreshed 2026-09-26 13:44 PDT**
+> **251 dated entries across 3 notes · 2026-07-09 → 2026-09-26 · refreshed 2026-09-26 17:55 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -269,3 +269,4 @@
 - `2026-09-25` [war-board.md:L5157](../war/war-board.md) — 2026-09-25 ~6:42am-11:10am PDT (Y'd) — ⭐⭐⭐⭐ **THE OFFER ROSE IN RANK; THE RESISTANCE CHANGED SIDES; THE TERMS STILL DON'T MEET. ARAGHCHI OWNS A 7-DAY 
 - `2026-09-25` [war-board.md:L5165](../war/war-board.md) — 2026-09-25 ~3:30pm PDT (Y'd ~3:55pm) — ✈️ **THE AIRSPACE WAR: REZAEI'S 9/23 THREAT RUNS IN BOTH DIRECTIONS — IRAQ SHUTS FOUR AIRPORTS, THE UAE SUSPEND
 - `2026-09-25` [war-board.md:L5174](../war/war-board.md) — 2026-09-25 ~6:07-6:18pm PDT (Y'd ~6:18pm) — 🔴 **TRUMP REJECTS THE 7-DAY PLAN, KEEPS THE BLOCKADE, EXPECTS TO RESUME BOMBING *AFTER THE MIDTERMS* (WSJ,
+- `2026-09-26` [buildout-bottleneck-map.md:L2021](../buildout-bottleneck-map.md) — 2026-09-26 ~4:09pm PDT (Y'd ~5:54pm) — 🏭 **NEW JERSEY FINES THE MICROSOFT-LINKED VINELAND CAMPUS A RECORD $1.07M FOR UNPERMITTED GAS GENERATORS — A ST

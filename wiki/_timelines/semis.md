@@ -1,6 +1,6 @@
 # ⏱ SEMIS — merged timeline (the gate)
 
-> **89 dated entries across 2 notes · 2026-07-09 → 2026-09-25 · refreshed 2026-09-26 13:44 PDT**
+> **90 dated entries across 2 notes · 2026-07-09 → 2026-09-26 · refreshed 2026-09-26 17:55 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -108,3 +108,4 @@
 - `2026-09-25` [buildout-bottleneck-map.md:L1992](../buildout-bottleneck-map.md) — 2026-09-25 ~6:32am PDT (Y'd ~6:36am) — 🧭⭐⭐⭐⭐⭐ **JUPITER AS THE PERMIT-NAVIGATION BELLWETHER (Jake): "the showcase example… how local politics will be 
 - `2026-09-25` [buildout-bottleneck-map.md:L2007](../buildout-bottleneck-map.md) — 2026-09-25 ~6:22am PDT (Y'd ~6:36am) — 🛰️ **GOOGLE'S SUNCATCHER: THE PERMIT-FREE ESCAPE VALVE — AT ONE TWO-MILLIONTH OF JUPITER'S SCALE. LAUNCHES OCT 
 - `2026-09-25` [buildout-bottleneck-map.md:L2014](../buildout-bottleneck-map.md) — 2026-09-25 ~8:31pm PDT (Y'd ~8:40pm) — 🔌 **"THE ASSET THAT CANNOT BE BOUGHT WITH MONEY": GRID CONNECTION AS THE SCARCE INPUT — A BUILDING TAKES 18-24 
+- `2026-09-26` [buildout-bottleneck-map.md:L2021](../buildout-bottleneck-map.md) — 2026-09-26 ~4:09pm PDT (Y'd ~5:54pm) — 🏭 **NEW JERSEY FINES THE MICROSOFT-LINKED VINELAND CAMPUS A RECORD $1.07M FOR UNPERMITTED GAS GENERATORS — A ST

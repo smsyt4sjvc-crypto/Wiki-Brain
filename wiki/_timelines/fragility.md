@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **476 dated entries across 6 notes · 2026-02-10 → 2026-09-26 · refreshed 2026-09-26 13:44 PDT**
+> **477 dated entries across 6 notes · 2026-02-10 → 2026-09-26 · refreshed 2026-09-26 17:55 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -503,4 +503,5 @@
 - `2026-09-25` [rates-board.md:L3730](../rates-board.md) — 2026-09-25 ~4:40pm PDT (Y'd ~6:05pm) — 📐 **THE YEAR'S 10Y RISE, DECOMPOSED: +100bp, ~92bp OF IT REAL. REID (DEUTSCHE BANK) VERIFIED.** *(FRED DGS10 / 
 - `2026-09-25` [rates-board.md:L3737](../rates-board.md) — 2026-09-25 ~11:27pm PDT (Y'd 9/26 ~9:27am) — 🧭 **BURRY: "IF THE 10Y GETS CLOSE TO 7%, THE NEED TO HOLD EQUITIES IN A 401(k) DRAMATICALLY DECLINES." TH
 - `2026-09-26` [financing-fragility-gauge.md:L331](../financing-fragility-gauge.md) — 2026-09-26 ~8:08am PDT (Y'd ~9:27am) — 🏢 **OFFICE CRE MOVES FROM PAPER TO REALIZED LOSSES — AND THE KRE WORKBOOK UPDATE SAYS WHERE THEY LAND: CMBS BON
+- `2026-09-26` [hyperscaler-credit.md:L644](../hyperscaler-credit.md) — 2026-09-26 ~4:34pm PDT (Y'd ~5:54pm) — ⚖️ **JAKE: "I SEE REAL TROUBLE FOR CLOUDS… EVERY INPUT TO ACQUIRE IT IS A MESS." THE STEELMAN SPLITS "CLOUDS" I
 - `2026-09-26` [rates-board.md:L3744](../rates-board.md) — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 📅 **SEPTEMBER 30 IS A DOUBLE EVENT: 8:30am ET AUGUST PCE *PLUS* BEA's ANNUAL NATIONAL-ACCOUNTS UPDATE (VERIFIED
