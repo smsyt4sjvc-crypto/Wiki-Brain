@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **119 dated entries across 3 notes · 2026-06-30 → 2026-09-26 · refreshed 2026-09-27 09:28 PDT**
+> **120 dated entries across 3 notes · 2026-06-30 → 2026-09-27 · refreshed 2026-09-27 10:32 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -141,3 +141,4 @@
 - `2026-09-25` [buildout-bottleneck-map.md:L2007](../buildout-bottleneck-map.md) — 2026-09-25 ~6:22am PDT (Y'd ~6:36am) — 🛰️ **GOOGLE'S SUNCATCHER: THE PERMIT-FREE ESCAPE VALVE — AT ONE TWO-MILLIONTH OF JUPITER'S SCALE. LAUNCHES OCT 
 - `2026-09-25` [buildout-bottleneck-map.md:L2014](../buildout-bottleneck-map.md) — 2026-09-25 ~8:31pm PDT (Y'd ~8:40pm) — 🔌 **"THE ASSET THAT CANNOT BE BOUGHT WITH MONEY": GRID CONNECTION AS THE SCARCE INPUT — A BUILDING TAKES 18-24 
 - `2026-09-26` [buildout-bottleneck-map.md:L2021](../buildout-bottleneck-map.md) — 2026-09-26 ~4:09pm PDT (Y'd ~5:54pm) — 🏭 **NEW JERSEY FINES THE MICROSOFT-LINKED VINELAND CAMPUS A RECORD $1.07M FOR UNPERMITTED GAS GENERATORS — A ST
+- `2026-09-27` [nuclear.md:L828](../nuclear.md) — 2026-09-27 ~10:29am PDT (Y'd ~10:31am) — ⚛️ **THE ENRICHMENT CLIFF IS DATED: RUSSIAN-LEU IMPORT WAIVERS END JAN 2028 (NO EXTENSION PLANNED) AND RUSSIA
