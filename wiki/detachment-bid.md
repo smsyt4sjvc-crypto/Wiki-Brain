@@ -51,7 +51,7 @@ quo feels hopeless. They prefer variance. The melt-up is not classic exuberance;
 - Positive-skew premium: lottery-stock / low-price / high-beta outperformance.
 - Crypto + memecoin flows; sports-betting handle (DKNG/FLUT); lottery sales.
 - Retail equity inflows vs negative real-wage growth; falling savings rate + rising revolving
-  credit into risk assets (same fuse as the 12.7% card delinquency Jake already tracks).
+  credit into risk assets (same fuse as the 12.7% card delinquency Jake already tracks).  ⟲ EXTENDED 2026-09-27 → consumption-vs-investment-crux.md:L341 — 12.7% is the STOCK measure; use FLOW ~6.97% (NY Fed)
 
 ## Falsifier (and it times the puts)
 If risk-appetite proxies (0DTE %, lottery premium, crypto) roll over WHILE the index still

@@ -236,7 +236,7 @@ base through early 2026, NOT a live pull; re-verify when Jake can run the Colab 
   series share a common driver (nominal inflation), and card balances also respond to rates, credit supply and
   spending mix. Filed as ILLUSTRATION, not as evidence.
 - *(★ but the INSTINCT is right, and the vault already holds BETTER evidence for it)* The Hollow Bottom
-  convergence is built on measures this chart lacks: **card delinquency 12.7%**, IRS-941 withholding, DTS
+  convergence is built on measures this chart lacks: **card delinquency 12.7%**, IRS-941 withholding, DTS  ⟲ EXTENDED 2026-09-27 → consumption-vs-investment-crux.md:L341 — 12.7% is the STOCK measure; use FLOW ~6.97% (NY Fed)
   receipts, M2 — independent PRIMARY measurements rather than two trending lines on a shared picture. **Jake's
   read of the picture is correct; the picture is just the weakest exhibit for it.** Use the delinquency and
   withholding series when the claim needs to carry weight; use this chart when the claim needs to be *communicated*.
@@ -337,3 +337,12 @@ himself, including the one that matters most.**
 4. ⬜ **The point-in-time 2021-2026 forward-EPS series he names as the highest-value next step** — three
    lines: headline · ex-Mag7+Oracle · full AI-chain-adjusted.
 **Links:** [[ai-capex-cycle]] · [[market-fragility]] · [[new-economy-regime]] · [[cepi]] · [[detachment-bid]]
+
+## 2026-09-27 ~9:22am PDT (Y'd ~9:26am) — 🧾 **THE 12.8% CARD-DELINQUENCY HEADLINE IS A STOCK MEASURE INFLATED BY STALE CHARGED-OFF DEBT; THE FLOW OF NEW SERIOUS DELINQUENCY (~6.97%) HAS BEEN FLAT SINCE 2024. STRESS IS REAL BUT CONCENTRATED — A K-SHAPE, NOT A SYSTEMIC CREDIT CRISIS.** *(NY Fed Liberty Street Aug 2026 + Q2 Household Debt & Credit report 8/11 — primaries verified; Lance Roberts/RIA via ZH.)*
+  ⟲ EXTENDS _calibration.md:L71 (2026-09-27) — 12.7% is the STOCK measure (inflated by stale charged-off debt); use FLOW ~6.97%, flat since 2024 (NY Fed Aug 2026) [old entry stays LIVE]
+- **WHY THIS MATTERS (plain English):** the scary "worst since 2008" credit-card number mostly measures old, already-written-off debt that lenders now keep reporting for longer. The rate at which people are NEWLY falling behind hasn't risen in two years. The stress is real, but it's concentrated in lower-income and subprime borrowers — the same "weak half" the rate shock is squeezing — not a broad consumer collapse.
+- **DATA:** 90+ day card delinquency (STOCK, % of balances) 7.6% (2022Q3) → **12.8%** (2026Q1) — NY Fed: rising "because of a pool of stale, charged-off debts that lenders have been reporting for longer durations, rather than a fundamental worsening"; lenders report charged-off balances for ~80% of accounts after one year (vs ~40% 2004-2012) · **FLOW (new serious delinquency) ~6.97%, roughly flat since 2024** — NY Fed: flow rates "provide a more accurate view of current consumer repayment behavior" · household debt **$18.8T** (−$13B, −0.1% Q2) · card balances **$1.26T** (+$21B) · personal savings rate **3.0%** (July; pre-pandemic 7-8%) · **top 10% of earners = 49.2% of consumer spending** (highest since 1989; ~36% three decades ago) · bottom 80% (<$175k): real spending barely grown since the pandemic; subprime cracking first, prime "has barely moved" · payrolls revised June +31k, July +21k; August +162k.
+- **THESIS (analysis):** ⛔ **the vault's "Hollow Bottom" convergence cites "card delinquency 12.7%" as a primary leg** (`_calibration:L71`, `:L239`, `detachment-bid:L54`) — **that is the STOCK measure; the leg overstated stress** (extends markers placed; the other legs — IRS 941 withholding, DTS, M2 — unaffected). The K-shape fits the week's pattern: rates squeeze the weak half (housing incentives, junk, office CRE, low-income households) — a distribution problem, not solvency, "at least for now."
+- **MONEY:** don't trade the viral 12.8% (no broad card-issuer/bank short on this) · the targetable lane: dollar stores, subprime lenders, BNPL, low-end restaurants · **spreading tell: FLOW rate breaking above ~7% and PRIME delinquency moving** — next NY Fed report (Q3) in November · supports the weak-half leg behind LEN. No marks.
+**📌 REGISTERED:** 🔴 NY Fed Q3 household debt (Nov): flow >7%? prime moving? · ⬜ savings rate path.
+**Links:** [[_calibration]] · [[detachment-bid]] · [[rates-board]] · [[_learning]]

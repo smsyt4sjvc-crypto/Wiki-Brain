@@ -811,3 +811,8 @@ Source: gopher return on asks 1-3 (DELL · neocloud $/MW · Taiwan operational),
 5. 🚩 **ORACLE DISCLOSES NO CAPACITY METRIC.** ⬜ **Registered as an absence to re-test each quarter —
    if ORCL starts disclosing MW, that is itself news.**
 **Links:** [[buildout-bottleneck-map]] · [[power-scarcity-equities]] · [[hyperscaler-credit]] · [[ai-capex-cycle]] · [[metered-compute]]
+
+## 2026-09-26 — DoD DAILY CONTRACTS FEED (war.gov "Contracts", ~5pm ET every business day)
+- Every award ≥ $7.5M: company, amount, purpose, completion date, funds. **Primary, free, often ahead of company disclosure.**
+- ⛔ **Blocked from this container** (war.gov Akamai edge: "Access Denied" for WebFetch AND curl; no mirror found for 9/24) ⇒ **Jake pastes the page** (worked 9/26).
+- **Reading rules:** (1) **trust dollars OBLIGATED at award, not "maximum"/"ceiling"** — IDIQ ceilings (e.g., Gil Sewing's $123.7M Army dress-coat IDIQ = a 5-year cap, ≤~$25M/yr) overstate spend; (2) **the edge is small caps** — $46M is noise for Northrop, material for Ondas; (3) Berry Amendment: uniforms/textiles must be US-made ⇒ small domestic suppliers win those; (4) scan for munitions (PAC-3, SM-6, JASSM/LRASM, THAAD, Tomahawk), DLA Energy fuel buys (refiners), JWCC cloud task orders (MSFT/GOOGL/AMZN/ORCL), CENTCOM-region logistics (war tempo).

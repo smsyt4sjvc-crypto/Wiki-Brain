@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1038 dated entries · 2026-02-10 → 2026-09-26 · refreshed 2026-09-26 17:55 PDT**
+> **1039 dated entries · 2026-02-10 → 2026-09-26 · refreshed 2026-09-27 09:28 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1071,5 +1071,6 @@
 - `2026-09-25` **[5]** compression-thesis.md:L3489 — 2026-09-25 ~1:25-1:45pm PDT (Y'd) — ⭐⭐⭐⭐⭐ **JAKE'S TAKEAWAY: CHINA'S OPEN MODELS SPLIT THE MARKET — OPEN SOURCE OWNS VOLUME, FRONTIER OWNS REVENUE — A
 - `2026-09-25` **[5]** compression-thesis.md:L3499 — 2026-09-25 ~8:00-8:18pm PDT (Y'd ~8:18pm) — 🍼 **THE CAPSTONE (Jake): AN INFANT MARKET FINANCED AS A MATURE ONE. OPEN-WEIGHT PRICES BECOME THE FLOOR; F
 - `2026-09-26` **[1]** rates-board.md:L3744 — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 📅 **SEPTEMBER 30 IS A DOUBLE EVENT: 8:30am ET AUGUST PCE *PLUS* BEA's ANNUAL NATIONAL-ACCOUNTS UPDATE (VERIFIED
+- `2026-09-26` **[1]** new-economy-regime.md:L5013 — 2026-09-26 ~6:57pm PDT (Y'd 9/27 ~9:26am) — 🔀 **"ENERGY INDEPENDENCE" IS MOSTLY SUPPLIER REALIGNMENT: COUNTRIES AREN'T BECOMING INDEPENDENT, THEY'RE S
 - `2026-09-26` **[2]** hyperscaler-credit.md:L644 — 2026-09-26 ~4:34pm PDT (Y'd ~5:54pm) — ⚖️ **JAKE: "I SEE REAL TROUBLE FOR CLOUDS… EVERY INPUT TO ACQUIRE IT IS A MESS." THE STEELMAN SPLITS "CLOUDS" I
 - `2026-09-26` **[5]** compression-thesis.md:L3510 — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 🔌 **US-CHINA: DETAILS MONDAY, AI CHIPS EXCLUDED — AND A BIPARTISAN BILL TO KEEP CHINESE OPTICAL TRANSCEIVERS OU

@@ -1,6 +1,6 @@
 # ⏱ LABOR — merged timeline (the gate)
 
-> **164 dated entries across 1 notes · 2026-06-30 → 2026-09-10 · refreshed 2026-09-26 17:55 PDT**
+> **165 dated entries across 1 notes · 2026-06-30 → 2026-09-26 · refreshed 2026-09-27 09:28 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -186,3 +186,4 @@
 - `2026-09-08` [new-economy-regime.md:L4979](../new-economy-regime.md) — Addendum 2026-09-08 ~9:35pm PDT — ✔✔ **UBS CLOSES LAST NIGHT'S CHINA ⬜ FROM ABOVE: GLOBAL EXPORT VALUES +19% y/y (84th PERCENTILE OF 25 YEARS) — AND T
 - `2026-09-08` [new-economy-regime.md:L4986](../new-economy-regime.md) — 2026-09-08 ~11:00pm PDT — ⭐⭐⭐⭐ **DECOMPOSE THE GROUP MEAN, AGAIN, AND IT INVERTS THE STORY: 58% OF US WORKERS FEAR OBSOLESCENCE — BUT **74% OF TECHNOL
 - `2026-09-10` [new-economy-regime.md:L5003](../new-economy-regime.md) — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
+- `2026-09-26` [new-economy-regime.md:L5013](../new-economy-regime.md) — 2026-09-26 ~6:57pm PDT (Y'd 9/27 ~9:26am) — 🔀 **"ENERGY INDEPENDENCE" IS MOSTLY SUPPLIER REALIGNMENT: COUNTRIES AREN'T BECOMING INDEPENDENT, THEY'RE S

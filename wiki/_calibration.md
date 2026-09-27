@@ -68,7 +68,7 @@ disconfirmation live. The filter tracks his lean and leans against it, whichever
 
 ## Don't relitigate (solid ground — pushback here is wasted)
 - Hollow Bottom convergence built on PRIMARY sources (IRS 941, DTS withholding, card
-  delinquency 12.7%, M2). Independent *measurements* → real convergence.
+  delinquency 12.7%, M2). Independent *measurements* → real convergence.  ⟲ EXTENDED 2026-09-27 → consumption-vs-investment-crux.md:L341 — 12.7% is the STOCK measure; use FLOW ~6.97% (NY Fed)
 - Execution/exit discipline: thesis-based exits, GTC ladders, options sizing + time stops.
 - The KRE lesson (don't short the reliably-bailed-out asset class).
 

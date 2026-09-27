@@ -1,0 +1,21 @@
+# El Niño 2026-27 — a possibly historic event as a macro input
+
+**Opened 2026-09-26 ~5:57pm PDT (Y'd 9/27 ~9:26am). Trigger: Hurricanes Polo (~Cat 5, 2nd-strongest East Pacific on record) and Odalys rapidly intensifying at the same time (`raw/2026-09-26-polo-odalys-satellite.jpg`). Rule 21: the vault had ZERO ENSO coverage before this note.**
+
+**WHY THIS MATTERS (plain English):** El Niño is a warming of the tropical Pacific that shifts weather worldwide — winters, droughts, hurricanes. NOAA now gives better than 90% odds of a very strong one this winter and 75% odds it's the strongest on record. That touches heating fuel, shipping through the Panama Canal, food prices and Gulf hurricanes — several of them inputs to Jake's book.
+
+## DATA (observed)
+- **NOAA CPC (Sept 2026 ENSO discussion): El Niño Advisory; >90% chance of a VERY STRONG event in NH fall/winter 2026-27; 75% chance Oct-Dec is historic (RONI ≥ +2.5°C, exceeding every event since 1950); all 22 models keep Niño3.4 above normal, nearly all dynamical models above +3.** *(NOAA CPC; IRI.)*
+- **The storms (NHC via Fox Weather/WaPo, 9/25-26):** Polo — Baja California Sur landfall forecast ~Mon 9/28 night, much weaker; Odalys — no landfall; remnant moisture → US Southwest flash-flood risk. No material energy/shipping infrastructure in path ⇒ nothing tradeable from the storms themselves.
+
+## THESIS (interpretation — NOT fact; historical tendencies, not guarantees)
+1. **Milder northern-US winter ⇒ less heating demand** ⇒ bearish natural gas; **and a headwind to the diesel thesis** — heating oil is part of the distillate pool, so a mild Northeast winter eases part of the squeeze behind DINO (the war + Russia's export ban still dominate). *(India is NOT affected this way — LPG there is cooking fuel, year-round; Jake 9/26.)*
+2. **Panama Canal drought risk, 2027 dry season (Jan-May):** the 2023-24 El Niño cut canal transits by ~a third ⇒ longer routes, higher rates ⇒ **tailwind for tankers (DHT), LNG shipping and VLGCs** (→ `demand-destruction` 9/26 India LPG).
+3. **Food inflation:** strong El Niños tend to bring drought to Australia (wheat), India, Southeast Asia (palm oil, robusta, rice) and have coincided with higher cocoa/sugar ⇒ **another 2027 inflation push on top of oil ⇒ breakevens/Fed** (→ [[rates-board]]); soybeans the exception (better Argentine crops).
+4. **Atlantic hurricanes suppressed** (wind shear) ⇒ less Gulf of Mexico refinery/platform tail risk (mostly late-season now); helps reinsurers.
+
+## MONEY
+- No trade before the weekend; fold the mild-winter headwind into how DINO is viewed (book unchanged) · watch Panama Canal Authority draft restrictions as a 2027 shipping catalyst · NOAA monthly updates.
+
+**📌 REGISTERED:** 🔴 NOAA monthly ENSO update (Oct) · ⬜ Panama Canal draft/transit restrictions · ⬜ Northeast winter outlook vs distillate stocks.
+**Links:** [[demand-destruction]] · [[rates-board]] · [[war/war-board]] · [[forest]]

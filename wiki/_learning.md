@@ -173,3 +173,10 @@ reply uses one of these words, this is the lookup. Rule 22b in `CLAUDE.md`. Link
 - **What's public:** US proxies must report how many shares a director has pledged — NOT the lender, rate, size or terms.
 - **Money read:** the tell of stress is the pledged count RISING after a price drop (lenders calling for collateral).
 
+## STOCK vs FLOW MEASURES (met: the 12.8% credit-card delinquency headline, 9/27)
+- **Stock** = how much of the whole pile is bad right now (all card balances 90+ days late). It can rise just because
+  old dead debt stays in the pile longer — lenders now report charged-off accounts for years.
+- **Flow** = how much is NEWLY going bad each period. That's the read on "are people falling behind NOW?"
+- 2026: stock 12.8% ("worst since 2008") vs flow ~7%, flat since 2024 ⇒ the headline measured bookkeeping, not a new wave.
+- **Money read:** before trading a scary rate, ask stock or flow. Trends that matter show up in the FLOW first.
+
