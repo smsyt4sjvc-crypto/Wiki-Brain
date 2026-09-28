@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **472 dated entries across 3 notes · 2026-02-10 → 2026-09-26 · refreshed 2026-09-27 20:08 PDT**
+> **473 dated entries across 3 notes · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 08:06 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -497,3 +497,4 @@
 - `2026-09-25` [rates-board.md:L3737](../rates-board.md) — 2026-09-25 ~11:27pm PDT (Y'd 9/26 ~9:27am) — 🧭 **BURRY: "IF THE 10Y GETS CLOSE TO 7%, THE NEED TO HOLD EQUITIES IN A 401(k) DRAMATICALLY DECLINES." TH
 - `2026-09-26` [new-economy-regime.md:L5013](../new-economy-regime.md) — 2026-09-26 ~6:57pm PDT (Y'd 9/27 ~9:26am) — 🔀 **"ENERGY INDEPENDENCE" IS MOSTLY SUPPLIER REALIGNMENT: COUNTRIES AREN'T BECOMING INDEPENDENT, THEY'RE S
 - `2026-09-26` [rates-board.md:L3744](../rates-board.md) — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 📅 **SEPTEMBER 30 IS A DOUBLE EVENT: 8:30am ET AUGUST PCE *PLUS* BEA's ANNUAL NATIONAL-ACCOUNTS UPDATE (VERIFIED
+- `2026-09-28` [rates-board.md:L3751](../rates-board.md) — 2026-09-28 ~8:03am PDT (Y'd ~8:06am) — 🏛️ **A FED VOTER NAMES THE CROWD-OUT LOOP: HAMMACK — YIELDS ARE UP ON REAL RATES AND "COMPETITION FOR INVESTOR 

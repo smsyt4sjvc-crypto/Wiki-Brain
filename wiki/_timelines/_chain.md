@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1039 dated entries · 2026-02-10 → 2026-09-26 · refreshed 2026-09-27 20:08 PDT**
+> **1040 dated entries · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 08:06 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1074,3 +1074,4 @@
 - `2026-09-26` **[1]** new-economy-regime.md:L5013 — 2026-09-26 ~6:57pm PDT (Y'd 9/27 ~9:26am) — 🔀 **"ENERGY INDEPENDENCE" IS MOSTLY SUPPLIER REALIGNMENT: COUNTRIES AREN'T BECOMING INDEPENDENT, THEY'RE S
 - `2026-09-26` **[2]** hyperscaler-credit.md:L644 — 2026-09-26 ~4:34pm PDT (Y'd ~5:54pm) — ⚖️ **JAKE: "I SEE REAL TROUBLE FOR CLOUDS… EVERY INPUT TO ACQUIRE IT IS A MESS." THE STEELMAN SPLITS "CLOUDS" I
 - `2026-09-26` **[5]** compression-thesis.md:L3510 — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 🔌 **US-CHINA: DETAILS MONDAY, AI CHIPS EXCLUDED — AND A BIPARTISAN BILL TO KEEP CHINESE OPTICAL TRANSCEIVERS OU
+- `2026-09-28` **[1]** rates-board.md:L3751 — 2026-09-28 ~8:03am PDT (Y'd ~8:06am) — 🏛️ **A FED VOTER NAMES THE CROWD-OUT LOOP: HAMMACK — YIELDS ARE UP ON REAL RATES AND "COMPETITION FOR INVESTOR 

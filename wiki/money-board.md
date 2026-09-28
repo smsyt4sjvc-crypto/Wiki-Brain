@@ -138,3 +138,14 @@ when the pending entries file.
 ### 2026-09-25 (Y'd) — ✔ CORRECTION TO THE ORCL "OVERRIDE": THE RULE WOULD NOT HAVE FIRED.
 - The cover rule required IG OAS **FLAT on 9/24**. ICE 9/24: **IG 79 (+2)** ⇒ the IG half did NOT fire ⇒ the registered rule would not have covered. **Jake's HOLD is rule-consistent; the ORCL leg is scored on the rule, not as an override** (the 9/24 override note stands as the record of intent). ORCL CDS 228 (+13 since 9/22).
 - New marks: AVGO bear 0.5 (CDS +10 in two days) · DINO/VLO/MPC bull 0.5 (Russia keeps diesel home; US swing supplier).
+
+## 2026-09-28 ~8:04am PDT — 📒 BOOK SNAPSHOT (Nasdaq, 11:04am ET) + CLAUDE'S LEANS (Jake's calls; book.csv UNCHANGED)
+| Position | Entry | Now | P/L | Day |
+|---|---|---|---|---|
+| ORCL short | 144.56 | 132.49 | **+8.3%** | −3.4% (1.8% from T1 130.1) |
+| DHT long | 21.28 | 22.16 | +4.1% | +1.7% |
+| UAL short | 110.72 | 110.28 | +0.4% | −3.3% |
+| DINO long | 106.11 | 106.72 | +0.6% | −0.1% (flat vs Brent +4%) |
+| LEN short | 81.53 | 82.30 | −0.9% | +0.2% |
+| MU long | 1,071.88 | 1,041.08 | **−2.9%** | −3.8% (stop 995) |
+- **Leans (not executed):** ORCL — partial at T1 130.1, trail stop to entry 144.6 · MU — exit today (pre-earnings run-up failed; hawkish repricing; Wed PCE + print) · DINO — trim before 11am PT or hold per rule · DHT/UAL/LEN — hold. ⬜ Jake to report any executions.
