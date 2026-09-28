@@ -187,3 +187,15 @@ reply uses one of these words, this is the lookup. Rule 22b in `CLAUDE.md`. Link
   with no actual move — 9/27: Nov $104 vs Dec ~$97-98. Compare the SAME contract, or only % changes.
 - **Money read:** backwardation = the market paying up for oil NOW = physical tightness; a big roll "drop" is not a crash.
 
+## IMPLIED EARNINGS MOVES (met: the AI/chip audit, 9/28)
+- **Implied move** = what the options market expects a stock to move on earnings, read from the price of the at-the-money
+  straddle (a call + a put at the current price). "±8%" means the straddle costs about 8% of the stock price.
+- It's a **two-sided** number: a ±8% implied move against a +3% target is not "more risk than reward" — with 50/50 odds
+  the expected gain and loss are both ~4%, net ≈ zero. The question is whether you have an EDGE on direction, not the size.
+- **What the audit found (60 AI/chip prints, 2024-26):** the typical print moves ~80% of the implied (options overprice the
+  ordinary case) but the blowouts run 2-3× (options underprice the tails) ⇒ straddles ≈ break-even before costs.
+- **Median vs mean:** the median move (81% of implied) is what usually happens; the mean (105%) is dragged up by rare
+  giant moves. Always ask which one a claim uses.
+- **Money read:** a QUIET implied move is not a safe sign — in this sample small expectations preceded DOWN prints 3 times
+  in 4. And names differ: NVDA moved less than priced 7 of 8 times; MU/MRVL moved more.
+

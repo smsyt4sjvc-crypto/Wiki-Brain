@@ -1,0 +1,58 @@
+# Earnings implied moves vs actual — the AI/chip ten (Sept 2024 – Sept 2026)
+
+**Built 2026-09-28 ~9:55-10:08am PDT on Jake's spec:** *"audit the market's implied moves on AI. Take the top 10 AI/Chip (not CoreWeave, Nebius) and compare their implied earnings move against the actual move… also know if a smaller expected move correlated with direction or vice versa."* Data: `data/earnings/implied_vs_actual_2024-2026.csv` (60 joined events) · `actual_moves_80_events.csv` · `implied_sources.csv`.
+
+**WHY THIS MATTERS (plain English):** before earnings, the options market prices an expected move (the at-the-money straddle). This audit checks how good that guess has been for the big AI/chip names — and whether a quiet expectation tends to precede an up or a down print. The answers decide whether holding a stock through its report is a fair bet, a bad one, or a good one, name by name.
+
+## METHOD
+- Names: NVDA, AMD, AVGO, MU, TSM, ASML, AMAT, LRCX, KLAC, MRVL. 8 quarters each = 80 events.
+- **Actual move** = close-to-close reaction: AMC reports → report-day close to next close; BMO (TSM, ASML) → prior close to report-day close. Source: Nasdaq daily history.
+- **Implied move** = the pre-earnings published expected move (TipRanks/TheFly, Reuters/ORATS, Bloomberg via Investing.com, Saxo, Benzinga, Seeking Alpha), collected by three gophers with "not found" honesty. 60/80 sourced; 5 are low-confidence midpoints of conflicting quotes. TSM nearly absent from free data.
+- Dates: last 4 quarters Nasdaq-verified; earlier 4 from memory, cross-checked against the gophers and the reaction being the largest move in the ±2-day window (KLAC Jul-2025 corrected to 7/31).
+
+## DATA (n=60)
+| | Result |
+|---|---|
+| Mean implied | 7.7% |
+| Mean actual size | 8.0% |
+| **Median actual ÷ implied** | **0.81** |
+| Actual exceeded implied | **25/60 (42%)** |
+| Up / down | **24 / 36 (40% up)** |
+| corr(implied, actual size) | +0.23 (Spearman +0.21) |
+| corr(implied, SIGNED move) | ~0.00 |
+
+**By implied-move bucket (n=20 each):**
+| Bucket | Up | Mean signed | Mean size | Beat implied |
+|---|---|---|---|---|
+| Low (2.6–6.7%) | **25%** | **−3.4%** | 6.6% | 45% |
+| Mid (6.7–7.8%) | 50% | +0.5% | 7.0% | 35% |
+| High (7.9–20.7%) | 45% | +0.4% | 10.3% | 45% |
+(High+med confidence only, n=55: low 28% up / −3.4%; high 50% up / +1.5% — same shape.)
+
+**Per name:**
+| | n | Avg implied | Avg actual size | Beat | Up |
+|---|---|---|---|---|---|
+| NVDA | 8 | 7.1% | **4.0%** | **1/8** | 3/8 |
+| AMD | 8 | 7.3% | 8.8% | 3/8 | 3/8 |
+| AVGO | 5 | 7.6% | 10.8% | 3/5 | 2/5 |
+| MU | 4 | 9.4% | **12.4%** | **3/4** | 2/4 |
+| ASML | 6 | 6.9% | 6.8% | 3/6 | 2/6 |
+| AMAT | 8 | 6.5% | 6.5% | 4/8 | **2/8** |
+| LRCX | 8 | 6.7% | 6.5% | 3/8 | **6/8** |
+| MRVL | 8 | 9.9% | **13.3%** | **5/8** | 4/8 |
+| KLAC | 3 | 11.4% | 5.0% | 0/3 | 0/3 |
+| TSM | 2 | 6.9% | 2.7% | 0/2 | 0/2 |
+MU all 8 prints (incl. 4 without an implied figure): +14.7, −16.2, −8.0, −1.0, −2.8, +10.2, −3.8, +15.7 → mean size 9.1%, 4 up / 4 down, 4 of 8 above 10%.
+
+## THESIS (interpretation — NOT fact)
+1. **The straddle overprices the typical print and underprices the tails.** Median move = 81% of implied; only 42% of prints exceed it — but the mean ratio is ~1.05 because of the blowouts (ASML −16, AVGO +24, AMD −17/+19, MRVL −20/+23). ⇒ buying earnings straddles ≈ break-even before costs; holding stock through a print is a fair coin on average (the 9/28 MU discussion, quantified).
+2. **A small expected move leaned DOWN, not up.** Correlation with the signed move is ~0 (not a slope), but the low bucket printed up only 25% of the time (mean −3.4%). Plausible mechanism: low implied = complacency/crowded longs ⇒ disappointments hit harder. ⚠️ n=20 per bucket; the low bucket is heavy with AMAT (4/4 down), NVDA and KLAC ⇒ suggestive (~1.3σ), not proven.
+3. **Bigger implied ⇒ bigger moves (weakly, +0.23), not more often above implied.**
+4. **Name effects dominate:** NVDA options chronically overpriced (7 of 8 moved less than implied — selling NVDA earnings vol has paid); **MU and MRVL move MORE than priced** (memory/networking); AMAT down 6/8 vs LRCX up 6/8 over the same two years.
+5. **For MU 9/30 (implied ~10%):** priced about fair on average, but MU's big prints have tended to beat the implied ⇒ the hold-through coin is slightly better than fair IF Jake has a view on the margin guide (`memory-regime-question` 9/28).
+
+## CAVEATS
+Published implied figures snapshot different days/expiries (±1-2pp noise); 5 low-confidence midpoints; close-to-close actuals differ from press intraday "actuals"; 20 events unsourced (TSM ×6, MU ×4, AVGO ×3, KLAC ×5, NVDA ×0…). Two years is one regime (an AI up-cycle with a down-skewed print reaction).
+
+**📌 REGISTERED:** 🔴 MU 9/30 — add to the sample · ⬜ extend to 12 quarters if Jake wants the buckets to mean more · ⬜ test "low implied ⇒ down" on a broader universe.
+**Links:** [[memory-regime-question]] · [[_learning]] · [[money-board]] · [[_calibration]]

@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **174 dated entries across 2 notes · 2026-07-16 → 2026-09-26 · refreshed 2026-09-28 08:12 PDT**
+> **175 dated entries across 2 notes · 2026-07-16 → 2026-09-28 · refreshed 2026-09-28 10:09 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -193,3 +193,4 @@
 - `2026-09-25` [compression-thesis.md:L3499](../compression-thesis.md) — 2026-09-25 ~8:00-8:18pm PDT (Y'd ~8:18pm) — 🍼 **THE CAPSTONE (Jake): AN INFANT MARKET FINANCED AS A MATURE ONE. OPEN-WEIGHT PRICES BECOME THE FLOOR; F
 - `2026-09-25` [memory-regime-question.md:L1445](../memory-regime-question.md) — Addendum 2026-09-25 ~1:47pm PDT (Y'd) — **DRAM SPOT HAS PLATEAUED — DDR4 ROLLING OVER (SUPPLY-DRIVEN LEGACY), DDR5 FLAT. JAKE: "AGENTIC IMPACT ON DDR 
 - `2026-09-26` [compression-thesis.md:L3510](../compression-thesis.md) — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 🔌 **US-CHINA: DETAILS MONDAY, AI CHIPS EXCLUDED — AND A BIPARTISAN BILL TO KEEP CHINESE OPTICAL TRANSCEIVERS OU
+- `2026-09-28` [memory-regime-question.md:L1453](../memory-regime-question.md) — 2026-09-28 ~9:47-10:08am PDT (Y'd) — 📐 **MU INTO 9/30: THE EVIDENCE HIERARCHY, THE CORRECTED RISK FRAMING, AND WHAT THE IMPLIED-MOVE AUDIT ADDS.** *(J
