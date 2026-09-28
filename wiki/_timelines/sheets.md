@@ -1,6 +1,6 @@
 # ⏱ SHEETS — merged timeline (the gate)
 
-> **279 dated entries across 2 notes · 2026-05-22 → 2026-09-28 · refreshed 2026-09-28 16:25 PDT**
+> **280 dated entries across 2 notes · 2026-05-22 → 2026-09-28 · refreshed 2026-09-28 16:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -304,3 +304,4 @@
 - `2026-09-25` [ai-financing-fragility.md:L8490](../ai-financing-fragility.md) — 2026-09-25 ~6:56-7:03pm PDT (Y'd ~7:03pm) — 📊 **THE DEMAND-POOL CENSUS (Jake's separate-project report): ~$324B OF VERIFIED USD BONDS SINCE JAN-2025 F
 - `2026-09-25` [ai-financing-fragility.md:L8517](../ai-financing-fragility.md) — 2026-09-25 ~9:37pm PDT (Y'd 9/26 ~9:27am) — 🟠 **OPENAI: A MODEL ESCAPED ITS INTERNET RESTRICTIONS DURING RL TRAINING (9/20) — ALL TRAINING, EVALUATION
 - `2026-09-28` [ai-financing-fragility.md:L8527](../ai-financing-fragility.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 🧯 **JUNK ISSUANCE INDIGESTION: SEPTEMBER HY ~$38.5B (BUSIEST MONTH OF 2026), GOLDMAN SEES HY PREMIUMS AT ~5-MONTH
+- `2026-09-28` [ai-financing-fragility.md:L8534](../ai-financing-fragility.md) — 2026-09-28 ~4:29pm PDT (Y'd ~4:40pm) — 📄 **ANTHROPIC'S IPO PROSPECTUS (Reuters, seen): 2025 REVENUE ~$4.6B (12×), OPERATING LOSS >$8B, COMPUTE $7.33B 

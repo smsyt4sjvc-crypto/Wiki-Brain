@@ -1,6 +1,6 @@
 # ⏱ ALLIANCE — merged timeline (the gate)
 
-> **420 dated entries across 3 notes · 2026-03-13 → 2026-09-27 · refreshed 2026-09-28 16:25 PDT**
+> **421 dated entries across 3 notes · 2026-03-13 → 2026-09-28 · refreshed 2026-09-28 16:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -445,3 +445,4 @@
 - `2026-09-25` [war-board.md:L5174](../war/war-board.md) — 2026-09-25 ~6:07-6:18pm PDT (Y'd ~6:18pm) — 🔴 **TRUMP REJECTS THE 7-DAY PLAN, KEEPS THE BLOCKADE, EXPECTS TO RESUME BOMBING *AFTER THE MIDTERMS* (WSJ,
 - `2026-09-26` [war-board.md:L5184](../war/war-board.md) — 2026-09-26 ~6:42pm PDT (Y'd 9/27 ~9:26am) — 🛩️ **DRONE ATTRITION IS FUNDING REPLACEMENTS: THE AIR FORCE MORE THAN DOUBLED THE ONDAS/DZYNE "ULTRA" RECO
 - `2026-09-27` [war-board.md:L5191](../war/war-board.md) — 2026-09-27 ~5:34pm PDT (Y'd ~5:48pm) — 📢 **TRUMP ANNOUNCEMENT MONDAY 2PM ET (WHITE HOUSE) — TOPIC UNKNOWN; A SCHEDULED, IN-SESSION "ANNOUNCED EVENT."*
+- `2026-09-28` [war-board.md:L5199](../war/war-board.md) — 2026-09-28 ~3:58-4:01pm PDT (Y'd ~4:40pm) — 🔁 **WASHINGTON RUNS THE THREE-TRACK PATTERN TOO: OFFICIALS FLOAT CONDITIONAL RELIEF, THE PRESIDENT SAYS "I

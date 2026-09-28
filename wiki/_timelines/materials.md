@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **255 dated entries across 3 notes · 2026-07-09 → 2026-09-28 · refreshed 2026-09-28 16:25 PDT**
+> **256 dated entries across 3 notes · 2026-07-09 → 2026-09-28 · refreshed 2026-09-28 16:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -274,3 +274,4 @@
 - `2026-09-27` [buildout-bottleneck-map.md:L2030](../buildout-bottleneck-map.md) — 2026-09-27 ~6:51pm PDT (Y'd ~8:07pm) — 🏗️ **GOLDMAN: BEHIND-THE-METER ~25% OF ALL DATA-CENTER POWER BY 2030 (~50-60% OF NEW BUILDS). JAKE TAKES THE OV
 - `2026-09-27` [war-board.md:L5191](../war/war-board.md) — 2026-09-27 ~5:34pm PDT (Y'd ~5:48pm) — 📢 **TRUMP ANNOUNCEMENT MONDAY 2PM ET (WHITE HOUSE) — TOPIC UNKNOWN; A SCHEDULED, IN-SESSION "ANNOUNCED EVENT."*
 - `2026-09-28` [buildout-bottleneck-map.md:L2037](../buildout-bottleneck-map.md) — 2026-09-28 ~4:16pm PDT (Y'd ~4:24pm) — 🏥 **THE FEDERAL LEDGER OF THE LOOSEN/TIGHTEN SPLIT: 30 FEDERAL ACTIONS SINCE JAN-2025 THAT EASE DATA-CENTER POW
+- `2026-09-28` [war-board.md:L5199](../war/war-board.md) — 2026-09-28 ~3:58-4:01pm PDT (Y'd ~4:40pm) — 🔁 **WASHINGTON RUNS THE THREE-TRACK PATTERN TOO: OFFICIALS FLOAT CONDITIONAL RELIEF, THE PRESIDENT SAYS "I
