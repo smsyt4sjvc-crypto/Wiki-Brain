@@ -183,3 +183,12 @@ crushes from 19.79 my caveat was right, if it HOLDS or EXTENDS his read wins out
 **He wins outright.** The pre-event bid was not an artefact — the vol was genuinely underpriced relative to the
 event's realised magnitude, exactly as his RVOL-based "holding pat" read implied. **Second Jake call graded
 this week (after the Apple-capex-premium call), both against my stated position.**
+
+## 2026-09-27 ~4:27-5:35pm PDT — GRADING THE WEEKEND (Brent Sunday reopen)
+### `2026-09-25-weekend-oil-gap.md` — CALL: UNDER (P ≥5% gap ≈ 35%: 20 up / 15 down) — ✅ **CORRECT**
+- **Outcome:** Brent reopened **~+1% to +1.5%** (Jake: +1.5%; Yahoo BZ=F / Investing.com **Dec-26** contract $98.2-98.6 vs $97.44 prior close; WTI Nov $93.42, +1.1%). No ≥5% gap either way; diesel-specific shock: none.
+- ⛔ **Contract-perimeter note (Jake's catch, 5:35pm):** the $98 quotes are the **DECEMBER** Brent contract — Friday's **$104.32** settle was **NOVEMBER** (expires 9/30; data vendors already rolled). I read the Yahoo level as the same contract; only the % change was comparable. **Nov-Dec spread ≈ $7 = extreme backwardation.** Grade unaffected (% move ~1%).
+- **Chat-view update (not in the file, 9/25 night):** down-gap ~5% (deal dead) / up-gap ~25-30% ⇒ **direction UP was right; magnitude well short.**
+### `2026-09-25-iran-retaliation.md` — JAKE'S CALL (retaliation; E-W pipeline/Yanbu) — ⏳ **window 1 (before Sunday open): ✗ NO**
+- Outcome: **no kinetic retaliation before the reopen — verbal threats only** (Jake, 4:27pm). Claude's window-1 odds were 30% any / 12% confirmed pipeline damage / 5% mining — consistent with NO.
+- **Windows 2 (by 10/2) and 3 (before Nov 3) STILL OPEN** — a timing miss so far, not yet a substance miss.

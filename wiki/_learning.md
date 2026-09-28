@@ -180,3 +180,10 @@ reply uses one of these words, this is the lookup. Rule 22b in `CLAUDE.md`. Link
 - 2026: stock 12.8% ("worst since 2008") vs flow ~7%, flat since 2024 ⇒ the headline measured bookkeeping, not a new wave.
 - **Money read:** before trading a scary rate, ask stock or flow. Trends that matter show up in the FLOW first.
 
+## FUTURES CONTRACT ROLLS (met: Brent Nov vs Dec, 9/27)
+- Oil futures come in monthly contracts. "Brent" on a quote page means whichever month the site treats as current —
+  and sites switch ("roll") to the next month BEFORE the old one expires.
+- When the curve is steeply **backwardated** (near month far above the next), a roll makes the headline price "fall"
+  with no actual move — 9/27: Nov $104 vs Dec ~$97-98. Compare the SAME contract, or only % changes.
+- **Money read:** backwardation = the market paying up for oil NOW = physical tightness; a big roll "drop" is not a crash.
+

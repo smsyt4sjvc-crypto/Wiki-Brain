@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **477 dated entries across 6 notes · 2026-02-10 → 2026-09-26 · refreshed 2026-09-27 10:32 PDT**
+> **478 dated entries across 6 notes · 2026-02-10 → 2026-09-27 · refreshed 2026-09-27 17:49 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -505,3 +505,4 @@
 - `2026-09-26` [financing-fragility-gauge.md:L331](../financing-fragility-gauge.md) — 2026-09-26 ~8:08am PDT (Y'd ~9:27am) — 🏢 **OFFICE CRE MOVES FROM PAPER TO REALIZED LOSSES — AND THE KRE WORKBOOK UPDATE SAYS WHERE THEY LAND: CMBS BON
 - `2026-09-26` [hyperscaler-credit.md:L644](../hyperscaler-credit.md) — 2026-09-26 ~4:34pm PDT (Y'd ~5:54pm) — ⚖️ **JAKE: "I SEE REAL TROUBLE FOR CLOUDS… EVERY INPUT TO ACQUIRE IT IS A MESS." THE STEELMAN SPLITS "CLOUDS" I
 - `2026-09-26` [rates-board.md:L3744](../rates-board.md) — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 📅 **SEPTEMBER 30 IS A DOUBLE EVENT: 8:30am ET AUGUST PCE *PLUS* BEA's ANNUAL NATIONAL-ACCOUNTS UPDATE (VERIFIED
+- `2026-09-27` [financing-fragility-gauge.md:L340](../financing-fragility-gauge.md) — 2026-09-27 ~5:22pm PDT (Y'd ~5:48pm) — 🏦 **"AGENTIC DEPOSIT FLIGHT" (Apollo's Slok): AI AGENTS COULD SWEEP IDLE CHECKING CASH (~0.1%) INTO 3.3-5.0% AC
