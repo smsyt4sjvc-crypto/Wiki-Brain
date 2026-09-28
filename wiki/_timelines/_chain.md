@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1043 dated entries · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 13:31 PDT**
+> **1044 dated entries · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 15:31 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1078,3 +1078,4 @@
 - `2026-09-28` **[1]** rates-board.md:L3758 — 2026-09-28 close (Y'd ~1:30pm PDT) — 🔴 **BEAR FLATTENER, ALL REAL: THE 10Y REAL YIELD PRINTS A NEW HIGH (2.90%) WHILE BREAKEVENS DON'T MOVE ON A 3.4% 
 - `2026-09-28` **[3]** ai-financing-fragility.md:L8527 — 2026-09-28 close (Y'd ~1:30pm PDT) — 🧯 **JUNK ISSUANCE INDIGESTION: SEPTEMBER HY ~$38.5B (BUSIEST MONTH OF 2026), GOLDMAN SEES HY PREMIUMS AT ~5-MONTH
 - `2026-09-28` **[5]** memory-regime-question.md:L1453 — 2026-09-28 ~9:47-10:08am PDT (Y'd) — 📐 **MU INTO 9/30: THE EVIDENCE HIERARCHY, THE CORRECTED RISK FRAMING, AND WHAT THE IMPLIED-MOVE AUDIT ADDS.** *(J
+- `2026-09-28` **[5]** compression-thesis.md:L3518 — 2026-09-28 ~3:15pm PDT (Y'd ~3:31pm) — 🛡️ **CERTIFIED STACK vs UNCERTIFIED: OPENAI'S SELF-IMPOSED HALT IS THE EVIDENCE FOR DEPLOYMENT STANDARDS — AND 
