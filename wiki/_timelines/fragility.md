@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **479 dated entries across 6 notes · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 10:09 PDT**
+> **481 dated entries across 6 notes · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 13:31 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -506,4 +506,6 @@
 - `2026-09-26` [hyperscaler-credit.md:L644](../hyperscaler-credit.md) — 2026-09-26 ~4:34pm PDT (Y'd ~5:54pm) — ⚖️ **JAKE: "I SEE REAL TROUBLE FOR CLOUDS… EVERY INPUT TO ACQUIRE IT IS A MESS." THE STEELMAN SPLITS "CLOUDS" I
 - `2026-09-26` [rates-board.md:L3744](../rates-board.md) — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 📅 **SEPTEMBER 30 IS A DOUBLE EVENT: 8:30am ET AUGUST PCE *PLUS* BEA's ANNUAL NATIONAL-ACCOUNTS UPDATE (VERIFIED
 - `2026-09-27` [financing-fragility-gauge.md:L340](../financing-fragility-gauge.md) — 2026-09-27 ~5:22pm PDT (Y'd ~5:48pm) — 🏦 **"AGENTIC DEPOSIT FLIGHT" (Apollo's Slok): AI AGENTS COULD SWEEP IDLE CHECKING CASH (~0.1%) INTO 3.3-5.0% AC
+- `2026-09-28` [ai-financing-fragility.md:L8527](../ai-financing-fragility.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 🧯 **JUNK ISSUANCE INDIGESTION: SEPTEMBER HY ~$38.5B (BUSIEST MONTH OF 2026), GOLDMAN SEES HY PREMIUMS AT ~5-MONTH
 - `2026-09-28` [rates-board.md:L3751](../rates-board.md) — 2026-09-28 ~8:03am PDT (Y'd ~8:06am) — 🏛️ **A FED VOTER NAMES THE CROWD-OUT LOOP: HAMMACK — YIELDS ARE UP ON REAL RATES AND "COMPETITION FOR INVESTOR 
+- `2026-09-28` [rates-board.md:L3758](../rates-board.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 🔴 **BEAR FLATTENER, ALL REAL: THE 10Y REAL YIELD PRINTS A NEW HIGH (2.90%) WHILE BREAKEVENS DON'T MOVE ON A 3.4% 

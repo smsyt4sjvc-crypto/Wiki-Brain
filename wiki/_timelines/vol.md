@@ -1,6 +1,6 @@
 # ⏱ VOL — merged timeline (the gate)
 
-> **180 dated entries across 4 notes · 2026-07-01 → 2026-09-25 · refreshed 2026-09-28 10:09 PDT**
+> **181 dated entries across 4 notes · 2026-07-01 → 2026-09-28 · refreshed 2026-09-28 13:31 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -199,3 +199,4 @@
 - `2026-09-23` [market-fragility.md:L4695](../market-fragility.md) — 2026-09-23 ~12:45pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐ **"THE MOVE/VIX GAP IS THE TRADE" (Jake) — TESTED: THERE IS NO GAP BETWEEN THEM; THE GAP IS IMPL
 - `2026-09-25` [market-fragility.md:L4700](../market-fragility.md) — 2026-09-25 ~1:07-1:25pm PDT (Y'd) — ⭐⭐⭐⭐ **MOVE +33% IN TWO DAYS SCORES THE 9/23 CALL — AND JAKE'S "GAP" IS NOW MORE RIGHT THAN IT WAS · BREADTH: 9 ST
 - `2026-09-25` [market-fragility.md:L4708](../market-fragility.md) — 2026-09-25 ~5:10pm PDT (Y'd ~6:05pm) — 📊 **1996-2000 vs 2023-NOW: AT THE SAME AGE THE NASDAQ IS UP THE SAME AMOUNT (+160% vs +159%) — AND THE 90s THEN
+- `2026-09-28` [market-fragility.md:L4722](../market-fragility.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 📈 **THE CREDIT SEQUENCE IS NOW DIRECTIONAL: IG 77 → 79 → 81 · BBB 95 → 97 → 99 · HY 273 → 280 → 293 · CCC 1,093 →

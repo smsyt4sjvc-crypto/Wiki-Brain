@@ -149,3 +149,17 @@ when the pending entries file.
 | LEN short | 81.53 | 82.30 | −0.9% | +0.2% |
 | MU long | 1,071.88 | 1,041.08 | **−2.9%** | −3.8% (stop 995) |
 - **Leans (not executed):** ORCL — partial at T1 130.1, trail stop to entry 144.6 · MU — exit today (pre-earnings run-up failed; hawkish repricing; Wed PCE + print) · DINO — trim before 11am PT or hold per rule · DHT/UAL/LEN — hold. ⬜ Jake to report any executions.
+
+## 2026-09-28 close (Y'd ~1:30pm PDT) — 📒 BOOK CLOSE + ⭐ RULE ADDENDUM: "OPINIONS MOVE PRICES, NOT FACTS" (Jake: "Opinions move stocks.")
+| Position | Entry | Close | P/L |
+|---|---|---|---|
+| ORCL short | 144.56 | 132.61 | **+8.3%** |
+| DHT long | 21.28 | 21.90 | +2.9% |
+| DINO long | 106.11 | 106.21 | +0.1% |
+| LEN short | 81.53 | 82.03 | −0.6% |
+| UAL short | 110.72 | 111.51 | −0.7% |
+| MU long | 1,071.88 | 1,053.98 | −1.7% |
+Average +1.4%. No executions reported; book.csv unchanged. MU: Tuesday-close decision (limit ~$1,095-1,105; stop ~$1,038 — leans, not set).
+
+**RULE 16d-e — FLOW CATALYSTS (set 2026-09-28):** Claude dismissed sell-side calls as "opinion, not data"; Jake: "Opinions move stocks." **Conceded — the fix is a distinction, not a dismissal:** the evidence ladder (measured 2 / confirmed 1 / reported 0.5) grades claims about HOW THE WORLD IS; an analyst call is a bottom-rung claim about the future by someone with a book. But it is a top-tier input for PRICE over the next few days. ⇒ **Analyst upgrades/downgrades, targets and consensus shifts are logged as FLOW CATALYSTS: a 0.5 mark on the affected name, dated, expiring FAST (~5 sessions, not 120 days).** Evidence: MU entered March with a Strong-Buy consensus and a monster beat and fell 5% — the opinion moved the stock INTO the print, not THROUGH it (`earnings-implied-moves`). ⬜ `money_board.py` has a fixed 120-day expiry — a per-row expiry column is needed (joins the pending "Y fixes": decay half-life, event-proximity term, crack driver). Until then, flow rows carry "FLOW (exp ~5 sessions)" in the event text and are excluded by hand.
+

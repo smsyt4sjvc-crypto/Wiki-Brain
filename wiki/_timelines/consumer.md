@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **489 dated entries across 6 notes · 2026-03-13 → 2026-09-27 · refreshed 2026-09-28 10:09 PDT**
+> **490 dated entries across 6 notes · 2026-03-13 → 2026-09-28 · refreshed 2026-09-28 13:31 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -514,3 +514,4 @@
 - `2026-09-25` [market-fragility.md:L4708](../market-fragility.md) — 2026-09-25 ~5:10pm PDT (Y'd ~6:05pm) — 📊 **1996-2000 vs 2023-NOW: AT THE SAME AGE THE NASDAQ IS UP THE SAME AMOUNT (+160% vs +159%) — AND THE 90s THEN
 - `2026-09-26` [new-economy-regime.md:L5013](../new-economy-regime.md) — 2026-09-26 ~6:57pm PDT (Y'd 9/27 ~9:26am) — 🔀 **"ENERGY INDEPENDENCE" IS MOSTLY SUPPLIER REALIGNMENT: COUNTRIES AREN'T BECOMING INDEPENDENT, THEY'RE S
 - `2026-09-27` [consumption-vs-investment-crux.md:L317](../consumption-vs-investment-crux.md) — 2026-09-27 ~9:22am PDT (Y'd ~9:26am) — 🧾 **THE 12.8% CARD-DELINQUENCY HEADLINE IS A STOCK MEASURE INFLATED BY STALE CHARGED-OFF DEBT; THE FLOW OF NEW 
+- `2026-09-28` [market-fragility.md:L4722](../market-fragility.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 📈 **THE CREDIT SEQUENCE IS NOW DIRECTIONAL: IG 77 → 79 → 81 · BBB 95 → 97 → 99 · HY 273 → 280 → 293 · CCC 1,093 →
