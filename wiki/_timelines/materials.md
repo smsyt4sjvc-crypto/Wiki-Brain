@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **254 dated entries across 3 notes · 2026-07-09 → 2026-09-27 · refreshed 2026-09-28 15:31 PDT**
+> **255 dated entries across 3 notes · 2026-07-09 → 2026-09-28 · refreshed 2026-09-28 16:25 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -273,3 +273,4 @@
 - `2026-09-26` [war-board.md:L5184](../war/war-board.md) — 2026-09-26 ~6:42pm PDT (Y'd 9/27 ~9:26am) — 🛩️ **DRONE ATTRITION IS FUNDING REPLACEMENTS: THE AIR FORCE MORE THAN DOUBLED THE ONDAS/DZYNE "ULTRA" RECO
 - `2026-09-27` [buildout-bottleneck-map.md:L2030](../buildout-bottleneck-map.md) — 2026-09-27 ~6:51pm PDT (Y'd ~8:07pm) — 🏗️ **GOLDMAN: BEHIND-THE-METER ~25% OF ALL DATA-CENTER POWER BY 2030 (~50-60% OF NEW BUILDS). JAKE TAKES THE OV
 - `2026-09-27` [war-board.md:L5191](../war/war-board.md) — 2026-09-27 ~5:34pm PDT (Y'd ~5:48pm) — 📢 **TRUMP ANNOUNCEMENT MONDAY 2PM ET (WHITE HOUSE) — TOPIC UNKNOWN; A SCHEDULED, IN-SESSION "ANNOUNCED EVENT."*
+- `2026-09-28` [buildout-bottleneck-map.md:L2037](../buildout-bottleneck-map.md) — 2026-09-28 ~4:16pm PDT (Y'd ~4:24pm) — 🏥 **THE FEDERAL LEDGER OF THE LOOSEN/TIGHTEN SPLIT: 30 FEDERAL ACTIONS SINCE JAN-2025 THAT EASE DATA-CENTER POW

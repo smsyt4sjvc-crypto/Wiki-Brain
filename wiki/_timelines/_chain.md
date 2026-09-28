@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1044 dated entries · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 15:31 PDT**
+> **1045 dated entries · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 16:25 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1076,6 +1076,7 @@
 - `2026-09-26` **[5]** compression-thesis.md:L3510 — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 🔌 **US-CHINA: DETAILS MONDAY, AI CHIPS EXCLUDED — AND A BIPARTISAN BILL TO KEEP CHINESE OPTICAL TRANSCEIVERS OU
 - `2026-09-28` **[1]** rates-board.md:L3751 — 2026-09-28 ~8:03am PDT (Y'd ~8:06am) — 🏛️ **A FED VOTER NAMES THE CROWD-OUT LOOP: HAMMACK — YIELDS ARE UP ON REAL RATES AND "COMPETITION FOR INVESTOR 
 - `2026-09-28` **[1]** rates-board.md:L3758 — 2026-09-28 close (Y'd ~1:30pm PDT) — 🔴 **BEAR FLATTENER, ALL REAL: THE 10Y REAL YIELD PRINTS A NEW HIGH (2.90%) WHILE BREAKEVENS DON'T MOVE ON A 3.4% 
+- `2026-09-28` **[2]** hyperscaler-credit.md:L653 — 2026-09-28 ~4:18pm PDT (Y'd ~4:24pm) — 🔴🔴 **ORCL 5Y CDS +14.9 TO A RECORD 250.6bp (ICE) / 251.4 (BBG) — THE MARKET PRICES ORACLE TWO-TO-THREE NOTCHES 
 - `2026-09-28` **[3]** ai-financing-fragility.md:L8527 — 2026-09-28 close (Y'd ~1:30pm PDT) — 🧯 **JUNK ISSUANCE INDIGESTION: SEPTEMBER HY ~$38.5B (BUSIEST MONTH OF 2026), GOLDMAN SEES HY PREMIUMS AT ~5-MONTH
 - `2026-09-28` **[5]** memory-regime-question.md:L1453 — 2026-09-28 ~9:47-10:08am PDT (Y'd) — 📐 **MU INTO 9/30: THE EVIDENCE HIERARCHY, THE CORRECTED RISK FRAMING, AND WHAT THE IMPLIED-MOVE AUDIT ADDS.** *(J
 - `2026-09-28` **[5]** compression-thesis.md:L3518 — 2026-09-28 ~3:15pm PDT (Y'd ~3:31pm) — 🛡️ **CERTIFIED STACK vs UNCERTIFIED: OPENAI'S SELF-IMPOSED HALT IS THE EVIDENCE FOR DEPLOYMENT STANDARDS — AND 

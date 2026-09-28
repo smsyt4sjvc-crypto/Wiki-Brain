@@ -1,6 +1,6 @@
 # ⏱ POWER — merged timeline (the gate)
 
-> **121 dated entries across 3 notes · 2026-06-30 → 2026-09-27 · refreshed 2026-09-28 15:31 PDT**
+> **122 dated entries across 3 notes · 2026-06-30 → 2026-09-28 · refreshed 2026-09-28 16:25 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -143,3 +143,4 @@
 - `2026-09-26` [buildout-bottleneck-map.md:L2021](../buildout-bottleneck-map.md) — 2026-09-26 ~4:09pm PDT (Y'd ~5:54pm) — 🏭 **NEW JERSEY FINES THE MICROSOFT-LINKED VINELAND CAMPUS A RECORD $1.07M FOR UNPERMITTED GAS GENERATORS — A ST
 - `2026-09-27` [buildout-bottleneck-map.md:L2030](../buildout-bottleneck-map.md) — 2026-09-27 ~6:51pm PDT (Y'd ~8:07pm) — 🏗️ **GOLDMAN: BEHIND-THE-METER ~25% OF ALL DATA-CENTER POWER BY 2030 (~50-60% OF NEW BUILDS). JAKE TAKES THE OV
 - `2026-09-27` [nuclear.md:L828](../nuclear.md) — 2026-09-27 ~10:29am PDT (Y'd ~10:31am) — ⚛️ **THE ENRICHMENT CLIFF IS DATED: RUSSIAN-LEU IMPORT WAIVERS END JAN 2028 (NO EXTENSION PLANNED) AND RUSSIA
+- `2026-09-28` [buildout-bottleneck-map.md:L2037](../buildout-bottleneck-map.md) — 2026-09-28 ~4:16pm PDT (Y'd ~4:24pm) — 🏥 **THE FEDERAL LEDGER OF THE LOOSEN/TIGHTEN SPLIT: 30 FEDERAL ACTIONS SINCE JAN-2025 THAT EASE DATA-CENTER POW
