@@ -606,7 +606,7 @@ cron writes `data/fragility/*` on wb main directly, so its copy can be newer —
   so the panel goes stale silently. Run it before quoting any CDS level.** Prices are
   points-upfront and the spread column is a MODEL conversion: read DELTAS, not levels.
   **The maturity rolls on each IMM date (Mar 20 / Sep 20) — a cross-roll comparison is
-  invalid unless the maturity column is checked. VOLUME is still unobservable (DTCC TIW ⬜).**
+  invalid unless the maturity column is checked. ~~VOLUME is still unobservable (DTCC TIW ⬜).~~ ✔ 2026-09-28: a DTCC weekly IG-AI-CDS volume series EXISTS (via Goldman's chart, ~$7B/week at 7/31/2026, from ~$1B a year earlier) — observed only when GS republishes it; not a live feed (`hyperscaler-credit` 9/28).**
 - **⚠️ CHECK THE STALE FLAGS.** A stale number that looks calm is the most dangerous cell.
 - **⛔ READ `n/N lit`, NOT JUST THE STAGE COLOUR.** A stage holding 8 series has 8 chances to
   light; one holding 1 has one. **✦ = corroborated (≥2 independent series).** A stage lit on a

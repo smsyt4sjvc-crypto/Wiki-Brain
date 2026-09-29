@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **439 dated entries across 3 notes · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 16:42 PDT**
+> **440 dated entries across 3 notes · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 19:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -464,6 +464,7 @@
 - `2026-09-28` [ai-financing-fragility.md:L8527](../ai-financing-fragility.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 🧯 **JUNK ISSUANCE INDIGESTION: SEPTEMBER HY ~$38.5B (BUSIEST MONTH OF 2026), GOLDMAN SEES HY PREMIUMS AT ~5-MONTH
 - `2026-09-28` [ai-financing-fragility.md:L8534](../ai-financing-fragility.md) — 2026-09-28 ~4:29pm PDT (Y'd ~4:40pm) — 📄 **ANTHROPIC'S IPO PROSPECTUS (Reuters, seen): 2025 REVENUE ~$4.6B (12×), OPERATING LOSS >$8B, COMPUTE $7.33B 
 - `2026-09-28` [hyperscaler-credit.md:L653](../hyperscaler-credit.md) — 2026-09-28 ~4:18pm PDT (Y'd ~4:24pm) — 🔴🔴 **ORCL 5Y CDS +14.9 TO A RECORD 250.6bp (ICE) / 251.4 (BBG) — THE MARKET PRICES ORACLE TWO-TO-THREE NOTCHES 
+- `2026-09-28` [hyperscaler-credit.md:L660](../hyperscaler-credit.md) — 2026-09-28 ~6:30pm PDT (Y'd ~7:40pm) — 📊 **"AI CDS" IS BECOMING A MARKET: DTCC WEEKLY VOLUME IN IG-AI CREDIT PROTECTION ~$1B → ~$7B IN A YEAR (Goldman
 - `2026-09-28` [rates-board.md:L3751](../rates-board.md) — 2026-09-28 ~8:03am PDT (Y'd ~8:06am) — 🏛️ **A FED VOTER NAMES THE CROWD-OUT LOOP: HAMMACK — YIELDS ARE UP ON REAL RATES AND "COMPETITION FOR INVESTOR 
 - `2026-09-28` [rates-board.md:L3758](../rates-board.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 🔴 **BEAR FLATTENER, ALL REAL: THE 10Y REAL YIELD PRINTS A NEW HIGH (2.90%) WHILE BREAKEVENS DON'T MOVE ON A 3.4% 
 - `2026-09-28` [rates-board.md:L3764](../rates-board.md) — 2026-09-28 ~4:38pm PDT (Y'd ~4:40pm) — ⚖️ **QUARTER-END REBALANCING: GS FICC MODELS ~$33B OF US EQUITIES TO SELL / BONDS TO BUY FROM US PENSIONS INTO 

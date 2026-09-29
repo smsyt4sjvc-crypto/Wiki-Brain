@@ -199,3 +199,11 @@ reply uses one of these words, this is the lookup. Rule 22b in `CLAUDE.md`. Link
 - **Money read:** a QUIET implied move is not a safe sign — in this sample small expectations preceded DOWN prints 3 times
   in 4. And names differ: NVDA moved less than priced 7 of 8 times; MU/MRVL moved more.
 
+## VaR SHOCK (met: the lunchtime oil squeeze, 9/28)
+- **VaR (value at risk)** = the loss a trading desk is allowed to be exposed to on a normal bad day. It's computed from
+  recent price swings, so when prices get jumpier the allowed position SHRINKS automatically.
+- A **VaR shock** is a sudden jump in volatility that forces desks to cut positions whether or not they believe the
+  news. Drop a headline into thin liquidity (NY lunchtime for oil) and you can force other people to sell.
+- **Money read:** a headline-driven $3 swing that reverses is forced flow, not a change in supply. Don't run tight
+  intraday stops through the window; judge the war premium on daily closes and physical data.
+
