@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1048 dated entries · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 19:41 PDT**
+> **1051 dated entries · 2026-02-10 → 2026-09-29 · refreshed 2026-09-29 08:12 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1083,3 +1083,6 @@
 - `2026-09-28` **[3]** ai-financing-fragility.md:L8534 — 2026-09-28 ~4:29pm PDT (Y'd ~4:40pm) — 📄 **ANTHROPIC'S IPO PROSPECTUS (Reuters, seen): 2025 REVENUE ~$4.6B (12×), OPERATING LOSS >$8B, COMPUTE $7.33B 
 - `2026-09-28` **[5]** memory-regime-question.md:L1453 — 2026-09-28 ~9:47-10:08am PDT (Y'd) — 📐 **MU INTO 9/30: THE EVIDENCE HIERARCHY, THE CORRECTED RISK FRAMING, AND WHAT THE IMPLIED-MOVE AUDIT ADDS.** *(J
 - `2026-09-28` **[5]** compression-thesis.md:L3518 — 2026-09-28 ~3:15pm PDT (Y'd ~3:31pm) — 🛡️ **CERTIFIED STACK vs UNCERTIFIED: OPENAI'S SELF-IMPOSED HALT IS THE EVIDENCE FOR DEPLOYMENT STANDARDS — AND 
+- `2026-09-29` **[1]** rates-board.md:L3771 — 2026-09-29 ~8:10am PDT (open scan; the 7:00am PT prints verified at BLS / Conference Board) — 📉 **TWO MISSES AND NO RALLY: JOLTS 7.10M vs 7.23M · CONF
+- `2026-09-29` **[2]** hyperscaler-credit.md:L667 — 2026-09-29 ~8:10am PDT (open scan, verified) — 🛡️ **NVIDIA IS SHOPPING THE RESIDUAL-VALUE RISK TO INSURERS: TALKS ON PROTECTING LENDERS TO NEOCLOUDS I
+- `2026-09-29` **[3]** ai-financing-fragility.md:L8543 — 2026-09-29 ~8:10am PDT (open scan, verified) — 🏗️ **SAMSUNG PUTS $1B INTO KKR'S HELIX — THE FIRST NAMED $500B-PLATFORM VEHICLE (8/30, `:L7793`) NOW HA

@@ -432,6 +432,9 @@ THREADS = {
                'michigan','umich','conference board','census bureau','advance retail',
                'redbook','prime day','black friday','walmart','target','costco','amazon',
                'dollar general','dollar tree','tjx','ross stores','burlington',
+               # gap 2026-09-29: FICO/VantageScore + CarMax hit NO thread (open scan 9/29)
+               'carmax','kmx','fico','fair isaac','vantagescore','fhfa','rocket mortgage','credit score',
+               'used-car','used car','auto loan',
                # MEASURES
                'nonstore','ex-autos','ex autos','ex-auto','food services','restaurants and bars',
                'general merchandise','business inventories','inventory/sales','inventories-to-sales',

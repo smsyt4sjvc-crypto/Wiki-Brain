@@ -163,3 +163,22 @@ Average +1.4%. No executions reported; book.csv unchanged. MU: Tuesday-close dec
 
 **RULE 16d-e — FLOW CATALYSTS (set 2026-09-28):** Claude dismissed sell-side calls as "opinion, not data"; Jake: "Opinions move stocks." **Conceded — the fix is a distinction, not a dismissal:** the evidence ladder (measured 2 / confirmed 1 / reported 0.5) grades claims about HOW THE WORLD IS; an analyst call is a bottom-rung claim about the future by someone with a book. But it is a top-tier input for PRICE over the next few days. ⇒ **Analyst upgrades/downgrades, targets and consensus shifts are logged as FLOW CATALYSTS: a 0.5 mark on the affected name, dated, expiring FAST (~5 sessions, not 120 days).** Evidence: MU entered March with a Strong-Buy consensus and a monster beat and fell 5% — the opinion moved the stock INTO the print, not THROUGH it (`earnings-implied-moves`). ⬜ `money_board.py` has a fixed 120-day expiry — a per-row expiry column is needed (joins the pending "Y fixes": decay half-life, event-proximity term, crack driver). Until then, flow rows carry "FLOW (exp ~5 sessions)" in the event text and are excluded by hand.
 
+
+## 2026-09-29 ~8:10am PDT — 📒 BOOK SNAPSHOT (`tools/tape.py`, ~8:05am PT / 11:05am ET) + TODAY'S MARKS (open scan, verified)
+| Position | Entry | Now | P/L | Day | Note |
+|---|---|---|---|---|---|
+| ORCL short | 144.56 | 141.2-141.4 | **+2.2%** (was +8.3%) | **+6.5%** | cause ⬜ unknown; premarket was +0.3% → intraday move; stop 154.5 closing basis |
+| DHT long | 21.28 | 22.14 | +4.0% | +1.1% | Brent ~$105-106 flat/up; Nov expires Wed |
+| DINO long | 106.11 | 106.08 | 0.0% | −0.1% | crack story intact; ban clock #7 = repeat |
+| LEN short | 81.53 | 82.53 | −1.2% | +0.6% | confidence 81.9 not yet in the tape |
+| UAL short | 110.72 | 111.38 | −0.6% | −0.1% | |
+| MU long | 1,071.88 | 1,077.05 | +0.5% | +2.2% | **Tuesday-close exit decision = TODAY (Jake's call)**; PCE + revision + print tomorrow |
+- **Leans (not executed, book.csv untouched):** ORCL — a +6.5% day with no identified driver: HOLD the short, do not add or cover on it (rule 21); if ICE 9/29 shows ORCL CDS tightening sharply with the equity, that is the cover signal to reassess · **MU — the 9/26 lean (exit at today's close rather than carry Wednesday's PCE/revision + print) stands; the rate tape did not improve it** · LEN — hold (the datum arrived; the tape lags) · DHT/DINO/UAL — hold.
+- **MARKS 9/29 (evidence-weighted; ⚠️ `data/money/marks.csv` is NOT in this Wiki-Brain checkout — `data/` is not synced by wb_push — so the CSV append is OWED on the INMA- vault side; the ledger lines are recorded here to be entered):**
+  - `hyperscaler-credit` 9/29: CRWV bull 0.5 · NBIS bull 0.5 · NVDA flat 0.5 (FT: Nvidia-insurer talks on GPU residual cover, reported) · **AVGO bear 1 · META bear 1** (ICE 9/28 through the registered 127/100 thresholds — measured, new level)
+  - `ai-financing-fragility` 9/29: KKR bull 0.5 · VST bull 0.5 (Samsung $1B into Helix)
+  - `rates-board` 9/29: **LEN bear 1** · TLT flat 1 (two misses, no rally) · XLY bear 0.5 (sentiment)
+  - `consumption-vs-investment-crux` 9/29: **KMX bull 2** (measured print)
+  - `fico-vantagescore` 9/29: **FICO bear 1** · EFX bull 0.5 · TRU bull 0.5 · RKT flat 0.5
+  - `war/war-board` 9/29: none (Petroline/Hormuz = the 9/25/9/28 signal at the reported rung; anti-double-count) · `compression-thesis` 9/29: none (Astra = the 9/28 event)
+- **Driver check (rule 16d-d):** KMX trades on SPY/consumer, FICO on its own policy clock (no ETF driver — flag weak link when scored), AVGO/META on SOXX/SPY. Run `money_board.py` at the close on the INMA- side once the CSV carries these.

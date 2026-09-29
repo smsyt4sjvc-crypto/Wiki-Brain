@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **490 dated entries across 6 notes · 2026-03-13 → 2026-09-28 · refreshed 2026-09-28 19:41 PDT**
+> **491 dated entries across 6 notes · 2026-03-13 → 2026-09-29 · refreshed 2026-09-29 08:12 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -515,3 +515,4 @@
 - `2026-09-26` [new-economy-regime.md:L5013](../new-economy-regime.md) — 2026-09-26 ~6:57pm PDT (Y'd 9/27 ~9:26am) — 🔀 **"ENERGY INDEPENDENCE" IS MOSTLY SUPPLIER REALIGNMENT: COUNTRIES AREN'T BECOMING INDEPENDENT, THEY'RE S
 - `2026-09-27` [consumption-vs-investment-crux.md:L317](../consumption-vs-investment-crux.md) — 2026-09-27 ~9:22am PDT (Y'd ~9:26am) — 🧾 **THE 12.8% CARD-DELINQUENCY HEADLINE IS A STOCK MEASURE INFLATED BY STALE CHARGED-OFF DEBT; THE FLOW OF NEW 
 - `2026-09-28` [market-fragility.md:L4722](../market-fragility.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 📈 **THE CREDIT SEQUENCE IS NOW DIRECTIONAL: IG 77 → 79 → 81 · BBB 95 → 97 → 99 · HY 273 → 280 → 293 · CCC 1,093 →
+- `2026-09-29` [consumption-vs-investment-crux.md:L326](../consumption-vs-investment-crux.md) — 2026-09-29 ~8:10am PDT (open scan, verified at the release) — 🚗 **SAME MORNING, TWO CONSUMERS: CARMAX +19.5% REVENUE, EPS $1.16 vs $0.73, RETAIL UNITS

@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **256 dated entries across 3 notes · 2026-07-09 → 2026-09-28 · refreshed 2026-09-28 19:41 PDT**
+> **257 dated entries across 3 notes · 2026-07-09 → 2026-09-29 · refreshed 2026-09-29 08:12 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -275,3 +275,4 @@
 - `2026-09-27` [war-board.md:L5191](../war/war-board.md) — 2026-09-27 ~5:34pm PDT (Y'd ~5:48pm) — 📢 **TRUMP ANNOUNCEMENT MONDAY 2PM ET (WHITE HOUSE) — TOPIC UNKNOWN; A SCHEDULED, IN-SESSION "ANNOUNCED EVENT."*
 - `2026-09-28` [buildout-bottleneck-map.md:L2037](../buildout-bottleneck-map.md) — 2026-09-28 ~4:16pm PDT (Y'd ~4:24pm) — 🏥 **THE FEDERAL LEDGER OF THE LOOSEN/TIGHTEN SPLIT: 30 FEDERAL ACTIONS SINCE JAN-2025 THAT EASE DATA-CENTER POW
 - `2026-09-28` [war-board.md:L5199](../war/war-board.md) — 2026-09-28 ~3:58-4:01pm PDT (Y'd ~4:40pm) — 🔁 **WASHINGTON RUNS THE THREE-TRACK PATTERN TOO: OFFICIALS FLOAT CONDITIONAL RELIEF, THE PRESIDENT SAYS "I
+- `2026-09-29` [war-board.md:L5208](../war/war-board.md) — 2026-09-29 ~8:10am PDT (open scan — verified against Reuters/Bloomberg/Kpler primaries) — 🛢️ **THE SAUDI BYPASS IS BACK AT "AT LEAST 3.5 mb/d" (BLOOMB

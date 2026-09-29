@@ -49,6 +49,7 @@ so a March entry lands on an August paste. The router prints the path on every m
 8d. 🔌 [[chips-mw-framework]] — **CHIPS ↔ OPERATIONAL MW (save copy of Jake's MW/$ dashboard project, 9/25)**: chips/MW · compute/MW · revenue/MW · $/intelligence; Jevons Spread; Stranded Silicon Gap; Oracle $/MW yield. The reference for "collecting dust" (⚠️ the 44% is an upper bound — circularity catch).
 8e. 🌊 [[el-nino]] — **EL NIÑO 2026-27 (9/26)**: NOAA >90% very strong / 75% record · four channels: mild winter vs diesel, Panama Canal vs shipping, food inflation vs rates, Atlantic hurricane suppression.
 8f. 🎯 [[earnings-implied-moves]] — **IMPLIED vs ACTUAL EARNINGS MOVES, the AI/chip ten (9/28)**: median move = 81% of implied, 42% exceed; low implied leaned DOWN (25% up); NVDA chronically overpriced, MU/MRVL under. Data in `data/earnings/`.
+8g. 🏛️ [[fico-vantagescore]] — **FICO vs VANTAGESCORE (9/29)**: FHFA unwinding the Classic-FICO mortgage toll (9/3 permission → 9/9 policy → 9/28 Rocket adopts + "one pricing grid", no date); FICO −27%; the sequence is a CLOCK (next lender, grid date) — marks FICO bear / EFX-TRU bull.
 
 ## 🤖 AI capex / compression / financing
 - [[ai-capex-cycle]] — the buildout cycle
