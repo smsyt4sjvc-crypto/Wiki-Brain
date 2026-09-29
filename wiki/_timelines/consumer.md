@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **491 dated entries across 6 notes · 2026-03-13 → 2026-09-29 · refreshed 2026-09-29 08:44 PDT**
+> **492 dated entries across 6 notes · 2026-03-13 → 2026-09-29 · refreshed 2026-09-29 09:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -516,3 +516,4 @@
 - `2026-09-27` [consumption-vs-investment-crux.md:L317](../consumption-vs-investment-crux.md) — 2026-09-27 ~9:22am PDT (Y'd ~9:26am) — 🧾 **THE 12.8% CARD-DELINQUENCY HEADLINE IS A STOCK MEASURE INFLATED BY STALE CHARGED-OFF DEBT; THE FLOW OF NEW 
 - `2026-09-28` [market-fragility.md:L4722](../market-fragility.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 📈 **THE CREDIT SEQUENCE IS NOW DIRECTIONAL: IG 77 → 79 → 81 · BBB 95 → 97 → 99 · HY 273 → 280 → 293 · CCC 1,093 →
 - `2026-09-29` [consumption-vs-investment-crux.md:L326](../consumption-vs-investment-crux.md) — 2026-09-29 ~8:10am PDT (open scan, verified at the release) — 🚗 **SAME MORNING, TWO CONSUMERS: CARMAX +19.5% REVENUE, EPS $1.16 vs $0.73, RETAIL UNITS
+- `2026-09-29` [demand-destruction.md:L4414](../demand-destruction.md) — 2026-09-29 ~9:05am PDT (Y'd ~9:25am) — 🛢️ **DOE OFFERS ANOTHER "UP TO 40 MILLION BARRELS" FROM THE SPR — AN EXCHANGE FROM BIG HILL + BRYAN MOUND, WITH

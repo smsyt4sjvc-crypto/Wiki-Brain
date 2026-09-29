@@ -182,3 +182,17 @@ Average +1.4%. No executions reported; book.csv unchanged. MU: Tuesday-close dec
   - `fico-vantagescore` 9/29: **FICO bear 1** · EFX bull 0.5 · TRU bull 0.5 · RKT flat 0.5
   - `war/war-board` 9/29: none (Petroline/Hormuz = the 9/25/9/28 signal at the reported rung; anti-double-count) · `compression-thesis` 9/29: none (Astra = the 9/28 event)
 - **Driver check (rule 16d-d):** KMX trades on SPY/consumer, FICO on its own policy clock (no ETF driver — flag weak link when scored), AVGO/META on SOXX/SPY. Run `money_board.py` at the close on the INMA- side once the CSV carries these.
+
+## 2026-09-29 ~8:45am PDT (Y'd ~9:25am "file everything") — 💼 **THE SUB-WEEK BUCKET, FIDELITY TIER-1 EXPRESSIONS ONLY (Jake: "a concentrated hold, option etc for < a week"). TWO BETS, NOT FOUR. EXECUTIONS ⬜ — nothing here is recorded as held until Jake says so.**
+*Quotes = Nasdaq option chain 11:45am ET / `tools/tape.py` ~8:05-8:45am PT. Sizing is Jake's. UAL spreads are wide — limits at the mid.*
+| Leg | Expression | Price | Why now (vault) | Kills it |
+|---|---|---|---|---|
+| HOLD | **DHT** shares | 22.37 | freight driver (corr 0.58 BWET), VLCC ~2× record; Iran window 2 closes Fri 10/2 (any retaliation ~65%, `predictions/2026-09-25`); Petroline → Red Sea routing lengthens voyages; a hit tanker raises war-risk premiums (9/29) | a DATED mediator meeting; Kpler clearance rising from ~77% toward baseline |
+| PUT | **UAL Oct-9 $107** | ~2.30 mid (1.97/2.67, OI 182) | board #1 bear 9/23 (−4.27; corr −0.73 Brent); jet = the distillate squeeze; breakeven 104.7 needs −6.2% by 10/9 (> one weekly σ 5.4%) ⇒ **sell it on a 3-4% down day, not at expiry** | a deal date gaps oil down and UAL +5% in a session (9/22, 9/25 precedent) |
+| PUT | **LEN Oct-9 $80** | 1.20/1.50 (OI 219) | confidence 81.9 + present-situation negative, long end up anyway; breakeven 78.65 inside one weekly σ (5.6%); LEN over DHI (DHI Oct-9 OI 2-12, spreads 1-2 pts) | a soft PCE Wed that lets the 10Y through 5.10 |
+| ALT | **TLT Oct-9 $78** | 1.03/1.06 (OI 13.4k) | cleanest instrument; two misses, no rally (9/29); breakeven ≈ +9bp on the 30Y | **two dated bond bids inside the week: $33B pension rebalance by 9/30 + ≥$4B 10-20Y buyback 10/1; JGB 40Y 3.10× cover (the automatic bid, abroad)** ⇒ alternate, not core |
+- **Clusters (the 9/23 "two bets" discipline):** DHT + UAL-put = **Hormuz stays impaired into 10/2**; LEN-put (or TLT-put) = **the long end refuses to rally through PCE.** One position only → the UAL put is the sharpest single expression the board has.
+- **No MU expression:** one contract at ~$1,077 = $8-10k premium; the implied-move study (`earnings-implied-moves`, n=80/60): MU beat 10/10, up next day 4/10 (Benzinga) ⇒ if MU shares are held, the standing lean is OUT at today's close (9/26 lean; unchanged by the rate tape).
+- **Mid-morning check (9:05am PT):** DHT +2.3% (tanker strike) · UAL flat (oil fell on the Qatar line) · LEN +0.5% (not yet honouring the datum) · TLT −0.7% (the long end sold).
+- **MARKS added 9/29 after the 8:10am list (still owed to `data/money/marks.csv` on the INMA- side):** `demand-destruction` 9/29: USO bear 0.5 · BNO bear 0.5 · VLO/MPC/DINO/PBF/PSX/PARR FLAT 0.5 · `nuclear` 9/29: OKLO bear 0.5 (note: the 9/23 backfill from grade 4 carried the misidentified 9/2 rationale) · `war/war-board` 9/29: none · `rates-board` 🌐: none (macro context).
+- ⛔ **WHICH BOOK:** this is a PROPOSED bucket, not the ACTUAL book (`portfolio-state` 9/29 rule). Record executions there.

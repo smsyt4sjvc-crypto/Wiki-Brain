@@ -192,3 +192,6 @@ this week (after the Apple-capex-premium call), both against my stated position.
 ### `2026-09-25-iran-retaliation.md` — JAKE'S CALL (retaliation; E-W pipeline/Yanbu) — ⏳ **window 1 (before Sunday open): ✗ NO**
 - Outcome: **no kinetic retaliation before the reopen — verbal threats only** (Jake, 4:27pm). Claude's window-1 odds were 30% any / 12% confirmed pipeline damage / 5% mining — consistent with NO.
 - **Windows 2 (by 10/2) and 3 (before Nov 3) STILL OPEN** — a timing miss so far, not yet a substance miss.
+
+## 2026-09-29 ~9:25am PDT — STATUS (not a grade): `2026-09-25-iran-retaliation.md` window 2 (by 10/2)
+- **UNRESOLVED, LEANING YES.** UKMTO 143-26 (report 29SEP 0530Z): a vessel struck by a suspected unknown projectile in Hormuz on the evening of 9/28, fire extinguished, crew safe, underway — **classed "Suspicious Activity," source "Third Party," time-late, no name/type/attribution.** Lloyd's List: a Kuwait Oil Tanker Company tanker (paywalled; via straits.live); TradeWinds: a VLCC. **The file's standard — confirmed by the target government, CENTCOM, UKMTO (first-hand) or Reuters/AP independently, with attribution to Iran/a proxy — is not cleanly met.** Petroline/Yanbu confirmed damage: NO. Mining: NO. **Grade at the window close (10/2) on the best evidence then; do not grade on ZeroHedge's "Iran struck a VLCC."** → `war/war-board` 9/29 🚢.

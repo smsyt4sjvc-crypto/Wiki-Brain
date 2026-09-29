@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **251 dated entries across 2 notes · 2026-03-13 → 2026-09-23 · refreshed 2026-09-29 08:44 PDT**
+> **252 dated entries across 2 notes · 2026-03-13 → 2026-09-29 · refreshed 2026-09-29 09:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -276,3 +276,4 @@
 - `2026-09-23` [demand-destruction.md:L4392](../demand-destruction.md) — Addendum 2026-09-23 ~8:00am PDT (Y'd, entered ~3:50pm) — **THE TAPE AFTER THE EIA: BRENT RECLAIMS $100 ON THE STRIKE, THE WATERBORNE SPREAD WIDENS — A
 - `2026-09-23` [demand-destruction.md:L4397](../demand-destruction.md) — 2026-09-23 ~10:40am-12:40pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐⭐ **BAN CLOCK #4 — A 90-DAY PLAN IS REPORTED, THE MARKET REHEARSES THE SCENARIO BLOCK, TH
 - `2026-09-23` [oil-value-chain.md:L2908](../oil-value-chain.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐ **THE FREIGHT WEDGE WIDENS US REFINERS' EDGE: ASIA PAYS ~$15-20/BBL TO MOVE GULF CRUDE WHILE US GULF COAST RUNS A SOFTEN
+- `2026-09-29` [demand-destruction.md:L4414](../demand-destruction.md) — 2026-09-29 ~9:05am PDT (Y'd ~9:25am) — 🛢️ **DOE OFFERS ANOTHER "UP TO 40 MILLION BARRELS" FROM THE SPR — AN EXCHANGE FROM BIG HILL + BRYAN MOUND, WITH
