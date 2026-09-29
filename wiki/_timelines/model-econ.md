@@ -1,6 +1,6 @@
 # ⏱ MODEL-ECON — merged timeline (the gate)
 
-> **229 dated entries across 2 notes · 2026-07-16 → 2026-09-28 · refreshed 2026-09-29 09:29 PDT**
+> **230 dated entries across 2 notes · 2026-07-16 → 2026-09-29 · refreshed 2026-09-29 12:27 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -248,3 +248,4 @@
 - `2026-09-25` [metered-compute.md:L3538](../metered-compute.md) — 2026-09-25 ~6:50pm PDT (Y'd ~6:55pm) — 🟠 **AI SPENDING IS CONCENTRATING WHILE ADOPTION BROADENS (Apollo/Ramp, verified) — BUT RAMP SEES CARD PAYERS ON
 - `2026-09-26` [compression-thesis.md:L3510](../compression-thesis.md) — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 🔌 **US-CHINA: DETAILS MONDAY, AI CHIPS EXCLUDED — AND A BIPARTISAN BILL TO KEEP CHINESE OPTICAL TRANSCEIVERS OU
 - `2026-09-28` [compression-thesis.md:L3518](../compression-thesis.md) — 2026-09-28 ~3:15pm PDT (Y'd ~3:31pm) — 🛡️ **CERTIFIED STACK vs UNCERTIFIED: OPENAI'S SELF-IMPOSED HALT IS THE EVIDENCE FOR DEPLOYMENT STANDARDS — AND 
+- `2026-09-29` [metered-compute.md:L3549](../metered-compute.md) — 2026-09-29 ~12:15pm PDT (Y'd ~12:25pm) — 💱 **GPT-6.1 SOL: NEAR-FRONTIER AT ONE-FIFTH THE PRICE ($2 / $0.10 cached / $10 per M tokens) — THE 9/3 NATURA

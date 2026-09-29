@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **605 dated entries across 4 notes · 2026-05-22 → 2026-09-29 · refreshed 2026-09-29 09:29 PDT**
+> **606 dated entries across 4 notes · 2026-05-22 → 2026-09-29 · refreshed 2026-09-29 12:27 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -630,3 +630,4 @@
 - `2026-09-28` [ai-financing-fragility.md:L8534](../ai-financing-fragility.md) — 2026-09-28 ~4:29pm PDT (Y'd ~4:40pm) — 📄 **ANTHROPIC'S IPO PROSPECTUS (Reuters, seen): 2025 REVENUE ~$4.6B (12×), OPERATING LOSS >$8B, COMPUTE $7.33B 
 - `2026-09-28` [compression-thesis.md:L3518](../compression-thesis.md) — 2026-09-28 ~3:15pm PDT (Y'd ~3:31pm) — 🛡️ **CERTIFIED STACK vs UNCERTIFIED: OPENAI'S SELF-IMPOSED HALT IS THE EVIDENCE FOR DEPLOYMENT STANDARDS — AND 
 - `2026-09-29` [ai-financing-fragility.md:L8543](../ai-financing-fragility.md) — 2026-09-29 ~8:10am PDT (open scan, verified) — 🏗️ **SAMSUNG PUTS $1B INTO KKR'S HELIX — THE FIRST NAMED $500B-PLATFORM VEHICLE (8/30, `:L7793`) NOW HA
+- `2026-09-29` [metered-compute.md:L3549](../metered-compute.md) — 2026-09-29 ~12:15pm PDT (Y'd ~12:25pm) — 💱 **GPT-6.1 SOL: NEAR-FRONTIER AT ONE-FIFTH THE PRICE ($2 / $0.10 cached / $10 per M tokens) — THE 9/3 NATURA

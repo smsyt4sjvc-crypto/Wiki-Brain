@@ -220,3 +220,10 @@ reply uses one of these words, this is the lookup. Rule 22b in `CLAUDE.md`. Link
 - **Money read:** a headline-driven $3 swing that reverses is forced flow, not a change in supply. Don't run tight
   intraday stops through the window; judge the war premium on daily closes and physical data.
 
+
+## 2026-09-29 — WHO TAKES THE KEYS: the CMBS default waterfall in plain English (met on the Bloomberg/Trepp office chart, Jake's Q)
+- **The owner walks first.** Office loans sit in a single-purpose entity with no recourse to the sponsor. When the refinance math fails, the equity is already zero, so handing back the keys costs nothing more.
+- **The mezzanine lender gets first refusal.** Its loan is secured by the equity in the entity, not the building. It can foreclose on that equity in weeks and own the property WITH the senior mortgage still on it — but only if it can cure and refinance that mortgage at today's rate. Usually it cannot, so it passes and is wiped out.
+- **The CMBS trust takes the building free of the debt.** The special servicer forecloses (or takes a deed in lieu). The trust does not get "an asset with debt"; it gets the asset instead of its loan. The loss = loan balance − sale proceeds, realized when the servicer sells, and it runs bottom-up through the bond stack: B-piece (first-loss) → BB/BBB → only past ~30% subordination does AAA feel it.
+- **Someone buys it on sale.** The REO buyer gets the building at 30-70% below the prior basis with new, smaller debt sized to today's rents and rates. That buyer — opportunistic funds, REITs with balance sheets — is who gets paid over the next cycle. Buy AFTER the keys change hands, not before.
+- **Extend-and-pretend** (modify, extend, hope) is the only alternative to this sequence; a 10Y above 5% is what stops it working. → [[financing-fragility-gauge]] 9/29 · [[chips-mw-framework]] (the data-center version: shell + specialized fit-out).

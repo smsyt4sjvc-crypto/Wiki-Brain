@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **477 dated entries across 3 notes · 2026-02-10 → 2026-09-29 · refreshed 2026-09-29 09:29 PDT**
+> **477 dated entries across 3 notes · 2026-02-10 → 2026-09-29 · refreshed 2026-09-29 12:27 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
