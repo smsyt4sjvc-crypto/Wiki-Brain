@@ -197,3 +197,16 @@ Average +1.4%. No executions reported; book.csv unchanged. MU: Tuesday-close dec
 - **MARKS added 9/29 after the 8:10am list (still owed to `data/money/marks.csv` on the INMA- side):** `demand-destruction` 9/29: USO bear 0.5 · BNO bear 0.5 · VLO/MPC/DINO/PBF/PSX/PARR FLAT 0.5 · `nuclear` 9/29: OKLO bear 0.5 (note: the 9/23 backfill from grade 4 carried the misidentified 9/2 rationale) · `war/war-board` 9/29: none · `rates-board` 🌐: none (macro context).
 - ⛔ **WHICH BOOK:** this is a PROPOSED bucket, not the ACTUAL book (`portfolio-state` 9/29 rule). Record executions there.
 - **MARKS added 9/29 ~12:25pm (Y'd; still owed to `data/money/marks.csv` on the INMA- side):** `ai-financing-fragility` (Jefferies): **JEF FLAT 0.5** · `compression-thesis` (DevDay): **MSFT bull 0.5 · ORCL bull 0.5 · META FLAT 0.5** · `compression-thesis` (HF lawsuit): **ORCL bear 0.5 · CRWV bear 0.5** (⇒ ORCL nets FLAT on the day's two inputs — the ledger keeps both) · `war/war-board` (Fars claim), `rates-board` (Cook, 12-yr low), `financing-fragility-gauge` (office chart): none. Book (ACTUAL, Jake): unchanged; executions ⬜.
+
+## 2026-09-29 close (Y'd ~9:05pm PDT) — 📒 PAPER BOOK + THE 9/29 BUCKET, DAY ONE. Jake's ACTUAL book: refinery basket (PBF/DINO/PARR/PSX/MPC/VLO, sizes ⬜), BNO puts (⬜), no MU, no shorts.
+| PAPER position (9/23 list) | Entry | 9/29 ~close | P/L |
+|---|---|---|---|
+| DINO long | 106.11 | 105.59 | −0.5% |
+| DHT long | 21.28 | 22.42 | +5.4% |
+| MU long | 1,071.88 | 1,065.08 | −0.6% (the "sell into the print" exit date was today — paper) |
+| UAL short | 110.72 | 112.65 | −1.7% |
+| ORCL short | 144.56 | 137.79 | +4.7% (was +8.3%; +3.9% day, driver ⬜) |
+| LEN short | 81.53 | 83.01 | −1.8% |
+- **The 9/29 sub-week bucket (proposed; executions ⬜):** DHT hold +2.4% on the day ✓ · UAL Oct-9 107P — UAL +1.0% (oil −2%) ✗ · LEN Oct-9 80P — LEN +1.2% ✗ (the datum arrived; the tape lagged) · alt TLT Oct-9 78P — TLT −0.5% ✓. Two bets, one worked: freight, not rates, paid on day one.
+- **MARKS added at the close (Y'd; owed to `data/money/marks.csv` on the INMA- side):** `rates-board` close: **TLT bear 0.5** · `market-fragility`: **HYG bear 1** (HY >300 measured) · `demand-destruction`: **VLO/MPC/PBF/PARR/PSX/DINO bull 1** (diesel record + EU margins record) · **DINO FLAT 0.5** (state-disaster political rung) · `oil-value-chain`: **HAL/SLB/BKR bull 0.5 · EQT/EXE bull 0.5** (driver ⬜) · `compression-thesis`/`financing-fragility-gauge`/`consumption-vs-investment-crux`/`ai-financing-fragility` ledger: none · `memory-regime-question`: none until the print.
+- **Registered for 9/30:** PCE + revision 5:30am PT · Nov Brent expiry (read Thursday's front month as DEC) · MU after the close → grade `predictions/2026-09-30-mu-print.md` on the 10/1 close · ICE 9/29 · `money_board.py` cannot run here (no CSV) — run on the INMA- side.

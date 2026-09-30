@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **176 dated entries across 2 notes · 2026-07-16 → 2026-09-28 · refreshed 2026-09-29 12:27 PDT**
+> **177 dated entries across 2 notes · 2026-07-16 → 2026-09-29 · refreshed 2026-09-29 21:12 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -195,3 +195,4 @@
 - `2026-09-26` [compression-thesis.md:L3510](../compression-thesis.md) — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 🔌 **US-CHINA: DETAILS MONDAY, AI CHIPS EXCLUDED — AND A BIPARTISAN BILL TO KEEP CHINESE OPTICAL TRANSCEIVERS OU
 - `2026-09-28` [compression-thesis.md:L3518](../compression-thesis.md) — 2026-09-28 ~3:15pm PDT (Y'd ~3:31pm) — 🛡️ **CERTIFIED STACK vs UNCERTIFIED: OPENAI'S SELF-IMPOSED HALT IS THE EVIDENCE FOR DEPLOYMENT STANDARDS — AND 
 - `2026-09-28` [memory-regime-question.md:L1453](../memory-regime-question.md) — 2026-09-28 ~9:47-10:08am PDT (Y'd) — 📐 **MU INTO 9/30: THE EVIDENCE HIERARCHY, THE CORRECTED RISK FRAMING, AND WHAT THE IMPLIED-MOVE AUDIT ADDS.** *(J
+- `2026-09-29` [memory-regime-question.md:L1462](../memory-regime-question.md) — 2026-09-29 ~7:20-7:40pm PDT (Y'd ~9:05pm) — 📐 **JAKE'S THESIS, THE NIGHT BEFORE THE PRINT: A STRAIGHT-LINE PRICING-POWER PACE, ACTUAL CONTRACT PRINTS 

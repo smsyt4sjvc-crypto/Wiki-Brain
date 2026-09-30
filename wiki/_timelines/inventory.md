@@ -1,6 +1,6 @@
 # ⏱ INVENTORY — merged timeline (the gate)
 
-> **168 dated entries across 1 notes · 2026-03-13 → 2026-09-29 · refreshed 2026-09-29 12:27 PDT**
+> **169 dated entries across 1 notes · 2026-03-13 → 2026-09-29 · refreshed 2026-09-29 21:12 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -193,3 +193,4 @@
 - `2026-09-23` [demand-destruction.md:L4392](../demand-destruction.md) — Addendum 2026-09-23 ~8:00am PDT (Y'd, entered ~3:50pm) — **THE TAPE AFTER THE EIA: BRENT RECLAIMS $100 ON THE STRIKE, THE WATERBORNE SPREAD WIDENS — A
 - `2026-09-23` [demand-destruction.md:L4397](../demand-destruction.md) — 2026-09-23 ~10:40am-12:40pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐⭐ **BAN CLOCK #4 — A 90-DAY PLAN IS REPORTED, THE MARKET REHEARSES THE SCENARIO BLOCK, TH
 - `2026-09-29` [demand-destruction.md:L4414](../demand-destruction.md) — 2026-09-29 ~9:05am PDT (Y'd ~9:25am) — 🛢️ **DOE OFFERS ANOTHER "UP TO 40 MILLION BARRELS" FROM THE SPR — AN EXCHANGE FROM BIG HILL + BRYAN MOUND, WITH
+- `2026-09-29` [demand-destruction.md:L4423](../demand-destruction.md) — 2026-09-29 ~4:20pm PDT (ZH scan, Y'd ~9:05pm) — ⛽ **NATIONAL DIESEL $6.44 (9/28) = A NEW RECORD; TEXAS DECLARES A STATEWIDE DIESEL DISASTER (ABBOTT, 9

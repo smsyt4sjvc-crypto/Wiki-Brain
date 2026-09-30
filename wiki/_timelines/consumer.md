@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **492 dated entries across 6 notes · 2026-03-13 → 2026-09-29 · refreshed 2026-09-29 12:27 PDT**
+> **494 dated entries across 6 notes · 2026-03-13 → 2026-09-29 · refreshed 2026-09-29 21:12 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -517,3 +517,5 @@
 - `2026-09-28` [market-fragility.md:L4722](../market-fragility.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 📈 **THE CREDIT SEQUENCE IS NOW DIRECTIONAL: IG 77 → 79 → 81 · BBB 95 → 97 → 99 · HY 273 → 280 → 293 · CCC 1,093 →
 - `2026-09-29` [consumption-vs-investment-crux.md:L326](../consumption-vs-investment-crux.md) — 2026-09-29 ~8:10am PDT (open scan, verified at the release) — 🚗 **SAME MORNING, TWO CONSUMERS: CARMAX +19.5% REVENUE, EPS $1.16 vs $0.73, RETAIL UNITS
 - `2026-09-29` [demand-destruction.md:L4414](../demand-destruction.md) — 2026-09-29 ~9:05am PDT (Y'd ~9:25am) — 🛢️ **DOE OFFERS ANOTHER "UP TO 40 MILLION BARRELS" FROM THE SPR — AN EXCHANGE FROM BIG HILL + BRYAN MOUND, WITH
+- `2026-09-29` [demand-destruction.md:L4423](../demand-destruction.md) — 2026-09-29 ~4:20pm PDT (ZH scan, Y'd ~9:05pm) — ⛽ **NATIONAL DIESEL $6.44 (9/28) = A NEW RECORD; TEXAS DECLARES A STATEWIDE DIESEL DISASTER (ABBOTT, 9
+- `2026-09-29` [market-fragility.md:L4728](../market-fragility.md) — 2026-09-29 close (Y'd ~9:05pm PDT) — 📈 **TWO REGISTERED CREDIT THRESHOLDS FIRED ON THE 9/28 ICE CLOSE: BBB 102 (>100) AND HY 302 (>300); B 309 (>300);

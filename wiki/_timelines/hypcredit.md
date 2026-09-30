@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **443 dated entries across 3 notes · 2026-02-10 → 2026-09-29 · refreshed 2026-09-29 12:27 PDT**
+> **444 dated entries across 3 notes · 2026-02-10 → 2026-09-29 · refreshed 2026-09-29 21:12 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -471,3 +471,4 @@
 - `2026-09-29` [ai-financing-fragility.md:L8543](../ai-financing-fragility.md) — 2026-09-29 ~8:10am PDT (open scan, verified) — 🏗️ **SAMSUNG PUTS $1B INTO KKR'S HELIX — THE FIRST NAMED $500B-PLATFORM VEHICLE (8/30, `:L7793`) NOW HA
 - `2026-09-29` [hyperscaler-credit.md:L667](../hyperscaler-credit.md) — 2026-09-29 ~8:10am PDT (open scan, verified) — 🛡️ **NVIDIA IS SHOPPING THE RESIDUAL-VALUE RISK TO INSURERS: TALKS ON PROTECTING LENDERS TO NEOCLOUDS I
 - `2026-09-29` [rates-board.md:L3771](../rates-board.md) — 2026-09-29 ~8:10am PDT (open scan; the 7:00am PT prints verified at BLS / Conference Board) — 📉 **TWO MISSES AND NO RALLY: JOLTS 7.10M vs 7.23M · CONF
+- `2026-09-29` [rates-board.md:L3784](../rates-board.md) — 2026-09-29 close (Y'd ~9:05pm PDT) — 🔴 **THE DAY THE FED PATH EASED AND THE LONG END SOLD OFF ANYWAY: 2Y −3 / 10Y +2 / 20Y +4 / 30Y +3 (30Y 5.59, INTR
