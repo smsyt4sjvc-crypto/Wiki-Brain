@@ -1,0 +1,12 @@
+# "Top Overnight News" — pasted by Jake 2026-10-01 ~7:10am PT (digest; per-item source tags as given)
+- BBG: 10Y rose to 5.33%, highest since 2002; Brent back above $100; UK long-term yields hit 6% for first time in almost three decades
+- WaPo: Washington "winning the War of Hormuz" — ME oil exports approach pre-war levels; Pentagon expending resources; global refined-products shortage worsening
+- RTRS: Trump admin told Germany and France to draw down emergency diesel inventories or face a potential US diesel export ban (three people); ban considered to lower US fuel prices before November midterms
+- BBG: Chinese fuel exporters canceled some October oil-product cargoes (gasoline, diesel), prioritizing domestic supply; Asia prompt spreads widened
+- RTRS: Europe/Asia factory activity expanded in Sept (AI spending boom); energy shock keeps inflation elevated
+- FT: Japan $140bn scheme to speed data-center development leveraging its "powerful gas trading company"; aim = largest AI infra hub outside US/China
+- WSJ: Kashkari — price pressures remain elevated after PCE (3.4% y/y Aug)
+- Politico: Powell will probably stay at the Fed until Jan 2028
+- FT: Tencent signed its largest overseas lease with Oracle — five-year lease across multiple Oracle data centers in south-east Asia, agreed this year (two people)
+- Axios: Sens. Hawley (R) and Murphy (D) planning bipartisan AI liability legislation
+- BofA (w/e 9/26): total card spending +5.6% y/y (prev +6.9%); lower-income spending growth again outpaced higher-income
