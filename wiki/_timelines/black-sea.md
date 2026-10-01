@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **256 dated entries across 2 notes · 2026-03-13 → 2026-09-30 · refreshed 2026-10-01 03:35 PDT**
+> **257 dated entries across 2 notes · 2026-03-13 → 2026-10-01 · refreshed 2026-10-01 07:53 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -281,3 +281,7 @@
 - `2026-09-29` [oil-value-chain.md:L2912](../oil-value-chain.md) — 2026-09-29 ~8:55pm PDT (Y'd ~9:05pm) — 🛢️ **THE 9/2 RIG METER CLOSES: OIL RIGS 447 → 455 IN FOUR WEEKS AT $100+ CRUDE — A MODEST RESPONSE. THE RIG STO
 - `2026-09-30` [demand-destruction.md:L4431](../demand-destruction.md) — 2026-09-30 ~6:50pm PDT (Y'd ~6:35pm) — ⛽ **BAN CLOCK #9: TRUMP'S "CRISIS TALKS" — THE CABINET IS AGAINST A BAN AND THE LOBBYING IS WINNING ON SUBSTANC
 - `2026-09-30` [oil-value-chain.md:L2920](../oil-value-chain.md) — 2026-09-30 ~6:50pm PDT (Y'd ~6:35pm) — 🛢️ **GOLDMAN: GULF OIL EXPORTS 23.3 mb/d "IN LINE WITH THEIR 2025 AVERAGE" — BUT THREE PERIMETERS ARE IN PLAY, 
+
+## 2026-10
+
+- `2026-10-01` [demand-destruction.md:L4441](../demand-destruction.md) — 2026-10-01 ~7:55am PDT (Y'd ~7:50am) — ⛽ **BAN CLOCK #10: WASHINGTON THREATENS ALLIES — "DRAW DOWN YOUR EMERGENCY DIESEL OR FACE A US EXPORT BAN." SAM
