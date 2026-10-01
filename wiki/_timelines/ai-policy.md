@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **606 dated entries across 4 notes · 2026-05-22 → 2026-09-29 · refreshed 2026-09-29 21:12 PDT**
+> **608 dated entries across 4 notes · 2026-05-22 → 2026-09-30 · refreshed 2026-09-30 18:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -631,3 +631,5 @@
 - `2026-09-28` [compression-thesis.md:L3518](../compression-thesis.md) — 2026-09-28 ~3:15pm PDT (Y'd ~3:31pm) — 🛡️ **CERTIFIED STACK vs UNCERTIFIED: OPENAI'S SELF-IMPOSED HALT IS THE EVIDENCE FOR DEPLOYMENT STANDARDS — AND 
 - `2026-09-29` [ai-financing-fragility.md:L8543](../ai-financing-fragility.md) — 2026-09-29 ~8:10am PDT (open scan, verified) — 🏗️ **SAMSUNG PUTS $1B INTO KKR'S HELIX — THE FIRST NAMED $500B-PLATFORM VEHICLE (8/30, `:L7793`) NOW HA
 - `2026-09-29` [metered-compute.md:L3549](../metered-compute.md) — 2026-09-29 ~12:15pm PDT (Y'd ~12:25pm) — 💱 **GPT-6.1 SOL: NEAR-FRONTIER AT ONE-FIFTH THE PRICE ($2 / $0.10 cached / $10 per M tokens) — THE 9/3 NATURA
+- `2026-09-29` [metered-compute.md:L3557](../metered-compute.md) — 2026-09-29 ~9:55pm PDT (Y'd 2026-09-30 ~6:35pm) — 📉 **SILICON DATA: "ANTHROPIC ARR FLATLINED WHEN THE TOKEN INDEX PEAKED." THE INDEX IS AN EXPENDITURE
+- `2026-09-30` [compression-thesis.md:L3533](../compression-thesis.md) — 2026-09-30 ~7:10pm PDT (Y'd ~6:35pm) — 🏛️ **THE ACCORD'S PRIMARY, THE FTC'S COUNTER-MOVE, AND DEEPSEEK'S CUDA SUBSTITUTE — THE SAME DAY. ⛔⛔ VENDOR CON

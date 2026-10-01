@@ -1,6 +1,6 @@
 # ⏱ WAR/OIL — merged timeline (the gate)
 
-> **426 dated entries across 3 notes · 2026-03-13 → 2026-09-29 · refreshed 2026-09-29 21:12 PDT**
+> **429 dated entries across 3 notes · 2026-03-13 → 2026-09-30 · refreshed 2026-09-30 18:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -451,3 +451,6 @@
 - `2026-09-29` [oil-value-chain.md:L2912](../oil-value-chain.md) — 2026-09-29 ~8:55pm PDT (Y'd ~9:05pm) — 🛢️ **THE 9/2 RIG METER CLOSES: OIL RIGS 447 → 455 IN FOUR WEEKS AT $100+ CRUDE — A MODEST RESPONSE. THE RIG STO
 - `2026-09-29` [war-board.md:L5208](../war/war-board.md) — 2026-09-29 ~8:10am PDT (open scan — verified against Reuters/Bloomberg/Kpler primaries) — 🛢️ **THE SAUDI BYPASS IS BACK AT "AT LEAST 3.5 mb/d" (BLOOMB
 - `2026-09-29` [war-board.md:L5221](../war/war-board.md) — 2026-09-29 ~9:00-9:30am PDT (Y'd ~9:25am) — 🚢 **A TANKER IS HIT IN HORMUZ THE NIGHT THE UN TALKS FAIL — UKMTO 143-26 CLASSES IT "SUSPICIOUS ACTIVITY,"
+- `2026-09-30` [demand-destruction.md:L4431](../demand-destruction.md) — 2026-09-30 ~6:50pm PDT (Y'd ~6:35pm) — ⛽ **BAN CLOCK #9: TRUMP'S "CRISIS TALKS" — THE CABINET IS AGAINST A BAN AND THE LOBBYING IS WINNING ON SUBSTANC
+- `2026-09-30` [oil-value-chain.md:L2920](../oil-value-chain.md) — 2026-09-30 ~6:50pm PDT (Y'd ~6:35pm) — 🛢️ **GOLDMAN: GULF OIL EXPORTS 23.3 mb/d "IN LINE WITH THEIR 2025 AVERAGE" — BUT THREE PERIMETERS ARE IN PLAY, 
+- `2026-09-30` [war-board.md:L5233](../war/war-board.md) — 2026-09-30 ~6:45pm PDT (Y'd ~6:35pm) — 🇮🇶 **US FORCES LEFT IRAQ TODAY; IRAN HOLDS A WRITTEN US RESPONSE AND THE DISPUTE IS THE ORDER OF STEPS; A FLYDU

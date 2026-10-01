@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **212 dated entries across 2 notes · 2026-07-01 → 2026-09-29 · refreshed 2026-09-29 21:12 PDT**
+> **213 dated entries across 2 notes · 2026-07-01 → 2026-09-30 · refreshed 2026-09-30 18:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -231,3 +231,4 @@
 - `2026-09-29` [portfolio-state.md:L1095](../portfolio-state.md) — 2026-09-29 ~8:55am PDT — ⛔ **CORRECTED ACTUAL BOOK (Jake's direct disclosure): "I don't hold an Oracle short. I'm not even eligible for that trade. I'
 - `2026-09-29` [war-board.md:L5208](../war/war-board.md) — 2026-09-29 ~8:10am PDT (open scan — verified against Reuters/Bloomberg/Kpler primaries) — 🛢️ **THE SAUDI BYPASS IS BACK AT "AT LEAST 3.5 mb/d" (BLOOMB
 - `2026-09-29` [war-board.md:L5221](../war/war-board.md) — 2026-09-29 ~9:00-9:30am PDT (Y'd ~9:25am) — 🚢 **A TANKER IS HIT IN HORMUZ THE NIGHT THE UN TALKS FAIL — UKMTO 143-26 CLASSES IT "SUSPICIOUS ACTIVITY,"
+- `2026-09-30` [war-board.md:L5233](../war/war-board.md) — 2026-09-30 ~6:45pm PDT (Y'd ~6:35pm) — 🇮🇶 **US FORCES LEFT IRAQ TODAY; IRAN HOLDS A WRITTEN US RESPONSE AND THE DISPUTE IS THE ORDER OF STEPS; A FLYDU

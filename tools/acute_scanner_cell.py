@@ -283,6 +283,8 @@ THREADS = {
                'gas-to-oil','gas to oil','fuel switching','switching','gasoil','heating season',
                'bundesnetzagentur','ehb','aggregate eu storage'],
  'POWER':     ['pjm','curtail','grid emergency','turbine','interconnection','smr',
+               # gap 2026-09-30: PJM backstop procurement + large-load curtailment were unreachable
+               'backstop procurement','reliability backstop','resource adequacy','base residual auction','monitoring analytics','large load','dominion',
                'behind-the-meter','ofgem','grid access','connection queue','commitment fee',
                'wolfspeed','silicon carbide','empower semiconductor','ionic digital',
                'grid operator','transmission','substation','ratepayer','moratorium',
@@ -302,6 +304,8 @@ THREADS = {
  # paste weak-matched ALLIANCE(1)* while demand-destruction held the +1.6M b/d offset line and the
  # China-routing prior. The oil map covered the DISRUPTED side, never the REPLACEMENT side.
  'WAR/OIL':   ['hormuz','qeshm','tanker','houthi','irgc','abqaiq','jazan','transit fee',
+               # gap 2026-09-30: Iraq exit + aviation war + UAE route-building were unreachable
+               'flydubai','fz1073','inherent resolve','erbil','ain dar','north ghawar','mokhber',"l'imad",'zero hormuz',
                'war risk','crack spread','refiner','lng',
                'iran','oman','majlis','fars','aramco','opec','brent','wti','kharg',
                'corridor','flag state','insurance premium',
@@ -320,7 +324,7 @@ THREADS = {
  'BLACK SEA': ['cpc','caspian pipeline','novorossiysk','tengiz','kashagan','karachaganak',
                'kazakh','kazakhstan','black sea','primorsk','ust-luga','druzhba','ceyhan'],
  'INVENTORY': ['spr','cushing','strategic petroleum','crude draw','crude build','tank bottoms',
-               'eia','api inventory','days of supply'],
+               'eia','api inventory','days of supply','padd 2','midwest gasoline','gasoline stocks'],
  # GAP #10 (8/5): the call's own subject. Entities + auction/liquidity measures added 8/8.
  # gap #23, 8/13: a PPI PRINT matched NO THREAD AT ALL. FED carried 'core cpi' and nothing else
  # from the inflation-release vocabulary — so the vault's own macro spine (new-economy-regime) and
@@ -356,6 +360,8 @@ THREADS = {
                'corporate spread','cds spread','swap spread','sofr','move index',
                'jgb','gilt','bund','oat','btp','boj','yield curve control','ycc'],
  'FED':       ['ppi','producer price','cpi','pce','core pce','deflator','headline cpi',
+               # gap 2026-09-30: nowcasts + data-vintage vocabulary
+               'gdpnow','nowcast','annual revision','annual update','saving rate','savings rate','personal saving',
                'bls','bea','import price','ism prices','prices paid','unit labor cost',
                # gap #21 (2026-08-23): PRICE ADMINISTRATION AS A POLICY INSTRUMENT. Jake listed six
                # live US interventions that set or coerce a price -- beef import waiver, directed
@@ -459,7 +465,9 @@ THREADS = {
                'executive order','white house','ai framework','voluntary framework',
                'model evaluation','capabilities testing','pre-release','frontier model',
                'ai safety','ai executive','classified threshold','trusted partner',
-               'ai act','model access','safety institute','nist ai','red team'],
+               'ai act','model access','safety institute','nist ai','red team',
+               # gap 2026-09-30: the Accord + FTC probe + China's CUDA substitute
+               'ftc','civil investigative','ferguson','super intelligence','external auditor','tilelang','ascend'],
  'KOREA':     ['kospi','kosdaq','circuit breaker','de-gross','degross','leveraged etf',
                'margin call','south korea','limit up','limit-up','daily limit','krx','korea'],
  'LABOR':     ['payroll','jolts','job openings','unemployment','jobless','nonfarm',

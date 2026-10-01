@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **236 dated entries across 3 notes · 2026-07-01 → 2026-09-29 · refreshed 2026-09-29 21:12 PDT**
+> **238 dated entries across 3 notes · 2026-07-01 → 2026-09-30 · refreshed 2026-09-30 18:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -255,3 +255,5 @@
 - `2026-09-26` [compression-thesis.md:L3510](../compression-thesis.md) — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 🔌 **US-CHINA: DETAILS MONDAY, AI CHIPS EXCLUDED — AND A BIPARTISAN BILL TO KEEP CHINESE OPTICAL TRANSCEIVERS OU
 - `2026-09-28` [compression-thesis.md:L3518](../compression-thesis.md) — 2026-09-28 ~3:15pm PDT (Y'd ~3:31pm) — 🛡️ **CERTIFIED STACK vs UNCERTIFIED: OPENAI'S SELF-IMPOSED HALT IS THE EVIDENCE FOR DEPLOYMENT STANDARDS — AND 
 - `2026-09-29` [metered-compute.md:L3549](../metered-compute.md) — 2026-09-29 ~12:15pm PDT (Y'd ~12:25pm) — 💱 **GPT-6.1 SOL: NEAR-FRONTIER AT ONE-FIFTH THE PRICE ($2 / $0.10 cached / $10 per M tokens) — THE 9/3 NATURA
+- `2026-09-29` [metered-compute.md:L3557](../metered-compute.md) — 2026-09-29 ~9:55pm PDT (Y'd 2026-09-30 ~6:35pm) — 📉 **SILICON DATA: "ANTHROPIC ARR FLATLINED WHEN THE TOKEN INDEX PEAKED." THE INDEX IS AN EXPENDITURE
+- `2026-09-30` [compression-thesis.md:L3533](../compression-thesis.md) — 2026-09-30 ~7:10pm PDT (Y'd ~6:35pm) — 🏛️ **THE ACCORD'S PRIMARY, THE FTC'S COUNTER-MOVE, AND DEEPSEEK'S CUDA SUBSTITUTE — THE SAME DAY. ⛔⛔ VENDOR CON

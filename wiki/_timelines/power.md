@@ -1,6 +1,6 @@
 # ⏱ POWER — merged timeline (the gate)
 
-> **123 dated entries across 3 notes · 2026-06-30 → 2026-09-29 · refreshed 2026-09-29 21:12 PDT**
+> **124 dated entries across 3 notes · 2026-06-30 → 2026-09-30 · refreshed 2026-09-30 18:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -145,3 +145,4 @@
 - `2026-09-27` [nuclear.md:L828](../nuclear.md) — 2026-09-27 ~10:29am PDT (Y'd ~10:31am) — ⚛️ **THE ENRICHMENT CLIFF IS DATED: RUSSIAN-LEU IMPORT WAIVERS END JAN 2028 (NO EXTENSION PLANNED) AND RUSSIA
 - `2026-09-28` [buildout-bottleneck-map.md:L2038](../buildout-bottleneck-map.md) — 2026-09-28 ~4:16pm PDT (Y'd ~4:24pm) — 🏥 **THE FEDERAL LEDGER OF THE LOOSEN/TIGHTEN SPLIT: 30 FEDERAL ACTIONS SINCE JAN-2025 THAT EASE DATA-CENTER POW
 - `2026-09-29` [nuclear.md:L837](../nuclear.md) — 2026-09-29 ~9:20am PDT (Y'd ~9:25am) — ⚖️ **EL26-101 RESOLVED: FERC REJECTED OKLO'S COMPLAINT ON 9/24 (TEN DAYS AFTER PJM'S REQUESTED DATE) — AND THE 
+- `2026-09-30` [buildout-bottleneck-map.md:L2047](../buildout-bottleneck-map.md) — 2026-09-30 ~7:05pm PDT (Y'd ~6:35pm) — ⚡ **THE BIGGEST DATA-CENTER GRID CANNOT PRICE ITS 2028 POWER FOR FIVE MORE MONTHS: FERC ACCEPTS-BUT-SUSPENDS PJ
