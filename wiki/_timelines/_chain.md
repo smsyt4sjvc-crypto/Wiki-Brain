@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1059 dated entries · 2026-02-10 → 2026-09-30 · refreshed 2026-09-30 20:31 PDT**
+> **1060 dated entries · 2026-02-10 → 2026-10-01 · refreshed 2026-10-01 02:59 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1094,3 +1094,7 @@
 - `2026-09-30` **[1]** new-economy-regime.md:L5021 — 2026-09-30 ~7:15pm PDT (Y'd ~6:35pm) — 🏗️ **STATE CAPITAL, THREE READINGS IN ONE DAY: KOREA'S "$200B" IS ONE APPROVED PROJECT; THE AI ACCORD POINTS TO
 - `2026-09-30` **[5]** memory-regime-question.md:L1471 — 2026-09-30 ~7:00pm PDT (Y'd ~6:35pm) — 📊 **MU FQ4: BEAT AND RAISE, MARGIN PLATEAU NOT ROLLOVER, CONTRACTS 16 → 26 WITH $32B OF CUSTOMER DEPOSITS — AND
 - `2026-09-30` **[5]** compression-thesis.md:L3533 — 2026-09-30 ~7:10pm PDT (Y'd ~6:35pm) — 🏛️ **THE ACCORD'S PRIMARY, THE FTC'S COUNTER-MOVE, AND DEEPSEEK'S CUDA SUBSTITUTE — THE SAME DAY. ⛔⛔ VENDOR CON
+
+## 2026-10
+
+- `2026-10-01` **[5]** compression-thesis.md:L3544 — 2026-10-01 ~3:00am PDT (Y'd ~2:58am) — 💲 **GEMINI 4 ARGON: A CLAIMED-FRONTIER MODEL AT THE CHEAP-TIER PRICE, RELEASED THROUGH A GATE. ⛔⛔ VENDOR CONFLI

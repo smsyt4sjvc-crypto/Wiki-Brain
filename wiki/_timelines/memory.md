@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **179 dated entries across 2 notes · 2026-07-16 → 2026-09-30 · refreshed 2026-09-30 20:31 PDT**
+> **180 dated entries across 2 notes · 2026-07-16 → 2026-10-01 · refreshed 2026-10-01 02:59 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -198,3 +198,7 @@
 - `2026-09-29` [memory-regime-question.md:L1462](../memory-regime-question.md) — 2026-09-29 ~7:20-7:40pm PDT (Y'd ~9:05pm) — 📐 **JAKE'S THESIS, THE NIGHT BEFORE THE PRINT: A STRAIGHT-LINE PRICING-POWER PACE, ACTUAL CONTRACT PRINTS 
 - `2026-09-30` [compression-thesis.md:L3533](../compression-thesis.md) — 2026-09-30 ~7:10pm PDT (Y'd ~6:35pm) — 🏛️ **THE ACCORD'S PRIMARY, THE FTC'S COUNTER-MOVE, AND DEEPSEEK'S CUDA SUBSTITUTE — THE SAME DAY. ⛔⛔ VENDOR CON
 - `2026-09-30` [memory-regime-question.md:L1471](../memory-regime-question.md) — 2026-09-30 ~7:00pm PDT (Y'd ~6:35pm) — 📊 **MU FQ4: BEAT AND RAISE, MARGIN PLATEAU NOT ROLLOVER, CONTRACTS 16 → 26 WITH $32B OF CUSTOMER DEPOSITS — AND
+
+## 2026-10
+
+- `2026-10-01` [compression-thesis.md:L3544](../compression-thesis.md) — 2026-10-01 ~3:00am PDT (Y'd ~2:58am) — 💲 **GEMINI 4 ARGON: A CLAIMED-FRONTIER MODEL AT THE CHEAP-TIER PRICE, RELEASED THROUGH A GATE. ⛔⛔ VENDOR CONFLI

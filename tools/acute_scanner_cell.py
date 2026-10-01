@@ -400,7 +400,7 @@ THREADS = {
  # gap #15 (8/8): model NAMES + usage-share measures.
  'MODEL-ECON':['open-weight','open weight','routing layer','per-token','inference cost','agentic',
                'deepseek','qwen','kimi','glm','minimax','tencent','hunyuan','xiaomi','mimo',
-               'llama','mistral','nemotron','gpt-5','gpt5','gemini','claude','grok','astra',
+               'llama','mistral','nemotron','gpt-5','gpt5','gemini','claude','grok','astra','argon','fairwind','gpt-6',
                'openrouter','leaderboard','token usage','token share','token volume',
                'market share','usage share','model ranking','trillion tokens',
                # gap #18 (8/11): Zuckerberg manifesto matched POWER/CAPEX but NOT model-econ —
