@@ -1,6 +1,6 @@
 # ⏱ EUROGAS — merged timeline (the gate)
 
-> **274 dated entries across 3 notes · 2026-07-23 → 2026-10-01 · refreshed 2026-10-01 13:40 PDT**
+> **275 dated entries across 3 notes · 2026-07-23 → 2026-10-01 · refreshed 2026-10-01 15:03 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -295,4 +295,5 @@
 
 ## 2026-10
 
+- `2026-10-01` [oil-value-chain.md:L2932](../oil-value-chain.md) — 2026-10-01 ~3:10pm PDT (Y'd ~3:05pm) — 🔒 **✅ THE 🔴🔴 OPEN SINCE 9/7 RESOLVES: CHINA SHUT THE RELEASE VALVE. CHINESE REFINERS HALTED FUEL EXPORTS "UNTIL
 - `2026-10-01` [war-board.md:L5251](../war/war-board.md) — 2026-10-01 ~12:40pm PDT (Y'd ~12:38pm) — 🚢 **THE US BUILDS A FORCE FOR AFTER THE MIDTERMS (THIRD CARRIER, ~10K TROOPS, ON STATION BY END-NOVEMBER) — A

@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **257 dated entries across 2 notes · 2026-03-13 → 2026-10-01 · refreshed 2026-10-01 13:40 PDT**
+> **258 dated entries across 2 notes · 2026-03-13 → 2026-10-01 · refreshed 2026-10-01 15:03 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -285,3 +285,4 @@
 ## 2026-10
 
 - `2026-10-01` [demand-destruction.md:L4441](../demand-destruction.md) — 2026-10-01 ~7:55am PDT (Y'd ~7:50am) — ⛽ **BAN CLOCK #10: WASHINGTON THREATENS ALLIES — "DRAW DOWN YOUR EMERGENCY DIESEL OR FACE A US EXPORT BAN." SAM
+- `2026-10-01` [oil-value-chain.md:L2932](../oil-value-chain.md) — 2026-10-01 ~3:10pm PDT (Y'd ~3:05pm) — 🔒 **✅ THE 🔴🔴 OPEN SINCE 9/7 RESOLVES: CHINA SHUT THE RELEASE VALVE. CHINESE REFINERS HALTED FUEL EXPORTS "UNTIL
