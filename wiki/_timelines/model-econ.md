@@ -1,6 +1,6 @@
 # ⏱ MODEL-ECON — merged timeline (the gate)
 
-> **233 dated entries across 2 notes · 2026-07-16 → 2026-10-01 · refreshed 2026-10-01 02:59 PDT**
+> **234 dated entries across 2 notes · 2026-07-16 → 2026-10-01 · refreshed 2026-10-01 03:35 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -255,3 +255,4 @@
 ## 2026-10
 
 - `2026-10-01` [compression-thesis.md:L3544](../compression-thesis.md) — 2026-10-01 ~3:00am PDT (Y'd ~2:58am) — 💲 **GEMINI 4 ARGON: A CLAIMED-FRONTIER MODEL AT THE CHEAP-TIER PRICE, RELEASED THROUGH A GATE. ⛔⛔ VENDOR CONFLI
+- `2026-10-01` [compression-thesis.md:L3559](../compression-thesis.md) — 2026-10-01 ~3:40am PDT (Y'd ~3:32am) — 📵 **"GIVE THE TOKENS AWAY, SELL THE PLAN AND THE ADS": JAKE'S 7/24 MINUTES-PLAN CALL GETS THIRD-PARTY CONVERGEN

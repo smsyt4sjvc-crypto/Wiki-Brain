@@ -1,6 +1,6 @@
 # ⏱ LABOR — merged timeline (the gate)
 
-> **166 dated entries across 1 notes · 2026-06-30 → 2026-09-30 · refreshed 2026-10-01 02:59 PDT**
+> **167 dated entries across 1 notes · 2026-06-30 → 2026-10-01 · refreshed 2026-10-01 03:35 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -188,3 +188,7 @@
 - `2026-09-10` [new-economy-regime.md:L5004](../new-economy-regime.md) — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
 - `2026-09-26` [new-economy-regime.md:L5014](../new-economy-regime.md) — 2026-09-26 ~6:57pm PDT (Y'd 9/27 ~9:26am) — 🔀 **"ENERGY INDEPENDENCE" IS MOSTLY SUPPLIER REALIGNMENT: COUNTRIES AREN'T BECOMING INDEPENDENT, THEY'RE S
 - `2026-09-30` [new-economy-regime.md:L5021](../new-economy-regime.md) — 2026-09-30 ~7:15pm PDT (Y'd ~6:35pm) — 🏗️ **STATE CAPITAL, THREE READINGS IN ONE DAY: KOREA'S "$200B" IS ONE APPROVED PROJECT; THE AI ACCORD POINTS TO
+
+## 2026-10
+
+- `2026-10-01` [new-economy-regime.md:L5032](../new-economy-regime.md) — 2026-10-01 ~3:45am PDT (Y'd ~3:32am) — 🛰️ **PROJECT MERIDIAN: MUSK, LUCKEY AND GINGRICH CO-LEAD A 120-DAY PENTAGON FUTURE-WARFARE STUDY; HEGSETH CUTS 

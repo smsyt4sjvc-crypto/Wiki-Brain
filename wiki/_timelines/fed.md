@@ -1,6 +1,6 @@
 # ⏱ FED — merged timeline (the gate)
 
-> **307 dated entries across 2 notes · 2026-06-30 → 2026-09-30 · refreshed 2026-10-01 02:59 PDT**
+> **308 dated entries across 2 notes · 2026-06-30 → 2026-10-01 · refreshed 2026-10-01 03:35 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -329,3 +329,7 @@
 - `2026-09-29` [market-fragility.md:L4728](../market-fragility.md) — 2026-09-29 close (Y'd ~9:05pm PDT) — 📈 **TWO REGISTERED CREDIT THRESHOLDS FIRED ON THE 9/28 ICE CLOSE: BBB 102 (>100) AND HY 302 (>300); B 309 (>300);
 - `2026-09-30` [market-fragility.md:L4736](../market-fragility.md) — 2026-09-30 ~8:35pm PDT (Y'd ~8:30pm) — 📉 **ICE 9/29: THE TAIL BREAKS FIRST — CCC & LOWER 1,157 (100th PERCENTILE OF 3 YEARS; +131 IN A MONTH), HY 308 
 - `2026-09-30` [new-economy-regime.md:L5021](../new-economy-regime.md) — 2026-09-30 ~7:15pm PDT (Y'd ~6:35pm) — 🏗️ **STATE CAPITAL, THREE READINGS IN ONE DAY: KOREA'S "$200B" IS ONE APPROVED PROJECT; THE AI ACCORD POINTS TO
+
+## 2026-10
+
+- `2026-10-01` [new-economy-regime.md:L5032](../new-economy-regime.md) — 2026-10-01 ~3:45am PDT (Y'd ~3:32am) — 🛰️ **PROJECT MERIDIAN: MUSK, LUCKEY AND GINGRICH CO-LEAD A 120-DAY PENTAGON FUTURE-WARFARE STUDY; HEGSETH CUTS 
