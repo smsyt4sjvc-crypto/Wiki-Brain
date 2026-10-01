@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **497 dated entries across 6 notes · 2026-03-13 → 2026-09-30 · refreshed 2026-09-30 19:15 PDT**
+> **498 dated entries across 6 notes · 2026-03-13 → 2026-09-30 · refreshed 2026-09-30 20:31 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -521,4 +521,5 @@
 - `2026-09-29` [market-fragility.md:L4728](../market-fragility.md) — 2026-09-29 close (Y'd ~9:05pm PDT) — 📈 **TWO REGISTERED CREDIT THRESHOLDS FIRED ON THE 9/28 ICE CLOSE: BBB 102 (>100) AND HY 302 (>300); B 309 (>300);
 - `2026-09-30` [consumption-vs-investment-crux.md:L336](../consumption-vs-investment-crux.md) — 2026-09-30 ~6:40pm PDT (Y'd ~6:35pm) — 💵 **THE ANNUAL REVISION MOVED THE CONSUMER'S CUSHION UP ~1.5 POINTS — AND AUGUST STILL SPENT IT DOWN. SAVING RA
 - `2026-09-30` [demand-destruction.md:L4431](../demand-destruction.md) — 2026-09-30 ~6:50pm PDT (Y'd ~6:35pm) — ⛽ **BAN CLOCK #9: TRUMP'S "CRISIS TALKS" — THE CABINET IS AGAINST A BAN AND THE LOBBYING IS WINNING ON SUBSTANC
+- `2026-09-30` [market-fragility.md:L4736](../market-fragility.md) — 2026-09-30 ~8:35pm PDT (Y'd ~8:30pm) — 📉 **ICE 9/29: THE TAIL BREAKS FIRST — CCC & LOWER 1,157 (100th PERCENTILE OF 3 YEARS; +131 IN A MONTH), HY 308 
 - `2026-09-30` [new-economy-regime.md:L5021](../new-economy-regime.md) — 2026-09-30 ~7:15pm PDT (Y'd ~6:35pm) — 🏗️ **STATE CAPITAL, THREE READINGS IN ONE DAY: KOREA'S "$200B" IS ONE APPROVED PROJECT; THE AI ACCORD POINTS TO

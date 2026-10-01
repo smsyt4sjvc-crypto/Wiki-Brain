@@ -219,3 +219,4 @@ Average +1.4%. No executions reported; book.csv unchanged. MU: Tuesday-close dec
 **📌 REGISTERED:** 🔴 10/1 buyback · 🔴 10/2 NFP + window 2 · 🔴 MU 10/1 close grade · `money_board.py` cannot run here (no CSV) — run on INMA- with the marks above.
 **Links:** [[rates-board]] · [[demand-destruction]] · [[oil-value-chain]] · [[war/war-board]] · [[memory-regime-question]] · [[forest]]
 - *(addendum 2026-09-30 ~7:15pm PDT, Y'd)* **MARK added: `war-board` — DHT bull 1** (four UKMTO-confirmed tanker hits 9/28-29) · **window 2 of the Iran retaliation call graded YES** (scoreboard) — the bucket's Iran leg resolved in its favour inside the week · owed to `data/money/marks.csv` on INMA-.
+- *(addendum 2026-09-30 ~8:35pm PDT, Y'd)* **MARKS: `market-fragility` — HYG bear 2** (from 1; HY +40bp in a week) · `hyperscaler-credit` — **ORCL FLAT 0.5 (on FT confirmation only)** · pension bid failed to cap the 30Y ⇒ TLT-put leg stronger (no mark) · owed to `data/money/marks.csv` on INMA-.
