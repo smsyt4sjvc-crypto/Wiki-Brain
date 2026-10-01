@@ -1,6 +1,6 @@
 # ⏱ SANCTIONS — merged timeline (the gate)
 
-> **480 dated entries across 5 notes · 2026-03-13 → 2026-10-01 · refreshed 2026-10-01 07:53 PDT**
+> **481 dated entries across 5 notes · 2026-03-13 → 2026-10-01 · refreshed 2026-10-01 12:39 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -508,3 +508,4 @@
 ## 2026-10
 
 - `2026-10-01` [demand-destruction.md:L4441](../demand-destruction.md) — 2026-10-01 ~7:55am PDT (Y'd ~7:50am) — ⛽ **BAN CLOCK #10: WASHINGTON THREATENS ALLIES — "DRAW DOWN YOUR EMERGENCY DIESEL OR FACE A US EXPORT BAN." SAM
+- `2026-10-01` [war-board.md:L5251](../war/war-board.md) — 2026-10-01 ~12:40pm PDT (Y'd ~12:38pm) — 🚢 **THE US BUILDS A FORCE FOR AFTER THE MIDTERMS (THIRD CARRIER, ~10K TROOPS, ON STATION BY END-NOVEMBER) — A
