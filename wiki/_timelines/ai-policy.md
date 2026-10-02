@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **612 dated entries across 4 notes · 2026-05-22 → 2026-10-01 · refreshed 2026-10-02 15:39 PDT**
+> **613 dated entries across 4 notes · 2026-05-22 → 2026-10-02 · refreshed 2026-10-02 15:47 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -640,3 +640,4 @@
 - `2026-10-01` [compression-thesis.md:L3544](../compression-thesis.md) — 2026-10-01 ~3:00am PDT (Y'd ~2:58am) — 💲 **GEMINI 4 ARGON: A CLAIMED-FRONTIER MODEL AT THE CHEAP-TIER PRICE, RELEASED THROUGH A GATE. ⛔⛔ VENDOR CONFLI
 - `2026-10-01` [compression-thesis.md:L3559](../compression-thesis.md) — 2026-10-01 ~3:40am PDT (Y'd ~3:32am) — 📵 **"GIVE THE TOKENS AWAY, SELL THE PLAN AND THE ADS": JAKE'S 7/24 MINUTES-PLAN CALL GETS THIRD-PARTY CONVERGEN
 - `2026-10-01` [metered-compute.md:L3565](../metered-compute.md) — 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm) — ✂️ **THE SQUEEZE IN THE MIDDLE, MEASURED TWO WAYS: GPU RENTS ARE RISING (B200 +31% YTD, H200 +25% SINCE MAY) WH
+- `2026-10-02` [ai-financing-fragility.md:L8566](../ai-financing-fragility.md) — 2026-10-02 ~3:55pm PDT (filed under rule 22c) — 🕸️ **"WHO OWES WHOM" (ZH's expansion of the MS map) RECONCILED TO FILINGS: NVDA's $531B IS ITS OWN 10-
