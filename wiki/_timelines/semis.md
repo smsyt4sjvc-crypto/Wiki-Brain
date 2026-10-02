@@ -1,6 +1,6 @@
 # ⏱ SEMIS — merged timeline (the gate)
 
-> **93 dated entries across 2 notes · 2026-07-09 → 2026-09-30 · refreshed 2026-10-02 13:14 PDT**
+> **94 dated entries across 2 notes · 2026-07-09 → 2026-10-02 · refreshed 2026-10-02 13:22 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -112,3 +112,7 @@
 - `2026-09-27` [buildout-bottleneck-map.md:L2031](../buildout-bottleneck-map.md) — 2026-09-27 ~6:51pm PDT (Y'd ~8:07pm) — 🏗️ **GOLDMAN: BEHIND-THE-METER ~25% OF ALL DATA-CENTER POWER BY 2030 (~50-60% OF NEW BUILDS). JAKE TAKES THE OV
 - `2026-09-28` [buildout-bottleneck-map.md:L2038](../buildout-bottleneck-map.md) — 2026-09-28 ~4:16pm PDT (Y'd ~4:24pm) — 🏥 **THE FEDERAL LEDGER OF THE LOOSEN/TIGHTEN SPLIT: 30 FEDERAL ACTIONS SINCE JAN-2025 THAT EASE DATA-CENTER POW
 - `2026-09-30` [buildout-bottleneck-map.md:L2047](../buildout-bottleneck-map.md) — 2026-09-30 ~7:05pm PDT (Y'd ~6:35pm) — ⚡ **THE BIGGEST DATA-CENTER GRID CANNOT PRICE ITS 2028 POWER FOR FIVE MORE MONTHS: FERC ACCEPTS-BUT-SUSPENDS PJ
+
+## 2026-10
+
+- `2026-10-02` [buildout-bottleneck-map.md:L2057](../buildout-bottleneck-map.md) — 2026-10-02 ~1:20pm PDT (Y'd ~1:18pm) — 🔩 **SEVEN IRREVERSIBLE POWER COMMITMENTS FROM THE DUAL-CLOCK v7 LEDGER, AND TWO DATES THE VAULT DID NOT HAVE: A

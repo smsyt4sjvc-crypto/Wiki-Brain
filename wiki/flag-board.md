@@ -33,6 +33,7 @@ from the vault's conditions, not from the tape.**
 - **Watching:** China halted fuel exports "until further notice" (10/1); G7 confirmed up to 100M bbl of emergency oil + diesel over four months (10/2); Trump cooled on a US diesel export ban (10/1).
 - **🟢 IF:** Beijing does NOT restore fuel-export permits in the week after its 10/7 holiday (no quota/permit news by Fri 10/9) AND no US export-ban order ⇒ the crack holds or rebuilds from ~95.6 (10/2).
 - **🔴 IF:** (a) China restores fuel-export permits/quotas; or (b) a US diesel export-ban order (traps diesel at home — the vault map marks VLO/MPC/PSX/PBF BEAR); or (c) a windfall tax / price-cap proposal with a sponsor.
+- **⟲ 10/2 ~1:03pm PT:** **(b) effectively RESOLVED** — Trump: "we were never going to do diesel export ban" (ZH squawk, 2 min after the close), the day the G7 release was confirmed ⇒ the ban was leverage, now disowned. The live refiner flag is (a) China after 10/7. → [[demand-destruction]] 10/2.
 - **When:** 2026-10-08 · 2026-10-09 · 2026-10-16 (PARR call expiry)
 - **Read it on:** China MOFCOM/NDRC export-quota reports · the diesel crack (10/2 ~95.6; 9/30 peak ~109.5) · any Oval Office ban language.
 - **Pointer:** [[oil-value-chain]] 10/1 3:10pm (China release valve) · [[demand-destruction]] ban clock + 10/2 G7 · [[money-board]] (US diesel export ban row) · [[portfolio-state]] 10/2.
@@ -44,12 +45,15 @@ from the vault's conditions, not from the tape.**
 - **🟢 IF:** kinetic action Sat 10/3 → Sun 10/4 6pm ET confirmed by UKMTO / a target government / CENTCOM, OR UKMTO confirms the 10/1 Fars-claimed hit ⇒ Brent December gaps up at the Sunday 3pm PT reopen.
 - **🔴 IF:** a dated US-Iran meeting (Muscat / Doha / Islamabad) or a framework announced by an official ⇒ the war premium comes out; UAL is the mirror (🟢 on a deal). *(added 10/2 ~10:05am)* A SIGNED deal — the outcome Trump's "sign the deal or it won't exist" (10/1) is pushing for before Nov 3.
 - **🟢 IF (added 10/2 ~10:05am):** a DATED US strike announcement before Nov 3 — it would break the vault's after-midterms read (third carrier on station end-November) and pull the oil premium forward.
-- **When:** 2026-10-04 (3pm PT reopen) · window to end-November (the post-midterm strike window)
+- **🟢 IF (added 10/2 ~1:20pm):** a Saudi ground offensive along Yemen's Red Sea coast is confirmed LAUNCHED (Reuters 10/2: options being prepared) — Bab el-Mandeb is the outlet of the Saudi Hormuz bypass for Asia-bound Yanbu barrels; two chokepoints under pressure at once = longer voyages + war-risk pay. *(Two-sided over months: a successful offensive would make the bypass safer.)*
+- **When:** 2026-10-04 (3pm PT reopen) · next week: Saudi/Turkey/Pakistan talks on Houthi engagement (date ⬜) · window to end-November (the post-midterm strike window)
+- **⚠️ Grading note (10/2):** UKMTO keeps issuing "time-late" reports (gCaptain Dispatch 120) — a weekend strike can surface days later ⇒ grade the weekend call provisionally at the reopen, finally ~Wed 10/7.
 - **Read it on:** UKMTO advisories · CENTCOM · Brent December vs Friday settle at the reopen.
 - **Pointer:** [[war/war-board]] 10/1 12:40pm 🚢 + 10/2 addendum · [[forest]] ⚡ Fujairah + post-midterm window.
 - **Status:** LIVE
 
-### 🏠 HOMEBUILDERS / LONG BONDS — LEN · DHI · TLT · (ACTUAL: SPY 745 put Dec-18)
+### 🏠 HOMEBUILDERS / LONG BONDS / SMALL CAPS — LEN · DHI · TLT · IWM · (ACTUAL: SPY 745 put Dec-18)
+- **Added 10/2 ~1:20pm — IWM rides the same flag:** small caps need rates to fall (more floating-rate debt, more unprofitable firms — general, ⬜ current %). Tape 10/2: IWM −4.4% over a month and −7.8% from its 3-month high while QQQ sat AT its high.
 - **Lean:** BEAR on LEN/DHI (9/23 top-5); the vault's standing read is that the long end will not rally (five tests passed, incl. the 10/2 post-payrolls round trip).
 - **Watching:** next week's Treasury auctions after a squeeze that fully reversed in three hours (10Y 5.16 → 5.26 on 10/2).
 - **🟢 IF:** the 10-year auction (Wed 10/7) stops THROUGH the when-issued yield (no tail) AND the 10Y closes below ~5.15 ⇒ LEN/DHI and TLT bid (the BEAR list becomes the BULL list).
@@ -67,6 +71,26 @@ from the vault's conditions, not from the tape.**
 - **When:** window — through the post-midterm strike window (late November)
 - **Read it on:** DoD daily contract announcements · appropriations bills · CENTCOM.
 - **Pointer:** [[war/war-board]] 9/25 (munitions dwindling) + 10/2 🛡️ addendum · [[money-board]] RTX 10/2.
+- **Status:** LIVE (window)
+
+### ⛽ JUPITER — BE · ORCL (Oracle's 2.45 GW New Mexico campus)
+- **Lean:** BEAR (BE bear 1 · ORCL bear, 9/24).
+- **Watching:** Oracle's force-majeure notice to the developer (Blue Owl); the gas pipeline slipped to Feb 1, 2027; the fuel cells still need a state air-quality permit.
+- **🟢 IF:** New Mexico's environment department GRANTS the air-quality permit for the Bloom fuel-cell system by Nov 23 ⇒ the last permit block clears (pipeline due Feb 1) — BE relief, Oracle's schedule claim gains credibility.
+- **🔴 IF:** the permit is DENIED or DELAYED past Nov 23 ⇒ the site's power path slips again; hardware orders tied to it slip (Barclays 9/24: hardware is bought ~2-3 months before go-live) — BE and ORCL down; NVDA/AMD order timing.
+- **When:** 2026-11-23 (permit deadline) · 2027-02-01 (pipeline in service)
+- **Read it on:** New Mexico Environment Department air-quality bureau · Oracle/Blue Owl statements.
+- **Pointer:** [[buildout-bottleneck-map]] 10/2 🔩 · [[ai-financing-fragility]] 9/24 (Barclays, five Oracle sites).
+- **Status:** LIVE
+
+### 🛸 ONDS — Ondas (drones + counter-drone)
+- **Lean:** BULL 1 (9/26: a $46.1M Air Force ULTRA modification — material to its size) — but the drone group is FLAT and the autonomy money is going to insiders/private firms (new-economy-regime 10/1).
+- **Watching:** ONDS 7.22 (10/2), −26% from its 3-month high; ~41% of the float short; history of cash burn and new-share issuance; ZH promotes it (class 8).
+- **🟢 IF:** another OBLIGATED award large relative to its size (≥ ~$25M), OR Congress funds the FY27 drone/counter-drone lines with listed-vendor programs.
+- **🔴 IF:** an equity raise — an at-the-market program or offering filing (the history: dilution follows rallies; it gaps straight through a stop).
+- **When:** window — FY27 appropriations (date ⬜) · DoD daily contract announcements.
+- **Read it on:** DoD contracts page · SEC filings (S-3, 424B, ATM).
+- **Pointer:** [[war/war-board]] 9/26 (ULTRA award) · [[new-economy-regime]] 10/1 (Meridian/AutoWarCom addenda).
 - **Status:** LIVE (window)
 
 ### 🔌 AVGO — the $60B for Anthropic chips
