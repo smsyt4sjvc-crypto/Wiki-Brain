@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **491 dated entries across 6 notes · 2026-02-10 → 2026-10-01 · refreshed 2026-10-01 15:03 PDT**
+> **492 dated entries across 6 notes · 2026-02-10 → 2026-10-01 · refreshed 2026-10-01 21:29 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -521,4 +521,5 @@
 
 ## 2026-10
 
+- `2026-10-01` [ai-financing-fragility.md:L8554](../ai-financing-fragility.md) — 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm) — ⚖️ **THE REFEREE RULED: PARAMOUNT'S RECORD JUNK DEAL BROKE IN A DAY — AND JAKE'S QUESTION REFRAMES WHAT TO WATC
 - `2026-10-01` [rates-board.md:L3811](../rates-board.md) — 2026-10-01 close (Y'd ~1:38pm PDT) — 🔁 **THE ROUND TRIP: 10Y TO ~5.34% (HIGHEST SINCE 2002) ON ISM PRICES 77.9 + CLAIMS 197K, THEN EUROPE CRACKED AND 
