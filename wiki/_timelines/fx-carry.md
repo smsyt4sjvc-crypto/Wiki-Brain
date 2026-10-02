@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **559 dated entries across 3 notes · 2026-05-22 → 2026-10-02 · refreshed 2026-10-02 15:47 PDT**
+> **560 dated entries across 3 notes · 2026-05-22 → 2026-10-02 · refreshed 2026-10-02 16:24 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -587,3 +587,4 @@
 - `2026-10-01` [ai-financing-fragility.md:L8554](../ai-financing-fragility.md) — 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm) — ⚖️ **THE REFEREE RULED: PARAMOUNT'S RECORD JUNK DEAL BROKE IN A DAY — AND JAKE'S QUESTION REFRAMES WHAT TO WATC
 - `2026-10-01` [new-economy-regime.md:L5032](../new-economy-regime.md) — 2026-10-01 ~3:45am PDT (Y'd ~3:32am) — 🛰️ **PROJECT MERIDIAN: MUSK, LUCKEY AND GINGRICH CO-LEAD A 120-DAY PENTAGON FUTURE-WARFARE STUDY; HEGSETH CUTS 
 - `2026-10-02` [ai-financing-fragility.md:L8566](../ai-financing-fragility.md) — 2026-10-02 ~3:55pm PDT (filed under rule 22c) — 🕸️ **"WHO OWES WHOM" (ZH's expansion of the MS map) RECONCILED TO FILINGS: NVDA's $531B IS ITS OWN 10-
+- `2026-10-02` [ai-financing-fragility.md:L8574](../ai-financing-fragility.md) — 2026-10-02 ~4:30pm PDT (filed under rule 22c) — 🌉 **"THE BRIDGE TO 2031": THE CLAIM THAT AI BECOMES SELF-FUNDING WHEN ENTERPRISE AI SPEND REACHES ~$3T

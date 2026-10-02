@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1067 dated entries · 2026-02-10 → 2026-10-02 · refreshed 2026-10-02 15:47 PDT**
+> **1068 dated entries · 2026-02-10 → 2026-10-02 · refreshed 2026-10-02 16:24 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1105,3 +1105,4 @@
 - `2026-10-01` **[5]** compression-thesis.md:L3559 — 2026-10-01 ~3:40am PDT (Y'd ~3:32am) — 📵 **"GIVE THE TOKENS AWAY, SELL THE PLAN AND THE ADS": JAKE'S 7/24 MINUTES-PLAN CALL GETS THIRD-PARTY CONVERGEN
 - `2026-10-02` **[1]** rates-board.md:L3825 — 2026-10-02 ~7:50am PDT (Y'd ~7:45am) — 💥 **PAYROLLS +29K (JULY NOW NEGATIVE) AND A BOND SHORT SQUEEZE — YET THE 30Y MOVED ONLY −3BP. THE FRONT END GOT
 - `2026-10-02` **[3]** ai-financing-fragility.md:L8566 — 2026-10-02 ~3:55pm PDT (filed under rule 22c) — 🕸️ **"WHO OWES WHOM" (ZH's expansion of the MS map) RECONCILED TO FILINGS: NVDA's $531B IS ITS OWN 10-
+- `2026-10-02` **[3]** ai-financing-fragility.md:L8574 — 2026-10-02 ~4:30pm PDT (filed under rule 22c) — 🌉 **"THE BRIDGE TO 2031": THE CLAIM THAT AI BECOMES SELF-FUNDING WHEN ENTERPRISE AI SPEND REACHES ~$3T
