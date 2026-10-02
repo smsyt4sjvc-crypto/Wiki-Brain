@@ -10,6 +10,7 @@ survives in git (the repo is the persistence layer — the container is ephemera
 - `index.md` — the MAP: table of contents of the wiki, grouped by theme + the spine. Read it after this file to know what exists and where. **Keep it current** — regenerate/extend when notes are added or renamed (a stale map is worse than none).
 - `chat-log/` — ONE FILE PER CALENDAR DAY: conversational state, open questions, corrections, continuity vs the prior day. Read FIRST after a compaction (STEP ZERO-C).
 - `predictions/` — nightly calibration (point + range + kill-switch), graded next session → `_scoreboard.md`.
+- `menu/` — the DAILY MENU at the open (rule 16e): one file per trading day, drawn from `wiki/flag-board.md`, graded in the next menu.
 - `tools/` — token-free Colab notebooks/scripts (screens, scanners, backtests).
 - `trading-system/` — the SEPARATE Alpaca-Claude project (its own `CLAUDE.md`/laws), staged here to transplant.
 - `CLAUDE.md` — this file. How the vault runs.
@@ -195,6 +196,19 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     yes (rule 15).** **(d) The driver must be what the name TRADES on, not what the story says**
     (tankers: freight, not crude — 9/23), and **a |corr| < 0.2 link is flagged weak**: a mark the
     tape does not honour carries no money.
+16e. 🚩★★★ **THE FLAG BOARD + THE DAILY MENU (set 2026-10-02, Jake: "I want the vault's opinion since I
+    built it… the narratives should give stocks a green flag if xx happens… daily at open we run the vault
+    against prior days flags. We set a daily 'menu'. Stock for that day and concise reasoning on why we're
+    watching and the precise prediction that would need to be made to catch that catalyst… then I can choose
+    the one or two I find most compelling.")** **(a) [[flag-board]] = the standing IF → THEN per stock:**
+    lean · watching · 🟢 IF · 🔴 IF (a named event + the source that confirms it) · When (date or window) ·
+    pointer. Inbounds flip flags IN SESSION (rule 15 — no cron). **(b) At the open: `python3
+    tools/menu.py` (grade the prior menu FIRST, then the flags due within ~10 days) → `menu/YYYY-MM-DD.md`:**
+    per item — names · why watching (one or two lines, plain English) · **the precise prediction** · when.
+    Registered at build; graded in the NEXT menu; never edited. **(c) Execution is Jake's: shares, limit
+    ~+3%, stop ~−3%, out within ~5 days.** **(d) WHY, in numbers (10/2):** that bracket on 40 vault names
+    picked on price alone hit target 47% / stop 46% over 2y (n≈17,400) — a coin flip; the edge has to come
+    from the flags. **Every flag trade is logged so the flags can be graded against that 47/46 baseline.**
 17. **Code delivery: COMPLETE cells only** (iPhone/Colab). Acronyms spelled out at first use.
 18. **End of session: file → link → index → ⏱ TIMELINE → chat-log → commit → push. Every turn pushes.**
     ⏱ **`python3 tools/timeline_header.py --all --threads --chain` AFTER writing entries, BEFORE committing.**
