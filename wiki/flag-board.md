@@ -42,7 +42,8 @@ from the vault's conditions, not from the tape.**
 - **Lean:** BULL (DHT bull 1 on [[money-board]]).
 - **Watching:** Jake's registered call — deal talk Friday, escalation over the weekend (`predictions/2026-10-01-deal-then-weekend-escalation.md`: (b) Claude ≈30%, (c) Brent ≥±5% gap ≈25%, up ≈18 / down ≈7); Fars-claimed VLCC hit 10/1 still unconfirmed.
 - **🟢 IF:** kinetic action Sat 10/3 → Sun 10/4 6pm ET confirmed by UKMTO / a target government / CENTCOM, OR UKMTO confirms the 10/1 Fars-claimed hit ⇒ Brent December gaps up at the Sunday 3pm PT reopen.
-- **🔴 IF:** a dated US-Iran meeting (Muscat / Doha / Islamabad) or a framework announced by an official ⇒ the war premium comes out; UAL is the mirror (🟢 on a deal).
+- **🔴 IF:** a dated US-Iran meeting (Muscat / Doha / Islamabad) or a framework announced by an official ⇒ the war premium comes out; UAL is the mirror (🟢 on a deal). *(added 10/2 ~10:05am)* A SIGNED deal — the outcome Trump's "sign the deal or it won't exist" (10/1) is pushing for before Nov 3.
+- **🟢 IF (added 10/2 ~10:05am):** a DATED US strike announcement before Nov 3 — it would break the vault's after-midterms read (third carrier on station end-November) and pull the oil premium forward.
 - **When:** 2026-10-04 (3pm PT reopen) · window to end-November (the post-midterm strike window)
 - **Read it on:** UKMTO advisories · CENTCOM · Brent December vs Friday settle at the reopen.
 - **Pointer:** [[war/war-board]] 10/1 12:40pm 🚢 + 10/2 addendum · [[forest]] ⚡ Fujairah + post-midterm window.
@@ -57,6 +58,16 @@ from the vault's conditions, not from the tape.**
 - **Read it on:** Treasury auction results (high yield vs when-issued, bid-to-cover, indirects) · rule-20 split of the day's move.
 - **Pointer:** [[rates-board]] 10/1 🔁 round trip + 10/2 💥 squeeze · [[money-board]] (auction-tail row).
 - **Status:** LIVE
+
+### 🛡️ DEFENSE — RTX · LMT · NOC (small caps: KTOS · AVAV · ONDS)
+- **Lean:** BULL — RTX bull 1 (SM-6 $24.4B multiyear confirmed 10/1) · LMT/NOC 0.5.
+- **Watching:** interceptor burn — Patriot batteries and interceptors pulled from other commands to guard Saudi oil and Qatari gas (Axios via ZH, 10/2); Trump concedes some munitions are "a little bit lower" (TIME, 10/1).
+- **🟢 IF:** US strikes resume (any date) OR an emergency/supplemental munitions appropriation is introduced with a sponsor OR another multiyear interceptor award (PAC-3 = LMT; SM-3/SM-6 = RTX).
+- **🔴 IF:** a SIGNED US-Iran deal — the restock urgency fades; limited, because multiyear contracts are already locked.
+- **When:** window — through the post-midterm strike window (late November)
+- **Read it on:** DoD daily contract announcements · appropriations bills · CENTCOM.
+- **Pointer:** [[war/war-board]] 9/25 (munitions dwindling) + 10/2 🛡️ addendum · [[money-board]] RTX 10/2.
+- **Status:** LIVE (window)
 
 ### 🔌 AVGO — the $60B for Anthropic chips
 - **Lean:** FLAT 0.5 ([[money-board]] 10/2). *Vendor conflict: this vault runs on Anthropic's model; Anthropic is the end customer.*
