@@ -1,6 +1,6 @@
 # ⏱ PORTFOLIO — merged timeline (the gate)
 
-> **48 dated entries across 2 notes · 2026-07-01 → 2026-09-29 · refreshed 2026-10-02 07:47 PDT**
+> **49 dated entries across 2 notes · 2026-07-01 → 2026-10-02 · refreshed 2026-10-02 08:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -67,3 +67,7 @@
 - `2026-09-01` [portfolio-state.md:L1082](../portfolio-state.md) — Addendum 2026-09-01 ~11:20am PDT — ⭐⭐⭐⭐⭐ **THE REFINERY BASKET, WORKED UP (Jake's data pull, `raw/2026-09-01-refinery-basket-workup.md`; 6M return ari
 - `2026-09-09` [portfolio-state.md:L1087](../portfolio-state.md) — 2026-09-09 ~12:25pm PDT — **JAKE DISCLOSES BNO PUTS ("not good for my bno puts lol. Was cheap anyhow"). THE STRUCTURAL POINT HE MAY NOT HAVE PRICED IS
 - `2026-09-29` [portfolio-state.md:L1095](../portfolio-state.md) — 2026-09-29 ~8:55am PDT — ⛔ **CORRECTED ACTUAL BOOK (Jake's direct disclosure): "I don't hold an Oracle short. I'm not even eligible for that trade. I'
+
+## 2026-10
+
+- `2026-10-02` [portfolio-state.md:L1103](../portfolio-state.md) — 2026-10-02 ~8:15am PDT — 📌 **ACTUAL BOOK (Jake's direct disclosure, 10/2 ~8:05am): "I'm still mostly in my SPY put and PARR covered call." THE DHT/UAL

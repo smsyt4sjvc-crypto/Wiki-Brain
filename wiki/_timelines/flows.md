@@ -1,6 +1,6 @@
 # ⏱ FLOWS — merged timeline (the gate)
 
-> **182 dated entries across 3 notes · 2026-07-01 → 2026-09-30 · refreshed 2026-10-02 07:47 PDT**
+> **183 dated entries across 3 notes · 2026-07-01 → 2026-10-02 · refreshed 2026-10-02 08:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -201,3 +201,7 @@
 - `2026-09-29` [market-fragility.md:L4728](../market-fragility.md) — 2026-09-29 close (Y'd ~9:05pm PDT) — 📈 **TWO REGISTERED CREDIT THRESHOLDS FIRED ON THE 9/28 ICE CLOSE: BBB 102 (>100) AND HY 302 (>300); B 309 (>300);
 - `2026-09-29` [portfolio-state.md:L1095](../portfolio-state.md) — 2026-09-29 ~8:55am PDT — ⛔ **CORRECTED ACTUAL BOOK (Jake's direct disclosure): "I don't hold an Oracle short. I'm not even eligible for that trade. I'
 - `2026-09-30` [market-fragility.md:L4736](../market-fragility.md) — 2026-09-30 ~8:35pm PDT (Y'd ~8:30pm) — 📉 **ICE 9/29: THE TAIL BREAKS FIRST — CCC & LOWER 1,157 (100th PERCENTILE OF 3 YEARS; +131 IN A MONTH), HY 308 
+
+## 2026-10
+
+- `2026-10-02` [portfolio-state.md:L1103](../portfolio-state.md) — 2026-10-02 ~8:15am PDT — 📌 **ACTUAL BOOK (Jake's direct disclosure, 10/2 ~8:05am): "I'm still mostly in my SPY put and PARR covered call." THE DHT/UAL

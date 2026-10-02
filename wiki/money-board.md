@@ -228,3 +228,13 @@ Average +1.4%. No executions reported; book.csv unchanged. MU: Tuesday-close dec
 - *(addendum 2026-10-01 ~3:10pm PDT (Y'd ~3:05pm))* **MARKS: `oil-value-chain` — refiners bull 0.5 → 1 (China halt until further notice; replaces the 7:55am 0.5) · refiners FLAT 0.5 (EU/G7 release pressure)** · close: VLO +5.4% · DINO +5.0% · PBF +7.0% · owed to `data/money/marks.csv` on INMA-.
 - *(addendum 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm))* **MARKS:** `ai-financing-fragility` — **PSKY bear 1** · CRWV: WATCH (no mark) on the next raise · `market-fragility` — **CACC / CVNA bear 0.5** · `compression-thesis` — **AMZN FLAT 0.5** · owed to `data/money/marks.csv` on INMA-.
 - *(addendum 2026-10-02 ~7:50am PDT (Y'd ~7:45am))* **MARK: `ai-financing-fragility` — AVGO FLAT 0.5** (Broadcom $60B Anthropic chip financing) · bucket 7:25am: TLT 78.25 ($78P now OTM) · LEN 81.88 · UAL 111.89 · DHT 23.16 · owed to `data/money/marks.csv` on INMA-.
+
+## 2026-10-02 ~8:15am PDT — 🗒️ **PAPER TRACKER (NOT HELD — Jake 10/2: "I'm not, but I still want to track them").** Entries = the 9/29 close (proposal date); scored on the underlying vs strike (option premiums not observable here). *(tape `tools/tape.py` daily closes; 8:05am PT marks.)*
+| paper position | entry (9/29 close) | now (10/2 ~8:05am) | status |
+|---|---|---|---|
+| DHT long | 22.42 | 23.23 | **+3.6%** ✓ |
+| UAL Oct-9 $107 put | UAL 112.65 | 112.33 | OTM by $5.33; 1 week left ✗ |
+| LEN Oct-9 $80 put | LEN 83.01 | 80.19 | **at the strike** (−3.4%) ~ |
+| alt TLT Oct-9 $78 put | TLT 78.23 | 77.80 | ITM by $0.20 ~ |
+- **WHY THIS MATTERS:** the paper bucket is how the vault's one-week calls get graded; it is not money at risk. **Rule (9/29, re-stated): every "book" line names ACTUAL (`portfolio-state`) or PAPER (this tracker).**
+- **ACTUAL book** → [[portfolio-state]] 10/2: SPY 745P Dec-18 · PARR long + short Oct-16 $80C ($3.15).

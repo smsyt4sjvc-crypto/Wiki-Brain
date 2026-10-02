@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **214 dated entries across 2 notes · 2026-07-01 → 2026-10-01 · refreshed 2026-10-02 07:47 PDT**
+> **215 dated entries across 2 notes · 2026-07-01 → 2026-10-02 · refreshed 2026-10-02 08:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -236,3 +236,4 @@
 ## 2026-10
 
 - `2026-10-01` [war-board.md:L5251](../war/war-board.md) — 2026-10-01 ~12:40pm PDT (Y'd ~12:38pm) — 🚢 **THE US BUILDS A FORCE FOR AFTER THE MIDTERMS (THIRD CARRIER, ~10K TROOPS, ON STATION BY END-NOVEMBER) — A
+- `2026-10-02` [portfolio-state.md:L1103](../portfolio-state.md) — 2026-10-02 ~8:15am PDT — 📌 **ACTUAL BOOK (Jake's direct disclosure, 10/2 ~8:05am): "I'm still mostly in my SPY put and PARR covered call." THE DHT/UAL
