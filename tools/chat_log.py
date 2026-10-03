@@ -126,9 +126,36 @@ def resume(days=3):
     print('    you the CONVERSATION; the router gives you the VAULT. Neither substitutes for the other.')
     print('=' * 92)
 
+def add_entry(text, d=None):
+    """Append one SESSION SHAPE line to today's log, then RE-READ the file to prove it landed.
+    Fails loudly (exit 1) if the section is missing — never a silent no-op (10/2: eleven entries
+    were lost to a guarded str.replace whose anchor had drifted)."""
+    d = d or today()
+    p = path(d)
+    if not os.path.exists(p):
+        scaffold(d)
+    txt = open(p).read()
+    head = '\n## 🔴 OPEN'
+    if head not in txt:
+        sys.exit(f'chat_log --add: "## 🔴 OPEN" not found in {p} — entry NOT written')
+    line = text.strip()
+    if not line.startswith('- '):
+        line = '- ' + line
+    before, after = txt.split(head, 1)
+    new = before.rstrip('\n') + '\n' + line + '\n' + head + after
+    open(p, 'w').write(new)
+    if line not in open(p).read():
+        sys.exit(f'chat_log --add: write did not verify in {p}')
+    n = open(p).read().split('\n').index(line) + 1
+    print(f'✔ chat-log/{os.path.basename(p)}:L{n} — entry written and verified')
+
 if __name__ == '__main__':
     a = sys.argv[1:]
-    if '--new' in a:
+    if '--add' in a:
+        i = a.index('--add')
+        txt = a[i+1] if len(a) > i+1 else sys.stdin.read()
+        add_entry(txt)
+    elif '--new' in a:
         scaffold(today())
     elif '--open' in a:
         show_open()

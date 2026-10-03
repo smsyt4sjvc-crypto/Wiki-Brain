@@ -163,3 +163,80 @@ Average +1.4%. No executions reported; book.csv unchanged. MU: Tuesday-close dec
 
 **RULE 16d-e — FLOW CATALYSTS (set 2026-09-28):** Claude dismissed sell-side calls as "opinion, not data"; Jake: "Opinions move stocks." **Conceded — the fix is a distinction, not a dismissal:** the evidence ladder (measured 2 / confirmed 1 / reported 0.5) grades claims about HOW THE WORLD IS; an analyst call is a bottom-rung claim about the future by someone with a book. But it is a top-tier input for PRICE over the next few days. ⇒ **Analyst upgrades/downgrades, targets and consensus shifts are logged as FLOW CATALYSTS: a 0.5 mark on the affected name, dated, expiring FAST (~5 sessions, not 120 days).** Evidence: MU entered March with a Strong-Buy consensus and a monster beat and fell 5% — the opinion moved the stock INTO the print, not THROUGH it (`earnings-implied-moves`). ⬜ `money_board.py` has a fixed 120-day expiry — a per-row expiry column is needed (joins the pending "Y fixes": decay half-life, event-proximity term, crack driver). Until then, flow rows carry "FLOW (exp ~5 sessions)" in the event text and are excluded by hand.
 
+
+## 2026-09-29 ~8:10am PDT — 📒 BOOK SNAPSHOT (`tools/tape.py`, ~8:05am PT / 11:05am ET) + TODAY'S MARKS (open scan, verified)
+| Position | Entry | Now | P/L | Day | Note |
+|---|---|---|---|---|---|
+| ORCL short | 144.56 | 141.2-141.4 | **+2.2%** (was +8.3%) | **+6.5%** | cause ⬜ unknown; premarket was +0.3% → intraday move; stop 154.5 closing basis |
+| DHT long | 21.28 | 22.14 | +4.0% | +1.1% | Brent ~$105-106 flat/up; Nov expires Wed |
+| DINO long | 106.11 | 106.08 | 0.0% | −0.1% | crack story intact; ban clock #7 = repeat |
+| LEN short | 81.53 | 82.53 | −1.2% | +0.6% | confidence 81.9 not yet in the tape |
+| UAL short | 110.72 | 111.38 | −0.6% | −0.1% | |
+| MU long | 1,071.88 | 1,077.05 | +0.5% | +2.2% | **Tuesday-close exit decision = TODAY (Jake's call)**; PCE + revision + print tomorrow |
+- **Leans (not executed, book.csv untouched):** ORCL — a +6.5% day with no identified driver: HOLD the short, do not add or cover on it (rule 21); if ICE 9/29 shows ORCL CDS tightening sharply with the equity, that is the cover signal to reassess · **MU — the 9/26 lean (exit at today's close rather than carry Wednesday's PCE/revision + print) stands; the rate tape did not improve it** · LEN — hold (the datum arrived; the tape lags) · DHT/DINO/UAL — hold.
+- **MARKS 9/29 (evidence-weighted; ⚠️ `data/money/marks.csv` is NOT in this Wiki-Brain checkout — `data/` is not synced by wb_push — so the CSV append is OWED on the INMA- vault side; the ledger lines are recorded here to be entered):**
+  - `hyperscaler-credit` 9/29: CRWV bull 0.5 · NBIS bull 0.5 · NVDA flat 0.5 (FT: Nvidia-insurer talks on GPU residual cover, reported) · **AVGO bear 1 · META bear 1** (ICE 9/28 through the registered 127/100 thresholds — measured, new level)
+  - `ai-financing-fragility` 9/29: KKR bull 0.5 · VST bull 0.5 (Samsung $1B into Helix)
+  - `rates-board` 9/29: **LEN bear 1** · TLT flat 1 (two misses, no rally) · XLY bear 0.5 (sentiment)
+  - `consumption-vs-investment-crux` 9/29: **KMX bull 2** (measured print)
+  - `fico-vantagescore` 9/29: **FICO bear 1** · EFX bull 0.5 · TRU bull 0.5 · RKT flat 0.5
+  - `war/war-board` 9/29: none (Petroline/Hormuz = the 9/25/9/28 signal at the reported rung; anti-double-count) · `compression-thesis` 9/29: none (Astra = the 9/28 event)
+- **Driver check (rule 16d-d):** KMX trades on SPY/consumer, FICO on its own policy clock (no ETF driver — flag weak link when scored), AVGO/META on SOXX/SPY. Run `money_board.py` at the close on the INMA- side once the CSV carries these.
+
+## 2026-09-29 ~8:45am PDT (Y'd ~9:25am "file everything") — 💼 **THE SUB-WEEK BUCKET, FIDELITY TIER-1 EXPRESSIONS ONLY (Jake: "a concentrated hold, option etc for < a week"). TWO BETS, NOT FOUR. EXECUTIONS ⬜ — nothing here is recorded as held until Jake says so.**
+*Quotes = Nasdaq option chain 11:45am ET / `tools/tape.py` ~8:05-8:45am PT. Sizing is Jake's. UAL spreads are wide — limits at the mid.*
+| Leg | Expression | Price | Why now (vault) | Kills it |
+|---|---|---|---|---|
+| HOLD | **DHT** shares | 22.37 | freight driver (corr 0.58 BWET), VLCC ~2× record; Iran window 2 closes Fri 10/2 (any retaliation ~65%, `predictions/2026-09-25`); Petroline → Red Sea routing lengthens voyages; a hit tanker raises war-risk premiums (9/29) | a DATED mediator meeting; Kpler clearance rising from ~77% toward baseline |
+| PUT | **UAL Oct-9 $107** | ~2.30 mid (1.97/2.67, OI 182) | board #1 bear 9/23 (−4.27; corr −0.73 Brent); jet = the distillate squeeze; breakeven 104.7 needs −6.2% by 10/9 (> one weekly σ 5.4%) ⇒ **sell it on a 3-4% down day, not at expiry** | a deal date gaps oil down and UAL +5% in a session (9/22, 9/25 precedent) |
+| PUT | **LEN Oct-9 $80** | 1.20/1.50 (OI 219) | confidence 81.9 + present-situation negative, long end up anyway; breakeven 78.65 inside one weekly σ (5.6%); LEN over DHI (DHI Oct-9 OI 2-12, spreads 1-2 pts) | a soft PCE Wed that lets the 10Y through 5.10 |
+| ALT | **TLT Oct-9 $78** | 1.03/1.06 (OI 13.4k) | cleanest instrument; two misses, no rally (9/29); breakeven ≈ +9bp on the 30Y | **two dated bond bids inside the week: $33B pension rebalance by 9/30 + ≥$4B 10-20Y buyback 10/1; JGB 40Y 3.10× cover (the automatic bid, abroad)** ⇒ alternate, not core |
+- **Clusters (the 9/23 "two bets" discipline):** DHT + UAL-put = **Hormuz stays impaired into 10/2**; LEN-put (or TLT-put) = **the long end refuses to rally through PCE.** One position only → the UAL put is the sharpest single expression the board has.
+- **No MU expression:** one contract at ~$1,077 = $8-10k premium; the implied-move study (`earnings-implied-moves`, n=80/60): MU beat 10/10, up next day 4/10 (Benzinga) ⇒ if MU shares are held, the standing lean is OUT at today's close (9/26 lean; unchanged by the rate tape).
+- **Mid-morning check (9:05am PT):** DHT +2.3% (tanker strike) · UAL flat (oil fell on the Qatar line) · LEN +0.5% (not yet honouring the datum) · TLT −0.7% (the long end sold).
+- **MARKS added 9/29 after the 8:10am list (still owed to `data/money/marks.csv` on the INMA- side):** `demand-destruction` 9/29: USO bear 0.5 · BNO bear 0.5 · VLO/MPC/DINO/PBF/PSX/PARR FLAT 0.5 · `nuclear` 9/29: OKLO bear 0.5 (note: the 9/23 backfill from grade 4 carried the misidentified 9/2 rationale) · `war/war-board` 9/29: none · `rates-board` 🌐: none (macro context).
+- ⛔ **WHICH BOOK:** this is a PROPOSED bucket, not the ACTUAL book (`portfolio-state` 9/29 rule). Record executions there.
+- **MARKS added 9/29 ~12:25pm (Y'd; still owed to `data/money/marks.csv` on the INMA- side):** `ai-financing-fragility` (Jefferies): **JEF FLAT 0.5** · `compression-thesis` (DevDay): **MSFT bull 0.5 · ORCL bull 0.5 · META FLAT 0.5** · `compression-thesis` (HF lawsuit): **ORCL bear 0.5 · CRWV bear 0.5** (⇒ ORCL nets FLAT on the day's two inputs — the ledger keeps both) · `war/war-board` (Fars claim), `rates-board` (Cook, 12-yr low), `financing-fragility-gauge` (office chart): none. Book (ACTUAL, Jake): unchanged; executions ⬜.
+
+## 2026-09-29 close (Y'd ~9:05pm PDT) — 📒 PAPER BOOK + THE 9/29 BUCKET, DAY ONE. Jake's ACTUAL book: refinery basket (PBF/DINO/PARR/PSX/MPC/VLO, sizes ⬜), BNO puts (⬜), no MU, no shorts.
+| PAPER position (9/23 list) | Entry | 9/29 ~close | P/L |
+|---|---|---|---|
+| DINO long | 106.11 | 105.59 | −0.5% |
+| DHT long | 21.28 | 22.42 | +5.4% |
+| MU long | 1,071.88 | 1,065.08 | −0.6% (the "sell into the print" exit date was today — paper) |
+| UAL short | 110.72 | 112.65 | −1.7% |
+| ORCL short | 144.56 | 137.79 | +4.7% (was +8.3%; +3.9% day, driver ⬜) |
+| LEN short | 81.53 | 83.01 | −1.8% |
+- **The 9/29 sub-week bucket (proposed; executions ⬜):** DHT hold +2.4% on the day ✓ · UAL Oct-9 107P — UAL +1.0% (oil −2%) ✗ · LEN Oct-9 80P — LEN +1.2% ✗ (the datum arrived; the tape lagged) · alt TLT Oct-9 78P — TLT −0.5% ✓. Two bets, one worked: freight, not rates, paid on day one.
+- **MARKS added at the close (Y'd; owed to `data/money/marks.csv` on the INMA- side):** `rates-board` close: **TLT bear 0.5** · `market-fragility`: **HYG bear 1** (HY >300 measured) · `demand-destruction`: **VLO/MPC/PBF/PARR/PSX/DINO bull 1** (diesel record + EU margins record) · **DINO FLAT 0.5** (state-disaster political rung) · `oil-value-chain`: **HAL/SLB/BKR bull 0.5 · EQT/EXE bull 0.5** (driver ⬜) · `compression-thesis`/`financing-fragility-gauge`/`consumption-vs-investment-crux`/`ai-financing-fragility` ledger: none · `memory-regime-question`: none until the print.
+- **Registered for 9/30:** PCE + revision 5:30am PT · Nov Brent expiry (read Thursday's front month as DEC) · MU after the close → grade `predictions/2026-09-30-mu-print.md` on the 10/1 close · ICE 9/29 · `money_board.py` cannot run here (no CSV) — run on the INMA- side.
+
+## 2026-09-30 close (Y'd ~6:35pm PDT) — 💰 **BUCKET DAY TWO: ALL FOUR LEGS GREEN AGAIN. THE LONG END MADE A 24-YEAR HIGH ON A "COOL" PRINT; REFINERS PAID ON TWO PRODUCTS; MU FLAT ON A BEAT-AND-RAISE.** *(Yahoo via `tools/tape.py` ~4:30pm PT; Treasury XML; boards as linked.)*
+- **WHY THIS MATTERS (plain English):** every leg of the short-dated bucket is working for the same reason — long-term interest rates keep rising no matter what the news is, and fuel (not crude) stays scarce. Micron's earnings changed nothing in the book because there is no Micron position.
+- **DATA — the bucket (9/29 proposal; executions ⬜):** DHT 22.57 (+0.67%) ✓ · UAL Oct-9 $107P — UAL 110.95 (−1.51%) ✓ · LEN Oct-9 $80P — LEN 81.59 (−1.71%) ✓ · alt TLT Oct-9 $78P — TLT 77.78 (−0.58%) ✓ · context: SPY 762.63 (−0.21%) · SOXX +0.21% · DINO 107.32 (+1.64%) · PBF +2.30% · VLO flat · WTI 90.07 (+0.8%) · gold flat · DXY 101.46 · MU 1,065.11 (flat; AH ~flat).
+- **MARKS added at the close (Y'd; owed to `data/money/marks.csv` on the INMA- side):** `rates-board`: **TLT bear 1 · LEN bear 2** · `demand-destruction`: **DINO bull 2 · VLO/MPC/PBF/PARR/PSX bull 1 · refiners FLAT 0.5 (ban clock #9)** · `oil-value-chain`: **BNO bear 0.5** · `buildout-bottleneck-map`: **CEG/VST/NRG/TLN FLAT 0.5 · GEV FLAT 0.5 · BA bull 1 (defense)** · `compression-thesis`: **NVDA bear 0.5** · `consumption-vs-investment-crux`: **XLY FLAT 1** · MU: no mark (grades 10/1).
+- **THESIS (analysis):** the bucket's two bets (Hormuz/Iran window vs "the long end won't rally") are both still paying, and the second one has now survived its three scheduled disconfirmers (soft data, Williams, PCE). The remaining dated disconfirmers: Thursday's 10-20Y buyback (≥85% of cap) and Friday's NFP (a big miss); for the Iran leg, a dated principals' meeting before 10/2.
+**📌 REGISTERED:** 🔴 10/1 buyback · 🔴 10/2 NFP + window 2 · 🔴 MU 10/1 close grade · `money_board.py` cannot run here (no CSV) — run on INMA- with the marks above.
+**Links:** [[rates-board]] · [[demand-destruction]] · [[oil-value-chain]] · [[war/war-board]] · [[memory-regime-question]] · [[forest]]
+- *(addendum 2026-09-30 ~7:15pm PDT, Y'd)* **MARK added: `war-board` — DHT bull 1** (four UKMTO-confirmed tanker hits 9/28-29) · **window 2 of the Iran retaliation call graded YES** (scoreboard) — the bucket's Iran leg resolved in its favour inside the week · owed to `data/money/marks.csv` on INMA-.
+- *(addendum 2026-09-30 ~8:35pm PDT, Y'd)* **MARKS: `market-fragility` — HYG bear 2** (from 1; HY +40bp in a week) · `hyperscaler-credit` — **ORCL FLAT 0.5 (on FT confirmation only)** · pension bid failed to cap the 30Y ⇒ TLT-put leg stronger (no mark) · owed to `data/money/marks.csv` on INMA-.
+- *(addendum 2026-10-01 ~3:00am PDT, Y'd)* **MARK: `compression-thesis` — GOOGL bull 0.5** (Gemini 4 Argon: claimed frontier at $4/$20 standard, gated, vendor benchmarks) · owed to `data/money/marks.csv` on INMA-.
+- *(addendum 2026-10-01 ~3:45am PDT, Y'd ~3:32am)* **MARK: `new-economy-regime` — SPCX bull 0.5** (Project Meridian co-lead; reported) · `compression-thesis` — GOOGL bull 0.5 STANDS after the per-task correction (Artificial Analysis parity 53 = Astra) · ⛔ ORCL bull 0.5 (OpenAI raise) proposed and WITHDRAWN (the raise funds a subsidy war; `compression-thesis` 10/1 3:40am) · owed to `data/money/marks.csv` on INMA-.
+- *(addendum 2026-10-01 ~7:55am PDT (Y'd ~7:50am))* **MARKS:** `demand-destruction` — **refiners bull 0.5** (China cancels Oct product cargoes) · **VLO/MPC/PSX FLAT 0.5** (ban clock #10) · `hyperscaler-credit` — **ORCL FLAT 0.5 ACTIVATED** (Tencent, FT sourcing) · `memory-regime-question` — **QCOM bear 0.5** (Samsung S26 +$100, memory pass-through) · war-board (Iran ultimatum lapse): none — BNO bear 0.5 exposed · owed to `data/money/marks.csv` on INMA-.
+- *(addendum 2026-10-01 ~12:40pm PDT (Y'd ~12:38pm))* **MARKS:** `war-board` — **BNO bull 0.5** (carrier/troop surge) · **BNO bull 0.5 → 1 on UKMTO confirmation** (Fars-claimed VLCC hit) · **FRO bull 0.5** · DHT carried · `new-economy-regime` — **PLTR bull 0.5 · LMT/NOC/GD/RTX bear 0.5 · RCAT/UMAC/KTOS/AVAV FLAT 0.5** · owed to `data/money/marks.csv` on INMA-.
+- *(addendum 2026-10-01 close, Y'd ~1:38pm)* **MARK: `nuclear` — CEG bull 0.5** (Amazon 20-yr Calvert Cliffs) · bucket at the close: DHT 23.56 (+4.4%) · UAL 111.78 (+0.8%; Oct-9 $107P further OTM) · LEN 82.11 (+0.6%; $80P OTM) · TLT 77.71 (≈ $78P strike) · owed to `data/money/marks.csv` on INMA-.
+- *(addendum 2026-10-01 ~3:10pm PDT (Y'd ~3:05pm))* **MARKS: `oil-value-chain` — refiners bull 0.5 → 1 (China halt until further notice; replaces the 7:55am 0.5) · refiners FLAT 0.5 (EU/G7 release pressure)** · close: VLO +5.4% · DINO +5.0% · PBF +7.0% · owed to `data/money/marks.csv` on INMA-.
+- *(addendum 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm))* **MARKS:** `ai-financing-fragility` — **PSKY bear 1** · CRWV: WATCH (no mark) on the next raise · `market-fragility` — **CACC / CVNA bear 0.5** · `compression-thesis` — **AMZN FLAT 0.5** · owed to `data/money/marks.csv` on INMA-.
+- *(addendum 2026-10-02 ~7:50am PDT (Y'd ~7:45am))* **MARK: `ai-financing-fragility` — AVGO FLAT 0.5** (Broadcom $60B Anthropic chip financing) · bucket 7:25am: TLT 78.25 ($78P now OTM) · LEN 81.88 · UAL 111.89 · DHT 23.16 · owed to `data/money/marks.csv` on INMA-.
+- *(addendum 2026-10-02 ~10:05am PDT (Y'd ~10:05am))* **MARK: `war-board` — RTX bull 0.5 → 1** (Raytheon $24.4B SM-6 multiyear, Pentagon 10/1 = confirmed event; replaces the 9/25 0.5 · tape flat 10/2 — priced Thu) · LMT/NOC stay 0.5 · Patriot transfers to Saudi/Qatar energy sites (Axios via ZH, reported) → no new mark.
+- *(addendum 2026-10-02 ~1:20pm PDT (Y'd ~1:18pm))* **MARKS RETIRED: `demand-destruction` — VLO/MPC/PSX FLAT 0.5 (ban clock #10, 10/1) → RETIRED** (Trump 10/2 ~1:02pm PT: "we were never going to do diesel export ban" — the threat was leverage, now disowned) · refiners FLAT 0.5 (G7 release, 10/1) stays — the release is confirmed and flowing · no new marks.
+
+## 2026-10-02 ~8:15am PDT — 🗒️ **PAPER TRACKER (NOT HELD — Jake 10/2: "I'm not, but I still want to track them").** Entries = the 9/29 close (proposal date); scored on the underlying vs strike (option premiums not observable here). *(tape `tools/tape.py` daily closes; 8:05am PT marks.)*
+| paper position | entry (9/29 close) | now (10/2 ~8:05am) | status |
+|---|---|---|---|
+| DHT long | 22.42 | 23.23 | **+3.6%** ✓ |
+| UAL Oct-9 $107 put | UAL 112.65 | 112.33 | OTM by $5.33; 1 week left ✗ |
+| LEN Oct-9 $80 put | LEN 83.01 | 80.19 | **at the strike** (−3.4%) ~ |
+| alt TLT Oct-9 $78 put | TLT 78.23 | 77.80 | ITM by $0.20 ~ |
+- **WHY THIS MATTERS:** the paper bucket is how the vault's one-week calls get graded; it is not money at risk. **Rule (9/29, re-stated): every "book" line names ACTUAL (`portfolio-state`) or PAPER (this tracker).**
+- **ACTUAL book** → [[portfolio-state]] 10/2: SPY 745P Dec-18 · PARR long + short Oct-16 $80C ($3.15).

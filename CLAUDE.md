@@ -10,6 +10,7 @@ survives in git (the repo is the persistence layer — the container is ephemera
 - `index.md` — the MAP: table of contents of the wiki, grouped by theme + the spine. Read it after this file to know what exists and where. **Keep it current** — regenerate/extend when notes are added or renamed (a stale map is worse than none).
 - `chat-log/` — ONE FILE PER CALENDAR DAY: conversational state, open questions, corrections, continuity vs the prior day. Read FIRST after a compaction (STEP ZERO-C).
 - `predictions/` — nightly calibration (point + range + kill-switch), graded next session → `_scoreboard.md`.
+- `menu/` — the DAILY MENU at the open (rule 16e): one file per trading day, drawn from `wiki/flag-board.md`, graded in the next menu.
 - `tools/` — token-free Colab notebooks/scripts (screens, scanners, backtests).
 - `trading-system/` — the SEPARATE Alpaca-Claude project (its own `CLAUDE.md`/laws), staged here to transplant.
 - `CLAUDE.md` — this file. How the vault runs.
@@ -195,6 +196,19 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     yes (rule 15).** **(d) The driver must be what the name TRADES on, not what the story says**
     (tankers: freight, not crude — 9/23), and **a |corr| < 0.2 link is flagged weak**: a mark the
     tape does not honour carries no money.
+16e. 🚩★★★ **THE FLAG BOARD + THE DAILY MENU (set 2026-10-02, Jake: "I want the vault's opinion since I
+    built it… the narratives should give stocks a green flag if xx happens… daily at open we run the vault
+    against prior days flags. We set a daily 'menu'. Stock for that day and concise reasoning on why we're
+    watching and the precise prediction that would need to be made to catch that catalyst… then I can choose
+    the one or two I find most compelling.")** **(a) [[flag-board]] = the standing IF → THEN per stock:**
+    lean · watching · 🟢 IF · 🔴 IF (a named event + the source that confirms it) · When (date or window) ·
+    pointer. Inbounds flip flags IN SESSION (rule 15 — no cron). **(b) At the open: `python3
+    tools/menu.py` (grade the prior menu FIRST, then the flags due within ~10 days) → `menu/YYYY-MM-DD.md`:**
+    per item — names · why watching (one or two lines, plain English) · **the precise prediction** · when.
+    Registered at build; graded in the NEXT menu; never edited. **(c) Execution is Jake's: shares, limit
+    ~+3%, stop ~−3%, out within ~5 days.** **(d) WHY, in numbers (10/2):** that bracket on 40 vault names
+    picked on price alone hit target 47% / stop 46% over 2y (n≈17,400) — a coin flip; the edge has to come
+    from the flags. **Every flag trade is logged so the flags can be graded against that 47/46 baseline.**
 17. **Code delivery: COMPLETE cells only** (iPhone/Colab). Acronyms spelled out at first use.
 18. **End of session: file → link → index → ⏱ TIMELINE → chat-log → commit → push. Every turn pushes.**
     ⏱ **`python3 tools/timeline_header.py --all --threads --chain` AFTER writing entries, BEFORE committing.**
@@ -720,15 +734,15 @@ project space; more are likely.**
     the vault.")**
     **THE WORKFLOW:** inbound → librarian gate + VERIFICATION (fetch the primary NOW, during the
     discussion — not after filing) → **PROPOSED ENTRY presented in CHAT** (what goes where, the key
-    claims, what verified, what didn't) → Jake responds → **the SETTLED version enters the vault
-    ONCE.**
+    claims, what verified, what didn't) → ~~Jake responds → **the SETTLED version enters the vault
+    ONCE.**~~ ⟲ **22c (10/2): filed the SAME turn, no "Y" wait.**
     · **wiki/ is CONCLUSIONS — entered once, after the discussion.** No entry → correction →
       supersede chains born inside a single conversation.
     · **chat-log/ is THE DEBATE RECORD — still written freely.** The staging area is the chat and
       its log, not the boards.
     · **Verification is DEFAULT, not follow-up.** Internet is available; the primary gets fetched in
       the discussion phase. Large fetches still delegate to gophers (rule 19 tiers).
-    · **Grade moves, supersedes, new ⚡ branches, and new rules ALWAYS wait for the discussion.**
+    · ~~**Grade moves, supersedes, new ⚡ branches, and new rules ALWAYS wait for the discussion.**~~ ⟲ 22c: only NEW RULES wait.
       Time-critical reads (a gate print, an auction result) are PULLED and REPORTED in chat
       immediately — the vault entry still waits.
     **WHY (this session's own record, one day):** the 159×/1.26× synthesis was filed and corrected
@@ -752,9 +766,30 @@ project space; more are likely.**
       vault and the data now"* — THEN verify, THEN confirm or correct in the same reply. He gets the
       reasoning immediately; the checks still run. A correction to the first read is said plainly.
     · **"QUICK"** = chat-style answer from reasoning alone, no vault sweep, nothing filed — his call.
-    · **FILING = ONE LINE AT THE END** ("Worth saving: … File it?"). No growing queue; settle and file as
-      we go.
+    · ~~**FILING = ONE LINE AT THE END** ("Worth saving: … File it?"). No growing queue; settle and file as
+      we go.~~ ⟲ 22c: the last line is **"Filed: …"** (what went where), not a question.
     · **CALLBACKS CARRY THEIR CONTEXT:** when an old item is raised, one line of what it was and why it
       matters now — never a bare pointer.
     · **EVERY ENTRY CARRIES A PLAIN-ENGLISH "WHY THIS MATTERS" LINE** so it reads cold in a month.
     · **CONCEPTS go to [[_learning]] once, in plain English, dated to when we met them.**
+    **⭐ 22c — NO "Y" GATE: PASTES ARE CHAT, AND THEY ARE FILED AUTOMATICALLY THE SAME TURN (Jake,
+    2026-10-02 ~3:50pm: *"I was only wanting that to speed things up. So maybe instead of requiring it as a
+    rule, change the rule so that pastes are treated as general chat and then filed automatically before
+    the session ends. That way a failed confirmation if I get busy doesn't neglect an ingest or push."*)**
+    · **Every paste is handled as conversation** in the 22b shape (plain English · first read, then check ·
+      ends at the money). Verification is still default.
+    · **"Before the session ends" = EVERY TURN.** The session can end without warning (the push credential
+      dies when Jake closes the app; the container is ephemeral), so the reply's LAST ACTION is file →
+      timeline → chat-log → commit → push. **No proposal queue survives a turn.**
+    · **The reply ends "Filed: …"** — one line naming what went where — not "File it?". Jake's later
+      pushback becomes an amend/supersede (STEP ZERO-B): the visible trail is the record.
+    · **The discipline 22 protected moves INTO the entry:** what the checks could not verify goes in as
+      ⬜ / REPORTED, not as settled; interpretation stays labelled THESIS. Grade moves, marks, ⚡ branches and
+      supersedes are filed the same turn.
+    · **Still waits for Jake's explicit word:** NEW STANDING RULES (how the vault runs) and anything that
+      spends or runs unattended (rule 15).
+    · **EVERY WRITE IS VERIFIED.** Chat-log lines go through `python3 tools/chat_log.py --add "<entry>"`
+      (fails loudly if the section is missing, re-reads to prove the write); wiki inserts use index()-based
+      placement + a grep count. **Origin, same day: eleven chat-log entries (9:40am-3:40pm) were silently
+      lost to a guarded string-replace whose anchor had drifted — while every reply said "logged." The
+      "Y" gate did not cause it (the Y-gated wiki filings all landed); an unverified write did.**

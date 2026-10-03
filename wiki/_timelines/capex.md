@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **170 dated entries across 3 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-28 19:41 PDT**
+> **171 dated entries across 3 notes · 2026-05-22 → 2026-10-03 · refreshed 2026-10-03 13:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -195,3 +195,7 @@
 - `2026-09-10` [ai-capex-cycle.md:L3690](../ai-capex-cycle.md) — Addendum 2026-09-10 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE LINE THE SUMMARY DID NOT CARRY: **ORACLE'S SOFTWARE REVENUE *MISSED* ($5.55B vs $5.67B) WHILE OCI *BEA
 - `2026-09-25` [ai-capex-cycle.md:L3702](../ai-capex-cycle.md) — 2026-09-25 ~6:01am PDT (Y'd ~6:10am) — ⭐⭐⭐⭐ **AUGUST DURABLES: THE AI FOOTPRINT IS IN THE ORDERS — COMMUNICATIONS EQUIPMENT +40% Y/Y, CORE CAPEX NEARL
 - `2026-09-25` [ai-capex-cycle.md:L3710](../ai-capex-cycle.md) — 2026-09-25 ~4:55pm PDT (Y'd ~6:05pm) — 🔁 **JAKE'S LOOP, THIRD LEG: THE GROWTH THAT JUSTIFIES HIGHER REAL YIELDS IS ITSELF THE DEBT-FINANCED AI SPENDIN
+
+## 2026-10
+
+- `2026-10-03` [balance-sheet-board.md:L818](../balance-sheet-board.md) — 2026-10-03 ~1:35pm PDT (filed under rule 22c) — 🧾 **ZH: "META's $628B 'FOOTNOTE' — COUNT IT AND THE STOCK GETS 35% MORE EXPENSIVE." THE NUMBERS ARE TH

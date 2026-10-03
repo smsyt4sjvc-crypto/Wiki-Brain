@@ -1,6 +1,6 @@
 # ⏱ SANCTIONS — merged timeline (the gate)
 
-> **471 dated entries across 5 notes · 2026-03-13 → 2026-09-28 · refreshed 2026-09-28 19:41 PDT**
+> **482 dated entries across 5 notes · 2026-03-13 → 2026-10-01 · refreshed 2026-10-03 13:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -496,3 +496,17 @@
 - `2026-09-26` [war-board.md:L5184](../war/war-board.md) — 2026-09-26 ~6:42pm PDT (Y'd 9/27 ~9:26am) — 🛩️ **DRONE ATTRITION IS FUNDING REPLACEMENTS: THE AIR FORCE MORE THAN DOUBLED THE ONDAS/DZYNE "ULTRA" RECO
 - `2026-09-27` [war-board.md:L5191](../war/war-board.md) — 2026-09-27 ~5:34pm PDT (Y'd ~5:48pm) — 📢 **TRUMP ANNOUNCEMENT MONDAY 2PM ET (WHITE HOUSE) — TOPIC UNKNOWN; A SCHEDULED, IN-SESSION "ANNOUNCED EVENT."*
 - `2026-09-28` [war-board.md:L5199](../war/war-board.md) — 2026-09-28 ~3:58-4:01pm PDT (Y'd ~4:40pm) — 🔁 **WASHINGTON RUNS THE THREE-TRACK PATTERN TOO: OFFICIALS FLOAT CONDITIONAL RELIEF, THE PRESIDENT SAYS "I
+- `2026-09-29` [demand-destruction.md:L4414](../demand-destruction.md) — 2026-09-29 ~9:05am PDT (Y'd ~9:25am) — 🛢️ **DOE OFFERS ANOTHER "UP TO 40 MILLION BARRELS" FROM THE SPR — AN EXCHANGE FROM BIG HILL + BRYAN MOUND, WITH
+- `2026-09-29` [demand-destruction.md:L4423](../demand-destruction.md) — 2026-09-29 ~4:20pm PDT (ZH scan, Y'd ~9:05pm) — ⛽ **NATIONAL DIESEL $6.44 (9/28) = A NEW RECORD; TEXAS DECLARES A STATEWIDE DIESEL DISASTER (ABBOTT, 9
+- `2026-09-29` [oil-value-chain.md:L2912](../oil-value-chain.md) — 2026-09-29 ~8:55pm PDT (Y'd ~9:05pm) — 🛢️ **THE 9/2 RIG METER CLOSES: OIL RIGS 447 → 455 IN FOUR WEEKS AT $100+ CRUDE — A MODEST RESPONSE. THE RIG STO
+- `2026-09-29` [war-board.md:L5208](../war/war-board.md) — 2026-09-29 ~8:10am PDT (open scan — verified against Reuters/Bloomberg/Kpler primaries) — 🛢️ **THE SAUDI BYPASS IS BACK AT "AT LEAST 3.5 mb/d" (BLOOMB
+- `2026-09-29` [war-board.md:L5221](../war/war-board.md) — 2026-09-29 ~9:00-9:30am PDT (Y'd ~9:25am) — 🚢 **A TANKER IS HIT IN HORMUZ THE NIGHT THE UN TALKS FAIL — UKMTO 143-26 CLASSES IT "SUSPICIOUS ACTIVITY,"
+- `2026-09-30` [demand-destruction.md:L4431](../demand-destruction.md) — 2026-09-30 ~6:50pm PDT (Y'd ~6:35pm) — ⛽ **BAN CLOCK #9: TRUMP'S "CRISIS TALKS" — THE CABINET IS AGAINST A BAN AND THE LOBBYING IS WINNING ON SUBSTANC
+- `2026-09-30` [oil-value-chain.md:L2920](../oil-value-chain.md) — 2026-09-30 ~6:50pm PDT (Y'd ~6:35pm) — 🛢️ **GOLDMAN: GULF OIL EXPORTS 23.3 mb/d "IN LINE WITH THEIR 2025 AVERAGE" — BUT THREE PERIMETERS ARE IN PLAY, 
+- `2026-09-30` [war-board.md:L5233](../war/war-board.md) — 2026-09-30 ~6:45pm PDT (Y'd ~6:35pm) — 🇮🇶 **US FORCES LEFT IRAQ TODAY; IRAN HOLDS A WRITTEN US RESPONSE AND THE DISPUTE IS THE ORDER OF STEPS; A FLYDU
+
+## 2026-10
+
+- `2026-10-01` [demand-destruction.md:L4441](../demand-destruction.md) — 2026-10-01 ~7:55am PDT (Y'd ~7:50am) — ⛽ **BAN CLOCK #10: WASHINGTON THREATENS ALLIES — "DRAW DOWN YOUR EMERGENCY DIESEL OR FACE A US EXPORT BAN." SAM
+- `2026-10-01` [oil-value-chain.md:L2932](../oil-value-chain.md) — 2026-10-01 ~3:10pm PDT (Y'd ~3:05pm) — 🔒 **✅ THE 🔴🔴 OPEN SINCE 9/7 RESOLVES: CHINA SHUT THE RELEASE VALVE. CHINESE REFINERS HALTED FUEL EXPORTS "UNTIL
+- `2026-10-01` [war-board.md:L5251](../war/war-board.md) — 2026-10-01 ~12:40pm PDT (Y'd ~12:38pm) — 🚢 **THE US BUILDS A FORCE FOR AFTER THE MIDTERMS (THIRD CARRIER, ~10K TROOPS, ON STATION BY END-NOVEMBER) — A

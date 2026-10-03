@@ -1,6 +1,6 @@
 # ⏱ FRAGILITY — merged timeline (the gate)
 
-> **485 dated entries across 6 notes · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 19:41 PDT**
+> **496 dated entries across 6 notes · 2026-02-10 → 2026-10-03 · refreshed 2026-10-03 13:36 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -513,3 +513,17 @@
 - `2026-09-28` [rates-board.md:L3751](../rates-board.md) — 2026-09-28 ~8:03am PDT (Y'd ~8:06am) — 🏛️ **A FED VOTER NAMES THE CROWD-OUT LOOP: HAMMACK — YIELDS ARE UP ON REAL RATES AND "COMPETITION FOR INVESTOR 
 - `2026-09-28` [rates-board.md:L3758](../rates-board.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 🔴 **BEAR FLATTENER, ALL REAL: THE 10Y REAL YIELD PRINTS A NEW HIGH (2.90%) WHILE BREAKEVENS DON'T MOVE ON A 3.4% 
 - `2026-09-28` [rates-board.md:L3764](../rates-board.md) — 2026-09-28 ~4:38pm PDT (Y'd ~4:40pm) — ⚖️ **QUARTER-END REBALANCING: GS FICC MODELS ~$33B OF US EQUITIES TO SELL / BONDS TO BUY FROM US PENSIONS INTO 
+- `2026-09-29` [ai-financing-fragility.md:L8543](../ai-financing-fragility.md) — 2026-09-29 ~8:10am PDT (open scan, verified) — 🏗️ **SAMSUNG PUTS $1B INTO KKR'S HELIX — THE FIRST NAMED $500B-PLATFORM VEHICLE (8/30, `:L7793`) NOW HA
+- `2026-09-29` [hyperscaler-credit.md:L667](../hyperscaler-credit.md) — 2026-09-29 ~8:10am PDT (open scan, verified) — 🛡️ **NVIDIA IS SHOPPING THE RESIDUAL-VALUE RISK TO INSURERS: TALKS ON PROTECTING LENDERS TO NEOCLOUDS I
+- `2026-09-29` [rates-board.md:L3771](../rates-board.md) — 2026-09-29 ~8:10am PDT (open scan; the 7:00am PT prints verified at BLS / Conference Board) — 📉 **TWO MISSES AND NO RALLY: JOLTS 7.10M vs 7.23M · CONF
+- `2026-09-29` [rates-board.md:L3784](../rates-board.md) — 2026-09-29 close (Y'd ~9:05pm PDT) — 🔴 **THE DAY THE FED PATH EASED AND THE LONG END SOLD OFF ANYWAY: 2Y −3 / 10Y +2 / 20Y +4 / 30Y +3 (30Y 5.59, INTR
+- `2026-09-30` [rates-board.md:L3792](../rates-board.md) — 2026-09-30 close (Y'd ~6:35pm PDT) — 🔴 **THE REGISTERED TEST CLOSES: THE LONG END WOULD NOT RALLY ON A "COOL" PCE EITHER. 30Y 5.64 (+5) = HIGHEST CLOS
+
+## 2026-10
+
+- `2026-10-01` [ai-financing-fragility.md:L8554](../ai-financing-fragility.md) — 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm) — ⚖️ **THE REFEREE RULED: PARAMOUNT'S RECORD JUNK DEAL BROKE IN A DAY — AND JAKE'S QUESTION REFRAMES WHAT TO WATC
+- `2026-10-01` [rates-board.md:L3811](../rates-board.md) — 2026-10-01 close (Y'd ~1:38pm PDT) — 🔁 **THE ROUND TRIP: 10Y TO ~5.34% (HIGHEST SINCE 2002) ON ISM PRICES 77.9 + CLAIMS 197K, THEN EUROPE CRACKED AND 
+- `2026-10-02` [ai-financing-fragility.md:L8566](../ai-financing-fragility.md) — 2026-10-02 ~3:55pm PDT (filed under rule 22c) — 🕸️ **"WHO OWES WHOM" (ZH's expansion of the MS map) RECONCILED TO FILINGS: NVDA's $531B IS ITS OWN 10-
+- `2026-10-02` [ai-financing-fragility.md:L8574](../ai-financing-fragility.md) — 2026-10-02 ~4:30pm PDT (filed under rule 22c) — 🌉 **"THE BRIDGE TO 2031": THE CLAIM THAT AI BECOMES SELF-FUNDING WHEN ENTERPRISE AI SPEND REACHES ~$3T
+- `2026-10-02` [rates-board.md:L3825](../rates-board.md) — 2026-10-02 ~7:50am PDT (Y'd ~7:45am) — 💥 **PAYROLLS +29K (JULY NOW NEGATIVE) AND A BOND SHORT SQUEEZE — YET THE 30Y MOVED ONLY −3BP. THE FRONT END GOT
+- `2026-10-03` [balance-sheet-board.md:L818](../balance-sheet-board.md) — 2026-10-03 ~1:35pm PDT (filed under rule 22c) — 🧾 **ZH: "META's $628B 'FOOTNOTE' — COUNT IT AND THE STOCK GETS 35% MORE EXPENSIVE." THE NUMBERS ARE TH
