@@ -1,6 +1,6 @@
 # ⏱ FINANCING — merged timeline (the gate)
 
-> **284 dated entries across 2 notes · 2026-05-22 → 2026-10-02 · refreshed 2026-10-02 20:44 PDT**
+> **285 dated entries across 2 notes · 2026-05-22 → 2026-10-03 · refreshed 2026-10-03 13:32 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -312,3 +312,4 @@
 - `2026-10-01` [ai-financing-fragility.md:L8554](../ai-financing-fragility.md) — 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm) — ⚖️ **THE REFEREE RULED: PARAMOUNT'S RECORD JUNK DEAL BROKE IN A DAY — AND JAKE'S QUESTION REFRAMES WHAT TO WATC
 - `2026-10-02` [ai-financing-fragility.md:L8566](../ai-financing-fragility.md) — 2026-10-02 ~3:55pm PDT (filed under rule 22c) — 🕸️ **"WHO OWES WHOM" (ZH's expansion of the MS map) RECONCILED TO FILINGS: NVDA's $531B IS ITS OWN 10-
 - `2026-10-02` [ai-financing-fragility.md:L8574](../ai-financing-fragility.md) — 2026-10-02 ~4:30pm PDT (filed under rule 22c) — 🌉 **"THE BRIDGE TO 2031": THE CLAIM THAT AI BECOMES SELF-FUNDING WHEN ENTERPRISE AI SPEND REACHES ~$3T
+- `2026-10-03` [balance-sheet-board.md:L818](../balance-sheet-board.md) — 2026-10-03 ~1:35pm PDT (filed under rule 22c) — 🧾 **ZH: "META's $628B 'FOOTNOTE' — COUNT IT AND THE STOCK GETS 35% MORE EXPENSIVE." THE NUMBERS ARE TH
