@@ -119,7 +119,7 @@ from the vault's conditions, not from the tape.**
 - **Watching:** Paramount's record junk deal broke in a day (CDS 432); the next AI-cloud raises: CRWV refinancing, Fluidstack $50B, Nebius, Lambda, Amazon's $8B chip sale-leaseback SPV, Broadcom's $60B. ICE 5Y CDS 10/1: CRWV 855.5 · ORCL 247.5 · NVDA 86.8.
 - **🟢 IF:** a raise clears at normal terms WITHOUT a larger residual-value guarantee or backstop than the last one ⇒ CRWV/ORCL relief.
 - **🔴 IF:** a raise needs a BIGGER RVG/backstop (Jake's example: "raising our backstop to 30% from 25%") or fails to clear ⇒ risk has moved onto NVDA/AVGO/GOOGL contingents — the last rung.
-- **When:** window (no dated raise yet)
+- **When:** 2026-11-01 → 2026-11-15 (CRWV Q3 10-Q: DDTL 5.0 amortisation began Nov-2026, first instalment + drawn balance; 393/355 MW delivery vs schedule) · Dec-2026 (DDTL 5.5 draw window closes; OEM repayments start) · 2027 ($6.2B principal) — [[ai-financing-fragility]] 10/4 🗓️ · the raise itself still undated
 - **Read it on:** term sheets · `tools/icc_cds.py`.
 - **Pointer:** [[ai-financing-fragility]] 10/1 ⚖️ (co-signed raise test, Jake's thesis) · [[forest]] ⚡ co-signed raise test · [[hyperscaler-credit]].
 - **Status:** LIVE
