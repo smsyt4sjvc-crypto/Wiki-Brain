@@ -30,7 +30,7 @@ from the vault's conditions, not from the tape.**
 
 ### 🛢️ REFINERS — PARR (ACTUAL: 100 sh + short Oct-16 $80 call) · VLO · MPC · DINO · PBF
 - **Lean:** FLAT — the shortage is structural (China halt, Russia ban, Gulf product flows) but governments are now actively capping it.
-- **Watching:** China halted fuel exports "until further notice" (10/1); G7 confirmed up to 100M bbl of emergency oil + diesel over four months (10/2); Trump cooled on a US diesel export ban (10/1).
+- **Watching:** *(10/4)* Zelensky vows MORE strikes on Russian refineries; Houthis claim a hit on Aramco's ~130k b/d Riyadh refinery (unconfirmed) — supply-side 🟢 pressure ([[oil-value-chain]] 10/4) · China halted fuel exports "until further notice" (10/1); G7 confirmed up to 100M bbl of emergency oil + diesel over four months (10/2); Trump cooled on a US diesel export ban (10/1).
 - **🟢 IF:** Beijing does NOT restore fuel-export permits in the week after its 10/7 holiday (no quota/permit news by Fri 10/9) AND no US export-ban order ⇒ the crack holds or rebuilds from ~95.6 (10/2).
 - **🔴 IF:** (a) China restores fuel-export permits/quotas; or (b) a US diesel export-ban order (traps diesel at home — the vault map marks VLO/MPC/PSX/PBF BEAR); or (c) a windfall tax / price-cap proposal with a sponsor.
 - **⟲ 10/2 ~1:03pm PT:** **(b) effectively RESOLVED** — Trump: "we were never going to do diesel export ban" (ZH squawk, 2 min after the close), the day the G7 release was confirmed ⇒ the ban was leverage, now disowned. The live refiner flag is (a) China after 10/7. → [[demand-destruction]] 10/2.
@@ -46,6 +46,7 @@ from the vault's conditions, not from the tape.**
 - **🔴 IF:** a dated US-Iran meeting (Muscat / Doha / Islamabad) or a framework announced by an official ⇒ the war premium comes out; UAL is the mirror (🟢 on a deal). *(added 10/2 ~10:05am)* A SIGNED deal — the outcome Trump's "sign the deal or it won't exist" (10/1) is pushing for before Nov 3.
 - **🟢 IF (added 10/2 ~10:05am):** a DATED US strike announcement before Nov 3 — it would break the vault's after-midterms read (third carrier on station end-November) and pull the oil premium forward.
 - **🟢 IF (added 10/2 ~1:20pm):** a Saudi ground offensive along Yemen's Red Sea coast is confirmed LAUNCHED (Reuters 10/2: options being prepared) — Bab el-Mandeb is the outlet of the Saudi Hormuz bypass for Asia-bound Yanbu barrels; two chokepoints under pressure at once = longer voyages + war-risk pay. *(Two-sided over months: a successful offensive would make the bypass safer.)*
+- **✔ FIRED 2026-10-04 ~10:30am PT:** Alimi ordered all Yemeni forces into active combat operations Sun 10/4 (his X post + Bloomberg), with Saudi air cover (Reuters 10/2) — about five days ahead of the ~10/9 window. Houthis CLAIM a missile/drone hit on Aramco Riyadh Sat 10/3 (fire observed; coalition: "misleading"; unconfirmed ⇒ part (b) NOT met on the letter yet). → [[war/war-board]] 10/4 🇾🇪.
 - **When:** 2026-10-04 (3pm PT reopen) · next week: Saudi/Turkey/Pakistan talks on Houthi engagement (date ⬜) · **Saudi offensive launch window: "within a week to after the US midterms" (Axios via JPost 10/2) ≈ 2026-10-09 → mid-November** · window to end-November (the post-midterm strike window)
 - **⚠️ (10/2 ~5:05pm):** the Houthis exempt all ships EXCEPT Saudi ones (9/11) — a Saudi offensive is the likeliest event to end that exemption ⇒ watch for a Houthi statement widening targets.
 - **⚠️ Grading note (10/2):** UKMTO keeps issuing "time-late" reports (gCaptain Dispatch 120) — a weekend strike can surface days later ⇒ grade the weekend call provisionally at the reopen, finally ~Wed 10/7.
@@ -86,7 +87,7 @@ from the vault's conditions, not from the tape.**
 
 ### 🛸 ONDS — Ondas (drones + counter-drone)
 - **Lean:** BULL 1 (9/26: a $46.1M Air Force ULTRA modification — material to its size) — but the drone group is FLAT and the autonomy money is going to insiders/private firms (new-economy-regime 10/1).
-- **Watching:** ONDS 7.22 (10/2), −26% from its 3-month high; ~41% of the float short; history of cash burn and new-share issuance; ZH promotes it (class 8).
+- **Watching:** *(10/3)* private Neros won $100M for 14,000 attack drones (Drone Dominance Gauntlet II) — the drone money keeps going to private firms ([[new-economy-regime]] 10/4) · ONDS 7.22 (10/2), −26% from its 3-month high; ~41% of the float short; history of cash burn and new-share issuance; ZH promotes it (class 8).
 - **🟢 IF:** another OBLIGATED award large relative to its size (≥ ~$25M), OR Congress funds the FY27 drone/counter-drone lines with listed-vendor programs.
 - **🔴 IF:** an equity raise — an at-the-market program or offering filing (the history: dilution follows rallies; it gaps straight through a stop).
 - **When:** window — FY27 appropriations (date ⬜) · DoD daily contract announcements.
