@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **241 dated entries across 3 notes · 2026-07-01 → 2026-10-01 · refreshed 2026-10-04 11:32 PDT**
+> **241 dated entries across 3 notes · 2026-07-01 → 2026-10-01 · refreshed 2026-10-04 13:02 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before

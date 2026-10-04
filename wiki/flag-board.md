@@ -136,10 +136,10 @@ from the vault's conditions, not from the tape.**
 
 ### 🧮 COMPUTE FUTURES — CRWV · NBIS · IREN (readout; the futures are not tradeable at level 1)
 - **Lean:** SPLIT by vintage (9/23): NBIS bull · CRWV bear.
-- **Watching:** CME/NYMEX lists Silicon Data H100 and B200 rental-index futures Mon 10/5 (pending review); the H100 neocloud index ~$2.75 (FT chart, early Oct), off its Aug high, last print turning up.
+- **Watching:** CME/NYMEX Silicon Data H100 and B200 rental-index futures (730 GPU-hours, monthly to 36 months; launch TBA, NOT 10/5); the H100 neocloud index ~$2.75 (FT chart, early Oct), off its Aug high, last print turning up.
 - **🟢 IF:** the H100 curve prices later months ABOVE the spot index (the market expects rents to rise) with real open interest in week one ⇒ neocloud revenue support; NBIS first.
 - **🔴 IF:** later months BELOW spot (the market prices the old-vintage decline) or the H100 index falls below ~115 on the 9/23 rebased scale ⇒ H100-heavy fleets (CRWV) and GPU-backed lenders marked down.
-- **When:** 2026-10-05 (launch) · first week of trading
+- **When:** launch TBA — CME's revised notice drops the 10/5 date (Jake, 10/4); CFTC review extended 9/21 ("Approval Pending (90)") ⇒ a decision ~early-mid November (start date ⬜) · first week of trading
 - **Read it on:** CME/NYMEX settlements + open interest · Silicon Data index.
 - **Pointer:** [[metered-compute]] 9/15 + 10/4 🧮 · [[ai-financing-fragility]] 9/23 (vintage split).
 - **Status:** LIVE
