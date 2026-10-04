@@ -83,6 +83,7 @@ VIX3M 18.01 · VVIX 87.0 · SKEW 144.9 · OVX 51.0 · MOVE 107.29 · GVZ 23.2.*
   3. **CRWV puts.** iv 70 ≈ rv20 70 but rv60 97 — the vault's strongest bear (CDS 849.8, ~40-45% implied
      default; the ~36-point book-vs-recontract gap lands on equity) is not expensive to own; but no dated
      catalyst inside 10/5-10/16 (next raise undated; CME curve TBA) and the tape keeps bidding it (+10.7% 1m).
+     *(same day, later)* The first dated observable is now on file: DDTL 5.0 amortisation begins Nov-2026 and the Q3 10-Q (early Nov) shows it — match a CRWV put's expiry to mid-November or later ([[ai-financing-fragility]] 10/4 🗓️).
   4. **META** is the cheapest vol in the table (42 vs 55) — and the vault has no view strong enough (flat 0.5).
 - **(analysis) Where the vault's view is RICH to own — shares or sold premium, not bought options:**
   - **Refiners** (PARR +23, DINO +17.5, VLO/MPC +12 over realized): the sold PARR $80 call is on the right side
