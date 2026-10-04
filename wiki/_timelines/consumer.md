@@ -1,6 +1,6 @@
 # ⏱ CONSUMER — merged timeline (the gate)
 
-> **501 dated entries across 6 notes · 2026-03-13 → 2026-10-03 · refreshed 2026-10-04 13:42 PDT**
+> **501 dated entries across 6 notes · 2026-03-13 → 2026-10-03 · refreshed 2026-10-04 14:03 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -516,16 +516,16 @@
 - `2026-09-27` [consumption-vs-investment-crux.md:L317](../consumption-vs-investment-crux.md) — 2026-09-27 ~9:22am PDT (Y'd ~9:26am) — 🧾 **THE 12.8% CARD-DELINQUENCY HEADLINE IS A STOCK MEASURE INFLATED BY STALE CHARGED-OFF DEBT; THE FLOW OF NEW 
 - `2026-09-28` [market-fragility.md:L4722](../market-fragility.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 📈 **THE CREDIT SEQUENCE IS NOW DIRECTIONAL: IG 77 → 79 → 81 · BBB 95 → 97 → 99 · HY 273 → 280 → 293 · CCC 1,093 →
 - `2026-09-29` [consumption-vs-investment-crux.md:L326](../consumption-vs-investment-crux.md) — 2026-09-29 ~8:10am PDT (open scan, verified at the release) — 🚗 **SAME MORNING, TWO CONSUMERS: CARMAX +19.5% REVENUE, EPS $1.16 vs $0.73, RETAIL UNITS
-- `2026-09-29` [demand-destruction.md:L4414](../demand-destruction.md) — 2026-09-29 ~9:05am PDT (Y'd ~9:25am) — 🛢️ **DOE OFFERS ANOTHER "UP TO 40 MILLION BARRELS" FROM THE SPR — AN EXCHANGE FROM BIG HILL + BRYAN MOUND, WITH
-- `2026-09-29` [demand-destruction.md:L4423](../demand-destruction.md) — 2026-09-29 ~4:20pm PDT (ZH scan, Y'd ~9:05pm) — ⛽ **NATIONAL DIESEL $6.44 (9/28) = A NEW RECORD; TEXAS DECLARES A STATEWIDE DIESEL DISASTER (ABBOTT, 9
+- `2026-09-29` [demand-destruction.md:L4415](../demand-destruction.md) — 2026-09-29 ~9:05am PDT (Y'd ~9:25am) — 🛢️ **DOE OFFERS ANOTHER "UP TO 40 MILLION BARRELS" FROM THE SPR — AN EXCHANGE FROM BIG HILL + BRYAN MOUND, WITH
+- `2026-09-29` [demand-destruction.md:L4424](../demand-destruction.md) — 2026-09-29 ~4:20pm PDT (ZH scan, Y'd ~9:05pm) — ⛽ **NATIONAL DIESEL $6.44 (9/28) = A NEW RECORD; TEXAS DECLARES A STATEWIDE DIESEL DISASTER (ABBOTT, 9
 - `2026-09-29` [market-fragility.md:L4728](../market-fragility.md) — 2026-09-29 close (Y'd ~9:05pm PDT) — 📈 **TWO REGISTERED CREDIT THRESHOLDS FIRED ON THE 9/28 ICE CLOSE: BBB 102 (>100) AND HY 302 (>300); B 309 (>300);
 - `2026-09-30` [consumption-vs-investment-crux.md:L336](../consumption-vs-investment-crux.md) — 2026-09-30 ~6:40pm PDT (Y'd ~6:35pm) — 💵 **THE ANNUAL REVISION MOVED THE CONSUMER'S CUSHION UP ~1.5 POINTS — AND AUGUST STILL SPENT IT DOWN. SAVING RA
-- `2026-09-30` [demand-destruction.md:L4431](../demand-destruction.md) — 2026-09-30 ~6:50pm PDT (Y'd ~6:35pm) — ⛽ **BAN CLOCK #9: TRUMP'S "CRISIS TALKS" — THE CABINET IS AGAINST A BAN AND THE LOBBYING IS WINNING ON SUBSTANC
+- `2026-09-30` [demand-destruction.md:L4432](../demand-destruction.md) — 2026-09-30 ~6:50pm PDT (Y'd ~6:35pm) — ⛽ **BAN CLOCK #9: TRUMP'S "CRISIS TALKS" — THE CABINET IS AGAINST A BAN AND THE LOBBYING IS WINNING ON SUBSTANC
 - `2026-09-30` [market-fragility.md:L4736](../market-fragility.md) — 2026-09-30 ~8:35pm PDT (Y'd ~8:30pm) — 📉 **ICE 9/29: THE TAIL BREAKS FIRST — CCC & LOWER 1,157 (100th PERCENTILE OF 3 YEARS; +131 IN A MONTH), HY 308 
 - `2026-09-30` [new-economy-regime.md:L5021](../new-economy-regime.md) — 2026-09-30 ~7:15pm PDT (Y'd ~6:35pm) — 🏗️ **STATE CAPITAL, THREE READINGS IN ONE DAY: KOREA'S "$200B" IS ONE APPROVED PROJECT; THE AI ACCORD POINTS TO
 
 ## 2026-10
 
-- `2026-10-01` [demand-destruction.md:L4441](../demand-destruction.md) — 2026-10-01 ~7:55am PDT (Y'd ~7:50am) — ⛽ **BAN CLOCK #10: WASHINGTON THREATENS ALLIES — "DRAW DOWN YOUR EMERGENCY DIESEL OR FACE A US EXPORT BAN." SAM
+- `2026-10-01` [demand-destruction.md:L4442](../demand-destruction.md) — 2026-10-01 ~7:55am PDT (Y'd ~7:50am) — ⛽ **BAN CLOCK #10: WASHINGTON THREATENS ALLIES — "DRAW DOWN YOUR EMERGENCY DIESEL OR FACE A US EXPORT BAN." SAM
 - `2026-10-01` [new-economy-regime.md:L5032](../new-economy-regime.md) — 2026-10-01 ~3:45am PDT (Y'd ~3:32am) — 🛰️ **PROJECT MERIDIAN: MUSK, LUCKEY AND GINGRICH CO-LEAD A 120-DAY PENTAGON FUTURE-WARFARE STUDY; HEGSETH CUTS 
 - `2026-10-03` [new-economy-regime.md:L5043](../new-economy-regime.md) — 2026-10-03 ~1:40pm PDT (filed under rule 22c) — 🏭 **"WHERE IS THE ONSHORING?" — THE $20 TRILLION IS PLEDGES; THE MEASURED FOREIGN MONEY IS $232B, AND 
