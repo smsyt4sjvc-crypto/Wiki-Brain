@@ -153,6 +153,16 @@ from the vault's conditions, not from the tape.**
 - **Pointer:** [[buildout-bottleneck-map]] 9/30 ⚡ PJM entry.
 - **Status:** LIVE (watch only)
 
+### 🍉 META — Watermelon + Q3 (the cheapest options in the vault's table)
+- **Lean:** FLAT 0.5 (10/1) — attention seller wins from token compression vs capex-burner sold on spending (−8.3% on 7/29); CDS 100.2 through 100.
+- **Watching:** Watermelon (next frontier model, ~10× Muse Spark compute; October target REPORTED, benchmarks undisclosed) · Q3 ~10/28 AMC (inferred, not confirmed) · Muse Spark open weights "soon". Options: iv30 42 vs realized 55/47 — IV/RV <1 with a dated stack; skew flat; Nov-20 ATM straddle ±11.7%.
+- **🟢 IF:** Watermelon ships with DISCLOSED benchmarks at or above GPT-5.5 parity AND the Q3 revenue guide ≥ consensus ⇒ META above the Nov-20 call breakeven (~+12% from 728 at the 800 strike).
+- **🔴 IF:** the 7/29 pattern — Q3 capex guide raised with the revenue guide short, or Watermelon slips past October with no date ⇒ META −8% that session (the put wing).
+- **When:** October (Watermelon, no hard date) · ~2026-10-28 (Q3, inferred) · Nov-20 expiry captures both.
+- **Read it on:** Meta newsroom / Zuckerberg · Meta IR (date confirmation) · CBOE META chain (iv vs the 55/47 realized).
+- **Pointer:** [[compression-thesis]] 10/4 🍉 · [[vol-divergence]] · [[cepi]] (Q3 mark give-back).
+- **Status:** LIVE
+
 ### 🏗️ HYPERSCALER EARNINGS — NVDA · AVGO · MU (suppliers) vs the long end
 - **Lean:** —
 - **Watching:** Goldman's capex path $1.2T 2027 (+54%) → $1.4T 2028 (+12%); suppliers are paid on capex GROWTH, depreciation rides on the STOCK.

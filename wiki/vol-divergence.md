@@ -85,6 +85,7 @@ VIX3M 18.01 · VVIX 87.0 · SKEW 144.9 · OVX 51.0 · MOVE 107.29 · GVZ 23.2.*
      catalyst inside 10/5-10/16 (next raise undated; CME curve TBA) and the tape keeps bidding it (+10.7% 1m).
      *(same day, later)* The first dated observable is now on file: DDTL 5.0 amortisation begins Nov-2026 and the Q3 10-Q (early Nov) shows it — match a CRWV put's expiry to mid-November or later ([[ai-financing-fragility]] 10/4 🗓️).
   4. **META** is the cheapest vol in the table (42 vs 55) — and the vault has no view strong enough (flat 0.5).
+     *(same day, later)* A dated stack now attaches — Watermelon (October target, reported) + Q3 (~10/28, inferred): direction still a coin flip on the vault's record, magnitude likely ⇒ a small Nov-20 strangle is the vol-consistent shape, not a call ([[compression-thesis]] 10/4 🍉).
 - **(analysis) Where the vault's view is RICH to own — shares or sold premium, not bought options:**
   - **Refiners** (PARR +23, DINO +17.5, VLO/MPC +12 over realized): the sold PARR $80 call is on the right side
     of this; DINO/VLO adds belong in shares with the +3/−3 bracket. The market is paying for the China/ban
