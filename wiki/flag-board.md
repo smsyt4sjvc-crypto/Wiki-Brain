@@ -124,6 +124,16 @@ from the vault's conditions, not from the tape.**
 - **Pointer:** [[ai-financing-fragility]] 10/1 ⚖️ (co-signed raise test, Jake's thesis) · [[forest]] ⚡ co-signed raise test · [[hyperscaler-credit]].
 - **Status:** LIVE
 
+### 🛩️ LTRX — Lantronix (drone compute supplier) · (mirror: SWMR, a listed customer)
+- **Lean:** FLAT (initialised 10/4: BULL 1 on measured unmanned revenue / BEAR 1 on dilution — the ATM is live at today's price).
+- **Watching:** $7.19 (10/2) = the May offering price (≈$7.19) and the ATM average (≈$7.24), with ~$17M ATM left; +36% since 9/8 while ONDS/RCAT fell; CEO bought 15K at $5.18 on 9/9.
+- **🟢 IF:** Q1 FY27 revenue ≥ $32M (the guide's top half, $31-33M) AND unmanned revenue ≥ ~$5M in the quarter (the run-rate for the top of the FY27 range, ~$20-28M) or management raises the FY27 unmanned share above 15-20% ⇒ the ~52x multiple compresses on growth.
+- **🔴 IF:** the Q1 10-Q shows the ATM was used after 6/30 (share count above 46.71M by more than plan grants) or a new offering · unmanned flat-to-down quarter on quarter · another large legacy customer drops out.
+- **When:** 2026-11-03 (annual meeting: +1.8M plan shares) · Q1 FY27 report ≈ early November (date ⬜; last year 11/6)
+- **Read it on:** the Q1 release and 10-Q (EDGAR) · Form 4s · 424B5 filings.
+- **Pointer:** [[lantronix]] 10/4.
+- **Status:** LIVE
+
 ### ⚡ POWER — CEG · VST · TLN (ACTUAL: small CEG, VST, TLN)
 - **Lean:** FLAT 0.5 (PJM's fix delayed; scarcity preserved) · CEG bull 0.5 (AMZN Calvert Cliffs).
 - **Watching:** FERC ruling on PJM's Interim Resource Adequacy Service.
