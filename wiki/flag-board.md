@@ -134,6 +134,16 @@ from the vault's conditions, not from the tape.**
 - **Pointer:** [[lantronix]] 10/4.
 - **Status:** LIVE
 
+### 🧮 COMPUTE FUTURES — CRWV · NBIS · IREN (readout; the futures are not tradeable at level 1)
+- **Lean:** SPLIT by vintage (9/23): NBIS bull · CRWV bear.
+- **Watching:** CME/NYMEX lists Silicon Data H100 and B200 rental-index futures Mon 10/5 (pending review); the H100 neocloud index ~$2.75 (FT chart, early Oct), off its Aug high, last print turning up.
+- **🟢 IF:** the H100 curve prices later months ABOVE the spot index (the market expects rents to rise) with real open interest in week one ⇒ neocloud revenue support; NBIS first.
+- **🔴 IF:** later months BELOW spot (the market prices the old-vintage decline) or the H100 index falls below ~115 on the 9/23 rebased scale ⇒ H100-heavy fleets (CRWV) and GPU-backed lenders marked down.
+- **When:** 2026-10-05 (launch) · first week of trading
+- **Read it on:** CME/NYMEX settlements + open interest · Silicon Data index.
+- **Pointer:** [[metered-compute]] 9/15 + 10/4 🧮 · [[ai-financing-fragility]] 9/23 (vintage split).
+- **Status:** LIVE
+
 ### ⚡ POWER — CEG · VST · TLN (ACTUAL: small CEG, VST, TLN)
 - **Lean:** FLAT 0.5 (PJM's fix delayed; scarcity preserved) · CEG bull 0.5 (AMZN Calvert Cliffs).
 - **Watching:** FERC ruling on PJM's Interim Resource Adequacy Service.
