@@ -577,6 +577,7 @@ when he reopens.**
   NOT need pushing; `timeline_header.py --all --threads --chain` regenerates them.**
 - **⇒ ON RECOVERY: `git pull --rebase` (ORIGIN ONLY), delete the recovery file, regenerate
   timelines, push.**
+- **⛔ A SECOND CAUSE, DIFFERENT SIGNATURE (diagnosed by Jake, 2026-10-04):** adding ANOTHER GitHub account (10/3, for a client website) unlinked the Claude GitHub App from Wiki-Brain. **Symptom: `403` on git push AND `403 Resource not accessible by integration` on the GitHub API** — so the MCP fallback above fails too; the remote message reads "Claude doesn't have GitHub access to smsyt4sjvc-crypto/Wiki-Brain." **Fix (Jake's side):** reconnect at `https://claude.ai/customize/connectors?auth_start=github&auth_start_force=1` or re-install the app for `smsyt4sjvc-crypto` at `https://github.com/apps/claude/installations/select_target`. When both paths fail, the only copy is the container — write a recovery file to the scratchpad and tell Jake at once.
 
 ### ⛔ WIKI-BRAIN PUSH = `bash tools/wb_push.sh` — NEVER `git pull --rebase wb main` (set 2026-08-25, after the accident)
 **Wiki-Brain main is a ROOT-LEVEL mirror of `research-vault/` with DIFFERENT SHAs (no shared
