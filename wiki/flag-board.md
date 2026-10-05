@@ -114,6 +114,7 @@ from the vault's conditions, not from the tape.**
 - **Status:** LIVE
 
 ### 🧠 MU — memory pricing vs the first buyer pushback
+- **🔴 IF (added 10/5 close):** a named hyperscaler or neocloud DEFERS rack deployment for lack of power (MS: ~33 GW / 34% net shortfall through 2028; memory/optics bear the timing) ⇒ MU −3% first; the 9/30 deposits/SCAs cushion revenue, not the multiple ([[buildout-bottleneck-map]] 10/5 close).
 - **Lean:** BULL (money-board #1 cumulative, 9/23) — with a fresh WARNING: TrendForce has Nvidia evaluating 8-high HBM on Rubin Ultra to cut cost (less memory per GPU because of price). MU at new lows despite blowout earnings (Jake 10/1: "everything now in the price").
 - **🟢 IF:** Samsung's Q3 preliminary operating profit beats consensus (Q2 was ₩89.4T, released 7/7) OR TSMC's September revenue prints above August's NT$514.8B ⇒ the cycle is still being paid.
 - **🔴 IF:** Nvidia or a supplier confirms 8-high HBM on Rubin Ultra (load cut), OR distributor backorders reopen (the vault's MU reversal trigger).

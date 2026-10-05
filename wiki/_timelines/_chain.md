@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1070 dated entries · 2026-02-10 → 2026-10-03 · refreshed 2026-10-05 10:01 PDT**
+> **1071 dated entries · 2026-02-10 → 2026-10-05 · refreshed 2026-10-05 13:33 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1108,3 +1108,4 @@
 - `2026-10-02` **[3]** ai-financing-fragility.md:L8574 — 2026-10-02 ~4:30pm PDT (filed under rule 22c) — 🌉 **"THE BRIDGE TO 2031": THE CLAIM THAT AI BECOMES SELF-FUNDING WHEN ENTERPRISE AI SPEND REACHES ~$3T
 - `2026-10-03` **[1]** new-economy-regime.md:L5043 — 2026-10-03 ~1:40pm PDT (filed under rule 22c) — 🏭 **"WHERE IS THE ONSHORING?" — THE $20 TRILLION IS PLEDGES; THE MEASURED FOREIGN MONEY IS $232B, AND 
 - `2026-10-03` **[3]** balance-sheet-board.md:L818 — 2026-10-03 ~1:35pm PDT (filed under rule 22c) — 🧾 **ZH: "META's $628B 'FOOTNOTE' — COUNT IT AND THE STOCK GETS 35% MORE EXPENSIVE." THE NUMBERS ARE TH
+- `2026-10-05` **[1]** rates-board.md:L3854 — 2026-10-05 close (~1:45pm PDT, filed under rule 22c) — 📉 **TEST SIX: A SOFT ISM HEADLINE AND A WEAK-JOBS HANGOVER, AND THE LONG END ROSE 3bp ANYWAY — 
