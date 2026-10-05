@@ -1,6 +1,6 @@
 # ⏱ VOL — merged timeline (the gate)
 
-> **185 dated entries across 4 notes · 2026-07-01 → 2026-10-02 · refreshed 2026-10-04 20:30 PDT**
+> **185 dated entries across 4 notes · 2026-07-01 → 2026-10-02 · refreshed 2026-10-04 20:33 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
