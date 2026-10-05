@@ -1,0 +1,6 @@
+# Gopher read (pasted by Jake 10/5 ~3:55pm PT) of a report on Meta/Microsoft Claude usage — source article ⬜ (The Information?)
+- Meta: Claude Code users ~60,000 → ~30,000 (layoffs explain part); Meta now 30,000+ MetaCode users and 6,000+ Muse Code users; Meta spent >$105M on Claude Code in one recent 28-day period (~$1.37B annualised at that pace).
+- Microsoft: internal Claude usage had been tracking toward ≥$1B/yr; projected level cut by more than one-third; staff pushed toward GitHub Copilot/OpenAI/homegrown. Customer-facing Anthropic consumption ≥$2B/yr and rising; total Microsoft payments to Anthropic reportedly roughly flat.
+- OpenAI ARR nearly $70B, +70% since the start of Q3; enterprise sales more than doubled since July. Anthropic >$65B annualised at end-July vs $47B in May and ~$9B at YE2025 (not perfectly comparable).
+- Anthropic IPO: reportedly asking investors to underwrite ~$190-200B of 2028 revenue; nearly a quarter of 2025 revenue from two customers.
+- Gopher thesis: token commoditisation / routing sensitivity at enterprise scale (budget caps, auto-routing, owned-model substitution); Meta repatriates AI gross margin — the $105M/28d is an upper bound on the workload being internalised; utilization bridge capex → deployed MW → economic output; scores META bullish.
