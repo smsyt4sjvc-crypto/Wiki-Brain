@@ -148,7 +148,8 @@ from the vault's conditions, not from the tape.**
 ### ⚡ POWER — CEG · VST · TLN (ACTUAL: small CEG, VST, TLN)
 - **Lean:** FLAT 0.5 (PJM's fix delayed; scarcity preserved) · CEG bull 0.5 (AMZN Calvert Cliffs).
 - **Watching:** FERC ruling on PJM's Interim Resource Adequacy Service.
-- **🟢 IF / 🔴 IF:** ⬜ direction NOT settled on file — a delayed fix preserves scarcity pricing (🟢 generators) but delays the $555 bid (🔴). **Not menu-ready until the direction is argued.**
+- **🟢 IF (argued 10/4):** FERC approves IRAS curtail-first by 10/12 ⇒ behind-the-meter becomes the default for new large loads — BE / CAT / GEV (turbines) up, hyperscaler $/MW up; connected-fleet premium (VST/CEG/TLN) holds.
+- **🔴 IF:** FERC rejects or suspends IRAS too ⇒ the queue freezes harder; the $555 backstop stays unpriced into 2027 (PJM pulled it 10/4, launch TBD) — generators keep scarcity pricing but lose the dated bid; data-center-dependent names (ORCL Jupiter-class, CRWV) lose a power path.
 - **When:** 2026-10-12 (FERC, by)
 - **Read it on:** FERC order · PJM filing.
 - **Pointer:** [[buildout-bottleneck-map]] 9/30 ⚡ PJM entry.
