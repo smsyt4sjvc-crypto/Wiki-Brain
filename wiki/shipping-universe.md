@@ -77,6 +77,62 @@ WHICH freight market. Tape via `tools/tape.py` (Yahoo closes Fri 2026-10-02). Th
 - *(analysis)* Three tickers in the common lists are dead or distorted (GOGL, OSG, NFE) and one is missing (CLCO). A
   list is not a universe until each line has been traded recently.
 
+## 🌊 El Niño + the Panama Canal — which of these are ALSO exposed (added 2026-10-04 ~9:15pm PT, Jake's Q)
+### DATA (observed)
+- **NOAA CPC ENSO discussion, 10 Sep 2026:** status **El Niño ADVISORY**; Niño-3.4 **+1.8°C** (Aug), Niño-3 +2.5, Niño-1+2
+  +3.4; **>90% chance of a VERY STRONG event in NH fall/winter 2026-27; 75% chance OND 2026 is HISTORIC (3-month RONI
+  ≥ +2.5°C, exceeding every event since 1950).** Next update **Thu 2026-10-08.** (cpc.ncep.noaa.gov/…/ensodisc.shtml)
+- **Panama Canal Authority, 28 Sep 2026:** maximum Neopanamax draft **14.94 m / 49.0 ft, effective immediately**; daily
+  slots **33 from 15 Oct 2026** (10 Neopanamax + 23 Panamax), citing the present and projected Gatun Lake level and
+  "close to average precipitation on the Canal watershed"; **"the water deficit continues."** Trade press: a scheduled
+  1 Oct cut to 47.5 ft was POSTPONED; restrictions had escalated through September as El Niño built; Gatun ~84.7 ft.
+  (pancanal.com announcement; FreightWaves/Sourcing Journal.)
+- **The 2023-24 precedent (the last strong El Niño):** Oct 2023 the driest October since 1950 (−41% vs normal); Gatun
+  just over 79 ft; draft cut to **44 ft** (from 49.5-50); transits **36 → 32 (30 Jul 2023) → 24 (7 Nov 2023)**; 160+ ships
+  queued, Neopanamax waits ≥17 days (Aug 2023); **VLGC Houston–Chiba $250/t (w/e 29 Sep 2023) = record since the
+  assessment began (2016)**; LNG carrier transits cut >40%. (S&P Global, Maritime Executive, EIA, TradeWinds.)
+- **Canal mix, FY2025 (ACP):** 13,404 transits (+19.3% y/y), 3,342 Neopanamax; growth led by **containers and LPG**; bulk
+  recovering; **LNG below expectations** (freight economics, i.e. Cape/Suez routing or US→Europe instead).
+- **El Niño channels already printing (2026):** Asian hydropower −13 GW avg y/y in June (India + Vietnam >80% of the
+  decline) → more coal and LNG burn (Down to Earth; Breakwave 8/18) · Brazil: El Niño extends the dry season → thermal
+  output and LNG imports into 2027 (Argus 7/30) · Australian wheat 2026/27 forecast ~29 Mt (−19%), exports ~23.5 Mt
+  (DCN) · UBS: a super El Niño tightens thermal coal.
+
+### THESIS (interpretation — NOT fact)
+- *(analysis)* **"Vulnerable" runs the OTHER way for most owners.** A canal restriction is a TON-MILE event: cargo that
+  cannot transit sails around the Cape or waits, and the owner of the ship gets paid more. 2023 proved it — the VLGC
+  record was canal-made. The charterer/liner pays; the lessor on a fixed charter is insulated. So the exposure table
+  below gives a DIRECTION, not just a yes.
+- *(analysis)* **Exposure by name, both channels:**
+  | tk | canal | El Niño | net read |
+  |---|---|---|---|
+  | **LPG** (Dorian, VLGC) | HIGHEST — US Gulf→Asia propane is the canal's #1 energy user; 2023 record | mild US winter → low propane → wider arb → more exports (bull) | restriction = windfall; easing (now) removes the 2023 tailwind |
+  | **FLNG** (LNG carriers) | HIGH — US→Asia via canal or Cape; 2023 transits −40% | Asian hydro deficit + Brazil thermal → more LNG cargoes (bull) | the only El Niño-demand name; carrier glut caps it |
+  | **STNG · ASC · TRMD · HAFN** (MR product) | MODERATE — US Gulf→west-coast South America diesel/gasoline | Peru/Chile demand; second order | restriction lengthens voyages (bull) |
+  | **ZIM** (liner) | NEGATIVE — pays slot auctions / reroutes; Asia→USEC via canal | — | the one name a restriction HURTS |
+  | **DAC · GSL · CMRE · SFL** (lessors) | insulated (fixed charters) | — | none |
+  | **MATX** | NONE — transpacific to Long Beach, no canal | — | none |
+  | **SBLK · GNK · SB · HSHP** (dry bulk) | LOW-MODERATE — US Gulf grain→Asia | MIXED: Australian wheat −19% (bear), Asian coal imports up on hydro deficit (bull), Brazil soy weather (⬜) | El Niño matters more than the canal; direction not settled |
+  | **KEX** (Mississippi barges) | none | El Niño = WETTER southern US → fewer low-water episodes (the 2022-23 low water was La Niña) | mildly positive |
+  | **DHT · FRO · INSW · TNK · NAT** (crude) | NONE — VLCCs cannot transit; Suezmax/Aframax marginal | mild NH winter → less heating-oil demand, second order | the war trade is unaffected by either |
+- *(analysis)* **State today: the canal is EASING INTO a historic El Niño.** The ACP has raised slots and draft on
+  near-average rain through September, while NOAA puts 75% on the strongest event on record for Oct-Dec. The 2023
+  failure came in OCTOBER (driest since 1950) and the restrictions bit in Nov-May. ⇒ the 120-day question is whether
+  the Oct-Nov rains fail; if they do, the 15 Oct slot increase reverses and the 2023 sequence (draft cuts → slot cuts →
+  auctions → VLGC/LNG spike) replays into Q1 2027. If they hold, the tailwind simply does not arrive.
+- *(analysis)* **Money, today: no instrument.** LPG's +48%/60d is the propane arb and the Middle East (Gulf LPG exports
+  disrupted), not the canal; the canal is currently a REMOVED tailwind. The only name with a positive El Niño DEMAND
+  channel independent of the canal is FLNG (Asia/Brazil LNG burn), and it is flat on 20 days. No marks. ⚠️ Class 8: the
+  "super El Niño" headlines come from weather-sellers and commodity desks; NOAA's own probability (75% historic) is the
+  datum.
+
+### 📌 REGISTERED
+- 🔴 **Thu 2026-10-08 NOAA ENSO update** — does the historic-event probability hold ≥75%?
+- 🔴 **15 Oct 2026** — do the 33 slots take effect, and does the ACP's next monthly notice hold 49 ft? A draft cut
+  announced for Nov-Dec = the 2023 sequence starting → LPG / FLNG / MR tankers 🟢, ZIM 🔴.
+- ⬜ Gatun Lake level series (ACP publishes daily) — adopt as the instrument; 2023 trough ~79 ft vs ~84.7 ft now.
+- ⬜ Australian wheat export estimate (ABARES Dec) and Asian coal import prints — the dry-bulk direction.
+
 ## 📌 OPEN
 - ⬜ product-tanker study (clean freight series; TRMD/HAFN/STNG vs the diesel crack) before any mark.
 - ⬜ CLCO status; NFE corporate action behind the artifact.
