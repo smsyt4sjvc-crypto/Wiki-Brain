@@ -58,7 +58,7 @@ from the vault's conditions, not from the tape.**
 ### 🏠 HOMEBUILDERS / LONG BONDS / SMALL CAPS — LEN · DHI · TLT · IWM · (ACTUAL: SPY 745 put Dec-18)
 - **Added 10/2 ~1:20pm — IWM rides the same flag:** small caps need rates to fall (more floating-rate debt, more unprofitable firms — general, ⬜ current %). Tape 10/2: IWM −4.4% over a month and −7.8% from its 3-month high while QQQ sat AT its high.
 - **Lean:** BEAR on LEN/DHI (9/23 top-5); the vault's standing read is that the long end will not rally (five tests passed, incl. the 10/2 post-payrolls round trip).
-- **Watching:** next week's Treasury auctions after a squeeze that fully reversed in three hours (10Y 5.16 → 5.26 on 10/2).
+- **Watching:** next week's Treasury auctions after a squeeze that fully reversed in three hours (10Y 5.16 → 5.26 on 10/2). · *(10/4 eve)* Hartnett's cascade triggers: IXG (global financials) < $125 and MOVE > 125 — IXG 126.43, MOVE 107 on 10/2; neither fired.
 - **🟢 IF:** the 10-year auction (Wed 10/7) stops THROUGH the when-issued yield (no tail) AND the 10Y closes below ~5.15 ⇒ LEN/DHI and TLT bid (the BEAR list becomes the BULL list).
 - **🔴 IF:** the 10Y or 30Y auction tails AND the 10Y closes at or above ~5.30 ⇒ LEN/DHI lower; the SPY put (ACTUAL) gains.
 - **When:** 2026-10-06 (3Y) · 2026-10-07 (10Y) · 2026-10-08 (30Y) — results 10am PT
