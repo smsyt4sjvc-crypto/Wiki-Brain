@@ -11,6 +11,7 @@ survives in git (the repo is the persistence layer — the container is ephemera
 - `chat-log/` — ONE FILE PER CALENDAR DAY: conversational state, open questions, corrections, continuity vs the prior day. Read FIRST after a compaction (STEP ZERO-C).
 - `predictions/` — nightly calibration (point + range + kill-switch), graded next session → `_scoreboard.md`.
 - `menu/` — the DAILY MENU at the open (rule 16e): one file per trading day, drawn from `wiki/flag-board.md`, graded in the next menu.
+- `mim/` — MONEY IN THE MORNING (rule 16f): the ~9pm PT round-out + ZH scan + the decision on where money goes at the open; one file per day (`tools/mim.py`), graded in the next MIM.
 - `tools/` — token-free Colab notebooks/scripts (screens, scanners, backtests).
 - `trading-system/` — the SEPARATE Alpaca-Claude project (its own `CLAUDE.md`/laws), staged here to transplant.
 - `CLAUDE.md` — this file. How the vault runs.
@@ -209,6 +210,21 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     ~+3%, stop ~−3%, out within ~5 days.** **(d) WHY, in numbers (10/2):** that bracket on 40 vault names
     picked on price alone hit target 47% / stop 46% over 2y (n≈17,400) — a coin flip; the edge has to come
     from the flags. **Every flag trade is logged so the flags can be graded against that 47/46 baseline.**
+16f. 🌙★★★ **MIM — MONEY IN THE MORNING (set 2026-10-05, Jake: "New section after close every day: MIM.
+    Money in the morning. We run a material scan at 9:00 PM Pacific time, round out the day's news updates —
+    bond, close, macro, market, business news, etc. — scan ZH and decide if there's anywhere worth putting
+    money at the open in the morning.")** **(a) At ~9pm PT, IN SESSION when Jake opens (rule 15 — no cron,
+    no Routine): `python3 tools/mim.py` (grade the previous MIM FIRST, then the day as filed, the tape, the
+    flags due in ≤3 days, ZH since the close) → `mim/YYYY-MM-DD.md`.** **(b) The file is the ROUND-OUT (bonds ·
+    close · macro · market internals · business · war/oil) → the ZH read (material only, librarian first) →
+    THE BOOK tonight → 💰 WHERE MONEY GOES AT THE OPEN: one or two calls in the 16e shape (name · side ·
+    entry · limit ~+3% · stop ~−3% · out within ~5 days · the PRECISE prediction · the named disconfirmer),
+    or NO TRADE with the reason.** **(c) Registered at build, graded in the NEXT MIM, never edited. The
+    morning menu (16e) inherits the MIM's calls and re-checks them against the overnight tape and news;
+    MIM decides, the menu confirms.** **(d) Every MIM call taken is logged in `data/flag_trades.csv`
+    (ACTUAL or PAPER) so the 9pm process is graded against the 47/46 price-only baseline like the flags.**
+    **(e) It ends at the money, every night: "so the money goes here at the open, and here is the trade —
+    or there isn't one."**
 17. **Code delivery: COMPLETE cells only** (iPhone/Colab). Acronyms spelled out at first use.
 18. **End of session: file → link → index → ⏱ TIMELINE → chat-log → commit → push. Every turn pushes.**
     ⏱ **`python3 tools/timeline_header.py --all --threads --chain` AFTER writing entries, BEFORE committing.**
