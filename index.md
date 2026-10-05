@@ -59,6 +59,7 @@ so a March entry lands on an August paste. The router prints the path on every m
 - [[ai-financing-fragility]] — the debt leg (private credit → the funding squeeze; the tripwire)
 - [[reflection-ai]] — the "American open-weight champion" (Nvidia-backed, private, pre-product; circular-financing instance)
 - [[vol-divergence]] — implied vs realized vol for every vault name (CBOE iv30 vs rv20/rv60, 10/2 close): where the vault's view is cheap to own (index puts, MU, CRWV) vs rich (refiners, tankers, TLT/HYG, defense). Built 10/4.
+- [[shipping-universe]] — US-listed shipping tickers by segment (crude · product · LNG/LPG · dry bulk · containers · Jones Act · ETFs) with Fri 10/2 tape, the driver each trades on, and which the vault covers (10/4)
 - [[lantronix]] — LTRX: listed Qualcomm-based drone-compute supplier into private airframe/autonomy makers; real unmanned revenue, +17% dilution, ATM live at the current price (10/4)
 - [[metered-compute]] — Jake's structural-demand thesis (geometric agentic token consumption = the DEMAND side; shortage-not-glut) + the settlement toll
 - [[content-toll]] — the crawler unbundling: content becoming a PRICED AI input (Google Zero, Cloudflare 9/15, the search/training bundle as the source of leverage)
