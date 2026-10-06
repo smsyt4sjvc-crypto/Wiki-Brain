@@ -11,3 +11,5 @@
 Image rules followed from the plan's app note: machine moves → manual photo; band/bodyweight → closest Free Exercise DB match (caption says "closest match" when the demo uses different equipment); no close match → no photo (Band Lateral Walk, Leg swings, Band Hip Abduction, Back Hyperextension, seated butterfly, lat stretch).
 
 To republish after a change: `python3 personal/jenn-workout/build.py`, then publish `personal/jenn-workout/index.html` with `url` = the link above (files in `img/` are already uploaded; pass only changed ones).
+
+**No-account copy:** `Jenns-Weekly-Workout.html` is a single self-contained file (photos embedded, ~3 MB) that opens in Safari from Files with no Claude login. It is generated, not committed; rebuild it from `index.html` by inlining `img/*` as data URIs (see chat-log 2026-10-05 ~5:55pm).
