@@ -1,0 +1,820 @@
+<title>Jenn's Weekly Workout</title>
+<meta name="description" content="Weekly glutes, legs, back, core and cardio routine on the Body-Solid G9S home gym, with demo photos for every exercise.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+/* Layout: one sticky day bar; each day is one scroll of exercise cards with photo pairs. Gym-poster type, calm surfaces. */
+:root{
+ --bg:#f6f4f1; --surface:#ffffff; --fg:#1d1a24; --muted:#625c6e; --line:#dcd7d0;
+ --accent:#b5214f; --accent-ink:#ffffff; --tag:#eee6ea; --ok:#2a7a4b;
+ --display:"Barlow Condensed","Arial Narrow",Impact,sans-serif; --body:"Source Sans 3","Segoe UI",Helvetica,Arial,sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){ --bg:#15131a; --surface:#1f1c26; --fg:#f1edf2; --muted:#a79fb3; --line:#36313f; --accent:#ec5a86; --accent-ink:#1a0710; --tag:#2b2433; --ok:#6fcf97; color-scheme:dark } }
+:root[data-theme="dark"]{ --bg:#15131a; --surface:#1f1c26; --fg:#f1edf2; --muted:#a79fb3; --line:#36313f; --accent:#ec5a86; --accent-ink:#1a0710; --tag:#2b2433; --ok:#6fcf97; color-scheme:dark }
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.45;margin:0}
+.wrap{max-width:720px;margin:0 auto;padding-inline:16px;padding-block:0 48px}
+h1,h2,h3,h4{font-family:var(--display);line-height:1.05;margin:0;text-wrap:balance}
+h1{font-size:2.6rem;font-weight:700;letter-spacing:.01em}
+.top{padding-block:20px 10px}
+.top p{margin:6px 0 0;color:var(--muted);max-width:60ch}
+.eyebrow{font-family:var(--body);font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:600;margin:0}
+.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);display:grid;grid-template-columns:repeat(7,1fr);gap:4px;padding-block:8px;border-bottom:1px solid var(--line)}
+.tab{appearance:none;border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:8px;padding:6px 0;font:inherit;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:1px;min-width:0}
+.tab span{font-family:var(--display);font-weight:700;font-size:1.05rem}
+.tab small{font-size:.62rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.tab[aria-selected="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.tab[aria-selected="true"] small{color:var(--accent-ink)}
+.tab:focus-visible,.reset:focus-visible,.done input:focus-visible+.box,details summary:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.dayhead{padding-block:18px 6px}
+.dayhead h2{font-size:2rem;margin-top:4px}
+.focus{color:var(--muted);margin:4px 0 0}
+.block{margin-top:18px}
+.bhead{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px;border-top:2px solid var(--fg);padding-top:8px;margin-bottom:8px}
+.bhead h3{font-size:1.35rem;text-transform:uppercase;letter-spacing:.03em}
+.bhead p{margin:0;color:var(--muted);font-size:.9rem}
+.ex{position:relative;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 12px 10px 48px;margin-bottom:10px}
+.ex.is-done{opacity:.55}
+.done{position:absolute;left:12px;top:14px;width:26px;height:26px;cursor:pointer}
+.done input{position:absolute;opacity:0;width:1px;height:1px}
+.box{display:block;width:24px;height:24px;border:2px solid var(--muted);border-radius:6px;background:var(--surface)}
+.done input:checked+.box{background:var(--ok);border-color:var(--ok)}
+.done input:checked+.box::after{content:"";position:absolute;left:8px;top:3px;width:7px;height:13px;border:solid var(--surface);border-width:0 3px 3px 0;transform:rotate(45deg)}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.exhead{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px}
+.exhead h4{font-size:1.25rem;font-weight:600;flex:1 1 auto;min-width:0}
+.tag{font-family:var(--display);font-weight:700;background:var(--tag);color:var(--fg);border-radius:5px;padding:1px 7px;font-size:.95rem}
+.sets{font-family:var(--display);font-weight:700;font-size:1.2rem;color:var(--accent);font-variant-numeric:tabular-nums;white-space:nowrap}
+.cue{margin:4px 0 0;color:var(--muted);font-size:.95rem;max-width:62ch}
+.pics{margin:10px 0 0;display:grid;grid-template-columns:1fr 1fr;gap:6px}
+.pics.n1{grid-template-columns:minmax(0,220px)}
+.pics img{width:100%;height:auto;max-width:100%;border-radius:6px;background:#fff;border:1px solid var(--line)}
+.pics figcaption{grid-column:1/-1;font-size:.72rem;color:var(--muted);letter-spacing:.02em}
+.noimg{margin-top:8px;font-size:.78rem;color:var(--muted);font-style:italic}
+.note{margin-top:8px}
+.note input{width:100%;max-width:220px;border:1px dashed var(--line);border-radius:6px;background:transparent;color:var(--fg);font:inherit;font-size:.9rem;padding:4px 8px}
+.note input:focus{outline:2px solid var(--accent);border-style:solid}
+.resetrow{margin:14px 0 0}
+.reset{font:inherit;font-size:.85rem;background:transparent;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:6px 10px;cursor:pointer}
+details{border-top:1px solid var(--line);padding-block:10px}
+details summary{font-family:var(--display);font-size:1.3rem;font-weight:700;cursor:pointer;text-transform:uppercase;letter-spacing:.03em}
+details ul{padding-left:20px;margin:8px 0 0}
+details li{margin-bottom:6px;max-width:65ch}
+.ref{margin-top:28px}
+.glance{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;margin:10px 0 0;font-size:.95rem}
+.glance dt{font-family:var(--display);font-weight:700;font-size:1.05rem}
+.glance dd{margin:0;color:var(--muted)}
+.src{font-size:.8rem;color:var(--muted);margin-top:20px;max-width:65ch}
+@media (prefers-reduced-motion:no-preference){.ex{transition:opacity .2s}}
+</style>
+<div class="wrap">
+ <header class="top">
+  <p class="eyebrow">Body-Solid G9S home gym · bands · treadmill · bike</p>
+  <h1>Jenn's Weekly Workout</h1>
+  <p>Glutes, legs, back, core and cardio. Every session about 60 minutes. You set all weights and pick the band strength. Tap the box when an exercise is done; the dashed field remembers your pin number or band.</p>
+ </header>
+ <nav class="tabs" role="tablist" aria-label="Day"><button type="button" role="tab" class="tab" data-day="mon" aria-selected="true"><span>Mon</span><small>Lift</small></button><button type="button" role="tab" class="tab" data-day="tue" aria-selected="false"><span>Tue</span><small>Cardio</small></button><button type="button" role="tab" class="tab" data-day="wed" aria-selected="false"><span>Wed</span><small>Lift</small></button><button type="button" role="tab" class="tab" data-day="thu" aria-selected="false"><span>Thu</span><small>Cardio</small></button><button type="button" role="tab" class="tab" data-day="fri" aria-selected="false"><span>Fri</span><small>Lift</small></button><button type="button" role="tab" class="tab" data-day="sat" aria-selected="false"><span>Sat</span><small>Cardio</small></button><button type="button" role="tab" class="tab" data-day="sun" aria-selected="false"><span>Sun</span><small>Rest</small></button></nav>
+ <div class="day" id="mon" data-kind="lift">
+ <header class="dayhead"><p class="eyebrow">Mon · ~60 min</p><h2>Glutes &amp; hamstrings + lats + bike sprints</h2><p class="focus">Glutes &amp; hamstrings + lats + core + bike sprints 10 min</p></header>
+ <section class="block"><div class="bhead"><h3>Warm-up</h3><p>7 min</p></div><article class="ex" id="mon-bike-easy-rpe-3-4-warm0">
+ <label class="done"><input type="checkbox" id="chk-mon-bike-easy-rpe-3-4-warm0" data-key="mon-bike-easy-rpe-3-4-warm0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Bike, easy (RPE 3-4)</h4><span class="sets">5 min</span></div>
+ <p class="cue"></p>
+ <figure class="pics n2"><img src="img/f-Bicycling_Stationary-0.jpg" alt="Bicycling, Stationary step 1" loading="lazy" width="420" height="420"><img src="img/f-Bicycling_Stationary-1.jpg" alt="Bicycling, Stationary step 2" loading="lazy" width="420" height="420"><figcaption>Bicycling, Stationary · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-bike-easy-rpe-3-4-warm0" data-key="note-mon-bike-easy-rpe-3-4-warm0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Bike, easy (RPE 3-4)"></div>
+</article>
+<article class="ex" id="mon-glute-bridges-bodyweight-warm1">
+ <label class="done"><input type="checkbox" id="chk-mon-glute-bridges-bodyweight-warm1" data-key="mon-glute-bridges-bodyweight-warm1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Glute bridges, bodyweight</h4><span class="sets">15</span></div>
+ <p class="cue"></p>
+ <figure class="pics n2"><img src="img/f-Butt_Lift_Bridge-0.jpg" alt="Butt Lift (Bridge) step 1" loading="lazy" width="420" height="420"><img src="img/f-Butt_Lift_Bridge-1.jpg" alt="Butt Lift (Bridge) step 2" loading="lazy" width="420" height="420"><figcaption>Butt Lift (Bridge) · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-glute-bridges-bodyweight-warm1" data-key="note-mon-glute-bridges-bodyweight-warm1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Glute bridges, bodyweight"></div>
+</article>
+<article class="ex" id="mon-band-lateral-walk-light-band-warm2">
+ <label class="done"><input type="checkbox" id="chk-mon-band-lateral-walk-light-band-warm2" data-key="mon-band-lateral-walk-light-band-warm2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Band lateral walk, light band</h4><span class="sets">10 steps each way</span></div>
+ <p class="cue"></p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-mon-band-lateral-walk-light-band-warm2" data-key="note-mon-band-lateral-walk-light-band-warm2" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band lateral walk, light band"></div>
+</article>
+<article class="ex" id="mon-leg-swings-front-to-back-warm3">
+ <label class="done"><input type="checkbox" id="chk-mon-leg-swings-front-to-back-warm3" data-key="mon-leg-swings-front-to-back-warm3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Leg swings, front to back</h4><span class="sets">10/leg</span></div>
+ <p class="cue"></p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-mon-leg-swings-front-to-back-warm3" data-key="note-mon-leg-swings-front-to-back-warm3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Leg swings, front to back"></div>
+</article></section><section class="block"><div class="bhead"><h3>Supersets</h3><p>1 set of A1, then 1 set of A2, rest 60-90 sec, repeat</p></div><article class="ex" id="mon-leg-press-machine-0">
+ <label class="done"><input type="checkbox" id="chk-mon-leg-press-machine-0" data-key="mon-leg-press-machine-0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">A1</span><h4>Leg Press (machine)</h4><span class="sets">3 x 10-12</span></div>
+ <p class="cue">Feet high and wide on press plate for more glutes; back pad set so knees are at 90 deg; don&#x27;t lock out knees</p>
+ <figure class="pics n1"><img src="img/m-leg-press.jpg" alt="Leg Press" loading="lazy" width="420" height="420"><figcaption>Leg Press · Body-Solid manual, workout pages</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-leg-press-machine-0" data-key="note-mon-leg-press-machine-0" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Leg Press (machine)"></div>
+</article>
+<article class="ex" id="mon-band-pallof-press-1">
+ <label class="done"><input type="checkbox" id="chk-mon-band-pallof-press-1" data-key="mon-band-pallof-press-1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">A2</span><h4>Band Pallof Press</h4><span class="sets">3 x 10/side</span></div>
+ <p class="cue">Anchored at chest height; press straight out, resist the twist</p>
+ <figure class="pics n2"><img src="img/f-Pallof_Press-0.jpg" alt="Pallof Press step 1" loading="lazy" width="420" height="420"><img src="img/f-Pallof_Press-1.jpg" alt="Pallof Press step 2" loading="lazy" width="420" height="420"><figcaption>Pallof Press · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-band-pallof-press-1" data-key="note-mon-band-pallof-press-1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Pallof Press"></div>
+</article>
+<article class="ex" id="mon-lat-pull-down-machine-2">
+ <label class="done"><input type="checkbox" id="chk-mon-lat-pull-down-machine-2" data-key="mon-lat-pull-down-machine-2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">B1</span><h4>Lat Pull Down (machine)</h4><span class="sets">3 x 10-12</span></div>
+ <p class="cue">Lat Bar on high pulley; pull to upper chest, never toward head or neck</p>
+ <figure class="pics n1"><img src="img/m-lat-pulldown.jpg" alt="Lat Pulldown" loading="lazy" width="420" height="420"><figcaption>Lat Pulldown · Body-Solid manual, workout pages</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-lat-pull-down-machine-2" data-key="note-mon-lat-pull-down-machine-2" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Lat Pull Down (machine)"></div>
+</article>
+<article class="ex" id="mon-band-romanian-deadlift-3">
+ <label class="done"><input type="checkbox" id="chk-mon-band-romanian-deadlift-3" data-key="mon-band-romanian-deadlift-3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">B2</span><h4>Band Romanian Deadlift</h4><span class="sets">3 x 12-15</span></div>
+ <p class="cue">Stand on band hip-width, handles in hands; hinge at hips, soft knees, flat back, squeeze glutes to stand</p>
+ <figure class="pics n2"><img src="img/f-Romanian_Deadlift-0.jpg" alt="Romanian Deadlift step 1" loading="lazy" width="420" height="420"><img src="img/f-Romanian_Deadlift-1.jpg" alt="Romanian Deadlift step 2" loading="lazy" width="420" height="420"><figcaption>Romanian Deadlift · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-band-romanian-deadlift-3" data-key="note-mon-band-romanian-deadlift-3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Romanian Deadlift"></div>
+</article>
+<article class="ex" id="mon-glute-kickback-machine-4">
+ <label class="done"><input type="checkbox" id="chk-mon-glute-kickback-machine-4" data-key="mon-glute-kickback-machine-4"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">C1</span><h4>Glute Kickback (machine)</h4><span class="sets">3 x 12-15/leg</span></div>
+ <p class="cue">Ankle Strap/cuff on low pulley; face machine, hold on, kick straight leg back. Band version: Band Standing Kickback (anchored low, hooked to ankle)</p>
+ <figure class="pics n1"><img src="img/m-glute-kickback.jpg" alt="Glute Kickback" loading="lazy" width="420" height="420"><figcaption>Glute Kickback · Body-Solid manual, workout pages</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-glute-kickback-machine-4" data-key="note-mon-glute-kickback-machine-4" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Glute Kickback (machine)"></div>
+</article>
+<article class="ex" id="mon-band-glute-bridge-5">
+ <label class="done"><input type="checkbox" id="chk-mon-band-glute-bridge-5" data-key="mon-band-glute-bridge-5"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">C2</span><h4>Band Glute Bridge</h4><span class="sets">3 x 15</span></div>
+ <p class="cue">Lying on back, band across hips, handles pressed to floor; 2-sec squeeze at top</p>
+ <figure class="pics n2"><img src="img/f-Butt_Lift_Bridge-0.jpg" alt="Butt Lift (Bridge) step 1" loading="lazy" width="420" height="420"><img src="img/f-Butt_Lift_Bridge-1.jpg" alt="Butt Lift (Bridge) step 2" loading="lazy" width="420" height="420"><figcaption>Butt Lift (Bridge) · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-band-glute-bridge-5" data-key="note-mon-band-glute-bridge-5" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Glute Bridge"></div>
+</article>
+<article class="ex" id="mon-standing-leg-curl-machine-6">
+ <label class="done"><input type="checkbox" id="chk-mon-standing-leg-curl-machine-6" data-key="mon-standing-leg-curl-machine-6"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">D1</span><h4>Standing Leg Curl (machine)</h4><span class="sets">2 x 12-15/leg</span></div>
+ <p class="cue">Heel under bottom leg pad, knee slightly below top roller pad</p>
+ <figure class="pics n1"><img src="img/m-standing-leg-curl.jpg" alt="Standing Leg Curl" loading="lazy" width="420" height="420"><figcaption>Standing Leg Curl · Body-Solid manual, workout pages</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-standing-leg-curl-machine-6" data-key="note-mon-standing-leg-curl-machine-6" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Standing Leg Curl (machine)"></div>
+</article>
+<article class="ex" id="mon-band-lateral-walk-7">
+ <label class="done"><input type="checkbox" id="chk-mon-band-lateral-walk-7" data-key="mon-band-lateral-walk-7"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">D2</span><h4>Band Lateral Walk</h4><span class="sets">2 x 12 steps each way</span></div>
+ <p class="cue">Band clipped between both ankles (or stand on band, hold handles); stay in a half squat</p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-mon-band-lateral-walk-7" data-key="note-mon-band-lateral-walk-7" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Lateral Walk"></div>
+</article></section><section class="block"><div class="bhead"><h3>Cardio</h3><p>Bike sprints 10 min</p></div><article class="ex" id="mon-bike-sprints-0">
+ <label class="done"><input type="checkbox" id="chk-mon-bike-sprints-0" data-key="mon-bike-sprints-0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Bike sprints</h4><span class="sets">10 min</span></div>
+ <p class="cue">2 min easy, 6 rounds of 20 sec hard (RPE 9) / 40 sec easy, 2 min easy</p>
+ <figure class="pics n2"><img src="img/f-Bicycling_Stationary-0.jpg" alt="Bicycling, Stationary step 1" loading="lazy" width="420" height="420"><img src="img/f-Bicycling_Stationary-1.jpg" alt="Bicycling, Stationary step 2" loading="lazy" width="420" height="420"><figcaption>Bicycling, Stationary · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-bike-sprints-0" data-key="note-mon-bike-sprints-0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Bike sprints"></div>
+</article></section><section class="block"><div class="bhead"><h3>Cool-down stretch</h3><p>5 min, hold each 20-30 sec, no bouncing</p></div><article class="ex" id="mon-glutes-lying-figure-4-cool0">
+ <label class="done"><input type="checkbox" id="chk-mon-glutes-lying-figure-4-cool0" data-key="mon-glutes-lying-figure-4-cool0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Glutes: lying figure-4</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">ankle over opposite knee, pull legs in</p>
+ <figure class="pics n2"><img src="img/f-Lying_Glute-0.jpg" alt="Lying Glute step 1" loading="lazy" width="420" height="420"><img src="img/f-Lying_Glute-1.jpg" alt="Lying Glute step 2" loading="lazy" width="420" height="420"><figcaption>Lying Glute · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-glutes-lying-figure-4-cool0" data-key="note-mon-glutes-lying-figure-4-cool0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Glutes: lying figure-4"></div>
+</article>
+<article class="ex" id="mon-hamstrings-cool1">
+ <label class="done"><input type="checkbox" id="chk-mon-hamstrings-cool1" data-key="mon-hamstrings-cool1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Hamstrings</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">heel on a low surface, leg straight, hinge forward</p>
+ <figure class="pics n2"><img src="img/f-Standing_Hamstring_and_Calf_Stretch-0.jpg" alt="Standing Hamstring and Calf Stretch step 1" loading="lazy" width="420" height="420"><img src="img/f-Standing_Hamstring_and_Calf_Stretch-1.jpg" alt="Standing Hamstring and Calf Stretch step 2" loading="lazy" width="420" height="420"><figcaption>Standing Hamstring and Calf Stretch · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-hamstrings-cool1" data-key="note-mon-hamstrings-cool1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Hamstrings"></div>
+</article>
+<article class="ex" id="mon-quads-cool2">
+ <label class="done"><input type="checkbox" id="chk-mon-quads-cool2" data-key="mon-quads-cool2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Quads</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">standing, pull heel toward glute</p>
+ <figure class="pics n2"><img src="img/f-Standing_Elevated_Quad_Stretch-0.jpg" alt="Standing Elevated Quad Stretch step 1" loading="lazy" width="420" height="420"><img src="img/f-Standing_Elevated_Quad_Stretch-1.jpg" alt="Standing Elevated Quad Stretch step 2" loading="lazy" width="420" height="420"><figcaption>Standing Elevated Quad Stretch · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-quads-cool2" data-key="note-mon-quads-cool2" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Quads"></div>
+</article>
+<article class="ex" id="mon-hip-flexors-cool3">
+ <label class="done"><input type="checkbox" id="chk-mon-hip-flexors-cool3" data-key="mon-hip-flexors-cool3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Hip flexors</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">half-kneeling lunge</p>
+ <figure class="pics n2"><img src="img/f-Kneeling_Hip_Flexor-0.jpg" alt="Kneeling Hip Flexor step 1" loading="lazy" width="420" height="420"><img src="img/f-Kneeling_Hip_Flexor-1.jpg" alt="Kneeling Hip Flexor step 2" loading="lazy" width="420" height="420"><figcaption>Kneeling Hip Flexor · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-mon-hip-flexors-cool3" data-key="note-mon-hip-flexors-cool3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Hip flexors"></div>
+</article>
+<article class="ex" id="mon-inner-thighs-cool4">
+ <label class="done"><input type="checkbox" id="chk-mon-inner-thighs-cool4" data-key="mon-inner-thighs-cool4"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Inner thighs</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">seated butterfly, knees toward floor</p>
+ <div class="noimg">No close match in Free Exercise DB (its “Butterfly” is a chest machine)</div>
+ <div class="note"><input type="text" id="note-mon-inner-thighs-cool4" data-key="note-mon-inner-thighs-cool4" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Inner thighs"></div>
+</article>
+<article class="ex" id="mon-lats-upper-back-cool5">
+ <label class="done"><input type="checkbox" id="chk-mon-lats-upper-back-cool5" data-key="mon-lats-upper-back-cool5"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Lats/upper back</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">hold frame with both hands, sit hips back</p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-mon-lats-upper-back-cool5" data-key="note-mon-lats-upper-back-cool5" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Lats/upper back"></div>
+</article></section>
+ <p class="resetrow"><button type="button" class="reset" data-day="mon">Clear today's checks</button></p>
+</div><div class="day" id="tue" data-kind="cardio" hidden>
+ <header class="dayhead"><p class="eyebrow">Tue · ~60 min</p><h2>Zone 2 incline walk + band core &amp; back</h2><p class="focus">Treadmill incline walk Zone 2 30 min + band core &amp; back</p></header>
+ <section class="block"><div class="bhead"><h3>Treadmill</h3></div><article class="ex" id="tue-treadmill-warm-up-0">
+ <label class="done"><input type="checkbox" id="chk-tue-treadmill-warm-up-0" data-key="tue-treadmill-warm-up-0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">1</span><h4>Treadmill warm-up</h4><span class="sets">5 min</span></div>
+ <p class="cue">easy (RPE 3-4)</p>
+ <figure class="pics n2"><img src="img/f-Walking_Treadmill-0.jpg" alt="Walking, Treadmill step 1" loading="lazy" width="420" height="420"><img src="img/f-Walking_Treadmill-1.jpg" alt="Walking, Treadmill step 2" loading="lazy" width="420" height="420"><figcaption>Walking, Treadmill · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-tue-treadmill-warm-up-0" data-key="note-tue-treadmill-warm-up-0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Treadmill warm-up"></div>
+</article>
+<article class="ex" id="tue-treadmill-incline-walk-zone-2-1">
+ <label class="done"><input type="checkbox" id="chk-tue-treadmill-incline-walk-zone-2-1" data-key="tue-treadmill-incline-walk-zone-2-1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">2</span><h4>Treadmill incline walk Zone 2</h4><span class="sets">30 min</span></div>
+ <p class="cue">at RPE 5-6</p>
+ 
+ <div class="note"><input type="text" id="note-tue-treadmill-incline-walk-zone-2-1" data-key="note-tue-treadmill-incline-walk-zone-2-1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Treadmill incline walk Zone 2"></div>
+</article></section><section class="block"><div class="bhead"><h3>Circuit</h3><p>3 rounds, 60 sec rest between rounds (~15 min)</p></div><article class="ex" id="tue-resistance-ab-crunch-machine-0">
+ <label class="done"><input type="checkbox" id="chk-tue-resistance-ab-crunch-machine-0" data-key="tue-resistance-ab-crunch-machine-0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Resistance Ab Crunch (machine)</h4><span class="sets">12-15</span></div>
+ <p class="cue">Tricep/Ab Strap on mid pulley; Pec Dec Arms moved out of the way</p>
+ <figure class="pics n1"><img src="img/m-ab-crunch.jpg" alt="Resistance Ab Crunch" loading="lazy" width="420" height="420"><figcaption>Resistance Ab Crunch · Body-Solid manual, workout pages</figcaption></figure>
+ <div class="note"><input type="text" id="note-tue-resistance-ab-crunch-machine-0" data-key="note-tue-resistance-ab-crunch-machine-0" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Resistance Ab Crunch (machine)"></div>
+</article>
+<article class="ex" id="tue-band-standing-row-1">
+ <label class="done"><input type="checkbox" id="chk-tue-band-standing-row-1" data-key="tue-band-standing-row-1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Band Standing Row</h4><span class="sets">15</span></div>
+ <p class="cue">Anchored at chest height; pull handles to ribs, squeeze shoulder blades together</p>
+ <figure class="pics n2"><img src="img/f-Seated_Cable_Rows-0.jpg" alt="Seated Cable Rows (closest match; do it standing) step 1" loading="lazy" width="420" height="420"><img src="img/f-Seated_Cable_Rows-1.jpg" alt="Seated Cable Rows (closest match; do it standing) step 2" loading="lazy" width="420" height="420"><figcaption>Seated Cable Rows (closest match; do it standing) · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-tue-band-standing-row-1" data-key="note-tue-band-standing-row-1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Standing Row"></div>
+</article>
+<article class="ex" id="tue-band-face-pull-2">
+ <label class="done"><input type="checkbox" id="chk-tue-band-face-pull-2" data-key="tue-band-face-pull-2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Band Face Pull</h4><span class="sets">15</span></div>
+ <p class="cue">Light band anchored at face height; pull toward forehead, elbows high</p>
+ <figure class="pics n2"><img src="img/f-Face_Pull-0.jpg" alt="Face Pull step 1" loading="lazy" width="420" height="420"><img src="img/f-Face_Pull-1.jpg" alt="Face Pull step 2" loading="lazy" width="420" height="420"><figcaption>Face Pull · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-tue-band-face-pull-2" data-key="note-tue-band-face-pull-2" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Face Pull"></div>
+</article>
+<article class="ex" id="tue-plank-3">
+ <label class="done"><input type="checkbox" id="chk-tue-plank-3" data-key="tue-plank-3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Plank</h4><span class="sets">30-45 sec</span></div>
+ <p class="cue">Forearms down, body in a straight line</p>
+ <figure class="pics n2"><img src="img/f-Plank-0.jpg" alt="Plank step 1" loading="lazy" width="420" height="420"><img src="img/f-Plank-1.jpg" alt="Plank step 2" loading="lazy" width="420" height="420"><figcaption>Plank · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-tue-plank-3" data-key="note-tue-plank-3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Plank"></div>
+</article></section><section class="block"><div class="bhead"><h3>Cool-down stretch</h3><p>5 min, hold each 20-30 sec, no bouncing</p></div><article class="ex" id="tue-glutes-lying-figure-4-cool0">
+ <label class="done"><input type="checkbox" id="chk-tue-glutes-lying-figure-4-cool0" data-key="tue-glutes-lying-figure-4-cool0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Glutes: lying figure-4</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">ankle over opposite knee, pull legs in</p>
+ <figure class="pics n2"><img src="img/f-Lying_Glute-0.jpg" alt="Lying Glute step 1" loading="lazy" width="420" height="420"><img src="img/f-Lying_Glute-1.jpg" alt="Lying Glute step 2" loading="lazy" width="420" height="420"><figcaption>Lying Glute · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-tue-glutes-lying-figure-4-cool0" data-key="note-tue-glutes-lying-figure-4-cool0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Glutes: lying figure-4"></div>
+</article>
+<article class="ex" id="tue-hamstrings-cool1">
+ <label class="done"><input type="checkbox" id="chk-tue-hamstrings-cool1" data-key="tue-hamstrings-cool1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Hamstrings</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">heel on a low surface, leg straight, hinge forward</p>
+ <figure class="pics n2"><img src="img/f-Standing_Hamstring_and_Calf_Stretch-0.jpg" alt="Standing Hamstring and Calf Stretch step 1" loading="lazy" width="420" height="420"><img src="img/f-Standing_Hamstring_and_Calf_Stretch-1.jpg" alt="Standing Hamstring and Calf Stretch step 2" loading="lazy" width="420" height="420"><figcaption>Standing Hamstring and Calf Stretch · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-tue-hamstrings-cool1" data-key="note-tue-hamstrings-cool1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Hamstrings"></div>
+</article>
+<article class="ex" id="tue-quads-cool2">
+ <label class="done"><input type="checkbox" id="chk-tue-quads-cool2" data-key="tue-quads-cool2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Quads</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">standing, pull heel toward glute</p>
+ <figure class="pics n2"><img src="img/f-Standing_Elevated_Quad_Stretch-0.jpg" alt="Standing Elevated Quad Stretch step 1" loading="lazy" width="420" height="420"><img src="img/f-Standing_Elevated_Quad_Stretch-1.jpg" alt="Standing Elevated Quad Stretch step 2" loading="lazy" width="420" height="420"><figcaption>Standing Elevated Quad Stretch · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-tue-quads-cool2" data-key="note-tue-quads-cool2" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Quads"></div>
+</article>
+<article class="ex" id="tue-hip-flexors-cool3">
+ <label class="done"><input type="checkbox" id="chk-tue-hip-flexors-cool3" data-key="tue-hip-flexors-cool3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Hip flexors</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">half-kneeling lunge</p>
+ <figure class="pics n2"><img src="img/f-Kneeling_Hip_Flexor-0.jpg" alt="Kneeling Hip Flexor step 1" loading="lazy" width="420" height="420"><img src="img/f-Kneeling_Hip_Flexor-1.jpg" alt="Kneeling Hip Flexor step 2" loading="lazy" width="420" height="420"><figcaption>Kneeling Hip Flexor · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-tue-hip-flexors-cool3" data-key="note-tue-hip-flexors-cool3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Hip flexors"></div>
+</article>
+<article class="ex" id="tue-inner-thighs-cool4">
+ <label class="done"><input type="checkbox" id="chk-tue-inner-thighs-cool4" data-key="tue-inner-thighs-cool4"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Inner thighs</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">seated butterfly, knees toward floor</p>
+ <div class="noimg">No close match in Free Exercise DB (its “Butterfly” is a chest machine)</div>
+ <div class="note"><input type="text" id="note-tue-inner-thighs-cool4" data-key="note-tue-inner-thighs-cool4" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Inner thighs"></div>
+</article>
+<article class="ex" id="tue-lats-upper-back-cool5">
+ <label class="done"><input type="checkbox" id="chk-tue-lats-upper-back-cool5" data-key="tue-lats-upper-back-cool5"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Lats/upper back</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">hold frame with both hands, sit hips back</p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-tue-lats-upper-back-cool5" data-key="note-tue-lats-upper-back-cool5" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Lats/upper back"></div>
+</article></section>
+ <p class="resetrow"><button type="button" class="reset" data-day="tue">Clear today's checks</button></p>
+</div><div class="day" id="wed" data-kind="lift" hidden>
+ <header class="dayhead"><p class="eyebrow">Wed · ~60 min</p><h2>Thighs + mid &amp; lower back + incline walk</h2><p class="focus">Thighs (front, inner, outer) + mid &amp; lower back + treadmill incline walk 10 min</p></header>
+ <section class="block"><div class="bhead"><h3>Warm-up</h3><p>7 min</p></div><article class="ex" id="wed-bike-easy-rpe-3-4-warm0">
+ <label class="done"><input type="checkbox" id="chk-wed-bike-easy-rpe-3-4-warm0" data-key="wed-bike-easy-rpe-3-4-warm0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Bike, easy (RPE 3-4)</h4><span class="sets">5 min</span></div>
+ <p class="cue"></p>
+ <figure class="pics n2"><img src="img/f-Bicycling_Stationary-0.jpg" alt="Bicycling, Stationary step 1" loading="lazy" width="420" height="420"><img src="img/f-Bicycling_Stationary-1.jpg" alt="Bicycling, Stationary step 2" loading="lazy" width="420" height="420"><figcaption>Bicycling, Stationary · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-bike-easy-rpe-3-4-warm0" data-key="note-wed-bike-easy-rpe-3-4-warm0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Bike, easy (RPE 3-4)"></div>
+</article>
+<article class="ex" id="wed-glute-bridges-bodyweight-warm1">
+ <label class="done"><input type="checkbox" id="chk-wed-glute-bridges-bodyweight-warm1" data-key="wed-glute-bridges-bodyweight-warm1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Glute bridges, bodyweight</h4><span class="sets">15</span></div>
+ <p class="cue"></p>
+ <figure class="pics n2"><img src="img/f-Butt_Lift_Bridge-0.jpg" alt="Butt Lift (Bridge) step 1" loading="lazy" width="420" height="420"><img src="img/f-Butt_Lift_Bridge-1.jpg" alt="Butt Lift (Bridge) step 2" loading="lazy" width="420" height="420"><figcaption>Butt Lift (Bridge) · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-glute-bridges-bodyweight-warm1" data-key="note-wed-glute-bridges-bodyweight-warm1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Glute bridges, bodyweight"></div>
+</article>
+<article class="ex" id="wed-band-lateral-walk-light-band-warm2">
+ <label class="done"><input type="checkbox" id="chk-wed-band-lateral-walk-light-band-warm2" data-key="wed-band-lateral-walk-light-band-warm2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Band lateral walk, light band</h4><span class="sets">10 steps each way</span></div>
+ <p class="cue"></p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-wed-band-lateral-walk-light-band-warm2" data-key="note-wed-band-lateral-walk-light-band-warm2" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band lateral walk, light band"></div>
+</article>
+<article class="ex" id="wed-leg-swings-front-to-back-warm3">
+ <label class="done"><input type="checkbox" id="chk-wed-leg-swings-front-to-back-warm3" data-key="wed-leg-swings-front-to-back-warm3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Leg swings, front to back</h4><span class="sets">10/leg</span></div>
+ <p class="cue"></p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-wed-leg-swings-front-to-back-warm3" data-key="note-wed-leg-swings-front-to-back-warm3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Leg swings, front to back"></div>
+</article></section><section class="block"><div class="bhead"><h3>Supersets</h3><p>1 set of A1, then 1 set of A2, rest 60-90 sec, repeat</p></div><article class="ex" id="wed-leg-extension-machine-0">
+ <label class="done"><input type="checkbox" id="chk-wed-leg-extension-machine-0" data-key="wed-leg-extension-machine-0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">A1</span><h4>Leg Extension (machine)</h4><span class="sets">3 x 12-15</span></div>
+ <p class="cue">Press Arm in Storage position, back pad flat; knees over top roller pads, feet under bottom leg pads</p>
+ <figure class="pics n1"><img src="img/m-leg-extension.jpg" alt="Leg Extension" loading="lazy" width="420" height="420"><figcaption>Leg Extension · Body-Solid manual, workout pages</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-leg-extension-machine-0" data-key="note-wed-leg-extension-machine-0" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Leg Extension (machine)"></div>
+</article>
+<article class="ex" id="wed-band-sumo-squat-1">
+ <label class="done"><input type="checkbox" id="chk-wed-band-sumo-squat-1" data-key="wed-band-sumo-squat-1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">A2</span><h4>Band Sumo Squat</h4><span class="sets">3 x 15</span></div>
+ <p class="cue">Stand on band in a wide stance, toes out, handles at shoulders (inner thighs + glutes)</p>
+ <figure class="pics n2"><img src="img/f-Plie_Dumbbell_Squat-0.jpg" alt="Plie Dumbbell Squat (closest match) step 1" loading="lazy" width="420" height="420"><img src="img/f-Plie_Dumbbell_Squat-1.jpg" alt="Plie Dumbbell Squat (closest match) step 2" loading="lazy" width="420" height="420"><figcaption>Plie Dumbbell Squat (closest match) · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-band-sumo-squat-1" data-key="note-wed-band-sumo-squat-1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Sumo Squat"></div>
+</article>
+<article class="ex" id="wed-chest-supported-mid-row-machine-2">
+ <label class="done"><input type="checkbox" id="chk-wed-chest-supported-mid-row-machine-2" data-key="wed-chest-supported-mid-row-machine-2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">B1</span><h4>Chest Supported Mid Row (machine)</h4><span class="sets">3 x 10-12</span></div>
+ <p class="cue">Chest flat on pad; pull handles until even with midsection</p>
+ <figure class="pics n1"><img src="img/m-mid-row.jpg" alt="Chest Supported Mid Row" loading="lazy" width="420" height="420"><figcaption>Chest Supported Mid Row · Body-Solid manual, workout pages</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-chest-supported-mid-row-machine-2" data-key="note-wed-chest-supported-mid-row-machine-2" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Chest Supported Mid Row (machine)"></div>
+</article>
+<article class="ex" id="wed-reverse-lunge-3">
+ <label class="done"><input type="checkbox" id="chk-wed-reverse-lunge-3" data-key="wed-reverse-lunge-3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">B2</span><h4>Reverse Lunge</h4><span class="sets">3 x 12/leg</span></div>
+ <p class="cue">Bodyweight; step back, back knee drops toward floor</p>
+ <figure class="pics n2"><img src="img/f-Dumbbell_Rear_Lunge-0.jpg" alt="Dumbbell Rear Lunge (closest match; no weights) step 1" loading="lazy" width="420" height="420"><img src="img/f-Dumbbell_Rear_Lunge-1.jpg" alt="Dumbbell Rear Lunge (closest match; no weights) step 2" loading="lazy" width="420" height="420"><figcaption>Dumbbell Rear Lunge (closest match; no weights) · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-reverse-lunge-3" data-key="note-wed-reverse-lunge-3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Reverse Lunge"></div>
+</article>
+<article class="ex" id="wed-leg-abduction-machine-4">
+ <label class="done"><input type="checkbox" id="chk-wed-leg-abduction-machine-4" data-key="wed-leg-abduction-machine-4"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">C1</span><h4>Leg Abduction (machine)</h4><span class="sets">3 x 12-15/leg</span></div>
+ <p class="cue">Ankle Strap/cuff on low pulley; stand 1-2 ft away, working leg is the one farther from the machine; hold back pad. Band version: Band Hip Abduction (anchored low, hooked to outside ankle, sweep leg out)</p>
+ <figure class="pics n1"><img src="img/m-leg-abduction.jpg" alt="Leg Abduction" loading="lazy" width="420" height="420"><figcaption>Leg Abduction · Body-Solid manual, workout pages</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-leg-abduction-machine-4" data-key="note-wed-leg-abduction-machine-4" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Leg Abduction (machine)"></div>
+</article>
+<article class="ex" id="wed-band-hip-adduction-5">
+ <label class="done"><input type="checkbox" id="chk-wed-band-hip-adduction-5" data-key="wed-band-hip-adduction-5"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">C2</span><h4>Band Hip Adduction</h4><span class="sets">3 x 12-15/leg</span></div>
+ <p class="cue">Anchored low, hooked to the ankle nearest the machine; sweep that leg across in front of the other (inner thigh)</p>
+ <figure class="pics n2"><img src="img/f-Band_Hip_Adductions-0.jpg" alt="Band Hip Adductions step 1" loading="lazy" width="420" height="420"><img src="img/f-Band_Hip_Adductions-1.jpg" alt="Band Hip Adductions step 2" loading="lazy" width="420" height="420"><figcaption>Band Hip Adductions · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-band-hip-adduction-5" data-key="note-wed-band-hip-adduction-5" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Hip Adduction"></div>
+</article>
+<article class="ex" id="wed-back-hyperextension-machine-6">
+ <label class="done"><input type="checkbox" id="chk-wed-back-hyperextension-machine-6" data-key="wed-back-hyperextension-machine-6"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">D1</span><h4>Back Hyperextension (machine)</h4><span class="sets">2 x 12-15</span></div>
+ <p class="cue">Press Arm in Mid Row position, seat at highest position, facing in; hold mid row handles, arms and back straight, lean back from the hips to 45 deg</p>
+ <div class="noimg">Not on the Body-Solid workout pages. Uses the Mid Row station, seat up, facing in.</div>
+ <div class="note"><input type="text" id="note-wed-back-hyperextension-machine-6" data-key="note-wed-back-hyperextension-machine-6" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Back Hyperextension (machine)"></div>
+</article>
+<article class="ex" id="wed-dead-bug-7">
+ <label class="done"><input type="checkbox" id="chk-wed-dead-bug-7" data-key="wed-dead-bug-7"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">D2</span><h4>Dead Bug</h4><span class="sets">2 x 8/side</span></div>
+ <p class="cue">Lower back pressed to floor</p>
+ <figure class="pics n2"><img src="img/f-Dead_Bug-0.jpg" alt="Dead Bug step 1" loading="lazy" width="420" height="420"><img src="img/f-Dead_Bug-1.jpg" alt="Dead Bug step 2" loading="lazy" width="420" height="420"><figcaption>Dead Bug · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-dead-bug-7" data-key="note-wed-dead-bug-7" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Dead Bug"></div>
+</article></section><section class="block"><div class="bhead"><h3>Cardio</h3><p>Treadmill incline walk 10 min</p></div><article class="ex" id="wed-treadmill-incline-walk-0">
+ <label class="done"><input type="checkbox" id="chk-wed-treadmill-incline-walk-0" data-key="wed-treadmill-incline-walk-0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Treadmill incline walk</h4><span class="sets">10 min</span></div>
+ <p class="cue">steady at RPE 6, roughly 8-12% incline</p>
+ <figure class="pics n2"><img src="img/f-Walking_Treadmill-0.jpg" alt="Walking, Treadmill step 1" loading="lazy" width="420" height="420"><img src="img/f-Walking_Treadmill-1.jpg" alt="Walking, Treadmill step 2" loading="lazy" width="420" height="420"><figcaption>Walking, Treadmill · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-treadmill-incline-walk-0" data-key="note-wed-treadmill-incline-walk-0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Treadmill incline walk"></div>
+</article></section><section class="block"><div class="bhead"><h3>Cool-down stretch</h3><p>5 min, hold each 20-30 sec, no bouncing</p></div><article class="ex" id="wed-glutes-lying-figure-4-cool0">
+ <label class="done"><input type="checkbox" id="chk-wed-glutes-lying-figure-4-cool0" data-key="wed-glutes-lying-figure-4-cool0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Glutes: lying figure-4</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">ankle over opposite knee, pull legs in</p>
+ <figure class="pics n2"><img src="img/f-Lying_Glute-0.jpg" alt="Lying Glute step 1" loading="lazy" width="420" height="420"><img src="img/f-Lying_Glute-1.jpg" alt="Lying Glute step 2" loading="lazy" width="420" height="420"><figcaption>Lying Glute · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-glutes-lying-figure-4-cool0" data-key="note-wed-glutes-lying-figure-4-cool0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Glutes: lying figure-4"></div>
+</article>
+<article class="ex" id="wed-hamstrings-cool1">
+ <label class="done"><input type="checkbox" id="chk-wed-hamstrings-cool1" data-key="wed-hamstrings-cool1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Hamstrings</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">heel on a low surface, leg straight, hinge forward</p>
+ <figure class="pics n2"><img src="img/f-Standing_Hamstring_and_Calf_Stretch-0.jpg" alt="Standing Hamstring and Calf Stretch step 1" loading="lazy" width="420" height="420"><img src="img/f-Standing_Hamstring_and_Calf_Stretch-1.jpg" alt="Standing Hamstring and Calf Stretch step 2" loading="lazy" width="420" height="420"><figcaption>Standing Hamstring and Calf Stretch · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-hamstrings-cool1" data-key="note-wed-hamstrings-cool1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Hamstrings"></div>
+</article>
+<article class="ex" id="wed-quads-cool2">
+ <label class="done"><input type="checkbox" id="chk-wed-quads-cool2" data-key="wed-quads-cool2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Quads</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">standing, pull heel toward glute</p>
+ <figure class="pics n2"><img src="img/f-Standing_Elevated_Quad_Stretch-0.jpg" alt="Standing Elevated Quad Stretch step 1" loading="lazy" width="420" height="420"><img src="img/f-Standing_Elevated_Quad_Stretch-1.jpg" alt="Standing Elevated Quad Stretch step 2" loading="lazy" width="420" height="420"><figcaption>Standing Elevated Quad Stretch · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-quads-cool2" data-key="note-wed-quads-cool2" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Quads"></div>
+</article>
+<article class="ex" id="wed-hip-flexors-cool3">
+ <label class="done"><input type="checkbox" id="chk-wed-hip-flexors-cool3" data-key="wed-hip-flexors-cool3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Hip flexors</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">half-kneeling lunge</p>
+ <figure class="pics n2"><img src="img/f-Kneeling_Hip_Flexor-0.jpg" alt="Kneeling Hip Flexor step 1" loading="lazy" width="420" height="420"><img src="img/f-Kneeling_Hip_Flexor-1.jpg" alt="Kneeling Hip Flexor step 2" loading="lazy" width="420" height="420"><figcaption>Kneeling Hip Flexor · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-wed-hip-flexors-cool3" data-key="note-wed-hip-flexors-cool3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Hip flexors"></div>
+</article>
+<article class="ex" id="wed-inner-thighs-cool4">
+ <label class="done"><input type="checkbox" id="chk-wed-inner-thighs-cool4" data-key="wed-inner-thighs-cool4"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Inner thighs</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">seated butterfly, knees toward floor</p>
+ <div class="noimg">No close match in Free Exercise DB (its “Butterfly” is a chest machine)</div>
+ <div class="note"><input type="text" id="note-wed-inner-thighs-cool4" data-key="note-wed-inner-thighs-cool4" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Inner thighs"></div>
+</article>
+<article class="ex" id="wed-lats-upper-back-cool5">
+ <label class="done"><input type="checkbox" id="chk-wed-lats-upper-back-cool5" data-key="wed-lats-upper-back-cool5"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Lats/upper back</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">hold frame with both hands, sit hips back</p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-wed-lats-upper-back-cool5" data-key="note-wed-lats-upper-back-cool5" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Lats/upper back"></div>
+</article></section>
+ <p class="resetrow"><button type="button" class="reset" data-day="wed">Clear today's checks</button></p>
+</div><div class="day" id="thu" data-kind="cardio" hidden>
+ <header class="dayhead"><p class="eyebrow">Thu · ~60 min</p><h2>Bike intervals + core</h2><p class="focus">Bike 4x4 intervals 28 min + core</p></header>
+ <section class="block"><div class="bhead"><h3>Bike</h3></div><article class="ex" id="thu-bike-warm-up-0">
+ <label class="done"><input type="checkbox" id="chk-thu-bike-warm-up-0" data-key="thu-bike-warm-up-0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">1</span><h4>Bike warm-up</h4><span class="sets">8 min</span></div>
+ <p class="cue">building from easy to moderate</p>
+ <figure class="pics n2"><img src="img/f-Bicycling_Stationary-0.jpg" alt="Bicycling, Stationary step 1" loading="lazy" width="420" height="420"><img src="img/f-Bicycling_Stationary-1.jpg" alt="Bicycling, Stationary step 2" loading="lazy" width="420" height="420"><figcaption>Bicycling, Stationary · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-thu-bike-warm-up-0" data-key="note-thu-bike-warm-up-0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Bike warm-up"></div>
+</article>
+<article class="ex" id="thu-4x4-intervals-1">
+ <label class="done"><input type="checkbox" id="chk-thu-4x4-intervals-1" data-key="thu-4x4-intervals-1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">2</span><h4>4x4 intervals</h4><span class="sets">28 min</span></div>
+ <p class="cue">4 min hard (RPE 8) / 3 min easy (RPE 3), x4. Weeks 1-2: 3 rounds.</p>
+ 
+ <div class="note"><input type="text" id="note-thu-4x4-intervals-1" data-key="note-thu-4x4-intervals-1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for 4x4 intervals"></div>
+</article></section><section class="block"><div class="bhead"><h3>Core circuit</h3><p>3 rounds, 60 sec rest between rounds (~13 min)</p></div><article class="ex" id="thu-oblique-crunch-machine-0">
+ <label class="done"><input type="checkbox" id="chk-thu-oblique-crunch-machine-0" data-key="thu-oblique-crunch-machine-0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Oblique Crunch (machine)</h4><span class="sets">10/side</span></div>
+ <p class="cue">Tricep/Ab Strap on mid pulley, Press Arm in Storage position; alternate left and right</p>
+ <figure class="pics n1"><img src="img/m-ab-crunch.jpg" alt="Resistance Ab Crunch station (same setup, twist to each side)" loading="lazy" width="420" height="420"><figcaption>Resistance Ab Crunch station (same setup, twist to each side) · Body-Solid manual, workout pages</figcaption></figure>
+ <div class="note"><input type="text" id="note-thu-oblique-crunch-machine-0" data-key="note-thu-oblique-crunch-machine-0" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Oblique Crunch (machine)"></div>
+</article>
+<article class="ex" id="thu-band-woodchopper-1">
+ <label class="done"><input type="checkbox" id="chk-thu-band-woodchopper-1" data-key="thu-band-woodchopper-1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Band Woodchopper</h4><span class="sets">10/side</span></div>
+ <p class="cue">Anchored high; pull handle diagonally down across your body to the opposite hip, rotate through the torso</p>
+ <figure class="pics n2"><img src="img/f-Standing_Cable_Wood_Chop-0.jpg" alt="Standing Cable Wood Chop step 1" loading="lazy" width="420" height="420"><img src="img/f-Standing_Cable_Wood_Chop-1.jpg" alt="Standing Cable Wood Chop step 2" loading="lazy" width="420" height="420"><figcaption>Standing Cable Wood Chop · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-thu-band-woodchopper-1" data-key="note-thu-band-woodchopper-1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Woodchopper"></div>
+</article>
+<article class="ex" id="thu-reverse-crunch-2">
+ <label class="done"><input type="checkbox" id="chk-thu-reverse-crunch-2" data-key="thu-reverse-crunch-2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Reverse Crunch</h4><span class="sets">12-15</span></div>
+ <p class="cue">Lying on back, curl knees toward chest, lift hips slightly</p>
+ <figure class="pics n2"><img src="img/f-Reverse_Crunch-0.jpg" alt="Reverse Crunch step 1" loading="lazy" width="420" height="420"><img src="img/f-Reverse_Crunch-1.jpg" alt="Reverse Crunch step 2" loading="lazy" width="420" height="420"><figcaption>Reverse Crunch · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-thu-reverse-crunch-2" data-key="note-thu-reverse-crunch-2" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Reverse Crunch"></div>
+</article>
+<article class="ex" id="thu-mountain-climbers-3">
+ <label class="done"><input type="checkbox" id="chk-thu-mountain-climbers-3" data-key="thu-mountain-climbers-3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Mountain Climbers</h4><span class="sets">30 sec</span></div>
+ <p class="cue">Hands on floor, drive knees toward chest</p>
+ <figure class="pics n2"><img src="img/f-Mountain_Climbers-0.jpg" alt="Mountain Climbers step 1" loading="lazy" width="420" height="420"><img src="img/f-Mountain_Climbers-1.jpg" alt="Mountain Climbers step 2" loading="lazy" width="420" height="420"><figcaption>Mountain Climbers · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-thu-mountain-climbers-3" data-key="note-thu-mountain-climbers-3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Mountain Climbers"></div>
+</article></section><section class="block"><div class="bhead"><h3>Cool-down stretch</h3><p>5 min, hold each 20-30 sec, no bouncing</p></div><article class="ex" id="thu-glutes-lying-figure-4-cool0">
+ <label class="done"><input type="checkbox" id="chk-thu-glutes-lying-figure-4-cool0" data-key="thu-glutes-lying-figure-4-cool0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Glutes: lying figure-4</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">ankle over opposite knee, pull legs in</p>
+ <figure class="pics n2"><img src="img/f-Lying_Glute-0.jpg" alt="Lying Glute step 1" loading="lazy" width="420" height="420"><img src="img/f-Lying_Glute-1.jpg" alt="Lying Glute step 2" loading="lazy" width="420" height="420"><figcaption>Lying Glute · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-thu-glutes-lying-figure-4-cool0" data-key="note-thu-glutes-lying-figure-4-cool0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Glutes: lying figure-4"></div>
+</article>
+<article class="ex" id="thu-hamstrings-cool1">
+ <label class="done"><input type="checkbox" id="chk-thu-hamstrings-cool1" data-key="thu-hamstrings-cool1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Hamstrings</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">heel on a low surface, leg straight, hinge forward</p>
+ <figure class="pics n2"><img src="img/f-Standing_Hamstring_and_Calf_Stretch-0.jpg" alt="Standing Hamstring and Calf Stretch step 1" loading="lazy" width="420" height="420"><img src="img/f-Standing_Hamstring_and_Calf_Stretch-1.jpg" alt="Standing Hamstring and Calf Stretch step 2" loading="lazy" width="420" height="420"><figcaption>Standing Hamstring and Calf Stretch · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-thu-hamstrings-cool1" data-key="note-thu-hamstrings-cool1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Hamstrings"></div>
+</article>
+<article class="ex" id="thu-quads-cool2">
+ <label class="done"><input type="checkbox" id="chk-thu-quads-cool2" data-key="thu-quads-cool2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Quads</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">standing, pull heel toward glute</p>
+ <figure class="pics n2"><img src="img/f-Standing_Elevated_Quad_Stretch-0.jpg" alt="Standing Elevated Quad Stretch step 1" loading="lazy" width="420" height="420"><img src="img/f-Standing_Elevated_Quad_Stretch-1.jpg" alt="Standing Elevated Quad Stretch step 2" loading="lazy" width="420" height="420"><figcaption>Standing Elevated Quad Stretch · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-thu-quads-cool2" data-key="note-thu-quads-cool2" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Quads"></div>
+</article>
+<article class="ex" id="thu-hip-flexors-cool3">
+ <label class="done"><input type="checkbox" id="chk-thu-hip-flexors-cool3" data-key="thu-hip-flexors-cool3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Hip flexors</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">half-kneeling lunge</p>
+ <figure class="pics n2"><img src="img/f-Kneeling_Hip_Flexor-0.jpg" alt="Kneeling Hip Flexor step 1" loading="lazy" width="420" height="420"><img src="img/f-Kneeling_Hip_Flexor-1.jpg" alt="Kneeling Hip Flexor step 2" loading="lazy" width="420" height="420"><figcaption>Kneeling Hip Flexor · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-thu-hip-flexors-cool3" data-key="note-thu-hip-flexors-cool3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Hip flexors"></div>
+</article>
+<article class="ex" id="thu-inner-thighs-cool4">
+ <label class="done"><input type="checkbox" id="chk-thu-inner-thighs-cool4" data-key="thu-inner-thighs-cool4"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Inner thighs</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">seated butterfly, knees toward floor</p>
+ <div class="noimg">No close match in Free Exercise DB (its “Butterfly” is a chest machine)</div>
+ <div class="note"><input type="text" id="note-thu-inner-thighs-cool4" data-key="note-thu-inner-thighs-cool4" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Inner thighs"></div>
+</article>
+<article class="ex" id="thu-lats-upper-back-cool5">
+ <label class="done"><input type="checkbox" id="chk-thu-lats-upper-back-cool5" data-key="thu-lats-upper-back-cool5"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Lats/upper back</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">hold frame with both hands, sit hips back</p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-thu-lats-upper-back-cool5" data-key="note-thu-lats-upper-back-cool5" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Lats/upper back"></div>
+</article></section>
+ <p class="resetrow"><button type="button" class="reset" data-day="thu">Clear today's checks</button></p>
+</div><div class="day" id="fri" data-kind="lift" hidden>
+ <header class="dayhead"><p class="eyebrow">Fri · ~60 min</p><h2>Glutes &amp; legs + lats + bike tempo</h2><p class="focus">Glutes &amp; legs + lats + core + bike tempo 10 min</p></header>
+ <section class="block"><div class="bhead"><h3>Warm-up</h3><p>7 min</p></div><article class="ex" id="fri-bike-easy-rpe-3-4-warm0">
+ <label class="done"><input type="checkbox" id="chk-fri-bike-easy-rpe-3-4-warm0" data-key="fri-bike-easy-rpe-3-4-warm0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Bike, easy (RPE 3-4)</h4><span class="sets">5 min</span></div>
+ <p class="cue"></p>
+ <figure class="pics n2"><img src="img/f-Bicycling_Stationary-0.jpg" alt="Bicycling, Stationary step 1" loading="lazy" width="420" height="420"><img src="img/f-Bicycling_Stationary-1.jpg" alt="Bicycling, Stationary step 2" loading="lazy" width="420" height="420"><figcaption>Bicycling, Stationary · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-bike-easy-rpe-3-4-warm0" data-key="note-fri-bike-easy-rpe-3-4-warm0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Bike, easy (RPE 3-4)"></div>
+</article>
+<article class="ex" id="fri-glute-bridges-bodyweight-warm1">
+ <label class="done"><input type="checkbox" id="chk-fri-glute-bridges-bodyweight-warm1" data-key="fri-glute-bridges-bodyweight-warm1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Glute bridges, bodyweight</h4><span class="sets">15</span></div>
+ <p class="cue"></p>
+ <figure class="pics n2"><img src="img/f-Butt_Lift_Bridge-0.jpg" alt="Butt Lift (Bridge) step 1" loading="lazy" width="420" height="420"><img src="img/f-Butt_Lift_Bridge-1.jpg" alt="Butt Lift (Bridge) step 2" loading="lazy" width="420" height="420"><figcaption>Butt Lift (Bridge) · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-glute-bridges-bodyweight-warm1" data-key="note-fri-glute-bridges-bodyweight-warm1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Glute bridges, bodyweight"></div>
+</article>
+<article class="ex" id="fri-band-lateral-walk-light-band-warm2">
+ <label class="done"><input type="checkbox" id="chk-fri-band-lateral-walk-light-band-warm2" data-key="fri-band-lateral-walk-light-band-warm2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Band lateral walk, light band</h4><span class="sets">10 steps each way</span></div>
+ <p class="cue"></p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-fri-band-lateral-walk-light-band-warm2" data-key="note-fri-band-lateral-walk-light-band-warm2" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band lateral walk, light band"></div>
+</article>
+<article class="ex" id="fri-leg-swings-front-to-back-warm3">
+ <label class="done"><input type="checkbox" id="chk-fri-leg-swings-front-to-back-warm3" data-key="fri-leg-swings-front-to-back-warm3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Leg swings, front to back</h4><span class="sets">10/leg</span></div>
+ <p class="cue"></p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-fri-leg-swings-front-to-back-warm3" data-key="note-fri-leg-swings-front-to-back-warm3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Leg swings, front to back"></div>
+</article></section><section class="block"><div class="bhead"><h3>Supersets</h3><p>1 set of A1, then 1 set of A2, rest 60-90 sec, repeat</p></div><article class="ex" id="fri-leg-press-machine-0">
+ <label class="done"><input type="checkbox" id="chk-fri-leg-press-machine-0" data-key="fri-leg-press-machine-0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">A1</span><h4>Leg Press (machine)</h4><span class="sets">3 x 10-12</span></div>
+ <p class="cue">Normal foot position; back pad set so knees are at 90 deg; don&#x27;t lock out knees</p>
+ <figure class="pics n1"><img src="img/m-leg-press.jpg" alt="Leg Press" loading="lazy" width="420" height="420"><figcaption>Leg Press · Body-Solid manual, workout pages</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-leg-press-machine-0" data-key="note-fri-leg-press-machine-0" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Leg Press (machine)"></div>
+</article>
+<article class="ex" id="fri-band-pull-through-1">
+ <label class="done"><input type="checkbox" id="chk-fri-band-pull-through-1" data-key="fri-band-pull-through-1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">A2</span><h4>Band Pull-Through</h4><span class="sets">3 x 15</span></div>
+ <p class="cue">Anchored low, face away, handles between legs; hinge back, drive hips forward, squeeze glutes</p>
+ <figure class="pics n2"><img src="img/f-Band_Good_Morning_Pull_Through-0.jpg" alt="Band Good Morning (Pull Through) step 1" loading="lazy" width="420" height="420"><img src="img/f-Band_Good_Morning_Pull_Through-1.jpg" alt="Band Good Morning (Pull Through) step 2" loading="lazy" width="420" height="420"><figcaption>Band Good Morning (Pull Through) · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-band-pull-through-1" data-key="note-fri-band-pull-through-1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Pull-Through"></div>
+</article>
+<article class="ex" id="fri-lat-pull-down-machine-2">
+ <label class="done"><input type="checkbox" id="chk-fri-lat-pull-down-machine-2" data-key="fri-lat-pull-down-machine-2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">B1</span><h4>Lat Pull Down (machine)</h4><span class="sets">3 x 12-15</span></div>
+ <p class="cue">Same setup as Monday</p>
+ <figure class="pics n1"><img src="img/m-lat-pulldown.jpg" alt="Lat Pulldown" loading="lazy" width="420" height="420"><figcaption>Lat Pulldown · Body-Solid manual, workout pages</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-lat-pull-down-machine-2" data-key="note-fri-lat-pull-down-machine-2" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Lat Pull Down (machine)"></div>
+</article>
+<article class="ex" id="fri-band-split-squat-3">
+ <label class="done"><input type="checkbox" id="chk-fri-band-split-squat-3" data-key="fri-band-split-squat-3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">B2</span><h4>Band Split Squat</h4><span class="sets">3 x 10/leg</span></div>
+ <p class="cue">Front foot on band, handles at shoulders; back knee drops toward floor</p>
+ <figure class="pics n2"><img src="img/f-Split_Squats-0.jpg" alt="Split Squats step 1" loading="lazy" width="420" height="420"><img src="img/f-Split_Squats-1.jpg" alt="Split Squats step 2" loading="lazy" width="420" height="420"><figcaption>Split Squats · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-band-split-squat-3" data-key="note-fri-band-split-squat-3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Split Squat"></div>
+</article>
+<article class="ex" id="fri-glute-kickback-machine-4">
+ <label class="done"><input type="checkbox" id="chk-fri-glute-kickback-machine-4" data-key="fri-glute-kickback-machine-4"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">C1</span><h4>Glute Kickback (machine)</h4><span class="sets">3 x 15/leg</span></div>
+ <p class="cue">Same setup as Monday. Band version: Band Standing Kickback</p>
+ <figure class="pics n1"><img src="img/m-glute-kickback.jpg" alt="Glute Kickback" loading="lazy" width="420" height="420"><figcaption>Glute Kickback · Body-Solid manual, workout pages</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-glute-kickback-machine-4" data-key="note-fri-glute-kickback-machine-4" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Glute Kickback (machine)"></div>
+</article>
+<article class="ex" id="fri-band-single-leg-rdl-5">
+ <label class="done"><input type="checkbox" id="chk-fri-band-single-leg-rdl-5" data-key="fri-band-single-leg-rdl-5"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">C2</span><h4>Band Single-Leg RDL</h4><span class="sets">3 x 10/leg</span></div>
+ <p class="cue">Stand on band with working foot, handle in opposite hand; free hand on frame for balance; hinge on one leg</p>
+ <figure class="pics n2"><img src="img/f-Kettlebell_One-Legged_Deadlift-0.jpg" alt="Kettlebell One-Legged Deadlift (closest match) step 1" loading="lazy" width="420" height="420"><img src="img/f-Kettlebell_One-Legged_Deadlift-1.jpg" alt="Kettlebell One-Legged Deadlift (closest match) step 2" loading="lazy" width="420" height="420"><figcaption>Kettlebell One-Legged Deadlift (closest match) · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-band-single-leg-rdl-5" data-key="note-fri-band-single-leg-rdl-5" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Single-Leg RDL"></div>
+</article>
+<article class="ex" id="fri-resistance-ab-crunch-machine-6">
+ <label class="done"><input type="checkbox" id="chk-fri-resistance-ab-crunch-machine-6" data-key="fri-resistance-ab-crunch-machine-6"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">D1</span><h4>Resistance Ab Crunch (machine)</h4><span class="sets">2 x 15</span></div>
+ <p class="cue">Tricep/Ab Strap on mid pulley; Pec Dec Arms moved out of the way</p>
+ <figure class="pics n1"><img src="img/m-ab-crunch.jpg" alt="Resistance Ab Crunch" loading="lazy" width="420" height="420"><figcaption>Resistance Ab Crunch · Body-Solid manual, workout pages</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-resistance-ab-crunch-machine-6" data-key="note-fri-resistance-ab-crunch-machine-6" placeholder="pin #" inputmode="text" maxlength="40" aria-label="Note for Resistance Ab Crunch (machine)"></div>
+</article>
+<article class="ex" id="fri-single-leg-glute-bridge-7">
+ <label class="done"><input type="checkbox" id="chk-fri-single-leg-glute-bridge-7" data-key="fri-single-leg-glute-bridge-7"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">D2</span><h4>Single-Leg Glute Bridge</h4><span class="sets">2 x 12/leg</span></div>
+ <p class="cue">Bodyweight; 2-sec squeeze at top</p>
+ <figure class="pics n2"><img src="img/f-Single_Leg_Glute_Bridge-0.jpg" alt="Single Leg Glute Bridge step 1" loading="lazy" width="420" height="420"><img src="img/f-Single_Leg_Glute_Bridge-1.jpg" alt="Single Leg Glute Bridge step 2" loading="lazy" width="420" height="420"><figcaption>Single Leg Glute Bridge · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-single-leg-glute-bridge-7" data-key="note-fri-single-leg-glute-bridge-7" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Single-Leg Glute Bridge"></div>
+</article></section><section class="block"><div class="bhead"><h3>Cardio</h3><p>Bike tempo 10 min</p></div><article class="ex" id="fri-bike-tempo-0">
+ <label class="done"><input type="checkbox" id="chk-fri-bike-tempo-0" data-key="fri-bike-tempo-0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Bike tempo</h4><span class="sets">10 min</span></div>
+ <p class="cue">steady at RPE 6-7</p>
+ <figure class="pics n2"><img src="img/f-Bicycling_Stationary-0.jpg" alt="Bicycling, Stationary step 1" loading="lazy" width="420" height="420"><img src="img/f-Bicycling_Stationary-1.jpg" alt="Bicycling, Stationary step 2" loading="lazy" width="420" height="420"><figcaption>Bicycling, Stationary · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-bike-tempo-0" data-key="note-fri-bike-tempo-0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Bike tempo"></div>
+</article></section><section class="block"><div class="bhead"><h3>Cool-down stretch</h3><p>5 min, hold each 20-30 sec, no bouncing</p></div><article class="ex" id="fri-glutes-lying-figure-4-cool0">
+ <label class="done"><input type="checkbox" id="chk-fri-glutes-lying-figure-4-cool0" data-key="fri-glutes-lying-figure-4-cool0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Glutes: lying figure-4</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">ankle over opposite knee, pull legs in</p>
+ <figure class="pics n2"><img src="img/f-Lying_Glute-0.jpg" alt="Lying Glute step 1" loading="lazy" width="420" height="420"><img src="img/f-Lying_Glute-1.jpg" alt="Lying Glute step 2" loading="lazy" width="420" height="420"><figcaption>Lying Glute · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-glutes-lying-figure-4-cool0" data-key="note-fri-glutes-lying-figure-4-cool0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Glutes: lying figure-4"></div>
+</article>
+<article class="ex" id="fri-hamstrings-cool1">
+ <label class="done"><input type="checkbox" id="chk-fri-hamstrings-cool1" data-key="fri-hamstrings-cool1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Hamstrings</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">heel on a low surface, leg straight, hinge forward</p>
+ <figure class="pics n2"><img src="img/f-Standing_Hamstring_and_Calf_Stretch-0.jpg" alt="Standing Hamstring and Calf Stretch step 1" loading="lazy" width="420" height="420"><img src="img/f-Standing_Hamstring_and_Calf_Stretch-1.jpg" alt="Standing Hamstring and Calf Stretch step 2" loading="lazy" width="420" height="420"><figcaption>Standing Hamstring and Calf Stretch · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-hamstrings-cool1" data-key="note-fri-hamstrings-cool1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Hamstrings"></div>
+</article>
+<article class="ex" id="fri-quads-cool2">
+ <label class="done"><input type="checkbox" id="chk-fri-quads-cool2" data-key="fri-quads-cool2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Quads</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">standing, pull heel toward glute</p>
+ <figure class="pics n2"><img src="img/f-Standing_Elevated_Quad_Stretch-0.jpg" alt="Standing Elevated Quad Stretch step 1" loading="lazy" width="420" height="420"><img src="img/f-Standing_Elevated_Quad_Stretch-1.jpg" alt="Standing Elevated Quad Stretch step 2" loading="lazy" width="420" height="420"><figcaption>Standing Elevated Quad Stretch · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-quads-cool2" data-key="note-fri-quads-cool2" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Quads"></div>
+</article>
+<article class="ex" id="fri-hip-flexors-cool3">
+ <label class="done"><input type="checkbox" id="chk-fri-hip-flexors-cool3" data-key="fri-hip-flexors-cool3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Hip flexors</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">half-kneeling lunge</p>
+ <figure class="pics n2"><img src="img/f-Kneeling_Hip_Flexor-0.jpg" alt="Kneeling Hip Flexor step 1" loading="lazy" width="420" height="420"><img src="img/f-Kneeling_Hip_Flexor-1.jpg" alt="Kneeling Hip Flexor step 2" loading="lazy" width="420" height="420"><figcaption>Kneeling Hip Flexor · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-fri-hip-flexors-cool3" data-key="note-fri-hip-flexors-cool3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Hip flexors"></div>
+</article>
+<article class="ex" id="fri-inner-thighs-cool4">
+ <label class="done"><input type="checkbox" id="chk-fri-inner-thighs-cool4" data-key="fri-inner-thighs-cool4"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Inner thighs</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">seated butterfly, knees toward floor</p>
+ <div class="noimg">No close match in Free Exercise DB (its “Butterfly” is a chest machine)</div>
+ <div class="note"><input type="text" id="note-fri-inner-thighs-cool4" data-key="note-fri-inner-thighs-cool4" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Inner thighs"></div>
+</article>
+<article class="ex" id="fri-lats-upper-back-cool5">
+ <label class="done"><input type="checkbox" id="chk-fri-lats-upper-back-cool5" data-key="fri-lats-upper-back-cool5"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Lats/upper back</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">hold frame with both hands, sit hips back</p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-fri-lats-upper-back-cool5" data-key="note-fri-lats-upper-back-cool5" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Lats/upper back"></div>
+</article></section>
+ <p class="resetrow"><button type="button" class="reset" data-day="fri">Clear today's checks</button></p>
+</div><div class="day" id="sat" data-kind="cardio" hidden>
+ <header class="dayhead"><p class="eyebrow">Sat · ~60 min</p><h2>Long Zone 2 + band glute &amp; thigh circuit</h2><p class="focus">Bike + treadmill Zone 2 40 min + band glute &amp; thigh circuit</p></header>
+ <section class="block"><div class="bhead"><h3>Zone 2</h3><p>40 min</p></div><article class="ex" id="sat-bike-zone-2-0">
+ <label class="done"><input type="checkbox" id="chk-sat-bike-zone-2-0" data-key="sat-bike-zone-2-0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">1</span><h4>Bike Zone 2</h4><span class="sets">20 min</span></div>
+ <p class="cue">at RPE 5-6 (first 3 min easy)</p>
+ <figure class="pics n2"><img src="img/f-Bicycling_Stationary-0.jpg" alt="Bicycling, Stationary step 1" loading="lazy" width="420" height="420"><img src="img/f-Bicycling_Stationary-1.jpg" alt="Bicycling, Stationary step 2" loading="lazy" width="420" height="420"><figcaption>Bicycling, Stationary · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-sat-bike-zone-2-0" data-key="note-sat-bike-zone-2-0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Bike Zone 2"></div>
+</article>
+<article class="ex" id="sat-treadmill-incline-walk-zone-2-1">
+ <label class="done"><input type="checkbox" id="chk-sat-treadmill-incline-walk-zone-2-1" data-key="sat-treadmill-incline-walk-zone-2-1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><span class="tag">2</span><h4>Treadmill incline walk Zone 2</h4><span class="sets">20 min</span></div>
+ <p class="cue">at RPE 5-6</p>
+ <figure class="pics n2"><img src="img/f-Walking_Treadmill-0.jpg" alt="Walking, Treadmill step 1" loading="lazy" width="420" height="420"><img src="img/f-Walking_Treadmill-1.jpg" alt="Walking, Treadmill step 2" loading="lazy" width="420" height="420"><figcaption>Walking, Treadmill · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-sat-treadmill-incline-walk-zone-2-1" data-key="note-sat-treadmill-incline-walk-zone-2-1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Treadmill incline walk Zone 2"></div>
+</article></section><section class="block"><div class="bhead"><h3>Band circuit</h3><p>3 rounds, 45 sec rest between rounds (~15 min)</p></div><article class="ex" id="sat-band-squat-0">
+ <label class="done"><input type="checkbox" id="chk-sat-band-squat-0" data-key="sat-band-squat-0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Band Squat</h4><span class="sets">15</span></div>
+ <p class="cue">Stand on band, handles at shoulders</p>
+ <figure class="pics n2"><img src="img/f-Bodyweight_Squat-0.jpg" alt="Bodyweight Squat (closest match) step 1" loading="lazy" width="420" height="420"><img src="img/f-Bodyweight_Squat-1.jpg" alt="Bodyweight Squat (closest match) step 2" loading="lazy" width="420" height="420"><figcaption>Bodyweight Squat (closest match) · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-sat-band-squat-0" data-key="note-sat-band-squat-0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Squat"></div>
+</article>
+<article class="ex" id="sat-band-standing-kickback-1">
+ <label class="done"><input type="checkbox" id="chk-sat-band-standing-kickback-1" data-key="sat-band-standing-kickback-1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Band Standing Kickback</h4><span class="sets">12/leg</span></div>
+ <p class="cue">Anchored low, hooked to ankle; face machine, hold on, kick straight leg back</p>
+ <figure class="pics n2"><img src="img/f-One-Legged_Cable_Kickback-0.jpg" alt="One-Legged Cable Kickback (closest match) step 1" loading="lazy" width="420" height="420"><img src="img/f-One-Legged_Cable_Kickback-1.jpg" alt="One-Legged Cable Kickback (closest match) step 2" loading="lazy" width="420" height="420"><figcaption>One-Legged Cable Kickback (closest match) · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-sat-band-standing-kickback-1" data-key="note-sat-band-standing-kickback-1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Standing Kickback"></div>
+</article>
+<article class="ex" id="sat-band-hip-adduction-2">
+ <label class="done"><input type="checkbox" id="chk-sat-band-hip-adduction-2" data-key="sat-band-hip-adduction-2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Band Hip Adduction</h4><span class="sets">12/leg</span></div>
+ <p class="cue">Anchored low, hooked to the ankle nearest the machine; sweep leg across</p>
+ <figure class="pics n2"><img src="img/f-Band_Hip_Adductions-0.jpg" alt="Band Hip Adductions step 1" loading="lazy" width="420" height="420"><img src="img/f-Band_Hip_Adductions-1.jpg" alt="Band Hip Adductions step 2" loading="lazy" width="420" height="420"><figcaption>Band Hip Adductions · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-sat-band-hip-adduction-2" data-key="note-sat-band-hip-adduction-2" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Hip Adduction"></div>
+</article>
+<article class="ex" id="sat-band-lateral-walk-3">
+ <label class="done"><input type="checkbox" id="chk-sat-band-lateral-walk-3" data-key="sat-band-lateral-walk-3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Band Lateral Walk</h4><span class="sets">12 steps each way</span></div>
+ <p class="cue">Band between ankles; stay in a half squat</p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-sat-band-lateral-walk-3" data-key="note-sat-band-lateral-walk-3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Band Lateral Walk"></div>
+</article></section><section class="block"><div class="bhead"><h3>Cool-down stretch</h3><p>5 min, hold each 20-30 sec, no bouncing</p></div><article class="ex" id="sat-glutes-lying-figure-4-cool0">
+ <label class="done"><input type="checkbox" id="chk-sat-glutes-lying-figure-4-cool0" data-key="sat-glutes-lying-figure-4-cool0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Glutes: lying figure-4</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">ankle over opposite knee, pull legs in</p>
+ <figure class="pics n2"><img src="img/f-Lying_Glute-0.jpg" alt="Lying Glute step 1" loading="lazy" width="420" height="420"><img src="img/f-Lying_Glute-1.jpg" alt="Lying Glute step 2" loading="lazy" width="420" height="420"><figcaption>Lying Glute · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-sat-glutes-lying-figure-4-cool0" data-key="note-sat-glutes-lying-figure-4-cool0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Glutes: lying figure-4"></div>
+</article>
+<article class="ex" id="sat-hamstrings-cool1">
+ <label class="done"><input type="checkbox" id="chk-sat-hamstrings-cool1" data-key="sat-hamstrings-cool1"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Hamstrings</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">heel on a low surface, leg straight, hinge forward</p>
+ <figure class="pics n2"><img src="img/f-Standing_Hamstring_and_Calf_Stretch-0.jpg" alt="Standing Hamstring and Calf Stretch step 1" loading="lazy" width="420" height="420"><img src="img/f-Standing_Hamstring_and_Calf_Stretch-1.jpg" alt="Standing Hamstring and Calf Stretch step 2" loading="lazy" width="420" height="420"><figcaption>Standing Hamstring and Calf Stretch · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-sat-hamstrings-cool1" data-key="note-sat-hamstrings-cool1" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Hamstrings"></div>
+</article>
+<article class="ex" id="sat-quads-cool2">
+ <label class="done"><input type="checkbox" id="chk-sat-quads-cool2" data-key="sat-quads-cool2"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Quads</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">standing, pull heel toward glute</p>
+ <figure class="pics n2"><img src="img/f-Standing_Elevated_Quad_Stretch-0.jpg" alt="Standing Elevated Quad Stretch step 1" loading="lazy" width="420" height="420"><img src="img/f-Standing_Elevated_Quad_Stretch-1.jpg" alt="Standing Elevated Quad Stretch step 2" loading="lazy" width="420" height="420"><figcaption>Standing Elevated Quad Stretch · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-sat-quads-cool2" data-key="note-sat-quads-cool2" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Quads"></div>
+</article>
+<article class="ex" id="sat-hip-flexors-cool3">
+ <label class="done"><input type="checkbox" id="chk-sat-hip-flexors-cool3" data-key="sat-hip-flexors-cool3"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Hip flexors</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">half-kneeling lunge</p>
+ <figure class="pics n2"><img src="img/f-Kneeling_Hip_Flexor-0.jpg" alt="Kneeling Hip Flexor step 1" loading="lazy" width="420" height="420"><img src="img/f-Kneeling_Hip_Flexor-1.jpg" alt="Kneeling Hip Flexor step 2" loading="lazy" width="420" height="420"><figcaption>Kneeling Hip Flexor · Free Exercise DB</figcaption></figure>
+ <div class="note"><input type="text" id="note-sat-hip-flexors-cool3" data-key="note-sat-hip-flexors-cool3" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Hip flexors"></div>
+</article>
+<article class="ex" id="sat-inner-thighs-cool4">
+ <label class="done"><input type="checkbox" id="chk-sat-inner-thighs-cool4" data-key="sat-inner-thighs-cool4"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Inner thighs</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">seated butterfly, knees toward floor</p>
+ <div class="noimg">No close match in Free Exercise DB (its “Butterfly” is a chest machine)</div>
+ <div class="note"><input type="text" id="note-sat-inner-thighs-cool4" data-key="note-sat-inner-thighs-cool4" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Inner thighs"></div>
+</article>
+<article class="ex" id="sat-lats-upper-back-cool5">
+ <label class="done"><input type="checkbox" id="chk-sat-lats-upper-back-cool5" data-key="sat-lats-upper-back-cool5"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Lats/upper back</h4><span class="sets">20-30 sec</span></div>
+ <p class="cue">hold frame with both hands, sit hips back</p>
+ <div class="noimg">No close match in Free Exercise DB</div>
+ <div class="note"><input type="text" id="note-sat-lats-upper-back-cool5" data-key="note-sat-lats-upper-back-cool5" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Lats/upper back"></div>
+</article></section>
+ <p class="resetrow"><button type="button" class="reset" data-day="sat">Clear today's checks</button></p>
+</div><div class="day" id="sun" data-kind="rest" hidden>
+ <header class="dayhead"><p class="eyebrow">Sun · ~60 min</p><h2>Rest or active recovery</h2><p class="focus">Rest or easy recovery</p></header>
+ <section class="block"><div class="bhead"><h3>Rest day</h3></div><article class="ex" id="sun-full-rest-or-easy-bike-or-walk-0">
+ <label class="done"><input type="checkbox" id="chk-sun-full-rest-or-easy-bike-or-walk-0" data-key="sun-full-rest-or-easy-bike-or-walk-0"><span class="box" aria-hidden="true"></span><span class="sr">Done</span></label>
+ <div class="exhead"><h4>Full rest, or easy bike or walk</h4><span class="sets">20-30 min</span></div>
+ <p class="cue">RPE 3-4, then 10-15 min full-body stretching with 20-30 sec holds</p>
+ 
+ <div class="note"><input type="text" id="note-sun-full-rest-or-easy-bike-or-walk-0" data-key="note-sun-full-rest-or-easy-bike-or-walk-0" placeholder="band / note" inputmode="text" maxlength="40" aria-label="Note for Full rest, or easy bike or walk"></div>
+</article></section>
+ <p class="resetrow"><button type="button" class="reset" data-day="sun">Clear today's checks</button></p>
+</div>
+ <section class="ref">
+  <details open>
+   <summary>How to use</summary>
+   <ul>
+    <li>"3 x 10-12" = 3 sets of 10 to 12 reps. "/leg" or "/side" = each side.</li>
+    <li>Supersets (A1/A2): 1 set of A1, then 1 set of A2, rest 60-90 sec, repeat. Each pair uses only one machine station.</li>
+    <li>Weight: last 2 reps of each set should be hard with clean form. Go lighter in week 1.</li>
+    <li>Breathing: exhale on exertion, inhale on the return.</li>
+    <li>Band anchors: "anchored low/chest height/high" = band hooked to the machine frame at that height. "Hooked to ankle" = band clipped to an ankle cuff. "Stand on band" = band under your feet, handles in your hands.</li>
+    <li>Cardio effort (RPE 1-10): Easy = 3-4 | Zone 2 = 5-6 (can talk in full sentences) | Hard = 8-9 (only a few words)</li>
+    <li>Belly fat: no exercise burns fat from one spot. It comes off with overall fat loss, the cardio and lifting here plus a modest calorie deficit. The core work tightens and strengthens the midsection underneath.</li>
+    <li>Glute Kickback and Leg Abduction (machine) need an Ankle Strap on the low pulley. Use the band set's ankle cuff if it clips onto the cable. Otherwise do the band version listed.</li>
+   </ul>
+  </details>
+  <details>
+   <summary>Week at a glance</summary>
+   <dl class="glance">
+    <dt>Mon</dt><dd>Glutes & hamstrings + lats + core + bike sprints 10 min</dd>
+    <dt>Tue</dt><dd>Treadmill incline walk Zone 2 30 min + band core & back</dd>
+    <dt>Wed</dt><dd>Thighs (front, inner, outer) + mid & lower back + treadmill incline walk 10 min</dd>
+    <dt>Thu</dt><dd>Bike 4x4 intervals 28 min + core</dd>
+    <dt>Fri</dt><dd>Glutes & legs + lats + core + bike tempo 10 min</dd>
+    <dt>Sat</dt><dd>Bike + treadmill Zone 2 40 min + band glute & thigh circuit</dd>
+    <dt>Sun</dt><dd>Rest or easy recovery</dd>
+   </dl>
+  </details>
+  <details>
+   <summary>Progression</summary>
+   <ul>
+    <li>Hit the top of the rep range on every set with clean form, then add weight next session.</li>
+    <li>Band moves: when one gets easy, move up a band (light to medium to heavy), stand with a wider grip/more stretch, or slow the lowering to 3 sec.</li>
+    <li>Track the pin number. Per the chart: Leg Press = 200% of stack, Leg Extension/Leg Curl = 150%, pulleys and press handles = 100%.</li>
+    <li>Progress cardio by speed, incline or bike resistance at the same RPE, not by adding time.</li>
+    <li>Every 6-8 weeks, take an easy week: same exercises, about half the sets.</li>
+   </ul>
+  </details>
+  <details>
+   <summary>Safety (from the chart)</summary>
+   <ul>
+    <li>Inspect cables before every session; replace any worn cable before using the machine.</li>
+    <li>Check that pop pins and adjustment points are in place and tight.</li>
+    <li>Check bands and clips for nicks or wear before each use.</li>
+   </ul>
+  </details>
+  <p class="src">Photos: machine exercises are from the workout pages of the Body-Solid G9 owner's manual (the full-size exercise chart that ships with the gym is not published online). Band and bodyweight exercises use the nearest demo from the Free Exercise DB (github.com/yuhonas/free-exercise-db); where the caption says "closest match" the demo uses different equipment, so follow the written cue. Exercises with no close match show no photo.</p>
+ </section>
+</div>
+<script>
+(function(){
+ var store={get:function(k){try{return localStorage.getItem(k)}catch(e){return null}},set:function(k,v){try{localStorage.setItem(k,v)}catch(e){}},del:function(k){try{localStorage.removeItem(k)}catch(e){}}};
+ var tabs=document.querySelectorAll('.tab'), days=document.querySelectorAll('.day');
+ function show(key){
+  days.forEach(function(d){d.hidden=(d.id!==key)});
+  tabs.forEach(function(t){t.setAttribute('aria-selected',t.dataset.day===key?'true':'false')});
+  store.set('jw-day',key);
+ }
+ tabs.forEach(function(t){t.addEventListener('click',function(){show(t.dataset.day);window.scrollTo({top:0})})});
+ var start=(location.hash||'').replace('#','');
+ if(!document.getElementById(start)||!/^(mon|tue|wed|thu|fri|sat|sun)$/.test(start)){
+  var saved=store.get('jw-day'); var today=['sun','mon','tue','wed','thu','fri','sat'][new Date().getDay()];
+  start=saved||today;
+ }
+ show(start);
+ document.querySelectorAll('.done input').forEach(function(c){
+  var k='jw-'+c.dataset.key, v=store.get(k), ex=c.closest('.ex');
+  if(v==='1'){c.checked=true;ex.classList.add('is-done')}
+  c.addEventListener('change',function(){ex.classList.toggle('is-done',c.checked); if(c.checked)store.set(k,'1'); else store.del(k)});
+ });
+ document.querySelectorAll('.note input').forEach(function(n){
+  var k='jw-'+n.dataset.key, v=store.get(k); if(v)n.value=v;
+  n.addEventListener('input',function(){ if(n.value)store.set(k,n.value); else store.del(k)});
+ });
+ document.querySelectorAll('.reset').forEach(function(b){
+  b.addEventListener('click',function(){
+   document.querySelectorAll('#'+b.dataset.day+' .done input').forEach(function(c){c.checked=false;c.closest('.ex').classList.remove('is-done');store.del('jw-'+c.dataset.key)});
+  });
+ });
+})();
+</script>
