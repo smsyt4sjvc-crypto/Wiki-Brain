@@ -1,6 +1,6 @@
 # ⏱ FLOWS — merged timeline (the gate)
 
-> **183 dated entries across 3 notes · 2026-07-01 → 2026-10-02 · refreshed 2026-10-06 11:51 PDT**
+> **184 dated entries across 3 notes · 2026-07-01 → 2026-10-06 · refreshed 2026-10-06 12:05 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -205,3 +205,4 @@
 ## 2026-10
 
 - `2026-10-02` [portfolio-state.md:L1104](../portfolio-state.md) — 2026-10-02 ~8:15am PDT — 📌 **ACTUAL BOOK (Jake's direct disclosure, 10/2 ~8:05am): "I'm still mostly in my SPY put and PARR covered call." THE DHT/UAL
+- `2026-10-06` [market-fragility.md:L4753](../market-fragility.md) — 2026-10-06 ~12:10pm PDT (filed under rule 22c) — 🏢 **OFFICE CMBS DELINQUENCY 12.2%, ABOVE THE FINANCIAL-CRISIS PEAK — AND THE BIGGEST NEW DEFAULT IS A
