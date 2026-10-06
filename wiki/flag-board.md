@@ -39,6 +39,15 @@ from the vault's conditions, not from the tape.**
 - **Pointer:** [[oil-value-chain]] 10/1 3:10pm (China release valve) · [[demand-destruction]] ban clock + 10/2 G7 · [[money-board]] (US diesel export ban row) · [[portfolio-state]] 10/2.
 - **Status:** LIVE
 
+### 🧩 THE INTEGRATION SEAT — NOW (Jake's layer-4 thesis) · DDOG · NET
+- **Lean:** BULL NOW (0.5) · FLAT DDOG/NET (priced) — [[commoditization-layer]] 10/5.
+- **Watching:** the seat-to-consumption conversion at the un-run workflow/data layer vs the "AI eats seats" discount (NOW −29% from high; ADSK −35%; INTU −59%); Schneider–PTC 42% premium as a floor datum.
+- **🟢 IF:** NOW's Q3 (late Oct) shows Now Assist ACV on track for ≥$1.5B AND Control Tower customers up again AND no seat-count decline disclosed ⇒ NOW +3% inside 5 sessions; a second strategic bid for a data-owning software name ⇒ the floor is general (ADSK/ANSS read-across).
+- **🔴 IF:** NOW discloses seat erosion or cuts the Now Assist target; or a hyperscaler ships native evals/observability that names DDOG's seat ⇒ NOW −3% first / DDOG −3%.
+- **When:** NOW Q3 ~2026-10-22 (⬜ confirm) · peers' tape this week · Oct 30 (OpenAI allowance expiry — the rotation seat's churn window).
+- **Pointer:** [[commoditization-layer]] · [[metered-compute]] L617 (7/25 routing thread) · [[compression-thesis]] 10/5.
+- **Status:** LIVE
+
 ### 🚢 TANKERS — DHT · FRO (mirror: UAL BEAR)
 - **Lean:** BULL (DHT bull 1 on [[money-board]]).
 - **Watching:** Jake's registered call — deal talk Friday, escalation over the weekend (`predictions/2026-10-01-deal-then-weekend-escalation.md`: (b) Claude ≈30%, (c) Brent ≥±5% gap ≈25%, up ≈18 / down ≈7); Fars-claimed VLCC hit 10/1 still unconfirmed.

@@ -265,3 +265,5 @@ Average +1.4%. No executions reported; book.csv unchanged. MU: Tuesday-close dec
 - **ACTUAL book at the close:** SPY 745P Dec-18 (SPY 774.83; VIX 15.5) · PARR 100 sh + short Oct-16 $80C (87.52; $7.5 ITM, 8 sessions) · **DHT 100 @ 23.60 (23.82)** · QQQM 5 sh (QQQ +0.9%) · CEG/VST/TLN small (+3.5-3.9%) · VG 5 sh. Owed: the DHT stop level.
 
 - *(addendum 2026-10-05 ~4:00pm PDT)* **MARK: `compression-thesis` — META BULL 0.5** (reported: Meta halving Claude Code users and moving a >$105M/28-day workload to MetaCode/Muse Code on owned compute — the first dollar-sized utilisation datum; distillation-hygiene motive, so not price-elastic). MSFT no mark. ⛔ vendor conflict stated in the entry.
+
+- *(addendum 2026-10-05 ~5:30pm PDT)* **MARKS (initialised on [[commoditization-layer]]): NOW BULL 0.5** (Now Assist $750M ACV → ≥$1.5B target; Control Tower 4×; metered pools = seat-to-consumption conversion; PTC bid as a floor) · **NET FLAT 0.5** (gateway real and priced, no segmentation) · DDOG FLAT 0.5 carried · MSFT none.
