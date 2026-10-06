@@ -619,8 +619,7 @@ cron writes `data/fragility/*` on wb main directly, so its copy can be newer —
 - **TO REFRESH IT:** `python3 tools/fragility_feed.py` → `python3 tools/fragility.py` →
   `python3 tools/fragility_html.py` → **re-publish to the SAME URL** (Artifact with the same
   file path, `research-vault/docs/index.html`). **A different path claims a NEW url — don't.**
-- ⭐ **RECORD ANY FUTURE HOSTED URL HERE.**
-  · **JENN'S WEEKLY WORKOUT (personal, not vault content):** `https://claude.ai/artifact/6pf9LvHW1wMnMP96pexMer` — source + builder in `personal/jenn-workout/` (added 2026-10-05). It took a retrieval failure to notice the vault had
+- ⭐ **RECORD ANY FUTURE HOSTED URL HERE.** It took a retrieval failure to notice the vault had
   no record of its own published page — 130-note recall on refinery data, zero on its own link.
 
 ### DAILY: THE FRAGILITY LADDER (run it before answering any "is credit cracking" question)
