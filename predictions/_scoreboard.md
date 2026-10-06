@@ -220,3 +220,17 @@ this week (after the Apple-capex-premium call), both against my stated position.
 - **(c) GRADED at the reopen (Sun 10/4 ~3:55pm PT, Yahoo BZZ26 = Brent December): 102.59 vs Friday 102.25 = +0.33% — NO ±5% gap.** Jake (YES on escalation → gap) → ✗ **MISS**; Claude ≈25% gap / 75% no-gap → ✓ **HIT** on the 75% side (and the 9/25 "weekend-gap UNDER" pattern holds, n=2). WTI 90.99 (−0.1%), heating oil 4.538 (+0.8%).
 - **(b) PROVISIONAL at the reopen: NOT MET on the letter** — the Houthi claim of a missile/drone hit on Aramco Riyadh (Sat 10/3) is disputed by the coalition ("misleading") and unconfirmed by UKMTO/CENTCOM; the Saudi-backed Yemen offensive (Sun 10/4) is not Iran/proxy/US action. Jake YES → provisional MISS · Claude ≈30% → provisional HIT on the 70% side. **Final ~Wed 10/7** (UKMTO time-late).
 - **(b) REGRADED Sun 10/4 ~4:30pm PT: MET.** UKMTO reported a crude tanker hit by a projectile 4 nm east of Oman on Saturday 10/3 (AP) and a tanker struck in the Strait of Hormuz with engine-room damage on Sunday 10/4 (UKMTO, reported ~12:21 UTC, inside the Sun 6pm ET cut-off) — "the fourth this month". **Jake YES → ✓ HIT · Claude ≈30% → ✗ MISS.** The vault's weak half was the TIMING (strikes land when ships move); they moved on the weekend. Net on the three-part call: Jake 1 of 3 (a MISS, b HIT, c MISS); Claude 2 of 3 on the majority sides (a MISS, b MISS, c HIT). → [[war/war-board]] 10/4 ⚖️.
+
+## GRADE — 2026-10-05-auction-week.md (Tue 10/6 close; graded 2026-10-06 ~1:45pm PT on Treasury CMT + Yahoo closes; WTI settle per the gopher close, Yahoo futures unavailable ⬜)
+| series | point | 80% range | dir call | actual | in range | dir |
+|---|---|---|---|---|---|---|
+| WTI | 89.0 | 86.5–92.0 | down 55% | 89.44 (Mon 89.43) | ✅ | ⚪ push (+$0.01) |
+| SPY | 773 | 766–782 | down 55% | 779.09 (+0.55%) | ✅ | ❌ |
+| QQQ | 754 | 745–765 | down 55% | 759.66 (+0.46%) | ✅ | ❌ |
+| SOXX | 585 | 575–598 | down 55% | 589.45 (−0.01%) | ✅ | ✅ (trivially) |
+| MU | 1,060 | 1,030–1,095 | down 55% | 1,045.56 (−1.73%) | ✅ | ✅ |
+| DHT | 23.9 | 23.2–24.6 | up 55% | 23.52 (−1.26%) | ✅ | ❌ |
+- **Shape call (65%): MISS.** "3Y stops through by ≤1bp" ✅ (0.2bp) · "with indirects ≥60%" ❌ (57.6%) · "10Y closes ≥5.28" ❌ (CMT **5.27**). Conjunctive call fails on two of three legs.
+- **Kill switch:** not fired (no "more tightening" from Williams on file; 2Y fell to 4.79, not >4.95).
+- **Read:** range coverage 6/6 = 100% on a low-vol day ⇒ the ranges were too WIDE for a one-day horizon (sandbagging risk, the opposite of set #1's error); direction 2/5 (+1 push) — the "down" lean on equities was wrong because duration relief went straight into megacaps. The auction-demand half of the shape call was right; the foreign-bid and long-end halves were too strong.
+

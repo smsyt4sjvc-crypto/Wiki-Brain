@@ -225,7 +225,7 @@
   "three_month_highs": null,
   "maturity": "2031-12-20"
  },
- "generated": "2026-10-05T20:33:22+00:00",
+ "generated": "2026-10-06T20:43:15+00:00",
  "verdict": "5 STAGES LIT (3 corroborated): 1 -> 4 -> 5 -> 6 -> 7. Check whether they lit IN ORDER -- sequence is the signal.",
  "ladder": [
   {
@@ -318,7 +318,7 @@
    "rate_pct": 95.8,
    "status": "critical",
    "n": 815,
-   "age_days": 6,
+   "age_days": 7,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -462,7 +462,7 @@
    "rate_pct": 95.5,
    "status": "serious",
    "n": 815,
-   "age_days": 6,
+   "age_days": 7,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -606,7 +606,7 @@
    "rate_pct": 94.6,
    "status": "critical",
    "n": 815,
-   "age_days": 6,
+   "age_days": 7,
    "redundant": true,
    "stale": true,
    "spark": [
@@ -750,7 +750,7 @@
    "rate_pct": 78.6,
    "status": "calm",
    "n": 815,
-   "age_days": 6,
+   "age_days": 7,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -889,12 +889,12 @@
    "d1": 1.0,
    "d5": 7.0,
    "d20": 3.0,
-   "level_pct": 50.1,
+   "level_pct": 50.2,
    "detrended": false,
-   "rate_pct": 79.9,
+   "rate_pct": 79.8,
    "status": "calm",
    "n": 814,
-   "age_days": 6,
+   "age_days": 7,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -1038,7 +1038,7 @@
    "rate_pct": 1.7,
    "status": "calm",
    "n": 874,
-   "age_days": 14,
+   "age_days": 15,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -1172,21 +1172,20 @@
    "unit": "pts",
    "note": "implied Treasury vol -- AGENT-FETCHED, not in the cron",
    "inverted": false,
-   "date": "2026-10-05",
-   "value": 113.65,
-   "d1": 6.36,
-   "d5": 11.83,
-   "d20": 36.09,
-   "level_pct": 85.8,
+   "date": "2026-10-06",
+   "value": 105.2,
+   "d1": -8.45,
+   "d5": -1.4,
+   "d20": 31.62,
+   "level_pct": 71.9,
    "detrended": false,
-   "rate_pct": 98.6,
+   "rate_pct": 96.9,
    "status": "serious",
-   "n": 1253,
+   "n": 1254,
    "age_days": 0,
    "redundant": false,
    "stale": false,
    "spark": [
-    95.3,
     91.17,
     85.25,
     79.23,
@@ -1305,7 +1304,8 @@
     110.45,
     108.13,
     107.29,
-    113.65
+    113.65,
+    105.2
    ]
   },
   {
@@ -1323,10 +1323,10 @@
    "d20": 7.703,
    "level_pct": 56.5,
    "detrended": false,
-   "rate_pct": 64.9,
+   "rate_pct": 65.0,
    "status": "calm",
    "n": 2165,
-   "age_days": 6,
+   "age_days": 7,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -1470,7 +1470,7 @@
    "rate_pct": 95.2,
    "status": "serious",
    "n": 2186,
-   "age_days": 6,
+   "age_days": 7,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -1614,7 +1614,7 @@
    "rate_pct": 9.7,
    "status": "calm",
    "n": 703,
-   "age_days": 19,
+   "age_days": 20,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -1758,7 +1758,7 @@
    "rate_pct": 1.7,
    "status": "calm",
    "n": 601,
-   "age_days": 19,
+   "age_days": 20,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -1862,7 +1862,7 @@
    "rate_pct": 4.2,
    "status": "calm",
    "n": 612,
-   "age_days": 19,
+   "age_days": 20,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -1977,7 +1977,7 @@
    "rate_pct": 96.3,
    "status": "serious",
    "n": 703,
-   "age_days": 19,
+   "age_days": 20,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -2121,7 +2121,7 @@
    "rate_pct": 95.5,
    "status": "serious",
    "n": 703,
-   "age_days": 19,
+   "age_days": 20,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -2265,7 +2265,7 @@
    "rate_pct": 11.9,
    "status": "calm",
    "n": 1290,
-   "age_days": 6,
+   "age_days": 7,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -2409,7 +2409,7 @@
    "rate_pct": 100.0,
    "status": "critical",
    "n": 57,
-   "age_days": 5,
+   "age_days": 6,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -2490,7 +2490,7 @@
    "rate_pct": 16.3,
    "status": "calm",
    "n": 455,
-   "age_days": 19,
+   "age_days": 20,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -2634,7 +2634,7 @@
    "rate_pct": 40.4,
    "status": "calm",
    "n": 455,
-   "age_days": 19,
+   "age_days": 20,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -2778,7 +2778,7 @@
    "rate_pct": 44.0,
    "status": "calm",
    "n": 455,
-   "age_days": 19,
+   "age_days": 20,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -2922,7 +2922,7 @@
    "rate_pct": 22.0,
    "status": "calm",
    "n": 455,
-   "age_days": 19,
+   "age_days": 20,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -3066,7 +3066,7 @@
    "rate_pct": 22.0,
    "status": "calm",
    "n": 455,
-   "age_days": 19,
+   "age_days": 20,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -3210,7 +3210,7 @@
    "rate_pct": 28.4,
    "status": "calm",
    "n": 455,
-   "age_days": 19,
+   "age_days": 20,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -3354,7 +3354,7 @@
    "rate_pct": 40.4,
    "status": "calm",
    "n": 455,
-   "age_days": 19,
+   "age_days": 20,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -3498,7 +3498,7 @@
    "rate_pct": 86.5,
    "status": "warning",
    "n": 455,
-   "age_days": 19,
+   "age_days": 20,
    "redundant": false,
    "stale": true,
    "spark": [
@@ -3637,12 +3637,12 @@
    "d1": -0.03,
    "d5": 1.83,
    "d20": -0.3,
-   "level_pct": 44.2,
+   "level_pct": 44.3,
    "detrended": false,
-   "rate_pct": 47.8,
+   "rate_pct": 47.7,
    "status": "calm",
    "n": 2230,
-   "age_days": 6,
+   "age_days": 7,
    "redundant": false,
    "stale": true,
    "spark": [

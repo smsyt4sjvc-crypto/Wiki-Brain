@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **488 dated entries across 3 notes · 2026-02-10 → 2026-10-06 · refreshed 2026-10-06 12:50 PDT**
+> **489 dated entries across 3 notes · 2026-02-10 → 2026-10-06 · refreshed 2026-10-06 13:43 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -516,3 +516,4 @@
 - `2026-10-03` [new-economy-regime.md:L5043](../new-economy-regime.md) — 2026-10-03 ~1:40pm PDT (filed under rule 22c) — 🏭 **"WHERE IS THE ONSHORING?" — THE $20 TRILLION IS PLEDGES; THE MEASURED FOREIGN MONEY IS $232B, AND 
 - `2026-10-05` [rates-board.md:L3854](../rates-board.md) — 2026-10-05 close (~1:45pm PDT, filed under rule 22c) — 📉 **TEST SIX: A SOFT ISM HEADLINE AND A WEAK-JOBS HANGOVER, AND THE LONG END ROSE 3bp ANYWAY — 
 - `2026-10-06` [market-fragility.md:L4753](../market-fragility.md) — 2026-10-06 ~12:10pm PDT (filed under rule 22c) — 🏢 **OFFICE CMBS DELINQUENCY 12.2%, ABOVE THE FINANCIAL-CRISIS PEAK — AND THE BIGGEST NEW DEFAULT IS A
+- `2026-10-06` [rates-board.md:L3875](../rates-board.md) — 2026-10-06 close (~1:45pm PDT), filed under rule 22c — 📉 **DURATION RELIEF, ALL OF IT REAL: 10Y −4bp TO 5.27, EVERY BASIS POINT A REAL-YIELD MOVE, BRE
