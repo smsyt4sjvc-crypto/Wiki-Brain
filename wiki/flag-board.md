@@ -131,7 +131,7 @@ from the vault's conditions, not from the tape.**
 - **🟢 IF:** Samsung's Q3 preliminary operating profit beats consensus (Q2 was ₩89.4T, released 7/7) OR TSMC's September revenue prints above August's NT$514.8B ⇒ the cycle is still being paid.
 - **🔴 IF:** Nvidia or a supplier confirms 8-high HBM on Rubin Ultra (load cut), OR distributor backorders reopen (the vault's MU reversal trigger).
 - **🔴 IF (added 10/6):** Samsung or SK Hynix announces a DRAM/HBM capacity step-up on the Toshiba-HDD pattern (a rival's supply answer to the shortage) ⇒ MU −3% first — on 10/6 Toshiba's HDD doubling + the TDK heads bid took STX −9% / WDC −7% while MU held flat (memory-regime-question 10/6 11:55am).
-- **When:** window 2026-10-07 → 2026-10-14 (Samsung prelim; date ⬜ — last year Oct 14, Q2 this year Jul 7) · ~2026-10-10 (TSMC monthly revenue, date ⬜)
+- **When:** window 2026-10-07 → 2026-10-14 (Samsung prelim; date ⬜ — last year Oct 14, Q2 this year Jul 7) · ~2026-10-10 (TSMC monthly revenue, date ⬜) ✔ 10/6 ~10:55pm: TSMC calendar = **Thu 2026-10-08** (Taipei; time ⬜). Q3 guide math: Sept ≥ NT$464B = guide midpoint, ≥ NT$483B = top; this 🟢 bar (> NT$514.8B) is above both — mim/2026-10-06.md Call 1
 - **Read it on:** Samsung IR pre-earnings guidance · TSMC monthly revenue release · DigiKey stock/backorder columns.
 - **Pointer:** [[memory-regime-question]] · [[ai-capex-cycle]] (TSMC monthly) · chat-log 10/2 ~9:00am (HBM 8-Hi).
 - **Status:** LIVE
