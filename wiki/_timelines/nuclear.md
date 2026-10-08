@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **125 dated entries across 3 notes · 2026-06-30 → 2026-10-02 · refreshed 2026-10-08 12:58 PDT**
+> **126 dated entries across 3 notes · 2026-06-30 → 2026-10-08 · refreshed 2026-10-08 12:59 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -150,3 +150,4 @@
 ## 2026-10
 
 - `2026-10-02` [buildout-bottleneck-map.md:L2057](../buildout-bottleneck-map.md) — 2026-10-02 ~1:20pm PDT (Y'd ~1:18pm) — 🔩 **SEVEN IRREVERSIBLE POWER COMMITMENTS FROM THE DUAL-CLOCK v7 LEDGER, AND TWO DATES THE VAULT DID NOT HAVE: A
+- `2026-10-08` [nuclear.md:L859](../nuclear.md) — 2026-10-08 ~1:05pm PDT (filed under rule 22c) — ⚛️ **MICROREACTORS HIT TECHNICAL MILESTONES; GRID-SCALE NEW BUILD STAYS ON PAPER; THE MONEY STAYS WITH
