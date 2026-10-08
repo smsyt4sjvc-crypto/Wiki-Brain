@@ -727,6 +727,12 @@ project space; more are likely.**
     all-in — that no fresh search would have produced. **The archive is worth more than the web on
     anything this vault has already worked.**
 
+21c. ⭐⭐ **SIMPLEST SEARCH FIRST, ON EVERY SIGNAL (Jake, 2026-10-07 ~10:15pm: "Always do the simplest version of a good search on
+    any signal. It's easiest way to not miss the obvious.")** Before building analysis on an inbound, run the plain-words search
+    (the headline nouns: "Isaias refinery shutdown", "TSMC September revenue", "HF Sinclair hurricane") on the web AND a
+    CASE-INSENSITIVE grep of the vault. Elaborate queries come after. *(Same evening: a case-sensitive grep missed "most
+    participants" in the FOMC minutes, and the DINO Gulf-exposure answer took a 10-K dig that a one-line search settled.)*
+
 21b. ⭐⭐ **NO QUANTITY ENTERS AN ARITHMETIC UNTIL ITS PERIMETER IS WRITTEN DOWN NEXT TO IT (set
     2026-09-04, same instruction).** **Before any figure is added, subtracted, divided or compared,
     state its SCOPE in the same breath: what is in the numerator, what is in the denominator, and
