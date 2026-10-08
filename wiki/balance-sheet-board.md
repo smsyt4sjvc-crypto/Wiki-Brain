@@ -869,3 +869,4 @@ PORTS: NVDA via RVG > SB Energy equity > OpenAI lease — trace it when the S-1 
 **📌** ⬜ the chart's original source · ⬜ META exact share count for the EV arithmetic · ⬜ AMZN/GOOGL purchase commitments on the same 6/30 basis.
 **Links:** [[ai-financing-fragility]] · [[hyperscaler-credit]] · [[money-board]]
 
+- *(cross-link 2026-10-08 ~8:45am PDT — ISSUER side of the Athene 10-Q entry, filed on the funding side per the ⛔ routing rule)* Broadcom/Anthropic $35B: the buyer of the chips is an Apollo fund (WarehouseCo Intermediate Holdings LP) whose purchase obligation Athene guarantees at 15%; in a failed raise ~85% of the unpaid obligation stays with Broadcom → [[ai-financing-fragility]] 10/8 8:45am.
