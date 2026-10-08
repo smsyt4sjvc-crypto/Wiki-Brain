@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T17:50:45+00:00",
+ "generated": "2026-10-08T17:53:37+00:00",
  "meta": {
   "ccc_oas": {
    "label": "CCC & lower OAS",
@@ -159,5 +159,5 @@
    "status": "CLOSED \u2014 levels only, no baseline yet"
   }
  ],
- "auction_count": 64
+ "auction_count": 65
 }

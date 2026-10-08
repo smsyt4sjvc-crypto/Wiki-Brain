@@ -702,5 +702,16 @@
   "direct": 6618200000.0,
   "dealer": 984000000.0,
   "offering": 39000000000.0
+ },
+ {
+  "date": "2026-10-08",
+  "term": "29-Year 10-Month",
+  "cusip": "912810UW6",
+  "high_yield": 5.618,
+  "bid_to_cover": 2.54,
+  "indirect": 15866059500.0,
+  "direct": 4583044100.0,
+  "dealer": 1490500000.0,
+  "offering": 22000000000.0
  }
 ]
