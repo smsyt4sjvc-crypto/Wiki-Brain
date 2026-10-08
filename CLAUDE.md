@@ -727,10 +727,13 @@ project space; more are likely.**
     all-in — that no fresh search would have produced. **The archive is worth more than the web on
     anything this vault has already worked.**
 
-21c. ⭐⭐ **SIMPLEST SEARCH FIRST, ON EVERY SIGNAL (Jake, 2026-10-07 ~10:15pm: "Always do the simplest version of a good search on
-    any signal. It's easiest way to not miss the obvious.")** Before building analysis on an inbound, run the plain-words search
-    (the headline nouns: "Isaias refinery shutdown", "TSMC September revenue", "HF Sinclair hurricane") on the web AND a
-    CASE-INSENSITIVE grep of the vault. Elaborate queries come after. *(Same evening: a case-sensitive grep missed "most
+21c. ⭐⭐ **SIMPLEST GOOGLE SEARCH FIRST, ON EVERY SIGNAL (Jake, 2026-10-07 ~10:15pm: "Always do the simplest version of a GOOGLE
+    search on any signal. It's easiest way to not miss the obvious.")** Before building analysis on an inbound, run the plain-words
+    Google search (the headline nouns: "Isaias refinery", "TSMC September revenue", "HF Sinclair hurricane") AND a CASE-INSENSITIVE
+    grep of the vault. **Route from the container: Google News RSS —
+    `curl -sL "https://news.google.com/rss/search?q=<words>+when:2d&hl=en-US&gl=US&ceid=US:en"` — current to the hour; the WebSearch
+    tool is secondary (its index lagged by days on 10/7).** ⚠️ **Aggregator timestamps can be REPUBLISH dates** (10/7: EnergyNow
+    items dated 10/5–10/7 were April/June stories) — sort by date, find the ORIGINAL outlet and date before filing. *(Same evening: a case-sensitive grep missed "most
     participants" in the FOMC minutes, and the DINO Gulf-exposure answer took a 10-K dig that a one-line search settled.)*
 
 21b. ⭐⭐ **NO QUANTITY ENTERS AN ARITHMETIC UNTIL ITS PERIMETER IS WRITTEN DOWN NEXT TO IT (set
