@@ -225,10 +225,11 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     (ACTUAL or PAPER) so the 9pm process is graded against the 47/46 price-only baseline like the flags.**
     **(e) It ends at the money, every night: "so the money goes here at the open, and here is the trade —
     or there isn't one."**
-    **(f) "AT THE OPEN" MEANS 6:30am PT, LITERALLY (Jake, 2026-10-07 ~9:55pm: "From now on: open means literally 'at open' as in 6:30 AM").** A call that
-    waits for a later event (an auction, a print) is a CONDITIONAL, labelled as such, and does not count as the open pick. *(Same
-    message, one-time: "Just tomorrow morning. You must pick at least one" — for Thu 10/8 a 6:30am pick was required; whether
-    every MIM must carry one is ⬜ not yet stated by Jake.)*
+    **(f) EVERY MIM PICKS AT LEAST ONE TRADE FOR THE NEXT MORNING (Jake, 2026-10-07 ~9:55pm: "From now on… You must pick at least one";
+    clarified ~10:05pm: "it doesn't mean at 6:30 exactly. It means tomorrow morning in general").** "At the open" = the next MORNING SESSION,
+    not the 6:30am print: an entry that waits for a morning event (claims, an auction, a print) counts, as long as it is named, dated and
+    bracketed. ⛔ "NO TRADE" is no longer a valid MIM outcome on its own; the reason for caution goes into the pick's conditions and size.
+    *(First draft at ~10:00pm misread this as "6:30am literally"; corrected at Jake's word.)*
 17. **Code delivery: COMPLETE cells only** (iPhone/Colab). Acronyms spelled out at first use.
 18. **End of session: file → link → index → ⏱ TIMELINE → chat-log → commit → push. Every turn pushes.**
     ⏱ **`python3 tools/timeline_header.py --all --threads --chain` AFTER writing entries, BEFORE committing.**
