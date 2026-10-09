@@ -1,6 +1,6 @@
 # ⏱ SEMIS — merged timeline (the gate)
 
-> **94 dated entries across 2 notes · 2026-07-09 → 2026-10-02 · refreshed 2026-10-08 19:33 PDT**
+> **95 dated entries across 2 notes · 2026-07-09 → 2026-10-08 · refreshed 2026-10-08 19:41 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -116,3 +116,4 @@
 ## 2026-10
 
 - `2026-10-02` [buildout-bottleneck-map.md:L2057](../buildout-bottleneck-map.md) — 2026-10-02 ~1:20pm PDT (Y'd ~1:18pm) — 🔩 **SEVEN IRREVERSIBLE POWER COMMITMENTS FROM THE DUAL-CLOCK v7 LEDGER, AND TWO DATES THE VAULT DID NOT HAVE: A
+- `2026-10-08` [buildout-bottleneck-map.md:L2084](../buildout-bottleneck-map.md) — 2026-10-08 ~7:40pm PDT (filed under rule 22c) — 🤠 **TEXAS: THE PAUSE NOW HAS A CALENDAR. NEW LARGE-LOAD RULES TOOK EFFECT TODAY ($100K STUDY FEE + $50

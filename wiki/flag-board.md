@@ -176,6 +176,7 @@ from the vault's conditions, not from the tape.**
 - **When:** 2026-10-12 (FERC, by)
 - **Read it on:** FERC order · PJM filing.
 - **Pointer:** [[buildout-bottleneck-map]] 9/30 ⚡ PJM entry.
+- **Texas leg (added 2026-10-08):** 🔴 TCEQ's Oct 19 update extends the freeze, or ERCOT's Dec 10 audit narrows eligibility ⇒ VST's Texas data-center contracting slips into 2027 · 🟢 the freeze lifts on pay-your-own-way terms ⇒ the Texas queue restarts (behind-the-meter gear first: GEV / CAT / BE). → [[buildout-bottleneck-map]] 10/8 7:40pm.
 - **Status:** LIVE (watch only)
 
 ### 🍉 META — Watermelon + Q3 (the cheapest options in the vault's table)
