@@ -3965,3 +3965,13 @@ denominator's health = the diversification that no longer exists).
     - 🔴 **Micron FQ1'27 new deposits vs $12.3B:** falling deposits = buyers stop locking in.
     - 🔴 **Late-October hyperscaler calls:** "deferral/re-phasing" language = stretched; "cancellation/digestion" = constricted.
   - **MONEY:** no new marks (thesis). **The shape it implies:** semis de-rate while earnings hold, so don't buy the "record revenue" dip expecting a re-rate. Sellers with floors to strong-credit buyers are the defensive end; sellers whose upside sits on spot pricing or on levered buyers are the exposed end. **The test that flips it to a bear market in chips: cancellations, not deferrals.**
+- *(addendum 2026-10-09 ~6:25am PDT (filed under rule 22c) — Jake's link: ZH 'Tower Stocks Soar, Big Three Wireless Carriers Puke…' (4:22am PT; the slug still reads 'last-critical-piece…': headline drift again), quoting sell-side notes (REPORTED; `raw/2026-10-09-zh-spacex-spectrum-analysts-towers-carriers.md`))* 📡 **THE SELL SIDE TAKES THE TOWER SIDE AND CALLS THE CARRIER HIT AN OVERHANG.** Premarket (per ZH): CCI +8.2% · AMT +6.4% · SBAC +5.6% · TMUS −7.7% · VZ, T ~−6%.
+  - **Barclays (Lynch):** Starlink's terrestrial network is a "game-changer" for towers; one of six catalysts in his August CCI/AMT upgrade.
+  - **Citi (Rollins):** net positive for towers, ongoing risk for telecom; Buy on SBAC/AMT/CCI.
+  - **Jefferies (Hunt):** "potential positive for Towers," BUT "SpaceX has also discussed a capital-light approach based on 'femtocells'… which could reduce reliance on conventional macro towers." That is the same caveat that withdrew the vault's tower upgrade (10/8 6:30pm).
+  - **Bernstein (Yoon):** "Musk's track record creates a credible threat that is likely to remain an overhang on incumbent valuations."
+  - **Wolfe (Supino):** "a 'someday' Starlink Mobile network is not priced into telecom stocks," and this raises "the probability and potential speed."
+  - **THESIS (analysis):**
+    1. **Class 8:** Barclays upgraded towers in August on this exact catalyst, so it gains if the read is believed. Jefferies, alone, names the femtocell caveat. The vault's net-FLAT tower mark stands, and the consensus is now the other side of it.
+    2. **For mim/2026-10-08 Call 1 (T long):** none of the registered disconfirmers has fired (no downgrade citing SpaceX is reported; no price or 2026 launch; premarket 23.08 > the 22.70 skip line). But two notes argue the overhang persists. The 2025 precedent's quick recovery is the bet; these notes are the strongest case against it.
+  - **MONEY:** no new marks (analyst opinion; the event is marked 10/8). Watch: any carrier DOWNGRADE today (Call 1's named disconfirmer).
