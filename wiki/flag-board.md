@@ -212,5 +212,15 @@ from the vault's conditions, not from the tape.**
 - **Pointer:** [[compression-thesis]] 9/23 + 10/8 6:25–6:40pm · [[ai-capex-cycle]] 10/8 6:25pm (the compute contracts) · `raw/2026-10-08-agent-device-hardware-checks.md`.
 - **Status:** LIVE (watch)
 
+### 🔬 ASML — Q3 print Tue 10/13 ~10pm PT (07:00 Amsterdam 10/14) (set 2026-10-09 ~10:40am)
+- **Lean:** FLAT 0.5 with a slight down tilt ([[money-board]] 10/9 10:40am). Straddle fairly priced (±6.1% to Fri; event ~±4.2%) ⇒ no volatility edge.
+- **Watching:** the forward language, since ASML no longer publishes bookings: 2027 low-NA EUV coverage, the 2028 +30% capacity "investigation", the FY €43–45B guide (requires a record Q4 ≈ €13–16B), China (~20% of 2026 sales).
+- **🟢 IF:** the release or call moves 2028 +30% from "investigating" to planned AND holds or raises FY2026 €43–45B (ASML release/call, 10/14) ⇒ ASML +3% first; read-across AMAT/LRCX/KLAC up, MU (memory capex intact).
+- **🔴 IF:** any walk-back of 2027 coverage, a FY guide cut or a Q4 implied below ~€13B, or China demand flagged lower (same sources) ⇒ ASML −3% first (the Q1/Q2-2025 "beat and sold" pattern).
+- **When:** Tue 10/13 ~10pm PT release; the US session Wed 10/14 opens 6:30am PT, one hour after CPI (5:30am PT); TSMC Q3 results/call Wed night PT. The Oct-16 options carry all three.
+- **Read it on:** asml.com press release + IR presentation; the investor call transcript; Cboe delayed chain (`cdn.cboe.com/api/global/delayed_quotes/options/ASML.json`).
+- **Pointer:** [[earnings-implied-moves]] 10/9 10:40am · `raw/2026-10-09-asml-q3-2026-earnings-trade-report.txt`.
+- **Status:** LIVE (dated 10/13–10/14)
+
 ## Links
 [[forest]] · [[money-board]] · `menu/` · [[portfolio-state]] · [[retail-edge]] (bracket tests 7/15 + 10/2)
