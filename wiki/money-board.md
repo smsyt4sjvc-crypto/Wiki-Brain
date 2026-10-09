@@ -301,3 +301,4 @@ Average +1.4%. No executions reported; book.csv unchanged. MU: Tuesday-close dec
   ⟲ SUPERSEDED 2026-10-09 → money-board.md:L301 — tower upgrade withdrawn: SpaceX builds around towers (8/4 call)
 - **2026-10-08 ~6:30pm PDT — ⟲ tower correction (SpaceX's 8/4 call: rooftop femtocells, built AROUND towers):** AMT / CCI / SBAC −0.5 (the 6:05pm upgrade withdrawn) and BEAR 0.5 (stated design, reported) ⇒ net FLAT from the SpaceX event. Jake's agent-OS device thesis: NR (outside 120 days). → ai-capex-cycle 10/8 6:30pm · compression-thesis 10/8 6:30pm.
   ⟲ SUPERSEDES money-board.md:L300 — tower upgrade withdrawn: SpaceX builds around towers (8/4 call)
+- **2026-10-08 ~7:35pm PDT — Firmus confirms the IPO is withdrawn (company statement):** no new marks (same shock as 9:40am / 10:30am; confirmation upgrades the evidence, adding weight would double-count). Neoclouds took it intraday (IREN −7.7%, NBIS −7.4%, CRWV −7.8%). → ai-financing-fragility 10/8 7:35pm.
