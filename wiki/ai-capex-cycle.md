@@ -3936,3 +3936,19 @@ denominator's health = the diversification that no longer exists).
     3. **THE MISMATCH:** revenue cancellable on 90 days against ~$40B of chip debt (FT/Reuters 10/6–10/7) priced at a record ~197bp 5Y CDS (`ai-financing-fragility:L8861`). It is the vault's "infant market financed as mature" pattern, at SpaceX.
     4. **The moat SpaceX has that AWS, Azure and Google Cloud do not: the network** (spectrum + satellites + Starlink Mobile). Rented compute alone is replaceable; compute plus a radio link everywhere is not, yet.
   - **MONEY:** no new marks. This is inherited state, public since June and priced since the IPO (anti-double-count); the credit side is carried by the 10/7 CDS entry. **📌 DATED TESTS INSIDE 120 DAYS:** 🔴 Google's GPU-delivery deadline (9/30 + one-month grace ≈ 10/31): delivered, terminated, or pro-rated? · 🔴 the unnamed ~$1.11B a month starts 12/1 · 🔴 Google's 90-day exit right opens 12/31 · 🔴 SpaceX Q3 call (date ⬜): AI-segment revenue vs the ~$3.3B-a-month contracted run-rate.
+- *(addendum 2026-10-08 ~9:45pm PDT (filed under rule 22c) — Jake ~9:40pm: "I still think volume is or will be flattening soon. The pulls for stretching demand outnumber the push to concentrate it."; extends his 10/7 'stretchy demand' thesis (forest ⚡ branch) and the 10/7 1:05pm unit series (`:L3866`); calibration graded in [[_calibration]] 10/8 9:45pm)* ⚖️ **THE TALLY AFTER TODAY: MORE FORCES ARE STRETCHING DEMAND OUT THAN PULLING IT IN — BUT THE ONE HARD UNIT NUMBER IS STILL GROWING, JUST SLOWER. TSMC's 10/14 call decides it.** **WHY THIS MATTERS (plain English):** chip revenue can keep rising on higher prices even if the number of chips shipped levels off. Jake's view is that delays (power, permits, financing) spread the same demand over more years, so shipments flatten. If so, the money moves from "more units" names to whoever has pricing power, and the units story the semis trade on weakens.
+  ⟲ EXTENDS ai-capex-cycle.md:L3866 (2026-10-09) — Jake 10/8: volume flattening; stretching pulls outnumber concentrating pushes — tally + TSMC 10/14 wafer test (q/q <= +3.9% = deceleration) [old entry stays LIVE]
+  - **STRETCHING (delay/defer), dated today:**
+    - Texas: no big new data-center connections before the 12/10 audit; 17 completed projects frozen.
+    - Firmus pulled its IPO. OpenAI's revenue is ~$50B, not ~$70B (reported).
+    - Oracle is trucking gas to a site whose pipeline is late. The Chevron–Microsoft FID may slip to 2027.
+    - SpaceX's compute contracts are cancellable on 90 days' notice. Idle chip-backed carry is ~$0.55–0.60B per GW per month.
+    - Credit: ORCL CDS 260, CRWV 896, CCC 1,229.
+  - **CONCENTRATING (buy now), dated:**
+    - SpaceX's ~$40B chip-buy talks against ~$3.3B a month of contracted rental by December.
+    - B200 rents ~$8/hr and resale ~158% of launch (reported).
+    - TSMC Q3 revenue ~2% above its guide; Samsung Q3 a record ₩107.4T; Micron $12.3B of new deposits.
+  - **THE UNIT DATA:** TSMC wafers q/q +5.4% then +3.9% (1Q26, 2Q26), while revenue per wafer rose +2.9% then +7.8% ⇒ **units decelerating, price carrying revenue — consistent with Jake, not yet "flat."**
+  - **THE SIDE UNDER-WEIGHTED:** new-generation rents are still rising, and SpaceX is still buying. Stretching shows up first in the delayed buyers (Oracle, CoreWeave-class), not in the cash-rich ones.
+  - **📌 TEST (registered):** TSMC 3Q26 wafer shipments (management report, 10/14 ~11pm PT): **q/q ≤ +3.9% = deceleration continues (Jake's side); ≤ 0 = flat (Jake fully right); > +5.4% = re-acceleration (against).** Plus TSMC's Q4 revenue guide vs Q3's US$46.7B.
+  - **MONEY:** no marks (thesis, no new datum). No TSM position; no semis chase into the 10/14 call.
