@@ -222,5 +222,15 @@ from the vault's conditions, not from the tape.**
 - **Pointer:** [[earnings-implied-moves]] 10/9 10:40am · `raw/2026-10-09-asml-q3-2026-earnings-trade-report.txt`.
 - **Status:** LIVE (dated 10/13–10/14)
 
+### 🔬 TSM — Q3 print Wed 10/14 ~11pm PT (2am ET); the US reaction Thu 10/15 (set 2026-10-09 ~10:45am)
+- **Lean:** the FADE after a gap up (Jake's side; [[_calibration]] 10/8). No straddle ahead of the print.
+- **Watching:** the opening gap Thursday vs Wednesday's close; Q3 wafer shipments q/q vs +3.9% (`ai-capex-cycle:L3963`); revenue per wafer; Q4 guide; capex vs $60–64B; HPC share vs 66%.
+- **🟢 IF (for the fade):** TSM opens Thursday ABOVE Wednesday's close AND Q3 wafers grew ≤ +3.9% q/q (TSMC management report / call) ⇒ TSM closes Friday below Thursday's open (6 of 6 after gap-ups, 2024–26; mean −2.9%) — Oct-23 ATM put at the open, out at +3% against or Friday's close.
+- **🔴 IF:** wafers > +3.9% q/q with a raised capex range or a wafer-growth Q4 guide ⇒ do not fade; or TSM gaps DOWN ⇒ no trade (2 of 2 gap-downs were mixed).
+- **When:** ASML Tue 10/13 ~10pm PT · CPI Wed 10/14 5:30am PT · TSMC release + call Wed 10/14 ~11pm PT · entry Thu 10/15 6:30am PT open · exit Fri 10/16 close.
+- **Read it on:** investor.tsmc.com (management report: wafer shipments, 12-inch equivalent) · the call · Cboe delayed chain (`cdn.cboe.com/api/global/delayed_quotes/options/TSM.json`).
+- **Pointer:** [[earnings-implied-moves]] 10/9 10:45am · [[ai-capex-cycle]] `:L3866` (wafer series), `:L3955` (Jake's thesis) · `raw/2026-10-09-tsmc-q3-2026-earnings-trade-report.txt`.
+- **Status:** LIVE (dated 10/15–10/16)
+
 ## Links
 [[forest]] · [[money-board]] · `menu/` · [[portfolio-state]] · [[retail-edge]] (bracket tests 7/15 + 10/2)
