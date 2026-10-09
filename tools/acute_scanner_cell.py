@@ -564,6 +564,19 @@ THREADS = {
                   'peak earnings','peak-cycle earnings','normalised earnings','normalized earnings',
                   'median earnings','durability','screen','screener','pass rate',
                   'sector-neutral','beat-rate','spread vs benchmark'],
+ # gap (2026-10-08): SpaceX's 800 MHz buy + Jake's AI-device thesis routed to CAPEX/MODEL-ECON only —
+ # the vault had NO telecom thread, and missed Starlink Mobile's carrier plan from SpaceX's 8/4 Q2 call to 10/8.
+ # CONCEPTS: spectrum / direct-to-device / carrier competition / the endpoint device.
+ # ENTITIES: carriers, tower REITs, satellite-to-phone players, spectrum sellers, executives.
+ # MEASURES: MHz, subscriber/ARPU vocabulary. (Short tickers T/VZ/AMT/CCI left out: false positives.)
+ 'TELECOM':['spectrum','mhz','low-band','low band','mid-band','direct to cell','direct-to-cell',
+            'direct-to-device','satellite-to-phone','femtocell','small cell','wireless carrier',
+            'mobile carrier','fourth carrier','starlink mobile','t-satellite','handset','smartphone',
+            'agentic os','ai phone','thin client','thin-client','ai device',
+            'at&t','verizon','t-mobile','tmus','asts','ast spacemobile','spacemobile','echostar',
+            'grain management','american tower','crown castle','sba communications','sbac',
+            'tower reit','tower compan','shotwell','stankey','spcx',
+            'postpaid','phone net adds','arpu','subscriber'],
 }
 
 # THREAD -> ORIGINATING VAULT NOTE. Every hit routes BACK to the note it came from.
@@ -587,6 +600,7 @@ ROUTE = {
  'CONSUMER':  'consumption-vs-investment-crux (THE spine question) / new-economy-regime / market-fragility (the weekly data calendar + GS pre-print forecasts) / glp1-wardrobe-cycle (the apparel line) / trade-down-landing-pads / demand-destruction',
  'FLOWS':     'market-fragility (the 7/22 gearing frame + 8/8 record tech inflows) / detachment-bid / portfolio-state',
  'MODEL-ECON':'metered-compute / compression-thesis',
+ 'TELECOM':   'ai-capex-cycle (SpaceX/Starlink Mobile 10/8: spectrum, carriers, towers) / compression-thesis (the endpoint/agent-OS device thesis, 9/23 + 10/8) / money-board',
  'FX/CARRY':  'ai-financing-fragility (yen-carry corners the Fed, L491) / market-fragility / new-economy-regime',
  'AI-POLICY': 'ai-financing-fragility (blacklist timeline, F17 risk stack) / metered-compute (the NVDA letter, the council) / ai-capex-cycle (advisory council) / compression-thesis (two-bloc)',
  'KOREA':     'market-fragility (leverage cascade)',
