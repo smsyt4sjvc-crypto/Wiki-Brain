@@ -38,6 +38,7 @@ from the vault's conditions, not from the tape.**
 - **Read it on:** China MOFCOM/NDRC export-quota reports · the diesel crack (10/2 ~95.6; 9/30 peak ~109.5) · any Oval Office ban language.
 - **Pointer:** [[oil-value-chain]] 10/1 3:10pm (China release valve) · [[demand-destruction]] ban clock + 10/2 G7 · [[money-board]] (US diesel export ban row) · [[portfolio-state]] 10/2.
 - **🔴 (a) FIRED 2026-10-09 (REPORTED):** Reuters 10/8 8:28pm PT, four trade sources: China to resume October fuel exports after its holiday pause (traders est. ~3.7M tonnes, per the other tool). The DINO pick exited at the open (120.00, +2.21%) by its rule. PARR (ACTUAL, short $80C to 10/16) unchanged. Confirm on MOFCOM/NDRC quota news. → menu/2026-10-09.md.
+- **🔴 (d) ADDED + FIRED 2026-10-09 ~11:48am PT (REPORTED):** Trump–Putin Russian diesel deal (300k t now, 500k t Nov, 1M t after, 3M t 'based on the condition of their refineries'; US purchases authorized to 4/7/2027). Heating oil −2.7%, PARR −6.0%, VLO −2.2%, DINO flat. Physical volume capped by refinery damage (`oil-value-chain:L2980`); the slower, real version is an energy truce. → [[oil-value-chain]] 10/9 12:45pm.
 - **Status:** LIVE
 
 ### 🧩 THE INTEGRATION SEAT — NOW (Jake's layer-4 thesis) · DDOG · NET
