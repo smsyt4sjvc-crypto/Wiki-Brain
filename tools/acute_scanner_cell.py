@@ -311,6 +311,14 @@ THREADS = {
                'corridor','flag state','insurance premium',
                'venezuela','pdvsa','chevron','merey','heavy sour','heavy crude','guyana',
                'gulf coast','official selling price','crude import','import license',
+               # gap 2026-10-09 (Jake's squawk '*US GULF SHUTS IN 1.3 BCF/D OR 59% GAS PRODUCTION: MMA'):
+               # NO THREAD MATCHED although oil-value-chain held three days of Isaias shut-in entries
+               # (10/7 25.08%, 10/8 62.89%). The map had the war-side supply words and none of the
+               # WEATHER/OFFSHORE vocabulary or the gas measures. MMA = Marine Minerals Administration
+               # (BOEM+BSEE reunified 2026-07-10), the agency that publishes the shut-in table.
+               'shut in','shut-in','shuts in','marine minerals','mma','bsee','hurricane','tropical storm',
+               'offshore production','platforms evacuated','gulf of america','gulf of mexico',
+               'bcf/d','bcfd','mmcf','henry hub','natural gas futures','storage build','feedgas',
                # gap #20 (2026-08-23): THE ADVERSARY'S DOMESTIC ECONOMY. A paste on Iran importing
                # FROZEN MEAT to cap meat prices routed WAR/OIL(1)* -- a single weak keyword -- and
                # the sweep flagged a vocabulary gap. The board has tracked 131 days of blockade from
