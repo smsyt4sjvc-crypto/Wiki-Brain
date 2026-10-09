@@ -456,7 +456,10 @@ THREADS = {
                'inflation expectations','sentiment index','expectations index','current conditions'],
  'FX/CARRY':  ['yen','jpy','usd/jpy','usdjpy','boj','bank of japan','carry trade','repatriation',
                'currency intervention','fx intervention','fx reserves','ministry of finance',
-               'dxy','dollar index','ueda','mof','kanda','jgb','japan sold','tic shows'],
+               'dxy','dollar index','ueda','mof','kanda','jgb','japan sold','tic shows',
+               # gap 2026-10-09: the dollar's direction words (Saravelos: "dollar negative")
+               'dollar negative','dollar-negative','dollar positive','sell america','fx hedge','hedge ratio',
+               'eurusd','eur/usd','saravelos'],
  'AI-POLICY': [
                # gap #24, 8/13: "regulatory depreciation / MW-per-token efficiency standards" matched
                # SEMIS(2) and nothing on the POLICY axis, while the vault had ZERO coverage of
@@ -560,7 +563,15 @@ THREADS = {
               'redemption','gated','nav','mark to market','leverage ratio','covenant','downgrade',
               'outlook change','fallen angel','ig index','mandate','forced selling','spv','abs',
               'securitis','securitiz','residual value','rvg','guarantee','first loss','offtake',
-              'vendor financing','circular','dilution','equity offering','shelf','atm offering'],
+              'vendor financing','circular','dilution','equity offering','shelf','atm offering',
+              # gap 2026-10-09 (Saravelos/DB: "biggest systemic risk... something going wrong in the AI
+              # ecosystem: a safety event, a failed IPO, or disappointing revenues... concentration risk
+              # is immense... dollar negative, very bond positive"): NO THREAD MATCHED although the vault
+              # filed a failed IPO (Firmus) and a revenue miss (OpenAI ~$50B) the day before. The map had
+              # the deal-plumbing words and none of the RISK-NARRATIVE vocabulary sell-side strategists use.
+              'systemic risk','concentration risk','event risk','tail risk','failed ipo','ipo window',
+              'safety event','under-priced','underpriced','disappointing revenue','ai ecosystem',
+              'saravelos','deutsche bank'],
 
  'SCREEN-METHOD':['backtest','back-test','point-in-time','point in time','look-ahead',
                   'lookahead','look ahead bias','survivorship','survivorship bias',
