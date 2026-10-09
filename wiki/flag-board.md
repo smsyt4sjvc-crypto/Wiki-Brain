@@ -178,6 +178,7 @@ from the vault's conditions, not from the tape.**
 - **Read it on:** FERC order · PJM filing.
 - **Pointer:** [[buildout-bottleneck-map]] 9/30 ⚡ PJM entry.
 - **Texas leg (added 2026-10-08):** 🔴 TCEQ's Oct 19 update extends the freeze, or ERCOT's Dec 10 audit narrows eligibility ⇒ VST's Texas data-center contracting slips into 2027 · 🟢 the freeze lifts on pay-your-own-way terms ⇒ the Texas queue restarts (behind-the-meter gear first: GEV / CAT / BE). → [[buildout-bottleneck-map]] 10/8 7:40pm.
+- **10/9 note:** DOE is pressing PJM on ratepayer protections from large-load costs (Utility Dive 10/8). The pressure runs toward data centers paying more and grid-first curtailment, the IRAS direction. FERC's ruling by 10/12 is still the test.
 - **Status:** LIVE (watch only)
 
 ### 🍉 META — Watermelon + Q3 (the cheapest options in the vault's table)
