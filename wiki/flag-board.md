@@ -198,5 +198,15 @@ from the vault's conditions, not from the tape.**
 - **Pointer:** [[rates-board]] (capex-guidance → long-end channel) · chat-log 10/2 ~9:00am (GS capex).
 - **Status:** LIVE (window)
 
+### 📱 AGENT DEVICE — SPCX · TSLA (vs AAPL · GOOGL · QCOM) — Jake's hardware watch (set 2026-10-08 ~6:40pm)
+- **Lean:** — (watch only; NR as a grade until a device has a date)
+- **Watching:** a handheld that runs on SpaceX's stack — Grok as the interface, SpaceX's rented compute behind it, Starlink Mobile as the radio — and syncs with the car (Grok Bot + Connectors already run in Teslas since 9/22). Device silicon would be Tesla's own (AI5 at Samsung's Texas fab, trial production 9/17; Terafab later), NOT Nvidia: Nvidia makes no phone chip (its smallest is the N1X laptop chip with MediaTek). The ~$40B Nvidia purchase (REPORTED loan talks, not filed) is cloud GPUs for Colossus.
+- **🟢 IF:** SpaceX or Tesla names a device (any form factor) with its own cellular/Starlink link and Grok as the OS, with a date — confirmed on a primary (SpaceX CMS updates feed, an 8-K, or an earnings call) ⇒ SPCX BULL; AAPL / GOOGL BEAR (the app-store and search tolls); QCOM BEAR; Samsung foundry BULL (AI5/AI6).
+- **🔴 IF:** both Q3 calls pass with no device and the Starlink Mobile date slips past end-2027 ⇒ the watch waits. Separate 🔴 for SPCX's backend: Google's GPU-delivery grace ends ~10/31 (terminate or pro-rate) and its 90-day exit right opens 12/31.
+- **When:** Tesla Q3 results + call **Wed 10/21, 2:30pm PT** (8-K) · SpaceX Q3 call (date ⬜) · Meta Muse Charm in December (the first rival specimen).
+- **Read it on:** SpaceX `content.spacex.com/api/spacex-website/updates` · EDGAR 8-Ks (SpaceX CIK 1181412, Tesla CIK 1318605) · the calls.
+- **Pointer:** [[compression-thesis]] 9/23 + 10/8 6:25–6:40pm · [[ai-capex-cycle]] 10/8 6:25pm (the compute contracts) · `raw/2026-10-08-agent-device-hardware-checks.md`.
+- **Status:** LIVE (watch)
+
 ## Links
 [[forest]] · [[money-board]] · `menu/` · [[portfolio-state]] · [[retail-edge]] (bracket tests 7/15 + 10/2)
