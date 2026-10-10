@@ -40,6 +40,7 @@ from the vault's conditions, not from the tape.**
 - **🔴 (a) FIRED 2026-10-09 (REPORTED):** Reuters 10/8 8:28pm PT, four trade sources: China to resume October fuel exports after its holiday pause (traders est. ~3.7M tonnes, per the other tool). The DINO pick exited at the open (120.00, +2.21%) by its rule. PARR (ACTUAL, short $80C to 10/16) unchanged. Confirm on MOFCOM/NDRC quota news. → menu/2026-10-09.md.
 - **🔴 (d) ADDED + FIRED 2026-10-09 ~11:48am PT (REPORTED):** Trump–Putin Russian diesel deal (300k t now, 500k t Nov, 1M t after, 3M t 'based on the condition of their refineries'; US purchases authorized to 4/7/2027). Heating oil −2.7%, PARR −6.0%, VLO −2.2%, DINO flat. Physical volume capped by refinery damage (`oil-value-chain:L2980`); the slower, real version is an energy truce. → [[oil-value-chain]] 10/9 12:45pm.
 - **↳ 10/10 ~11:10am:** OFAC GL 135 verified (primary; US imports authorized to 4/7/2027; EU/UK sanctions unchanged). Novak's ceiling is **3 Mt PER MONTH (~0.74 mb/d)** once refineries recover, not a one-off 3 Mt, so the bear case is bigger IF the strikes stop. Kyiv's answer: "we will burn refineries" (FT), and the Yug Rusi export terminal in Rostov burned overnight (governor-confirmed fire). ⇒ the 🔴 stays live but unrealised: the deciding input is a truce, and there is none. Marks net flat on 10/10 (BEAR 0.5 coercion, BULL 0.5 refusal). → [[oil-value-chain]] 10/10 11:10am.
+- **↳ 10/10 ~11:25am — a 🟢 for the INLAND names, measured:** Brent–WTI (December) widened **$8.82 (9/28) → $13.71 (10/9)** as record freight shut the US→Asia crude trade (Reuters: $80M/VLCC ≈ $40/bbl). US refiners buy WTI-priced crude and sell at global prices. DINO BULL 1 · VLO/MPC/PSX BULL 0.5 · PARR mixed (Hawaii imports crude by ship). Already partly priced (DINO +14%, MPC +17% since 9/28). 🔴 spread back under $10 = freight easing. → [[oil-value-chain]] 10/10 11:25am.
 - **Status:** LIVE
 
 ### 🧩 THE INTEGRATION SEAT — NOW (Jake's layer-4 thesis) · DDOG · NET
@@ -73,6 +74,7 @@ from the vault's conditions, not from the tape.**
 - **⚠️ Grading note (10/2):** UKMTO keeps issuing "time-late" reports (gCaptain Dispatch 120) — a weekend strike can surface days later ⇒ grade the weekend call provisionally at the reopen, finally ~Wed 10/7.
 - **Read it on:** UKMTO advisories · CENTCOM · Brent December vs Friday settle at the reopen.
 - **Pointer:** [[war/war-board]] 10/1 12:40pm 🚢 + 10/2 addendum · [[forest]] ⚡ Fujairah + post-midterm window.
+- **↳ 10/10 ~11:25am:** the Bloomberg Gulf→Asia route index set a record on 10/9 (China 0.918M, Japan 0.915M, India 1.068M; $/day, unit ⬜), but BWET fell 1.4% to 998.3 and DHT fell 1.2% that day. The record is killing the longest voyage (US Gulf→Asia arb shut, Reuters 10/9), which frees ships within one to two months. That is why the futures are not confirming. No new mark; re-entry trigger unchanged (BWET above 1,041.8). → [[oil-value-chain]] 10/10 11:25am.
 - **Status:** LIVE
 
 ### 🏠 HOMEBUILDERS / LONG BONDS / SMALL CAPS — LEN · DHI · TLT · IWM · (ACTUAL: SPY 745 put Dec-18)
