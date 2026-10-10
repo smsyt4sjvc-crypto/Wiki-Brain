@@ -461,3 +461,5 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-10,PSX,bull,0.5,BNO,Brent-WTI widening,wiki/money-board.md 10/10 11:25am
 2026-10-10,NBIS,bull,0.5,SPY,FT: Nvidia-Reflection talks,wiki/money-board.md 10/10 11:30am
 2026-10-10,SPCX,bull,0.5,SPY,FT: Nvidia-Reflection talks,wiki/money-board.md 10/10 11:30am
+2026-10-10,ANFGF,bear,1,SPY,Centinela first-ever strike; Nov output could halve (confirmed strike),wiki/new-economy-regime.md 10/10 3:10pm
+2026-10-10,FCX,bull,0.5,SPY,"LME stocks 249k->233k, backwardated near record + rival supply hit",wiki/new-economy-regime.md 10/10 3:10pm
