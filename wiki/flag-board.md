@@ -151,6 +151,7 @@ from the vault's conditions, not from the tape.**
 - **When:** 2026-11-01 → 2026-11-15 (CRWV Q3 10-Q: DDTL 5.0 amortisation began Nov-2026, first instalment + drawn balance; 393/355 MW delivery vs schedule) · Dec-2026 (DDTL 5.5 draw window closes; OEM repayments start) · 2027 ($6.2B principal) — [[ai-financing-fragility]] 10/4 🗓️ · the raise itself still undated
 - **Read it on:** term sheets · `tools/icc_cds.py`.
 - **Pointer:** [[ai-financing-fragility]] 10/1 ⚖️ (co-signed raise test, Jake's thesis) · [[forest]] ⚡ co-signed raise test · [[hyperscaler-credit]].
+- **↳ 10/10 ~11:30am:** FT: Nvidia in talks to ACQUIRE OR DEEPEN ITS INVESTMENT in Reflection AI (>$7B of SpaceX + Nebius GB300 commitments through 2029; $25B pre-money). That makes two US open-weight labs Nvidia has moved to absorb (Poolside 8/22). The vendor taking on its customer's compute bills is the 🔴 direction in a new form, but these are talks, not a raise failing, so the flag does NOT fire. → [[reflection-ai]] 10/10.
 - **Status:** LIVE
 
 ### 🛩️ LTRX — Lantronix (drone compute supplier) · (mirror: SWMR, a listed customer)
