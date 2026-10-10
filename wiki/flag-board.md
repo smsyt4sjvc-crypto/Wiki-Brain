@@ -168,6 +168,7 @@ from the vault's conditions, not from the tape.**
 - **When:** launch TBA — CME's revised notice drops the 10/5 date (Jake, 10/4); CFTC review extended 9/21 ("Approval Pending (90)") ⇒ a decision ~early-mid November (start date ⬜) · first week of trading
 - **Read it on:** CME/NYMEX settlements + open interest · Silicon Data index.
 - **Pointer:** [[metered-compute]] 9/15 + 10/4 🧮 · [[ai-financing-fragility]] 9/23 (vintage split).
+- **10/9 ~7:10pm (WSJ, full text):** H100 1-year rentals +60% y/y (SemiAnalysis; a term rate, not the index) · clouds demand multiyear deals with up to 30% upfront, sometimes guarantors · over-contracting as a hedge, and startups RESELLING leftover capacity = the double-ordering tell. The resale supply hits this index first → [[ai-capex-cycle]] 10/9 7:10pm.
 - **10/9 note:** Multicoin publishes the investment case for compute futures, financing and capacity-transfer markets (via TLDR). Class 8: an investor in the theme. Its point cuts both ways: hedgeable compute makes contracted capacity look normal, AND transparent prices make inflated rental economics harder to hide.
 - **Status:** LIVE
 
