@@ -461,4 +461,3 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-10,PSX,bull,0.5,BNO,Brent-WTI widening,wiki/money-board.md 10/10 11:25am
 2026-10-10,NBIS,bull,0.5,SPY,FT: Nvidia-Reflection talks,wiki/money-board.md 10/10 11:30am
 2026-10-10,SPCX,bull,0.5,SPY,FT: Nvidia-Reflection talks,wiki/money-board.md 10/10 11:30am
-2026-10-10,SPCX,bear,0.5,SPY,GS: SpaceX hosting deals 90-day cancellable under ~$40B SPV (reported),wiki/ai-financing-fragility.md 10/10 3:00pm
