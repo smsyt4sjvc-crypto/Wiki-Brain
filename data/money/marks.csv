@@ -461,5 +461,15 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-10,PSX,bull,0.5,BNO,Brent-WTI widening,wiki/money-board.md 10/10 11:25am
 2026-10-10,NBIS,bull,0.5,SPY,FT: Nvidia-Reflection talks,wiki/money-board.md 10/10 11:30am
 2026-10-10,SPCX,bull,0.5,SPY,FT: Nvidia-Reflection talks,wiki/money-board.md 10/10 11:30am
-2026-10-10,ANFGF,bear,1,SPY,Centinela first-ever strike; Nov output could halve (confirmed strike),wiki/new-economy-regime.md 10/10 3:10pm
-2026-10-10,FCX,bull,0.5,SPY,"LME stocks 249k->233k, backwardated near record + rival supply hit",wiki/new-economy-regime.md 10/10 3:10pm
+2026-10-10,ANFGF,bear,1,COPX,Centinela first-ever strike; Nov output could halve (confirmed strike),wiki/new-economy-regime.md 10/10 3:10pm
+2026-10-10,FCX,bull,0.5,COPX,"LME stocks 249k->233k, backwardated near record + rival supply hit",wiki/new-economy-regime.md 10/10 3:10pm
+2026-10-02,FCX,bull,1,COPX,Q3 operational update (8-K 10/2): Cu ~830M lb vs GS 814M; Grasberg Block Cave 70k t/d vs GS 62k; Grasberg 67% of pre-incident; PTFI smelter restarted,wiki/new-economy-regime.md 10/10 ~3:25pm
+2026-10-10,SCCO,bull,0.5,COPX,"LME stocks 249k->233k, backwardated near record (10/10 3:10pm sector input, extended to all producers)",wiki/new-economy-regime.md 10/10 ~3:25pm
+2026-10-10,TECK,bull,0.5,COPX,"LME stocks 249k->233k, backwardated near record (10/10 3:10pm sector input, extended to all producers)",wiki/new-economy-regime.md 10/10 ~3:25pm
+2026-10-10,HBM,bull,0.5,COPX,"LME stocks 249k->233k, backwardated near record (10/10 3:10pm sector input, extended to all producers)",wiki/new-economy-regime.md 10/10 ~3:25pm
+2026-10-10,FQVLF,bull,0.5,COPX,"LME stocks 249k->233k, backwardated near record (10/10 3:10pm sector input, extended to all producers)",wiki/new-economy-regime.md 10/10 ~3:25pm
+2026-10-10,ANFGF,bull,0.5,COPX,"LME stocks 249k->233k, backwardated near record (10/10 3:10pm sector input, extended to all producers)",wiki/new-economy-regime.md 10/10 ~3:25pm
+2026-10-10,COPX,bull,0.5,COPX,"LME stocks 249k->233k, backwardated near record (10/10 3:10pm sector input, extended to all producers)",wiki/new-economy-regime.md 10/10 ~3:25pm
+2026-10-05,TECK,bear,0.5,COPX,"trading ~2.8-3.6% ABOVE its Anglo merger terms (1.3301 AAL + ~US$4.19 special dividend; reported calc): completion pays less than the price; China SAMR asking behavioural remedies, close by Mar-2027",wiki/new-economy-regime.md 10/10 ~3:25pm
+2026-09-30,FQVLF,flat,1,COPX,"Panama commission: negotiate a restart to fund an orderly closure at no cost to the state, settle ~$27B arbitration, no contract extension; Mulino undecided (shares -31% intraday, -15% close)",wiki/new-economy-regime.md 10/10 ~3:25pm
+2026-09-28,HBM,bull,1,COPX,"Snow Lake reserve life extended to 2043 (18 yrs), gold production +60% in the new mine plan (company release)",wiki/new-economy-regime.md 10/10 ~3:25pm
