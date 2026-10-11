@@ -483,3 +483,6 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-11,DK,bear,0.5,BNO,Trump announces RU-UA energy ceasefire (Kyiv offered; Kremlin silent),wiki/oil-value-chain.md 10/11 8:10am
 2026-10-11,PARR,bear,0.5,BNO,Trump announces RU-UA energy ceasefire (Kyiv offered; Kremlin silent),wiki/oil-value-chain.md 10/11 8:10am
 2026-10-11,UAL,bull,0.5,BNO,RU-UA energy ceasefire announced (jet fuel),wiki/oil-value-chain.md 10/11 8:10am
+2026-10-11,DHT,bull,1,BWET,"UKMTO confirms 2 weekend tanker strikes in Hormuz (IRGC: unauthorized/dark routes)",wiki/war/war-board.md 10/11 11:10am
+2026-10-11,FRO,bull,1,BWET,"UKMTO confirms 2 weekend tanker strikes in Hormuz (IRGC: unauthorized/dark routes)",wiki/war/war-board.md 10/11 11:10am
+2026-10-11,UAL,bear,0.5,BNO,Hormuz tanker strikes (crude/jet fuel),wiki/war/war-board.md 10/11 11:10am

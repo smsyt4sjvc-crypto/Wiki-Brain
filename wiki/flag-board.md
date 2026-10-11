@@ -76,6 +76,7 @@ from the vault's conditions, not from the tape.**
 - **Read it on:** UKMTO advisories · CENTCOM · Brent December vs Friday settle at the reopen.
 - **Pointer:** [[war/war-board]] 10/1 12:40pm 🚢 + 10/2 addendum · [[forest]] ⚡ Fujairah + post-midterm window.
 - **↳ 10/10 ~11:25am:** the Bloomberg Gulf→Asia route index set a record on 10/9 (China 0.918M, Japan 0.915M, India 1.068M; $/day, unit ⬜), but BWET fell 1.4% to 998.3 and DHT fell 1.2% that day. The record is killing the longest voyage (US Gulf→Asia arb shut, Reuters 10/9), which frees ships within one to two months. That is why the futures are not confirming. No new mark; re-entry trigger unchanged (BWET above 1,041.8). → [[oil-value-chain]] 10/10 11:25am.
+- **🔥 10/11 ~11:10am — UKMTO confirms two outbound tankers hit by projectiles this weekend (Sat fire, Sun damage) after GEM NO.2 was hit at anchor off the UAE Friday; the IRGC claims them as enforcement against ships running dark on unauthorized routes, i.e. the US-escorted Omani-side workaround. DHT/FRO BULL 1 · UAL BEAR 0.5. Tell: Brent Dec at the 3pm PT reopen vs $106 (the UAL skip rule) · BWET Monday ([[war-board]] 10/11 11:10am).**
 - **Status:** LIVE
 
 ### 🏠 HOMEBUILDERS / LONG BONDS / SMALL CAPS — LEN · DHI · TLT · IWM · (ACTUAL: SPY 745 put Dec-18)
