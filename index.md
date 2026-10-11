@@ -66,6 +66,7 @@ so a March entry lands on an August paste. The router prints the path on every m
 - [[metered-compute]] — Jake's structural-demand thesis (geometric agentic token consumption = the DEMAND side; shortage-not-glut) + the settlement toll
 - [[content-toll]] — the crawler unbundling: content becoming a PRICED AI input (Google Zero, Cloudflare 9/15, the search/training bundle as the source of leverage)
 - [[agentic-payments]] — the AI payment layer (x402/MPP; own the stablecoin float + COIN toll, not the alt coins)
+- [[ai-money-map]] — ⭐ **the AI rollout's money in/out by layer** (end users → labs → clouds/neoclouds → chip makers → power; lenders underneath): who is paid in cash now, who carries the bill, the scale gap, the dated tests (opened 2026-10-10)
 - [[ai-infra-allocation-map]] — the names, sorted
 - [[buildout-bottleneck-map]] — the next unrepriced layer
 - [[cepi]] — Capex → Earnings → Price Intensity
