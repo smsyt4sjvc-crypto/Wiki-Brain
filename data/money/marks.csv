@@ -473,3 +473,5 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-05,TECK,bear,0.5,COPX,"trading ~2.8-3.6% ABOVE its Anglo merger terms (1.3301 AAL + ~US$4.19 special dividend; reported calc): completion pays less than the price; China SAMR asking behavioural remedies, close by Mar-2027",wiki/new-economy-regime.md 10/10 ~3:25pm
 2026-09-30,FQVLF,flat,1,COPX,"Panama commission: negotiate a restart to fund an orderly closure at no cost to the state, settle ~$27B arbitration, no contract extension; Mulino undecided (shares -31% intraday, -15% close)",wiki/new-economy-regime.md 10/10 ~3:25pm
 2026-09-28,HBM,bull,1,COPX,"Snow Lake reserve life extended to 2043 (18 yrs), gold production +60% in the new mine plan (company release)",wiki/new-economy-regime.md 10/10 ~3:25pm
+2026-10-10,GOOGL,bear,0.5,SPY,Jefferies est.: OpenAI+Anthropic ~45% of GCP 2Q26 (reported estimate; concentration on externally funded customers),wiki/ai-financing-fragility.md 10/10 6:40pm
+2026-10-10,AMZN,flat,0.5,SPY,"Jefferies est.: two labs ~6% of AWS 2Q26 -> 12-18% 3Q26E (growth now, concentration later)",wiki/ai-financing-fragility.md 10/10 6:40pm
