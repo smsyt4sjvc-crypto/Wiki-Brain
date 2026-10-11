@@ -1,6 +1,6 @@
 # ⏱ VOL — merged timeline (the gate)
 
-> **186 dated entries across 4 notes · 2026-07-01 → 2026-10-06 · refreshed 2026-10-10 22:30 PDT**
+> **187 dated entries across 4 notes · 2026-07-01 → 2026-10-11 · refreshed 2026-10-11 06:55 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -208,3 +208,4 @@
 
 - `2026-10-02` [portfolio-state.md:L1104](../portfolio-state.md) — 2026-10-02 ~8:15am PDT — 📌 **ACTUAL BOOK (Jake's direct disclosure, 10/2 ~8:05am): "I'm still mostly in my SPY put and PARR covered call." THE DHT/UAL
 - `2026-10-06` [market-fragility.md:L4753](../market-fragility.md) — 2026-10-06 ~12:10pm PDT (filed under rule 22c) — 🏢 **OFFICE CMBS DELINQUENCY 12.2%, ABOVE THE FINANCIAL-CRISIS PEAK — AND THE BIGGEST NEW DEFAULT IS A
+- `2026-10-11` [market-fragility.md:L4791](../market-fragility.md) — 2026-10-11 ~7:00am PDT (filed under rule 22c) — 📉 **ROBERTS: "THE EQUITY RISK PREMIUM HAS VANISHED." CHECKED: TRUE AGAINST THE NOMINAL 10-YEAR (−1.5 T

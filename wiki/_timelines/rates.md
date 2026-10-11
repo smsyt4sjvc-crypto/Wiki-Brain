@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **489 dated entries across 3 notes · 2026-02-10 → 2026-10-06 · refreshed 2026-10-10 22:30 PDT**
+> **490 dated entries across 3 notes · 2026-02-10 → 2026-10-11 · refreshed 2026-10-11 06:55 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -517,3 +517,4 @@
 - `2026-10-05` [rates-board.md:L3854](../rates-board.md) — 2026-10-05 close (~1:45pm PDT, filed under rule 22c) — 📉 **TEST SIX: A SOFT ISM HEADLINE AND A WEAK-JOBS HANGOVER, AND THE LONG END ROSE 3bp ANYWAY — 
 - `2026-10-06` [market-fragility.md:L4753](../market-fragility.md) — 2026-10-06 ~12:10pm PDT (filed under rule 22c) — 🏢 **OFFICE CMBS DELINQUENCY 12.2%, ABOVE THE FINANCIAL-CRISIS PEAK — AND THE BIGGEST NEW DEFAULT IS A
 - `2026-10-06` [rates-board.md:L3875](../rates-board.md) — 2026-10-06 close (~1:45pm PDT), filed under rule 22c — 📉 **DURATION RELIEF, ALL OF IT REAL: 10Y −4bp TO 5.27, EVERY BASIS POINT A REAL-YIELD MOVE, BRE
+- `2026-10-11` [market-fragility.md:L4791](../market-fragility.md) — 2026-10-11 ~7:00am PDT (filed under rule 22c) — 📉 **ROBERTS: "THE EQUITY RISK PREMIUM HAS VANISHED." CHECKED: TRUE AGAINST THE NOMINAL 10-YEAR (−1.5 T
