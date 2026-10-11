@@ -477,3 +477,9 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-10,AMZN,flat,0.5,SPY,"Jefferies est.: two labs ~6% of AWS 2Q26 -> 12-18% 3Q26E (growth now, concentration later)",wiki/ai-financing-fragility.md 10/10 6:40pm
 2026-10-10,2513.HK,flat,0.5,SOXX,"OpenRouter top-9 chart: Chinese ~76T vs US ~14T, but ~14T was a free stealth model; Z.AI -29.8% in a month (initialised: volume without measured revenue)",wiki/metered-compute.md 10/10 8:40pm
 2026-10-10,0100.HK,flat,0.5,SOXX,"OpenRouter top-9 chart: free stealth Space Bunny (~13.9T, MiniMax by tokenizer test, unconfirmed); MiniMax -33.6% in a month (initialised)",wiki/metered-compute.md 10/10 8:40pm
+2026-10-11,VLO,bear,0.5,BNO,Trump announces RU-UA energy ceasefire (Kyiv offered; Kremlin silent),wiki/oil-value-chain.md 10/11 8:10am
+2026-10-11,MPC,bear,0.5,BNO,Trump announces RU-UA energy ceasefire (Kyiv offered; Kremlin silent),wiki/oil-value-chain.md 10/11 8:10am
+2026-10-11,PSX,bear,0.5,BNO,Trump announces RU-UA energy ceasefire (Kyiv offered; Kremlin silent),wiki/oil-value-chain.md 10/11 8:10am
+2026-10-11,DK,bear,0.5,BNO,Trump announces RU-UA energy ceasefire (Kyiv offered; Kremlin silent),wiki/oil-value-chain.md 10/11 8:10am
+2026-10-11,PARR,bear,0.5,BNO,Trump announces RU-UA energy ceasefire (Kyiv offered; Kremlin silent),wiki/oil-value-chain.md 10/11 8:10am
+2026-10-11,UAL,bull,0.5,BNO,RU-UA energy ceasefire announced (jet fuel),wiki/oil-value-chain.md 10/11 8:10am
