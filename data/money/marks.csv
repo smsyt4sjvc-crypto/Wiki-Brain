@@ -500,3 +500,4 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-11,DK,bear,0.5,BNO,FT: US threatens to block arms for Ukraine over refinery attacks,wiki/oil-value-chain.md 10/11 12:40pm
 2026-10-11,PARR,bear,0.5,BNO,FT: US threatens to block arms for Ukraine over refinery attacks,wiki/oil-value-chain.md 10/11 12:40pm
 2026-10-11,UAL,bull,0.5,BNO,FT: US arms threat on Kyiv refinery strikes (jet fuel),wiki/oil-value-chain.md 10/11 12:40pm
+2026-10-11,ORCL,bear,0.5,SPY,"Tencent lease ~$1.60/GPU-hr for 5 yrs (40-79% below Ornn spot by chip class; reported), sold for upfront cash",wiki/hyperscaler-credit.md 10/11 1:05pm
