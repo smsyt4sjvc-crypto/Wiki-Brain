@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **476 dated entries across 3 notes · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 19:41 PDT**
+> **489 dated entries across 3 notes · 2026-02-10 → 2026-10-06 · refreshed 2026-10-10 20:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -146,44 +146,44 @@
 - `2026-07-30` [market-fragility.md:L1933](../market-fragility.md) — 2026-07-30 ~11:15am ET — THE KOREA SYMMETRY: not cross-contamination, SHARED CROWDING — and it is a better version of the circularity thesis
 - `2026-07-30` [new-economy-regime.md:L1680](../new-economy-regime.md) — 2026-07-30 ~8:30am ET — JUNE PCE: core soft by a rounding step, y/y EXACTLY in line — and the non-obvious read is that a SOFT print is BAD for the lon
 - `2026-07-30` [new-economy-regime.md:L1712](../new-economy-regime.md) — 2026-07-30 ~8:35am ET — THE FULL 8:30 SET: this is a SLOWDOWN, not stagflation — and the number that matters is not in the release
-- `2026-07-30` [new-economy-regime.md:L1754](../new-economy-regime.md) — 2026-07-30 ~8:45am ET — ⛔ CORRECTION: CORE PCE WAS **−0.1%**, NOT +0.1% (Jake's catch) — and the likely mechanical cause is not disinflation at all
-- `2026-07-30` [new-economy-regime.md:L1789](../new-economy-regime.md) — 2026-07-30 ~8:55am ET — ⛔⛔ THE PREVIOUS ENTRY IS SUPERSEDED AND WRONG: core PCE WAS +0.1%. I accepted a bad correction without checking the source in 
-- `2026-07-30` [new-economy-regime.md:L1825](../new-economy-regime.md) — 2026-07-30 ~9:05am ET — ⚠️ A REAL ALTERNATIVE TO MY OWN 30Y CALL: the long end may be FORWARD-looking, not credibility-driven
-- `2026-07-30` [new-economy-regime.md:L1846](../new-economy-regime.md) — 2026-07-30 ~9:30am ET — "WHAT HAPPENS WHEN THE 30Y GOES ABOVE 5%?" (Jake) — the question cannot be answered as posed, and the reason is the vault's ow
-- `2026-07-30` [new-economy-regime.md:L1879](../new-economy-regime.md) — 2026-07-30 ~9:00am ET — 20s30s IS INVERTED (Jake's screen, Jul-30 8:58am ET) — but it is a CONVEXITY signal, not a growth signal, and his own screensh
-- `2026-07-30` [new-economy-regime.md:L1922](../new-economy-regime.md) — 2026-07-30 ~9:45am ET — ★★★ THE 30Y STUDY RAN: speed is the real variable, and PANEL D INVERTS WHAT I IMPLIED
-- `2026-07-30` [new-economy-regime.md:L1978](../new-economy-regime.md) — 2026-07-30 ~4:35pm PT — ⛔ BACKFILL: "S&P LOWERS RATINGS ON 21 IA SCHOOL DISTRICTS" — answered in chat, NEVER FILED
-- `2026-07-30` [new-economy-regime.md:L2022](../new-economy-regime.md) — 2026-07-30 ~4:50pm PT — "SEEMS INFLATIONARY" (Jake, on the Graham Act) — yes, and it is the WRONG KIND
-- `2026-07-30` [new-economy-regime.md:L2054](../new-economy-regime.md) — 2026-07-30 ~4:55pm PT — ★★ THE US-DOMESTIC INFLATION CHAIN, which is what Jake was actually asking about
+- `2026-07-30` [new-economy-regime.md:L1755](../new-economy-regime.md) — 2026-07-30 ~8:45am ET — ⛔ CORRECTION: CORE PCE WAS **−0.1%**, NOT +0.1% (Jake's catch) — and the likely mechanical cause is not disinflation at all
+- `2026-07-30` [new-economy-regime.md:L1790](../new-economy-regime.md) — 2026-07-30 ~8:55am ET — ⛔⛔ THE PREVIOUS ENTRY IS SUPERSEDED AND WRONG: core PCE WAS +0.1%. I accepted a bad correction without checking the source in 
+- `2026-07-30` [new-economy-regime.md:L1826](../new-economy-regime.md) — 2026-07-30 ~9:05am ET — ⚠️ A REAL ALTERNATIVE TO MY OWN 30Y CALL: the long end may be FORWARD-looking, not credibility-driven
+- `2026-07-30` [new-economy-regime.md:L1847](../new-economy-regime.md) — 2026-07-30 ~9:30am ET — "WHAT HAPPENS WHEN THE 30Y GOES ABOVE 5%?" (Jake) — the question cannot be answered as posed, and the reason is the vault's ow
+- `2026-07-30` [new-economy-regime.md:L1880](../new-economy-regime.md) — 2026-07-30 ~9:00am ET — 20s30s IS INVERTED (Jake's screen, Jul-30 8:58am ET) — but it is a CONVEXITY signal, not a growth signal, and his own screensh
+- `2026-07-30` [new-economy-regime.md:L1923](../new-economy-regime.md) — 2026-07-30 ~9:45am ET — ★★★ THE 30Y STUDY RAN: speed is the real variable, and PANEL D INVERTS WHAT I IMPLIED
+- `2026-07-30` [new-economy-regime.md:L1979](../new-economy-regime.md) — 2026-07-30 ~4:35pm PT — ⛔ BACKFILL: "S&P LOWERS RATINGS ON 21 IA SCHOOL DISTRICTS" — answered in chat, NEVER FILED
+- `2026-07-30` [new-economy-regime.md:L2023](../new-economy-regime.md) — 2026-07-30 ~4:50pm PT — "SEEMS INFLATIONARY" (Jake, on the Graham Act) — yes, and it is the WRONG KIND
+- `2026-07-30` [new-economy-regime.md:L2055](../new-economy-regime.md) — 2026-07-30 ~4:55pm PT — ★★ THE US-DOMESTIC INFLATION CHAIN, which is what Jake was actually asking about
 - `2026-07-31` [market-fragility.md:L1961](../market-fragility.md) — 2026-07-31 9:48am PDT — ⛔ THE TOOLS DISAGREE ON THE BASE. The "violent rotation" is mostly an ARTIFACT.
 - `2026-07-31` [market-fragility.md:L2018](../market-fragility.md) — 2026-07-31 ~10:10am PDT — ⛔ CORRECTION TO THE ENTRY ABOVE: Jake named the convention, and I OVER-CORRECTED
-- `2026-07-31` [new-economy-regime.md:L2070](../new-economy-regime.md) — 2026-07-31 ~7:12pm PDT — ★★ A FOURTH FED VOICE FOR HIKES: MUSALEM (St. Louis) TO THE FT
-- `2026-07-31` [new-economy-regime.md:L2131](../new-economy-regime.md) — 2026-07-31 ~10:13pm PDT — M2 CHART (Jake) × THE ABSENT-FED QUESTION: ⛔ HE WAS RIGHT AND I ANSWERED THE WEAKER VERSION
+- `2026-07-31` [new-economy-regime.md:L2071](../new-economy-regime.md) — 2026-07-31 ~7:12pm PDT — ★★ A FOURTH FED VOICE FOR HIKES: MUSALEM (St. Louis) TO THE FT
+- `2026-07-31` [new-economy-regime.md:L2132](../new-economy-regime.md) — 2026-07-31 ~10:13pm PDT — M2 CHART (Jake) × THE ABSENT-FED QUESTION: ⛔ HE WAS RIGHT AND I ANSWERED THE WEAKER VERSION
 
 ## 2026-08
 
-- `2026-08-01` [new-economy-regime.md:L2107](../new-economy-regime.md) — 2026-08-01 ~04:56 UTC — ⚠️ WARSH WEIGHING FEWER FOMC MEETINGS: this hits MY OWN KILL SWITCH
-- `2026-08-01` [new-economy-regime.md:L2187](../new-economy-regime.md) — 2026-08-01 ~11:15pm PDT — ★★★ NY FED DESK SCHEDULE: THE FED *IS* BUYING (I WAS WRONG) — AND THE TAPER IS THE BEST FED OBSERVABLE IN THIS VAULT
-- `2026-08-01` [new-economy-regime.md:L2241](../new-economy-regime.md) — ★★★ KILL SWITCH — REPLACES BOTH FAILED ONES (registered 2026-08-01)
+- `2026-08-01` [new-economy-regime.md:L2108](../new-economy-regime.md) — 2026-08-01 ~04:56 UTC — ⚠️ WARSH WEIGHING FEWER FOMC MEETINGS: this hits MY OWN KILL SWITCH
+- `2026-08-01` [new-economy-regime.md:L2188](../new-economy-regime.md) — 2026-08-01 ~11:15pm PDT — ★★★ NY FED DESK SCHEDULE: THE FED *IS* BUYING (I WAS WRONG) — AND THE TAPER IS THE BEST FED OBSERVABLE IN THIS VAULT
+- `2026-08-01` [new-economy-regime.md:L2242](../new-economy-regime.md) — ★★★ KILL SWITCH — REPLACES BOTH FAILED ONES (registered 2026-08-01)
 - `2026-08-02` [market-fragility.md:L2054](../market-fragility.md) — 2026-08-02 ~3:05pm PDT — GS PRIME BOOK: BIGGEST NET BUYING SINCE NOV '20 — and it is SHORT COVERING, not conviction
-- `2026-08-02` [new-economy-regime.md:L2257](../new-economy-regime.md) — 2026-08-02 ~5:20pm PDT — ★★★ WHY BESSENT AND NOT THE FED: the yen defence is LONG-END POLICY
+- `2026-08-02` [new-economy-regime.md:L2258](../new-economy-regime.md) — 2026-08-02 ~5:20pm PDT — ★★★ WHY BESSENT AND NOT THE FED: the yen defence is LONG-END POLICY
 - `2026-08-03` [market-fragility.md:L2102](../market-fragility.md) — 2026-08-03 ~10:30am PDT — 📅 DATED STAMP: COATUE'S HEDGE FUND −8%, "worst drop in more than a year" — **NOT INTERPRETABLE WITHOUT THE BENCHMARK, AND TH
 - `2026-08-03` [market-fragility.md:L2160](../market-fragility.md) — Addendum 2026-08-03 ~7:05pm PDT — ⛔ THE COATUE SOURCE IS A ZEROHEDGE TWEET, AND IT RESTATES A CALL THIS VAULT ALREADY TESTED AND FAILED
-- `2026-08-03` [new-economy-regime.md:L2313](../new-economy-regime.md) — 2026-08-03 ~Asia open (filed 8/2 ~8:25pm PDT) — ⛔ THE BOJ ALREADY HIKED: my chain was backwards, and the REPO FACILITY is the real news
-- `2026-08-03` [new-economy-regime.md:L2373](../new-economy-regime.md) — 2026-08-03 ~5:03am ET (filed ~7:55am PT) — ★★★ FIMA NAMED: the "Japan as forced UST seller" thesis is DEAD
+- `2026-08-03` [new-economy-regime.md:L2314](../new-economy-regime.md) — 2026-08-03 ~Asia open (filed 8/2 ~8:25pm PDT) — ⛔ THE BOJ ALREADY HIKED: my chain was backwards, and the REPO FACILITY is the real news
+- `2026-08-03` [new-economy-regime.md:L2374](../new-economy-regime.md) — 2026-08-03 ~5:03am ET (filed ~7:55am PT) — ★★★ FIMA NAMED: the "Japan as forced UST seller" thesis is DEAD
 - `2026-08-05` [market-fragility.md:L4218](../market-fragility.md) — ⛔ DATA — WHAT THE VAULT LOGGED IN REAL TIME (`war/war-board.md`, filed 2026-08-05)
-- `2026-08-05` [new-economy-regime.md:L2433](../new-economy-regime.md) — 2026-08-05 ~12:55am PDT — ★★★ YIELD-EQUITY CORRELATION −0.48, REPORTED MOST NEGATIVE SINCE 1999 — the fiscal-dominance signature in cross-asset form, 
-- `2026-08-05` [new-economy-regime.md:L2481](../new-economy-regime.md) — 📌 2026-08-05 ~10:50am PDT — TRANSMISSION LEDGER: mortgage applications fall as rates spike (Axios, headline only)
-- `2026-08-05` [new-economy-regime.md:L2488](../new-economy-regime.md) — 2026-08-05 ~12:55pm PDT — JUNE JOLTS, THE COMPLETE RECORD: the breakdown names WHO stopped posting — and the paste's own ratio line contradicts its ow
+- `2026-08-05` [new-economy-regime.md:L2434](../new-economy-regime.md) — 2026-08-05 ~12:55am PDT — ★★★ YIELD-EQUITY CORRELATION −0.48, REPORTED MOST NEGATIVE SINCE 1999 — the fiscal-dominance signature in cross-asset form, 
+- `2026-08-05` [new-economy-regime.md:L2482](../new-economy-regime.md) — 📌 2026-08-05 ~10:50am PDT — TRANSMISSION LEDGER: mortgage applications fall as rates spike (Axios, headline only)
+- `2026-08-05` [new-economy-regime.md:L2489](../new-economy-regime.md) — 2026-08-05 ~12:55pm PDT — JUNE JOLTS, THE COMPLETE RECORD: the breakdown names WHO stopped posting — and the paste's own ratio line contradicts its ow
 - `2026-08-06` [market-fragility.md:L2217](../market-fragility.md) — 2026-08-06 ~2:20pm PDT — TAPE READ: **THE FUNDING LADDER PRICES INSIDE TECH** — GOOGL taxed on its own issuance day, neoclouds crushed, MSFT at $500; 
-- `2026-08-06` [new-economy-regime.md:L2531](../new-economy-regime.md) — 2026-08-06 ~9:00am PDT — ★★★ WARSH SAYS THE QUIET PART: "MARKETS HAVE MADE DECISIONS BECAUSE WE STEPPED BACK" — the term-premium regime confirmed from
-- `2026-08-06` [new-economy-regime.md:L2576](../new-economy-regime.md) — 2026-08-06 ~8:55am PDT — ★★★ ONE FLOW, BOTH ENDS, ONE MORNING: the 2nd-LARGEST YEN OPERATION IN HISTORY ($85bn, GS) bought less than a week — while Al
-- `2026-08-06` [new-economy-regime.md:L2613](../new-economy-regime.md) — 2026-08-06 ~12:20pm PDT — HANDOFF: **TIC SHOWS JAPAN SOLD $96B OF TREASURIES FEB→MAY** — the FIMA-pledge thesis takes its first data hit; breakevens a
-- `2026-08-06` [new-economy-regime.md:L2637](../new-economy-regime.md) — 2026-08-06 ~6:25pm PDT — MoF QUARTERLY DATA: the two-bar ambiguity RESOLVES, the TIC mechanism CONFIRMS — and the new fact: last week's op was **"IN C
+- `2026-08-06` [new-economy-regime.md:L2532](../new-economy-regime.md) — 2026-08-06 ~9:00am PDT — ★★★ WARSH SAYS THE QUIET PART: "MARKETS HAVE MADE DECISIONS BECAUSE WE STEPPED BACK" — the term-premium regime confirmed from
+- `2026-08-06` [new-economy-regime.md:L2577](../new-economy-regime.md) — 2026-08-06 ~8:55am PDT — ★★★ ONE FLOW, BOTH ENDS, ONE MORNING: the 2nd-LARGEST YEN OPERATION IN HISTORY ($85bn, GS) bought less than a week — while Al
+- `2026-08-06` [new-economy-regime.md:L2614](../new-economy-regime.md) — 2026-08-06 ~12:20pm PDT — HANDOFF: **TIC SHOWS JAPAN SOLD $96B OF TREASURIES FEB→MAY** — the FIMA-pledge thesis takes its first data hit; breakevens a
+- `2026-08-06` [new-economy-regime.md:L2638](../new-economy-regime.md) — 2026-08-06 ~6:25pm PDT — MoF QUARTERLY DATA: the two-bar ambiguity RESOLVES, the TIC mechanism CONFIRMS — and the new fact: last week's op was **"IN C
 - `2026-08-07` [market-fragility.md:L2253](../market-fragility.md) — 2026-08-07 ~1:05am PDT — RECORD S&P CALL VOLUME (4.0M) + SKEW'S LARGEST 2-DAY DROP SINCE 2017 — the detachment/precedent bid QUANTIFIED at an extreme,
-- `2026-08-07` [new-economy-regime.md:L2672](../new-economy-regime.md) — 2026-08-07 ~7:45am PDT — THE STAGFLATION SQUEEZE PRINTS: payrolls −23k into ISM prices >70 — pointer
-- `2026-08-07` [new-economy-regime.md:L2683](../new-economy-regime.md) — 2026-08-07 ~7:50am PDT — ★★★ THE CROSS-THREAD JOIN: **THE DOLLAR DID FOR FREE WHAT $85 BILLION COULD NOT**
-- `2026-08-07` [new-economy-regime.md:L2697](../new-economy-regime.md) — 2026-08-07 ~12:50pm PDT — ★★★★ Q2 PRODUCTIVITY +1.4% / ULC +1.3%: **THE HEADLINE FAILS ITS OWN CHART** — and the wage-push hike case dies while the AI
+- `2026-08-07` [new-economy-regime.md:L2673](../new-economy-regime.md) — 2026-08-07 ~7:45am PDT — THE STAGFLATION SQUEEZE PRINTS: payrolls −23k into ISM prices >70 — pointer
+- `2026-08-07` [new-economy-regime.md:L2684](../new-economy-regime.md) — 2026-08-07 ~7:50am PDT — ★★★ THE CROSS-THREAD JOIN: **THE DOLLAR DID FOR FREE WHAT $85 BILLION COULD NOT**
+- `2026-08-07` [new-economy-regime.md:L2698](../new-economy-regime.md) — 2026-08-07 ~12:50pm PDT — ★★★★ Q2 PRODUCTIVITY +1.4% / ULC +1.3%: **THE HEADLINE FAILS ITS OWN CHART** — and the wage-push hike case dies while the AI
 - `2026-08-07` [rates-board.md:L34](../rates-board.md) — [2026-08-07] **NY Fed ACM 10Y term premium 0.78%, +13bp on the week.** → `:3379`
 - `2026-08-08` [market-fragility.md:L2316](../market-fragility.md) — 2026-08-08 ~6:40pm PDT — TECH FUND FLOWS AT A RECORD: $216bn ANNUALIZED — a STATE, filed as gearing per the 7/22 precedent, and it points AGAINST the 
 - `2026-08-08` [market-fragility.md:L2373](../market-fragility.md) — 2026-08-08 ~11:50pm PDT — JAKE'S QUESTION: "how common is −30K jobs and an S&P ATH the same week?" — TWICE IN THE MODERN RECORD, and both precedents h
@@ -191,7 +191,7 @@
 - `2026-08-08` [market-fragility.md:L2418](../market-fragility.md) — Addendum 2026-08-08 ~11:55pm PDT — JAKE NAMES THE MECHANISM, AND HIS OWN PREMISE CUTS BOTH WAYS
 - `2026-08-09` [market-fragility.md:L2452](../market-fragility.md) — 2026-08-09 ~11:50am PDT — RE-GROSS vs DE-GROSS IN AI THEMES: the fast money has NOT come back — and the vault's two-cohort divergence gets its second 
 - `2026-08-09` [market-fragility.md:L2494](../market-fragility.md) — 2026-08-09 ~2:40pm PDT — THE WEEK (8/11-8/14) GETS ITS CALENDAR AND ITS CONSENSUS: the inflation prints land ON the auction days, and the registered C
-- `2026-08-09` [new-economy-regime.md:L3598](../new-economy-regime.md) — DATA (REPORTED — the piece's figures, dated 2026-08-09 unless noted)
+- `2026-08-09` [new-economy-regime.md:L3599](../new-economy-regime.md) — DATA (REPORTED — the piece's figures, dated 2026-08-09 unless noted)
 - `2026-08-10` [market-fragility.md:L2577](../market-fragility.md) — Addendum 2026-08-10 ~8:05am PDT — THE DECOMPOSITION ARRIVES (ZH/DB/GS week-ahead) — ⛔ my wedge reading corrected, two new transmission mechanisms file
 - `2026-08-10` [market-fragility.md:L2650](../market-fragility.md) — 2026-08-10 ~12:25pm PDT — VARA −44% IN JULY: the de-gross bar gets its SECOND NAME — the "substantially one fund" inference extends to a COHORT, and c
 - `2026-08-11` [market-fragility.md:L2704](../market-fragility.md) — 2026-08-11 ~9:50am PDT — 📌 JAKE'S DURATION THESIS REGISTERED: "another 18-24 months of bullish push" — Independence 3/10 on the bull leg, and ONE PREM
@@ -202,36 +202,36 @@
 - `2026-08-11` [market-fragility.md:L2936](../market-fragility.md) — 2026-08-11 ~1:15pm PDT — ★★★★ THE SPLIT GOES THREE-WAY AND IT MAPS TO THE FCF TABLE: sellers UP, receivers UP, PAYERS DOWN — into CRWV after the close
 - `2026-08-11` [market-fragility.md:L2939](../market-fragility.md) — DATA (observed — 2026-08-11 late session)
 - `2026-08-11` [market-fragility.md:L2982](../market-fragility.md) — 2026-08-11 ~3:40pm PDT — ⛔ JAKE KILLS THE META DATUM, AND THE FLAW IS BIGGER THAN THAT ONE LINE: a one-day cross-section measures CHANGE, not STATE
-- `2026-08-11` [new-economy-regime.md:L2769](../new-economy-regime.md) — 2026-08-11 ~1:00pm PDT — 📌 THE PAYROLL-REVISION POST: the −103k is FOUR DAYS OLD AND ALREADY FILED. The genuinely new number is the 30-month aggregate
-- `2026-08-11` [new-economy-regime.md:L2818](../new-economy-regime.md) — 2026-08-11 ~4:50pm PDT — 📌 THE RATES-VOL SURFACE ENTERS THE VAULT: 3y10y payer skew at multi-year highs, vol-of-vol near 2019 levels — the malign box 
-- `2026-08-11` [new-economy-regime.md:L2869](../new-economy-regime.md) — 2026-08-11 ~5:25pm PDT — ★★★★ BofA's OBSERVATION IS CONFIRMED 11:1 AND ITS MECHANISM IS UNTESTED — plus the rate data CANNOT refute the immigration st
-- `2026-08-11` [new-economy-regime.md:L2875](../new-economy-regime.md) — DATA (observed — BLS public API, pulled 2026-08-11, participation rate %)
+- `2026-08-11` [new-economy-regime.md:L2770](../new-economy-regime.md) — 2026-08-11 ~1:00pm PDT — 📌 THE PAYROLL-REVISION POST: the −103k is FOUR DAYS OLD AND ALREADY FILED. The genuinely new number is the 30-month aggregate
+- `2026-08-11` [new-economy-regime.md:L2819](../new-economy-regime.md) — 2026-08-11 ~4:50pm PDT — 📌 THE RATES-VOL SURFACE ENTERS THE VAULT: 3y10y payer skew at multi-year highs, vol-of-vol near 2019 levels — the malign box 
+- `2026-08-11` [new-economy-regime.md:L2870](../new-economy-regime.md) — 2026-08-11 ~5:25pm PDT — ★★★★ BofA's OBSERVATION IS CONFIRMED 11:1 AND ITS MECHANISM IS UNTESTED — plus the rate data CANNOT refute the immigration st
+- `2026-08-11` [new-economy-regime.md:L2876](../new-economy-regime.md) — DATA (observed — BLS public API, pulled 2026-08-11, participation rate %)
 - `2026-08-12` [market-fragility.md:L3015](../market-fragility.md) — 2026-08-12 ~8:45am PDT — 📌 THE REGENERATED MARKET-OPEN BRIEF, GRADED: markers all check out, and the ONE NUMBER IN IT THAT MATTERS IS NBIS +8% BEFORE 
 - `2026-08-12` [market-fragility.md:L3066](../market-fragility.md) — 2026-08-12 ~10:40am PDT — 📌 GRADED: THE 10Y TAILED — first since May, and at the HIGHEST AUCTION YIELD SINCE 2007. Test resolved YES on direction, NEG
 - `2026-08-12` [market-fragility.md:L3070](../market-fragility.md) — DATA (observed — $42bn 10Y, 2026-08-12)
 - `2026-08-12` [market-fragility.md:L3114](../market-fragility.md) — 2026-08-12 ~11:45pm PDT — ⛔ "FEELS COILED" IS THE EXACT INTUITION THIS VAULT BACKTESTED AND REFUTED — and the index being quiet is not the market bein
-- `2026-08-12` [new-economy-regime.md:L2925](../new-economy-regime.md) — 2026-08-12 ~8:45am PDT — ⛔⛔⛔ I HAD THE FED BACKWARDS ALL SESSION: THE 44-45% IS **HIKE** ODDS, NOT CUT ODDS. And it makes the payer skew, Hammack's di
-- `2026-08-12` [new-economy-regime.md:L2944](../new-economy-regime.md) — DATA (observed — 2026-08-12)
-- `2026-08-12` [new-economy-regime.md:L2998](../new-economy-regime.md) — 2026-08-12 ~10:20am PDT — ★★★★★ THE CPI DETAIL RESOLVES THE HIKE-ODDS PUZZLE: THE FED TARGETS PCE, AND CORE PCE IS 3.3% WHILE CORE CPI IS 2.5%. Plus ⛔
-- `2026-08-12` [new-economy-regime.md:L3052](../new-economy-regime.md) — 2026-08-12 ~10:30am PDT — ★★★★★ THE INTERVENTION ROUND-TRIPPED ON PRICE AND SUCCEEDED ON POSITIONING — which DOWNGRADES the carry-unwind tail risk and
-- `2026-08-12` [new-economy-regime.md:L3367](../new-economy-regime.md) — DATA (MEASURED — as of 2026-08-12 unless noted)
+- `2026-08-12` [new-economy-regime.md:L2926](../new-economy-regime.md) — 2026-08-12 ~8:45am PDT — ⛔⛔⛔ I HAD THE FED BACKWARDS ALL SESSION: THE 44-45% IS **HIKE** ODDS, NOT CUT ODDS. And it makes the payer skew, Hammack's di
+- `2026-08-12` [new-economy-regime.md:L2945](../new-economy-regime.md) — DATA (observed — 2026-08-12)
+- `2026-08-12` [new-economy-regime.md:L2999](../new-economy-regime.md) — 2026-08-12 ~10:20am PDT — ★★★★★ THE CPI DETAIL RESOLVES THE HIKE-ODDS PUZZLE: THE FED TARGETS PCE, AND CORE PCE IS 3.3% WHILE CORE CPI IS 2.5%. Plus ⛔
+- `2026-08-12` [new-economy-regime.md:L3053](../new-economy-regime.md) — 2026-08-12 ~10:30am PDT — ★★★★★ THE INTERVENTION ROUND-TRIPPED ON PRICE AND SUCCEEDED ON POSITIONING — which DOWNGRADES the carry-unwind tail risk and
+- `2026-08-12` [new-economy-regime.md:L3368](../new-economy-regime.md) — DATA (MEASURED — as of 2026-08-12 unless noted)
 - `2026-08-13` [market-fragility.md:L3166](../market-fragility.md) — 2026-08-13 ~8:00am PDT — ⚖️ JAKE'S BULL PIVOT, GRADED: **ONE OF HIS SIX LEGS IS RIGHT AND THE VAULT ALREADY BACKED IT — the other five are STATES bein
 - `2026-08-13` [market-fragility.md:L3249](../market-fragility.md) — 2026-08-13 ~8:45am PDT — ⛔ I MIS-GRADED HIS "DOESN'T MATTER UNTIL IT DOES" — he meant CROWDED, not STATE, and `_calibration` already backs him. **And 
 - `2026-08-13` [market-fragility.md:L3255](../market-fragility.md) — DATA (observed — Yahoo chart API, 2026-08-13 ~8:25am PDT)
 - `2026-08-13` [market-fragility.md:L3370](../market-fragility.md) — DATA (MEASURED — vs the LAST COMPLETED SESSION, Thu 2026-08-13 close)
-- `2026-08-13` [new-economy-regime.md:L3103](../new-economy-regime.md) — 2026-08-13 ~6:45am PDT — ★★★★★★ THE PPI PRINTS **+0.4% CORE — EXACTLY THE VAULT'S PRE-REGISTERED NUMBER, DOUBLE CONSENSUS.** And the headline 0.0% is 
-- `2026-08-13` [new-economy-regime.md:L3167](../new-economy-regime.md) — 2026-08-13 ~8:10am PDT — ⛔⛔⛔ **I GOT THE PPI BACKWARDS AN HOUR AGO. IT PRINTED COOLER THAN EXPECTED ON EVERY MEASURE THE MARKET TRADES** — I compared 
-- `2026-08-13` [new-economy-regime.md:L3232](../new-economy-regime.md) — 2026-08-13 ~10:55am PDT — ★★★★★ THE 30Y AUCTION CLOSES THIS MORNING'S REGISTERED ITEM — **and the headline fuses two different instruments: the TAIL i
-- `2026-08-13` [new-economy-regime.md:L3297](../new-economy-regime.md) — 2026-08-13 ~11:00am PDT — ★★★★★ JAKE'S FULL-WEEK REFUNDING READ IS CORRECT — and the three prints together carry **THREE INDEPENDENT TERM-PREMIUM SIGN
-- `2026-08-13` [new-economy-regime.md:L3359](../new-economy-regime.md) — 2026-08-13 ~12:55pm PDT — ⛔ **THE 30Y SPLIT ANSWERS THE TOP MACRO ITEM AND IT REFUTES MY INFLATION-TOLERANCE READ: IT IS ALL REAL YIELDS. BREAKEVENS A
+- `2026-08-13` [new-economy-regime.md:L3104](../new-economy-regime.md) — 2026-08-13 ~6:45am PDT — ★★★★★★ THE PPI PRINTS **+0.4% CORE — EXACTLY THE VAULT'S PRE-REGISTERED NUMBER, DOUBLE CONSENSUS.** And the headline 0.0% is 
+- `2026-08-13` [new-economy-regime.md:L3168](../new-economy-regime.md) — 2026-08-13 ~8:10am PDT — ⛔⛔⛔ **I GOT THE PPI BACKWARDS AN HOUR AGO. IT PRINTED COOLER THAN EXPECTED ON EVERY MEASURE THE MARKET TRADES** — I compared 
+- `2026-08-13` [new-economy-regime.md:L3233](../new-economy-regime.md) — 2026-08-13 ~10:55am PDT — ★★★★★ THE 30Y AUCTION CLOSES THIS MORNING'S REGISTERED ITEM — **and the headline fuses two different instruments: the TAIL i
+- `2026-08-13` [new-economy-regime.md:L3298](../new-economy-regime.md) — 2026-08-13 ~11:00am PDT — ★★★★★ JAKE'S FULL-WEEK REFUNDING READ IS CORRECT — and the three prints together carry **THREE INDEPENDENT TERM-PREMIUM SIGN
+- `2026-08-13` [new-economy-regime.md:L3360](../new-economy-regime.md) — 2026-08-13 ~12:55pm PDT — ⛔ **THE 30Y SPLIT ANSWERS THE TOP MACRO ITEM AND IT REFUTES MY INFLATION-TOLERANCE READ: IT IS ALL REAL YIELDS. BREAKEVENS A
 - `2026-08-14` [market-fragility.md:L3310](../market-fragility.md) — 2026-08-14 ~7:45am PDT — ★★★★★★ THE REGISTERED TEST IS ANSWERED AND THE ANSWER IS NEGATIVE: bad-news-is-good-news did NOT flip on the worst consumer p
 - `2026-08-14` [market-fragility.md:L3364](../market-fragility.md) — 2026-08-14 ~9:30am PDT — ⛔⛔⛔ EVERY MARKET NUMBER I FILED AND PUBLISHED AT 7:45am WAS WRONG, INCLUDING THE SIGNS. ONE BUG PRODUCED ALL OF IT: `meta.cha
 - `2026-08-14` [market-fragility.md:L3437](../market-fragility.md) — 2026-08-14 ~3:34pm PDT — 📥 DAILY FEED DIGEST INGESTED (9 items) — filed as REPORTED-class. ⛔ ONE NUMBER IS FLAGGED AND NOT ADOPTED: a "$15 BILLION" on
 - `2026-08-14` [market-fragility.md:L3492](../market-fragility.md) — 2026-08-14 ~4:10pm PDT — ⛔⛔ I REJECTED THE $15B ON A STALE DENOMINATOR AND IT IS REAL. ★★★ AND THE VAULT NOW SUPPLIES SOMETHING NONE OF THE THREE OUTL
 - `2026-08-14` [market-fragility.md:L3556](../market-fragility.md) — 2026-08-14 ~4:40pm PDT — ★★★★★★★ THE FULL PIECE CLOSES THREE OPEN ITEMS AND INVERTS THE HEADLINE: **~45% OF THE $15B IS GIVING BACK AN UNREALISED MARK
 - `2026-08-14` [market-fragility.md:L3628](../market-fragility.md) — DATA (REPORTED — Roberts / Citadel Securities' Scott Rubner, as of 2026-08-14 close)
-- `2026-08-14` [new-economy-regime.md:L3416](../new-economy-regime.md) — 2026-08-14 ~7:45am PDT — ★★★★★★★ THE VAULT PRE-REGISTERED THIS PRINT AND SIZED THE ARTIFACT — the calendar effect covers at most 29% of the control-gr
-- `2026-08-14` [new-economy-regime.md:L3496](../new-economy-regime.md) — 2026-08-14 ~7:55am PDT — ⛔⛔⛔ I TOLD JAKE THE CALENDAR EFFECT WAS SMALL. IT IS THE BIGGEST RETAIL-CALENDAR DISTORTION IN THE SERIES' RECENT HISTORY: **
+- `2026-08-14` [new-economy-regime.md:L3417](../new-economy-regime.md) — 2026-08-14 ~7:45am PDT — ★★★★★★★ THE VAULT PRE-REGISTERED THIS PRINT AND SIZED THE ARTIFACT — the calendar effect covers at most 29% of the control-gr
+- `2026-08-14` [new-economy-regime.md:L3497](../new-economy-regime.md) — 2026-08-14 ~7:55am PDT — ⛔⛔⛔ I TOLD JAKE THE CALENDAR EFFECT WAS SMALL. IT IS THE BIGGEST RETAIL-CALENDAR DISTORTION IN THE SERIES' RECENT HISTORY: **
 - `2026-08-15` [market-fragility.md:L3622](../market-fragility.md) — 2026-08-15 ~11:17am PDT — ★★★★★★★ THE VAULT'S OWN CALIBRATION SOURCE STATES JAKE'S ATH POINT MORE PRECISELY THAN EITHER OF US DID — and supplies **the
 - `2026-08-15` [market-fragility.md:L3706](../market-fragility.md) — 2026-08-15 ~11:20am PDT — ★★★★★★ THE BUFFETT INDICATOR AT 239% AND ROBERTS' FALLING FORWARD MULTIPLE ARE **BOTH TRUE AND NOT IN CONFLICT** — the denom
 - `2026-08-15` [market-fragility.md:L3764](../market-fragility.md) — 2026-08-15 ~11:25am PDT — ★★★★★★★ JAKE ATTACKS THE LEG OF ROBERTS I LET STAND, AND IT PARTLY RETIRES THE TRIGGER I FILED AN HOUR AGO: **cross-stock co
@@ -239,19 +239,19 @@
 - `2026-08-15` [market-fragility.md:L3909](../market-fragility.md) — 2026-08-15 ~2:22pm PDT — ⛔⛔ HIS P/E POINT IS PHRASED BACKWARDS AND IS RIGHT UNDERNEATH, AND IT REVERSES WHAT I CALLED "THE STRONGEST FACT AGAINST OUR 
 - `2026-08-15` [market-fragility.md:L3971](../market-fragility.md) — 2026-08-15 ~2:44pm PDT — ⭐⭐⭐ THE FALSIFIER I REGISTERED AT 2:22pm HAS BEEN RUN AND IT DID NOT FALSIFY: **headline 20.0× vs cycle-adjusted 24.7-25.0×.*
 - `2026-08-15` [market-fragility.md:L4043](../market-fragility.md) — 2026-08-15 ~8:24pm PDT — ⭐⭐⭐ THE THIRD AND DECISIVE STRIKE ON "RECORD-LOW CORRELATION = WIDE MARKET": **it is the print of a $300 BILLION AUTOCALLABLE
-- `2026-08-15` [new-economy-regime.md:L3591](../new-economy-regime.md) — 2026-08-15 ~12:36am PDT — ★★★★★★★ A THIRD INDEPENDENT ROUTE TO THE VAULT'S 30Y CONCLUSION — and it EXTENDS it somewhere the vault never went: **if the
-- `2026-08-15` [new-economy-regime.md:L3681](../new-economy-regime.md) — ✓ VERIFIED SAME TURN (rule 10) — 2026-08-15 ~12:45am PDT
+- `2026-08-15` [new-economy-regime.md:L3592](../new-economy-regime.md) — 2026-08-15 ~12:36am PDT — ★★★★★★★ A THIRD INDEPENDENT ROUTE TO THE VAULT'S 30Y CONCLUSION — and it EXTENDS it somewhere the vault never went: **if the
+- `2026-08-15` [new-economy-regime.md:L3682](../new-economy-regime.md) — ✓ VERIFIED SAME TURN (rule 10) — 2026-08-15 ~12:45am PDT
 - `2026-08-15` [rates-board.md:L33](../rates-board.md) — [2026-08-15] **30Y at 5.20%, highest since 2007; real yields pushing 3%.** → `:3592`, `:3602`
 - `2026-08-16` [market-fragility.md:L4116](../market-fragility.md) — 2026-08-16 ~7:10pm PDT — ⛔ THE CHART ZEROHEDGE CAPTIONED "$300BN IN AUTOCALLABLES" DOES NOT SHOW AN AUTOCALLABLE FOOTPRINT. **BOTH VOL LEGS FELL ~30% 
 - `2026-08-16` [market-fragility.md:L4122](../market-fragility.md) — DATA (MEASURED — `tools/tape.py` + the chart, 2026-08-16 ~7:05pm PDT)
 - `2026-08-16` [market-fragility.md:L4153](../market-fragility.md) — 2026-08-16 ~7:25pm PDT — ⛔⛔ I OVERCORRECTED 15 MINUTES AGO AND THE PUBLIC DATA SAYS SO. **DISPERSION ROSE 44% WHILE INDEX VOL FELL 33% FROM MARCH TO J
 - `2026-08-16` [market-fragility.md:L4158](../market-fragility.md) — DATA (MEASURED — Yahoo/CBOE pulls, close arrays not `meta`, 2026-08-16 ~7:25pm PDT)
 - `2026-08-16` [market-fragility.md:L4206](../market-fragility.md) — 2026-08-16 ~10:20pm PDT — ⛔ THE VAULT'S OWN 8/05 LEDGER CORRECTS THE RECOLLECTION ("there wasn't, of course") — **SOMETHING DID PRINT: IRAN'S FOREIGN 
-- `2026-08-16` [new-economy-regime.md:L3689](../new-economy-regime.md) — 2026-08-16 ~5:46pm PDT — ★★★★★ JAKE: *"Bond yield averages should be part of the inflation calculations."* THE ARGUMENT IS REAL, PUBLISHED, AND BY SUM
-- `2026-08-16` [new-economy-regime.md:L3751](../new-economy-regime.md) — 2026-08-16 ~7:13pm PDT — ★★★★★★★ THE AUGUST REFUNDING RESULTS CLOSE MY ⬜ FROM 90 MINUTES AGO (**30Y stop = 5.216%**) AND SUPPLY A **FOURTH INDEPENDENT
-- `2026-08-16` [new-economy-regime.md:L3758](../new-economy-regime.md) — DATA (verified arithmetic, 2026-08-16 ~7:13pm PDT)
-- `2026-08-16` [new-economy-regime.md:L3805](../new-economy-regime.md) — 2026-08-16 ~11:28pm PDT — ★★★★★★ **JGB 2Y AT 1.687%, A 31-YEAR HIGH, IS PART TWO OF A TRAP THE VAULT ALREADY SPECIFIED — AND PART ONE GOT MEASURED AT 
-- `2026-08-16` [new-economy-regime.md:L3811](../new-economy-regime.md) — DATA (MEASURED — `tape.py`-style close-array pulls, 2026-08-16 ~11:28pm PDT)
+- `2026-08-16` [new-economy-regime.md:L3690](../new-economy-regime.md) — 2026-08-16 ~5:46pm PDT — ★★★★★ JAKE: *"Bond yield averages should be part of the inflation calculations."* THE ARGUMENT IS REAL, PUBLISHED, AND BY SUM
+- `2026-08-16` [new-economy-regime.md:L3752](../new-economy-regime.md) — 2026-08-16 ~7:13pm PDT — ★★★★★★★ THE AUGUST REFUNDING RESULTS CLOSE MY ⬜ FROM 90 MINUTES AGO (**30Y stop = 5.216%**) AND SUPPLY A **FOURTH INDEPENDENT
+- `2026-08-16` [new-economy-regime.md:L3759](../new-economy-regime.md) — DATA (verified arithmetic, 2026-08-16 ~7:13pm PDT)
+- `2026-08-16` [new-economy-regime.md:L3806](../new-economy-regime.md) — 2026-08-16 ~11:28pm PDT — ★★★★★★ **JGB 2Y AT 1.687%, A 31-YEAR HIGH, IS PART TWO OF A TRAP THE VAULT ALREADY SPECIFIED — AND PART ONE GOT MEASURED AT 
+- `2026-08-16` [new-economy-regime.md:L3812](../new-economy-regime.md) — DATA (MEASURED — `tape.py`-style close-array pulls, 2026-08-16 ~11:28pm PDT)
 - `2026-08-16` [rates-board.md:L29](../rates-board.md) — [2026-08-16] **10Y 4.696% · 30Y 5.265% (secondary).** → `new-economy-regime.md:3814`
 - `2026-08-16` [rates-board.md:L30](../rates-board.md) — [2026-08-16] **30Y AUGUST REFUNDING AUCTION STOP = 5.216% — the highest 30Y auction yield since
 - `2026-08-17` [rates-board.md:L26](../rates-board.md) — [2026-08-17] **10Y ~4.71-4.712%.** Source: third-party verification brief (S10 Barron's/market
@@ -260,9 +260,9 @@
 - `2026-08-18` [rates-board.md:L83](../rates-board.md) — 2026-08-18 ~11:55am PDT — ⛔⛔ **"BEAR STEEPENING PRECEDED 3 OF 4 MAJOR TOPS SINCE 1962" IS THE BASE RATE WITH A STORY. COMPUTED: P(3-or-4 of 4 | pure c
 - `2026-08-18` [rates-board.md:L132](../rates-board.md) — 2026-08-18 ~12:25pm PDT — ✅⛔⛔⛔ **THE SPREAD SERIES IS BUILT FROM THE PRIMARY SOURCE, AND IT DESTROYS THE CLAIM'S FIRST CLAUSE: BEAR STEEPENING IS NOT 
 - `2026-08-19` [market-fragility.md:L4259](../market-fragility.md) — 2026-08-19 ~5:11am KST (2026-08-18 ~1:11pm PDT) — ⛔ **"SIDECAR ACTIVATED" READS LIKE A CRASH; THE ARC SAYS GIVE-BACK. KOSPI 6,441.39 (−6.24%) IS **+15
-- `2026-08-19` [new-economy-regime.md:L3851](../new-economy-regime.md) — 2026-08-19 ~1:20pm PDT — ⛔⭐⭐⭐⭐ **JAKE'S PCE MECHANISM DOES NOT WORK AS STATED — CONSTRUCTION IS *INVESTMENT*, NOT CONSUMPTION, SO NEITHER COMMERCIAL N
-- `2026-08-19` [new-economy-regime.md:L3946](../new-economy-regime.md) — 2026-08-19 ~1:40pm PDT — ✅★★★★★ **JAKE HAS RE-DERIVED THIS NOTE'S OWN `:L2280` FINDING FROM FIRST PRINCIPLES: A RATE CUT IS CASH-NEUTRAL TOO. THE FED 
-- `2026-08-19` [new-economy-regime.md:L4014](../new-economy-regime.md) — 2026-08-19 ~1:55pm PDT — ✅⭐⭐⭐⭐⭐ **YES — AND THE MISSING HALF OF THE SENTENCE IS THE SUPPLY SIDE, WHICH IS WHERE THE FOMC ITSELF IS UNCERTAIN. ✓ AND TH
+- `2026-08-19` [new-economy-regime.md:L3852](../new-economy-regime.md) — 2026-08-19 ~1:20pm PDT — ⛔⭐⭐⭐⭐ **JAKE'S PCE MECHANISM DOES NOT WORK AS STATED — CONSTRUCTION IS *INVESTMENT*, NOT CONSUMPTION, SO NEITHER COMMERCIAL N
+- `2026-08-19` [new-economy-regime.md:L3947](../new-economy-regime.md) — 2026-08-19 ~1:40pm PDT — ✅★★★★★ **JAKE HAS RE-DERIVED THIS NOTE'S OWN `:L2280` FINDING FROM FIRST PRINCIPLES: A RATE CUT IS CASH-NEUTRAL TOO. THE FED 
+- `2026-08-19` [new-economy-regime.md:L4015](../new-economy-regime.md) — 2026-08-19 ~1:55pm PDT — ✅⭐⭐⭐⭐⭐ **YES — AND THE MISSING HALF OF THE SENTENCE IS THE SUPPLY SIDE, WHICH IS WHERE THE FOMC ITSELF IS UNCERTAIN. ✓ AND TH
 - `2026-08-19` [rates-board.md:L182](../rates-board.md) — 2026-08-19 ~7:00am PDT — ★★★★★★ **TREASURY DOUBLES LONG-END BUYBACKS ($2B → "AT LEAST" $4B/OPERATION, 10-20Y AND 20-30Y, FROM SEPT 9 TO NOV 4). ⇒ THE 
 - `2026-08-19` [rates-board.md:L243](../rates-board.md) — 2026-08-19 ~7:03am PDT (scanner 14:03 UTC) — ⭐⭐⭐⭐⭐ **THE BUYBACK TEST FIRED THE SAME MORNING AND IT FIRED IN FAVOUR: LONG YIELDS FELL SHARPLY, TLT +1.
 - `2026-08-19` [rates-board.md:L277](../rates-board.md) — 2026-08-19 ~9:15am PDT — ★★★★★★ **THE SHAPE SETTLES THE ATTRIBUTION AND MY 7:03am CAVEAT WAS TOO WEAK: 5Y −2bp · 10Y −6bp · 30Y −9bp IS A MONOTONIC BU
@@ -274,22 +274,22 @@
 - `2026-08-19` [rates-board.md:L696](../rates-board.md) — 2026-08-19 ~4:45pm PDT — ★★★★★★ **YES, AND IT ALREADY HAPPENS — BUT IT SHOWS UP IN *SWAPS*, NOT IN CORPORATE SPREADS, AND THE MECHANISM IS BALANCE SHE
 - `2026-08-19` [rates-board.md:L944](../rates-board.md) — DATA (MEASURED — SOMA per-CUSIP, bucketed by years to maturity from 2026-08-19)
 - `2026-08-19` [rates-board.md:L3090](../rates-board.md) — ✓ REGISTERED ITEM CLOSED — `:L211`, open since 2026-08-19
-- `2026-08-20` [new-economy-regime.md:L4075](../new-economy-regime.md) — 2026-08-20 ~8:10am PDT — ✅⭐⭐⭐⭐ **THE CLAIMS DATA INDEPENDENTLY CONFIRMS THE FOMC MINUTES LINE I FILED YESTERDAY, ONE DAY LATER AND FROM A COMPLETELY D
+- `2026-08-20` [new-economy-regime.md:L4076](../new-economy-regime.md) — 2026-08-20 ~8:10am PDT — ✅⭐⭐⭐⭐ **THE CLAIMS DATA INDEPENDENTLY CONFIRMS THE FOMC MINUTES LINE I FILED YESTERDAY, ONE DAY LATER AND FROM A COMPLETELY D
 - `2026-08-20` [rates-board.md:L755](../rates-board.md) — 2026-08-20 ~7:40am PDT — ⛔✅ **THE BRIEF SAYS THE BUYBACK MOVE WAS "LARGELY ERASED." PRIMARY SAYS *HALF*, AND THE SHAPE OF THE GIVE-BACK IS THE FINDING
 - `2026-08-20` [rates-board.md:L817](../rates-board.md) — 2026-08-20 ~12:25pm PDT — ★★★★★★ **TODAY'S OPERATION IS ROUTINE AND SAYS NOTHING — BUT PULLING THE FULL HISTORY TO PROVE THAT FOUND THE REAL STORY: ⭐ 
 - `2026-08-21` [market-fragility.md:L4311](../market-fragility.md) — 2026-08-21 ~10:45am PDT — ⭐⭐⭐⭐⭐ **THE FMS CASH LEVEL IS THE LOAD-BEARING NUMBER, NOT THE 8.0 SENTIMENT READING — AND IT IS A *CLEANER* INSTRUMENT THAN
-- `2026-08-22` [new-economy-regime.md:L4135](../new-economy-regime.md) — 2026-08-22 ~1:50pm PDT — ★★★★★★ **THE VAULT'S #1 REGISTERED ITEM IS CLOSED, AND THE ANSWER IS THE WRONG SHAPE: US PRODUCTIVITY TURNED UP IN Q1-2023 — 
+- `2026-08-22` [new-economy-regime.md:L4136](../new-economy-regime.md) — 2026-08-22 ~1:50pm PDT — ★★★★★★ **THE VAULT'S #1 REGISTERED ITEM IS CLOSED, AND THE ANSWER IS THE WRONG SHAPE: US PRODUCTIVITY TURNED UP IN Q1-2023 — 
 - `2026-08-22` [rates-board.md:L893](../rates-board.md) — 2026-08-22 ~9:00am PDT — ⭐⭐⭐ **THE 30Y ROUND-TRIPPED IN THREE SESSIONS AND THE VAULT HAS EVERY LEG: 5.28 (8/18) → 5.19 (8/19 buyback) → 5.23 (8/20) → 
-- `2026-08-23` [new-economy-regime.md:L4204](../new-economy-regime.md) — 2026-08-23 ~11:05pm PDT — 🕳️🕳️🕳️ **MAP GAP #21, AND IT IS LARGER THAN #20: JAKE NAMES SIX LIVE US PRICE INTERVENTIONS AND THE VAULT HOLDS *NONE* OF TH
-- `2026-08-23` [new-economy-regime.md:L4294](../new-economy-regime.md) — 2026-08-23 ~11:45pm PDT — ⛔⛔ **HE ADDS INTEL AND MP AND THAT CONCEDES MY OWN PUSHBACK: STATE EQUITY *IS* THE OWNERSHIP TRANSFER I SAID WAS ABSENT.** ★
+- `2026-08-23` [new-economy-regime.md:L4205](../new-economy-regime.md) — 2026-08-23 ~11:05pm PDT — 🕳️🕳️🕳️ **MAP GAP #21, AND IT IS LARGER THAN #20: JAKE NAMES SIX LIVE US PRICE INTERVENTIONS AND THE VAULT HOLDS *NONE* OF TH
+- `2026-08-23` [new-economy-regime.md:L4295](../new-economy-regime.md) — 2026-08-23 ~11:45pm PDT — ⛔⛔ **HE ADDS INTEL AND MP AND THAT CONCEDES MY OWN PUSHBACK: STATE EQUITY *IS* THE OWNERSHIP TRANSFER I SAID WAS ABSENT.** ★
 - `2026-08-23` [rates-board.md:L935](../rates-board.md) — 2026-08-23 ~4:35pm PDT — ✅✅✅ **TCHIR'S HEADLINE VERIFIED AGAINST THE PRIMARY AND IT IS EXACT: THE FED OWNS 52.5% OF EVERYTHING MATURING 2036-2041.** ⛔
 - `2026-08-24` [rates-board.md:L1025](../rates-board.md) — 2026-08-24 ~12:15am PDT — ⛔⛔⛔ **THE TGA REVELATION BREAKS THIS BOARD'S OWN LOAD-BEARING CONCLUSION, WRITTEN 8/19 AT `:L223`: *"TREASURY BUYBACKS ARE C
 - `2026-08-24` [rates-board.md:L1101](../rates-board.md) — 2026-08-24 ~11:45pm PDT — ★★★★★★ **JAKE'S WEARY-ROTATION THESIS, FILED AS HIS AND SHARPENED: AT 82bp OVER, THE EXIT FROM AI CREDIT INTO TREASURIES IS 
 - `2026-08-25` [rates-board.md:L1168](../rates-board.md) — 2026-08-25 ~2:10pm PDT — ✅✅ **THE BOND SCAN (8/25 close) ARRIVES AND CLOSES LAST NIGHT'S FLAG #1 EIGHTEEN HOURS AFTER REGISTRATION: AUCTION INTERNALS 
 - `2026-08-25` [rates-board.md:L1226](../rates-board.md) — Addendum 2026-08-25 ~2:35pm PDT — ✅ **RUNG UPGRADE: every block of the 8/25 scan now traces to a named primary, and the numbers came back IDENTICAL.**
-- `2026-08-26` [new-economy-regime.md:L4373](../new-economy-regime.md) — 2026-08-26 ~11:50am PDT — ⭐⭐⭐⭐ **JAKE'S HOUSING-POLICY CALL: THE AFFORDABILITY LEVER WILL BE RED TAPE, NOT RATES — "the only 'free' option that leaves
-- `2026-08-26` [new-economy-regime.md:L4406](../new-economy-regime.md) — Addendum 2026-08-26 ~12:55pm PDT — ⭐⭐⭐⭐⭐ **JAKE CLOSES HIS OWN LOOP AND THE CONCLUSION INVERTS THE "FREE OPTION": STATES WILL NEVER PULL THE DEREG LEV
-- `2026-08-26` [new-economy-regime.md:L4440](../new-economy-regime.md) — 2026-08-26 ~10:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE CLOSES THE WEEK'S ARGUMENT WITH THE BIND, STATED PLAIN: "POINTING MONEY AT LONG-DURATION TREASURIES IS A SQUIR
+- `2026-08-26` [new-economy-regime.md:L4374](../new-economy-regime.md) — 2026-08-26 ~11:50am PDT — ⭐⭐⭐⭐ **JAKE'S HOUSING-POLICY CALL: THE AFFORDABILITY LEVER WILL BE RED TAPE, NOT RATES — "the only 'free' option that leaves
+- `2026-08-26` [new-economy-regime.md:L4407](../new-economy-regime.md) — Addendum 2026-08-26 ~12:55pm PDT — ⭐⭐⭐⭐⭐ **JAKE CLOSES HIS OWN LOOP AND THE CONCLUSION INVERTS THE "FREE OPTION": STATES WILL NEVER PULL THE DEREG LEV
+- `2026-08-26` [new-economy-regime.md:L4441](../new-economy-regime.md) — 2026-08-26 ~10:10pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE CLOSES THE WEEK'S ARGUMENT WITH THE BIND, STATED PLAIN: "POINTING MONEY AT LONG-DURATION TREASURIES IS A SQUIR
 - `2026-08-26` [rates-board.md:L1228](../rates-board.md) — 2026-08-26 ~8:35am PDT — DAILY OPENING SCAN #2 (8/26, 6:04-6:14am PT quotes) — ⭐⭐⭐⭐ **THE GENUINELY NEW SERIES IN TODAY'S SCAN IS THE ISSUANCE LADDER:
 - `2026-08-26` [rates-board.md:L1281](../rates-board.md) — Addendum 2026-08-26 ~8:55am PDT — ⭐⭐⭐⭐ **THE PCE DETAIL REVERSES THE MORNING READ'S EMPHASIS: +0.2% MoM ANNUALIZES TO 2.43% — THE INCOMING PULSE IS NE
 - `2026-08-26` [rates-board.md:L1309](../rates-board.md) — 2026-08-26 ~11:15am PDT — WEEK TAPE (Mon→Wed 2pm ET, Jake's wrap) — ⭐⭐⭐⭐⭐ **THE 5Y WAS "MUCH LESS CONVINCING" WITH FOREIGN/INDIRECT BELOW AVERAGE — TH
@@ -297,8 +297,8 @@
 - `2026-08-26` [rates-board.md:L1368](../rates-board.md) — 2026-08-26 ~1:20pm PDT — CLOSE SCAN (3:30pm ET curve) — ⭐⭐⭐⭐⭐ **THE 5Y INTERNALS LAND MID, NOT WEAK: 4.393% stop, +0.2bp TAIL, 2.37x, INDIRECTS 61.51%
 - `2026-08-26` [rates-board.md:L1407](../rates-board.md) — Addendum 2026-08-26 ~4:42pm PDT — **THE 7Y COLLISION RUBRIC (Jake's, adopted verbatim as the branch's quantitative bar).** Benchmarks: July 7Y = 0.2bp
 - `2026-08-26` [rates-board.md:L1409](../rates-board.md) — Addendum 2026-08-26 ~8:20pm PDT — **CONSUMER CONFIDENCE DETAIL (Conference Board, Aug): the −0.8 headline (89.4) hides the real move — EXPECTATIONS −5
-- `2026-08-27` [new-economy-regime.md:L4468](../new-economy-regime.md) — 2026-08-27 ~8:20pm PDT — ⭐⭐⭐⭐⭐ **THE FIFTH DISCLOSURE TRIGGER IS POLITICAL: WSJ — CORPORATE AMERICA IS PREPPING FOR SUBPOENAS IF THE HOUSE FLIPS (Nov 
-- `2026-08-27` [new-economy-regime.md:L4500](../new-economy-regime.md) — ⛔ CORRECTION 2026-08-27 ~8:35pm PDT (Jake, immediately): **HIS MARCH CALL WAS NOT ABOUT DISCLOSURES — IT WAS ABOUT THE STATE TAKING *SHARES IN THE ACT
+- `2026-08-27` [new-economy-regime.md:L4469](../new-economy-regime.md) — 2026-08-27 ~8:20pm PDT — ⭐⭐⭐⭐⭐ **THE FIFTH DISCLOSURE TRIGGER IS POLITICAL: WSJ — CORPORATE AMERICA IS PREPPING FOR SUBPOENAS IF THE HOUSE FLIPS (Nov 
+- `2026-08-27` [new-economy-regime.md:L4501](../new-economy-regime.md) — ⛔ CORRECTION 2026-08-27 ~8:35pm PDT (Jake, immediately): **HIS MARCH CALL WAS NOT ABOUT DISCLOSURES — IT WAS ABOUT THE STATE TAKING *SHARES IN THE ACT
 - `2026-08-27` [rates-board.md:L1411](../rates-board.md) — 2026-08-27 ~6:30am PDT — **CLAIMS: 203K vs 208Ke (4wk 205.5K) · CONTINUING −18K to ~1.78M — THE NO-HIRE/NO-FIRE SPLIT HOLDS ON BOTH LEGS: firing outri
 - `2026-08-27` [rates-board.md:L1424](../rates-board.md) — Addendum 2026-08-27 ~6:46am PDT — THURSDAY OPENING APPENDIX (the scan body re-ran Wednesday's; the appendix is the new data): **(1) 5Y CHARACTERIZATIO
 - `2026-08-27` [rates-board.md:L1426](../rates-board.md) — 2026-08-27 ~8:15am PDT — ⭐⭐⭐⭐⭐⭐ **BLOOMBERG CONFIRMS THE BOARD'S "ADMINISTERED 30Y" FINDING AS STREET CONSENSUS WITHIN 24 HOURS: BofA — "A NEW REGIME,
@@ -309,17 +309,17 @@
 - `2026-08-28` [rates-board.md:L1609](../rates-board.md) — Addendum 2026-08-28 ~9:35am PDT — ⛔⭐⭐⭐⭐ **JAKE'S TWO REFINEMENTS TO THE MORNING ENTRY, BOTH GRADED RIGHT — one relabels the regime claim, one CORRECTS
 - `2026-08-28` [rates-board.md:L1655](../rates-board.md) — 2026-08-28 ~1:50pm PDT — ⭐⭐⭐⭐⭐ **CLOSE (Warsh day, full scan): BEAR-FLATTENER CONFIRMED AT THE CLOSE — 2Y +14bp to 4.34 vs 30Y +3bp to 5.22 (2s30s 99→
 - `2026-08-29` [rates-board.md:L1712](../rates-board.md) — Addendum 2026-08-29 ~9:00am PDT — official Treasury close refinement (8/29 scan): **2Y 4.348% (+11.8bp) · 10Y 4.721%** (vs the close scan's 4.34/+14 —
-- `2026-08-30` [new-economy-regime.md:L4522](../new-economy-regime.md) — 2026-08-30 ~1:50pm PDT — ⭐⭐⭐ **"THE MOTHER OF ALL MEAN REVERSIONS" (ZH: Jefferies/LaFemina + UBS): GSCI-to-S&P ratio near its lowest in 5+ DECADES — f
-- `2026-08-30` [new-economy-regime.md:L4553](../new-economy-regime.md) — Addendum 2026-08-30 ~3:45pm PDT — ✔ **THE NUMERATOR CONFIRMS (Jake: "corroborates the numerator from earlier"): GSCI AGRICULTURE +11 consecutive sessi
+- `2026-08-30` [new-economy-regime.md:L4523](../new-economy-regime.md) — 2026-08-30 ~1:50pm PDT — ⭐⭐⭐ **"THE MOTHER OF ALL MEAN REVERSIONS" (ZH: Jefferies/LaFemina + UBS): GSCI-to-S&P ratio near its lowest in 5+ DECADES — f
+- `2026-08-30` [new-economy-regime.md:L4554](../new-economy-regime.md) — Addendum 2026-08-30 ~3:45pm PDT — ✔ **THE NUMERATOR CONFIRMS (Jake: "corroborates the numerator from earlier"): GSCI AGRICULTURE +11 consecutive sessi
 - `2026-08-30` [rates-board.md:L1714](../rates-board.md) — 2026-08-30 ~10:25am PDT — ⭐⭐⭐⭐⭐ **DRUCKENMILLER'S WARNING VIA ROBERTS/ZH (8/24 WSJ op-ed, reported 8/30 — archived `raw/2026-08-30-zh-roberts-druckenm
 - `2026-08-30` [rates-board.md:L1771](../rates-board.md) — Addendum 2026-08-30 ~1:55pm PDT — **the Druck PDF's charts, now rendered (poppler installed):** (1) the 1942-51 chart quantified — Fed's 2.5% ceiling 
 - `2026-08-31` [market-fragility.md:L4370](../market-fragility.md) — 2026-08-31 ~4:15pm PDT — ⭐⭐⭐⭐ **RECORD DISPERSION (Jake's paste): median 63-day stock-to-index correlation +0.10 — LOWEST ON RECORD (prior record +0.1
-- `2026-08-31` [new-economy-regime.md:L4572](../new-economy-regime.md) — Addendum 2026-08-31 ~9:40am PDT — **THE INDUSTRY COUNTER-MOBILIZES (8/31 scan): a pro-AI advocacy group launches a $50M campaign starting in KANSAS, O
-- `2026-08-31` [new-economy-regime.md:L4574](../new-economy-regime.md) — 2026-08-31 ~9:45am PDT — ⭐⭐⭐⭐ **BESSENT'S G20 (ZH fetch, Jake's pointer): "the world cannot have a China with a $1.2 TRILLION trade surplus" — G20 fin
-- `2026-08-31` [new-economy-regime.md:L4617](../new-economy-regime.md) — Addendum 2026-08-31 ~9:50am PDT — ⟲⭐⭐⭐⭐ **JAKE'S STANDING CALL, CREDITED (pre-repo, ~January): he read the TWO-OCEAN CHINA SQUEEZE at the time of the 
-- `2026-08-31` [new-economy-regime.md:L4636](../new-economy-regime.md) — Addendum 2026-08-31 ~9:55am PDT — ⟲⭐⭐⭐⭐⭐ **THE FULL PRE-REPO BACKFILL (Jake's project-space summary, memory current to ~late June, written Aug 4): THE
-- `2026-08-31` [new-economy-regime.md:L4675](../new-economy-regime.md) — Addendum 2026-08-31 ~10:05am PDT — ⭐⭐⭐⭐ **THE TETHER RE-UNDERWRITTEN FOR THE AUGUST WORLD (Jake: the thesis predates the open-source/token war, the ra
-- `2026-08-31` [new-economy-regime.md:L4707](../new-economy-regime.md) — 2026-08-31 ~12:35pm PDT — ⭐⭐⭐⭐⭐ **CLASS B INHERITED-STATE (project-gopher second pass — the fiscal/legal/monetary/tech-policy stack, Feb-July; rung: p
+- `2026-08-31` [new-economy-regime.md:L4573](../new-economy-regime.md) — Addendum 2026-08-31 ~9:40am PDT — **THE INDUSTRY COUNTER-MOBILIZES (8/31 scan): a pro-AI advocacy group launches a $50M campaign starting in KANSAS, O
+- `2026-08-31` [new-economy-regime.md:L4575](../new-economy-regime.md) — 2026-08-31 ~9:45am PDT — ⭐⭐⭐⭐ **BESSENT'S G20 (ZH fetch, Jake's pointer): "the world cannot have a China with a $1.2 TRILLION trade surplus" — G20 fin
+- `2026-08-31` [new-economy-regime.md:L4618](../new-economy-regime.md) — Addendum 2026-08-31 ~9:50am PDT — ⟲⭐⭐⭐⭐ **JAKE'S STANDING CALL, CREDITED (pre-repo, ~January): he read the TWO-OCEAN CHINA SQUEEZE at the time of the 
+- `2026-08-31` [new-economy-regime.md:L4637](../new-economy-regime.md) — Addendum 2026-08-31 ~9:55am PDT — ⟲⭐⭐⭐⭐⭐ **THE FULL PRE-REPO BACKFILL (Jake's project-space summary, memory current to ~late June, written Aug 4): THE
+- `2026-08-31` [new-economy-regime.md:L4676](../new-economy-regime.md) — Addendum 2026-08-31 ~10:05am PDT — ⭐⭐⭐⭐ **THE TETHER RE-UNDERWRITTEN FOR THE AUGUST WORLD (Jake: the thesis predates the open-source/token war, the ra
+- `2026-08-31` [new-economy-regime.md:L4708](../new-economy-regime.md) — 2026-08-31 ~12:35pm PDT — ⭐⭐⭐⭐⭐ **CLASS B INHERITED-STATE (project-gopher second pass — the fiscal/legal/monetary/tech-policy stack, Feb-July; rung: p
 - `2026-08-31` [rates-board.md:L1773](../rates-board.md) — 2026-08-31 ~7:20am PDT — ⭐⭐⭐⭐⭐ **OPENING SCAN (Mon 8/31): THE STRUCTURE PIVOTS — Friday's bear-flattener becomes a WAR-PREMIUM STEEPENER. 2Y −1.3bp (4
 - `2026-08-31` [rates-board.md:L1821](../rates-board.md) — Addendum 2026-08-31 ~9:42am PDT — **the week's catalyst calendar + a discriminator adopted (Jake's brief):** JOLTS Tue 10:00 ET · **payrolls Fri 8:30 
 - `2026-08-31` [rates-board.md:L1823](../rates-board.md) — 2026-08-31 ~1:25pm PDT — ⭐⭐⭐⭐⭐ **MONDAY CLOSE (8/31 scan tail; the pasted top = Friday's close, already filed): THE 30Y CLOSES AT 5.25 OFFICIAL / 5.24
@@ -332,16 +332,16 @@
 
 ## 2026-09
 
-- `2026-09-01` [new-economy-regime.md:L4751](../new-economy-regime.md) — Addendum 2026-09-01 ~8:00am PDT — ⭐⭐⭐⭐ **THE "CAROLINA PRINCIPLES" (Reuters, via 9/1 brief): the White House takes a HANDS-OFF-AI position to the same
-- `2026-09-01` [new-economy-regime.md:L4757](../new-economy-regime.md) — Addendum 2026-09-01 ~8:25am PDT — ✅⭐⭐⭐ **JOLTS JULY (7am PT registered item, closed): the frozen-labor regime prints ANOTHER tick, with the freeze DEE
-- `2026-09-01` [new-economy-regime.md:L4763](../new-economy-regime.md) — Addendum 2026-09-01 ~9:17am PDT — **Musk publicly backs the Carolina Principles at the G20 ("default legal, not default illegal"; favor startups/acces
-- `2026-09-01` [new-economy-regime.md:L4765](../new-economy-regime.md) — Addendum 2026-09-01 ~9:20am PDT — **CAROLINA PRINCIPLES, FULL TEXT VIA KRATSIOS' PREPARED REMARKS (Reuters obtained, Jake's brief): the framework is b
-- `2026-09-01` [new-economy-regime.md:L4767](../new-economy-regime.md) — 2026-09-01 ~9:30am PDT — ⭐⭐⭐⭐ **RABOBANK/PICTON ON THE G20 (ZH, Jake's paste): "DEATH BY A THOUSAND CUTS" — the Economic Outcast campaign gets its ALL
-- `2026-09-01` [new-economy-regime.md:L4783](../new-economy-regime.md) — Addendum 2026-09-01 ~10:20am PDT — **SACKS AT THE G20 (AFP via Jake): the light-touch doctrine gets its OPERATIONAL edge — explicit rejection of any p
-- `2026-09-01` [new-economy-regime.md:L4787](../new-economy-regime.md) — Addendum 2026-09-01 ~11:29am PDT — ⭐⭐⭐⭐ **GS/FEILER: "WORSE UNDER THE HOOD" — CONSUMER STOCKS CRACKING (ZH): retail −6.5% in August, −5% vs the market
-- `2026-09-01` [new-economy-regime.md:L4791](../new-economy-regime.md) — Addendum 2026-09-01 ~4:20pm PDT — **Administered-price ledger add (WH "Unleashing American Energy" fact sheet → full entry [[oil-value-chain]] 4:15pm)
-- `2026-09-01` [new-economy-regime.md:L4793](../new-economy-regime.md) — Addendum 2026-09-01 ~5:15pm PDT — ⭐⭐⭐⭐ **THE MINISTERIAL-RESPONSE WATCH RESOLVES WITH THE ONE SIGNATORY NOBODY REGISTERED: CHINA SIGNED THE CAROLINA P
-- `2026-09-01` [new-economy-regime.md:L4798](../new-economy-regime.md) — Addendum 2026-09-01 ~5:25pm PDT — ⭐⭐⭐⭐ **THE OTHER HALF OF THE SAME AFTERNOON (Axios/Brown, Jake's paste): G20 FINANCE COMMUNIQUÉ FAILS — CHINA THE LO
+- `2026-09-01` [new-economy-regime.md:L4752](../new-economy-regime.md) — Addendum 2026-09-01 ~8:00am PDT — ⭐⭐⭐⭐ **THE "CAROLINA PRINCIPLES" (Reuters, via 9/1 brief): the White House takes a HANDS-OFF-AI position to the same
+- `2026-09-01` [new-economy-regime.md:L4758](../new-economy-regime.md) — Addendum 2026-09-01 ~8:25am PDT — ✅⭐⭐⭐ **JOLTS JULY (7am PT registered item, closed): the frozen-labor regime prints ANOTHER tick, with the freeze DEE
+- `2026-09-01` [new-economy-regime.md:L4764](../new-economy-regime.md) — Addendum 2026-09-01 ~9:17am PDT — **Musk publicly backs the Carolina Principles at the G20 ("default legal, not default illegal"; favor startups/acces
+- `2026-09-01` [new-economy-regime.md:L4766](../new-economy-regime.md) — Addendum 2026-09-01 ~9:20am PDT — **CAROLINA PRINCIPLES, FULL TEXT VIA KRATSIOS' PREPARED REMARKS (Reuters obtained, Jake's brief): the framework is b
+- `2026-09-01` [new-economy-regime.md:L4768](../new-economy-regime.md) — 2026-09-01 ~9:30am PDT — ⭐⭐⭐⭐ **RABOBANK/PICTON ON THE G20 (ZH, Jake's paste): "DEATH BY A THOUSAND CUTS" — the Economic Outcast campaign gets its ALL
+- `2026-09-01` [new-economy-regime.md:L4784](../new-economy-regime.md) — Addendum 2026-09-01 ~10:20am PDT — **SACKS AT THE G20 (AFP via Jake): the light-touch doctrine gets its OPERATIONAL edge — explicit rejection of any p
+- `2026-09-01` [new-economy-regime.md:L4788](../new-economy-regime.md) — Addendum 2026-09-01 ~11:29am PDT — ⭐⭐⭐⭐ **GS/FEILER: "WORSE UNDER THE HOOD" — CONSUMER STOCKS CRACKING (ZH): retail −6.5% in August, −5% vs the market
+- `2026-09-01` [new-economy-regime.md:L4792](../new-economy-regime.md) — Addendum 2026-09-01 ~4:20pm PDT — **Administered-price ledger add (WH "Unleashing American Energy" fact sheet → full entry [[oil-value-chain]] 4:15pm)
+- `2026-09-01` [new-economy-regime.md:L4794](../new-economy-regime.md) — Addendum 2026-09-01 ~5:15pm PDT — ⭐⭐⭐⭐ **THE MINISTERIAL-RESPONSE WATCH RESOLVES WITH THE ONE SIGNATORY NOBODY REGISTERED: CHINA SIGNED THE CAROLINA P
+- `2026-09-01` [new-economy-regime.md:L4799](../new-economy-regime.md) — Addendum 2026-09-01 ~5:25pm PDT — ⭐⭐⭐⭐ **THE OTHER HALF OF THE SAME AFTERNOON (Axios/Brown, Jake's paste): G20 FINANCE COMMUNIQUÉ FAILS — CHINA THE LO
 - `2026-09-01` [rates-board.md:L1905](../rates-board.md) — 2026-09-01 ~7:40am PDT — ⭐⭐⭐⭐⭐ **TUESDAY OPEN (9/1 scan, compiled ~6:30am PT): GATE 1 PRINTS *INSIDE* THE BAND ON CONTROL-WEEK DAY 2 — 30Y 5.274 (>5.2
 - `2026-09-01` [rates-board.md:L1906](../rates-board.md) — DATA (scan, `raw/2026-09-01-bond-opening-scan.txt`; ICE BofA = 8/28 obs, NOT live)
 - `2026-09-01` [rates-board.md:L1922](../rates-board.md) — Addendum 2026-09-01 ~7:55am PDT — **two adds from the 9/1 intelligence brief:** (1) **UK 10Y ~5.25% — highest since 2008** (the 30Y at 5.9%/1998 filed
@@ -351,10 +351,10 @@
 - `2026-09-01` [rates-board.md:L1930](../rates-board.md) — 2026-09-01 ~1:15pm PDT — ⭐⭐⭐⭐⭐⭐ **TUESDAY CLOSE (9/1 scan, `raw/2026-09-01-bond-close-scan.txt`): THE FLIP TEST RESULT IS IN — Monday's OAS obs (war p
 - `2026-09-01` [rates-board.md:L1948](../rates-board.md) — Addendum 2026-09-01 ~1:30pm PDT — ✅⭐⭐⭐⭐ **THE FRAGILITY LADDER CORROBORATES THE BOTTOM-RUNG READ FROM A SECOND INSTRUMENT (feed refreshed in-session, 
 - `2026-09-01` [rates-board.md:L3159](../rates-board.md) — ⚠️ BRENT — THE VAULT HAS NO PRIMARY AFTER 2026-09-01, AND THAT REFRAMES YESTERDAY'S "CORRECTION"
-- `2026-09-02` [new-economy-regime.md:L4805](../new-economy-regime.md) — 2026-09-02 ~7:50am PDT — ⭐⭐⭐ **ADP AUGUST +38K (cons +48K; July rev +46K from +44K) — the frozen-churn regime's next tick, now with SECTOR SHAPE: good
-- `2026-09-02` [new-economy-regime.md:L4811](../new-economy-regime.md) — 2026-09-02 ~8:20am PDT — **Chapel Hill Day 2 (Jake's summary → full entry [[buildout-bottleneck-map]] 9/2): LUTNICK — the administration's inclination
-- `2026-09-02` [new-economy-regime.md:L4813](../new-economy-regime.md) — Addendum 2026-09-02 ~8:47am PDT — **Two ZH items to the regime threads:** (1) **UBER cuts ~10% (~3,600) — "removing layers," reallocating to delivery,
-- `2026-09-02` [new-economy-regime.md:L4815](../new-economy-regime.md) — 2026-09-02 ~7:05pm PDT — ⭐⭐⭐⭐⭐ **CHAPEL HILL'S TWO POLICY LEVERS THE BOARDS DIDN'T HAVE (Jake's synthesis): (1) COPYRIGHT — Lutnick pushed G20 members
+- `2026-09-02` [new-economy-regime.md:L4806](../new-economy-regime.md) — 2026-09-02 ~7:50am PDT — ⭐⭐⭐ **ADP AUGUST +38K (cons +48K; July rev +46K from +44K) — the frozen-churn regime's next tick, now with SECTOR SHAPE: good
+- `2026-09-02` [new-economy-regime.md:L4812](../new-economy-regime.md) — 2026-09-02 ~8:20am PDT — **Chapel Hill Day 2 (Jake's summary → full entry [[buildout-bottleneck-map]] 9/2): LUTNICK — the administration's inclination
+- `2026-09-02` [new-economy-regime.md:L4814](../new-economy-regime.md) — Addendum 2026-09-02 ~8:47am PDT — **Two ZH items to the regime threads:** (1) **UBER cuts ~10% (~3,600) — "removing layers," reallocating to delivery,
+- `2026-09-02` [new-economy-regime.md:L4816](../new-economy-regime.md) — 2026-09-02 ~7:05pm PDT — ⭐⭐⭐⭐⭐ **CHAPEL HILL'S TWO POLICY LEVERS THE BOARDS DIDN'T HAVE (Jake's synthesis): (1) COPYRIGHT — Lutnick pushed G20 members
 - `2026-09-02` [rates-board.md:L1950](../rates-board.md) — 2026-09-02 ~7:50am PDT — ⭐⭐⭐ **CONTROL-WEEK DAY 3 OPEN + THE DISCRIMINATOR'S REHEARSAL (ADP +38K soft; header tests ✓ all three): 5Y 4.55 (−0.7bp; ran
 - `2026-09-02` [rates-board.md:L1954](../rates-board.md) — 2026-09-02 ~8:10am PDT — ⭐⭐⭐⭐⭐ **CONTROL-WEEK DAY 3, THE OVERNIGHT (9/2 opening scan + Jake): BOTH SCAN THRESHOLDS BREACHED ON IRAN'S RETALIATION — 10
 - `2026-09-02` [rates-board.md:L1955](../rates-board.md) — DATA (`raw/2026-09-02-bond-opening-scan.txt`)
@@ -362,9 +362,9 @@
 - `2026-09-02` [rates-board.md:L1970](../rates-board.md) — Addendum 2026-09-02 ~9:30am PDT — ⭐⭐⭐ **THE 30Y IN ANNUAL FRAME (Bloomberg chart + wire stats via Jake, `raw/2026-09-02-bloomberg-30y-avg-yield-since-
 - `2026-09-03` [market-fragility.md:L4397](../market-fragility.md) — Addendum 2026-09-03 ~9:05am PDT — **THE POSITIONING/VOL LEG OF THE GOLDMAN SPLIT (full entry → [[metered-compute]] 9:05am):** GS Prime — "a material d
 - `2026-09-03` [market-fragility.md:L4399](../market-fragility.md) — Addendum 2026-09-03 ~2:10pm PDT — ⭐⭐⭐⭐⭐ **THE DISPERSION RECORD HAS A CREDIT TWIN, AND IT IS MEASURABLE: CCC−HY OAS GAP 787bp = 100th PERCENTILE of 79
-- `2026-09-03` [new-economy-regime.md:L4822](../new-economy-regime.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
-- `2026-09-03` [new-economy-regime.md:L4831](../new-economy-regime.md) — Addendum 2026-09-03 ~8:30am PDT — **Semi tariffs: status moves from press report to Commerce-Secretary confirmation (holdings scan).** Lutnick confirm
-- `2026-09-03` [new-economy-regime.md:L4833](../new-economy-regime.md) — Addendum 2026-09-03 ~2:25pm PDT — **THE CAROLINA PRINCIPLES' OWN EXCEPTION GOT SWITCHED ON BY THE FIRM THAT BENEFITS FROM IT (full grading → [[danger-
+- `2026-09-03` [new-economy-regime.md:L4823](../new-economy-regime.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐ **XI IN CAIRO: "OPPOSE EXTERNAL INTERFERENCE," OFFERS TO "SAFEGUARD SHIPPING LANES," SIGNS SUEZ ZONE PHASE 3; LUTNICK SHU
+- `2026-09-03` [new-economy-regime.md:L4832](../new-economy-regime.md) — Addendum 2026-09-03 ~8:30am PDT — **Semi tariffs: status moves from press report to Commerce-Secretary confirmation (holdings scan).** Lutnick confirm
+- `2026-09-03` [new-economy-regime.md:L4834](../new-economy-regime.md) — Addendum 2026-09-03 ~2:25pm PDT — **THE CAROLINA PRINCIPLES' OWN EXCEPTION GOT SWITCHED ON BY THE FIRM THAT BENEFITS FROM IT (full grading → [[danger-
 - `2026-09-03` [rates-board.md:L1975](../rates-board.md) — 2026-09-03 ~7:15am PDT — ⭐⭐⭐⭐⭐ **THURSDAY OPEN (9/3 scan, `raw/2026-09-03-bond-opening-scan.txt`): A RELIEF RALLY WITH THE RIGHT SHAPE — WALLER LEANS 
 - `2026-09-03` [rates-board.md:L1989](../rates-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **WALLER'S CONDITION IS THE CPI; ISM SERVICES 55.4 ARGUES THE OTHER WAY; JAPAN'S 30Y TAILS AS THE GPIF STORY STARTS (ZH 
 - `2026-09-03` [rates-board.md:L2003](../rates-board.md) — Addendum 2026-09-03 ~7:35am PDT — ⭐⭐⭐⭐ **ISM SERVICES: THE HEADLINE IS 55.4, THE COMPOSITION IS A STAGFLATION PRINT — PRICES PAID 72.6, EMPLOYMENT 47.
@@ -379,13 +379,13 @@
 - `2026-09-03` [rates-board.md:L2089](../rates-board.md) — Addendum 2026-09-03 ~4:05pm PDT — ⭐⭐⭐⭐⭐⭐ **Jake's Q: "if raising rates lowers the 30Y, does corporate spread follow it down, or are the sheer numbers 
 - `2026-09-03` [rates-board.md:L2108](../rates-board.md) — Addendum 2026-09-03 ~4:20pm PDT — ⭐⭐⭐⭐⭐⭐ **Jake's Q: "What if they hike and the long end RISES because of debt service? Bessent is doubling Treasury s
 - `2026-09-03` [rates-board.md:L2131](../rates-board.md) — 2026-09-03 ~8:30pm PDT — ⭐⭐⭐⭐⭐⭐ **GOLDMAN RAISES 2026 US IG GROSS ISSUANCE TO $2.3T FROM $2.1T AND PENCILS $2.4T FOR 2027 (Jake's paste) — AND ITS OWN
-- `2026-09-04` [new-economy-regime.md:L4835](../new-economy-regime.md) — Addendum 2026-09-04 ~7:05am PDT — ✅ **THE TARIFF-REFUND ⬜ CLOSES WITH A NUMBER, FROM A P&L: LULULEMON'S 60.5% GROSS MARGIN INCLUDED 560bp FROM $134.5M
-- `2026-09-04` [new-economy-regime.md:L4837](../new-economy-regime.md) — Addendum 2026-09-04 ~2:10pm PDT — ⚠️ **"ANNOUNCED HIRING PLANS" IS A PRESS-RELEASE COUNT, AND THE SCALE MAKES IT A NARRATIVE INDICATOR RATHER THAN A L
-- `2026-09-04` [new-economy-regime.md:L4847](../new-economy-regime.md) — Addendum 2026-09-04 ~2:15pm PDT — ⛔ **THE CHART CONTRADICTS ITS OWN CAPTION: ON CHALLENGER'S OWN MONTHLY SERIES, HIRING-PLAN MOMENTUM IS NEGATIVE (`ra
-- `2026-09-04` [new-economy-regime.md:L4858](../new-economy-regime.md) — 2026-09-04 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐ **BEIJING SANCTIONED THE AUDITOR, NOT THE EXPORT: CHINESE RARE-EARTH SUPPLIERS ARE REFUSING US SHIPMENTS AND NOBODY HA
-- `2026-09-04` [new-economy-regime.md:L4866](../new-economy-regime.md) — Addendum 2026-09-04 ~3:10pm PDT — **USAR / SERRA VERDE: STILL NOT CLOSED, AND THE PENDING CLOSE IS WORTH MORE TODAY THAN IT WAS WEDNESDAY (Jake's ques
-- `2026-09-04` [new-economy-regime.md:L4873](../new-economy-regime.md) — ⟲ CORRECTION + MAJOR ENTRY 2026-09-04 ~3:15pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE SERRA VERDE MERGER CLOSED. I SAID IT HADN'T, FIVE MINUTES AGO, AND I WAS WRONG.** (`
-- `2026-09-04` [new-economy-regime.md:L4899](../new-economy-regime.md) — Addendum 2026-09-04 ~11:15pm PDT — **HUANG × EBRARD AT CHAPEL HILL: THE MEETING IS NR. THE SENTENCE ABOUT MEXICAN MANUFACTURING IS THE DATUM, AND IT L
+- `2026-09-04` [new-economy-regime.md:L4836](../new-economy-regime.md) — Addendum 2026-09-04 ~7:05am PDT — ✅ **THE TARIFF-REFUND ⬜ CLOSES WITH A NUMBER, FROM A P&L: LULULEMON'S 60.5% GROSS MARGIN INCLUDED 560bp FROM $134.5M
+- `2026-09-04` [new-economy-regime.md:L4838](../new-economy-regime.md) — Addendum 2026-09-04 ~2:10pm PDT — ⚠️ **"ANNOUNCED HIRING PLANS" IS A PRESS-RELEASE COUNT, AND THE SCALE MAKES IT A NARRATIVE INDICATOR RATHER THAN A L
+- `2026-09-04` [new-economy-regime.md:L4848](../new-economy-regime.md) — Addendum 2026-09-04 ~2:15pm PDT — ⛔ **THE CHART CONTRADICTS ITS OWN CAPTION: ON CHALLENGER'S OWN MONTHLY SERIES, HIRING-PLAN MOMENTUM IS NEGATIVE (`ra
+- `2026-09-04` [new-economy-regime.md:L4859](../new-economy-regime.md) — 2026-09-04 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐ **BEIJING SANCTIONED THE AUDITOR, NOT THE EXPORT: CHINESE RARE-EARTH SUPPLIERS ARE REFUSING US SHIPMENTS AND NOBODY HA
+- `2026-09-04` [new-economy-regime.md:L4867](../new-economy-regime.md) — Addendum 2026-09-04 ~3:10pm PDT — **USAR / SERRA VERDE: STILL NOT CLOSED, AND THE PENDING CLOSE IS WORTH MORE TODAY THAN IT WAS WEDNESDAY (Jake's ques
+- `2026-09-04` [new-economy-regime.md:L4874](../new-economy-regime.md) — ⟲ CORRECTION + MAJOR ENTRY 2026-09-04 ~3:15pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE SERRA VERDE MERGER CLOSED. I SAID IT HADN'T, FIVE MINUTES AGO, AND I WAS WRONG.** (`
+- `2026-09-04` [new-economy-regime.md:L4900](../new-economy-regime.md) — Addendum 2026-09-04 ~11:15pm PDT — **HUANG × EBRARD AT CHAPEL HILL: THE MEETING IS NR. THE SENTENCE ABOUT MEXICAN MANUFACTURING IS THE DATUM, AND IT L
 - `2026-09-04` [rates-board.md:L2147](../rates-board.md) — 2026-09-04 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **THE PAYROLL PRINT BREAKS THE BASE CASE — AGAINST ME AND FOR JAKE: +162K vs +56K, AND JULY REVISED FROM −23K TO +21K 
 - `2026-09-04` [rates-board.md:L2168](../rates-board.md) — 2026-09-04 ~7:55am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE OPENING SCAN HANDS US A TABLE THAT PARTIALLY UNDERCUTS THIS BOARD'S OWN FRAMING — AND THE 30Y CLOSED THE MOVE *
 - `2026-09-04` [rates-board.md:L2197](../rates-board.md) — Addendum 2026-09-04 ~12:05pm PDT — **JAKE: "No comment on jobs? Rate hike odds increase, that's why long yields down." — CORRECT, AND THE DECOMPOSITIO
@@ -395,7 +395,7 @@
 - `2026-09-04` [rates-board.md:L2280](../rates-board.md) — 2026-09-04 ~1:30pm PDT — ✅⭐⭐⭐⭐⭐⭐ **RULE 20's FIRST FULL APPLICATION, AND IT SCORES MY OWN PRE-REGISTERED CALL: THE ENTIRE DAY WAS REAL, BREAKEVENS DID
 - `2026-09-04` [rates-board.md:L2309](../rates-board.md) — Addendum 2026-09-04 ~2:20pm PDT — ✅⛔ **NBIM's ACTUAL LETTER: $75B OUT OF TREASURIES, $20B INTO JGBs, AND THE DOLLAR EXPOSURE DOES NOT SHRINK — MY 7:05
 - `2026-09-04` [rates-board.md:L2318](../rates-board.md) — Addendum 2026-09-04 ~11:25pm PDT — ⛔⭐⭐⭐⭐ **THE YEN-CARRY ALARM IS A DAY STALE, ITS INTERVENTION CLAIM IS DISCONFIRMED BY A PRIMARY THIS BOARD ALREADY 
-- `2026-09-05` [new-economy-regime.md:L4913](../new-economy-regime.md) — Addendum 2026-09-05 ~8:40am PDT — **RARE EARTHS: THE VAULT ALREADY HELD THIS (9/4 2:20pm). THE BRIEF'S ADDS ARE THREE NUMBERS AND ONE GOOD SECOND-ORDE
+- `2026-09-05` [new-economy-regime.md:L4914](../new-economy-regime.md) — Addendum 2026-09-05 ~8:40am PDT — **RARE EARTHS: THE VAULT ALREADY HELD THIS (9/4 2:20pm). THE BRIEF'S ADDS ARE THREE NUMBERS AND ONE GOOD SECOND-ORDE
 - `2026-09-05` [rates-board.md:L2340](../rates-board.md) — Addendum 2026-09-05 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐ **RULE 20 ON THE WSJ CHART: THE WAR WINDOW'S 80bp IS 88% REAL. SIX MONTHS OF A WAR THAT SHUT HORMUZ MOVED 10Y
 - `2026-09-05` [rates-board.md:L2376](../rates-board.md) — Addendum 2026-09-05 ~8:30am PDT — ⭐⭐⭐⭐⭐⭐ **WALLER JUST NAMED THE MECHANISM BEHIND THIS MORNING'S 88%, AND THE RECOVERY-RATE DATUM MEANS CCC AT 10.53pp
 - `2026-09-05` [rates-board.md:L2409](../rates-board.md) — Addendum 2026-09-05 ~9:15am PDT — ⭐⭐⭐⭐⭐ **JAKE: HYPERSCALERS ARE PRICE-INSENSITIVE BORROWERS, SO BUY CORPORATES INSTEAD OF TREASURIES. THE FIRST HALF 
@@ -407,9 +407,9 @@
 - `2026-09-06` [market-fragility.md:L4437](../market-fragility.md) — Addendum 2026-09-06 ~10:35pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **⬜ CLOSED: CAPE IS 41.41. SEVENTEEN MONTHS IN 155 YEARS HAVE BEEN HERE OR HIGHER, AND SIXTEEN OF THEM ARE 
 - `2026-09-06` [market-fragility.md:L4456](../market-fragility.md) — 2026-09-06 ~11:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE PER-NAME ANSWER (Jake's Colab run, `raw/2026-09-06-megacap-pe-before-rips-colab-output.txt`): TRAILING P/E CARR
 - `2026-09-06` [market-fragility.md:L4480](../market-fragility.md) — Addendum 2026-09-06 ~11:55pm PDT — **JAKE'S READ ON THE STUDY, FILED AS THESIS WITH THE PUSHBACK ATTACHED — AND SIX GRADES INITIALISED UNDER THE NEW U
-- `2026-09-07` [new-economy-regime.md:L4924](../new-economy-regime.md) — Addendum 2026-09-07 ~9:40am PDT — **ZH SCAN: (1) COPPER — US SEABORNE IMPORTS 200kt IN JULY (record), LME NEAR RECORDS, ~$14,450/t AT 8/30; BRADESCO: 
-- `2026-09-07` [new-economy-regime.md:L4928](../new-economy-regime.md) — 2026-09-07 ~6:05pm PDT — ⭐⭐⭐⭐⭐ **UMICH 1-YEAR EXPECTATIONS SPLIT BY STOCKHOLDINGS (Jake's chart, Aug 28 2026 vintage, `raw/2026-09-07-umich-inflation-
-- `2026-09-07` [new-economy-regime.md:L4950](../new-economy-regime.md) — Addendum 2026-09-07 ~7:45pm PDT — **CHINA AUGUST TRADE (Bloomberg headlines via Jake): EXPORTS +25.0% y/y USD (est. +25.9) · IMPORTS +28.2% (est. +31.
+- `2026-09-07` [new-economy-regime.md:L4925](../new-economy-regime.md) — Addendum 2026-09-07 ~9:40am PDT — **ZH SCAN: (1) COPPER — US SEABORNE IMPORTS 200kt IN JULY (record), LME NEAR RECORDS, ~$14,450/t AT 8/30; BRADESCO: 
+- `2026-09-07` [new-economy-regime.md:L4929](../new-economy-regime.md) — 2026-09-07 ~6:05pm PDT — ⭐⭐⭐⭐⭐ **UMICH 1-YEAR EXPECTATIONS SPLIT BY STOCKHOLDINGS (Jake's chart, Aug 28 2026 vintage, `raw/2026-09-07-umich-inflation-
+- `2026-09-07` [new-economy-regime.md:L4951](../new-economy-regime.md) — Addendum 2026-09-07 ~7:45pm PDT — **CHINA AUGUST TRADE (Bloomberg headlines via Jake): EXPORTS +25.0% y/y USD (est. +25.9) · IMPORTS +28.2% (est. +31.
 - `2026-09-07` [rates-board.md:L2600](../rates-board.md) — 2026-09-07 ~8:15am PDT — **HOLIDAY-OPEN BRIEF: EL-ERIAN "EXPLICITLY MAKING OUR ARGUMENT" — FILED HERE THREE DAYS AGO WITH AN INSTITUTION ATTACHED. THE
 - `2026-09-07` [rates-board.md:L2622](../rates-board.md) — Addendum 2026-09-07 ~8:25am PDT — **DAILY BRIEF: THE WEEK RESTATED, WITH TWO THINGS TO ADD TO THE 8:15am TABLE — THE BUYBACK CONFOUND ON WEDNESDAY, AN
 - `2026-09-07` [rates-board.md:L2631](../rates-board.md) — Addendum 2026-09-07 ~9:35am PDT — **JAKE: "IS THIS TALKING ABOUT THE COUPON PRICE?" (Kobeissi post of BofA chart: 15yr+ Treasuries, 10-year rolling an
@@ -420,9 +420,9 @@
 - `2026-09-08` [market-fragility.md:L4506](../market-fragility.md) — Addendum 2026-09-08 ~3:40pm PDT — **JAKE SHARPENS THE THESIS, AND ONE DISTINCTION IN IT IS NEW TO THE VAULT. MY 3:30pm PUSHBACK #1 IS PARTLY WITHDRAWN
 - `2026-09-08` [market-fragility.md:L4518](../market-fragility.md) — 2026-09-08 ~3:50pm PDT — ⛔✅⭐⭐⭐⭐⭐⭐ **THE THESIS TEST RAN (`raw/2026-09-08-jevons-beta-decay-colab-output.txt`): THE "NOW" COLUMN IS EMPTY SO THE QUESTI
 - `2026-09-08` [market-fragility.md:L4550](../market-fragility.md) — 2026-09-08 ~3:55pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **EVENT-ANCHORED TEST (Jake's design: each name's own MAY-2026 print, 60 sessions either side; `raw/2026-09-08-compu
-- `2026-09-08` [new-economy-regime.md:L4962](../new-economy-regime.md) — 2026-09-08 ~8:40am PDT — ⭐⭐⭐⭐⭐ **WASHINGTON TAKES DIRECT EQUITY IN QUANTUM: D-WAVE AND RIGETTI FINALISE $100M CHIPS DEALS TODAY — AND THE D-WAVE ARITH
-- `2026-09-08` [new-economy-regime.md:L4979](../new-economy-regime.md) — Addendum 2026-09-08 ~9:35pm PDT — ✔✔ **UBS CLOSES LAST NIGHT'S CHINA ⬜ FROM ABOVE: GLOBAL EXPORT VALUES +19% y/y (84th PERCENTILE OF 25 YEARS) — AND T
-- `2026-09-08` [new-economy-regime.md:L4986](../new-economy-regime.md) — 2026-09-08 ~11:00pm PDT — ⭐⭐⭐⭐ **DECOMPOSE THE GROUP MEAN, AGAIN, AND IT INVERTS THE STORY: 58% OF US WORKERS FEAR OBSOLESCENCE — BUT **74% OF TECHNOL
+- `2026-09-08` [new-economy-regime.md:L4963](../new-economy-regime.md) — 2026-09-08 ~8:40am PDT — ⭐⭐⭐⭐⭐ **WASHINGTON TAKES DIRECT EQUITY IN QUANTUM: D-WAVE AND RIGETTI FINALISE $100M CHIPS DEALS TODAY — AND THE D-WAVE ARITH
+- `2026-09-08` [new-economy-regime.md:L4980](../new-economy-regime.md) — Addendum 2026-09-08 ~9:35pm PDT — ✔✔ **UBS CLOSES LAST NIGHT'S CHINA ⬜ FROM ABOVE: GLOBAL EXPORT VALUES +19% y/y (84th PERCENTILE OF 25 YEARS) — AND T
+- `2026-09-08` [new-economy-regime.md:L4987](../new-economy-regime.md) — 2026-09-08 ~11:00pm PDT — ⭐⭐⭐⭐ **DECOMPOSE THE GROUP MEAN, AGAIN, AND IT INVERTS THE STORY: 58% OF US WORKERS FEAR OBSOLESCENCE — BUT **74% OF TECHNOL
 - `2026-09-08` [rates-board.md:L2695](../rates-board.md) — 2026-09-08 ~8:10am PDT — ✅⛔⭐⭐⭐⭐⭐ **NY FED SURVEY (registered item, resolved): 1Y 3.58% (unch from 3.6) · 3Y 3.19% (from 3.3) · 5Y 3.01% (unch). THE TE
 - `2026-09-08` [rates-board.md:L2717](../rates-board.md) — 2026-09-08 ~11:20am PDT — ✅⭐⭐⭐⭐⭐ **THE 3Y CLEARS WELL (registered item), BESSENT PRE-EMPTIVELY DISCLAIMS HIS OWN TOOL, AND DEUTSCHE BANK'S COUNTER-THE
 - `2026-09-08` [rates-board.md:L2735](../rates-board.md) — 2026-09-08 ~2:55pm PDT — ⭐⭐⭐⭐⭐ **CLOSE: THE PRE-REGISTERED BREAKEVEN TEST SHOWED UP THREE DAYS EARLY, AND THE 3Y's STRENGTH WAS ENTIRELY DOMESTIC** *(
@@ -441,7 +441,7 @@
 - `2026-09-09` [rates-board.md:L2958](../rates-board.md) — Addendum 2026-09-09 ~6:50pm PDT — 📖 **DEFINITION FILED, BECAUSE I USED THE TERM FOR A FULL ENTRY WITHOUT DEFINING IT AND JAKE HAD TO ASK. THE VAULT HA
 - `2026-09-10` [market-fragility.md:L4591](../market-fragility.md) — 2026-09-10 ~7:05am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE DOT-COM RATES CLAIM SPLICES TWO DIFFERENT WINDOWS, AND CHECKING IT PRODUCED SOMETHING BETTER THAN THE DEBUNK: *
 - `2026-09-10` [market-fragility.md:L4624](../market-fragility.md) — 2026-09-10 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **THE AGENDA EXPLAINS THE WEEK, AND IT IS A CLASS-8 CATCH ON EVERYTHING BULLISH THE VAULT HAS FILED SINCE MONDAY: **TH
-- `2026-09-10` [new-economy-regime.md:L5003](../new-economy-regime.md) — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
+- `2026-09-10` [new-economy-regime.md:L5004](../new-economy-regime.md) — 2026-09-10 ~6:50am PDT — ⭐⭐⭐⭐⭐ **THE ETS SURVEY SAID 74% OF TECH WORKERS FEAR OBSOLESCENCE. CLAIMS SAY **206,000** AND THE INSURED UNEMPLOYMENT RATE I
 - `2026-09-10` [rates-board.md:L2969](../rates-board.md) — 2026-09-10 ~6:35am PDT — ⭐⭐⭐⭐⭐⭐ **AUGUST PPI: THE SOFT CORE IS PARTLY *MARGIN COMPRESSION*, NOT DISINFLATION — AND THE BLS'S OWN "EX TRADE MARGINS" SE
 - `2026-09-10` [rates-board.md:L2996](../rates-board.md) — Addendum 2026-09-10 ~6:45am PDT — ⛔⛔ **THE FULLER TABLE ARRIVES TEN MINUTES AFTER I FILED AND IT CORRECTS MY MARGIN-COMPRESSION READ. THE TRADE-MARGIN
 - `2026-09-10` [rates-board.md:L3011](../rates-board.md) — Addendum 2026-09-10 ~7:30am PDT — **THE OPEN: 10Y ~4.91%, HIKE ODDS 62% → 74% IN A SESSION, AND **THE ECB HIKED** — WHICH IS THE ITEM THAT CHALLENGES 
@@ -495,9 +495,25 @@
 - `2026-09-25` [rates-board.md:L3721](../rates-board.md) — 2026-09-25 ~3:15pm PDT (Y'd ~3:55pm) — 🏠 **AUGUST NEW-HOME SALES: VOLUME UP, PRICES DOWN THE MOST ON RECORD — BUILDERS ARE BUYING THE SALES WITH MARGI
 - `2026-09-25` [rates-board.md:L3730](../rates-board.md) — 2026-09-25 ~4:40pm PDT (Y'd ~6:05pm) — 📐 **THE YEAR'S 10Y RISE, DECOMPOSED: +100bp, ~92bp OF IT REAL. REID (DEUTSCHE BANK) VERIFIED.** *(FRED DGS10 / 
 - `2026-09-25` [rates-board.md:L3737](../rates-board.md) — 2026-09-25 ~11:27pm PDT (Y'd 9/26 ~9:27am) — 🧭 **BURRY: "IF THE 10Y GETS CLOSE TO 7%, THE NEED TO HOLD EQUITIES IN A 401(k) DRAMATICALLY DECLINES." TH
-- `2026-09-26` [new-economy-regime.md:L5013](../new-economy-regime.md) — 2026-09-26 ~6:57pm PDT (Y'd 9/27 ~9:26am) — 🔀 **"ENERGY INDEPENDENCE" IS MOSTLY SUPPLIER REALIGNMENT: COUNTRIES AREN'T BECOMING INDEPENDENT, THEY'RE S
+- `2026-09-26` [new-economy-regime.md:L5014](../new-economy-regime.md) — 2026-09-26 ~6:57pm PDT (Y'd 9/27 ~9:26am) — 🔀 **"ENERGY INDEPENDENCE" IS MOSTLY SUPPLIER REALIGNMENT: COUNTRIES AREN'T BECOMING INDEPENDENT, THEY'RE S
 - `2026-09-26` [rates-board.md:L3744](../rates-board.md) — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 📅 **SEPTEMBER 30 IS A DOUBLE EVENT: 8:30am ET AUGUST PCE *PLUS* BEA's ANNUAL NATIONAL-ACCOUNTS UPDATE (VERIFIED
 - `2026-09-28` [market-fragility.md:L4722](../market-fragility.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 📈 **THE CREDIT SEQUENCE IS NOW DIRECTIONAL: IG 77 → 79 → 81 · BBB 95 → 97 → 99 · HY 273 → 280 → 293 · CCC 1,093 →
 - `2026-09-28` [rates-board.md:L3751](../rates-board.md) — 2026-09-28 ~8:03am PDT (Y'd ~8:06am) — 🏛️ **A FED VOTER NAMES THE CROWD-OUT LOOP: HAMMACK — YIELDS ARE UP ON REAL RATES AND "COMPETITION FOR INVESTOR 
 - `2026-09-28` [rates-board.md:L3758](../rates-board.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 🔴 **BEAR FLATTENER, ALL REAL: THE 10Y REAL YIELD PRINTS A NEW HIGH (2.90%) WHILE BREAKEVENS DON'T MOVE ON A 3.4% 
 - `2026-09-28` [rates-board.md:L3764](../rates-board.md) — 2026-09-28 ~4:38pm PDT (Y'd ~4:40pm) — ⚖️ **QUARTER-END REBALANCING: GS FICC MODELS ~$33B OF US EQUITIES TO SELL / BONDS TO BUY FROM US PENSIONS INTO 
+- `2026-09-29` [market-fragility.md:L4728](../market-fragility.md) — 2026-09-29 close (Y'd ~9:05pm PDT) — 📈 **TWO REGISTERED CREDIT THRESHOLDS FIRED ON THE 9/28 ICE CLOSE: BBB 102 (>100) AND HY 302 (>300); B 309 (>300);
+- `2026-09-29` [rates-board.md:L3771](../rates-board.md) — 2026-09-29 ~8:10am PDT (open scan; the 7:00am PT prints verified at BLS / Conference Board) — 📉 **TWO MISSES AND NO RALLY: JOLTS 7.10M vs 7.23M · CONF
+- `2026-09-29` [rates-board.md:L3784](../rates-board.md) — 2026-09-29 close (Y'd ~9:05pm PDT) — 🔴 **THE DAY THE FED PATH EASED AND THE LONG END SOLD OFF ANYWAY: 2Y −3 / 10Y +2 / 20Y +4 / 30Y +3 (30Y 5.59, INTR
+- `2026-09-30` [market-fragility.md:L4736](../market-fragility.md) — 2026-09-30 ~8:35pm PDT (Y'd ~8:30pm) — 📉 **ICE 9/29: THE TAIL BREAKS FIRST — CCC & LOWER 1,157 (100th PERCENTILE OF 3 YEARS; +131 IN A MONTH), HY 308 
+- `2026-09-30` [new-economy-regime.md:L5021](../new-economy-regime.md) — 2026-09-30 ~7:15pm PDT (Y'd ~6:35pm) — 🏗️ **STATE CAPITAL, THREE READINGS IN ONE DAY: KOREA'S "$200B" IS ONE APPROVED PROJECT; THE AI ACCORD POINTS TO
+- `2026-09-30` [rates-board.md:L3792](../rates-board.md) — 2026-09-30 close (Y'd ~6:35pm PDT) — 🔴 **THE REGISTERED TEST CLOSES: THE LONG END WOULD NOT RALLY ON A "COOL" PCE EITHER. 30Y 5.64 (+5) = HIGHEST CLOS
+
+## 2026-10
+
+- `2026-10-01` [new-economy-regime.md:L5032](../new-economy-regime.md) — 2026-10-01 ~3:45am PDT (Y'd ~3:32am) — 🛰️ **PROJECT MERIDIAN: MUSK, LUCKEY AND GINGRICH CO-LEAD A 120-DAY PENTAGON FUTURE-WARFARE STUDY; HEGSETH CUTS 
+- `2026-10-01` [rates-board.md:L3811](../rates-board.md) — 2026-10-01 close (Y'd ~1:38pm PDT) — 🔁 **THE ROUND TRIP: 10Y TO ~5.34% (HIGHEST SINCE 2002) ON ISM PRICES 77.9 + CLAIMS 197K, THEN EUROPE CRACKED AND 
+- `2026-10-02` [rates-board.md:L3825](../rates-board.md) — 2026-10-02 ~7:50am PDT (Y'd ~7:45am) — 💥 **PAYROLLS +29K (JULY NOW NEGATIVE) AND A BOND SHORT SQUEEZE — YET THE 30Y MOVED ONLY −3BP. THE FRONT END GOT
+- `2026-10-03` [new-economy-regime.md:L5043](../new-economy-regime.md) — 2026-10-03 ~1:40pm PDT (filed under rule 22c) — 🏭 **"WHERE IS THE ONSHORING?" — THE $20 TRILLION IS PLEDGES; THE MEASURED FOREIGN MONEY IS $232B, AND 
+- `2026-10-05` [rates-board.md:L3854](../rates-board.md) — 2026-10-05 close (~1:45pm PDT, filed under rule 22c) — 📉 **TEST SIX: A SOFT ISM HEADLINE AND A WEAK-JOBS HANGOVER, AND THE LONG END ROSE 3bp ANYWAY — 
+- `2026-10-06` [market-fragility.md:L4753](../market-fragility.md) — 2026-10-06 ~12:10pm PDT (filed under rule 22c) — 🏢 **OFFICE CMBS DELINQUENCY 12.2%, ABOVE THE FINANCIAL-CRISIS PEAK — AND THE BIGGEST NEW DEFAULT IS A
+- `2026-10-06` [rates-board.md:L3875](../rates-board.md) — 2026-10-06 close (~1:45pm PDT), filed under rule 22c — 📉 **DURATION RELIEF, ALL OF IT REAL: 10Y −4bp TO 5.27, EVERY BASIS POINT A REAL-YIELD MOVE, BRE

@@ -10,6 +10,8 @@ survives in git (the repo is the persistence layer — the container is ephemera
 - `index.md` — the MAP: table of contents of the wiki, grouped by theme + the spine. Read it after this file to know what exists and where. **Keep it current** — regenerate/extend when notes are added or renamed (a stale map is worse than none).
 - `chat-log/` — ONE FILE PER CALENDAR DAY: conversational state, open questions, corrections, continuity vs the prior day. Read FIRST after a compaction (STEP ZERO-C).
 - `predictions/` — nightly calibration (point + range + kill-switch), graded next session → `_scoreboard.md`.
+- `menu/` — the DAILY MENU at the open (rule 16e): one file per trading day, drawn from `wiki/flag-board.md`, graded in the next menu.
+- `mim/` — MONEY IN THE MORNING (rule 16f): the ~9pm PT round-out + ZH scan + the decision on where money goes at the open; one file per day (`tools/mim.py`), graded in the next MIM.
 - `tools/` — token-free Colab notebooks/scripts (screens, scanners, backtests).
 - `trading-system/` — the SEPARATE Alpaca-Claude project (its own `CLAUDE.md`/laws), staged here to transplant.
 - `CLAUDE.md` — this file. How the vault runs.
@@ -195,6 +197,39 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     yes (rule 15).** **(d) The driver must be what the name TRADES on, not what the story says**
     (tankers: freight, not crude — 9/23), and **a |corr| < 0.2 link is flagged weak**: a mark the
     tape does not honour carries no money.
+16e. 🚩★★★ **THE FLAG BOARD + THE DAILY MENU (set 2026-10-02, Jake: "I want the vault's opinion since I
+    built it… the narratives should give stocks a green flag if xx happens… daily at open we run the vault
+    against prior days flags. We set a daily 'menu'. Stock for that day and concise reasoning on why we're
+    watching and the precise prediction that would need to be made to catch that catalyst… then I can choose
+    the one or two I find most compelling.")** **(a) [[flag-board]] = the standing IF → THEN per stock:**
+    lean · watching · 🟢 IF · 🔴 IF (a named event + the source that confirms it) · When (date or window) ·
+    pointer. Inbounds flip flags IN SESSION (rule 15 — no cron). **(b) At the open: `python3
+    tools/menu.py` (grade the prior menu FIRST, then the flags due within ~10 days) → `menu/YYYY-MM-DD.md`:**
+    per item — names · why watching (one or two lines, plain English) · **the precise prediction** · when.
+    Registered at build; graded in the NEXT menu; never edited. **(c) Execution is Jake's: shares, limit
+    ~+3%, stop ~−3%, out within ~5 days.** **(d) WHY, in numbers (10/2):** that bracket on 40 vault names
+    picked on price alone hit target 47% / stop 46% over 2y (n≈17,400) — a coin flip; the edge has to come
+    from the flags. **Every flag trade is logged so the flags can be graded against that 47/46 baseline.**
+16f. 🌙★★★ **MIM — MONEY IN THE MORNING (set 2026-10-05, Jake: "New section after close every day: MIM.
+    Money in the morning. We run a material scan at 9:00 PM Pacific time, round out the day's news updates —
+    bond, close, macro, market, business news, etc. — scan ZH and decide if there's anywhere worth putting
+    money at the open in the morning.")** **(a) At ~9pm PT, IN SESSION when Jake opens (rule 15 — no cron,
+    no Routine): `python3 tools/mim.py` (grade the previous MIM FIRST, then the day as filed, the tape, the
+    flags due in ≤3 days, ZH since the close) → `mim/YYYY-MM-DD.md`.** **(b) The file is the ROUND-OUT (bonds ·
+    close · macro · market internals · business · war/oil) → the ZH read (material only, librarian first) →
+    THE BOOK tonight → 💰 WHERE MONEY GOES AT THE OPEN: one or two calls in the 16e shape (name · side ·
+    entry · limit ~+3% · stop ~−3% · out within ~5 days · the PRECISE prediction · the named disconfirmer),
+    or NO TRADE with the reason.** **(c) Registered at build, graded in the NEXT MIM, never edited. The
+    morning menu (16e) inherits the MIM's calls and re-checks them against the overnight tape and news;
+    MIM decides, the menu confirms.** **(d) Every MIM call taken is logged in `data/flag_trades.csv`
+    (ACTUAL or PAPER) so the 9pm process is graded against the 47/46 price-only baseline like the flags.**
+    **(e) It ends at the money, every night: "so the money goes here at the open, and here is the trade —
+    or there isn't one."**
+    **(f) EVERY MIM PICKS AT LEAST ONE TRADE FOR THE NEXT MORNING (Jake, 2026-10-07 ~9:55pm: "From now on… You must pick at least one";
+    clarified ~10:05pm: "it doesn't mean at 6:30 exactly. It means tomorrow morning in general").** "At the open" = the next MORNING SESSION,
+    not the 6:30am print: an entry that waits for a morning event (claims, an auction, a print) counts, as long as it is named, dated and
+    bracketed. ⛔ "NO TRADE" is no longer a valid MIM outcome on its own; the reason for caution goes into the pick's conditions and size.
+    *(First draft at ~10:00pm misread this as "6:30am literally"; corrected at Jake's word.)*
 17. **Code delivery: COMPLETE cells only** (iPhone/Colab). Acronyms spelled out at first use.
 18. **End of session: file → link → index → ⏱ TIMELINE → chat-log → commit → push. Every turn pushes.**
     ⏱ **`python3 tools/timeline_header.py --all --threads --chain` AFTER writing entries, BEFORE committing.**
@@ -563,6 +598,7 @@ when he reopens.**
   NOT need pushing; `timeline_header.py --all --threads --chain` regenerates them.**
 - **⇒ ON RECOVERY: `git pull --rebase` (ORIGIN ONLY), delete the recovery file, regenerate
   timelines, push.**
+- **⛔ A SECOND CAUSE, DIFFERENT SIGNATURE (diagnosed by Jake, 2026-10-04):** adding ANOTHER GitHub account (10/3, for a client website) unlinked the Claude GitHub App from Wiki-Brain. **Symptom: `403` on git push AND `403 Resource not accessible by integration` on the GitHub API** — so the MCP fallback above fails too; the remote message reads "Claude doesn't have GitHub access to smsyt4sjvc-crypto/Wiki-Brain." **Fix (Jake's side):** reconnect at `https://claude.ai/customize/connectors?auth_start=github&auth_start_force=1` or re-install the app for `smsyt4sjvc-crypto` at `https://github.com/apps/claude/installations/select_target`. When both paths fail, the only copy is the container — write a recovery file to the scratchpad and tell Jake at once.
 
 ### ⛔ WIKI-BRAIN PUSH = `bash tools/wb_push.sh` — NEVER `git pull --rebase wb main` (set 2026-08-25, after the accident)
 **Wiki-Brain main is a ROOT-LEVEL mirror of `research-vault/` with DIFFERENT SHAs (no shared
@@ -691,6 +727,15 @@ project space; more are likely.**
     all-in — that no fresh search would have produced. **The archive is worth more than the web on
     anything this vault has already worked.**
 
+21c. ⭐⭐ **SIMPLEST GOOGLE SEARCH FIRST, ON EVERY SIGNAL (Jake, 2026-10-07 ~10:15pm: "Always do the simplest version of a GOOGLE
+    search on any signal. It's easiest way to not miss the obvious.")** Before building analysis on an inbound, run the plain-words
+    Google search (the headline nouns: "Isaias refinery", "TSMC September revenue", "HF Sinclair hurricane") AND a CASE-INSENSITIVE
+    grep of the vault. **Route from the container: Google News RSS —
+    `curl -sL "https://news.google.com/rss/search?q=<words>+when:2d&hl=en-US&gl=US&ceid=US:en"` — current to the hour; the WebSearch
+    tool is secondary (its index lagged by days on 10/7).** ⚠️ **Aggregator timestamps can be REPUBLISH dates** (10/7: EnergyNow
+    items dated 10/5–10/7 were April/June stories) — sort by date, find the ORIGINAL outlet and date before filing. *(Same evening: a case-sensitive grep missed "most
+    participants" in the FOMC minutes, and the DINO Gulf-exposure answer took a 10-K dig that a one-line search settled.)*
+
 21b. ⭐⭐ **NO QUANTITY ENTERS AN ARITHMETIC UNTIL ITS PERIMETER IS WRITTEN DOWN NEXT TO IT (set
     2026-09-04, same instruction).** **Before any figure is added, subtracted, divided or compared,
     state its SCOPE in the same breath: what is in the numerator, what is in the denominator, and
@@ -720,15 +765,15 @@ project space; more are likely.**
     the vault.")**
     **THE WORKFLOW:** inbound → librarian gate + VERIFICATION (fetch the primary NOW, during the
     discussion — not after filing) → **PROPOSED ENTRY presented in CHAT** (what goes where, the key
-    claims, what verified, what didn't) → Jake responds → **the SETTLED version enters the vault
-    ONCE.**
+    claims, what verified, what didn't) → ~~Jake responds → **the SETTLED version enters the vault
+    ONCE.**~~ ⟲ **22c (10/2): filed the SAME turn, no "Y" wait.**
     · **wiki/ is CONCLUSIONS — entered once, after the discussion.** No entry → correction →
       supersede chains born inside a single conversation.
     · **chat-log/ is THE DEBATE RECORD — still written freely.** The staging area is the chat and
       its log, not the boards.
     · **Verification is DEFAULT, not follow-up.** Internet is available; the primary gets fetched in
       the discussion phase. Large fetches still delegate to gophers (rule 19 tiers).
-    · **Grade moves, supersedes, new ⚡ branches, and new rules ALWAYS wait for the discussion.**
+    · ~~**Grade moves, supersedes, new ⚡ branches, and new rules ALWAYS wait for the discussion.**~~ ⟲ 22c: only NEW RULES wait.
       Time-critical reads (a gate print, an auction result) are PULLED and REPORTED in chat
       immediately — the vault entry still waits.
     **WHY (this session's own record, one day):** the 159×/1.26× synthesis was filed and corrected
@@ -752,9 +797,30 @@ project space; more are likely.**
       vault and the data now"* — THEN verify, THEN confirm or correct in the same reply. He gets the
       reasoning immediately; the checks still run. A correction to the first read is said plainly.
     · **"QUICK"** = chat-style answer from reasoning alone, no vault sweep, nothing filed — his call.
-    · **FILING = ONE LINE AT THE END** ("Worth saving: … File it?"). No growing queue; settle and file as
-      we go.
+    · ~~**FILING = ONE LINE AT THE END** ("Worth saving: … File it?"). No growing queue; settle and file as
+      we go.~~ ⟲ 22c: the last line is **"Filed: …"** (what went where), not a question.
     · **CALLBACKS CARRY THEIR CONTEXT:** when an old item is raised, one line of what it was and why it
       matters now — never a bare pointer.
     · **EVERY ENTRY CARRIES A PLAIN-ENGLISH "WHY THIS MATTERS" LINE** so it reads cold in a month.
     · **CONCEPTS go to [[_learning]] once, in plain English, dated to when we met them.**
+    **⭐ 22c — NO "Y" GATE: PASTES ARE CHAT, AND THEY ARE FILED AUTOMATICALLY THE SAME TURN (Jake,
+    2026-10-02 ~3:50pm: *"I was only wanting that to speed things up. So maybe instead of requiring it as a
+    rule, change the rule so that pastes are treated as general chat and then filed automatically before
+    the session ends. That way a failed confirmation if I get busy doesn't neglect an ingest or push."*)**
+    · **Every paste is handled as conversation** in the 22b shape (plain English · first read, then check ·
+      ends at the money). Verification is still default.
+    · **"Before the session ends" = EVERY TURN.** The session can end without warning (the push credential
+      dies when Jake closes the app; the container is ephemeral), so the reply's LAST ACTION is file →
+      timeline → chat-log → commit → push. **No proposal queue survives a turn.**
+    · **The reply ends "Filed: …"** — one line naming what went where — not "File it?". Jake's later
+      pushback becomes an amend/supersede (STEP ZERO-B): the visible trail is the record.
+    · **The discipline 22 protected moves INTO the entry:** what the checks could not verify goes in as
+      ⬜ / REPORTED, not as settled; interpretation stays labelled THESIS. Grade moves, marks, ⚡ branches and
+      supersedes are filed the same turn.
+    · **Still waits for Jake's explicit word:** NEW STANDING RULES (how the vault runs) and anything that
+      spends or runs unattended (rule 15).
+    · **EVERY WRITE IS VERIFIED.** Chat-log lines go through `python3 tools/chat_log.py --add "<entry>"`
+      (fails loudly if the section is missing, re-reads to prove the write); wiki inserts use index()-based
+      placement + a grep count. **Origin, same day: eleven chat-log entries (9:40am-3:40pm) were silently
+      lost to a guarded string-replace whose anchor had drifted — while every reply said "logged." The
+      "Y" gate did not cause it (the Y-gated wiki filings all landed); an unverified write did.**

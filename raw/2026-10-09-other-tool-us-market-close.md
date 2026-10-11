@@ -1,0 +1,9 @@
+# Other tool's "U.S. MARKET CLOSE — Friday, October 9, 2026" (pasted by Jake ~3:25pm PT) — key figures as stated; full text in chat
+Rates (Treasury ~3:30pm ET marks): 1M 4.13 (−1) · 3M 4.25 (+2) · 6M 4.32 (+2) · 1Y 4.47 (+3) · 2Y 4.80 (+5) · 3Y 4.89 (+4) · 5Y 5.02 (+3) · 7Y 5.13 (+2) · 10Y 5.24 (+2) · 20Y 5.65 (+1) · 30Y 5.60 (0); 2s10s +44 (−3); 5s30s +58 (−3). TIPS 5Y 2.68 (+6) · 10Y 2.91 (+4) · 30Y 3.32 (+1); BE 5Y 2.34 (−3) · 10Y 2.33 (−2). Fed 3.75–4.00; EFFR 3.88, SOFR 3.87 (10/8).
+ICE BofA (10/8 obs): IG 5.94%/82 · AAA 38 · AA 58 · A 69 · BBB 102 · HY 8.11%/315 (+6) · BB 194 · B 315 · CCC 17.32%/1,252 (+23). IG 1–3Y 5.28%, 7–10Y 6.14%, 15+Y 6.62%. MOVE: not verified by the tool.
+Auctions: 3Y $58B 4.932% 2.62x · 10Y $39B 5.300% 2.77x · 30Y $22B 5.618% 2.54x.
+Close: S&P +0.6% · Nasdaq +0.6% · Dow +0.8% · Brent $104.72 (+0.4%).
+Five developments: (1) UMich 46.3 vs ~47.8 exp, Sept 48.1; current 44.7 (50.9); expectations 47.3 (46.3); 1Y 4.7% (4.6), LR 3.5% (3.4); lower-income/small-portfolio households fell most. (2) Firmus scraps ~$5B IPO; targeted ~$30.6B equity value vs ~$10.5B after August; ~$30B debt per analysts; a planned 1.6GW development partnership another company said was no longer proceeding; private capital instead. (3) Lumentum CEO Hurlston: some optical components sold out into 2029; LITE up. (4) SpaceX/Grain 800 MHz: TMUS −12.6%, T −10.1%, VZ −9.1%, CCI +13.3%, AMT +8.5%. (5) Isaias Cat 3 (~120 mph); >2/3 of Gulf oil shut in (~1.5 mb/d); Brent range ~$102.50–105.
+Backdrop recap 9/29–10/2 (JOLTS 7.079M; CB 81.9; ADP +90K; PCE 3.4/3.0; GDP Q2 2.2%; claims 197K; ISM 54.5, prices 77.9; payrolls +29K, UR 4.2%, AHE +0.1/3.0).
+Next: Mon 10/12 stocks open, Treasury market closed (holiday) · Tue 10/13 JPM, C, WFC · Wed 10/14 CPI 8:30am ET · Thu 10/15 TSMC Q3.
+9PM handoff: 10Y 5.20/5.30 references; 30Y 5.60 pivot / 5.73 rejection; Brent 105/100.

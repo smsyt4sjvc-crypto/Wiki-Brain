@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **440 dated entries across 3 notes · 2026-02-10 → 2026-09-28 · refreshed 2026-09-28 19:41 PDT**
+> **453 dated entries across 3 notes · 2026-02-10 → 2026-10-10 · refreshed 2026-10-10 20:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -453,18 +453,34 @@
 - `2026-09-25` [hyperscaler-credit.md:L607](../hyperscaler-credit.md) — 2026-09-25 ~12:24pm PDT (Y'd) — ⭐⭐⭐⭐ **THE MOAT-PARADOX TELL, SMALL BUT THREE DAYS RUNNING: ALL FOUR FORTRESS NAMES WIDENING TOGETHER. ORCL 228. GS: T
 - `2026-09-25` [hyperscaler-credit.md:L613](../hyperscaler-credit.md) — 2026-09-25 ~4:45pm PDT (Y'd ~6:05pm) — ⚠️ **GOLDMAN'S "ONLY 59% OF THE BACKLOG" IS A BEST CASE: IT COUNTS ONE COHORT OF CAPITAL, EXCLUDES THE OFF-BALA
 - `2026-09-25` [hyperscaler-credit.md:L622](../hyperscaler-credit.md) — 2026-09-25 ~7:47pm PDT (Y'd ~8:18pm) — 🧮 **GOLDMAN'S HURDLE → BREAK-EVEN PRICES: ~$0.67 PER MILLION TOKENS AT FRONTIER SPEED, ~$4.30 PER GPU-HOUR ACRO
-- `2026-09-25` [hyperscaler-credit.md:L632](../hyperscaler-credit.md) — 2026-09-25 ~9:19pm PDT (Y'd 9/26 ~9:27am) — 🔴 **BARCLAYS CALLED ORACLE'S FORCE MAJEURE "NEUTRAL FROM A CREDIT PERSPECTIVE" (9/24); ORCL 5Y CDS WIDENED
+- `2026-09-25` [hyperscaler-credit.md:L633](../hyperscaler-credit.md) — 2026-09-25 ~9:19pm PDT (Y'd 9/26 ~9:27am) — 🔴 **BARCLAYS CALLED ORACLE'S FORCE MAJEURE "NEUTRAL FROM A CREDIT PERSPECTIVE" (9/24); ORCL 5Y CDS WIDENED
 - `2026-09-25` [rates-board.md:L3708](../rates-board.md) — 2026-09-25 overnight (Y'd ~11:10am) — **JAPAN AS A QUIET RISK TO TREASURY DEMAND (AND TO THE CALM IN STOCKS) · THE FED EASES BANK THRESHOLDS.** *(Bloo
 - `2026-09-25` [rates-board.md:L3713](../rates-board.md) — 2026-09-25 close (Y'd ~1:25pm PDT) — 🟠 **A BULL STEEPENER, NOT A PEAK: THE FRONT RALLIED, THE LONG END SOLD OFF — EVEN AS OIL FELL 2%. THE LONG-END PR
 - `2026-09-25` [rates-board.md:L3721](../rates-board.md) — 2026-09-25 ~3:15pm PDT (Y'd ~3:55pm) — 🏠 **AUGUST NEW-HOME SALES: VOLUME UP, PRICES DOWN THE MOST ON RECORD — BUILDERS ARE BUYING THE SALES WITH MARGI
 - `2026-09-25` [rates-board.md:L3730](../rates-board.md) — 2026-09-25 ~4:40pm PDT (Y'd ~6:05pm) — 📐 **THE YEAR'S 10Y RISE, DECOMPOSED: +100bp, ~92bp OF IT REAL. REID (DEUTSCHE BANK) VERIFIED.** *(FRED DGS10 / 
 - `2026-09-25` [rates-board.md:L3737](../rates-board.md) — 2026-09-25 ~11:27pm PDT (Y'd 9/26 ~9:27am) — 🧭 **BURRY: "IF THE 10Y GETS CLOSE TO 7%, THE NEED TO HOLD EQUITIES IN A 401(k) DRAMATICALLY DECLINES." TH
-- `2026-09-26` [hyperscaler-credit.md:L644](../hyperscaler-credit.md) — 2026-09-26 ~4:34pm PDT (Y'd ~5:54pm) — ⚖️ **JAKE: "I SEE REAL TROUBLE FOR CLOUDS… EVERY INPUT TO ACQUIRE IT IS A MESS." THE STEELMAN SPLITS "CLOUDS" I
+- `2026-09-26` [hyperscaler-credit.md:L645](../hyperscaler-credit.md) — 2026-09-26 ~4:34pm PDT (Y'd ~5:54pm) — ⚖️ **JAKE: "I SEE REAL TROUBLE FOR CLOUDS… EVERY INPUT TO ACQUIRE IT IS A MESS." THE STEELMAN SPLITS "CLOUDS" I
 - `2026-09-26` [rates-board.md:L3744](../rates-board.md) — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 📅 **SEPTEMBER 30 IS A DOUBLE EVENT: 8:30am ET AUGUST PCE *PLUS* BEA's ANNUAL NATIONAL-ACCOUNTS UPDATE (VERIFIED
 - `2026-09-28` [ai-financing-fragility.md:L8527](../ai-financing-fragility.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 🧯 **JUNK ISSUANCE INDIGESTION: SEPTEMBER HY ~$38.5B (BUSIEST MONTH OF 2026), GOLDMAN SEES HY PREMIUMS AT ~5-MONTH
 - `2026-09-28` [ai-financing-fragility.md:L8534](../ai-financing-fragility.md) — 2026-09-28 ~4:29pm PDT (Y'd ~4:40pm) — 📄 **ANTHROPIC'S IPO PROSPECTUS (Reuters, seen): 2025 REVENUE ~$4.6B (12×), OPERATING LOSS >$8B, COMPUTE $7.33B 
-- `2026-09-28` [hyperscaler-credit.md:L653](../hyperscaler-credit.md) — 2026-09-28 ~4:18pm PDT (Y'd ~4:24pm) — 🔴🔴 **ORCL 5Y CDS +14.9 TO A RECORD 250.6bp (ICE) / 251.4 (BBG) — THE MARKET PRICES ORACLE TWO-TO-THREE NOTCHES 
-- `2026-09-28` [hyperscaler-credit.md:L660](../hyperscaler-credit.md) — 2026-09-28 ~6:30pm PDT (Y'd ~7:40pm) — 📊 **"AI CDS" IS BECOMING A MARKET: DTCC WEEKLY VOLUME IN IG-AI CREDIT PROTECTION ~$1B → ~$7B IN A YEAR (Goldman
+- `2026-09-28` [hyperscaler-credit.md:L654](../hyperscaler-credit.md) — 2026-09-28 ~4:18pm PDT (Y'd ~4:24pm) — 🔴🔴 **ORCL 5Y CDS +14.9 TO A RECORD 250.6bp (ICE) / 251.4 (BBG) — THE MARKET PRICES ORACLE TWO-TO-THREE NOTCHES 
+- `2026-09-28` [hyperscaler-credit.md:L661](../hyperscaler-credit.md) — 2026-09-28 ~6:30pm PDT (Y'd ~7:40pm) — 📊 **"AI CDS" IS BECOMING A MARKET: DTCC WEEKLY VOLUME IN IG-AI CREDIT PROTECTION ~$1B → ~$7B IN A YEAR (Goldman
 - `2026-09-28` [rates-board.md:L3751](../rates-board.md) — 2026-09-28 ~8:03am PDT (Y'd ~8:06am) — 🏛️ **A FED VOTER NAMES THE CROWD-OUT LOOP: HAMMACK — YIELDS ARE UP ON REAL RATES AND "COMPETITION FOR INVESTOR 
 - `2026-09-28` [rates-board.md:L3758](../rates-board.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 🔴 **BEAR FLATTENER, ALL REAL: THE 10Y REAL YIELD PRINTS A NEW HIGH (2.90%) WHILE BREAKEVENS DON'T MOVE ON A 3.4% 
 - `2026-09-28` [rates-board.md:L3764](../rates-board.md) — 2026-09-28 ~4:38pm PDT (Y'd ~4:40pm) — ⚖️ **QUARTER-END REBALANCING: GS FICC MODELS ~$33B OF US EQUITIES TO SELL / BONDS TO BUY FROM US PENSIONS INTO 
+- `2026-09-29` [ai-financing-fragility.md:L8543](../ai-financing-fragility.md) — 2026-09-29 ~8:10am PDT (open scan, verified) — 🏗️ **SAMSUNG PUTS $1B INTO KKR'S HELIX — THE FIRST NAMED $500B-PLATFORM VEHICLE (8/30, `:L7793`) NOW HA
+- `2026-09-29` [hyperscaler-credit.md:L668](../hyperscaler-credit.md) — 2026-09-29 ~8:10am PDT (open scan, verified) — 🛡️ **NVIDIA IS SHOPPING THE RESIDUAL-VALUE RISK TO INSURERS: TALKS ON PROTECTING LENDERS TO NEOCLOUDS I
+- `2026-09-29` [rates-board.md:L3771](../rates-board.md) — 2026-09-29 ~8:10am PDT (open scan; the 7:00am PT prints verified at BLS / Conference Board) — 📉 **TWO MISSES AND NO RALLY: JOLTS 7.10M vs 7.23M · CONF
+- `2026-09-29` [rates-board.md:L3784](../rates-board.md) — 2026-09-29 close (Y'd ~9:05pm PDT) — 🔴 **THE DAY THE FED PATH EASED AND THE LONG END SOLD OFF ANYWAY: 2Y −3 / 10Y +2 / 20Y +4 / 30Y +3 (30Y 5.59, INTR
+- `2026-09-30` [rates-board.md:L3792](../rates-board.md) — 2026-09-30 close (Y'd ~6:35pm PDT) — 🔴 **THE REGISTERED TEST CLOSES: THE LONG END WOULD NOT RALLY ON A "COOL" PCE EITHER. 30Y 5.64 (+5) = HIGHEST CLOS
+
+## 2026-10
+
+- `2026-10-01` [ai-financing-fragility.md:L8555](../ai-financing-fragility.md) — 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm) — ⚖️ **THE REFEREE RULED: PARAMOUNT'S RECORD JUNK DEAL BROKE IN A DAY — AND JAKE'S QUESTION REFRAMES WHAT TO WATC
+- `2026-10-01` [rates-board.md:L3811](../rates-board.md) — 2026-10-01 close (Y'd ~1:38pm PDT) — 🔁 **THE ROUND TRIP: 10Y TO ~5.34% (HIGHEST SINCE 2002) ON ISM PRICES 77.9 + CLAIMS 197K, THEN EUROPE CRACKED AND 
+- `2026-10-02` [ai-financing-fragility.md:L8567](../ai-financing-fragility.md) — 2026-10-02 ~3:55pm PDT (filed under rule 22c) — 🕸️ **"WHO OWES WHOM" (ZH's expansion of the MS map) RECONCILED TO FILINGS: NVDA's $531B IS ITS OWN 10-
+- `2026-10-02` [ai-financing-fragility.md:L8575](../ai-financing-fragility.md) — 2026-10-02 ~4:30pm PDT (filed under rule 22c) — 🌉 **"THE BRIDGE TO 2031": THE CLAIM THAT AI BECOMES SELF-FUNDING WHEN ENTERPRISE AI SPEND REACHES ~$3T
+- `2026-10-02` [rates-board.md:L3825](../rates-board.md) — 2026-10-02 ~7:50am PDT (Y'd ~7:45am) — 💥 **PAYROLLS +29K (JULY NOW NEGATIVE) AND A BOND SHORT SQUEEZE — YET THE 30Y MOVED ONLY −3BP. THE FRONT END GOT
+- `2026-10-05` [rates-board.md:L3854](../rates-board.md) — 2026-10-05 close (~1:45pm PDT, filed under rule 22c) — 📉 **TEST SIX: A SOFT ISM HEADLINE AND A WEAK-JOBS HANGOVER, AND THE LONG END ROSE 3bp ANYWAY — 
+- `2026-10-06` [rates-board.md:L3875](../rates-board.md) — 2026-10-06 close (~1:45pm PDT), filed under rule 22c — 📉 **DURATION RELIEF, ALL OF IT REAL: 10Y −4bp TO 5.27, EVERY BASIS POINT A REAL-YIELD MOVE, BRE
+- `2026-10-10` [ai-financing-fragility.md:L8669](../ai-financing-fragility.md) — 2026-10-10 ~3:00pm PDT (filed under rule 22c) — 💸 **THE RATE CARD CORRECTS THE VAULT: NEW GB300 CAPACITY RENTS FOR $40–50B PER GW-YEAR SHORT-TERM AND 

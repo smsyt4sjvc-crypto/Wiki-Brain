@@ -1,0 +1,311 @@
+# TSMC Q3 2026 Earnings Trade Report (Jake's upload 2026-10-09 ~10:40am PT; 7-page PDF, prepared 10/9 by his research tool, companion to the ASML report; text extracted with pypdf). Original: raw/2026-10-09-tsmc-q3-2026-earnings-trade-report.pdf
+
+A N A LY T I C A L R E S E A R C H ,  N O T I N V E S T M E N T A D V I C E
+TSMC Q3 2026
+Earnings Trade Report
+Prepared: Friday, October 9, 2026  |  Print: Thursday, October 15, 2026, about 2:00 a.m. ET  |  Expiry covering the print:
+Friday, October 16, 2026
+Thesis
+Token volume drives AI compute demand. TSMC shows that compute being manufactured now and over the
+next few quarters through high performance computing (HPC) revenue, advanced node utilization, CoWoS
+packaging volume, and capital expenditure (capex). ASML shows fabs committing today to silicon demand
+years out through customer commitments, extreme ultraviolet (EUV) orders, EUV shipments, and future tool
+capacity. TSMC is the nearer clock.
+Headline Q3 revenue is already largely known from the September monthly release. The surprise on October
+15 must come from the mix: HPC share, node mix, utilization, gross margin guidance, CoWoS commentary,
+and forward capex.
+At a glance, October 9, 2026
+Item Figure Note
+TSM share price (intraday, Oct
+9)
+$450.19 Down 1.70% on the day; previous close $457.99 [S8]
+Oct 16, 2026 expiry implied
+volatility
+36.02% Quantcha, fetched Oct 9; intraday prints showed 36.66% and 39.92%
+earlier [S9]
+Implied expected move to Oct
+16
+plus or minus
+5.0%
+Computed: 36.02% times sqrt(7/365), about plus or minus $22.50; not
+a quoted figure
+Q3 2026 revenue (monthly
+sum)
+NT$1,494.24B Record quarter, above Q3 guidance; see Section 4
+September 2026 monthly
+revenue
+NT$511.86B Down 0.6% month over month, up 54.6% year over year [S7]
+This report is analytical research for the reader's own decision. It contains no prescriptive trade directives. Options mechanics in Section
+5 are illustrative only. Figures that could not be confirmed from any source are stated as unconfirmed rather than estimated.
+TSMC Q3 2026 Earnings Trade Report, Oct 9, 2026 1
+
+=== PAGE BREAK ===
+
+1. The earnings engine, in plain language
+TSMC makes almost all of its money by manufacturing chips designed by other companies. Three things decide how
+much it earns: what kind of chips customers order, how full and how advanced its factories are, and whether it can
+package the most complex AI chips fast enough. Each pillar below maps to a line the reader can check on October
+15.
+(a) HPC revenue: the AI demand line
+HPC was 66% of revenue in Q2 2026, about $26.5B (NT$838.5B), up 20% quarter over quarter for two straight
+quarters, rising from 57% in Q3 2025 [S1, S2]. In plain terms, two of every three dollars TSMC earned last quarter
+came from data center and AI related silicon. That is the clearest real time gauge of how much AI compute is actually
+shipping, as opposed to announced.
+Smartphone fell to 22% in Q2 2026 from 30% in Q3 2025 [S1]. The mix shift matters more than the total: if HPC
+holds or grows its share, the AI buildout is still pulling leading edge capacity. If smartphone or other platforms fill the
+gap while HPC stalls, the growth story is broadening but the AI premium in the stock is harder to defend.
+(b) Advanced node mix, utilization, and gross margin
+Wafer revenue mix in Q2 2026 was 2 nm at 3%, 3 nm at 30%, 5 nm at 33%, and 7 nm at 11%, so advanced nodes
+(7 nm and below) were 77% of wafer revenue [S1]. Newer nodes carry higher prices and, once yields mature, higher
+margins. Two near term watch items follow from that mix.
+3 nm is reportedly set to overtake 5 nm as the top revenue node in the second half of 2026 [S3, Sep 7, 2026].
+That crossover would confirm AI and flagship phone demand is migrating to the newest mainstream node.
+2 nm entered volume production in Q4 2025, and its ramp dilutes gross margin by 3 to 4 percentage points in the
+second half of 2026 [S2]. Early ramps cost money before they make money, because yields start low.
+Gross margin reached a record 67.7% in Q2 2026, above the 65.5% to 67.5% guide, helped by cost improvement
+and slightly higher utilization [S1]. Q3 2026 gross margin is guided at 65% to 67% [S1]. On utilization, 5 nm and 4
+nm are fully booked by AI and HPC demand and 3 nm is heavily utilized [S2]. Full factories spread fixed costs over
+more wafers, which supports margin even while 2 nm dilutes it.
+(c) CoWoS packaging and capex: the bottleneck and the commitment
+CoWoS (Chip on Wafer on Substrate) is the advanced packaging step that joins AI processors to high bandwidth
+memory. Without it, a finished AI accelerator cannot ship. CoWoS capacity was about 75,000 to 80,000 wafers per
+month at the end of 2025, sold out, targeting about 120,000 to 140,000 wafers per month by late 2026, and
+management has acknowledged packaging capacity was limiting customer growth [S2]. Sold out packaging with a
+near doubling of capacity is both a constraint today and a revenue runway into 2027.
+Capex tells the same story in dollars. At the Q2 2026 call, 2026 capex was raised from $52B to $56B to a range of
+$60B to $64B, allocated 70% to 80% to advanced process, 10% to 20% to specialty technologies, and 10% to 20%
+to advanced packaging, testing, and mask making [S2]. First half 2026 actual capex was $11.1B in Q1 and $15.7B in
+Q2 [S1], so the plan implies a heavier second half. Separately, an additional $100B Arizona investment was
+announced on July 16, 2026, bringing the total US commitment to $265B [S2]. Full year 2026 US dollar revenue
+growth guidance was raised to slightly above 40%, from close to 30% [S2].
+TSMC Q3 2026 Earnings Trade Report, Oct 9, 2026 2
+
+=== PAGE BREAK ===
+
+2. What the October 15 print needs to show
+Headline revenue is already largely known (Section 4), so the earnings surprise must come from the mix, margin,
+and forward guidance. The table states the test for each pillar before the print, so the reader can score the release
+against it rather than react to the headline.
+Pillar Bullish print Bearish print
+HPC share Bull: HPC share holds or rises above 66% with
+another strong quarter over quarter increase
+Bear: HPC share flat to down, with
+smartphone or other platforms filling the gap
+Node mix and
+utilization
+Bull: 3 nm overtakes 5 nm; upbeat 2 nm ramp
+commentary; gross margin at the top of the
+65% to 67% guide with Q4 confidence
+Bear: Weaker 2 nm yield or ramp update, or a
+Q4 gross margin guide down
+CoWoS, capex,
+guidance
+Bull: Further capex raise; sold out CoWoS
+commentary; strong Q4 revenue guide
+Bear: Capex cut or push out, or weak forward
+guidance
+The bar is high. The NYSE ADR (ticker TSM) closed lower on the day of the print in 6 of the last 8 quarters, including about
+a 6% fall after a strong Q2 2026 print on July 16, 2026 (Section 3). A good quarter has repeatedly not been enough. The
+reader should expect that an in line mix with cautious Q4 language can trade down even if revenue beats.
+Why the mix matters more than the total this quarter
+September monthly revenue (October 8) already sums Q3 to a record NT$1,494.24B, above guidance (Section 4).
+Anyone trading the print on October 15 is therefore trading information the market has not yet priced in full: whether
+AI platforms are still gaining share, whether 3 nm and 2 nm economics are tracking plan, whether CoWoS remains
+sold out, and whether management is confident enough to raise capex or guide Q4 strongly. Those four answers, not
+the revenue total, will likely set the day 0 move.
+3. Earnings reaction history: even beats tend to fade
+The table covers the last eight quarterly prints, showing the day 0 move on the NYSE ADR and the following trading
+day (day plus 1). Two figures from April and July 2026 are approximate and flagged as such; sources conflict slightly
+on the July day plus 1 figure, so it is shown as approximate rather than precise.
+Report date Quarter Day 0 Day +1
+Oct 17, 2024 Q3 2024 +9.79% -2.46%
+Jan 16, 2025 Q4 2024 +3.86% -1.53%
+Apr 17, 2025 Q1 2025 +0.05% -2.56%
+Jul 17, 2025 Q2 2025 +3.38% -2.12%
+Oct 16, 2025 Q3 2025 -1.60% -1.59%
+Jan 15, 2026 Q4 2025 +4.44% +0.22%
+Apr 16, 2026 Q1 2026 about -3% (approx) not confirmed
+Jul 16, 2026 Q2 2026 about -6% (approx) about -3% (sources conflict; one reported -7.29% day 0)
+What it says: day plus 1 has been negative in 6 of 8 quarters. The only positive day plus 1 (+0.22%) followed the
+strongest day 0 (+4.44%, January 2026). Headline beats have often faded after the print, a pattern commonly
+described as sell the news. For any structure held past day 0, that history is the base rate: follow through buying the
+next day has been the exception, not the rule.
+TSMC Q3 2026 Earnings Trade Report, Oct 9, 2026 3
+
+=== PAGE BREAK ===
+
+4. Options snapshot (Oct 9, 2026) and the known revenue
+Where the market stands
+Measure Value Source and date
+TSM share price $450.19 Finnhub live quote, Oct 9, 2026; down 1.70% intraday, previous close $457.99 [S8]
+Oct 16, 2026 expiry
+IV
+36.02% Quantcha, fetched Oct 9, 2026 [S9]; intraday snippets showed 36.66% and
+39.92%, so IV drifted down through the day
+Implied expected
+move
+plus or minus
+5.0%
+Computed from IV: 36.02% times sqrt(7/365) equals about 5.0%, or about plus or
+minus $22.50 on a $450.19 share price
+Nov 20, 2026 expiry
+IV
+Not confirmed Could not be confirmed from any source; no term structure comparison is available
+Published expected
+move
+None found No published expected move figure was found from any options source; the 5.0%
+figure above is computed, not quoted
+The computed plus or minus 5.0% sits inside the range of recent day 0 moves (+4.44% in January 2026 and about
+-6% in July 2026) and below the +9.79% October 2024 move shown in Section 3. It is also a smaller bar than the
+plus or minus 8.0% implied move for ASML this cycle (see the companion ASML report). In practical terms, the
+options market is pricing a meaningful but not extreme earnings move for TSMC.
+September revenue: Q3 is already above guidance
+TSMC released September 2026 monthly revenue on October 8, 2026: NT$511.86B, down 0.6% month over month
+and up 54.6% year over year [S7, Oct 8, 2026]. Adding the three months gives Q3 2026 revenue of NT$1,494.24B
+(July NT$467.58B plus August NT$514.81B plus September NT$511.86B), a record quarter and above the LSEG
+consensus of about NT$1.46T [S7].
+Verdict: above guidance. Q3 guidance was US$44.6B to US$45.8B [S1]. At the guided NT$32 per US dollar
+rate, that range equals NT$1,427.2B to NT$1,465.6B. The NT$1,494.24B monthly sum beats the top of the
+range by about NT$28.6B. The verdict does not depend on the exchange rate: at a realized NT$31.7 to
+NT$32.2 per US dollar, the quarter equals about US$46.4B to US$47.1B, all above the US$45.8B ceiling. The
+official US dollar figure using the quarterly average exchange rate publishes on October 15.
+Consensus Q3 net profit expectation is NT$740.8B, up 64% year over year. No management commentary
+accompanied the monthly release; it was numbers only, as usual [S7].
+Implication: headline revenue will be mostly known before the October 15 call, so the surprise must come from
+HPC and node mix, utilization, CoWoS, capex, and forward guidance. That raises the weight on every item in the
+Section 2 scorecard.
+TSMC Q3 2026 Earnings Trade Report, Oct 9, 2026 4
+
+=== PAGE BREAK ===
+
+5. Trade structure mechanics for the reaction
+Analytical only. This section explains how common structures behave around an earnings print. It is not a recommendation to use any of
+them.
+Directional long calls and long puts
+A long call gains if the share price rises enough, fast enough, to outrun the premium paid and the post earnings drop
+in implied volatility (IV crush, below). A long put is the mirror image for a fall. Both are wasting assets into the event:
+time decay (theta) accelerates in the final days, and the position needs direction, magnitude, and timing to all line up.
+Against a plus or minus 5.0% implied move, a modest move in the right direction can still lose money if it is smaller
+than what the premium already priced in.
+Long straddles and strangles against the implied move
+A long straddle (a call and a put at the same strike) and a long strangle (a call and a put at different strikes) pay for
+movement in either direction and do not require picking the sign. Their cost is the combined premium, and their
+hurdle is set by the implied move. Using the October 9 figures as illustrative mechanics only: with a $450.19 share
+price and an implied move of about plus or minus $22.50 into the October 16 expiry, an at the money straddle priced
+near that implied move needs the shares to reach roughly $427.50 on the downside or $472.50 on the upside by
+expiry just to cover the move the market already expects, before accounting for the actual premium paid, spreads,
+and IV crush. A strangle lowers the upfront premium but pushes those breakeven points further away. These are
+arithmetic illustrations of how the structure works, not a suggestion to place the trade.
+IV crush, theta, and timing
+IV crush: implied volatility is elevated before earnings because the outcome is uncertain. Once the print is out,
+that uncertainty collapses and IV typically falls sharply, reducing the value of long options even when the share
+price moves favorably. That drop, from pre earnings IV to post earnings IV, is the main cost of holding long
+premium through the event.
+Theta decay: the October 16 expiry sits one day after the print, so contracts held into the event carry very little
+time value buffer. Each day of delay before the print is paid for in decay, and after the print there is almost no time
+left for a second move to rescue a position.
+Entry timing: entering later means less theta paid before the event, but IV may be different by then, and spreads
+can widen. Entering earlier costs more decay but locks the structure sooner. October 9 IV of 36.02% had already
+drifted down from intraday prints of 36.66% and 39.92% [S9], a reminder that the price of the structure moves
+before the event does.
+Exit timing and the fade: with day plus 1 negative in 6 of the last 8 quarters (Section 3), waiting for follow
+through has historically worked against holders of long premium, on top of IV crush and theta. That history is why
+earnings structures are commonly evaluated on an exit the day of or the day after the print rather than holding
+decayed premium into expiry.
+Key risks specific to this print
+The stock can drift inside plus or minus 5.0% even on a fundamentally good print, leaving long premium
+structures short of their breakevens.
+The sell the news pattern (6 of 8 day 0 declines) means positive headlines do not guarantee a positive share
+reaction.
+Pre announced September revenue compresses the headline surprise, so a revenue beat alone may not move
+the stock.
+Gap risk runs both ways: the realized move can exceed the implied move, as the October 2024 +9.79% day 0
+shows.
+Earnings expiry contracts can carry wide bid ask spreads and thinner liquidity, raising execution cost exactly
+when speed matters.
+TSMC Q3 2026 Earnings Trade Report, Oct 9, 2026 5
+
+=== PAGE BREAK ===
+
+6. Key dates and catalysts
+Date Event
+Oct 5 to 14, 2026 Quiet period in effect ahead of the Q3 print
+Oct 8, 2026 (done) September monthly revenue released: NT$511.86B; Q3 sums to NT$1,494.24B, above
+guidance [S7]
+Oct 15, 2026, about 2:00
+a.m. ET
+Q3 2026 earnings release and investor call
+Oct 16, 2026 Options expiry covering the print
+Recent news since October 3, 2026
+Citi, October 7: raised its TSMC price target to TWD 4,000 with a Buy rating.
+Goldman Sachs, October 6: raised its target to NT$3,300 and lifted 2027 and 2028 capex forecasts to $85B
+and $98B, citing agentic AI central processing unit (CPU) demand.
+Terafab reports, October 5 to 7: talks between Elon Musk's Terafab project and TSMC were confirmed as early
+stage on October 5; on October 7 Musk limited TSMC's role to a possible sublease. Not earnings material for the
+October 15 print.
+Taipei trading, October 8: TSMC shares fell about 1.35% in Taipei on macro pressure (oil above $105 and
+higher yields), after reaching a record $487.47 equivalent on October 5.
+Two major banks raising targets and capex forecasts in the week before the print reinforces the Section 2 point:
+expectations are elevated going in, and the mix and guidance must clear a high bar.
+7. Financing health check: clean
+Verdict: clean. Nothing in the reviewed filings suggests the growth program is being funded in a fragile or unusual
+way.
+The Form 20-F for fiscal 2025 was filed April 16, 2026, and all 2026 Forms 6-K were reviewed. Operating cash
+flow in 2025 was NT$2,275B (US$72.5B). Cash plus marketable securities were NT$3,069B (US$97.8B) at the
+end of 2025 and grew to NT$3,518B at June 30, 2026, with first half 2026 free cash flow positive in both quarters
+[S10, S11].
+Bond issuance in 2026 totals only NT$54.1B (about US$1.7B) across three small domestic NT dollar tranches at
+1.72% to 2.10%, inside a pre authorized NT$60B program. That is routine top up issuance at about 1.7% of cash
+on hand. No 2026 US dollar bond issuance was found, and there are no convertible bonds [S11].
+Deloitte and Touche issued an unqualified opinion on the financial statements and internal controls. There has
+been no auditor change, no restatement, and no going concern language [S10].
+Related party transactions are limited to long standing associates at about 0.9% of revenue, with arm's length
+terms stated. There is no buyback program; cash returns run through quarterly dividends, raised to NT$7 per
+share for Q1 and Q2 2026 [S11].
+The raised $60B to $64B 2026 capex, the $29.4B of capex appropriations approved August 11, 2026, and the
+$265B US investment program are funded from operating cash flow and cash reserves, not debt. Aggregate long
+term debt is only NT$1,033B (US$32.9B), and operating income covers finance costs about 156.5 times [S11].
+On October 8, TSMC disclosed NT$3.83B of intra group lending to TSMC Washington plus parent guarantees to
+US and Arizona units. That is ordinary capital support for the US expansion, not a red flag [S11].
+Caveat: filings were reviewed through full text filing mirrors (StockTitan) cross checked against filing trackers after direct EDGAR access
+returned errors from the research environment; no figures were invented. One item was unconfirmed at research time: the Form 6-K
+accession number for the October 8 September revenue release. The company announcement itself is confirmed [S7]; the latest indexed
+filing at review time was dated September 10, 2026.
+TSMC Q3 2026 Earnings Trade Report, Oct 9, 2026 6
+
+=== PAGE BREAK ===
+
+Sources
+All links accessed October 9, 2026 unless a different date is shown. Where a figure could not be confirmed from any source, the report
+says so in place rather than estimating it (see the November 20, 2026 expiry IV and the published expected move in Section 4, the April
+2026 day plus 1 figure in Section 3, and the October 8 Form 6-K accession in Section 7).
+1. [S1] TSMC Q2 2026 earnings release and results, July 16, 2026. Investor Relations, Taiwan Semiconductor Manufacturing Company.
+https://investor.tsmc.com
+2. [S2] TSMC Q2 2026 earnings call transcript and management commentary (HPC growth, CoWoS capacity and constraints, capex raise
+to $60B to $64B, FY2026 growth guidance, $100B additional Arizona investment), July 16, 2026. https://investor.tsmc.com
+3. [S3] TrendForce, report on 3 nm overtaking 5 nm as TSMC's top revenue node in the second half of 2026, September 7, 2026.
+https://www.trendforce.com
+4. [S4] TSMC monthly revenue reports, July and August 2026 (NT$467.58B and NT$514.81B). https://pr.tsmc.com
+5. [S5] LSEG consensus for TSMC Q3 2026 revenue (about NT$1.46T) and net profit (NT$740.8B, up 64% year over year), as cited
+October 2026.
+6. [S6] Historical NYSE ADR (TSM) daily price reactions around TSMC quarterly report dates, October 2024 to July 2026 (table in Section 3;
+April and July 2026 figures approximate, sources conflict on July 2026 day plus 1).
+7. [S7] TSMC September 2026 monthly revenue announcement, NT$511.86B (down 0.6% month over month, up 54.6% year over year),
+October 8, 2026. https://pr.tsmc.com/english/news/3343
+8. [S8] Finnhub live quote for TSM, $450.19 (down 1.70% intraday, previous close $457.99), October 9, 2026. https://finnhub.io
+9. [S9] Quantcha options data for TSM October 16, 2026 expiry, implied volatility 36.02% (intraday snippets 36.66% and 39.92%), fetched
+October 9, 2026. https://www.quantcha.com . November 20, 2026 expiry IV not confirmed from any source. No published expected move
+figure found; the plus or minus 5.0% figure is computed from IV.
+10. [S10] TSMC Form 20-F for fiscal year 2025, filed with the US Securities and Exchange Commission, April 16, 2026 (Deloitte and Touche
+unqualified opinion; no going concern language). https://www.sec.gov
+11. [S11] TSMC Forms 6-K filed during 2026, reviewed via full text filing mirrors (StockTitan) cross checked against filing trackers, accessed
+October 2026 (cash and marketable securities, capex appropriations approved August 11, 2026, NT$54.1B domestic bond issuance,
+dividends of NT$7 per share, intra group lending disclosed October 8, 2026). https://www.stocktitan.net . October 8, 2026 September
+revenue Form 6-K accession unconfirmed at research time; latest indexed filing at review was September 10, 2026.
+12. [S12] Analyst actions: Citi target raise to TWD 4,000 (Buy), October 7, 2026; Goldman Sachs target raise to NT$3,300 with 2027 and
+2028 capex forecasts of $85B and $98B, October 6, 2026; Terafab and TSMC reports, October 5 and October 7, 2026; Taipei market
+report, October 8, 2026.
+Prepared Friday, October 9, 2026. Analytical research for the reader's own decision, not investment advice. Options figures are a
+snapshot from October 9, 2026 with markets open and will change. Historical reaction figures for April and July 2026 are approximate
+where flagged.
+TSMC Q3 2026 Earnings Trade Report, Oct 9, 2026 7

@@ -1,6 +1,6 @@
 # ⏱ KOREA — merged timeline (the gate)
 
-> **139 dated entries across 1 notes · 2026-07-01 → 2026-09-28 · refreshed 2026-09-28 19:41 PDT**
+> **142 dated entries across 1 notes · 2026-07-01 → 2026-10-06 · refreshed 2026-10-10 20:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -158,3 +158,9 @@
 - `2026-09-25` [market-fragility.md:L4700](../market-fragility.md) — 2026-09-25 ~1:07-1:25pm PDT (Y'd) — ⭐⭐⭐⭐ **MOVE +33% IN TWO DAYS SCORES THE 9/23 CALL — AND JAKE'S "GAP" IS NOW MORE RIGHT THAN IT WAS · BREADTH: 9 ST
 - `2026-09-25` [market-fragility.md:L4708](../market-fragility.md) — 2026-09-25 ~5:10pm PDT (Y'd ~6:05pm) — 📊 **1996-2000 vs 2023-NOW: AT THE SAME AGE THE NASDAQ IS UP THE SAME AMOUNT (+160% vs +159%) — AND THE 90s THEN
 - `2026-09-28` [market-fragility.md:L4722](../market-fragility.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 📈 **THE CREDIT SEQUENCE IS NOW DIRECTIONAL: IG 77 → 79 → 81 · BBB 95 → 97 → 99 · HY 273 → 280 → 293 · CCC 1,093 →
+- `2026-09-29` [market-fragility.md:L4728](../market-fragility.md) — 2026-09-29 close (Y'd ~9:05pm PDT) — 📈 **TWO REGISTERED CREDIT THRESHOLDS FIRED ON THE 9/28 ICE CLOSE: BBB 102 (>100) AND HY 302 (>300); B 309 (>300);
+- `2026-09-30` [market-fragility.md:L4736](../market-fragility.md) — 2026-09-30 ~8:35pm PDT (Y'd ~8:30pm) — 📉 **ICE 9/29: THE TAIL BREAKS FIRST — CCC & LOWER 1,157 (100th PERCENTILE OF 3 YEARS; +131 IN A MONTH), HY 308 
+
+## 2026-10
+
+- `2026-10-06` [market-fragility.md:L4753](../market-fragility.md) — 2026-10-06 ~12:10pm PDT (filed under rule 22c) — 🏢 **OFFICE CMBS DELINQUENCY 12.2%, ABOVE THE FINANCIAL-CRISIS PEAK — AND THE BIGGEST NEW DEFAULT IS A

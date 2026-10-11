@@ -13,7 +13,7 @@ Weights (evidence ladder): 2 = MEASURED (auction, filing, print) · 1 = confirme
 event · 0.5 = REPORTED / talks-stage. A lagged echo of an already-marked shock
 gets the lower weight (anti-double-count).
 
-Drivers (ETF proxies): TLT = rates (10Y) · BNO = Brent · BWET = tanker freight · SOXX = semis
+Drivers (ETF proxies): TLT = rates (10Y) · BNO = Brent · BWET = tanker freight · SOXX = semis · COPX = copper miners (proxy: COMEX copper is not on the Nasdaq API; vs a miners ETF the corr runs high because the names are in it)
 · SPY = market. ⚠️ Tankers trade on FREIGHT, not crude: vs BNO corr ~0.1, vs BWET 0.3-0.6
 (found on the first run, 9/23) — pick the driver the name actually trades on.
 Prices: Nasdaq historical API (works from the container; Yahoo is rate-limited).
@@ -30,7 +30,7 @@ from datetime import date, datetime, timedelta
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MARKS = os.path.join(ROOT, "data", "money", "marks.csv")
 EXPIRY_DAYS, MOMENTUM_DAYS, BETA_N = 120, 7, 60
-ETFS = {"TLT", "BNO", "SOXX", "SPY", "BWET", "KRE", "IWM", "XLU", "XRT", "USO", "GLD"}
+ETFS = {"TLT", "BNO", "SOXX", "SPY", "BWET", "KRE", "IWM", "XLU", "XRT", "USO", "GLD", "COPX"}
 UA = {"User-Agent": "Mozilla/5.0"}
 
 

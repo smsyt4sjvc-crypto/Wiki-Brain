@@ -45,19 +45,28 @@ so a March entry lands on an August paste. The router prints the path on every m
 7. [[portfolio-state]] — the running truth of the book (+ account constraints)
 8. [[grades]] — the 120-day investment ledger (rule 16c): one grade per name, moved only by material inbounds
 8b. 💰 [[money-board]] — **WHERE'S THE MONEY (rule 16d, 9/23)**: bear/flat/bull marks per input, any sector · daily top 5 by marks × driver sensitivity · the implication map (event → names). Replaces the 1-10 grade number; `tools/money_board.py`.
+8c. 🚩 [[flag-board]] — **THE VAULT'S IF → THEN PER STOCK (rule 16e, 10/2)**: 🟢/🔴 triggers with dates or windows; the daily `menu/` at the open is drawn from it (`tools/menu.py`).
+8d. 🌙 **MIM — Money In the Morning (rule 16f, 10/5)**: `mim/YYYY-MM-DD.md` — the ~9pm PT round-out of the day + ZH scan + "where money goes at the open" in the 16e shape; built in session with `tools/mim.py` (grades the previous MIM first); the morning menu inherits its calls.
+8d. 🔗 [[mw-dollar]] — **Jake's sibling repo `MW-` (public)**: revenue per effective MW by company + an infrastructure-bottleneck board. Read-only from here; its daily reviews stopped 9/20.
 8c. 📘 [[_learning]] — **THE CONCEPTS IN PLAIN ENGLISH (rule 22b, 9/23)**: auctions (tail, WI, indirects, belly, WAM), yields (real, breakeven), credit (OAS, CDS, SPV), oil (crack, Brent-WTI), vol (MOVE/VIX, sigma). Look words up here.
 8d. 🔌 [[chips-mw-framework]] — **CHIPS ↔ OPERATIONAL MW (save copy of Jake's MW/$ dashboard project, 9/25)**: chips/MW · compute/MW · revenue/MW · $/intelligence; Jevons Spread; Stranded Silicon Gap; Oracle $/MW yield. The reference for "collecting dust" (⚠️ the 44% is an upper bound — circularity catch).
 8e. 🌊 [[el-nino]] — **EL NIÑO 2026-27 (9/26)**: NOAA >90% very strong / 75% record · four channels: mild winter vs diesel, Panama Canal vs shipping, food inflation vs rates, Atlantic hurricane suppression.
 8f. 🎯 [[earnings-implied-moves]] — **IMPLIED vs ACTUAL EARNINGS MOVES, the AI/chip ten (9/28)**: median move = 81% of implied, 42% exceed; low implied leaned DOWN (25% up); NVDA chronically overpriced, MU/MRVL under. Data in `data/earnings/`.
+8g. 🏛️ [[fico-vantagescore]] — **FICO vs VANTAGESCORE (9/29)**: FHFA unwinding the Classic-FICO mortgage toll (9/3 permission → 9/9 policy → 9/28 Rocket adopts + "one pricing grid", no date); FICO −27%; the sequence is a CLOCK (next lender, grid date) — marks FICO bear / EFX-TRU bull.
 
 ## 🤖 AI capex / compression / financing
 - [[ai-capex-cycle]] — the buildout cycle
 - [[compression-thesis]] — Jake's positive spine: how the AI-capex corner resolves (input-deflation heal; the razor)
 - [[ai-financing-fragility]] — the debt leg (private credit → the funding squeeze; the tripwire)
 - [[reflection-ai]] — the "American open-weight champion" (Nvidia-backed, private, pre-product; circular-financing instance)
+- [[vol-divergence]] — implied vs realized vol for every vault name (CBOE iv30 vs rv20/rv60, 10/2 close): where the vault's view is cheap to own (index puts, MU, CRWV) vs rich (refiners, tankers, TLT/HYG, defense). Built 10/4.
+- [[commoditization-layer]] — who captures value when intelligence commoditises: four seats (silicon · marketplace · evals/edge · workflow/data) with the tape, disclosures, Jake's NOW layer-4 thesis and the tests; the measurable software seats (DDOG/NET) have already run, the workflow/data seat has not (10/5)
+- [[shipping-universe]] — US-listed shipping tickers by segment (crude · product · LNG/LPG · dry bulk · containers · Jones Act · ETFs) with Fri 10/2 tape, the driver each trades on, and which the vault covers (10/4)
+- [[lantronix]] — LTRX: listed Qualcomm-based drone-compute supplier into private airframe/autonomy makers; real unmanned revenue, +17% dilution, ATM live at the current price (10/4)
 - [[metered-compute]] — Jake's structural-demand thesis (geometric agentic token consumption = the DEMAND side; shortage-not-glut) + the settlement toll
 - [[content-toll]] — the crawler unbundling: content becoming a PRICED AI input (Google Zero, Cloudflare 9/15, the search/training bundle as the source of leverage)
 - [[agentic-payments]] — the AI payment layer (x402/MPP; own the stablecoin float + COIN toll, not the alt coins)
+- [[ai-money-map]] — ⭐ **the AI rollout's money in/out by layer** (end users → labs → clouds/neoclouds → chip makers → power; lenders underneath): who is paid in cash now, who carries the bill, the scale gap, the dated tests (opened 2026-10-10)
 - [[ai-infra-allocation-map]] — the names, sorted
 - [[buildout-bottleneck-map]] — the next unrepriced layer
 - [[cepi]] — Capex → Earnings → Price Intensity

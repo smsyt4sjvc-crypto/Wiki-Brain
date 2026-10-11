@@ -283,6 +283,8 @@ THREADS = {
                'gas-to-oil','gas to oil','fuel switching','switching','gasoil','heating season',
                'bundesnetzagentur','ehb','aggregate eu storage'],
  'POWER':     ['pjm','curtail','grid emergency','turbine','interconnection','smr',
+               # gap 2026-09-30: PJM backstop procurement + large-load curtailment were unreachable
+               'backstop procurement','reliability backstop','resource adequacy','base residual auction','monitoring analytics','large load','dominion',
                'behind-the-meter','ofgem','grid access','connection queue','commitment fee',
                'wolfspeed','silicon carbide','empower semiconductor','ionic digital',
                'grid operator','transmission','substation','ratepayer','moratorium',
@@ -302,11 +304,21 @@ THREADS = {
  # paste weak-matched ALLIANCE(1)* while demand-destruction held the +1.6M b/d offset line and the
  # China-routing prior. The oil map covered the DISRUPTED side, never the REPLACEMENT side.
  'WAR/OIL':   ['hormuz','qeshm','tanker','houthi','irgc','abqaiq','jazan','transit fee',
+               # gap 2026-09-30: Iraq exit + aviation war + UAE route-building were unreachable
+               'flydubai','fz1073','inherent resolve','erbil','ain dar','north ghawar','mokhber',"l'imad",'zero hormuz',
                'war risk','crack spread','refiner','lng',
                'iran','oman','majlis','fars','aramco','opec','brent','wti','kharg',
                'corridor','flag state','insurance premium',
                'venezuela','pdvsa','chevron','merey','heavy sour','heavy crude','guyana',
                'gulf coast','official selling price','crude import','import license',
+               # gap 2026-10-09 (Jake's squawk '*US GULF SHUTS IN 1.3 BCF/D OR 59% GAS PRODUCTION: MMA'):
+               # NO THREAD MATCHED although oil-value-chain held three days of Isaias shut-in entries
+               # (10/7 25.08%, 10/8 62.89%). The map had the war-side supply words and none of the
+               # WEATHER/OFFSHORE vocabulary or the gas measures. MMA = Marine Minerals Administration
+               # (BOEM+BSEE reunified 2026-07-10), the agency that publishes the shut-in table.
+               'shut in','shut-in','shuts in','marine minerals','mma','bsee','hurricane','tropical storm',
+               'offshore production','platforms evacuated','gulf of america','gulf of mexico',
+               'bcf/d','bcfd','mmcf','henry hub','natural gas futures','storage build','feedgas',
                # gap #20 (2026-08-23): THE ADVERSARY'S DOMESTIC ECONOMY. A paste on Iran importing
                # FROZEN MEAT to cap meat prices routed WAR/OIL(1)* -- a single weak keyword -- and
                # the sweep flagged a vocabulary gap. The board has tracked 131 days of blockade from
@@ -320,7 +332,7 @@ THREADS = {
  'BLACK SEA': ['cpc','caspian pipeline','novorossiysk','tengiz','kashagan','karachaganak',
                'kazakh','kazakhstan','black sea','primorsk','ust-luga','druzhba','ceyhan'],
  'INVENTORY': ['spr','cushing','strategic petroleum','crude draw','crude build','tank bottoms',
-               'eia','api inventory','days of supply'],
+               'eia','api inventory','days of supply','padd 2','midwest gasoline','gasoline stocks'],
  # GAP #10 (8/5): the call's own subject. Entities + auction/liquidity measures added 8/8.
  # gap #23, 8/13: a PPI PRINT matched NO THREAD AT ALL. FED carried 'core cpi' and nothing else
  # from the inflation-release vocabulary — so the vault's own macro spine (new-economy-regime) and
@@ -356,6 +368,8 @@ THREADS = {
                'corporate spread','cds spread','swap spread','sofr','move index',
                'jgb','gilt','bund','oat','btp','boj','yield curve control','ycc'],
  'FED':       ['ppi','producer price','cpi','pce','core pce','deflator','headline cpi',
+               # gap 2026-09-30: nowcasts + data-vintage vocabulary
+               'gdpnow','nowcast','annual revision','annual update','saving rate','savings rate','personal saving',
                'bls','bea','import price','ism prices','prices paid','unit labor cost',
                # gap #21 (2026-08-23): PRICE ADMINISTRATION AS A POLICY INSTRUMENT. Jake listed six
                # live US interventions that set or coerce a price -- beef import waiver, directed
@@ -394,7 +408,7 @@ THREADS = {
  # gap #15 (8/8): model NAMES + usage-share measures.
  'MODEL-ECON':['open-weight','open weight','routing layer','per-token','inference cost','agentic',
                'deepseek','qwen','kimi','glm','minimax','tencent','hunyuan','xiaomi','mimo',
-               'llama','mistral','nemotron','gpt-5','gpt5','gemini','claude','grok','astra',
+               'llama','mistral','nemotron','gpt-5','gpt5','gemini','claude','grok','astra','argon','fairwind','gpt-6',
                'openrouter','leaderboard','token usage','token share','token volume',
                'market share','usage share','model ranking','trillion tokens',
                # gap #18 (8/11): Zuckerberg manifesto matched POWER/CAPEX but NOT model-econ —
@@ -432,6 +446,9 @@ THREADS = {
                'michigan','umich','conference board','census bureau','advance retail',
                'redbook','prime day','black friday','walmart','target','costco','amazon',
                'dollar general','dollar tree','tjx','ross stores','burlington',
+               # gap 2026-09-29: FICO/VantageScore + CarMax hit NO thread (open scan 9/29)
+               'carmax','kmx','fico','fair isaac','vantagescore','fhfa','rocket mortgage','credit score',
+               'used-car','used car','auto loan',
                # MEASURES
                'nonstore','ex-autos','ex autos','ex-auto','food services','restaurants and bars',
                'general merchandise','business inventories','inventory/sales','inventories-to-sales',
@@ -439,7 +456,10 @@ THREADS = {
                'inflation expectations','sentiment index','expectations index','current conditions'],
  'FX/CARRY':  ['yen','jpy','usd/jpy','usdjpy','boj','bank of japan','carry trade','repatriation',
                'currency intervention','fx intervention','fx reserves','ministry of finance',
-               'dxy','dollar index','ueda','mof','kanda','jgb','japan sold','tic shows'],
+               'dxy','dollar index','ueda','mof','kanda','jgb','japan sold','tic shows',
+               # gap 2026-10-09: the dollar's direction words (Saravelos: "dollar negative")
+               'dollar negative','dollar-negative','dollar positive','sell america','fx hedge','hedge ratio',
+               'eurusd','eur/usd','saravelos'],
  'AI-POLICY': [
                # gap #24, 8/13: "regulatory depreciation / MW-per-token efficiency standards" matched
                # SEMIS(2) and nothing on the POLICY axis, while the vault had ZERO coverage of
@@ -456,7 +476,9 @@ THREADS = {
                'executive order','white house','ai framework','voluntary framework',
                'model evaluation','capabilities testing','pre-release','frontier model',
                'ai safety','ai executive','classified threshold','trusted partner',
-               'ai act','model access','safety institute','nist ai','red team'],
+               'ai act','model access','safety institute','nist ai','red team',
+               # gap 2026-09-30: the Accord + FTC probe + China's CUDA substitute
+               'ftc','civil investigative','ferguson','super intelligence','external auditor','tilelang','ascend'],
  'KOREA':     ['kospi','kosdaq','circuit breaker','de-gross','degross','leveraged etf',
                'margin call','south korea','limit up','limit-up','daily limit','krx','korea'],
  'LABOR':     ['payroll','jolts','job openings','unemployment','jobless','nonfarm',
@@ -541,7 +563,15 @@ THREADS = {
               'redemption','gated','nav','mark to market','leverage ratio','covenant','downgrade',
               'outlook change','fallen angel','ig index','mandate','forced selling','spv','abs',
               'securitis','securitiz','residual value','rvg','guarantee','first loss','offtake',
-              'vendor financing','circular','dilution','equity offering','shelf','atm offering'],
+              'vendor financing','circular','dilution','equity offering','shelf','atm offering',
+              # gap 2026-10-09 (Saravelos/DB: "biggest systemic risk... something going wrong in the AI
+              # ecosystem: a safety event, a failed IPO, or disappointing revenues... concentration risk
+              # is immense... dollar negative, very bond positive"): NO THREAD MATCHED although the vault
+              # filed a failed IPO (Firmus) and a revenue miss (OpenAI ~$50B) the day before. The map had
+              # the deal-plumbing words and none of the RISK-NARRATIVE vocabulary sell-side strategists use.
+              'systemic risk','concentration risk','event risk','tail risk','failed ipo','ipo window',
+              'safety event','under-priced','underpriced','disappointing revenue','ai ecosystem',
+              'saravelos','deutsche bank'],
 
  'SCREEN-METHOD':['backtest','back-test','point-in-time','point in time','look-ahead',
                   'lookahead','look ahead bias','survivorship','survivorship bias',
@@ -553,6 +583,19 @@ THREADS = {
                   'peak earnings','peak-cycle earnings','normalised earnings','normalized earnings',
                   'median earnings','durability','screen','screener','pass rate',
                   'sector-neutral','beat-rate','spread vs benchmark'],
+ # gap (2026-10-08): SpaceX's 800 MHz buy + Jake's AI-device thesis routed to CAPEX/MODEL-ECON only —
+ # the vault had NO telecom thread, and missed Starlink Mobile's carrier plan from SpaceX's 8/4 Q2 call to 10/8.
+ # CONCEPTS: spectrum / direct-to-device / carrier competition / the endpoint device.
+ # ENTITIES: carriers, tower REITs, satellite-to-phone players, spectrum sellers, executives.
+ # MEASURES: MHz, subscriber/ARPU vocabulary. (Short tickers T/VZ/AMT/CCI left out: false positives.)
+ 'TELECOM':['spectrum','mhz','low-band','low band','mid-band','direct to cell','direct-to-cell',
+            'direct-to-device','satellite-to-phone','femtocell','small cell','wireless carrier',
+            'mobile carrier','fourth carrier','starlink mobile','t-satellite','handset','smartphone',
+            'agentic os','ai phone','thin client','thin-client','ai device',
+            'at&t','verizon','t-mobile','tmus','asts','ast spacemobile','spacemobile','echostar',
+            'grain management','american tower','crown castle','sba communications','sbac',
+            'tower reit','tower compan','shotwell','stankey','spcx',
+            'postpaid','phone net adds','arpu','subscriber'],
 }
 
 # THREAD -> ORIGINATING VAULT NOTE. Every hit routes BACK to the note it came from.
@@ -576,6 +619,7 @@ ROUTE = {
  'CONSUMER':  'consumption-vs-investment-crux (THE spine question) / new-economy-regime / market-fragility (the weekly data calendar + GS pre-print forecasts) / glp1-wardrobe-cycle (the apparel line) / trade-down-landing-pads / demand-destruction',
  'FLOWS':     'market-fragility (the 7/22 gearing frame + 8/8 record tech inflows) / detachment-bid / portfolio-state',
  'MODEL-ECON':'metered-compute / compression-thesis',
+ 'TELECOM':   'ai-capex-cycle (SpaceX/Starlink Mobile 10/8: spectrum, carriers, towers) / compression-thesis (the endpoint/agent-OS device thesis, 9/23 + 10/8) / money-board',
  'FX/CARRY':  'ai-financing-fragility (yen-carry corners the Fed, L491) / market-fragility / new-economy-regime',
  'AI-POLICY': 'ai-financing-fragility (blacklist timeline, F17 risk stack) / metered-compute (the NVDA letter, the council) / ai-capex-cycle (advisory council) / compression-thesis (two-bloc)',
  'KOREA':     'market-fragility (leverage cascade)',

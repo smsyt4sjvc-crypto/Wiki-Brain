@@ -1,0 +1,253 @@
+# WSJ full text (Jake's PDF, saved 10/9 6:57pm PT; extracted with pypdf). Personal-use copy; kept in the private evidence locker only.
+
+This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by
+copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.
+https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9
+TECHNOLOGY ARTIFICIAL INTELLIGENCE
+The Desperate Hunt for AI Computing Power Is
+Upending Silicon V alley
+Bitter rivals are forming alliances and executives are having to personally intervene
+over the scramble for resources to fuel the AI boom
+By Kate Clark, Erin Woo, Keach Hagey and Meghan Bobrowsky
+Oct. 9, 2026 at 9:00 pm ET
+TERMS & CONDITIONS FOR WSJ, GETTY IMAGES
+Google really wanted pioneering AI researcher Noam Shazeer back. 
+The longtime employee left to start his own company but in 2024, Google paid
+https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9?mod=mhp 10/9/26, 6:57 PM
+Page 1 of 10
+
+=== PAGE BREAK ===
+
+$2.7 billion for him to return to work on cutting-edge projects, including its most
+powerful AI technology, Gemini.
+Even that, though, couldn’t ensure that Shazeer got the computing resources he
+wanted. 
+Less than two years later, he sent a note to one of his teams saying that Google
+had cut what was allocated to them in favor of another project. Shortly
+thereafter, Shazeer left for rival OpenAI.
+Compute, the industry shorthand for computing power, is the lifeblood of the AI
+boom, and it’s in short supply. Now ﬁghts over how to get more of it—and what
+projects to give priority to—are sending a powerful industry scrambling. Bitter
+rivals are forming new alliances, such as Elon Musk and Dario Amodei, whose
+companies worked together to secure computing power. Venture-capital ﬁrms
+are touting access to AI chips to woo startups. And power struggles are more
+frequent as companies compete in a worldwide treasure hunt for the tech
+industry’s most coveted resource.
+“There’s a big gold rush happening at the moment,” said Evan Conrad, chief
+executive oﬃcer of San Francisco Compute. “It’s hard to fully comprehend the
+scale.”
+Conrad’s company vets data centers and then rents their computing power to AI
+companies that range from the largest players like Nvidia to small startups like
+Standard Intelligence. Its chief technology oﬃcer, Eric Park, travels the globe in
+search of computing resources hiding where few else think to look.
+In the spring, it was far-ﬂung corners of rural America, where one promising
+new data center turned out to be AI servers humming inside what appeared to
+be a converted chicken coop. Then Manila in monsoon season, where Park’s car
+stalled in ﬂoodwater and he and his colleagues waded to safety, bags held over
+their heads. Eventually, a passing truck shuttled him to the airport, where he
+https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9?mod=mhp 10/9/26, 6:57 PM
+Page 2 of 10
+
+=== PAGE BREAK ===
+
+bought a new pair of shoes and boarded a ﬂight to Taipei—to meet with a
+company building servers for the AI boom.
+Eric Park traveling on foot through a monsoon in Manila in search of computing resources. ERIC PARK
+Even a little cluster of available AI chips can be helpful to startups trying to train
+or ﬁne-tune smaller AI models.
+SF Compute’s business has grown as companies are increasingly beholden to the
+yearslong timelines of data-center build-outs. There’s a race to build more data
+centers to get more capacity online fast, but construction is stymied by
+regulation and political backlash. 
+Established suppliers of computing power are requiring customers to sign
+multiyear contracts with heftier down payments. Startups are increasingly
+inking deals with unreliable providers out of desperation, like ones lacking
+proper security or weaker infrastructure.
+While splashy announcements have promised enormous amounts of new
+computing power coming soon, far less is actually available today, said Nick
+Frosst, co-founder of Canadian AI startup Cohere. 
+https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9?mod=mhp 10/9/26, 6:57 PM
+Page 3 of 10
+
+=== PAGE BREAK ===
+
+“Lots of things have been announced and then canceled,” said Frosst, whose
+startup builds large language models and was valued at $6.8 billion last year. “Or
+things that they said they’re going to build this big, but then they actually build
+signiﬁcantly less.”
+Arcee, an open-source AI startup, recently secured commitments for both
+capital and computing capacity from an infrastructure partner, said CEO Mark
+McQuade, but the deal collapsed when the ﬁrm’s data center was delayed.
+“So much is up in the air with these things, especially when it comes to
+compute,” said McQuade. “You take it with a grain of salt until it’s real.”
+With so much demand, prices are going up. The hourly cost of renting
+computing power from Nvidia H100 chips on a one-year contract has risen 60%
+in the past year, according to SemiAnalysis, a data and consulting ﬁrm. Alphabet
+ expects to make up to $200 billion this year in capital
+expenditures, much of it going toward AI infrastructure.
+Even the busiest AI executives are personally involving themselves in
+negotiations over computing power.
+In late March, Anthropic co-founder Tom Brown visited Elon Musk at rival AI
+company xAI’s oﬃces in Hawthorne, Calif., to broker a deal to rent computing
+power from Musk’s company, according to people familiar with the matter. The
+explosive, unexpected success of Anthropic’s Claude Code had created a
+computing crunch, contributing to frequent outages. 
+In May, Anthropic stunned the industry when it announced an agreement with
+Musk’s SpaceX to lease more than 300 megawatts of computing power—part of
+a deal later revealed to be worth up to $45 billion in the coming years. Musk, who
+had previously been publicly critical of Anthropic, posted on X that he was
+“impressed” with members of Anthropic’s senior team, adding, “No one set oﬀ
+my evil detector.”
+GOOGL 0.97%
+https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9?mod=mhp 10/9/26, 6:57 PM
+Page 4 of 10
+
+=== PAGE BREAK ===
+
+Anthropic CEO Dario Amodei also spoke on the phone with Meta chief AI oﬃcer
+Alexandr Wang earlier this year, attempting to source more computing capacity,
+according to a person familiar with the matter. Meta debated whether to give
+chips to Anthropic and ultimately decided not to for now, people familiar with
+the matter said.
+This is all in addition to the hundreds of billions of dollars in computing deals
+Anthropic has announced over the past year.
+Dario Amodei KEVIN DIETSCH/GETTY IMAGES
+Inside Google’s Mountain View oﬃces, researchers are ﬁercely divided over
+https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9?mod=mhp 10/9/26, 6:57 PM
+Page 5 of 10
+
+=== PAGE BREAK ===
+
+which projects deserve the company’s precious computing resources. Co-
+founder Sergey Brin sometimes upends the formal compute allocation process,
+reshuﬄing power around to projects that he thinks are important, according to
+people familiar with the matter. Demis Hassabis, who co-founded and until
+recently ran Google’s AI lab DeepMind and took a chairman role in August, has
+expressed frustration about a lack of compute allocated toward long-term
+research, according to people familiar with the matter.  
+To hedge against the unpredictable nature of securing computing power, some
+companies are signing contracts for more capacity than they need. In other
+cases, startups have predicted surging demand for their AI products that never
+materialized, forcing them to resell leftover capacity. 
+This conﬂuence of factors coupled with rising wait times and skyrocketing costs
+of compute are crippling a generation of newcomers trying to compete with
+Google, Anthropic and OpenAI. 
+Earlier in the AI boom, companies large and small could rent clusters of AI chips
+from Amazon Web Services, for example, without having to make a multiyear
+commitment or pay an astronomical upfront fee. 
+As frontier AI labs soaked up the available compute, cloud providers moved to
+require multiyear contracts with upfront costs often as high as 30%. Sometimes
+they require startups to ﬁnd guarantors willing to cover their payments if they
+are unable to.
+“It’s like if you had an apartment, and you could rent month-to-month, and then
+suddenly your landlord comes in and says, ‘Hey, I need you to sign a ﬁve-year
+lease, and by the way, I need you to pay a year upfront,’” said SF Compute’s
+Conrad.
+The challenge isn’t only securing computing power but accurately predicting
+how much ﬁrepower startups will need as they scale. 
+https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9?mod=mhp 10/9/26, 6:57 PM
+Page 6 of 10
+
+=== PAGE BREAK ===
+
+One of Silicon Valley’s newest and fastest-growing startups, the viral AI
+assistant Instinct, is dealing with steep competition from Meta and OpenAI,
+which both recently debuted their own personal AI agents and have access to
+substantially more capital and computing power. 
+Instinct last month raised $1 billion at a $10 billion valuation in what was its
+third capital raise this year, but even with oodles of cash, it may struggle to keep
+pace with the likes of Meta, which owns and operates its own data centers.
+Instinct CEO Noah Shinn said on a recent podcast episode of “Invest Like the
+Best” that he has wrestled with whether to buy compute now to accommodate a
+future where it has 100 million users, a risky move that could tank the company
+if it doesn’t grow as expected. A representative for Instinct declined to
+comment.
+“If you overbuy, you could bankrupt the company by having too many lease
+commitments, and if you underbuy, you could knock down your growth
+trajectory and have a bunch of unhappy users,” said Zach Bratun-Glennon, a
+general partner at Gradient Ventures, which invests in AI startups.
+Some venture-capital ﬁrms are now reserving clusters themselves and renting
+the capacity back to their startups, or oﬀering to guarantee contracts with
+compute providers. Last year, one of Y Combinator’s startups needed 120
+graphics processing units, or GPUs, for a two-month training run but couldn’t
+ﬁnd a suitable contract, according to a person familiar with the accelerator. So Y
+Combinator introduced a cluster dedicated to its startups, which it launched in
+July.
+At Radical Ventures, an AI-focused VC ﬁrm that recently backed a new AI lab co-
+founded by Alphabet’s former chief scientist Jeﬀ Dean called Discovery Loop,
+David Katz leads a team that tracks available GPUs, monitors pricing and
+contract terms, and connects portfolio companies with compute providers.
+https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9?mod=mhp 10/9/26, 6:57 PM
+Page 7 of 10
+
+=== PAGE BREAK ===
+
+David Katz RADICAL VENTURES
+Over the past ﬁve years, Katz and his small team have negotiated billions in
+compute deals, he said. Katz often ﬁnds himself texting directly with the leaders
+of neoclouds—companies that purchase GPUs and other chips then lease them to
+customers—to inquire about availability. He ﬂags potential investments to
+compute partners before Radical has decided to invest to make sure capacity will
+be there if they need it.
+“It used to be, ‘Where am I getting my capital?’ Now it’s like, ‘Who’s going to
+help me?’” said Katz. “There’s a lot of capital ﬂoating around for these
+companies, but there’s not a lot of deep intelligence on how to build these
+things.”
+https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9?mod=mhp 10/9/26, 6:57 PM
+Page 8 of 10
+
+=== PAGE BREAK ===
+
+Kate Clark covers startups, venture capital and artificial intelligence for The Wall Street Journal and is based
+in New York. Her reporting examines venture investment, private market dealmaking and the power
+dynamics between founders and investors in Silicon Valley and beyond. Previously, Kate was a senior…
+reporter at Bloomberg News and a deputy bureau chief at The Information, where she led coverage of the
+venture capital and startup industry. She began her journalism career at TechCrunch and has won multiple
+Best in Business awards from the Society for Advancing Business Editing and Writing, including for breaking
+news coverage of OpenAI and for technology and markets reporting.
+A Seattle native, she earned her degree from the University of Washington.Follow
+Erin Woo is a reporter in The Wall Street Journal’s San Francisco bureau, where she covers Google. She
+writes about how Google is reshaping itself and its products in the AI era, and how that reverberates across
+our online and offline lives. Erin previously covered Google, AI, social media and venture capital at The…
+Information. There, she was part of teams that won Best in Business awards from the Society for Advancing
+Business Editing and Writing for reporting on OpenAI’s 2023 board coup and TikTok’s e"orts to court
+conservatives in Washington. She started her career as a technology reporting fellow at The New York
+Times.
+Erin grew up in Atlanta, and graduated from Stanford University.Follow
+Keach Hagey is a reporter at The Wall Street Journal covering the intersection of media, technology and
+power. Her reporting explores how institutions and individuals wield influence in the new information
+economy, with a current focus on artificial intelligence and OpenAI. She is the author of "The Optimist: Sam…
+Altman, OpenAI, and the Race to Invent the Future" (W. W. Norton, 2024) and "The King of Content: Sumner
+Redstone’s Battle for Viacom, CBS and Everlasting Control of His Media Empire" (Harper Business, 2018).She was part of the team that broke the Facebook Files, a series that won a George Polk Award for Business
+Reporting, a Gerald Loeb Award for Beat Reporting and a Deadline Award for public service. Her
+investigation into the inner workings of Google’s advertising-technology business won recognition from the
+Society for Advancing Business Editing and Writing (Sabew).
+Previously, she covered the television industry for the Journal, reporting on large media companies such as
+21st Century Fox, Time Warner and Viacom. She led a team that won a Sabew award for its coverage of the
+power struggle inside Viacom.
+Before joining the Journal, Keach covered media for Politico, the National in Abu Dhabi, CBS News and the
+Village Voice. She has a bachelor’s and a master’s in English literature from Stanford University. She lives in
+Irvington, N.Y.
+Follow
+Meghan Bobrowsky is a reporter in The Wall Street Journal's San Francisco bureau, where she focuses on
+Meta Platforms, artificial intelligence and social media. She writes about the company's massive data center
+buildout, its social media platforms that have billions of users, and the AI products the company is…
+developing to serve them.
+Meghan is interested in how Meta is shaping the way we think, communicate and understand each other,
+and how that might change in the AI era.
+In 2026, she was part of a team that was named a Pulitzer finalist for coverage of Je"rey Epstein's powerful
+network. And in 2022, she was part of another team that won a Best in Business award from the Society for
+Advancing Business Editing and Writing for reporting on Meta's metaverse ambitions and missteps.
+Meghan joined The Wall Street Journal in 2021 after graduating from Scripps College with a bachelor's
+degree in politics.
+Have a tip to share, or thoughts on something the company is doing? Get in touch with her from a non-work
+device: meghan.bobrowsky@wsj.com or meghan.99 on signal.
+Follow
+Videos
+https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9?mod=mhp 10/9/26, 6:57 PM
+Page 9 of 10
+
+=== PAGE BREAK ===
+
+https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9?mod=mhp 10/9/26, 6:57 PM
+Page 10 of 10

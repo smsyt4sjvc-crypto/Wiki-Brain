@@ -1,6 +1,6 @@
 # ⏱ BLACK SEA — merged timeline (the gate)
 
-> **251 dated entries across 2 notes · 2026-03-13 → 2026-09-23 · refreshed 2026-09-28 19:41 PDT**
+> **258 dated entries across 2 notes · 2026-03-13 → 2026-10-01 · refreshed 2026-10-10 20:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -276,3 +276,13 @@
 - `2026-09-23` [demand-destruction.md:L4392](../demand-destruction.md) — Addendum 2026-09-23 ~8:00am PDT (Y'd, entered ~3:50pm) — **THE TAPE AFTER THE EIA: BRENT RECLAIMS $100 ON THE STRIKE, THE WATERBORNE SPREAD WIDENS — A
 - `2026-09-23` [demand-destruction.md:L4397](../demand-destruction.md) — 2026-09-23 ~10:40am-12:40pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐⭐ **BAN CLOCK #4 — A 90-DAY PLAN IS REPORTED, THE MARKET REHEARSES THE SCENARIO BLOCK, TH
 - `2026-09-23` [oil-value-chain.md:L2908](../oil-value-chain.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐ **THE FREIGHT WEDGE WIDENS US REFINERS' EDGE: ASIA PAYS ~$15-20/BBL TO MOVE GULF CRUDE WHILE US GULF COAST RUNS A SOFTEN
+- `2026-09-29` [demand-destruction.md:L4415](../demand-destruction.md) — 2026-09-29 ~9:05am PDT (Y'd ~9:25am) — 🛢️ **DOE OFFERS ANOTHER "UP TO 40 MILLION BARRELS" FROM THE SPR — AN EXCHANGE FROM BIG HILL + BRYAN MOUND, WITH
+- `2026-09-29` [demand-destruction.md:L4424](../demand-destruction.md) — 2026-09-29 ~4:20pm PDT (ZH scan, Y'd ~9:05pm) — ⛽ **NATIONAL DIESEL $6.44 (9/28) = A NEW RECORD; TEXAS DECLARES A STATEWIDE DIESEL DISASTER (ABBOTT, 9
+- `2026-09-29` [oil-value-chain.md:L2912](../oil-value-chain.md) — 2026-09-29 ~8:55pm PDT (Y'd ~9:05pm) — 🛢️ **THE 9/2 RIG METER CLOSES: OIL RIGS 447 → 455 IN FOUR WEEKS AT $100+ CRUDE — A MODEST RESPONSE. THE RIG STO
+- `2026-09-30` [demand-destruction.md:L4432](../demand-destruction.md) — 2026-09-30 ~6:50pm PDT (Y'd ~6:35pm) — ⛽ **BAN CLOCK #9: TRUMP'S "CRISIS TALKS" — THE CABINET IS AGAINST A BAN AND THE LOBBYING IS WINNING ON SUBSTANC
+- `2026-09-30` [oil-value-chain.md:L2920](../oil-value-chain.md) — 2026-09-30 ~6:50pm PDT (Y'd ~6:35pm) — 🛢️ **GOLDMAN: GULF OIL EXPORTS 23.3 mb/d "IN LINE WITH THEIR 2025 AVERAGE" — BUT THREE PERIMETERS ARE IN PLAY, 
+
+## 2026-10
+
+- `2026-10-01` [demand-destruction.md:L4442](../demand-destruction.md) — 2026-10-01 ~7:55am PDT (Y'd ~7:50am) — ⛽ **BAN CLOCK #10: WASHINGTON THREATENS ALLIES — "DRAW DOWN YOUR EMERGENCY DIESEL OR FACE A US EXPORT BAN." SAM
+- `2026-10-01` [oil-value-chain.md:L2932](../oil-value-chain.md) — 2026-10-01 ~3:10pm PDT (Y'd ~3:05pm) — 🔒 **✅ THE 🔴🔴 OPEN SINCE 9/7 RESOLVES: CHINA SHUT THE RELEASE VALVE. CHINESE REFINERS HALTED FUEL EXPORTS "UNTIL
