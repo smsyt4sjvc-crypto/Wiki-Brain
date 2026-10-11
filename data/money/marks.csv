@@ -475,3 +475,5 @@ date,ticker,col,weight,driver,event,pointer
 2026-09-28,HBM,bull,1,COPX,"Snow Lake reserve life extended to 2043 (18 yrs), gold production +60% in the new mine plan (company release)",wiki/new-economy-regime.md 10/10 ~3:25pm
 2026-10-10,GOOGL,bear,0.5,SPY,Jefferies est.: OpenAI+Anthropic ~45% of GCP 2Q26 (reported estimate; concentration on externally funded customers),wiki/ai-financing-fragility.md 10/10 6:40pm
 2026-10-10,AMZN,flat,0.5,SPY,"Jefferies est.: two labs ~6% of AWS 2Q26 -> 12-18% 3Q26E (growth now, concentration later)",wiki/ai-financing-fragility.md 10/10 6:40pm
+2026-10-10,2513.HK,flat,0.5,SOXX,"OpenRouter top-9 chart: Chinese ~76T vs US ~14T, but ~14T was a free stealth model; Z.AI -29.8% in a month (initialised: volume without measured revenue)",wiki/metered-compute.md 10/10 8:40pm
+2026-10-10,0100.HK,flat,0.5,SOXX,"OpenRouter top-9 chart: free stealth Space Bunny (~13.9T, MiniMax by tokenizer test, unconfirmed); MiniMax -33.6% in a month (initialised)",wiki/metered-compute.md 10/10 8:40pm

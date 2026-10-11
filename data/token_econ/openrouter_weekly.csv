@@ -1,3 +1,4 @@
 read_date_pt,total_T,paid_T,free_T,chinese_T,american_T,sans_deepseek_T,openai_T,anthropic_T_or_cutoff,google_T_or_cutoff,paid_over_total,paid_over_paid_plus_free,source,note
 2026-10-01,168,69.7,,,,,,,,0.415,,Brandon Carl weekly (metered-compute:L3680),paid down 3 wks from 79.4 peak
 2026-10-05,166,68.0,44.4,57.5,16.2,134,10.6,<cutoff (0.00),<cutoff (0.00),0.410,0.605,Brandon Carl weekly (raw/2026-10-05-openrouter-weekly-*.png),paid down 4 wks; free record; DeepSeek ≈ 32
+2026-10-10,,,,76,14,,,,,,,"Chart 'Weekly usage of top nine AI models across OpenRouter' w/e 2026-09-27 (raw/2026-10-10-openrouter-top9-chinese-vs-us-weekly.png), publisher ⬜","TOP-9 MODELS cut (not providers); Chinese bar includes free stealth Space Bunny Alpha ~13.9T (MiniMax by tokenizer test, unconfirmed); named Chinese 62.22T, US 14.2T, platform ~146T per tracker summary (REPORTED)"
