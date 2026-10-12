@@ -1,4 +1,4 @@
-# ZH "Top Overnight News" (Mon 2026-10-12), Jake's paste ~7:05am PDT — verbatim list as pasted
+# ZH "Top Overnight News" (Mon 2026-10-12), Jake's paste ~7:00am PDT — verbatim list as pasted
 - Houthi attacks on Riyadh airport raise risk of a wider war that may draw in the US; more missiles/drones intercepted overnight (BBG).
 - Iran's security chief Mohsen Rezaei (state media, Sunday): the US response to Iran's **seven conditions** in a proposal to reopen Hormuz was "insufficient" (RTRS).
 - Oil swung on Trump's "energy ceasefire"; Saudi suffered its deadliest strikes of the war (BBG).
