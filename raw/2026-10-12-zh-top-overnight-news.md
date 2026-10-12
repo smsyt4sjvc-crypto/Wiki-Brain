@@ -1,0 +1,20 @@
+# ZH "Top Overnight News" (Mon 2026-10-12), Jake's paste ~7:05am PDT — verbatim list as pasted
+- Houthi attacks on Riyadh airport raise risk of a wider war that may draw in the US; more missiles/drones intercepted overnight (BBG).
+- Iran's security chief Mohsen Rezaei (state media, Sunday): the US response to Iran's **seven conditions** in a proposal to reopen Hormuz was "insufficient" (RTRS).
+- Oil swung on Trump's "energy ceasefire"; Saudi suffered its deadliest strikes of the war (BBG).
+- **Zelenskyy (Monday): Ukraine will continue long-range strikes against Russia unless Moscow agrees to an energy ceasefire "that still hasn't happened"** (BBG).
+- **Saudi Energy Minister Abdulaziz bin Salman: expanding pipeline capacity to destinations outside the Persian Gulf to 10 mb/d within two to three years** (BBG).
+- US senators demand Trump reverse the Russian fuel imports deal; **Sen. Tillis (R) warned the deal "may be illegal and put American lives at risk"** (Newsquawk).
+- EU caps Chinese hybrid imports at 350,000/yr from as soon as Dec 1, +6%/yr (BBG).
+- China passenger vehicle sales −28% y/y in September, the largest drop this year (Nikkei).
+- Nvidia in talks to acquire or deepen its investment in Reflection AI (FT) — already filed 10/10 (`wiki/reflection-ai.md`).
+- **Amazon in talks to acquire AI startup Decart, ~$7B; its software makes it easier to switch between AI chips (WSJ).**
+- **Broadcom CEO Hock Tan: capital will be the biggest constraint facing the company as AI development continues (RTRS).**
+- NATO/Poland: prepare for a possible deadly Russian "hybrid" attack (FT).
+- France's bonds resumed declines; contagion concern.
+- Germany: the labor minister and co-chair of the junior coalition partner resigned both posts (BBG).
+- Bond markets "doing some of the lifting for central banks," potentially fewer hikes needed (BBG).
+- India CPI 5.54% y/y (est. 5.58%), highest in almost two years (BBG).
+- Nobel (Economics): Robert E. Hall and Michael Woodford, for work on stabilization (BBG).
+- **Goldman raised its Dec-2026 Brent forecast to $90 (from $85); still sees 2027 average $80; upside scenario (Gulf output 5 mb/d below February) ≈ $125 average in 2027 (GIR).**
+- **JPM's Feroli: September headline CPI +0.55% m/m (3.6% y/y), core +0.18% (2.4% y/y) — "enough to keep the bond market from re-pricing an October hike" (JPM).**
