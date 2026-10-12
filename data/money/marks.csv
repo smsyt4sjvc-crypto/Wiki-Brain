@@ -531,3 +531,4 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-12,TSLA,bear,1,SPY,"$30B new unsecured bank lines (8-K 9/29) to fund >$25B capex with negative FCF; CDS 158→176 is the market's reading of the same event",wiki/ai-capex-cycle.md 10/12 ~10:40am
 2026-10-12,TSLA,bear,0.5,SPY,"NHTSA defect-petition review DP26010 (opened 10/9): ~1,000 robotaxis, school-zone speeding claim; first rung, no crashes",wiki/ai-capex-cycle.md 10/12 ~10:40am
 2026-10-12,META,bull,1,SPY,"Muse Wonder shipped (company primary): first frontier model with paid tiers (API $4/$20; $20-$200/mo subscriptions) — first AI revenue line outside ads; Watermelon flag leg 1 met on Meta-run benchmarks",wiki/compression-thesis.md 10/12 ~1:00pm
+2026-10-12,CBRS,bear,0.5,SOXX,"OpenAI chip-sourcing report vs ~$20B of $24.6B backlog tied to OpenAI (Barrons, REPORTED; vendor conflict, numbers only); closed -10.7%",wiki/market-fragility.md 10/12 ~1:15pm

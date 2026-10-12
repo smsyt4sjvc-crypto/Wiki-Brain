@@ -1,6 +1,6 @@
 # ⏱ FX/CARRY — merged timeline (the gate)
 
-> **564 dated entries across 3 notes · 2026-05-22 → 2026-10-11 · refreshed 2026-10-12 12:59 PDT**
+> **565 dated entries across 3 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-12 13:16 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -592,3 +592,4 @@
 - `2026-10-06` [market-fragility.md:L4753](../market-fragility.md) — 2026-10-06 ~12:10pm PDT (filed under rule 22c) — 🏢 **OFFICE CMBS DELINQUENCY 12.2%, ABOVE THE FINANCIAL-CRISIS PEAK — AND THE BIGGEST NEW DEFAULT IS A
 - `2026-10-10` [ai-financing-fragility.md:L8669](../ai-financing-fragility.md) — 2026-10-10 ~3:00pm PDT (filed under rule 22c) — 💸 **THE RATE CARD CORRECTS THE VAULT: NEW GB300 CAPACITY RENTS FOR $40–50B PER GW-YEAR SHORT-TERM AND 
 - `2026-10-11` [market-fragility.md:L4791](../market-fragility.md) — 2026-10-11 ~7:00am PDT (filed under rule 22c) — 📉 **ROBERTS: "THE EQUITY RISK PREMIUM HAS VANISHED." CHECKED: TRUE AGAINST THE NOMINAL 10-YEAR (−1.5 T
+- `2026-10-12` [market-fragility.md:L4810](../market-fragility.md) — 2026-10-12 ~1:15pm PDT (filed under rule 22c) — 🔀 **MONDAY CLOSE: THE MARKET PAID FOR A PRODUCT AND SOLD THE SUPPLIERS — META +3.4%, SOX −2.7% (LUMENT

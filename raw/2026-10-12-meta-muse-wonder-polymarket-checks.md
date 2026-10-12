@@ -18,3 +18,6 @@ Jake's screenshot (12:51pm PT): ZH ~12:23pm "It won't be Meta, but prediction ma
 ## Tape (Yahoo, ~1:00pm PT)
 - META prev close 741.90 · 748.07 at 10:00am PT (launch) · 743.23 now (+0.2%) · QQQ −1.35% · NVDA −5.2% · GOOGL +1.8% · MSFT +3.0% · AMZN +3.2%.
 - META options (Cboe delayed, META 743.53, iv30 44.6): 10/23 ATM straddle 5.1% · 10/30 8.6% · Nov-20 11.0% (was ±11.7% on 10/2 per flag-board). Implied for a Q3 print inside the 10/30 expiry ≈ √(8.6² − (5.1·√(14/9))²) ≈ 5.8%. Q3 date still not confirmed by Meta IR (⬜; ~10/28 inferred).
+
+## ⛔ CORRECTION (2026-10-12 ~1:15pm PDT)
+The "Tape" section above used `meta.chartPreviousClose` from a range=5d / interval=5m pull, which is the close five sessions back, not Friday's (error class 2). Correct via `tools/tape.py` (Fri 10/9 close → Mon 10/12 close): META 718.67 → 742.96 **+3.38%** · QQQ −0.70% · MSFT +1.14% · AMZN −1.11% · AAPL +1.29% · GOOGL +0.30% · NVDA −1.29%. META intraday (Yahoo 5m, PT): open 727.97 · 7:00am 743.68 · 9:55am 739.00 · 10:00am 748.07 · close 742.96 ⇒ the gain came before the 10am launch.
