@@ -1,6 +1,6 @@
 # ⏱ KOREA — merged timeline (the gate)
 
-> **143 dated entries across 1 notes · 2026-07-01 → 2026-10-11 · refreshed 2026-10-11 20:36 PDT**
+> **143 dated entries across 1 notes · 2026-07-01 → 2026-10-11 · refreshed 2026-10-11 20:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
