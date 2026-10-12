@@ -1,0 +1,6 @@
+# Tankers after a ≥+4% day: +3% target vs −3% stop within 5 sessions (entry at that day's close), yfinance daily, run 2026-10-12 ~9:55am PDT
+DHT after a ≥+4% day, 3y: n36 · target first 47% · stop first 50% · neither 3% · 5-day mean +0.16%
+DHT after a ≥+4% day, war (since 2026-03-01): n13 · target first 38% · stop first 62% · 5-day mean -1.63%
+FRO after a ≥+4% day, 3y: n54 · target first 41% · stop first 54% · same day both 2% · neither 4% · 5-day mean -0.26%
+FRO after a ≥+4% day, war (since 2026-03-01): n17 · target first 47% · stop first 47% · same day both 6% · 5-day mean -1.62%
+Live ~9:55am PT: DHT 25.89 · FRO 58.71 · BWET 1,019.35 (re-entry trigger 1,041.8) · Brent 106.70
