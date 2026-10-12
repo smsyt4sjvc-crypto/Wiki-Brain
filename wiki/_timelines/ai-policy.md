@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **616 dated entries across 4 notes · 2026-05-22 → 2026-10-11 · refreshed 2026-10-12 08:47 PDT**
+> **617 dated entries across 4 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-12 09:04 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -644,3 +644,4 @@
 - `2026-10-02` [ai-financing-fragility.md:L8575](../ai-financing-fragility.md) — 2026-10-02 ~4:30pm PDT (filed under rule 22c) — 🌉 **"THE BRIDGE TO 2031": THE CLAIM THAT AI BECOMES SELF-FUNDING WHEN ENTERPRISE AI SPEND REACHES ~$3T
 - `2026-10-10` [ai-financing-fragility.md:L8669](../ai-financing-fragility.md) — 2026-10-10 ~3:00pm PDT (filed under rule 22c) — 💸 **THE RATE CARD CORRECTS THE VAULT: NEW GB300 CAPACITY RENTS FOR $40–50B PER GW-YEAR SHORT-TERM AND 
 - `2026-10-11` [metered-compute.md:L3633](../metered-compute.md) — 2026-10-11 ~7:30pm PDT (filed under rule 22c) — 🧪 **COINBASE'S CEO: A FINE-TUNED 9B OPEN-WEIGHT MODEL (ALIBABA'S QWEN3.5-9B) BEAT ITS FRONTIER "OPUS 4
+- `2026-10-12` [metered-compute.md:L3655](../metered-compute.md) — 2026-10-12 ~9:05am PDT (filed under rule 22c) — 🧮 **WEEKLY TOKEN REPORT (w/e 10/12): ~90% OF AGENT TOKENS ARE NOW CACHED INPUT, SO TOKEN VOLUME HAS ST

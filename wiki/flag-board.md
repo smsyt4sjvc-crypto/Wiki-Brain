@@ -54,6 +54,7 @@ from the vault's conditions, not from the tape.**
 - **🟢 IF:** NOW's Q3 (late Oct) shows Now Assist ACV on track for ≥$1.5B AND Control Tower customers up again AND no seat-count decline disclosed ⇒ NOW +3% inside 5 sessions; a second strategic bid for a data-owning software name ⇒ the floor is general (ADSK/ANSS read-across).
 - **🔴 IF:** NOW discloses seat erosion or cuts the Now Assist target; or a hyperscaler ships native evals/observability that names DDOG's seat ⇒ NOW −3% first / DDOG −3%.
 - **When:** NOW Q3 ~2026-10-22 (⬜ confirm) · peers' tape this week · Oct 30 (OpenAI allowance expiry — the rotation seat's churn window).
+- **↳ 10/12 ~9:05am — a hyperscaler bids for the seat:** Google Cloud's enterprise agent + Smart Routing (10/8) bundles routing with permissions, audit trails and spend limits across Gemini and third-party models; PayPal ~10M multi-model requests/week. **Adjacent to the 🔴 (not a named evals/observability product).** NOW BEAR 0.5 · GOOGL BULL 0.5. Ramp: record 8% vendor switching. → [[metered-compute]] 10/12 9:05am
 - **Pointer:** [[commoditization-layer]] · [[metered-compute]] L617 (7/25 routing thread) · [[compression-thesis]] 10/5.
 - **Status:** LIVE
 

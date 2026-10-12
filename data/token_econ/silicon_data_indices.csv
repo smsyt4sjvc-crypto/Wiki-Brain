@@ -1,0 +1,7 @@
+date,series,value,unit,chg_7d_pct,source
+2026-09-02,SDLLMTK,0.98,usd_per_M_tokens,,wiki/metered-compute.md:L3432 (vault)
+2026-09-05,SDLLMTK,0.99,usd_per_M_tokens,1.6,wiki/metered-compute.md:L3484 (vault)
+2026-10-10,SDLLMTK,0.97,usd_per_M_tokens,1.7,raw/2026-10-12-other-tool-ai-token-economics-weekly.md (reported)
+2026-10-11,B300_rent,6.67,usd_per_gpu_hour,2.2,raw/2026-10-12-other-tool-ai-token-economics-weekly.md (reported)
+2026-10-11,B200_rent,5.93,usd_per_gpu_hour,1.0,raw/2026-10-12-other-tool-ai-token-economics-weekly.md (reported)
+2026-10-11,H100_rent,2.83,usd_per_gpu_hour,0.7,raw/2026-10-12-other-tool-ai-token-economics-weekly.md (reported)

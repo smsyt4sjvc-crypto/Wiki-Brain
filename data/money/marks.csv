@@ -524,3 +524,6 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-12,UAL,bear,0.5,BNO,"Kyiv keeps refinery strikes on (jet fuel)",wiki/oil-value-chain.md 10/12 7:00am
 2026-10-12,AVGO,bear,0.5,SOXX,"Hock Tan: capital will be the biggest constraint (after guaranteeing the $42B customer chip loans)",wiki/ai-financing-fragility.md 10/12 7:00am
 2026-10-12,MU,bear,0.5,SOXX,"CXMT 4F² DRAM architecture announcement, now read (Goldman Privorotsky via ZH): upgrade of the 7:00am headline mark",wiki/memory-regime-question.md 10/12 8:30am
+2026-10-12,GOOGL,bull,0.5,SPY,"Google Cloud enterprise agent + Smart Routing (10/8): routing + governance across models; PayPal 10M multi-model req/wk",wiki/metered-compute.md 10/12 9:05am
+2026-10-12,NOW,bear,0.5,SPY,"Hyperscaler governance/routing layer (Google 10/8) competes with Control Tower; adjacent to the integration-seat 🔴",wiki/metered-compute.md 10/12 9:05am
+2026-10-12,CRWV,bear,0.5,SPY,"FT/Morgan Stanley: AI-related debt issuance ~$23B in Sept, < half of Aug",wiki/ai-financing-fragility.md 10/12 9:05am

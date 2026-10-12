@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1074 dated entries · 2026-02-10 → 2026-10-11 · refreshed 2026-10-12 08:47 PDT**
+> **1075 dated entries · 2026-02-10 → 2026-10-12 · refreshed 2026-10-12 09:04 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1112,3 +1112,4 @@
 - `2026-10-06` **[1]** rates-board.md:L3875 — 2026-10-06 close (~1:45pm PDT), filed under rule 22c — 📉 **DURATION RELIEF, ALL OF IT REAL: 10Y −4bp TO 5.27, EVERY BASIS POINT A REAL-YIELD MOVE, BRE
 - `2026-10-10` **[3]** ai-financing-fragility.md:L8669 — 2026-10-10 ~3:00pm PDT (filed under rule 22c) — 💸 **THE RATE CARD CORRECTS THE VAULT: NEW GB300 CAPACITY RENTS FOR $40–50B PER GW-YEAR SHORT-TERM AND 
 - `2026-10-11` **[5]** metered-compute.md:L3633 — 2026-10-11 ~7:30pm PDT (filed under rule 22c) — 🧪 **COINBASE'S CEO: A FINE-TUNED 9B OPEN-WEIGHT MODEL (ALIBABA'S QWEN3.5-9B) BEAT ITS FRONTIER "OPUS 4
+- `2026-10-12` **[5]** metered-compute.md:L3655 — 2026-10-12 ~9:05am PDT (filed under rule 22c) — 🧮 **WEEKLY TOKEN REPORT (w/e 10/12): ~90% OF AGENT TOKENS ARE NOW CACHED INPUT, SO TOKEN VOLUME HAS ST
