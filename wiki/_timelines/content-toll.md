@@ -1,6 +1,6 @@
 # ⏱ CONTENT-TOLL — merged timeline (the gate)
 
-> **241 dated entries across 3 notes · 2026-07-01 → 2026-10-01 · refreshed 2026-10-11 15:59 PDT**
+> **242 dated entries across 3 notes · 2026-07-01 → 2026-10-11 · refreshed 2026-10-11 19:26 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -263,3 +263,4 @@
 - `2026-10-01` [compression-thesis.md:L3544](../compression-thesis.md) — 2026-10-01 ~3:00am PDT (Y'd ~2:58am) — 💲 **GEMINI 4 ARGON: A CLAIMED-FRONTIER MODEL AT THE CHEAP-TIER PRICE, RELEASED THROUGH A GATE. ⛔⛔ VENDOR CONFLI
 - `2026-10-01` [compression-thesis.md:L3559](../compression-thesis.md) — 2026-10-01 ~3:40am PDT (Y'd ~3:32am) — 📵 **"GIVE THE TOKENS AWAY, SELL THE PLAN AND THE ADS": JAKE'S 7/24 MINUTES-PLAN CALL GETS THIRD-PARTY CONVERGEN
 - `2026-10-01` [metered-compute.md:L3565](../metered-compute.md) — 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm) — ✂️ **THE SQUEEZE IN THE MIDDLE, MEASURED TWO WAYS: GPU RENTS ARE RISING (B200 +31% YTD, H200 +25% SINCE MAY) WH
+- `2026-10-11` [metered-compute.md:L3633](../metered-compute.md) — 2026-10-11 ~7:30pm PDT (filed under rule 22c) — 🧪 **COINBASE'S CEO: A FINE-TUNED 9B OPEN-WEIGHT MODEL (ALIBABA'S QWEN3.5-9B) BEAT ITS FRONTIER "OPUS 4
