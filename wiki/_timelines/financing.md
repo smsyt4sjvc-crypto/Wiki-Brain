@@ -1,6 +1,6 @@
 # ⏱ FINANCING — merged timeline (the gate)
 
-> **286 dated entries across 2 notes · 2026-05-22 → 2026-10-10 · refreshed 2026-10-12 10:22 PDT**
+> **287 dated entries across 2 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-12 10:44 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -314,3 +314,4 @@
 - `2026-10-02` [ai-financing-fragility.md:L8575](../ai-financing-fragility.md) — 2026-10-02 ~4:30pm PDT (filed under rule 22c) — 🌉 **"THE BRIDGE TO 2031": THE CLAIM THAT AI BECOMES SELF-FUNDING WHEN ENTERPRISE AI SPEND REACHES ~$3T
 - `2026-10-03` [balance-sheet-board.md:L818](../balance-sheet-board.md) — 2026-10-03 ~1:35pm PDT (filed under rule 22c) — 🧾 **ZH: "META's $628B 'FOOTNOTE' — COUNT IT AND THE STOCK GETS 35% MORE EXPENSIVE." THE NUMBERS ARE TH
 - `2026-10-10` [ai-financing-fragility.md:L8669](../ai-financing-fragility.md) — 2026-10-10 ~3:00pm PDT (filed under rule 22c) — 💸 **THE RATE CARD CORRECTS THE VAULT: NEW GB300 CAPACITY RENTS FOR $40–50B PER GW-YEAR SHORT-TERM AND 
+- `2026-10-12` [balance-sheet-board.md:L830](../balance-sheet-board.md) — Pointer 2026-10-12 ~10:40am PDT — **TSLA (issuer side, closes part of the `:L116` ⬜): $30.0B of NEW UNSECURED BANK LINES, 8-K 9/29 — on-sheet, not a v

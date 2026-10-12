@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **172 dated entries across 3 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-12 10:22 PDT**
+> **174 dated entries across 3 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-12 10:44 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -200,3 +200,5 @@
 
 - `2026-10-03` [balance-sheet-board.md:L818](../balance-sheet-board.md) — 2026-10-03 ~1:35pm PDT (filed under rule 22c) — 🧾 **ZH: "META's $628B 'FOOTNOTE' — COUNT IT AND THE STOCK GETS 35% MORE EXPENSIVE." THE NUMBERS ARE TH
 - `2026-10-12` [ai-capex-cycle.md:L3880](../ai-capex-cycle.md) — 2026-10-12 ~10:15am PDT — 🗓️ **THE 10/21 AFTER-CLOSE CLUSTER: SAP · IBM · LRCX · TSLA · TXN — WHAT EACH PRINT TESTS, AND WHAT THE PASTE LEFT OUT.** *(
+- `2026-10-12` [ai-capex-cycle.md:L3900](../ai-capex-cycle.md) — Addendum 2026-10-12 ~10:40am PDT — 🚗 **TESLA, PROPERLY (Jake: "What about Tesla. You just glossed it" — he was right; the 10:15am entry gave it two li
+- `2026-10-12` [balance-sheet-board.md:L830](../balance-sheet-board.md) — Pointer 2026-10-12 ~10:40am PDT — **TSLA (issuer side, closes part of the `:L116` ⬜): $30.0B of NEW UNSECURED BANK LINES, 8-K 9/29 — on-sheet, not a v

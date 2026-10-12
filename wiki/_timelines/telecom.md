@@ -1,6 +1,6 @@
 # ⏱ TELECOM — merged timeline (the gate)
 
-> **281 dated entries across 3 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-12 10:22 PDT**
+> **282 dated entries across 3 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-12 10:44 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -309,3 +309,4 @@
 - `2026-10-02` [money-board.md:L238](../money-board.md) — 2026-10-02 ~8:15am PDT — 🗒️ **PAPER TRACKER (NOT HELD — Jake 10/2: "I'm not, but I still want to track them").** Entries = the 9/29 close (proposal da
 - `2026-10-05` [money-board.md:L262](../money-board.md) — 2026-10-05 close (~1:45pm PDT, filed under rule 22c) — 💰 **DAY ONE OF THE MONDAY MENU, GRADED FOR THE RECORD (the menu file is never edited; Tuesday's
 - `2026-10-12` [ai-capex-cycle.md:L3880](../ai-capex-cycle.md) — 2026-10-12 ~10:15am PDT — 🗓️ **THE 10/21 AFTER-CLOSE CLUSTER: SAP · IBM · LRCX · TSLA · TXN — WHAT EACH PRINT TESTS, AND WHAT THE PASTE LEFT OUT.** *(
+- `2026-10-12` [ai-capex-cycle.md:L3900](../ai-capex-cycle.md) — Addendum 2026-10-12 ~10:40am PDT — 🚗 **TESLA, PROPERLY (Jake: "What about Tesla. You just glossed it" — he was right; the 10:15am entry gave it two li

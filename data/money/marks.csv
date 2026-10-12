@@ -527,3 +527,6 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-12,GOOGL,bull,0.5,SPY,"Google Cloud enterprise agent + Smart Routing (10/8): routing + governance across models; PayPal 10M multi-model req/wk",wiki/metered-compute.md 10/12 9:05am
 2026-10-12,NOW,bear,0.5,SPY,"Hyperscaler governance/routing layer (Google 10/8) competes with Control Tower; adjacent to the integration-seat 🔴",wiki/metered-compute.md 10/12 9:05am
 2026-10-12,CRWV,bear,0.5,SPY,"FT/Morgan Stanley: AI-related debt issuance ~$23B in Sept, < half of Aug",wiki/ai-financing-fragility.md 10/12 9:05am
+2026-10-12,TSLA,bull,1,SPY,"Q3 deliveries 486,532 above estimates (8-K 10/2; ~22K from inventory); storage 13.7 GWh below ~15.9 expected (REPORTED)",wiki/ai-capex-cycle.md 10/12 ~10:40am
+2026-10-12,TSLA,bear,1,SPY,"$30B new unsecured bank lines (8-K 9/29) to fund >$25B capex with negative FCF; CDS 158→176 is the market's reading of the same event",wiki/ai-capex-cycle.md 10/12 ~10:40am
+2026-10-12,TSLA,bear,0.5,SPY,"NHTSA defect-petition review DP26010 (opened 10/9): ~1,000 robotaxis, school-zone speeding claim; first rung, no crashes",wiki/ai-capex-cycle.md 10/12 ~10:40am

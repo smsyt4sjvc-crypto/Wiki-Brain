@@ -256,5 +256,15 @@ from the vault's conditions, not from the tape.**
 - **Pointer:** [[ai-capex-cycle]] 10/12 ~10:15am · `ai-capex-cycle:L1502` (IBM crux) · [[earnings-implied-moves]] L54 (LRCX up 6/8) · `raw/2026-10-12-other-tool-ai-tech-earnings-alert-oct21.md`.
 - **Status:** LIVE (dated)
 
+### 🚗 TSLA — Q3 print Wed 10/21 (Q&A 2:30pm PT); the trade is Thursday 10/22 at the open (set 2026-10-12 ~10:40am)
+- **Lean:** BEAR (net marks −2.5 after today's −0.5). No shares through the print: the average next-day move is 9.1% and gaps through a 3% stop.
+- **Watching:** Q3 capex vs the >$25B FY (H1 $8.28B ⇒ >$8.4B a quarter in H2) · free cash flow (Q2 −$1.09B) · any draw on the $20B term loan (8-K 9/29) · auto gross margin ex-credits (Q2 16.3%) · adjusted EPS vs ~$0.43–0.45 · the SpaceX mark (a GAAP loss this time) · Optimus production date · NHTSA DP26010 grant/deny · the device watch (📱 above).
+- **🟢 IF:** TSLA gaps UP at the 10/22 open ⇒ don't chase (+3% came first 1 of 5 times); the fade worked 3 of 5 — too few to act on alone. A gap up on positive FCF or capex held flat would be the real disconfirmer of the lean.
+- **🔴 IF:** TSLA gaps DOWN at the 10/22 open (release + Q&A 10/21) ⇒ follow it: short or a put, ±3% / out within 5 sessions — −3% came first 8 of the last 9 down-gaps.
+- **When:** Wed 10/21 after the close (8-K 10/2) · reaction Thu 10/22 6:30am PT · 10/23 options expiry. Earlier: Roadster unveil Thu 10/15 (REPORTED).
+- **Read it on:** Tesla Q3 Update (ir.tesla.com / 8-K EX-99.1) · the Q&A · `tools/tape.py` at the open for the gap.
+- **Pointer:** [[ai-capex-cycle]] 10/12 ~10:40am · `data/studies/2026-10-12-tsla-post-earnings.txt` (n=14) · [[balance-sheet-board]] 10/12 (the $30B) · [[hyperscaler-credit]] (CDS) · `raw/2026-10-12-tesla-q3-preview-checks.md`.
+- **Status:** LIVE (dated)
+
 ## Links
 [[forest]] · [[money-board]] · `menu/` · [[portfolio-state]] · [[retail-edge]] (bracket tests 7/15 + 10/2)
