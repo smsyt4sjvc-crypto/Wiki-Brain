@@ -523,3 +523,4 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-12,PARR,bull,0.5,BNO,"Zelenskyy: long-range strikes on Russia continue unless Moscow agrees to the energy ceasefire (no unilateral halt)",wiki/oil-value-chain.md 10/12 7:00am
 2026-10-12,UAL,bear,0.5,BNO,"Kyiv keeps refinery strikes on (jet fuel)",wiki/oil-value-chain.md 10/12 7:00am
 2026-10-12,AVGO,bear,0.5,SOXX,"Hock Tan: capital will be the biggest constraint (after guaranteeing the $42B customer chip loans)",wiki/ai-financing-fragility.md 10/12 7:00am
+2026-10-12,MU,bear,0.5,SOXX,"CXMT 4F² DRAM architecture announcement, now read (Goldman Privorotsky via ZH): upgrade of the 7:00am headline mark",wiki/memory-regime-question.md 10/12 8:30am
