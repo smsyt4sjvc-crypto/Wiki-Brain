@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **171 dated entries across 3 notes · 2026-05-22 → 2026-10-03 · refreshed 2026-10-12 09:57 PDT**
+> **172 dated entries across 3 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-12 10:22 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -199,3 +199,4 @@
 ## 2026-10
 
 - `2026-10-03` [balance-sheet-board.md:L818](../balance-sheet-board.md) — 2026-10-03 ~1:35pm PDT (filed under rule 22c) — 🧾 **ZH: "META's $628B 'FOOTNOTE' — COUNT IT AND THE STOCK GETS 35% MORE EXPENSIVE." THE NUMBERS ARE TH
+- `2026-10-12` [ai-capex-cycle.md:L3880](../ai-capex-cycle.md) — 2026-10-12 ~10:15am PDT — 🗓️ **THE 10/21 AFTER-CLOSE CLUSTER: SAP · IBM · LRCX · TSLA · TXN — WHAT EACH PRINT TESTS, AND WHAT THE PASTE LEFT OUT.** *(

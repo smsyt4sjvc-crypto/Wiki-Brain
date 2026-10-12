@@ -55,6 +55,7 @@ from the vault's conditions, not from the tape.**
 - **🔴 IF:** NOW discloses seat erosion or cuts the Now Assist target; or a hyperscaler ships native evals/observability that names DDOG's seat ⇒ NOW −3% first / DDOG −3%.
 - **When:** NOW Q3 ~2026-10-22 (⬜ confirm) · peers' tape this week · Oct 30 (OpenAI allowance expiry — the rotation seat's churn window).
 - **↳ 10/12 ~9:05am — a hyperscaler bids for the seat:** Google Cloud's enterprise agent + Smart Routing (10/8) bundles routing with permissions, audit trails and spend limits across Gemini and third-party models; PayPal ~10M multi-model requests/week. **Adjacent to the 🔴 (not a named evals/observability product).** NOW BEAR 0.5 · GOOGL BULL 0.5. Ramp: record 8% vendor switching. → [[metered-compute]] 10/12 9:05am
+- **↳ 10/12 ~10:15am — the date is CLOSED: NOW reports Oct 28** (ServiceNow release 10/7), not ~10/22. **SAP + IBM on Wed 10/21 are the one-week pre-read:** IBM software organic growth (flat in Q2) and SAP cloud backlog (+26% cc in Q2) show whether enterprises are paying for AI software before NOW prints. No mark (calendar). → [[ai-capex-cycle]] 10/12 ~10:15am
 - **Pointer:** [[commoditization-layer]] · [[metered-compute]] L617 (7/25 routing thread) · [[compression-thesis]] 10/5.
 - **Status:** LIVE
 
@@ -244,6 +245,16 @@ from the vault's conditions, not from the tape.**
 - **Read it on:** investor.tsmc.com (management report: wafer shipments, 12-inch equivalent) · the call · Cboe delayed chain (`cdn.cboe.com/api/global/delayed_quotes/options/TSM.json`).
 - **Pointer:** [[earnings-implied-moves]] 10/9 10:45am · [[ai-capex-cycle]] `:L3866` (wafer series), `:L3955` (Jake's thesis) · `raw/2026-10-09-tsmc-q3-2026-earnings-trade-report.txt`.
 - **Status:** LIVE (dated 10/15–10/16)
+
+### 🗓️ 10/21 AFTER-CLOSE CLUSTER — SAP · IBM · LRCX · TSLA · TXN (set 2026-10-12 ~10:15am)
+- **Lean:** — (calendar; no marks). The pre-read for NOW 10/28 (integration seat) and the third fab-capex tick after ASML 10/13 and TSMC 10/14.
+- **Watching:** IBM software ORGANIC growth and Transaction Processing (the 7/14 crux: deals delayed or lost) · SAP cloud backlog growth at constant currency and whether its "near-term de-escalation in the Middle East" guidance assumption survives · LRCX against $8.10B ± $0.40B and its December-quarter guide · TXN data-centre power chips against $5.65–6.15B.
+- **🟢 IF:** IBM software organic growth above zero AND Transaction Processing flat or better AND management confirms the slipped Q2 deals closed (release/call 10/21) ⇒ IBM +3% first; NOW read-across up. LRCX revenue at or above $8.1B AND a December guide above $8.1B ⇒ LRCX +3% first; AMAT/KLAC/MU read-across up.
+- **🔴 IF:** IBM software organic at or below zero with Transaction Processing down again ⇒ budgets still diverted to hardware: legacy software 🔴 (NOW, ORCL software) and MU 🟢. SAP caveats or cuts its FY guide citing the Middle East, or backlog growth below ~24% cc (analysis threshold: >2pp off Q2) ⇒ SAP −3% first (it is +48% since July); IGV read-across down. LRCX December guide below $8.1B ⇒ LRCX −3% first.
+- **When:** Wed 10/21 after the close — SAP release 4:05pm ET, calls 5:00pm ET (SAP/IBM/LRCX), TXN call 4:30pm ET, TSLA call 5:30pm ET (2:30pm PT). Reactions Thu 10/22 at the open.
+- **Read it on:** the releases and calls (company IR pages; EDGAR 8-Ks).
+- **Pointer:** [[ai-capex-cycle]] 10/12 ~10:15am · `ai-capex-cycle:L1502` (IBM crux) · [[earnings-implied-moves]] L54 (LRCX up 6/8) · `raw/2026-10-12-other-tool-ai-tech-earnings-alert-oct21.md`.
+- **Status:** LIVE (dated)
 
 ## Links
 [[forest]] · [[money-board]] · `menu/` · [[portfolio-state]] · [[retail-edge]] (bracket tests 7/15 + 10/2)

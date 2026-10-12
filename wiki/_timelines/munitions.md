@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **301 dated entries across 2 notes · 2026-05-22 → 2026-10-01 · refreshed 2026-10-12 09:57 PDT**
+> **302 dated entries across 2 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-12 10:22 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -329,3 +329,4 @@
 ## 2026-10
 
 - `2026-10-01` [war-board.md:L5251](../war/war-board.md) — 2026-10-01 ~12:40pm PDT (Y'd ~12:38pm) — 🚢 **THE US BUILDS A FORCE FOR AFTER THE MIDTERMS (THIRD CARRIER, ~10K TROOPS, ON STATION BY END-NOVEMBER) — A
+- `2026-10-12` [ai-capex-cycle.md:L3880](../ai-capex-cycle.md) — 2026-10-12 ~10:15am PDT — 🗓️ **THE 10/21 AFTER-CLOSE CLUSTER: SAP · IBM · LRCX · TSLA · TXN — WHAT EACH PRINT TESTS, AND WHAT THE PASTE LEFT OUT.** *(
