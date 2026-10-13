@@ -163,6 +163,7 @@ from the vault's conditions, not from the tape.**
 - **Read it on:** term sheets · `tools/icc_cds.py`.
 - **Pointer:** [[ai-financing-fragility]] 10/1 ⚖️ (co-signed raise test, Jake's thesis) · [[forest]] ⚡ co-signed raise test · [[hyperscaler-credit]].
 - **↳ 10/10 ~11:30am:** FT: Nvidia in talks to ACQUIRE OR DEEPEN ITS INVESTMENT in Reflection AI (>$7B of SpaceX + Nebius GB300 commitments through 2029; $25B pre-money). That makes two US open-weight labs Nvidia has moved to absorb (Poolside 8/22). The vendor taking on its customer's compute bills is the 🔴 direction in a new form, but these are talks, not a raise failing, so the flag does NOT fire. → [[reflection-ai]] 10/10.
+- **↳ 10/13 ~9:30am (MW- `d8f5eff`):** CoreWeave's recent 3–6 month contracts ~$40M per MW-year (issuer deck; boundary undisclosed), July prices +~25%, ~70% of Q2 deals prepaid ⇒ no glut NOW, but revenue reprices every few months against a 16-year lease ($14.7B cap, 393 MW undelivered) and $4.2B of 2.875% converts (closed 9/22; $566.2M capped calls). **Add to the Q3 10-Q check: the $40M cohort's renewals and price, any PUE/power-boundary disclosure.** No flag change. → [[mw-dollar]] 10/13
 - **Status:** LIVE
 
 ### 🛩️ LTRX — Lantronix (drone compute supplier) · (mirror: SWMR, a listed customer)
