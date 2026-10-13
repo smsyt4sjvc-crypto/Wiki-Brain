@@ -104,3 +104,4 @@ I can add AI credit spreads, completed versus proposed financing deals, and canc
 - Morgan Stanley ~$570B 2026 forecast (as of early August, via ecmsource).
 - Already in the vault: GS ~$420B 2027 (9/22), GSAM underweight (9/25), ~$3T commitments (WSJ 8/16; Moody's 9/25), IMF (10/13).
 - ⬜ NOT FOUND: $489B, 35% for 2027, $300B 2027 project finance, "$2T borrowing capacity", Morgan Stanley's two-market wording (paywalled).
+- ⛔ CORRECTION 10/13 ~9:15am PT: the 35% for 2027 IS sourced — Reuters 7/29 (via CNA): Goldman expects debt issuance ≈ one-third of hyperscaler capex in 2026 and ~35% in 2027 (capex ~$750B vs operating cash flow ~$778B in 2026). The same article gives the tenor spreads (AMZN/GOOGL/META/ORCL medians: 2–4y 30→40bp, 5–7y 50→60bp, 20y+ 108.5→118bp vs 2025).

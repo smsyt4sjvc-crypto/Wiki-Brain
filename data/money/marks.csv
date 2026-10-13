@@ -557,3 +557,5 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-13,HUM,bull,0.5,SPY,"BlackRock/HPS replaces WCAS in CenterWell JV (~$2.8B); put liabilities removed; no 2026 EPS effect (8-K)",wiki/market-fragility.md 10/13 ~7:30am
 2026-10-13,HUM,bear,0.5,SPY,"UNH read-through: elevated utilization in risk-based (Medicare Advantage) businesses (inference)",wiki/market-fragility.md 10/13 ~7:30am
 2026-10-13,JNJ,flat,1,SPY,"3Q beat ($2.59 vs $2.54), guide +$0.06, hips-and-knees spin; GAAP $0.09 = July talc resolution booked; stock sold",wiki/market-fragility.md 10/13 ~7:30am
+2026-10-13,PHI,bear,1,SPY,"PLDT defers VITRO data-center REIT IPO to 2027 (rates/market); asset-monetization and deleveraging plan slips (company 6-K)",wiki/ai-financing-fragility.md 10/13 ~9:15am
+2026-10-13,BX,bear,0.5,SPY,"Blackstone-backed AirTrunk delays ~$1.5B Singapore REIT IPO to next year (Bloomberg, people familiar)",wiki/ai-financing-fragility.md 10/13 ~9:15am
