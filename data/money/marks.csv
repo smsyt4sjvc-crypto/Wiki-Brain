@@ -532,3 +532,9 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-12,TSLA,bear,0.5,SPY,"NHTSA defect-petition review DP26010 (opened 10/9): ~1,000 robotaxis, school-zone speeding claim; first rung, no crashes",wiki/ai-capex-cycle.md 10/12 ~10:40am
 2026-10-12,META,bull,1,SPY,"Muse Wonder shipped (company primary): first frontier model with paid tiers (API $4/$20; $20-$200/mo subscriptions) — first AI revenue line outside ads; Watermelon flag leg 1 met on Meta-run benchmarks",wiki/compression-thesis.md 10/12 ~1:00pm
 2026-10-12,CBRS,bear,0.5,SOXX,"OpenAI chip-sourcing report vs ~$20B of $24.6B backlog tied to OpenAI (Barrons, REPORTED; vendor conflict, numbers only); closed -10.7%",wiki/market-fragility.md 10/12 ~1:15pm
+2026-10-12,DHT,bull,1,BWET,"Business update (company): ~50% of Q4 spot days booked at ~$509,100/day; Q3 TCE ~$141,300/day",wiki/shipping-universe.md 10/12 ~9:15pm
+2026-10-12,DHT,bull,0.5,BWET,"Bloomberg: supertankers turning away from Fujairah amid Iran's attacks",wiki/shipping-universe.md 10/12 ~9:15pm
+2026-10-12,FRO,bull,0.5,BWET,"Bloomberg: supertankers turning away from Fujairah amid Iran's attacks",wiki/shipping-universe.md 10/12 ~9:15pm
+2026-10-12,CEG,bull,0.5,SPY,"DOE Order 202-26-50: PJM emergency authority Oct 13-16 (backup generation at large loads)",wiki/power-scarcity-equities.md 10/12 ~9:15pm
+2026-10-12,TLN,bull,0.5,SPY,"DOE Order 202-26-50: PJM emergency authority Oct 13-16 (backup generation at large loads)",wiki/power-scarcity-equities.md 10/12 ~9:15pm
+2026-10-12,NVDA,bear,0.5,SOXX,"Microsoft Maia 300 (2027, N2P): claims ~40% more tokens/MW than leading GPU systems (projection)",wiki/ai-capex-cycle.md 10/12 ~9:15pm

@@ -1,0 +1,6 @@
+MU, Yahoo daily OHLC, 5y to 2026-10-12. Entry at the OPEN of the gap day; bracket checked from that day's high/low (stop first on ties). Gap = open / prior close − 1; prior day = prior close / close before it − 1.
+ALL days (baseline): n=1251 | FOLLOW (short at open, −3% target/+3% stop, 5 sessions): target 558 (45%) stop 643 (51%) time 50 | FADE (long at open): target 621 (50%) stop 580 (46%) time 50
+gap ≤ −2%: n=138 | FOLLOW (short at open, −3% target/+3% stop, 5 sessions): target 60 (43%) stop 75 (54%) time 3 | FADE (long at open): target 69 (50%) stop 66 (48%) time 3
+gap ≤ −2% AND prior day ≤ −3% (two-day selloff, like Tue 10/13 if it gaps): n=28 | FOLLOW (short at open, −3% target/+3% stop, 5 sessions): target 12 (43%) stop 16 (57%) time 0 | FADE (long at open): target 13 (46%) stop 15 (54%) time 0
+  cases: [('2025-11-14', -2.3, -3.2), ('2026-02-04', -2.1, -4.2), ('2026-02-05', -2.6, -9.5), ('2026-02-27', -3.3, -3.1), ('2026-03-26', -3.2, -3.4), ('2026-05-15', -5.6, -3.4), ('2026-05-19', -2.3, -6.0), ('2026-06-05', -5.2, -7.7), ('2026-07-08', -3.8, -4.7), ('2026-07-16', -4.1, -8.0), ('2026-07-17', -3.6, -5.6), ('2026-08-03', -4.5, -5.9)]
+gap ≤ −4%: n=40 | FOLLOW (short at open, −3% target/+3% stop, 5 sessions): target 22 (55%) stop 18 (45%) time 0 | FADE (long at open): target 14 (35%) stop 26 (65%) time 0
