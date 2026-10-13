@@ -1,6 +1,6 @@
 # ⏱ NUCLEAR — merged timeline (the gate)
 
-> **127 dated entries across 3 notes · 2026-06-30 → 2026-10-08 · refreshed 2026-10-13 09:06 PDT**
+> **128 dated entries across 3 notes · 2026-06-30 → 2026-10-13 · refreshed 2026-10-13 09:13 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -152,3 +152,4 @@
 - `2026-10-02` [buildout-bottleneck-map.md:L2057](../buildout-bottleneck-map.md) — 2026-10-02 ~1:20pm PDT (Y'd ~1:18pm) — 🔩 **SEVEN IRREVERSIBLE POWER COMMITMENTS FROM THE DUAL-CLOCK v7 LEDGER, AND TWO DATES THE VAULT DID NOT HAVE: A
 - `2026-10-08` [buildout-bottleneck-map.md:L2084](../buildout-bottleneck-map.md) — 2026-10-08 ~7:40pm PDT (filed under rule 22c) — 🤠 **TEXAS: THE PAUSE NOW HAS A CALENDAR. NEW LARGE-LOAD RULES TOOK EFFECT TODAY ($100K STUDY FEE + $50
 - `2026-10-08` [nuclear.md:L859](../nuclear.md) — 2026-10-08 ~1:05pm PDT (filed under rule 22c) — ⚛️ **MICROREACTORS HIT TECHNICAL MILESTONES; GRID-SCALE NEW BUILD STAYS ON PAPER; THE MONEY STAYS WITH
+- `2026-10-13` [buildout-bottleneck-map.md:L2121](../buildout-bottleneck-map.md) — 2026-10-13 ~9:45am PDT — 🔌 THE IDLE-GPU QUESTION, FOUR LAYERS: WHO HAS MEASURED WHAT (extends `:L2066`, the 9/22 idle-GPU test)
