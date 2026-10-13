@@ -1,6 +1,6 @@
 # ⏱ MODEL-ECON — merged timeline (the gate)
 
-> **238 dated entries across 2 notes · 2026-07-16 → 2026-10-12 · refreshed 2026-10-12 19:37 PDT**
+> **239 dated entries across 2 notes · 2026-07-16 → 2026-10-12 · refreshed 2026-10-12 19:39 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -259,4 +259,5 @@
 - `2026-10-01` [metered-compute.md:L3565](../metered-compute.md) — 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm) — ✂️ **THE SQUEEZE IN THE MIDDLE, MEASURED TWO WAYS: GPU RENTS ARE RISING (B200 +31% YTD, H200 +25% SINCE MAY) WH
 - `2026-10-11` [metered-compute.md:L3633](../metered-compute.md) — 2026-10-11 ~7:30pm PDT (filed under rule 22c) — 🧪 **COINBASE'S CEO: A FINE-TUNED 9B OPEN-WEIGHT MODEL (ALIBABA'S QWEN3.5-9B) BEAT ITS FRONTIER "OPUS 4
 - `2026-10-12` [compression-thesis.md:L3631](../compression-thesis.md) — 2026-10-12 ~1:00pm PDT — 🍉 **META SHIPS ITS FIRST FRONTIER MODEL (MUSE WONDER) AT $4/$20 PER MILLION TOKENS, THE SAME LIST AS GEMINI 4 ARGON'S STANDAR
+- `2026-10-12` [compression-thesis.md:L3643](../compression-thesis.md) — 2026-10-12 ~7:45pm PDT — 🧩 **ONE ENGINEER, A CODING MODEL AND A FEW DAYS: ROUGH FREE CLONES OF ADOBE'S SUITE AND MICROSOFT OFFICE. THE MARKET SHRUGGED
 - `2026-10-12` [metered-compute.md:L3655](../metered-compute.md) — 2026-10-12 ~9:05am PDT (filed under rule 22c) — 🧮 **WEEKLY TOKEN REPORT (w/e 10/12): ~90% OF AGENT TOKENS ARE NOW CACHED INPUT, SO TOKEN VOLUME HAS ST

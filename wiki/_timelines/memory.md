@@ -1,6 +1,6 @@
 # ⏱ MEMORY — merged timeline (the gate)
 
-> **182 dated entries across 2 notes · 2026-07-16 → 2026-10-12 · refreshed 2026-10-12 19:37 PDT**
+> **183 dated entries across 2 notes · 2026-07-16 → 2026-10-12 · refreshed 2026-10-12 19:39 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -204,3 +204,4 @@
 - `2026-10-01` [compression-thesis.md:L3544](../compression-thesis.md) — 2026-10-01 ~3:00am PDT (Y'd ~2:58am) — 💲 **GEMINI 4 ARGON: A CLAIMED-FRONTIER MODEL AT THE CHEAP-TIER PRICE, RELEASED THROUGH A GATE. ⛔⛔ VENDOR CONFLI
 - `2026-10-01` [compression-thesis.md:L3559](../compression-thesis.md) — 2026-10-01 ~3:40am PDT (Y'd ~3:32am) — 📵 **"GIVE THE TOKENS AWAY, SELL THE PLAN AND THE ADS": JAKE'S 7/24 MINUTES-PLAN CALL GETS THIRD-PARTY CONVERGEN
 - `2026-10-12` [compression-thesis.md:L3631](../compression-thesis.md) — 2026-10-12 ~1:00pm PDT — 🍉 **META SHIPS ITS FIRST FRONTIER MODEL (MUSE WONDER) AT $4/$20 PER MILLION TOKENS, THE SAME LIST AS GEMINI 4 ARGON'S STANDAR
+- `2026-10-12` [compression-thesis.md:L3643](../compression-thesis.md) — 2026-10-12 ~7:45pm PDT — 🧩 **ONE ENGINEER, A CODING MODEL AND A FEW DAYS: ROUGH FREE CLONES OF ADOBE'S SUITE AND MICROSOFT OFFICE. THE MARKET SHRUGGED

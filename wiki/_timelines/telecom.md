@@ -1,6 +1,6 @@
 # ⏱ TELECOM — merged timeline (the gate)
 
-> **283 dated entries across 3 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-12 19:37 PDT**
+> **284 dated entries across 3 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-12 19:39 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -311,3 +311,4 @@
 - `2026-10-12` [ai-capex-cycle.md:L3880](../ai-capex-cycle.md) — 2026-10-12 ~10:15am PDT — 🗓️ **THE 10/21 AFTER-CLOSE CLUSTER: SAP · IBM · LRCX · TSLA · TXN — WHAT EACH PRINT TESTS, AND WHAT THE PASTE LEFT OUT.** *(
 - `2026-10-12` [ai-capex-cycle.md:L3900](../ai-capex-cycle.md) — Addendum 2026-10-12 ~10:40am PDT — 🚗 **TESLA, PROPERLY (Jake: "What about Tesla. You just glossed it" — he was right; the 10:15am entry gave it two li
 - `2026-10-12` [compression-thesis.md:L3631](../compression-thesis.md) — 2026-10-12 ~1:00pm PDT — 🍉 **META SHIPS ITS FIRST FRONTIER MODEL (MUSE WONDER) AT $4/$20 PER MILLION TOKENS, THE SAME LIST AS GEMINI 4 ARGON'S STANDAR
+- `2026-10-12` [compression-thesis.md:L3643](../compression-thesis.md) — 2026-10-12 ~7:45pm PDT — 🧩 **ONE ENGINEER, A CODING MODEL AND A FEW DAYS: ROUGH FREE CLONES OF ADOBE'S SUITE AND MICROSOFT OFFICE. THE MARKET SHRUGGED
