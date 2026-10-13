@@ -547,3 +547,13 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-13,VLO,bull,0.5,BNO,"Black Sea: ship sunk off Bulgaria (Russia suspected); Bulgarian refinery supply threatened (reported)",wiki/oil-value-chain.md 10/13 ~7:00am
 2026-10-13,MPC,bull,0.5,BNO,"Black Sea: ship sunk off Bulgaria (Russia suspected); Bulgarian refinery supply threatened (reported)",wiki/oil-value-chain.md 10/13 ~7:00am
 2026-10-13,DINO,bull,0.5,BNO,"Black Sea: ship sunk off Bulgaria (Russia suspected); Bulgarian refinery supply threatened (reported)",wiki/oil-value-chain.md 10/13 ~7:00am
+2026-10-13,EFXT,bull,1,SPY,"Enerflex >1 GW behind-the-meter gas generation award; BTM backlog >1.75 GW through 2028 (company release)",wiki/buildout-bottleneck-map.md 10/13 ~7:30am
+2026-10-13,GS,bull,1,SPY,"3Q beat: rev $18.68B +23%, EPS $17.01; equities financing record $3.37B +96% (company release)",wiki/market-fragility.md 10/13 ~7:30am
+2026-10-13,WFC,bear,0.5,SPY,"3Q: NII/revenue short of estimates (Reuters); provision $1,029M vs $681M (+51%)",wiki/market-fragility.md 10/13 ~7:30am
+2026-10-13,JPM,flat,1,SPY,"3Q: NII +13%, FY NII ~$106.2B above est. (BBG) vs FICC miss and $658M securities losses",wiki/market-fragility.md 10/13 ~7:30am
+2026-10-13,C,flat,1,SPY,"3Q: EPS $2.85 beat vs $369M reserve build on the macroeconomic outlook",wiki/market-fragility.md 10/13 ~7:30am
+2026-10-13,UNH,bull,1,SPY,"3Q beat ($4.69 vs $4.12) and third raise (FY adj >= $20.50)",wiki/market-fragility.md 10/13 ~7:30am
+2026-10-13,UNH,bear,1,SPY,"MCR helped by $610M prior-period reserve release (~0.7pt of 1.5pt); revenue -0.4% y/y; risk members -2.5M; CFO: elevated utilization in risk-based",wiki/market-fragility.md 10/13 ~7:30am
+2026-10-13,HUM,bull,0.5,SPY,"BlackRock/HPS replaces WCAS in CenterWell JV (~$2.8B); put liabilities removed; no 2026 EPS effect (8-K)",wiki/market-fragility.md 10/13 ~7:30am
+2026-10-13,HUM,bear,0.5,SPY,"UNH read-through: elevated utilization in risk-based (Medicare Advantage) businesses (inference)",wiki/market-fragility.md 10/13 ~7:30am
+2026-10-13,JNJ,flat,1,SPY,"3Q beat ($2.59 vs $2.54), guide +$0.06, hips-and-knees spin; GAAP $0.09 = July talc resolution booked; stock sold",wiki/market-fragility.md 10/13 ~7:30am
