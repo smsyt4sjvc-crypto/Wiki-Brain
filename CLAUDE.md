@@ -225,6 +225,7 @@ paraphrase without the primary — SAY SO BEFORE CONCLUDING, do not reason past 
     (ACTUAL or PAPER) so the 9pm process is graded against the 47/46 price-only baseline like the flags.**
     **(e) It ends at the money, every night: "so the money goes here at the open, and here is the trade —
     or there isn't one."**
+    **(e2) THE FLAG SWEEP (Jake, 2026-10-12 ~5:35pm: "Make the prompt for the gopher. I'll make it recurring in my 9pm fetch nightly"):** Jake's gopher runs `prompts/gopher-flag-sweep.md` nightly at ~9pm PT (his automation, his tool); the MIM ingests its FLAG SWEEP output (librarian first) BEFORE picking the trade. **When the flag board changes, the MIM prints a replacement WATCHLIST block for Jake to paste into the gopher.** Origin: the missed Meta/Watermelon launch (`data-sourcing-playbook` 10/12 5:15pm).
     **(f) EVERY MIM PICKS AT LEAST ONE TRADE FOR THE NEXT MORNING (Jake, 2026-10-07 ~9:55pm: "From now on… You must pick at least one";
     clarified ~10:05pm: "it doesn't mean at 6:30 exactly. It means tomorrow morning in general").** "At the open" = the next MORNING SESSION,
     not the 6:30am print: an entry that waits for a morning event (claims, an auction, a print) counts, as long as it is named, dated and
