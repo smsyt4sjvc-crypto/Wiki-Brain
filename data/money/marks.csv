@@ -538,3 +538,12 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-12,CEG,bull,0.5,SPY,"DOE Order 202-26-50: PJM emergency authority Oct 13-16 (backup generation at large loads)",wiki/power-scarcity-equities.md 10/12 ~9:15pm
 2026-10-12,TLN,bull,0.5,SPY,"DOE Order 202-26-50: PJM emergency authority Oct 13-16 (backup generation at large loads)",wiki/power-scarcity-equities.md 10/12 ~9:15pm
 2026-10-12,NVDA,bear,0.5,SOXX,"Microsoft Maia 300 (2027, N2P): claims ~40% more tokens/MW than leading GPU systems (projection)",wiki/ai-capex-cycle.md 10/12 ~9:15pm
+2026-10-13,CRWV,bear,0.5,TLT,"JPM/GS limit exposure on Volta's $5B AI loan sale; investors demand higher yields for risky AI debt (BBG, reported)",wiki/ai-financing-fragility.md 10/13 ~7:00am
+2026-10-13,PARR,bear,0.5,BNO,"Novak: Russian diesel exports can exceed Trump-deal levels, ~3.5 Mt/month by year-end (reported)",wiki/oil-value-chain.md 10/13 ~7:00am
+2026-10-13,VLO,bear,0.5,BNO,"Novak: Russian diesel exports can exceed Trump-deal levels, ~3.5 Mt/month by year-end (reported)",wiki/oil-value-chain.md 10/13 ~7:00am
+2026-10-13,MPC,bear,0.5,BNO,"Novak: Russian diesel exports can exceed Trump-deal levels, ~3.5 Mt/month by year-end (reported)",wiki/oil-value-chain.md 10/13 ~7:00am
+2026-10-13,DINO,bear,0.5,BNO,"Novak: Russian diesel exports can exceed Trump-deal levels, ~3.5 Mt/month by year-end (reported)",wiki/oil-value-chain.md 10/13 ~7:00am
+2026-10-13,PARR,bull,0.5,BNO,"Black Sea: ship sunk off Bulgaria (Russia suspected); Bulgarian refinery supply threatened (reported)",wiki/oil-value-chain.md 10/13 ~7:00am
+2026-10-13,VLO,bull,0.5,BNO,"Black Sea: ship sunk off Bulgaria (Russia suspected); Bulgarian refinery supply threatened (reported)",wiki/oil-value-chain.md 10/13 ~7:00am
+2026-10-13,MPC,bull,0.5,BNO,"Black Sea: ship sunk off Bulgaria (Russia suspected); Bulgarian refinery supply threatened (reported)",wiki/oil-value-chain.md 10/13 ~7:00am
+2026-10-13,DINO,bull,0.5,BNO,"Black Sea: ship sunk off Bulgaria (Russia suspected); Bulgarian refinery supply threatened (reported)",wiki/oil-value-chain.md 10/13 ~7:00am
