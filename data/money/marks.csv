@@ -561,3 +561,16 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-13,BX,bear,0.5,SPY,"Blackstone-backed AirTrunk delays ~$1.5B Singapore REIT IPO to next year (Bloomberg, people familiar)",wiki/ai-financing-fragility.md 10/13 ~9:15am
 2026-10-13,IREN,bear,0.5,SPY,"SemiAnalysis ClusterMAX 3.0 (9/23): Not Recommended - Underperforming; users rate BC sites '#1 worst' with multi-day power outages; bare metal pitched as managed",wiki/buildout-bottleneck-map.md 10/13 ~9:15am
 2026-10-13,NBIS,bull,0.5,SPY,"SemiAnalysis ClusterMAX 3.0 (9/23): upgraded Gold -> Platinum; 'commands premium pricing'",wiki/buildout-bottleneck-map.md 10/13 ~9:15am
+2026-10-13,FRMI,bull,1,SPY,"AMD credit-support agreement for the Project Matador phase-one lease (222 MW gross, tenant TensorWave); milestone toward project financing (company release)",wiki/balance-sheet-board.md 10/13 ~1:30pm
+2026-10-13,AMD,bull,0.5,SOXX,"Credit support secures a 222 MW deployment of AMD accelerators at Fermi/TensorWave (company release)",wiki/balance-sheet-board.md 10/13 ~1:30pm
+2026-10-13,AMD,bear,0.5,SOXX,"Unquantified contingent exposure to a Silver-tier neocloud's lease (amount/terms undisclosed)",wiki/balance-sheet-board.md 10/13 ~1:30pm
+2026-10-13,C,bear,1,SPY,"Q4 markets revenue guided down ~20% 'possibly a bit more'; IB fees -13% q/q; RoTCE 11.5% from 13.0% (CFO/call)",wiki/market-fragility.md 10/13 ~1:30pm
+2026-10-13,ORCL,bull,0.5,TLT,"Jupiter: proposed El Paso Electric energy-service agreement ($10M/yr x10 min) + up to $55M/yr NM bill credits; de-risks the permit (reported)",wiki/ai-financing-fragility.md 10/13 ~1:30pm
+2026-10-13,MU,bear,0.5,SOXX,"Counterpoint prelim: Q3 smartphone shipments -20% y/y (lowest Q3 since 2012) on memory costs; retail prices +20% (reported)",wiki/memory-regime-question.md 10/13 ~1:30pm
+2026-10-13,QCOM,bear,0.5,SOXX,"Q3 smartphone shipments -20% y/y (Counterpoint prelim): handset chip units (reported)",wiki/memory-regime-question.md 10/13 ~1:30pm
+2026-10-13,1810.HK,bear,0.5,SOXX,"Xiaomi Q3 shipments down >30% (Counterpoint prelim, reported)",wiki/memory-regime-question.md 10/13 ~1:30pm
+2026-10-13,VLO,bull,0.5,BNO,"Houthis name Riyadh refinery/Aramco HQ as targets; diesel +4.47% (threat, reported)",wiki/oil-value-chain.md 10/13 ~1:30pm
+2026-10-13,MPC,bull,0.5,BNO,"Houthis name Riyadh refinery/Aramco HQ as targets; diesel +4.47% (threat, reported)",wiki/oil-value-chain.md 10/13 ~1:30pm
+2026-10-13,DINO,bull,0.5,BNO,"Houthis name Riyadh refinery/Aramco HQ as targets; diesel +4.47% (threat, reported)",wiki/oil-value-chain.md 10/13 ~1:30pm
+2026-10-13,PARR,bull,0.5,BNO,"Houthis name Riyadh refinery/Aramco HQ as targets; diesel +4.47% (threat, reported)",wiki/oil-value-chain.md 10/13 ~1:30pm
+2026-10-13,UAL,bear,0.5,BNO,"Diesel/jet +4.47% settle; Houthi threat to Saudi refining (reported)",wiki/oil-value-chain.md 10/13 ~1:30pm
