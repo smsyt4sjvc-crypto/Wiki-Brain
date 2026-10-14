@@ -597,3 +597,5 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-14,MS,bull,1,SPY,"Q3 beat: revenue $20.3B, EPS $3.03, equities trading +41% y/y (+$909M vs est, CNBC)",wiki/market-fragility.md 10/14 ~6:45am
 2026-10-14,BLK,bull,1,SPY,"Q3 beat: $205B net inflows, AUM $15.5T, revenue +19% (Reuters)",wiki/market-fragility.md 10/14 ~6:45am
 2026-10-14,INTC,bull,0.5,SOXX,"GPU D-Series (Crescent Island) inference card: 1.3 PF FP8, up to 480GB LPDDR5X, 350W, sampling; no GA date",wiki/market-fragility.md 10/14 ~6:45am
+2026-10-14,VLO,bull,0.5,BNO,"Ukrainian drones hit Saratov + Ryazan refineries (TASS; Novak confirms 2 refineries); damage unknown; Russian diesel exports",wiki/war/war-board.md 10/14 ~8:40am
+2026-10-14,MPC,bull,0.5,BNO,"Ukrainian drones hit Saratov + Ryazan refineries (TASS; Novak confirms 2 refineries); damage unknown",wiki/war/war-board.md 10/14 ~8:40am

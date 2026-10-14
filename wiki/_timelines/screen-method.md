@@ -1,6 +1,6 @@
 # ⏱ SCREEN-METHOD — merged timeline (the gate)
 
-> **173 dated entries across 5 notes · 2026-07-01 → 2026-10-13 · refreshed 2026-10-14 08:14 PDT**
+> **173 dated entries across 5 notes · 2026-07-01 → 2026-10-13 · refreshed 2026-10-14 08:38 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
