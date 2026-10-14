@@ -1,0 +1,4 @@
+# ZH on X (~8:30pm PDT 10/13, "18m" at Jake's screenshot ~8:48pm): "first data centers, now hyperscaler CDS just hit all time wides" — Bloomberg chart "Hyperscaler CDS at record wides" (Mar 31 → Oct 13); quoting ZH 12h earlier: "Data Center debt getting smoked today. Coreweave unsecureds tag 1000 g-sprd bps for the firs…"
+Image: raw/2026-10-13-x-zh-hyperscaler-cds-record-wides.jpg
+Chart legend (Bloomberg CDS, latest): ORCLCP 263.245 · GOOG 71.510 · MSFT 51.310 · AMZN 73.920 · META 103.095 · SPCX 202.520 · NVDA 87.950 · CRWV (LH axis) 982.110.
+Check (Claude, ~8:50pm PDT): ICE Clear Credit EOD 10/13 via tools/icc_cds.py (Dec-2031): CRWV 969.8 (+66.3) · ORCL 261.4 (+6.5) · AVGO 136.6 (+2.3) · META 103.0 (+4.2) · AMD 99.6 · NVDA 88.2 · AMZN 74.0 · GOOGL 73.0 · MSFT 51.8 — 12/12 wider or flat. Panel records (since 8/21): CRWV, ORCL, AVGO, META. NOT records: AMZN (74.1 on 9/28), GOOGL (73.7), MSFT (52.4), NVDA (89.6), AMD.
