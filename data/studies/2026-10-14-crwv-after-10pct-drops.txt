@@ -1,0 +1,22 @@
+CRWV after a >=10% down close (Yahoo daily, IPO 2025-03-28 -> 2026-10-13; pulled 2026-10-14 ~9:26am PDT). n=14.
+date        day0    next open  next close  5-day close   short ±3% from next open, 5 sessions
+2025-04-03  -12.3   -7.8       -11.1       -21.6         T
+2025-04-04  -11.1   -8.2        +4.2        -8.5         both same day
+2025-04-08  -12.5   +0.3       +11.8        -6.5         both same day
+2025-04-10  -13.5   +0.7        +3.7        -7.4         both same day
+2025-06-05  -17.2   +7.3        +3.8       +10.3         T
+2025-08-13  -20.8   -2.1       -15.5       -22.3         T
+2025-08-14  -15.5   -3.6        +0.5        -8.8         S
+2025-11-11  -16.3   +3.8        -3.3       -15.3         T
+2025-12-12  -10.1   +0.9        -7.9        +5.6         T
+2026-02-27  -18.5   -3.7        -1.9        -8.3         S
+2026-05-08  -11.4   -1.9        +0.5        -6.0         S
+2026-07-01  -13.9   +0.7        -4.6        +4.7         T
+2026-07-24  -11.4   +2.7        -1.5        -0.2         T
+2026-08-18  -12.1   +1.1        -2.5        -5.5         T
+(% vs the drop-day close; next open/close = the session after the drop)
+5-day close lower in 11 of 14 (mean -6.4%); next-day close mean -1.7%.
+Short bracket: target first 8, stop first 3, both touched the same day 3 (count as stop for safety: 8 vs 6).
+⚠️ CRWV's 60-day average high-low range is 6.2% a day: a ±3% bracket is half a normal day, so the bracket result is mostly noise. The 5-day drift is the usable stat.
+Lows: all-time $33.51 (2025-04-21); 52-week / 2026 low $60.55 (2026-07-29). ZH's "just shy of all time lows at $60" = the 52-week low, not the all-time low.
+Today (10/14 ~9:26am): 65.13, -16.3% vs 77.80 (5th-worst day on record at this print).
