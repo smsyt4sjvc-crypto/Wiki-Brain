@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1080 dated entries · 2026-02-10 → 2026-10-12 · refreshed 2026-10-14 09:27 PDT**
+> **1080 dated entries · 2026-02-10 → 2026-10-12 · refreshed 2026-10-14 13:20 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1097,19 +1097,19 @@
 
 ## 2026-10
 
-- `2026-10-01` **[1]** rates-board.md:L3811 — 2026-10-01 close (Y'd ~1:38pm PDT) — 🔁 **THE ROUND TRIP: 10Y TO ~5.34% (HIGHEST SINCE 2002) ON ISM PRICES 77.9 + CLAIMS 197K, THEN EUROPE CRACKED AND 
+- `2026-10-01` **[1]** rates-board.md:L3812 — 2026-10-01 close (Y'd ~1:38pm PDT) — 🔁 **THE ROUND TRIP: 10Y TO ~5.34% (HIGHEST SINCE 2002) ON ISM PRICES 77.9 + CLAIMS 197K, THEN EUROPE CRACKED AND 
 - `2026-10-01` **[1]** new-economy-regime.md:L5032 — 2026-10-01 ~3:45am PDT (Y'd ~3:32am) — 🛰️ **PROJECT MERIDIAN: MUSK, LUCKEY AND GINGRICH CO-LEAD A 120-DAY PENTAGON FUTURE-WARFARE STUDY; HEGSETH CUTS 
 - `2026-10-01` **[3]** ai-financing-fragility.md:L8555 — 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm) — ⚖️ **THE REFEREE RULED: PARAMOUNT'S RECORD JUNK DEAL BROKE IN A DAY — AND JAKE'S QUESTION REFRAMES WHAT TO WATC
 - `2026-10-01` **[5]** metered-compute.md:L3565 — 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm) — ✂️ **THE SQUEEZE IN THE MIDDLE, MEASURED TWO WAYS: GPU RENTS ARE RISING (B200 +31% YTD, H200 +25% SINCE MAY) WH
 - `2026-10-01` **[5]** compression-thesis.md:L3544 — 2026-10-01 ~3:00am PDT (Y'd ~2:58am) — 💲 **GEMINI 4 ARGON: A CLAIMED-FRONTIER MODEL AT THE CHEAP-TIER PRICE, RELEASED THROUGH A GATE. ⛔⛔ VENDOR CONFLI
 - `2026-10-01` **[5]** compression-thesis.md:L3559 — 2026-10-01 ~3:40am PDT (Y'd ~3:32am) — 📵 **"GIVE THE TOKENS AWAY, SELL THE PLAN AND THE ADS": JAKE'S 7/24 MINUTES-PLAN CALL GETS THIRD-PARTY CONVERGEN
-- `2026-10-02` **[1]** rates-board.md:L3825 — 2026-10-02 ~7:50am PDT (Y'd ~7:45am) — 💥 **PAYROLLS +29K (JULY NOW NEGATIVE) AND A BOND SHORT SQUEEZE — YET THE 30Y MOVED ONLY −3BP. THE FRONT END GOT
+- `2026-10-02` **[1]** rates-board.md:L3826 — 2026-10-02 ~7:50am PDT (Y'd ~7:45am) — 💥 **PAYROLLS +29K (JULY NOW NEGATIVE) AND A BOND SHORT SQUEEZE — YET THE 30Y MOVED ONLY −3BP. THE FRONT END GOT
 - `2026-10-02` **[3]** ai-financing-fragility.md:L8567 — 2026-10-02 ~3:55pm PDT (filed under rule 22c) — 🕸️ **"WHO OWES WHOM" (ZH's expansion of the MS map) RECONCILED TO FILINGS: NVDA's $531B IS ITS OWN 10-
 - `2026-10-02` **[3]** ai-financing-fragility.md:L8575 — 2026-10-02 ~4:30pm PDT (filed under rule 22c) — 🌉 **"THE BRIDGE TO 2031": THE CLAIM THAT AI BECOMES SELF-FUNDING WHEN ENTERPRISE AI SPEND REACHES ~$3T
 - `2026-10-03` **[1]** new-economy-regime.md:L5043 — 2026-10-03 ~1:40pm PDT (filed under rule 22c) — 🏭 **"WHERE IS THE ONSHORING?" — THE $20 TRILLION IS PLEDGES; THE MEASURED FOREIGN MONEY IS $232B, AND 
 - `2026-10-03` **[3]** balance-sheet-board.md:L818 — 2026-10-03 ~1:35pm PDT (filed under rule 22c) — 🧾 **ZH: "META's $628B 'FOOTNOTE' — COUNT IT AND THE STOCK GETS 35% MORE EXPENSIVE." THE NUMBERS ARE TH
-- `2026-10-05` **[1]** rates-board.md:L3854 — 2026-10-05 close (~1:45pm PDT, filed under rule 22c) — 📉 **TEST SIX: A SOFT ISM HEADLINE AND A WEAK-JOBS HANGOVER, AND THE LONG END ROSE 3bp ANYWAY — 
-- `2026-10-06` **[1]** rates-board.md:L3875 — 2026-10-06 close (~1:45pm PDT), filed under rule 22c — 📉 **DURATION RELIEF, ALL OF IT REAL: 10Y −4bp TO 5.27, EVERY BASIS POINT A REAL-YIELD MOVE, BRE
+- `2026-10-05` **[1]** rates-board.md:L3855 — 2026-10-05 close (~1:45pm PDT, filed under rule 22c) — 📉 **TEST SIX: A SOFT ISM HEADLINE AND A WEAK-JOBS HANGOVER, AND THE LONG END ROSE 3bp ANYWAY — 
+- `2026-10-06` **[1]** rates-board.md:L3876 — 2026-10-06 close (~1:45pm PDT), filed under rule 22c — 📉 **DURATION RELIEF, ALL OF IT REAL: 10Y −4bp TO 5.27, EVERY BASIS POINT A REAL-YIELD MOVE, BRE
 - `2026-10-10` **[3]** ai-financing-fragility.md:L8669 — 2026-10-10 ~3:00pm PDT (filed under rule 22c) — 💸 **THE RATE CARD CORRECTS THE VAULT: NEW GB300 CAPACITY RENTS FOR $40–50B PER GW-YEAR SHORT-TERM AND 
 - `2026-10-11` **[5]** metered-compute.md:L3633 — 2026-10-11 ~7:30pm PDT (filed under rule 22c) — 🧪 **COINBASE'S CEO: A FINE-TUNED 9B OPEN-WEIGHT MODEL (ALIBABA'S QWEN3.5-9B) BEAT ITS FRONTIER "OPUS 4
 - `2026-10-12` **[3]** balance-sheet-board.md:L830 — Pointer 2026-10-12 ~10:40am PDT — **TSLA (issuer side, closes part of the `:L116` ⬜): $30.0B of NEW UNSECURED BANK LINES, 8-K 9/29 — on-sheet, not a v

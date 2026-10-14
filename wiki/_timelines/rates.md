@@ -1,6 +1,6 @@
 # ⏱ RATES — merged timeline (the gate)
 
-> **492 dated entries across 3 notes · 2026-02-10 → 2026-10-13 · refreshed 2026-10-14 09:27 PDT**
+> **492 dated entries across 3 notes · 2026-02-10 → 2026-10-13 · refreshed 2026-10-14 13:20 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -511,12 +511,12 @@
 ## 2026-10
 
 - `2026-10-01` [new-economy-regime.md:L5032](../new-economy-regime.md) — 2026-10-01 ~3:45am PDT (Y'd ~3:32am) — 🛰️ **PROJECT MERIDIAN: MUSK, LUCKEY AND GINGRICH CO-LEAD A 120-DAY PENTAGON FUTURE-WARFARE STUDY; HEGSETH CUTS 
-- `2026-10-01` [rates-board.md:L3811](../rates-board.md) — 2026-10-01 close (Y'd ~1:38pm PDT) — 🔁 **THE ROUND TRIP: 10Y TO ~5.34% (HIGHEST SINCE 2002) ON ISM PRICES 77.9 + CLAIMS 197K, THEN EUROPE CRACKED AND 
-- `2026-10-02` [rates-board.md:L3825](../rates-board.md) — 2026-10-02 ~7:50am PDT (Y'd ~7:45am) — 💥 **PAYROLLS +29K (JULY NOW NEGATIVE) AND A BOND SHORT SQUEEZE — YET THE 30Y MOVED ONLY −3BP. THE FRONT END GOT
+- `2026-10-01` [rates-board.md:L3812](../rates-board.md) — 2026-10-01 close (Y'd ~1:38pm PDT) — 🔁 **THE ROUND TRIP: 10Y TO ~5.34% (HIGHEST SINCE 2002) ON ISM PRICES 77.9 + CLAIMS 197K, THEN EUROPE CRACKED AND 
+- `2026-10-02` [rates-board.md:L3826](../rates-board.md) — 2026-10-02 ~7:50am PDT (Y'd ~7:45am) — 💥 **PAYROLLS +29K (JULY NOW NEGATIVE) AND A BOND SHORT SQUEEZE — YET THE 30Y MOVED ONLY −3BP. THE FRONT END GOT
 - `2026-10-03` [new-economy-regime.md:L5043](../new-economy-regime.md) — 2026-10-03 ~1:40pm PDT (filed under rule 22c) — 🏭 **"WHERE IS THE ONSHORING?" — THE $20 TRILLION IS PLEDGES; THE MEASURED FOREIGN MONEY IS $232B, AND 
-- `2026-10-05` [rates-board.md:L3854](../rates-board.md) — 2026-10-05 close (~1:45pm PDT, filed under rule 22c) — 📉 **TEST SIX: A SOFT ISM HEADLINE AND A WEAK-JOBS HANGOVER, AND THE LONG END ROSE 3bp ANYWAY — 
+- `2026-10-05` [rates-board.md:L3855](../rates-board.md) — 2026-10-05 close (~1:45pm PDT, filed under rule 22c) — 📉 **TEST SIX: A SOFT ISM HEADLINE AND A WEAK-JOBS HANGOVER, AND THE LONG END ROSE 3bp ANYWAY — 
 - `2026-10-06` [market-fragility.md:L4753](../market-fragility.md) — 2026-10-06 ~12:10pm PDT (filed under rule 22c) — 🏢 **OFFICE CMBS DELINQUENCY 12.2%, ABOVE THE FINANCIAL-CRISIS PEAK — AND THE BIGGEST NEW DEFAULT IS A
-- `2026-10-06` [rates-board.md:L3875](../rates-board.md) — 2026-10-06 close (~1:45pm PDT), filed under rule 22c — 📉 **DURATION RELIEF, ALL OF IT REAL: 10Y −4bp TO 5.27, EVERY BASIS POINT A REAL-YIELD MOVE, BRE
+- `2026-10-06` [rates-board.md:L3876](../rates-board.md) — 2026-10-06 close (~1:45pm PDT), filed under rule 22c — 📉 **DURATION RELIEF, ALL OF IT REAL: 10Y −4bp TO 5.27, EVERY BASIS POINT A REAL-YIELD MOVE, BRE
 - `2026-10-11` [market-fragility.md:L4791](../market-fragility.md) — 2026-10-11 ~7:00am PDT (filed under rule 22c) — 📉 **ROBERTS: "THE EQUITY RISK PREMIUM HAS VANISHED." CHECKED: TRUE AGAINST THE NOMINAL 10-YEAR (−1.5 T
 - `2026-10-12` [market-fragility.md:L4810](../market-fragility.md) — 2026-10-12 ~1:15pm PDT (filed under rule 22c) — 🔀 **MONDAY CLOSE: THE MARKET PAID FOR A PRODUCT AND SOLD THE SUPPLIERS — META +3.4%, SOX −2.7% (LUMENT
 - `2026-10-13` [market-fragility.md:L4824](../market-fragility.md) — 2026-10-13 ~7:00am PDT (filed under rule 22c) — 🌅 **TUESDAY OVERNIGHT: KOSPI −7% AT ONE POINT ON THE CHIP SLIDE; SINGLE-STOCK OPTIONS AT MEME-2021 VOL
