@@ -1,0 +1,12 @@
+ASML (Nasdaq ADR, Yahoo daily) — 2-session drift INTO the print vs the day-0 reaction, last 8 prints (dates from raw/2026-10-09-asml-q3-2026-earnings-trade-report.txt)
+date        2-day pre-print   gap at open   day-0 close-to-close
+2024-10-15  +4.6%             -0.6%         -16.3%
+2025-01-29  -6.7%             +6.4%         +4.3%
+2025-04-16  +2.1%             -5.3%         -7.1%
+2025-07-16  +2.6%             -8.3%         -8.3%
+2025-10-15  +5.0%             +4.8%         +2.7%
+2026-01-28  +4.7%             +2.6%         -2.2%
+2026-04-15  +2.7%             -2.9%         -2.4%
+2026-07-15  -1.2%             +2.8%         +2.2%
+Into-print DECLINE: 2 of 2 rose on the day (+4.3%, +2.2%). Into-print RISE: 5 of 6 fell (only 2025-10-15 rose). n=8 — a lean, not an edge.
+This print: ADR 1780.34 (10/9) -> 1717.76 (10/13) = -3.5% into the print; Amsterdam 1601.6 -> 1509.6 = -5.7% (10/13 close EUR 1,509.60, -4.2%; 52-week high EUR 1,741 on 6/30, -13.3%).

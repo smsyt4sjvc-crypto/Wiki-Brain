@@ -241,6 +241,7 @@ from the vault's conditions, not from the tape.**
 - **When:** Tue 10/13 ~10pm PT release; the US session Wed 10/14 opens 6:30am PT, one hour after CPI (5:30am PT); TSMC Q3 results/call Wed night PT. The Oct-16 options carry all three.
 - **Read it on:** asml.com press release + IR presentation; the investor call transcript; Cboe delayed chain (`cdn.cboe.com/api/global/delayed_quotes/options/ASML.json`).
 - **Pointer:** [[earnings-implied-moves]] 10/9 10:40am · `raw/2026-10-09-asml-q3-2026-earnings-trade-report.txt`.
+- **↳ 10/13 ~7:45pm:** **lean revised FLAT (down tilt removed):** ASML fell into the print (Amsterdam €1,509.60, −4.2% today, −5.7% over two days, −13.3% from the 6/30 high; ADR −3.5% over two days); in the last 8 prints the 2 that came in after a decline rose on the day, 5 of 6 after a run-up fell (n=8, `data/studies/2026-10-13-asml-preprint-drift.txt`). 🟢/🔴 conditions unchanged; first actionable price is Wednesday's 6:30am PT open, one hour after CPI. → [[earnings-implied-moves]] 10/13
 - **Status:** LIVE (dated 10/13–10/14)
 
 ### 🔬 TSM — Q3 print Wed 10/14 ~11pm PT (2am ET); the US reaction Thu 10/15 (set 2026-10-09 ~10:45am)
