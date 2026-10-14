@@ -1,0 +1,22 @@
+ASML (Nasdaq ADR) — LONG bought at the US OPEN on report day (day 0), ±3% bracket, 5 sessions. Yahoo daily OHLC, pulled 2026-10-14 ~00:30 PDT.
+Method check: the same code on GOOGL (every day, open entry, ±3%/5 sessions, 10/14/2024 →) reproduces the MIM's 46% target-first / 36% stop-first / 18% neither, n=496.
+Unconditional ASML, same window: target-first 45% · stop-first 44% · neither 11% (n=496) (46/43/11 with a close-direction tie-break).
+
+Report-day path from the US opening price (each day: high / low / close vs the open, %):
+date        gap vs prior close   day0                    day1                    day2                    day3                    day4
+2024-10-15  -0.58   [h+0.7 l-17.3 c-15.8] [h-17.3 l-21.9 c-21.2] [h-18.8 l-21.9 c-19.2] [h-16.2 l-17.8 c-16.6] [h-16.4 l-18.3 c-17.7]
+2025-01-29  +6.41   [h+0.2 l-3.1 c-2.0] [h+2.5 l+0.5 c+1.4] [h+3.8 l+1.5 c+1.7] [h+1.1 l-1.3 c+0.5] [h+2.1 l+0.3 c+0.6]
+2025-04-16  -5.29   [h+0.9 l-3.5 c-1.9] [h+0.1 l-1.6 c-1.1] [h-2.1 l-5.1 c-3.4] [h-0.2 l-2.5 c-1.3] [h+3.0 l+1.2 c+1.7]
+2025-07-16  -8.34   [h+0.9 l-3.1 c+0.0] [h+0.3 l-1.6 c-1.3] [h-0.3 l-2.7 c-2.6] [h-2.8 l-4.6 c-4.6] [h-4.7 l-7.0 c-6.5]
+2025-10-15  +4.78   [h+0.3 l-3.6 c-2.0] [h+1.9 l-1.8 c-1.0] [h+0.3 l-1.5 c-0.1] [h+2.1 l+0.1 c+1.2] [h+0.7 l-0.6 c-0.5]
+2026-01-28  +2.64   [h+0.0 l-5.7 c-4.7] [h-1.7 l-6.3 c-2.5] [h-1.8 l-5.2 c-4.7] [h-2.7 l-6.5 c-3.5] [h-3.2 l-8.1 c-6.5]
+2026-04-15  -2.95   [h+0.9 l-4.0 c+0.6] [h-1.3 l-4.5 c-4.3] [h-0.1 l-1.9 c-0.9] [h+0.4 l-1.5 c+0.2] [h+0.5 l-1.9 c-1.0]
+2026-07-15  +2.78   [h+0.3 l-4.9 c-0.5] [h+1.6 l-2.5 c-2.2] [h-1.9 l-6.7 c-4.2] [h-1.5 l-5.3 c-4.7] [h-0.1 l-2.2 c-1.3]
+
+RESULT: long at the US open on report day hit −3% before +3% in 8 of 8. Every day-0 low was ≥3.1% under the open; no day-0 high was more than +0.9% above it,
+so no same-day ambiguity: the −3% touch came first on day 0 in all 8. Holds across gaps from −8.3% to +6.4% and in both up- and down-closing reports
+(1/29/25 closed +4.3% vs the prior close but −2.0% from the open; 7/15/26 +2.2% vs prior, −0.5% from the open).
+Mirror (short at the US open, target −3%, stop +3%): 8 of 8 target first, all on day 0. Day-0 close vs the open: −15.8, −2.0, −1.9, +0.0, −2.0, −4.7, +0.6, −0.5 (6 of 8 below the open).
+⚠️ 2024-10-15 = the accidental early release (published a day early; the US open was −0.6%, the day's low −17%, so the news hit during US trading — exact time ⬜ not pulled). Excluding it: 7 of 7.
+⚠️ n=8, one cut chosen after looking. P(0 of 8 reach +3% first) at ASML's unconditional ~50/50 ≈ 0.4%; discount for search.
+This report (10/14): Europe ~€1,534–1,540 at 09:10 CEST × EURUSD 1.1207 ⇒ ADR equivalent ~$1,720–1,726 (+0.1–0.5% vs the $1,717.76 close).
