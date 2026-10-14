@@ -582,3 +582,8 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-13,GOOGL,bull,1,SPY,"Gemini 4 Argon generally available (stage D) with dated price step-up 11/30 and GitHub Copilot distribution; stock +0.3% (company; vendor conflict: no model view)",mim/2026-10-13.md
 2026-10-13,AAPL,bull,0.5,SPY,"Four home launches (TV 4K, HomeView, HomePod mini 2, Home Collection) shipping 10/30-early 2027; Siri AI beta (company)",mim/2026-10-13.md
 2026-10-13,BNO,bull,1,BNO,"Aramco administrative building in Dhahran attacked, limited fire (Reuters 3:27pm PT) after the Houthi threat; no production effect reported",wiki/war/war-board.md 10/13 ~9:15pm
+2026-10-13,ASML,bull,1,SOXX,"Q3 record EUR 11.7B, GM 57.5%; FY raised to EUR 44-45B; Q4 guide 14.2-15.2B; 'supply as planned for 2027 and 2028 will not fully meet demand' (company release)",wiki/ai-capex-cycle.md 10/13 ~10:30pm
+2026-10-13,AMAT,bull,0.5,SOXX,"ASML: customer demand exceeds planned litho supply 2027-28 (read-across, fab capex intact)",wiki/ai-capex-cycle.md 10/13 ~10:30pm
+2026-10-13,LRCX,bull,0.5,SOXX,"ASML: customer demand exceeds planned litho supply 2027-28 (read-across, fab capex intact)",wiki/ai-capex-cycle.md 10/13 ~10:30pm
+2026-10-13,KLAC,bull,0.5,SOXX,"ASML: customer demand exceeds planned litho supply 2027-28 (read-across, fab capex intact)",wiki/ai-capex-cycle.md 10/13 ~10:30pm
+2026-10-13,MU,bull,0.5,SOXX,"ASML: litho supply short of demand through 2028 caps advanced-bit supply growth (incl. CXMT, no EUV) - supports memory pricing (inference)",wiki/ai-capex-cycle.md 10/13 ~10:30pm

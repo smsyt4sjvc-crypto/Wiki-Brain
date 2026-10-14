@@ -243,7 +243,8 @@ from the vault's conditions, not from the tape.**
 - **Read it on:** asml.com press release + IR presentation; the investor call transcript; Cboe delayed chain (`cdn.cboe.com/api/global/delayed_quotes/options/ASML.json`).
 - **Pointer:** [[earnings-implied-moves]] 10/9 10:40am · `raw/2026-10-09-asml-q3-2026-earnings-trade-report.txt`.
 - **↳ 10/13 ~7:45pm:** **lean revised FLAT (down tilt removed):** ASML fell into the print (Amsterdam €1,509.60, −4.2% today, −5.7% over two days, −13.3% from the 6/30 high; ADR −3.5% over two days); in the last 8 prints the 2 that came in after a decline rose on the day, 5 of 6 after a run-up fell (n=8, `data/studies/2026-10-13-asml-preprint-drift.txt`). 🟢/🔴 conditions unchanged; first actionable price is Wednesday's 6:30am PT open, one hour after CPI. → [[earnings-implied-moves]] 10/13
-- **Status:** LIVE (dated 10/13–10/14)
+- **↳ 10/13 ~10:30pm — PRINTED, GRADED:** 🟢 **half** (FY raised to €44–45B ✔; 2028 still "investigating," now "beyond" +30%, with 2027 and 2028 supply stated short of demand ✘ on the literal wording) · 🔴 **none** (Q4 guide €14.2–15.2B vs the €13B line; no 2027 walk-back; no China flag). Q3 €11.7B record, margin 57.5%. No registered first-move call fired. Reaction graded at Wed's close. → [[ai-capex-cycle]] 10/13 10:30pm
+- **Status:** PRINTED 10/13 ~10pm PT — reaction graded Wed 10/14 close
 
 ### 🔬 TSM — Q3 print Wed 10/14 ~11pm PT (2am ET); the US reaction Thu 10/15 (set 2026-10-09 ~10:45am)
 - **Lean:** the FADE after a gap up (Jake's side; [[_calibration]] 10/8). No straddle ahead of the print.
