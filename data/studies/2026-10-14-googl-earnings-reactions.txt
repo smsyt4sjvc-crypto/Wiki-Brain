@@ -17,3 +17,8 @@ report      gap     day0    5-day   vol vs 20d
 2026-07-22  -6.1%   -7.1%   -1.6%   x2.1
 Day 0 down 7 of 14; <= -5% in 5 of 14 (incl. the latest, Jul-2026 -7.1%); >= +5% in 3 of 14; mean |day 0| 5.1%.
 Q3-2026 report date: not found (last year 10/29 after close) ⬜.
+
+ADDENDUM ~8:15am PDT — does a later entry change the bracket odds? GOOGL hourly bars (Yahoo 730 trading days, 2023-11-15 -> 2026-10-14), long, ±3% from entry, rest of day + 4 sessions, same-bar double touch = stop:
+  entry at the open (09:30 ET bar open):        target 44% · stop 35% · neither 21% (n=725)
+  entry ~1 hour later (10:30 ET bar open):      target 42% · stop 33% · neither 24% (n=725)
+=> same edge (+9 points). The daily-bar version from the MIM: 46 / 36 / 18 (n=496, 2y).
