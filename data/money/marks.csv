@@ -574,3 +574,4 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-13,DINO,bull,0.5,BNO,"Houthis name Riyadh refinery/Aramco HQ as targets; diesel +4.47% (threat, reported)",wiki/oil-value-chain.md 10/13 ~1:30pm
 2026-10-13,PARR,bull,0.5,BNO,"Houthis name Riyadh refinery/Aramco HQ as targets; diesel +4.47% (threat, reported)",wiki/oil-value-chain.md 10/13 ~1:30pm
 2026-10-13,UAL,bear,0.5,BNO,"Diesel/jet +4.47% settle; Houthi threat to Saudi refining (reported)",wiki/oil-value-chain.md 10/13 ~1:30pm
+2026-10-13,GTLB,bear,0.5,SPY,"Anthropic replaced git/code review in-house at agent scale (merges/day ~2,500 -> >30,000); expects others to hit the same wall in 6-12 months (company post; inference)",wiki/compression-thesis.md 10/13 ~8:45pm
