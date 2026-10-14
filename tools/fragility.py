@@ -221,7 +221,7 @@ def equity_exit_panel():
     if not rows:
         return None
     today = date.today()
-    ADVERSE = {"cancelled", "deferred", "repriced", "sweetened"}
+    ADVERSE = {"cancelled", "deferred", "repriced", "sweetened", "stressed"}  # "pending" not counted
     def window(n):
         cut = (today - timedelta(days=n)).isoformat()
         w = [r for r in rows if r["date"] >= cut]
@@ -230,11 +230,15 @@ def equity_exit_panel():
         by = {}
         for r in adv:
             by[r["outcome"]] = by.get(r["outcome"], 0) + 1
-        return {"adverse": len(adv), "priced": len(ok), "by_outcome": by,
+        kinds = {}
+        for r in adv:
+            kinds[r.get("kind", "?")] = kinds.get(r.get("kind", "?"), 0) + 1
+        return {"adverse": len(adv), "priced": len(ok), "by_outcome": by, "by_kind": kinds,
+                "pending": sum(1 for r in w if r["outcome"] == "pending"),
                 "issuers": sorted({r["issuer"] for r in adv})}
     return {"first_date": min(r["date"] for r in rows), "last_date": max(r["date"] for r in rows),
             "n": len(rows), "w30": window(30), "w90": window(90),
-            "events": sorted(rows, key=lambda r: r["date"])[-10:]}
+            "events": sorted(rows, key=lambda r: r["date"])[-12:]}
 
 
 def main():
@@ -332,16 +336,18 @@ def main():
 
     if exits:
         w30, w90 = exits["w30"], exits["w90"]
-        print(f"\n  ⬜ AI-INFRASTRUCTURE EQUITY EXIT (event ledger since {exits['first_date']}; "
-              f"COUNTS, not percentiles -- no history to rank against)")
+        print(f"\n  ⬜ AI-INFRASTRUCTURE FINANCING EXIT -- listings + debt + builds delayed for FINANCING "
+              f"(event ledger since {exits['first_date']}; COUNTS, not percentiles)")
         bo = ", ".join(f"{k} {v}" for k, v in sorted(w30["by_outcome"].items())) or "none"
         print(f"  last 30d: ADVERSE {w30['adverse']} ({bo}) vs PRICED {w30['priced']}"
-              f"  ·  last 90d: adverse {w90['adverse']} vs priced {w90['priced']}")
-        print(f"  {'date':<12}{'issuer':<34}{'outcome':<11}{'evidence':<10} terms")
+              f"  ·  last 90d: adverse {w90['adverse']} vs priced {w90['priced']}"
+              f"  ·  pending {w30['pending']}")
+        print("  by kind (30d): " + (", ".join(f"{k} {v}" for k, v in sorted(w30["by_kind"].items())) or "none"))
+        print(f"  {'date':<12}{'kind':<9}{'issuer':<32}{'outcome':<11}{'evidence':<10} terms")
         print("  " + "-" * 92)
         for e in exits["events"]:
-            print(f"  {e['date']:<12}{e['issuer'][:33]:<34}{e['outcome']:<11}"
-                  f"{e['evidence']:<10} {e['terms_note'][:60]}")
+            print(f"  {e['date']:<12}{e.get('kind','?'):<9}{e['issuer'][:31]:<32}{e['outcome']:<11}"
+                  f"{e['evidence']:<10} {e['terms_note'][:52]}")
         print("  ⚠️ Hand-maintained (data/fragility/equity_exits.csv). A PRICED AI-infra listing at or"
               " inside the sponsor's terms is the reopening signal.")
 

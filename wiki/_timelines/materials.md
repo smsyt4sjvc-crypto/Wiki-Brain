@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **264 dated entries across 3 notes · 2026-07-09 → 2026-10-13 · refreshed 2026-10-14 08:48 PDT**
+> **264 dated entries across 3 notes · 2026-07-09 → 2026-10-13 · refreshed 2026-10-14 08:53 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -250,7 +250,7 @@
 - `2026-09-19` [war-board.md:L5050](../war/war-board.md) — 2026-09-19 ~10:10pm PDT — ⭐⭐⭐⭐⭐ **HOUTHI BALLISTIC MISSILE AT RIYADH (INTERCEPTED) + A FIVE-CAPITAL US EMBASSY ALERT WAVE — THE CLIENT DEFIES BOTH PAT
 - `2026-09-20` [buildout-bottleneck-map.md:L1936](../buildout-bottleneck-map.md) — 2026-09-20 ~7:25pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE GW-DESTRUCTION LEDGER (Jake's compilation, adopted as this board's spine section): "ANNOUNCED DEMAND IS NO LONG
 - `2026-09-20` [war-board.md:L5061](../war/war-board.md) — 2026-09-20 ~12:05pm PDT — ⭐⭐⭐⭐⭐ **THE ZELENSKY MEETING + THE GRAHAM-ACT "THEN WHAT" — THE STRIKES BOUGHT THE TABLE, AND THE STICK IS WORTH MORE HELD T
-- `2026-09-22` [buildout-bottleneck-map.md:L1967](../buildout-bottleneck-map.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE IDLE-GPU TEST (Jake's reverse-engineering) + CHINA'S WATTS-FOR-SILICON TRADE + COPPER.** *(Settled per rule 22; E
+- `2026-09-22` [buildout-bottleneck-map.md:L1968](../buildout-bottleneck-map.md) — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE IDLE-GPU TEST (Jake's reverse-engineering) + CHINA'S WATTS-FOR-SILICON TRADE + COPPER.** *(Settled per rule 22; E
 - `2026-09-22` [war-board.md:L5072](../war/war-board.md) — 2026-09-22 ~10:55am PDT — ⭐⭐⭐⭐⭐ **A THREE-HOUR DIRECT US-IRAN MEETING AT UNGA — THE ASSEMBLED STAGE PRODUCES ITS PAYOFF; THE ALERT WAVE RESOLVED INTO 
 - `2026-09-22` [war-board.md:L5078](../war/war-board.md) — Addendum 2026-09-22 ~11:10am PDT — ⭐⭐⭐⭐⭐ **THREE TRACKS, NOT TWO — AND TRACK TWO FIRED BEFORE TRACK ONE'S HEADLINE: FARS (IRGC-AFFILIATED) ANNOUNCED T
 - `2026-09-22` [war-board.md:L5084](../war/war-board.md) — Addendum 2026-09-22 ~12:40pm PDT — ⭐⭐⭐⭐⭐ **CORRECTION + DETENTION: BRENT'S SUB-$100 WAS PRICED ON A REOPENING REPORT IRAN DENIED — AND THE IRGC MOVED 
@@ -259,30 +259,30 @@
 - `2026-09-23` [war-board.md:L5106](../war/war-board.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE GUARD FIRES, THE DIPLOMATS NAME THE PRICE: A CARGO SHIP STRUCK IN HORMUZ THE DAY AFTER THE TALKS (RUBIO: "IRAN F
 - `2026-09-23` [war-board.md:L5120](../war/war-board.md) — 2026-09-23 ~7:57am-3:25pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐⭐ **THE HARDLINER PUTS A CLOCK ON HORMUZ: REZAEI GIVES WASHINGTON "FOUR TO FIVE DAYS" — AND
 - `2026-09-23` [war-board.md:L5128](../war/war-board.md) — 2026-09-23 ~7:00pm PDT (Y'd) — ⚖️ **THE US-CHINA LEVERAGE LEDGER, BEFORE THE XI DINNER (Thu 9/24, remarks 7:55pm ET = 4:55pm PT, AFTER THE CLOSE): CHI
-- `2026-09-24` [buildout-bottleneck-map.md:L1979](../buildout-bottleneck-map.md) — 2026-09-24 ~8:00pm PDT (Y'd, entered ~8:05pm) — 🔴🔴 **TEXAS FREEZES EVERY DATA-CENTER PERMIT (9/21) — THE GRID PATH AND THE BRING-YOUR-OWN-POWER PATH S
+- `2026-09-24` [buildout-bottleneck-map.md:L1980](../buildout-bottleneck-map.md) — 2026-09-24 ~8:00pm PDT (Y'd, entered ~8:05pm) — 🔴🔴 **TEXAS FREEZES EVERY DATA-CENTER PERMIT (9/21) — THE GRID PATH AND THE BRING-YOUR-OWN-POWER PATH S
 - `2026-09-24` [war-board.md:L5137](../war/war-board.md) — 2026-09-24 ~10:47am PDT (Y'd, entered ~11:25am) — ⭐⭐⭐⭐ **THE THREAT WIDENS THE MAP: "THE FRONT WILL EXPAND… REACHING THE INDIAN OCEAN" IF ATTACKED AGA
 - `2026-09-24` [war-board.md:L5143](../war/war-board.md) — 2026-09-24 ~7:30pm PDT (Y'd) — ⚖️ **THE XI DINNER, SCORED AGAINST THE LEVERAGE LEDGER (`:L5301`): BASE CASE CORRECT — SYMBOLIC + A TRUCE EXTENSION; CH
-- `2026-09-25` [buildout-bottleneck-map.md:L1993](../buildout-bottleneck-map.md) — 2026-09-25 ~6:32am PDT (Y'd ~6:36am) — 🧭⭐⭐⭐⭐⭐ **JUPITER AS THE PERMIT-NAVIGATION BELLWETHER (Jake): "the showcase example… how local politics will be 
-- `2026-09-25` [buildout-bottleneck-map.md:L2008](../buildout-bottleneck-map.md) — 2026-09-25 ~6:22am PDT (Y'd ~6:36am) — 🛰️ **GOOGLE'S SUNCATCHER: THE PERMIT-FREE ESCAPE VALVE — AT ONE TWO-MILLIONTH OF JUPITER'S SCALE. LAUNCHES OCT 
-- `2026-09-25` [buildout-bottleneck-map.md:L2015](../buildout-bottleneck-map.md) — 2026-09-25 ~8:31pm PDT (Y'd ~8:40pm) — 🔌 **"THE ASSET THAT CANNOT BE BOUGHT WITH MONEY": GRID CONNECTION AS THE SCARCE INPUT — A BUILDING TAKES 18-24 
+- `2026-09-25` [buildout-bottleneck-map.md:L1994](../buildout-bottleneck-map.md) — 2026-09-25 ~6:32am PDT (Y'd ~6:36am) — 🧭⭐⭐⭐⭐⭐ **JUPITER AS THE PERMIT-NAVIGATION BELLWETHER (Jake): "the showcase example… how local politics will be 
+- `2026-09-25` [buildout-bottleneck-map.md:L2009](../buildout-bottleneck-map.md) — 2026-09-25 ~6:22am PDT (Y'd ~6:36am) — 🛰️ **GOOGLE'S SUNCATCHER: THE PERMIT-FREE ESCAPE VALVE — AT ONE TWO-MILLIONTH OF JUPITER'S SCALE. LAUNCHES OCT 
+- `2026-09-25` [buildout-bottleneck-map.md:L2016](../buildout-bottleneck-map.md) — 2026-09-25 ~8:31pm PDT (Y'd ~8:40pm) — 🔌 **"THE ASSET THAT CANNOT BE BOUGHT WITH MONEY": GRID CONNECTION AS THE SCARCE INPUT — A BUILDING TAKES 18-24 
 - `2026-09-25` [war-board.md:L5149](../war/war-board.md) — 2026-09-25 ~6:39am PDT (open scan — NEW ONLY) — **HORMUZ: THE TALKS ARE REAL, THE SHIPS ARE PARTLY MOVING — AND THE SAUDI BYPASS IS NOW A TARGET. UKRA
 - `2026-09-25` [war-board.md:L5157](../war/war-board.md) — 2026-09-25 ~6:42am-11:10am PDT (Y'd) — ⭐⭐⭐⭐ **THE OFFER ROSE IN RANK; THE RESISTANCE CHANGED SIDES; THE TERMS STILL DON'T MEET. ARAGHCHI OWNS A 7-DAY 
 - `2026-09-25` [war-board.md:L5165](../war/war-board.md) — 2026-09-25 ~3:30pm PDT (Y'd ~3:55pm) — ✈️ **THE AIRSPACE WAR: REZAEI'S 9/23 THREAT RUNS IN BOTH DIRECTIONS — IRAQ SHUTS FOUR AIRPORTS, THE UAE SUSPEND
 - `2026-09-25` [war-board.md:L5174](../war/war-board.md) — 2026-09-25 ~6:07-6:18pm PDT (Y'd ~6:18pm) — 🔴 **TRUMP REJECTS THE 7-DAY PLAN, KEEPS THE BLOCKADE, EXPECTS TO RESUME BOMBING *AFTER THE MIDTERMS* (WSJ,
-- `2026-09-26` [buildout-bottleneck-map.md:L2022](../buildout-bottleneck-map.md) — 2026-09-26 ~4:09pm PDT (Y'd ~5:54pm) — 🏭 **NEW JERSEY FINES THE MICROSOFT-LINKED VINELAND CAMPUS A RECORD $1.07M FOR UNPERMITTED GAS GENERATORS — A ST
+- `2026-09-26` [buildout-bottleneck-map.md:L2023](../buildout-bottleneck-map.md) — 2026-09-26 ~4:09pm PDT (Y'd ~5:54pm) — 🏭 **NEW JERSEY FINES THE MICROSOFT-LINKED VINELAND CAMPUS A RECORD $1.07M FOR UNPERMITTED GAS GENERATORS — A ST
 - `2026-09-26` [war-board.md:L5184](../war/war-board.md) — 2026-09-26 ~6:42pm PDT (Y'd 9/27 ~9:26am) — 🛩️ **DRONE ATTRITION IS FUNDING REPLACEMENTS: THE AIR FORCE MORE THAN DOUBLED THE ONDAS/DZYNE "ULTRA" RECO
-- `2026-09-27` [buildout-bottleneck-map.md:L2031](../buildout-bottleneck-map.md) — 2026-09-27 ~6:51pm PDT (Y'd ~8:07pm) — 🏗️ **GOLDMAN: BEHIND-THE-METER ~25% OF ALL DATA-CENTER POWER BY 2030 (~50-60% OF NEW BUILDS). JAKE TAKES THE OV
+- `2026-09-27` [buildout-bottleneck-map.md:L2032](../buildout-bottleneck-map.md) — 2026-09-27 ~6:51pm PDT (Y'd ~8:07pm) — 🏗️ **GOLDMAN: BEHIND-THE-METER ~25% OF ALL DATA-CENTER POWER BY 2030 (~50-60% OF NEW BUILDS). JAKE TAKES THE OV
 - `2026-09-27` [war-board.md:L5191](../war/war-board.md) — 2026-09-27 ~5:34pm PDT (Y'd ~5:48pm) — 📢 **TRUMP ANNOUNCEMENT MONDAY 2PM ET (WHITE HOUSE) — TOPIC UNKNOWN; A SCHEDULED, IN-SESSION "ANNOUNCED EVENT."*
-- `2026-09-28` [buildout-bottleneck-map.md:L2038](../buildout-bottleneck-map.md) — 2026-09-28 ~4:16pm PDT (Y'd ~4:24pm) — 🏥 **THE FEDERAL LEDGER OF THE LOOSEN/TIGHTEN SPLIT: 30 FEDERAL ACTIONS SINCE JAN-2025 THAT EASE DATA-CENTER POW
+- `2026-09-28` [buildout-bottleneck-map.md:L2039](../buildout-bottleneck-map.md) — 2026-09-28 ~4:16pm PDT (Y'd ~4:24pm) — 🏥 **THE FEDERAL LEDGER OF THE LOOSEN/TIGHTEN SPLIT: 30 FEDERAL ACTIONS SINCE JAN-2025 THAT EASE DATA-CENTER POW
 - `2026-09-28` [war-board.md:L5199](../war/war-board.md) — 2026-09-28 ~3:58-4:01pm PDT (Y'd ~4:40pm) — 🔁 **WASHINGTON RUNS THE THREE-TRACK PATTERN TOO: OFFICIALS FLOAT CONDITIONAL RELIEF, THE PRESIDENT SAYS "I
 - `2026-09-29` [war-board.md:L5208](../war/war-board.md) — 2026-09-29 ~8:10am PDT (open scan — verified against Reuters/Bloomberg/Kpler primaries) — 🛢️ **THE SAUDI BYPASS IS BACK AT "AT LEAST 3.5 mb/d" (BLOOMB
 - `2026-09-29` [war-board.md:L5221](../war/war-board.md) — 2026-09-29 ~9:00-9:30am PDT (Y'd ~9:25am) — 🚢 **A TANKER IS HIT IN HORMUZ THE NIGHT THE UN TALKS FAIL — UKMTO 143-26 CLASSES IT "SUSPICIOUS ACTIVITY,"
-- `2026-09-30` [buildout-bottleneck-map.md:L2047](../buildout-bottleneck-map.md) — 2026-09-30 ~7:05pm PDT (Y'd ~6:35pm) — ⚡ **THE BIGGEST DATA-CENTER GRID CANNOT PRICE ITS 2028 POWER FOR FIVE MORE MONTHS: FERC ACCEPTS-BUT-SUSPENDS PJ
+- `2026-09-30` [buildout-bottleneck-map.md:L2048](../buildout-bottleneck-map.md) — 2026-09-30 ~7:05pm PDT (Y'd ~6:35pm) — ⚡ **THE BIGGEST DATA-CENTER GRID CANNOT PRICE ITS 2028 POWER FOR FIVE MORE MONTHS: FERC ACCEPTS-BUT-SUSPENDS PJ
 - `2026-09-30` [war-board.md:L5233](../war/war-board.md) — 2026-09-30 ~6:45pm PDT (Y'd ~6:35pm) — 🇮🇶 **US FORCES LEFT IRAQ TODAY; IRAN HOLDS A WRITTEN US RESPONSE AND THE DISPUTE IS THE ORDER OF STEPS; A FLYDU
 
 ## 2026-10
 
 - `2026-10-01` [war-board.md:L5251](../war/war-board.md) — 2026-10-01 ~12:40pm PDT (Y'd ~12:38pm) — 🚢 **THE US BUILDS A FORCE FOR AFTER THE MIDTERMS (THIRD CARRIER, ~10K TROOPS, ON STATION BY END-NOVEMBER) — A
-- `2026-10-02` [buildout-bottleneck-map.md:L2057](../buildout-bottleneck-map.md) — 2026-10-02 ~1:20pm PDT (Y'd ~1:18pm) — 🔩 **SEVEN IRREVERSIBLE POWER COMMITMENTS FROM THE DUAL-CLOCK v7 LEDGER, AND TWO DATES THE VAULT DID NOT HAVE: A
-- `2026-10-08` [buildout-bottleneck-map.md:L2084](../buildout-bottleneck-map.md) — 2026-10-08 ~7:40pm PDT (filed under rule 22c) — 🤠 **TEXAS: THE PAUSE NOW HAS A CALENDAR. NEW LARGE-LOAD RULES TOOK EFFECT TODAY ($100K STUDY FEE + $50
-- `2026-10-13` [buildout-bottleneck-map.md:L2121](../buildout-bottleneck-map.md) — 2026-10-13 ~9:15am PDT — 🔌 THE IDLE-GPU QUESTION, FOUR LAYERS: WHO HAS MEASURED WHAT (extends `:L2066`, the 9/22 idle-GPU test)
+- `2026-10-02` [buildout-bottleneck-map.md:L2058](../buildout-bottleneck-map.md) — 2026-10-02 ~1:20pm PDT (Y'd ~1:18pm) — 🔩 **SEVEN IRREVERSIBLE POWER COMMITMENTS FROM THE DUAL-CLOCK v7 LEDGER, AND TWO DATES THE VAULT DID NOT HAVE: A
+- `2026-10-08` [buildout-bottleneck-map.md:L2085](../buildout-bottleneck-map.md) — 2026-10-08 ~7:40pm PDT (filed under rule 22c) — 🤠 **TEXAS: THE PAUSE NOW HAS A CALENDAR. NEW LARGE-LOAD RULES TOOK EFFECT TODAY ($100K STUDY FEE + $50
+- `2026-10-13` [buildout-bottleneck-map.md:L2122](../buildout-bottleneck-map.md) — 2026-10-13 ~9:15am PDT — 🔌 THE IDLE-GPU QUESTION, FOUR LAYERS: WHO HAS MEASURED WHAT (extends `:L2066`, the 9/22 idle-GPU test)
