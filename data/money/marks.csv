@@ -587,3 +587,4 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-13,LRCX,bull,0.5,SOXX,"ASML: customer demand exceeds planned litho supply 2027-28 (read-across, fab capex intact)",wiki/ai-capex-cycle.md 10/13 ~10:30pm
 2026-10-13,KLAC,bull,0.5,SOXX,"ASML: customer demand exceeds planned litho supply 2027-28 (read-across, fab capex intact)",wiki/ai-capex-cycle.md 10/13 ~10:30pm
 2026-10-13,MU,bull,0.5,SOXX,"ASML: litho supply short of demand through 2028 caps advanced-bit supply growth (incl. CXMT, no EUV) - supports memory pricing (inference)",wiki/ai-capex-cycle.md 10/13 ~10:30pm
+2026-10-14,TLT,bear,2,TLT,"CPI Sept (BLS, measured): core +0.3% m/m vs +0.2% consensus, 2.6% y/y vs 2.4-2.5%; 10Y 5.19 -> 5.33, 5Y +17bp (hike repricing)",wiki/rates-board.md 10/14 ~6:15am
