@@ -20,7 +20,7 @@ On 10/12, Meta launched its "Watermelon" model (Muse Wonder) and the stock rose 
 - Keep different stories separate. Do not merge them.
 - Do not summarise market commentary, price-target changes or "why the stock moved" articles, unless they report a new fact.
 
-## WATCHLIST (updated 2026-10-13; replace this block when the vault sends a new one)
+## WATCHLIST (updated 2026-10-13 ~9:15pm; replace this block when the vault sends a new one)
 1. **Refiners** — PARR (Par Pacific), VLO (Valero), MPC (Marathon Petroleum), DINO (HF Sinclair), PBF · keywords: refinery fire/outage, diesel, crack spread, Ukrainian drone strike on a Russian refinery, Russian diesel export ban, Russian diesel license (OFAC GL 135), "energy ceasefire"
 2. **Tankers** — DHT, FRO (Frontline) · keywords: tanker attacked/struck, Strait of Hormuz, UKMTO, Houthi, VLCC rates, war-risk insurance
 3. **Rates and housing** — LEN (Lennar), DHI (D.R. Horton), TLT, IWM · keywords: Treasury auction, 10-year yield, CPI, Fed official remarks, mortgage rates
@@ -28,7 +28,7 @@ On 10/12, Meta launched its "Watermelon" model (Muse Wonder) and the stock rose 
 5. **Oracle's New Mexico campus** — ORCL (Oracle), BE (Bloom Energy) · keywords: Project Jupiter, Santa Teresa, Green Chile pipeline, Energy Transfer, air-quality permit, force majeure
 6. **Broadcom** — AVGO · keywords: $60B chip financing, Broadcom bonds, Anthropic chips, Broadcom earnings date
 7. **Memory** — MU (Micron) · keywords: DRAM price, HBM, Samsung, SK Hynix, CXMT, memory price increase, Micron Taiwan strike
-8. **AI-cloud borrowers** — CRWV (CoreWeave), NBIS (Nebius), IREN, CBRS (Cerebras), NVDA · keywords: debt raise, convertible, refinancing, GPU rental prices, customer contract, OpenAI chip sourcing
+8. **AI-cloud borrowers and their co-signers** — CRWV (CoreWeave), NBIS (Nebius), IREN, CBRS (Cerebras), NVDA, AMD, FRMI (Fermi America) · keywords: credit support, backstop, lease guarantee, Project Matador, TensorWave, CDS, unsecured bonds, debt raise, convertible, refinancing, GPU rental prices, customer contract, OpenAI chip sourcing
 9. **Drone compute** — LTRX (Lantronix), SWMR
 10. **Power** — CEG (Constellation), VST (Vistra), TLN (Talen), EFXT (Enerflex) · keywords: FERC PJM ruling, data-center power contract, behind-the-meter generation order
 11. **Meta** — META · keywords: Muse, Muse Wonder, Watermelon, Zuckerberg post, Q3 earnings date, capex
@@ -36,11 +36,12 @@ On 10/12, Meta launched its "Watermelon" model (Muse Wonder) and the stock rose 
 13. **Musk companies** — TSLA (Tesla), SPCX (SpaceX) · keywords: Tesla SpaceX merger, special committee, Grok device / phone, Starlink Mobile, Roadster unveil (10/15), robotaxi NHTSA, Optimus, Tesla term-loan draw
 14. **Chip equipment and foundry** — ASML (reports Tue 10/13 ~10pm PT), TSM (TSMC; reports Wed 10/14 ~11pm PT), LRCX (Lam), AMAT, KLAC · keywords: guidance, export controls, China
 15. **10/21 reporters** — SAP, IBM, TXN (Texas Instruments) · keywords: earnings date/time change, pre-announcement, guidance
-16. **Workflow software** — NOW (ServiceNow; reports Oct 28), DDOG, NET · keywords: Now Assist, seat cuts, AI agent pricing
-17. **Health** — HUM (Humana) · keywords: CMS Star Ratings, Medicare Advantage rates
+16. **Workflow and developer software** — NOW (ServiceNow; reports Oct 28), DDOG, NET, GTLB (GitLab) · keywords: git at agent scale, source control, code review, security flaw, Now Assist, seat cuts, AI agent pricing
+17. **Health** — HUM (Humana), UNH (UnitedHealth) · keywords: CMS Star Ratings, Medicare Advantage rates, medical cost trend, utilization
 18. **Held positions** — SPY, QQQM, CEG, VST, TLN · anything that would move them 3%
 19. **AI financing deals** — any new loan, bond, private placement, REIT or IPO that funds data centers, GPUs or AI cloud companies. For each: the amount, the interest rate or spread, whether the banks UNDERWROTE it or only marketed it ("best efforts"), and whether it PRICED, was CUT, WIDENED, POSTPONED or PULLED · keywords: Volta Infrastructure (book closes Oct 14), GPU-backed loan, data center financing, data center REIT IPO, private credit data center, CoreWeave notes, Firmus, AirTrunk, Project Jupiter loans
 20. **Data-center capacity delayed or cancelled** — any data-center project delayed, cancelled, blocked or put under a moratorium (US or abroad). For each: the developer, the site, the MW, the reason (permit, power, financing, local vote) and the date · keywords: data center moratorium, data center permit denied, TCEQ data center (governor update due Oct 19), ERCOT large load, Loudoun County moratorium, New York data center moratorium, data center force majeure
+21. **Gulf AI infrastructure and cables** — data centers and subsea cables in the UAE, Saudi Arabia, Qatar, Bahrain (G42, Stargate UAE, Humain, AWS/Microsoft Gulf regions) · keywords: data center attack, subsea cable cut, internet outage Gulf, Rezaei, Houthi Aramco, Iran UAE strike
 
 ## OUTPUT FORMAT (exactly this)
 ```
@@ -57,6 +58,8 @@ AFTER-HOURS MOVERS (±2%+): <ticker> <+/-x.x%> at <time PT> — <reason if repor
 19. AI financing deals
 ...
 20. Data-center capacity delayed or cancelled
+...
+21. Gulf AI infrastructure and cables
 ...
 
 DATES THAT MOVED: <any scheduled event on the watchlist that was announced, confirmed, moved or cancelled, with source>  (or "none")

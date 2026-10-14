@@ -579,3 +579,6 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-13,ORCL,bear,1,TLT,"ICE CDS 10/13 261.4 (+6.5, record through 260.1)",wiki/hyperscaler-credit.md 10/13 ~8:45pm
 2026-10-13,META,bear,1,SPY,"ICE CDS 10/13 103.0 (+4.2, panel record; prior 101.0); credit diverging from +2.6% stock",wiki/hyperscaler-credit.md 10/13 ~8:45pm
 2026-10-13,AVGO,bear,0.5,SOXX,"ICE CDS 10/13 136.6 (+2.3, panel record)",wiki/hyperscaler-credit.md 10/13 ~8:45pm
+2026-10-13,GOOGL,bull,1,SPY,"Gemini 4 Argon generally available (stage D) with dated price step-up 11/30 and GitHub Copilot distribution; stock +0.3% (company; vendor conflict: no model view)",mim/2026-10-13.md
+2026-10-13,AAPL,bull,0.5,SPY,"Four home launches (TV 4K, HomeView, HomePod mini 2, Home Collection) shipping 10/30-early 2027; Siri AI beta (company)",mim/2026-10-13.md
+2026-10-13,BNO,bull,1,BNO,"Aramco administrative building in Dhahran attacked, limited fire (Reuters 3:27pm PT) after the Houthi threat; no production effect reported",wiki/war/war-board.md 10/13 ~9:15pm
