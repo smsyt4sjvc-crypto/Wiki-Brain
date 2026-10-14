@@ -600,3 +600,13 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-14,VLO,bull,0.5,BNO,"Ukrainian drones hit Saratov + Ryazan refineries (TASS; Novak confirms 2 refineries); damage unknown; Russian diesel exports",wiki/war/war-board.md 10/14 ~8:40am
 2026-10-14,MPC,bull,0.5,BNO,"Ukrainian drones hit Saratov + Ryazan refineries (TASS; Novak confirms 2 refineries); damage unknown",wiki/war/war-board.md 10/14 ~8:40am
 2026-10-14,MSFT,flat,0.5,SPY,"The Information: Microsoft cloud president asks Azure leaders for >=20% cost cuts amid AI DC spending (reported; opex not capex)",wiki/ai-financing-fragility.md 10/14 ~9:00am
+2026-10-14,CRWV,bear,1,TLT,"ICE CDS 10/14 1,116.8 (+147, record), upfront 18.4 pts",wiki/hyperscaler-credit.md 10/14 ~3:25pm
+2026-10-14,ORCL,bear,1,TLT,"ICE CDS 10/14 285.8 (+24.4, record)",wiki/hyperscaler-credit.md 10/14 ~3:25pm
+2026-10-14,AVGO,bear,0.5,SOXX,"ICE CDS 10/14 143.9 (+7.3, record)",wiki/hyperscaler-credit.md 10/14 ~3:25pm
+2026-10-14,META,bear,0.5,SPY,"ICE CDS 10/14 106.1 (+3.1, record)",wiki/hyperscaler-credit.md 10/14 ~3:25pm
+2026-10-14,NVDA,bear,0.5,SOXX,"ICE CDS 10/14 92.1 (+3.9, record; prior 89.6 on 9/28)",wiki/hyperscaler-credit.md 10/14 ~3:25pm
+2026-10-14,AMD,bear,0.5,SOXX,"ICE CDS 10/14 103.1 (+3.5, record; prior 100.3 on 8/24)",wiki/hyperscaler-credit.md 10/14 ~3:25pm
+2026-10-14,GOOGL,bear,0.5,SPY,"ICE CDS 10/14 75.6 (+2.6) breaks its 9/28 high 73.7 (small; moved with AMZN/MSFT)",wiki/hyperscaler-credit.md 10/14 ~3:25pm
+2026-10-14,AMZN,bear,0.5,SPY,"ICE CDS 10/14 76.5 (+2.5) breaks its 9/28 high 74.1 (small)",wiki/hyperscaler-credit.md 10/14 ~3:25pm
+2026-10-14,MSFT,bear,0.5,SPY,"ICE CDS 10/14 53.5 (+1.7) breaks its 9/28 high 52.4 (small)",wiki/hyperscaler-credit.md 10/14 ~3:25pm
+2026-10-14,AAPL,bull,0.5,SPY,"Bloomberg: Apple to debut first AI features in China in December (reported; without Siri AI)",wiki/hyperscaler-credit.md 10/14 ~3:25pm
