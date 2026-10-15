@@ -42,6 +42,7 @@ reinsurers → private-credit vehicles, SPVs and asset-backed securities (ABS) �
 - Project Jupiter **$18B loan quoted 89-91**, syndication stalled (AFF:L8610, 9/20).
 - Volta GPU tranche, best efforts at **11.21-11.75%** (AFF ~L8995, 10/13).
 - Insurers as named buyers: Vantage $2B revolver with ~12 insurance/institutional investors (9/19); Nippon Life plans **$13B** for US data-centre financing (a PLAN, AFF:L8607); Samsung Life/Fire into KKR's Helix (9/29).
+- **The junk data-centre project-bond market (ZH, 10/14, ⬜ source):** 20 bonds · **$45.6B** · ~4 GW · eight tenants · **CoreWeave the tenant on seven** · many yielding low-to-mid teens (AFF 10/14 11:10pm).
 - FT 10/14: CoreWeave wants investment-grade GPU debt sold to life insurers; McBee: insurers' capital "is unlimited… all the money in the world that sits in the insurance tranche" (AFF 10/14 6:45am + 7:45pm).
 
 **The Brighthouse / Walter thread (8/25)**
