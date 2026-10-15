@@ -619,3 +619,8 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-14,DK,bull,1,BNO,"IEA OMR Oct: diesel tight 'well into 2027', record diesel margins, restock not before 2H27 (official; via Reuters/CNBC)",wiki/oil-value-chain.md 10/14 ~7:45pm
 2026-10-14,PARR,bull,1,BNO,"IEA OMR Oct: diesel tight 'well into 2027', record diesel margins, restock not before 2H27 (official; via Reuters/CNBC)",wiki/oil-value-chain.md 10/14 ~7:45pm
 2026-10-14,UAL,bear,0.5,BNO,IEA OMR Oct: middle distillates tight into 2027 (jet = middle distillate; inferred),wiki/oil-value-chain.md 10/14 ~7:45pm
+2026-10-14,VLO,bear,0.5,BNO,"SpaceX caps Starshield terminals in motion (~100 mph), disrupting Ukraine's drone missions (Reuters/WSJ; who ordered it unconfirmed); Kyiv denies 10/14 refinery strikes",wiki/war/war-board.md 10/14 ~8:10pm
+2026-10-14,MPC,bear,0.5,BNO,"SpaceX caps Starshield terminals in motion (~100 mph), disrupting Ukraine's drone missions (Reuters/WSJ; who ordered it unconfirmed); Kyiv denies 10/14 refinery strikes",wiki/war/war-board.md 10/14 ~8:10pm
+2026-10-14,PSX,bear,0.5,BNO,"SpaceX caps Starshield terminals in motion (~100 mph), disrupting Ukraine's drone missions (Reuters/WSJ; who ordered it unconfirmed); Kyiv denies 10/14 refinery strikes",wiki/war/war-board.md 10/14 ~8:10pm
+2026-10-14,DK,bear,0.5,BNO,"SpaceX caps Starshield terminals in motion (~100 mph), disrupting Ukraine's drone missions (Reuters/WSJ; who ordered it unconfirmed); Kyiv denies 10/14 refinery strikes",wiki/war/war-board.md 10/14 ~8:10pm
+2026-10-14,PARR,bear,0.5,BNO,"SpaceX caps Starshield terminals in motion (~100 mph), disrupting Ukraine's drone missions (Reuters/WSJ; who ordered it unconfirmed); Kyiv denies 10/14 refinery strikes",wiki/war/war-board.md 10/14 ~8:10pm
