@@ -627,6 +627,10 @@ cron writes `data/fragility/*` on wb main directly, so its copy can be newer —
   file path, `research-vault/docs/index.html`). **A different path claims a NEW url — don't.**
 - ⭐ **RECORD ANY FUTURE HOSTED URL HERE.** It took a retrieval failure to notice the vault had
   no record of its own published page — 130-note recall on refinery data, zero on its own link.
+- **CHIPS VS CREDIT (Artifact, 2026-10-15):** **`https://claude.ai/artifact/DxqXpUaXijZm5cGAVkgLy2`** — TSMC demand vs
+  CCC/IG spreads + the CDS tiers since CRWV's IPO. Static. **Refresh:** re-pull FRED into `data/chips/fred/`, add the
+  TSMC month to `data/chips/tsmc_monthly_revenue.csv`, `icc_cds.py`, `python3 tools/chips_credit_html.py`, re-publish
+  the SAME path `docs/chips-credit.html`.
 
 ### DAILY: THE FRAGILITY LADDER (run it before answering any "is credit cracking" question)
 `python3 tools/fragility.py`  — scores 24 public credit/funding series against their own
