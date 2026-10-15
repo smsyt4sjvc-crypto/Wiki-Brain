@@ -610,3 +610,5 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-14,AMZN,bear,0.5,SPY,"ICE CDS 10/14 76.5 (+2.5) breaks its 9/28 high 74.1 (small)",wiki/hyperscaler-credit.md 10/14 ~3:25pm
 2026-10-14,MSFT,bear,0.5,SPY,"ICE CDS 10/14 53.5 (+1.7) breaks its 9/28 high 52.4 (small)",wiki/hyperscaler-credit.md 10/14 ~3:25pm
 2026-10-14,AAPL,bull,0.5,SPY,"Bloomberg: Apple to debut first AI features in China in December (reported; without Siri AI)",wiki/hyperscaler-credit.md 10/14 ~3:25pm
+2026-10-14,DHT,bear,0.5,BWET,"Reuters (official, 'considers'): US weighs easing sanctions on shadow fleet vessels to cut freight rates (reported; headline only)",wiki/oil-value-chain.md 10/14 ~5:30pm
+2026-10-14,FRO,bear,0.5,BWET,"Reuters (official, 'considers'): US weighs easing sanctions on shadow fleet vessels to cut freight rates (reported; headline only)",wiki/oil-value-chain.md 10/14 ~5:30pm
