@@ -1,0 +1,12 @@
+# Jake's "Morning Email Intelligence - October 15, 2026" (his email tool; TLDR x6, Durden Dispatch, Nvidia, gCaptain, WSJ, Axios), pasted ~7:20am PDT. Summary of claims as pasted:
+1 Anthropic (Axios/TLDR/The Information): Q3 revenue $16.8B (+45% q/q); adjusted operating margin 11% (year through Q3); cash-flow positive in Q3 (Axios); Q2 ~$11.6B; growth slowed from >140% q/q (Q2) to 45%; Claude Code $6-7B annualized pace by late summer; BI: 20-30% pricing premium; SemiAnalysis: API ~90% of revenue, 58% of inference compute; IPO as soon as November, valuation talk to $2T.
+2 CoreWeave (WSJ/Axios): bonds ~81c, yields >15%, CDS ~547 -> 881bp; company cites ~$104B contracted backlog; CEO says the market misunderstands the business.
+3 gCaptain/Singapore MPA: GFS PRIDE struck 10/13, fire, sank, 21 crew safe; GFS GISELLE struck 10/14, hull damage, reached anchorage, 22 crew safe; "unknown projectiles"; a separate bulk carrier sank weeks after an earlier strike (not a new attack).
+4 Axios: FTC civil investigative demands to OpenAI and Anthropic 10/14 (>50 pages: safety/security incidents, safeguards, marketing, privacy); executives to be questioned; state AGs sue OpenAI.
+5 Nvidia: GTC Washington DC Nov 30-Dec 3; Huang keynote Dec 1 11am-1pm PT; Bloomberg: Huang would consider cutting chip supply to customers developing unsafe AI (hypothetical).
+6 Meta engineering (10/12): idle inference capacity used for "Rank More Ads" and "Serve Better Models"; no revenue uplift disclosed.
+7 Google Gemini 4 Argon long decode (1M tokens via 64K steps); xAI Grok Voice 3.0 GA; Nvidia+Cisco 12.8 Tbps optical module design (announced).
+8 Ramp: ~$1.5M on AI tokens in one week; Ramp Router cut model costs 30% overnight (company-reported).
+9 Anthropic engineering: daily merges ~2,500 (May) -> >30,000 (Sept); ~25M checkouts/day; internal VCS "Scion" replaced Git-based infra in five months.
+10 WSJ (Jakab): middle-class trade-down (WMT, DG, COST, BJ, TJX, ROST, AZO, ORLY); BofA FMS cash 3.9% (<4% threshold), Bull & Bear 8.1 (>8). Durden: Paul Tudor Jones on equity supply: ~$431B raised 2026 YTD, est. $675B; bearish 2027.
+11 RKLB Neutron first launch to 2027 (shares ~-9% premarket); Bumble $1.3B take-private signed 10/13 ($6.05/sh); JPMorgan restricting third-party AI agents moving money; Qatar LNG workaround; FMC proposed $200K/voyage fees on Spanish-flagged ships; Savannah $2.3B terminal approved; Gates AI-risk campaign; enterprise agents (Workday, Shopify, SolarWinds); AI adoption: new-business adoption slowing, spend per customer rising.
