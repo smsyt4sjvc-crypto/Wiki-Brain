@@ -1,0 +1,7 @@
+# Other tool's Gartner / CoreWeave-credit check, pasted by Jake 2026-10-14 ~8:45pm PDT
+Headline accurate on substance but "fold" overstates: Gartner says cost pressure + no differentiated model push >80% of neocloud providers to cease independent operations by 2030 (shut down or merge; acquisitions count).
+Math: AI data center operators need ~$8.5T cumulative revenue by 2030 to cover announced capex, financing costs and a 12% return; Gartner sees only up to $3.6T AI revenue. >$3.5T of AI infra spending could face impairment by end-2030; "Gartner doesn't expect the 12% return until 2032 at the earliest" [paste's claim]. Scenario assumes the spending boom continues unchecked; hyperscalers keep investing on diversified revenue. June 2026 Gartner: neoclouds 20% of a $267B AI cloud market by 2030.
+Market today: CRWV -15% by noon, DOCN -14%, HUT -10%, NBIS and IREN -9%, CIFR and APLD -8.7%.
+Credit: as of yesterday CRWV 2032s G-spread >1,000bp, yield >15%, under 80 cents. Rule of thumb spread / (1 - 35% recovery) => ~15% annual default odds, ~55-60% over five years ("my rough math"); "in line with July, when CDS topped about 855bp and implied roughly 50% five-year default odds."
+Jake: "Is this good for Amazon, Google, Space X ? Bad for Nvidia and chips"
+Sources listed: TradingView/Seeking Alpha, Heise, Technology For You, Stocktwits, Gartner June 2026 PR, ZeroHedge, Tech Times (7/30), Metir AI.
