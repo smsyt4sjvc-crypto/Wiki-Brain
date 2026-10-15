@@ -612,3 +612,4 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-14,AAPL,bull,0.5,SPY,"Bloomberg: Apple to debut first AI features in China in December (reported; without Siri AI)",wiki/hyperscaler-credit.md 10/14 ~3:25pm
 2026-10-14,DHT,bear,0.5,BWET,"Reuters (official, 'considers'): US weighs easing sanctions on shadow fleet vessels to cut freight rates (reported; headline only)",wiki/oil-value-chain.md 10/14 ~5:30pm
 2026-10-14,FRO,bear,0.5,BWET,"Reuters (official, 'considers'): US weighs easing sanctions on shadow fleet vessels to cut freight rates (reported; headline only)",wiki/oil-value-chain.md 10/14 ~5:30pm
+2026-10-14,TLT,bull,1,TLT,"Daly (Reuters exclusive, after close): hikes 'likely needed, but not urgently'; with Bowman, pared ~50% October-hike pricing; 10Y 3-week low 5.127",wiki/rates-board.md 10/14 ~7:30pm
