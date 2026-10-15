@@ -58,6 +58,7 @@ so a March entry lands on an August paste. The router prints the path on every m
 - [[ai-capex-cycle]] — the buildout cycle
 - [[compression-thesis]] — Jake's positive spine: how the AI-capex corner resolves (input-deflation heal; the razor)
 - [[ai-financing-fragility]] — the debt leg (private credit → the funding squeeze; the tripwire)
+- [[insurance-pe-channel]] — ⭐ HUB: who lends the buildout its LONG money (annuities → PE-owned insurers → Bermuda → private credit/ABS → DC/GPU debt); Burry Part III, Athene 10-Q, BDC redemptions, the instruments, the never-closed Schedule D pull, the MetLife gap
 - [[reflection-ai]] — the "American open-weight champion" (Nvidia-backed, private, pre-product; circular-financing instance)
 - [[vol-divergence]] — implied vs realized vol for every vault name (CBOE iv30 vs rv20/rv60, 10/2 close): where the vault's view is cheap to own (index puts, MU, CRWV) vs rich (refiners, tankers, TLT/HYG, defense). Built 10/4.
 - [[commoditization-layer]] — who captures value when intelligence commoditises: four seats (silicon · marketplace · evals/edge · workflow/data) with the tape, disclosures, Jake's NOW layer-4 thesis and the tests; the measurable software seats (DDOG/NET) have already run, the workflow/data seat has not (10/5)

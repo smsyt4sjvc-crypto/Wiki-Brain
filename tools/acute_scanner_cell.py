@@ -235,6 +235,21 @@ THREADS = {
                'acie','nscale','neocloud spv','dwarkesh','venture capital','venture debt','vc fund','venture round',
                'dsx','residual value','gpu-hour','investable asset',
                'coatue','citadel','prime brokerage','prime book','swap position',
+               # gap #27, 10/14: Jake — "we should have extensive notes on insurers/ABS/PE/Apollo/MetLife".
+               # The vault held 241 insurer mentions in 25 notes, Athene 47, Bermuda 60, and Burry Part III
+               # (the channel's primary) — but this thread carried NONE of the insurance vocabulary, so the
+               # CoreWeave "unlimited insurance tranche" paste surfaced only the 7/3 chain line.
+               # ENTITIES — the holders and their sponsors:
+               'insurer','insurers','life insurer','annuity','annuities','athene','metlife','prudential',
+               'brighthouse','corebridge','lincoln financial','global atlantic','aquarian','delaware life',
+               'nippon life','kkr','brookfield','pimco','hps','cliffwater','bxsl','bcred','bizd',
+               # CONCEPTS — the channel's mechanism:
+               'reinsurance','reinsurer','bermuda','captive','insurance tranche','widows and orphans',
+               'bezzle','burry','heretic','asset-backed','data center abs','data-center abs','cmbs',
+               'securitization','securitisation','fhlb','federal home loan','guaranty fund',
+               # MEASURES — how it is reported:
+               'schedule d','statutory statement','naic','risk-based capital','redemption request',
+               'tender','gated','pik','payment in kind','imf gfsr','financial stability report',
                # gap #21, 8/12: a paste of CRWV MANAGEMENT'S OWN REALISED A100/H100 PRICING —
                # the exact transacted datum this thread had registered THREE TIMES — matched
                # FINANCING(1)* on the single word "coreweave" and nothing else. The whole
