@@ -65,6 +65,7 @@ reinsurers → private-credit vehicles, SPVs and asset-backed securities (ABS) �
 - **Marks on file** (`data/money/marks.csv`): MET bull 2 · PRU bull 2 (9/23, real-rate shock; flagged weak links) · APO bull 0.5 / bear 0.5 · KKR bull 0.5 · OWL bear 0.5 ×2 · ARES bear 0.5 · BXSL bear 0.5 · BX bear 0.5 · BLK bull 1. None for BHF, CRBG, LNC, BN, BIZD.
 
 ## 🔴 OPEN — registered and never closed
+- 🔴 **GOPHER SENT 2026-10-14 ~8:00pm (Jake: "Let's send the gopher"):** `prompts/gopher-insurer-schedule-d.md` — Task 1 Schedule D/BA rows (Athene · MetLife · Global Atlantic · Brighthouse) · Task 2 insurer SEC/deck disclosures (MET · AHL/APO · PRU · CRBG · LNC · BHF; MetLife data-centre ABS claim) · Task 3 NAIC CMB · IMF GFSR Oct 2026 · Fed FSR · BMA · Task 4 Brighthouse/Aquarian, Delaware Life, named insurer buyers. **On return: grade it against the gopher regression suite FIRST (both dates · verbatim · no interpretation; `data-sourcing-playbook:L715-720`), then ingest.**
 - 🚩🚩🚩 **Schedule D pull** (an insurer's public statutory holdings list), "the highest-value item on the board" since **7/24** (AFF:L1254). **Never done.**
 - 🚩🚩🚩 Delaware's decision on Brighthouse/Aquarian: no outcome filed since 8/30.
 - 🔴 BHF + APO daily scan roster, proposed 8/25 — Jake never said yes or no.
