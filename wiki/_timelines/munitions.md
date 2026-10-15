@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **303 dated entries across 2 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-14 23:22 PDT**
+> **303 dated entries across 2 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-15 07:06 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
