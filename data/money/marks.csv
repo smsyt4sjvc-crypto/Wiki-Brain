@@ -678,3 +678,4 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-16,NBIS,bull,0.5,TLT,Silicon Data neocloud GPU rental prices up w/w (H100 2.85 · H200 3.39 · B200 5.95; source ownership unknown),wiki/market-fragility.md 10/16 ~7:00am
 2026-10-16,QCOM,bull,0.5,SOXX,Jury: Arm breached contract and interfered with Qualcomm's Meta relationship ($2 damages),wiki/market-fragility.md 10/16 ~7:00am
 2026-10-16,ARM,bear,0.5,SOXX,Jury: Arm breached contract and interfered with Qualcomm's Meta relationship ($2 damages),wiki/market-fragility.md 10/16 ~7:00am
+2026-10-16,IREN,bear,0.5,TLT,IREN 10-K + financing docs: $1.49B GPUs pledged pre-acceptance; failed Microsoft acceptance → 60-day remarketing or parent shortfall guarantee + prepayment refunds (contingent),wiki/mw-dollar.md 10/16 ~9:15am
