@@ -1,0 +1,8 @@
+# The Kobeissi Letter — "The 'Stealth' Bear Market: A Historic Opportunity" (Jake's paste ~7:45pm PDT 10/15; article date ⬜, says "Iran War Day #229"; charts not included in the paste)
+Claims (as written): S&P 500 ~2% from a record high; Iran War day 229; S&P +900 pts since war start, ~+1,500 since the March 30 bottom (+$14T); start-2026 market expected 3 Fed cuts (−75bp); Fed has hiked once (September) and markets see 3 more hikes by June 2027 (+100bp incl. Sept) = +175bp swing; diesel +80% from its January 2026 low; Brent $106; near-$2T deficit.
+Breadth: 84% of S&P 500 stocks ≥10% below ATH (Real Estate 97%, Materials 96%, Utilities 94%, Cons. Disc. 92%); 59% ≥20%, 41% ≥30%, 17% ≥50%.
+Contribution since 3/30: 10 stocks = 70% of the +23% gain (+16pp); NVDA 13% (+3pp); MU, AAPL, MSFT 9% each (+2pp); AMD 8%; GOOGL 7%; other 490 = 30% (+7pp).
+Earnings: Q2 2026 S&P blended EPS growth +52%, highest since Q2 2021. NVDA: stock +21% in 12 months, P/E −46%, forward P/E ~24x vs S&P 22x; NVDA +900% in 5 years; S&P IT forward P/E ≈ S&P's.
+Own record: strong buy on 3/30 below 6,400; S&P target raised to 7,800; called for Trump bond-market intervention ("intervening… so far unsuccessfully").
+Inflation: 67 consecutive months above 2%; "the last time inflation was below 2% was January 2021"; dollar −22.5% since then ($129 buys what $100 did in 2021). "Investors want more stocks and hard assets."
+Thesis: a bear market inside a bull market; a war-driven discount suppresses valuations; if the war ends → energy down → inflation expectations down → Fed dovish → discount priced out → breadth widens → violent rally. "We expect a highly eventful 2027." Strategy "returned nearly five times the S&P 500 since 2020"; subscription pitch.
