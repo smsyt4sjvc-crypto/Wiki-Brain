@@ -674,3 +674,7 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-16,EIDO,bear,1,SPY,MSCI warns Indonesia's emerging-market status at risk; worst rout in ~30 years (BBG),wiki/market-fragility.md 10/16 ~6:15am
 2026-10-16,EWW,bear,0.5,SPY,US–Mexico tariff deal stalled on Lutnick's opposition (WSJ; reported),wiki/market-fragility.md 10/16 ~6:15am
 2026-10-16,TSM,bear,0.5,SOXX,Taiwan to tighten AI-chip export controls to align with US restrictions (BBG; reported; small),wiki/market-fragility.md 10/16 ~6:15am
+2026-10-16,CRWV,bull,0.5,TLT,Silicon Data neocloud GPU rental prices up w/w (H100 2.85 · H200 3.39 · B200 5.95; source ownership unknown),wiki/market-fragility.md 10/16 ~7:00am
+2026-10-16,NBIS,bull,0.5,TLT,Silicon Data neocloud GPU rental prices up w/w (H100 2.85 · H200 3.39 · B200 5.95; source ownership unknown),wiki/market-fragility.md 10/16 ~7:00am
+2026-10-16,QCOM,bull,0.5,SOXX,Jury: Arm breached contract and interfered with Qualcomm's Meta relationship ($2 damages),wiki/market-fragility.md 10/16 ~7:00am
+2026-10-16,ARM,bear,0.5,SOXX,Jury: Arm breached contract and interfered with Qualcomm's Meta relationship ($2 damages),wiki/market-fragility.md 10/16 ~7:00am
