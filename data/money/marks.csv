@@ -678,3 +678,10 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-16,NBIS,bull,0.5,TLT,Silicon Data neocloud GPU rental prices up w/w (H100 2.85 · H200 3.39 · B200 5.95; source ownership unknown),wiki/market-fragility.md 10/16 ~7:00am
 2026-10-16,QCOM,bull,0.5,SOXX,Jury: Arm breached contract and interfered with Qualcomm's Meta relationship ($2 damages),wiki/market-fragility.md 10/16 ~7:00am
 2026-10-16,ARM,bear,0.5,SOXX,Jury: Arm breached contract and interfered with Qualcomm's Meta relationship ($2 damages),wiki/market-fragility.md 10/16 ~7:00am
+2026-10-16,APLD,bear,0.5,TLT,GS/iBoxx AI-related HY: data-centre subsector ~430bp from ~190 in June (bucket membership unknown),wiki/ai-financing-fragility.md 10/16 ~9:50am
+2026-10-16,CIFR,bear,0.5,TLT,GS/iBoxx AI-related HY: data-centre subsector ~430bp from ~190 in June (bucket membership unknown),wiki/ai-financing-fragility.md 10/16 ~9:50am
+2026-10-16,WULF,bear,0.5,TLT,GS/iBoxx AI-related HY: data-centre subsector ~430bp from ~190 in June (bucket membership unknown),wiki/ai-financing-fragility.md 10/16 ~9:50am
+2026-10-16,IREN,bear,0.5,TLT,GS/iBoxx AI-related HY: data-centre subsector ~430bp from ~190 in June (bucket membership unknown),wiki/ai-financing-fragility.md 10/16 ~9:50am
+2026-10-16,VST,flat,0.5,TLT,GS/iBoxx AI-related HY: energy/utilities subsector ~190bp roughly flat all year,wiki/ai-financing-fragility.md 10/16 ~9:50am
+2026-10-16,CEG,flat,0.5,TLT,GS/iBoxx AI-related HY: energy/utilities subsector ~190bp roughly flat all year,wiki/ai-financing-fragility.md 10/16 ~9:50am
+2026-10-16,TLN,flat,0.5,TLT,GS/iBoxx AI-related HY: energy/utilities subsector ~190bp roughly flat all year,wiki/ai-financing-fragility.md 10/16 ~9:50am
