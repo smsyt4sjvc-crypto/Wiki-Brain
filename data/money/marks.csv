@@ -665,3 +665,9 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-15,3110.T,bull,0.5,SOXX,Samsung cuts Q4 low-end phone output on glass-fabric (CCL) shortage and price hikes (reported); glass cloth ≈ Nittobo,wiki/buildout-bottleneck-map.md 10/15 ~5:30pm
 2026-10-15,SHEL,bull,1,BNO,Shell Q3 update: expects record refining margins (Reuters/WSJ 10/7; not previously marked),wiki/oil-value-chain.md 10/15 ~5:40pm
 2026-10-15,TTE,bull,1,BNO,TotalEnergies: Q3 European refining margin ~4x a year earlier; profit surge flagged (Reuters/Yahoo 10/15),wiki/oil-value-chain.md 10/15 ~5:40pm
+2026-10-15,VLO,bear,0.5,BNO,Trump: 'plenty of other targets besides refineries'; attacks Zelenskyy; 'need an election in Ukraine' (confirmed statement; intent),wiki/war/war-board.md 10/15 ~7:35pm
+2026-10-15,MPC,bear,0.5,BNO,Trump: 'plenty of other targets besides refineries'; attacks Zelenskyy; 'need an election in Ukraine' (confirmed statement; intent),wiki/war/war-board.md 10/15 ~7:35pm
+2026-10-15,PSX,bear,0.5,BNO,Trump: 'plenty of other targets besides refineries'; attacks Zelenskyy; 'need an election in Ukraine' (confirmed statement; intent),wiki/war/war-board.md 10/15 ~7:35pm
+2026-10-15,DK,bear,0.5,BNO,Trump: 'plenty of other targets besides refineries'; attacks Zelenskyy; 'need an election in Ukraine' (confirmed statement; intent),wiki/war/war-board.md 10/15 ~7:35pm
+2026-10-15,PARR,bear,0.5,BNO,Trump: 'plenty of other targets besides refineries'; attacks Zelenskyy; 'need an election in Ukraine' (confirmed statement; intent),wiki/war/war-board.md 10/15 ~7:35pm
+2026-10-15,UAL,bull,0.5,BNO,Trump presses Kyiv to stop refinery strikes (jet/diesel relief if it works; intent),wiki/war/war-board.md 10/15 ~7:35pm

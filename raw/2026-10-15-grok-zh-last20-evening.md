@@ -15,3 +15,6 @@
 18. (21:56 GMT) Are the Silicon Data indexes "data" or "narrative" and if so, on whose behalf?
 19. (21:40 GMT) BlackRock's record asset holdings are half the size of the US economy (link)
 20. Guilfoyle defamation suit (link)
+
+## Jake's follow-up paste ~7:30pm PDT (squawks, time ⬜; Anadolu 01:12 GMT 10/16 = 6:12pm PDT carries them)
+*TRUMP: PLENTY OF OTHER TARGETS BESIDES REFINERIES TO HIT · *TRUMP: ZELENSKYY MORE DIFFICULT THAN PUTIN TO DEAL WITH · *TRUMP: ZELENSKYY IS NOT A GOOD GUY TO DEAL WITH · *TRUMP: NEED AN ELECTION IN UKRAINE
