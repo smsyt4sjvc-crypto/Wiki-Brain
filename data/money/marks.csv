@@ -663,3 +663,5 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-15,CRWV,bull,1,TLT,ICE 5Y settle 1116.8 → 1053.2 (−63.6bp) after an intraday record; short of the 100bp stabilisation mark,wiki/hyperscaler-credit.md 10/15 ~5:05pm
 2026-10-15,CRWV,bear,0.5,TLT,DB: ~$10B NTM operating cash flow vs ~$45B capex; new capital 'no doubt' needed within 12–18 months (reported; a Buy-rated lender's own estimate),wiki/ai-financing-fragility.md 10/15 ~5:30pm
 2026-10-15,3110.T,bull,0.5,SOXX,Samsung cuts Q4 low-end phone output on glass-fabric (CCL) shortage and price hikes (reported); glass cloth ≈ Nittobo,wiki/buildout-bottleneck-map.md 10/15 ~5:30pm
+2026-10-15,SHEL,bull,1,BNO,Shell Q3 update: expects record refining margins (Reuters/WSJ 10/7; not previously marked),wiki/oil-value-chain.md 10/15 ~5:40pm
+2026-10-15,TTE,bull,1,BNO,TotalEnergies: Q3 European refining margin ~4x a year earlier; profit surge flagged (Reuters/Yahoo 10/15),wiki/oil-value-chain.md 10/15 ~5:40pm
