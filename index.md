@@ -1,7 +1,7 @@
 # Vault Index — the map (read after CLAUDE.md)
 
 Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), then this (what exists + where).
-55 notes, 178 raw sources, 69 tools. Last built: 2026-08-12. Regenerate when notes are added/renamed.
+94 notes, 844 raw sources, 98 tools. Last built: 2026-10-17 (header, THREADS section, missing notes). Regenerate when notes are added/renamed.
 (+ `wiki/war/` containment added 2026-07-23: war-board / war-confirmed / war-rhetoric — the scannable war index.)
 
 > Two domains, two brains: THIS vault = markets research. The **trading system** is a SEPARATE repo
@@ -15,6 +15,9 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
   in 8 months, Jane Street as customer AND lead investor, no MLPerf. Router key `INF-ASIC`.
 - [[hyperscaler-credit]] — **stage 2**, created 2026-08-18. NVDA 5Y CDS ~40 → 80bp since late May.
 
+## 🧵 THE THREADS — the librarian's map (`tools/acute_scanner_cell.py`, THREAD MAP block)
+58 threads · 7,535 terms (rebuilt 2026-10-17 from a read of every note; was 34 / 1,424). Each thread carries concepts / entities / measures and a ROUTE to its notes; `python3 tools/librarian.py` matches an inbound against all of them and prints the gate file per match. New since 10/17: **REFINING · MARITIME · RED-SEA · RUSSIA-UA · IRAN-POL · CHINA · VENEZUELA · FISCAL · INFLATION · BREADTH · EARNINGS · US-POLITICS · CREDIT · NEOCLOUD · GRID · NUCLEAR · AI-SAFETY · AI-ADOPTION · STORM · AIRLINES · PORTFOLIO · VAULT-OPS** (the last holds the sources/outlets and the vault's own process vocabulary). A NO MATCH with sweep hits is still a map gap — fix the map in the same turn (CLAUDE.md STEP ZERO).
+
 ## ⏱ THE GATES (`wiki/_timelines/`) — READ THE GATE BEFORE THE NOTE
 **29 merged per-thread chronologies, oldest → newest, auto-generated.** When an inbound matches a
 thread, its gate file is the entry point: the whole thread in order across every note that carries it,
@@ -24,11 +27,14 @@ so a March entry lands on an August paste. The router prints the path on every m
 `python3 tools/timeline_header.py --all --threads`. Never hand-edit; edit the entry and rebuild.
 
 ## ⭐ Read-first / meta
+- [[_scorecard]] — **Jake vs Claude, all time** (predictions, arguments, paper and actual trades) — built 2026-10-17; row ledger in `handoffs/`
+- [[_reconcile-ledger]] — what the vault holds twice and which copy is live (802 reconcile rows from the 10/16-17 vault-wide read; fixes + open items)
 - [[_persona]] — response contract (how to engage Jake: no pandering, peer not cheerleader)
 - [[_calibration]] — the pushback filter (argue the side he's under-weighting)
 - [[_origin-assessment]] — the first-message ChatGPT profile of Jake, graded against months of reality
 - [[_assumption-filters]] — pre-flight for any load-bearing thesis (Goodhart/Hanlon/Occam/Chesterton + narrative-tiers)
 - [[data-sourcing-playbook]] — offload heavy fetching, keep the chat lean
+- [[options-reference-natenberg]] — options vocabulary and mechanics reference (added to the map 10/17)
 - [[thesis-radar]] — the confirmation loop: isolated ecosystem scouts → filings verification → convergence-only reconciliation. Cycle 1: 2026-08-09.
 
 ## 🧭 The thesis spine (start here)
@@ -80,6 +86,7 @@ so a March entry lands on an August paste. The router prints the path on every m
   payoffs (capability projection / liability cover / gates-not-brakes) + the grading rubric. Conflict-flagged.
 
 ## ⚡ Power / energy / oil
+- [[power-to-silicon-thesis]] — the power → silicon ordering thesis (481 lines; missing from this index until 10/17)
 - [[europe-energy-crunch]] — **European gas + the Rhine, and the gas-to-oil channel into the diesel crack**
   (created 2026-08-18, closing the `war-board:531` "no European gas instrument" gap). Router key `EUROGAS`.
 - [[power-not-petroleum]] — the core energy-rotation thesis
@@ -103,6 +110,7 @@ so a March entry lands on an August paste. The router prints the path on every m
   ⬜ Corporate IG/HY as a macro series is the thinnest leg — flagged inside.
 
 ## 🩻 Fragility / regime / breadth
+- [[financing-fragility-gauge]] — THE STATE DIAL for AI financing (read first; the one-page reading) — was missing from this index until 10/17
 - [[market-fragility]] — the regime read
 - [[fragility-engine]] — "the brain" (the score)
 - [[new-economy-regime]] — the macro-DB read

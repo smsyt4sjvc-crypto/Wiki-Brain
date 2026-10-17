@@ -2197,6 +2197,7 @@ checkable and it CHECKS: "oil jumped about 5% on August 10" — my own futures p
   ⟲ SUPERSEDED 2026-08-13 → demand-destruction.md:L3436 — TOO STRONG on the crude leg: US commercial crude built 17.4MM bbl last week, largest since Jan-2023, and Chinese demand elasticity is a live ~5 mmbpd absorber. Two buffers spent (SPR, product), two intact (commercial crude, China demand). The convexity lives in the PRODUCT leg only
   ALL SPENT, EACH FILED IN A DIFFERENT NOTE.**
   **(1) STRATEGIC RESERVE — `demand-destruction:3382`: SPR 3.05MM barrels, "lowest since Feb 1983,"
+    ⟲ SUPERSEDED 2026-10-17 → war-board.md:L2532 — SPR level: '3.05MM barrels' is a transcription slip; the measured figure is 298.7M bbl (EIA WPSR, 43-year low) — caught in the 2026-10-17 vault-wide read
   ≈4 HOURS of US consumption, "operationally ZERO," still draining, and that was EIGHT DAYS AGO.**
   **(2) REFINING SLACK — the diesel crack at the top of its two-year range** (verified 8/13 ~8:55am),
   with `:1760`'s refinery strikes in three countries in four days.
@@ -2530,6 +2531,7 @@ strongest form of REPORTED-class, and it supersedes my March dating from 20 minu
   LANGUAGE OF EXHAUSTED INSTRUMENTS THAN OF CHOSEN TOLERANCE. YOU DO NOT PUBLICLY BLESS A PRICE YOU CAN STILL
   LOWER — THREE MONTHS BEFORE MIDTERMS.** **And this vault holds what the lowering levers look like now:
   the SPR is at a 43-YEAR LOW — 298.7M bbl, −26% y/y, below 300M for the first time since Jan-1983
+    ⟲ SUPERSEDES war-board.md:L2199 — SPR level: '3.05MM barrels' is a transcription slip; the measured figure is 298.7M bbl (EIA WPSR, 43-year low) — caught in the 2026-10-17 vault-wide read
   (`demand-destruction:L3514`) — and SANCTIONS RELIEF HAS ALREADY BEEN TRIED AND DID NOT PRODUCE A DEAL
   (`:L2274`, the 8/11 pivot).** ⇒ **THE TWO INSTRUMENTS THAT SUPPRESS PUMP PRICES ARE BOTH SPENT.**
   ⇒ **"$4 is OK" reads as ACCOMMODATION TO A CONSTRAINT, NOT DEFIANCE OF ONE — and Vance's Thursday framing

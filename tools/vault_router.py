@@ -58,7 +58,7 @@ def parse_scanner_maps():
 THREADS, ROUTE = parse_scanner_maps()
 
 # Router-only threads the SCANNER does not need (it reads wires; this reads Jake).
-THREADS.update({
+_ROUTER_ONLY = {
  'PORTFOLIO': ['position','basket','cost basis','avg cost','shares owned','qty','portfolio',
                'holdings','bought','sold','my book','watchlist','rebalance','target weight'],
  'OPTIONS':   ['put','call','strike price','expiry','expiration','delta','vega','theta','implied vol',
@@ -67,13 +67,18 @@ THREADS.update({
                'nuscale','kairos','holtec','spent fuel'],
  'CALIBRATION':['you said','you were wrong','earlier you','contradict','you told me',
                'in the vault','already','superseded'],
-})
-ROUTE.update({
+}
+# 2026-10-17: MERGE, don't overwrite — the scanner map now carries NUCLEAR / PORTFOLIO / VAULT-OPS of its own
+for _k, _v in _ROUTER_ONLY.items():
+    THREADS[_k] = THREADS.get(_k, []) + [x for x in _v if x not in THREADS.get(_k, [])]
+_ROUTE_ONLY = ({
  'PORTFOLIO': 'portfolio-state / ai-infra-allocation-map',
  'OPTIONS':   'options-reference-natenberg / portfolio-state',
  'NUCLEAR':   'nuclear / power-not-petroleum / buildout-bottleneck-map',
  'CALIBRATION':'_calibration / _persona',
 })
+for _k, _v in _ROUTE_ONLY.items():
+    ROUTE.setdefault(_k, _v)
 
 # thread -> concrete files (ROUTE strings are prose; this resolves them to paths)
 def files_for(thread):
