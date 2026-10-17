@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1080 dated entries · 2026-02-10 → 2026-10-12 · refreshed 2026-10-17 11:24 PDT**
+> **1081 dated entries · 2026-02-10 → 2026-10-17 · refreshed 2026-10-17 11:37 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -1118,3 +1118,4 @@
 - `2026-10-12` **[5]** metered-compute.md:L3655 — 2026-10-12 ~9:05am PDT (filed under rule 22c) — 🧮 **WEEKLY TOKEN REPORT (w/e 10/12): ~90% OF AGENT TOKENS ARE NOW CACHED INPUT, SO TOKEN VOLUME HAS ST
 - `2026-10-12` **[5]** compression-thesis.md:L3631 — 2026-10-12 ~1:00pm PDT — 🍉 **META SHIPS ITS FIRST FRONTIER MODEL (MUSE WONDER) AT $4/$20 PER MILLION TOKENS, THE SAME LIST AS GEMINI 4 ARGON'S STANDAR
 - `2026-10-12` **[5]** compression-thesis.md:L3643 — 2026-10-12 ~7:45pm PDT — 🧩 **ONE ENGINEER, A CODING MODEL AND A FEW DAYS: ROUGH FREE CLONES OF ADOBE'S SUITE AND MICROSOFT OFFICE. THE MARKET SHRUGGED
+- `2026-10-17` **[2]** hyperscaler-credit.md:L723 — 2026-10-17 ~11:45am PDT — 🧾 **THE WEEK IN AI CREDIT: COREWEAVE'S APRIL BONDS TRADED 78–83 (~15% YIELD); GOLDMAN'S HIGH-YIELD AI SPREAD +25BP IN A DAY;

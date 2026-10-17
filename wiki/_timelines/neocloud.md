@@ -1,6 +1,6 @@
 # ⏱ NEOCLOUD — merged timeline (the gate)
 
-> **601 dated entries across 5 notes · 2026-05-22 → 2026-10-13 · refreshed 2026-10-17 11:24 PDT**
+> **602 dated entries across 5 notes · 2026-05-22 → 2026-10-17 · refreshed 2026-10-17 11:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -629,3 +629,4 @@
 - `2026-10-12` [compression-thesis.md:L3643](../compression-thesis.md) — 2026-10-12 ~7:45pm PDT — 🧩 **ONE ENGINEER, A CODING MODEL AND A FEW DAYS: ROUGH FREE CLONES OF ADOBE'S SUITE AND MICROSOFT OFFICE. THE MARKET SHRUGGED
 - `2026-10-12` [metered-compute.md:L3655](../metered-compute.md) — 2026-10-12 ~9:05am PDT (filed under rule 22c) — 🧮 **WEEKLY TOKEN REPORT (w/e 10/12): ~90% OF AGENT TOKENS ARE NOW CACHED INPUT, SO TOKEN VOLUME HAS ST
 - `2026-10-13` [buildout-bottleneck-map.md:L2122](../buildout-bottleneck-map.md) — 2026-10-13 ~9:15am PDT — 🔌 THE IDLE-GPU QUESTION, FOUR LAYERS: WHO HAS MEASURED WHAT (extends `:L2066`, the 9/22 idle-GPU test)
+- `2026-10-17` [hyperscaler-credit.md:L723](../hyperscaler-credit.md) — 2026-10-17 ~11:45am PDT — 🧾 **THE WEEK IN AI CREDIT: COREWEAVE'S APRIL BONDS TRADED 78–83 (~15% YIELD); GOLDMAN'S HIGH-YIELD AI SPREAD +25BP IN A DAY;

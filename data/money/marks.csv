@@ -711,3 +711,10 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-17,DK,bull,0.5,BNO,IEA Oct OMR: US refining margins at new highs on discounted feedstock; ME products 1.9 vs 4.7 mb/d pre-war; diesel tight into 2027 (published 10/14; echo weight),wiki/oil-value-chain.md 10/17 ~11:00am
 2026-10-17,PARR,bull,0.5,BNO,IEA Oct OMR: US refining margins at new highs on discounted feedstock; ME products 1.9 vs 4.7 mb/d pre-war; diesel tight into 2027 (published 10/14; echo weight),wiki/oil-value-chain.md 10/17 ~11:00am
 2026-10-17,INSW,bull,1,BWET,"INSW prelim: Q3 spot ~$68k/day (vs $29k y/y); Q4 ~$180k/day booked on ~37% of days; Bruton 4 VLCCs ~$370M, ~96% stock",wiki/oil-value-chain.md 10/17 ~11:00am
+2026-10-17,VLO,bear,0.5,BNO,Graham Act duties waived under §115 with certification to Congress (EO 10/16): the 10/11 legal clock resolved; US import leg of Russian diesel stays open,wiki/oil-value-chain.md 10/17 ~11:45am
+2026-10-17,MPC,bear,0.5,BNO,Graham Act duties waived under §115 with certification to Congress (EO 10/16): the 10/11 legal clock resolved; US import leg of Russian diesel stays open,wiki/oil-value-chain.md 10/17 ~11:45am
+2026-10-17,PSX,bear,0.5,BNO,Graham Act duties waived under §115 with certification to Congress (EO 10/16): the 10/11 legal clock resolved; US import leg of Russian diesel stays open,wiki/oil-value-chain.md 10/17 ~11:45am
+2026-10-17,DK,bear,0.5,BNO,Graham Act duties waived under §115 with certification to Congress (EO 10/16): the 10/11 legal clock resolved; US import leg of Russian diesel stays open,wiki/oil-value-chain.md 10/17 ~11:45am
+2026-10-17,PARR,bear,0.5,BNO,Graham Act duties waived under §115 with certification to Congress (EO 10/16): the 10/11 legal clock resolved; US import leg of Russian diesel stays open,wiki/oil-value-chain.md 10/17 ~11:45am
+2026-10-17,UAL,bull,0.5,BNO,Graham Act legal clock resolved by §115 waiver (jet fuel; reverses 10/11),wiki/oil-value-chain.md 10/17 ~11:45am
+2026-10-17,BNO,bear,0.5,BNO,Graham Act 100% duties on the largest buyers of Russian oil (new purchases from 10/18) waived: one supply tail removed,wiki/oil-value-chain.md 10/17 ~11:45am

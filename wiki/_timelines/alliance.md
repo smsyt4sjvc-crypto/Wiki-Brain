@@ -1,6 +1,6 @@
 # ⏱ ALLIANCE — merged timeline (the gate)
 
-> **435 dated entries across 3 notes · 2026-03-13 → 2026-10-17 · refreshed 2026-10-17 11:24 PDT**
+> **436 dated entries across 3 notes · 2026-03-13 → 2026-10-17 · refreshed 2026-10-17 11:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -461,5 +461,6 @@
 - `2026-10-01` [oil-value-chain.md:L2932](../oil-value-chain.md) — 2026-10-01 ~3:10pm PDT (Y'd ~3:05pm) — 🔒 **✅ THE 🔴🔴 OPEN SINCE 9/7 RESOLVES: CHINA SHUT THE RELEASE VALVE. CHINESE REFINERS HALTED FUEL EXPORTS "UNTIL
 - `2026-10-01` [war-board.md:L5253](../war/war-board.md) — 2026-10-01 ~12:40pm PDT (Y'd ~12:38pm) — 🚢 **THE US BUILDS A FORCE FOR AFTER THE MIDTERMS (THIRD CARRIER, ~10K TROOPS, ON STATION BY END-NOVEMBER) — A
 - `2026-10-17` [oil-value-chain.md:L3166](../oil-value-chain.md) — 2026-10-17 ~11:00am PDT — 🏭 **THE IEA PUTS THE REFINING GAP IN ITS OWN NUMBERS: MIDDLE EAST PRODUCT EXPORTS 1.9 MB/D VS 4.7 PRE-WAR, US MARGINS AT NEW
+- `2026-10-17` [oil-value-chain.md:L3181](../oil-value-chain.md) — 2026-10-17 ~11:45am PDT — ⚖️ **THE LEGAL CLOCK RESOLVES THE LAWFUL WAY: TRUMP WAIVES THE GRAHAM ACT'S DUTIES AND NEW SANCTIONS UNDER §115, WITH THE CE
 - `2026-10-17` [war-board.md:L5479](../war/war-board.md) — 2026-10-17 ~10:00am PDT — 💣 **IRAN'S GUARDS NOW CLAIM MINE STRIKES ROUTINELY; UKMTO LOGS A RECORD WEEK. JAKE'S 9/25 "POSSIBLY A MINING ATTEMPT" LEG RE
 - `2026-10-17` [war-board.md:L5489](../war/war-board.md) — 2026-10-17 ~11:00am PDT — 🌫️ **UKMTO'S OWN WEEKLY: MOST ATTACKED SHIPS DON'T REPORT, AND FIVE OF SIX COUNTED TRANSITS ARE US NUMBERS IT CANNOT CHECK. 

@@ -1,6 +1,6 @@
 # ⏱ PORTFOLIO — merged timeline (the gate)
 
-> **65 dated entries across 3 notes · 2026-07-01 → 2026-10-17 · refreshed 2026-10-17 11:24 PDT**
+> **65 dated entries across 3 notes · 2026-07-01 → 2026-10-17 · refreshed 2026-10-17 11:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -81,9 +81,9 @@
 - `2026-10-02` [money-board.md:L238](../money-board.md) — 2026-10-02 ~8:15am PDT — 🗒️ **PAPER TRACKER (NOT HELD — Jake 10/2: "I'm not, but I still want to track them").** Entries = the 9/29 close (proposal da
 - `2026-10-02` [portfolio-state.md:L1105](../portfolio-state.md) — 2026-10-02 ~8:15am PDT — 📌 **ACTUAL BOOK (Jake's direct disclosure, 10/2 ~8:05am): "I'm still mostly in my SPY put and PARR covered call." THE DHT/UAL
 - `2026-10-05` [money-board.md:L262](../money-board.md) — 2026-10-05 close (~1:45pm PDT, filed under rule 22c) — 💰 **DAY ONE OF THE MONDAY MENU, GRADED FOR THE RECORD (the menu file is never edited; Tuesday's
-- `2026-10-08` [flag-board.md:L227](../flag-board.md) — 📱 AGENT DEVICE — SPCX · TSLA (vs AAPL · GOOGL · QCOM) — Jake's hardware watch (set 2026-10-08 ~6:40pm)
-- `2026-10-09` [flag-board.md:L237](../flag-board.md) — 🔬 ASML — Q3 print Tue 10/13 ~10pm PT (07:00 Amsterdam 10/14) (set 2026-10-09 ~10:40am)
-- `2026-10-09` [flag-board.md:L250](../flag-board.md) — 🔬 TSM — Q3 print Wed 10/14 ~11pm PT (2am ET); the US reaction Thu 10/15 (set 2026-10-09 ~10:45am)
-- `2026-10-12` [flag-board.md:L260](../flag-board.md) — 🗓️ 10/21 AFTER-CLOSE CLUSTER — SAP · IBM · LRCX · TSLA · TXN (set 2026-10-12 ~10:15am)
-- `2026-10-12` [flag-board.md:L270](../flag-board.md) — 🚗 TSLA — Q3 print Wed 10/21 (Q&A 2:30pm PT); the trade is Thursday 10/22 at the open (set 2026-10-12 ~10:40am)
+- `2026-10-08` [flag-board.md:L228](../flag-board.md) — 📱 AGENT DEVICE — SPCX · TSLA (vs AAPL · GOOGL · QCOM) — Jake's hardware watch (set 2026-10-08 ~6:40pm)
+- `2026-10-09` [flag-board.md:L238](../flag-board.md) — 🔬 ASML — Q3 print Tue 10/13 ~10pm PT (07:00 Amsterdam 10/14) (set 2026-10-09 ~10:40am)
+- `2026-10-09` [flag-board.md:L251](../flag-board.md) — 🔬 TSM — Q3 print Wed 10/14 ~11pm PT (2am ET); the US reaction Thu 10/15 (set 2026-10-09 ~10:45am)
+- `2026-10-12` [flag-board.md:L261](../flag-board.md) — 🗓️ 10/21 AFTER-CLOSE CLUSTER — SAP · IBM · LRCX · TSLA · TXN (set 2026-10-12 ~10:15am)
+- `2026-10-12` [flag-board.md:L271](../flag-board.md) — 🚗 TSLA — Q3 print Wed 10/21 (Q&A 2:30pm PT); the trade is Thursday 10/22 at the open (set 2026-10-12 ~10:40am)
 - `2026-10-17` [portfolio-state.md:L1156](../portfolio-state.md) — 2026-10-17 ~10:05am PDT — ⛔ MU WAS PAPER — JAKE: "MU paper. I never held it. Not since like June."

@@ -1,6 +1,6 @@
 # ⏱ VAULT-OPS — merged timeline (the gate)
 
-> **67 dated entries across 3 notes · 2026-07-11 → 2026-10-12 · refreshed 2026-10-17 11:24 PDT**
+> **67 dated entries across 3 notes · 2026-07-11 → 2026-10-12 · refreshed 2026-10-17 11:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before

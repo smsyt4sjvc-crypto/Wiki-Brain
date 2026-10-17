@@ -1,6 +1,6 @@
 # ⏱ HYPCREDIT — merged timeline (the gate)
 
-> **453 dated entries across 3 notes · 2026-02-10 → 2026-10-10 · refreshed 2026-10-17 11:24 PDT**
+> **454 dated entries across 3 notes · 2026-02-10 → 2026-10-17 · refreshed 2026-10-17 11:37 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -484,3 +484,4 @@
 - `2026-10-05` [rates-board.md:L3857](../rates-board.md) — 2026-10-05 close (~1:45pm PDT, filed under rule 22c) — 📉 **TEST SIX: A SOFT ISM HEADLINE AND A WEAK-JOBS HANGOVER, AND THE LONG END ROSE 3bp ANYWAY — 
 - `2026-10-06` [rates-board.md:L3878](../rates-board.md) — 2026-10-06 close (~1:45pm PDT), filed under rule 22c — 📉 **DURATION RELIEF, ALL OF IT REAL: 10Y −4bp TO 5.27, EVERY BASIS POINT A REAL-YIELD MOVE, BRE
 - `2026-10-10` [ai-financing-fragility.md:L8669](../ai-financing-fragility.md) — 2026-10-10 ~3:00pm PDT (filed under rule 22c) — 💸 **THE RATE CARD CORRECTS THE VAULT: NEW GB300 CAPACITY RENTS FOR $40–50B PER GW-YEAR SHORT-TERM AND 
+- `2026-10-17` [hyperscaler-credit.md:L723](../hyperscaler-credit.md) — 2026-10-17 ~11:45am PDT — 🧾 **THE WEEK IN AI CREDIT: COREWEAVE'S APRIL BONDS TRADED 78–83 (~15% YIELD); GOLDMAN'S HIGH-YIELD AI SPREAD +25BP IN A DAY;
