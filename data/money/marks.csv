@@ -705,3 +705,9 @@ date,ticker,col,weight,driver,event,pointer
 2026-10-16,BNO,bear,0.5,BNO,DOE solicits exchange of up to 17M bbl SPR crude (Reuters 10/16; temporary loan ~1 day of US runs),wiki/market-fragility.md 10/16 ~8:15pm
 2026-10-17,DHT,bull,0.5,BWET,UKMTO record attack week (10+ in week to 10/16; 23 in Oct); IRGC claims mine strikes 10/10-10/17 (unconfirmed) — echo weight,wiki/war/war-board.md 10/17 ~10:00am
 2026-10-17,FRO,bull,0.5,BWET,UKMTO record attack week (10+ in week to 10/16; 23 in Oct); IRGC claims mine strikes 10/10-10/17 (unconfirmed) — echo weight,wiki/war/war-board.md 10/17 ~10:00am
+2026-10-17,VLO,bull,0.5,BNO,IEA Oct OMR: US refining margins at new highs on discounted feedstock; ME products 1.9 vs 4.7 mb/d pre-war; diesel tight into 2027 (published 10/14; echo weight),wiki/oil-value-chain.md 10/17 ~11:00am
+2026-10-17,MPC,bull,0.5,BNO,IEA Oct OMR: US refining margins at new highs on discounted feedstock; ME products 1.9 vs 4.7 mb/d pre-war; diesel tight into 2027 (published 10/14; echo weight),wiki/oil-value-chain.md 10/17 ~11:00am
+2026-10-17,PSX,bull,0.5,BNO,IEA Oct OMR: US refining margins at new highs on discounted feedstock; ME products 1.9 vs 4.7 mb/d pre-war; diesel tight into 2027 (published 10/14; echo weight),wiki/oil-value-chain.md 10/17 ~11:00am
+2026-10-17,DK,bull,0.5,BNO,IEA Oct OMR: US refining margins at new highs on discounted feedstock; ME products 1.9 vs 4.7 mb/d pre-war; diesel tight into 2027 (published 10/14; echo weight),wiki/oil-value-chain.md 10/17 ~11:00am
+2026-10-17,PARR,bull,0.5,BNO,IEA Oct OMR: US refining margins at new highs on discounted feedstock; ME products 1.9 vs 4.7 mb/d pre-war; diesel tight into 2027 (published 10/14; echo weight),wiki/oil-value-chain.md 10/17 ~11:00am
+2026-10-17,INSW,bull,1,BWET,"INSW prelim: Q3 spot ~$68k/day (vs $29k y/y); Q4 ~$180k/day booked on ~37% of days; Bruton 4 VLCCs ~$370M, ~96% stock",wiki/oil-value-chain.md 10/17 ~11:00am

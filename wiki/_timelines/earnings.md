@@ -1,6 +1,6 @@
 # ⏱ EARNINGS — merged timeline (the gate)
 
-> **190 dated entries across 3 notes · 2026-07-03 → 2026-10-12 · refreshed 2026-10-17 10:35 PDT**
+> **190 dated entries across 3 notes · 2026-07-03 → 2026-10-12 · refreshed 2026-10-17 10:58 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
