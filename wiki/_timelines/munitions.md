@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **305 dated entries across 2 notes · 2026-05-22 → 2026-10-17 · refreshed 2026-10-17 11:37 PDT**
+> **306 dated entries across 2 notes · 2026-05-22 → 2026-10-17 · refreshed 2026-10-17 11:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -333,3 +333,4 @@
 - `2026-10-12` [ai-capex-cycle.md:L3900](../ai-capex-cycle.md) — Addendum 2026-10-12 ~10:40am PDT — 🚗 **TESLA, PROPERLY (Jake: "What about Tesla. You just glossed it" — he was right; the 10:15am entry gave it two li
 - `2026-10-17` [war-board.md:L5479](../war/war-board.md) — 2026-10-17 ~10:00am PDT — 💣 **IRAN'S GUARDS NOW CLAIM MINE STRIKES ROUTINELY; UKMTO LOGS A RECORD WEEK. JAKE'S 9/25 "POSSIBLY A MINING ATTEMPT" LEG RE
 - `2026-10-17` [war-board.md:L5489](../war/war-board.md) — 2026-10-17 ~11:00am PDT — 🌫️ **UKMTO'S OWN WEEKLY: MOST ATTACKED SHIPS DON'T REPORT, AND FIVE OF SIX COUNTED TRANSITS ARE US NUMBERS IT CANNOT CHECK. 
+- `2026-10-17` [war-board.md:L5502](../war/war-board.md) — 2026-10-17 ~11:45am PDT — ⚡ **THE ENERGY WAR, BOTH DIRECTIONS IN ONE NIGHT: RUSSIA SAYS IT DOWNED 644 UKRAINIAN DRONES (THE NIGHT OF 10/15–16, 27 REGI

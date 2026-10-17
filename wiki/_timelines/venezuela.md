@@ -1,6 +1,6 @@
 # ⏱ VENEZUELA — merged timeline (the gate)
 
-> **89 dated entries across 1 notes · 2026-07-25 → 2026-10-17 · refreshed 2026-10-17 11:37 PDT**
+> **89 dated entries across 1 notes · 2026-07-25 → 2026-10-17 · refreshed 2026-10-17 11:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before

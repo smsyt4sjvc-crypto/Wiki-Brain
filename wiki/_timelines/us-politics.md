@@ -1,6 +1,6 @@
 # ⏱ US-POLITICS — merged timeline (the gate)
 
-> **515 dated entries across 3 notes · 2026-03-13 → 2026-10-17 · refreshed 2026-10-17 11:37 PDT**
+> **516 dated entries across 3 notes · 2026-03-13 → 2026-10-17 · refreshed 2026-10-17 11:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -543,3 +543,4 @@
 - `2026-10-03` [new-economy-regime.md:L5043](../new-economy-regime.md) — 2026-10-03 ~1:40pm PDT (filed under rule 22c) — 🏭 **"WHERE IS THE ONSHORING?" — THE $20 TRILLION IS PLEDGES; THE MEASURED FOREIGN MONEY IS $232B, AND 
 - `2026-10-17` [war-board.md:L5479](../war/war-board.md) — 2026-10-17 ~10:00am PDT — 💣 **IRAN'S GUARDS NOW CLAIM MINE STRIKES ROUTINELY; UKMTO LOGS A RECORD WEEK. JAKE'S 9/25 "POSSIBLY A MINING ATTEMPT" LEG RE
 - `2026-10-17` [war-board.md:L5489](../war/war-board.md) — 2026-10-17 ~11:00am PDT — 🌫️ **UKMTO'S OWN WEEKLY: MOST ATTACKED SHIPS DON'T REPORT, AND FIVE OF SIX COUNTED TRANSITS ARE US NUMBERS IT CANNOT CHECK. 
+- `2026-10-17` [war-board.md:L5502](../war/war-board.md) — 2026-10-17 ~11:45am PDT — ⚡ **THE ENERGY WAR, BOTH DIRECTIONS IN ONE NIGHT: RUSSIA SAYS IT DOWNED 644 UKRAINIAN DRONES (THE NIGHT OF 10/15–16, 27 REGI
