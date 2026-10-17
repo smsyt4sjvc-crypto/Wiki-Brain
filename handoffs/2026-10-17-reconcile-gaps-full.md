@@ -1,5 +1,5 @@
-# RECONCILE GAPS — full list from the 2026-10-16/17 vault-wide read (30 Sonnet readers; 802 rows)
-Columns as each reader wrote them: type (a = contradiction unmarked · b = open item later answered but not closed · c = graded elsewhere, not carried · d = duplicate/drift) · old lines · new lines · note. Curated headline list: wiki/_reconcile-ledger.md
+# RECONCILE GAPS — full list from the 2026-10-16/17 vault-wide read (all readers finished 10/17)
+Columns as each reader wrote them: type (a = contradiction or supersession unmarked · b = open item later answered / extends · c = graded elsewhere, not carried, or two live lines in conflict · d = duplicate, stale pointer or drift; group-small-C defines its own key at its top) · old lines · new lines · note. Curated list: wiki/_reconcile-ledger.md
 
 ### ai-capex-cycle  (ai-capex-cycle-A.md)
 
@@ -104,6 +104,25 @@ Columns as each reader wrote them: type (a = contradiction unmarked · b = open 
 | c | 3190–3199 header | 3290–3306 | Whole 8/3 entry declared non-standing but only four bullets carry ⟲; F20's dated test has no outcome anywhere in the slice. |
 | d | 4499–4500, 4514 (SDLLMTK −43% from May) | 5476 (2.05→1.1997 = −41.5% to 8/6) | Same index, two magnitudes; end dates (8/10 vs 8/6) not stated at L4499. |
 | d | 4474, 5475 (+35-38% rentals as vault number) | 5210–5215 | L5210 flags +35-38% as maybe CRWV's own 25% hike double-counted, but L5475 reuses it unflagged. |
+
+### ai-financing-fragility  (ai-financing-fragility-C.md)
+
+| a | 6896, 6922–6926 (8/19: Amazon 2026 deals $3.75B, "not a heavy issuer"; $25B = Nov-2025) | 7202–7208, 8758–8760, 9023 | Later entries carry AMZN $37B (Mar) and $25B (7/8) verified at primaries; the 8/22 entry even re-dates the $25B to 7/8; no ⟲ on the 8/19 correction. |
+| a | 6616–6623 (8/16 "REPORTED→closer to MEASURED" for summed $3T) | 8155–8157, 8835 (do-not-add, :L3334); 8600 (MS≈KBRA "convergence") | Summed off-B/S totals were retired 8/04 yet are used as evidence at 6616 and 8600; the retirement is invoked only at 8155/8835. |
+| a | 8071–8095 (9/8 9:50pm "single-name CDS = gap; DTCC TIW highest-value fetch") | 8102–8110 | Corrected 20 min later (icc_cds.py since 8/22; CLAUDE.md:572 stale); no marker on the original lines. |
+| a | 8137–8141 (10:15pm "strongest disconfirmer in weeks"; carry-selling) | 8191–8196 | Withdrawn by the 11:20pm chart entry in prose only; old lines unmarked. |
+| a | 8097–8100 (⬜ ZH 2029 vs GS 2028 FCF conflict, 3 options) | 8207–8216 | Resolved as a 4th option (vault misread stacked chart); marker sits on out-of-slice :L3574, not on 8097. |
+| a | 8401–8418 (9/12 "far weaker circularity than CRWV; stop using one phrase") | 8436–8444, 8456–8461 (9/13 qualifies/withdraws "only project debt") | Reversal at the vendor-credit layer has no ⟲ on the 9/12 lines. |
+| a | 6970, 6977 (8/20 "AVGO would GUARANTEE $60–70B of senior") | 8921–8925, 8832–8838 | Only the SIZE is marked (6964); later filings show a partial guarantee, size ⬜, and a separate ~$29B backstop on the first $35B. |
+| a | 6717–6724 (8/17 "exposure HALVED, cap re-cut the deal") | 6780–6810 (8/18) | 8/18 re-scopes $105B as 22–26% of full 8GW and media-derived; the "halved" claim is not marked. |
+| a | 6246, 6627, 8625, 8715 (⟲ pointers to L6141, L6434, L8623, L8704) | 6403–6411, 6700, 8639–8643, 8718–8719 | Markers exist but pointers have drifted 14–265 lines; also L8866/8871/8875 point one line short. |
+| c | 6258–6266 (registered: CRWV ladder "unfetched twice", NVDA roadmap, useful lives) | 6269–6336, 6359–6372 | Answered 10–45 min later in the same night; the registered lines carry no ✔/⟲. |
+| c | 6665–6668, 6697–6699 (NVDA 10-Q is the only settler of Ohio exposure) | 8058–8060, 8832–8838 | The 10-Q's $108.5B ($105B + $3.5B) resolved it; 8/17 lines still read open. |
+| c | 6948–6957 (NIC "never had a number"; total 2026 IG ⬜) | 7189–7195, 8765–8770 | NIC (10–15bp) closed 8/22; IG denominators built 9/25; registration unmarked. |
+| c | 8836, 8855 (⬜ $42B notes vs syndicate $42B) | 8924–8925 | 10/9 shows three different $42B objects; still listed open at 8855. |
+| b | 7236–7240 (8/22: vault "never held" NVDA–Poolside) vs 7264 | — | Self-answered in-entry (ledger hole conceded); fine. |
+| d | 8870, 8964 (self-declared duplicates of 8832–8838 and 8848); 8818 restates 8799 | — | Duplicate pastes re-filed with only new tape appended. |
+| d | 6890–6892 (Alphabet 2026 debt $53.5B) vs 8758 ($45.0B USD); 8587 ($3B convert) / 8655 ($3.7B) / 9014 ($4.2B closed) | — | Perimeter/vintage differences unflagged; CRWV convert size is never marked superseded. |
 
 ### buildout-bottleneck-map  (buildout-bottleneck-map.md)
 
@@ -225,13 +244,13 @@ Columns as each reader wrote them: type (a = contradiction unmarked · b = open 
 ### hyperscaler-credit  (group-credit-sheets-money-sourcing-warconfirmed.md)
 
 | a | L538–539 (8/24 table: AVGO/NVDA "all-time wide") | L263–273, L388–392 (start-date rule: "all-time" banned for 9–10-month contracts) | The 8/24 test table repeats "all-time wide" after the note had retired the phrase twice; no ⟲ marker (L570 half-concedes it is a chart claim). |
-| a | L565 ("DISPERSION 17.3× (MSFT 47.9 → CRWV 817.3)") | arithmetic 817.3/47.9 = 17.06× | The 17.3× is the 8/21 figure (802.6/46.3) carried onto the 8/24 panel; wrong by ~0.3×. |
+| a | L566 ("DISPERSION 17.3× (MSFT 47.9 → CRWV 817.3)") | arithmetic 817.3/47.9 = 17.06× | The 17.3× is the 8/21 figure (802.6/46.3) carried onto the 8/24 panel; wrong by ~0.3×. |
 | a | L658, L683 (B200 low-end rent $3.50 < $4.30 hurdle; "rent below hurdle" = levered-builder bear) | L686 (B300 >$7), L716 (Ornn B200 $7.53 settled 10/10) | Only the CRWV-bear rationale is ⟲-superseded (L664); the standing "B200 $3.50" and "neocloud ~7% return" lines (L658–660) are contradicted by 10/10 settled B200 $7.53 with no marker. |
 | a | L683 ("CRWV CDS ~845bp (~40–45% implied default)") | L733 (970bp ⇒ ~57% cumulative; 1,116.8 ⇒ ~62%) | Default-odds figure has moved a lot with no ⟲; both are risk-neutral at 40% recovery. |
 | a | L737/L749 (marks: GOOGL/AMZN/MSFT BEAR 0.5 at 10/14) | L755 (AMZN/GOOGL "already marked on first break 10/14") but L748 (10/15 no mark) | Consistent, but L725 (10/13 "No marks on AMZN/GOOGL/MSFT") sits in the same chain — the 10/14 marks reverse the 10/13 "split" read without a ⟲. |
 | b | L79–89 (🔴 OPEN: primary-source CDS; rest of complex; IG/HY OAS) | L465–528 (ICE ICC tool, 12 names), L535–548 (OAS ladder) | The 8/18 OPEN block was answered by the 8/22 ICE entry and 8/24 ladder; block still reads as open, no marker. |
 | b | L225–237 #2 ("BUILD CROSS-SECTION AS A SERIES") | L465, `data/fragility/cds_panel.csv` | Built 8/22 and appended daily by `icc_cds.py`. |
-| b | L692 (⬜ Moody's current rating not in vault; ⬜ bonds outstanding) | L711 (Baa2 negative; debt ~$122–125B) | Closed by 10/1 addendum; L692 still shows ⬜. |
+| b | L690, L693 (⬜ Moody's current rating not in vault; ⬜ bonds outstanding) | L711 (Baa2 negative; debt ~$122–125B) | Closed by 10/1 addendum; L690/L693 still show ⬜. |
 | b | L452 #1 (update 5-name basket) | never answered | Basket (peaks: 162) has no later mark; panel superseded it in practice. |
 | c | L636 ("core hasn't issued yet" / rush-to-issue) | L639 (GSAM underweight) → ??? | Whether a jumbo core deal landed 9/28–10/16 is not stated in the note; resolved (if at all) only in ai-financing-fragility/chat. |
 | c | L720 "Volta's book Wed 10/14" | L731 | Volta outcome not recorded in this note; MIM 10/14 presumably holds it. |
@@ -273,6 +292,39 @@ Columns as each reader wrote them: type (a = contradiction unmarked · b = open 
 | d | L279 / L290 (TSM PAPER entry 473.39, stopped 459.72) | L377 and hyperscaler-credit L753 (TSM paper MIM 10/15 Call 1, fill 421.22, stop 408.58) | Two different TSM paper trades carry the same label "TSM PAPER" within 8 days; easy to confuse. |
 | d | L254–256 (DHT 5-min whipsaw; ACTUAL fill) | L262–265 | Same DHT leg restated three times at three altitudes. |
 | d | L245 ("ACTUAL book → portfolio-state 10/2") vs L265 ("ACTUAL book at the close") vs L201 | — | Three separate ACTUAL-book snapshots with different contents (SPY 745P, PARR; then DHT 100@23.60, QQQM, CEG/VST/TLN, VG). |
+
+### data-sourcing-playbook  (group-credit-sheets-money-sourcing-warconfirmed.md)
+
+| a | L358–398, L442–461 (FRED/stooq "TIMEOUT… transport broken", FRED among unreachable hosts) | L524–556 (⟲ SUPERSEDES every "FRED unreachable" note) | The 8/11 and 8/12 FRED-down entries still read live in this file with no in-file marker; the superseding entry sits 130 lines below. |
+| b | L393–395 (🚩 OPEN: outage vs UA block; ⬜ browser-like headers "untested") | L528–537 | Answered exactly: no-UA works, browser UA hangs, custom UA resets — yet L393 still reads open. |
+| a | L578–594 (MOVE demoted from row to declared gap; stage 4 0/2 lit) | L598–636 (⟲ SUPERSEDES the entry directly above) | Same-hour reversal, flagged in text; L592 "REGISTERED implied-rates-vol substitute" not retired. |
+| b | L736–737 (⬜ gopher preamble "not yet standing") and L733–735 (grade v1) | L804–806 (CLOSED, standing preamble) | Registered items closed by the 8/24 7:45pm entry; originals unmarked. |
+| a | L97 ("Bulk ticker/quant pulls, PDFs, walled sites → ❌ in-container; offload") | L401–440 (EDGAR frames in-container), L524–556 (FRED in-container), L598–636 (WebFetch ^MOVE) | The "In-house fallback" section is older than three in-container capabilities that later proved reachable; not amended. |
+| a | L74 (ChatGPT code interpreter + yfinance as the data-pull route) | L460–461, L559–573 (yfinance/Yahoo 429 from container AND runner; Jake-side only) | Route table does not reflect Yahoo rate-limit reality. |
+| a | L12–L45 TIMELINE (stops 9/26) | L822–852 (10/8–10/16 entries) | Timeline stale by four entries; regenerate. |
+| a | L263–265 ("ZH not one source; layer model") | L822–837 | Extended, not contradicted (⟲ EXTENDS marker at L823). |
+| c | L246–261 (no auto-ingestion) vs rule 22c (auto-filing pastes) | CLAUDE.md rule 22c | Doctrine concerns CONNECTOR ingestion of feeds; rule 22c files Jake's pastes — consistent but easy to conflate. |
+| c | L282–287 (Keshel/Daugherty gradeable Thursday) | — | No grade recorded here or elsewhere in this file. |
+| c | L209–220 GPK | — | Outcome (earnings, assignment) never recorded. |
+| d | L541–546 (UA per-source; curl not urllib) | CLAUDE.md fragility-ladder bullets and MOVE route (L631–634) | Rules restated in CLAUDE.md; same content in three places. |
+| d | L482–487 (three-step test) | CLAUDE.md "QUOTE-HEADER RECONCILIATION TEST" | Promoted verbatim; keep one canonical copy. |
+
+### war/war-confirmed  (group-credit-sheets-money-sourcing-warconfirmed.md)
+
+| a | L58 ("Newest on top") | L64–112 desc, L120–690 asc, L691 backfill | Ordering rule violated: after the L115 divider entries are chronological-ascending, so the "newest on top" claim is false for 80% of the file. |
+| a | L56–58 (admission rule: Iranian-agency CLAIMS go to war-rhetoric) | L343–359 (IRGC-linked mine claim), L386–466 (Tasnim/OSINT Abqaiq), L518–543 (Fars Jordan claim) | Claim-grade items sit in the "confirmed" ledger (each is flagged ⚠️ claim-grade in-line, but the admission rule is not honored). |
+| a | L190–191, L251, L98 (Bab el-Mandeb "still flowing / NOT disrupted") | L374–379 (traffic PLUNGES; "board's 7/26 line is now stale") | L377 declares the old line stale, but the earlier lines carry no ⟲ marker. |
+| a | L237 ("CENTCOM-OFFICIAL 12 redirected/2 disabled/2 boarded") | L496–497 (18 redirected, 2 disabled, 2 boarded), L694–696 (9 disabled/135 redirected since 4/13; 12/2/2 called "a WEEKLY slice") vs L701–702 (blockade REIMPOSED 7/14 — 12/2/2 may be the since-reimposition count) | Three different blockade tallies with two incompatible explanations of the 12/2/2 number; unresolved. |
+| a | L695 ("Prior entry (7/26, L112)") | actual 7/26 Windward weekly at L234–237 (L112 is the 7/12 Hormuz-closed entry) | Pointer drift in the 6/11 backfill. |
+| a | L102–106 (7/16 US struck sanctioned tanker; Basrah suspension) | L169–170 (a disabled tanker "7/17 = our 7/16 entry, now identifiable as blockade ENFORCEMENT"), L697–700 (named-vessel list has no 7/16–17 ship) | The re-identification is stated at L169 but the original 🟠 SHOULD-MOVE entry is not re-labelled and the vessel list omits it. |
+| a | L535–536 ("🟠→🔴 PENDING CONFIRMATION") | L545–578 (CENTCOM-confirmed) | Resolved two entries later without an in-place marker. |
+| a | L140–141 ("pending Sunday crude open as the price referee") | L287–294 | Resolved at L287 (HIT). |
+| a | L474–475 (7M bpd full halt) | L510–511 (effectively dead) | Corrected in-line. |
+| b | L103–104 (Basrah suspension "watch if stays down") | — | Never followed in the ledger. |
+| c | L5–6 timeline "refreshed 8/17" through 7/28 | — | The ledger has no entry after 7/28 though the war ran on (Aug blockade reimposition, 10/x Hormuz strikes appear only in money-board/war-board) — new confirmed events are being filed elsewhere. |
+| c | L402–406 Abqaiq loadings (decisive item) | — | Never resolved in this note; likely in war-board. |
+| d | L215–223 and L381–384 (Ukraine strikes Iranian vessels in Caspian) | — | Same event entered twice (7/26 and 7/27). |
+| d | L185–197, L361–372, L489–516 (Jizan) ; L386–488 (Abqaiq, 6 addenda) | — | Repeated entries for the same facility at increasing evidence grade. |
 
 ### danger-disclosure-playbook  (group-danger-nuclear-grades-calibration.md)
 
@@ -390,6 +442,7 @@ Columns as each reader wrote them: type (a = contradiction unmarked · b = open 
 | d | L364–365, L391, L402 | — | NRG grades-row hole stated three times in 10 days; AEMA technical framework registered twice (L391, L402). |
 | d | L416 (GEV BEAR 0.5 / VST BEAR 0.5) | buildout-bottleneck-map 10/8 7:40pm | Same marks deliberately "counted once" across two notes — risk of double-count in money_board if both parsed. |
 | pointer-drift | in-note `:L34` (§202(c)), `:L38` (utilities low beta), `:L358` (forced retention), `:L338` (§202(c) entry), `:L309` | actual L42, L48, L362, L347, — | Line numbers cited in the 8/19, 9/12, 9/15 entries have drifted since insertions; marker text is the durable part. |
+| c | L225–231 (EVRG, GLXY, NRG/PSEG, GNRC 🚩 open coverage) | spot grep 10/17 of grades.md / money-board.md / flag-board.md | EVRG, GLXY, GNRC, PSEG return 0 hits in all three; NRG 1 hit in money-board only, 0 in grades.md; ASML/AMAT/LRCX/KLAC/AMD/TSM now graded — roster holes registered 8/19–9/19 are still open 4–8 weeks on (rule 21: verify before repeating).
 
 ### ai-money-map  (group-small-A1.md)
 
@@ -421,6 +474,55 @@ Columns as each reader wrote them: type (a = contradiction unmarked · b = open 
 | d | L331–332 & L383–423 workbook limitation text vs v2 front page | L410–412 | The note itself documents v2 relabeling v1's hypothesis-generating chronology as "proof of concept" (a duplicate-with-drift in Jake's tool, not the vault). |
 | d | L11–16 timeline vs L475 | — | Header block (5 entries) omits the 10/2 entry; regenerate with timeline_header.py. |
 
+### power-not-petroleum  (group-small-A1.md)
+
+| a | L55–56 ("defensive rotation… utilities strong YTD; CEG −28%") and L38–39 | L525–526, 9/12–9/15 power-scarcity-equities | Early June/July DATA lines still read as current; no ⟲ marker that merchant nuclear later re-rated. |
+| a | L226–229 ("checkable half of Jake's claim CONFIRMED… most relevant fire") | L329–345 (base rate deflates inference) | Same day amended in-text ("probable-cause affidavit is the only object that moves this"), but L226 has no ⟲ marker. |
+| a | L304–310 ("THIS AMENDS MY 11:15 READ") | L244–252 | 11:25 amendment marker exists only in prose; L244–252 (politics WORSE) not struck. |
+| a | L525–526 (VST/CEG/TLN 7, GEV/ETN/PWR/VRT 7; "no grade moves") | CLAUDE.md rule 16d (9/23) | 1–10 grade statements frozen as history by 16d (bear/flat/bull marks); not flagged here. |
+| a | pointer drift: in-note `:L409`, `:L449`, `:L476-484`, `:L480`, `:L502`, `:L535`, `:L234`, `:L290`, `:L100`, `:L75` | actual L414, L451, L476–486, L481, L505, L537, L257, L316, L153–162, L124 | Cited line numbers have drifted after insertions; ⟲ markers at L98, L124, L539, L571 inherit the drift. |
+| b | L72–73 ("Full weighted basket TBD — offered, not built") | forest/money-board 9/23 | Baskets replaced by 💰 top-5 + marks; the ⬜ is moot, not struck. |
+| b | L451 ("EIA-860M one public fetch") | grades.md:257, high-confidence-basket.md:74/140, oil-value-chain.md:2989 (spot grep) | Four other notes carry the same ⬜ unfetched; item has been "load-bearing" and unfetched since 8/23 — avoidance candidate. |
+| b | L414 ("grep coal returns COALITION only") | L525–526; power-scarcity-equities L347–367 | Coal is now covered (248 Bt; §202(c) ruling); header claim of absence is dated, stands as origin story. |
+| c | L453 (GW deferred under 202(c)) | power-scarcity-equities L349–353 | 9/12 D.C. Circuit entry names Campbell/Indiana/Colorado/Florida/Centralia orders but no GW figure; partial answer lives in another note. |
+| d | L146–149 and L201–205 and L350–354 | — | Spokane "tells" restated three times (registered, sharpened, tests); same WUTC rate class item appears in all. |
+| d | L451–452, L505, L541 | — | EIA-860M fetch registered three times in this note alone. |
+
+### flag-board  (group-small-A1.md)
+
+| a | L34 (🟢 no China permits by 10/9) + L49 Status LIVE | L40 (🔴 (a) FIRED 10/9) | The 🟢 leg is silently dead (its premise failed) but never marked expired; block still "LIVE". |
+| a | L31 header "(ACTUAL: 100 sh + short Oct-16 $80 call)" | L37 (When: 10/16 PARR call expiry) | Position text unchanged after expiry date; no outcome line. |
+| a | L45 refiners (e) "breaking on day one" + L44 | L46–47 | (e) and (f) coexist with L36 "(b) RESOLVED" – fine – but 🟢/🔴 letters run a,b,c,d,e,f,g across ten datum lines without a consolidated status. |
+| a | L56 ("NOW Q3 ~2026-10-22 (⬜ confirm)") | L58 (NOW reports Oct 28) | When-field not corrected in place; menu.py reading L56 would use the wrong date. |
+| a | L150 ("~2026-10-10 (TSMC monthly revenue, date ⬜)") | L145, L150 ✔ 10/8 | In-line corrections exist but the "When" still lists the old window. |
+| a | L143 (MU 🔴 placed before Lean) | L144 | Field order irregular for menu.py ("keep field names"); also L89–90 IWM bullet precedes Lean. |
+| a | L195–197 POWER 🟢/🔴 (by 10/12) | L200, L203 | Date passed; "not found in sweep" is not a flip; flag still reads as pending. |
+| b | L56 "⬜ confirm" | L58 | Answered inside the note (NOW Oct 28). |
+| b | L137 "AVGO FQ4 earnings (December, date ⬜)" | — | Not answered here; remains. |
+| c | L93–95 (10/7 auction, speakers, HY OAS) | — | Results resolved only in rates-board/chat; no flip in this file. |
+| c | L253–255 (TSM fade 10/15–16), L40 China confirmation, L44–47 ceasefire/IEA | oil-value-chain/ai-capex-cycle | Outcomes likely live in those notes; flag-board not updated. |
+| c | L69, L153 (DHT trade out ~10/9; MU MIM Call 10/19) | data/flag_trades.csv | ACTUAL/PAPER trade results are in the csv per rule 16e(d), not here. |
+| d | L200 (DOE 202-26-50) and L202 (Texas leg) | power-scarcity-equities L411/L416/L424 | Same events filed in two notes (source of truth: power-scarcity-equities / buildout-bottleneck-map). |
+| d | L166–168 (CRWV MW-year, CDS records) | mw-dollar 10/13, hyperscaler-credit 10/13 | Repeated datums from other boards; expected (pointer notes). |
+| d | L83, L85, L86 (DHT/BWET entries) | shipping-universe, oil-value-chain | Three consecutive tanker addenda out of date order (L83 10/12 sits above L85 10/10 and L86 10/11). |
+
+### cepi  (group-small-A1.md)
+
+| a | L37–40 (air gap + intensity definitions; universe Mag-7+MU+ORCL; yfinance annual) | L72–99, L112–127 (five ratios; quarterly SEC tracker; 5 names + SPCX) | The definition block (DATA) was never superseded or extended-marked although the instrument and universe changed. |
+| a | L216/L220 (META capex +58.5%, 18,997→30,116) | L518 (META capex ≈$31.1B, +64% vs $19.0B) | Two capex figures for META Q2 (digest true capex vs release) with no reconciliation of perimeter. |
+| a | L363 ("Amazon's $53 billion gain from Anthropic") | ai-money-map L148 (AMZN $50.5B Q2 upward adjustment; other income $53.4B) | The $53B is "other income, net", not the pure Anthropic mark; cross-note perimeter not reconciled here. |
+| a | L149 DATA (MSFT 15→25y disclosed) | L588 (MSFT useful-life verify "still ⬜") | Same note states it as disclosed (digest-sourced) and as unverified; source tier unlabelled in DATA. |
+| a | L74–76 ("OCF/C below 1.00 = not self-funded… firing at the aggregate") | L227–236 | The 4:55pm entry corrects the cash-collapse reading in-text; L74–76 and L129–131 not marked. |
+| a | L453–461 FCF table (GOOGL +10.1, META +13.2) | L452 marker; L525–527 | Marker exists at table head; individual stale rows (GOOGL Q1, ORCL 2025-08) remain readable as current. |
+| b | L192–195 test #3 "NOT KNOWN" | L383–386 | Resolved 8/8 inside note; markers at L345 and L354 present. |
+| b | L411 ("Alphabet's composition ⬜ NOT STATED") | ai-money-map L148–149 | Composition answered in another note: SpaceX + a private company (REPORTED Anthropic); $77.4B non-marketable + $21.4B marketable. |
+| b | L190–191 META finance leases ⬜ | — | Not answered here or in ai-money-map; ai-money-map L186 gives no META lease figure either (spot read). |
+| c | L421–423 test 6 and L424–427 test 7 | ai-money-map L148–155 | Resolved/registered in the 10/10 money-map, not back-linked in cepi. |
+| c | L588 MSFT 15→25y | ai-money-map L149 (MSFT equity method; excludes OpenAI from adj EPS) | MSFT FY26 10-K read 10/10 but no useful-life check recorded. |
+| d | L141, L319, L330–334 | — | "DA/C is falling further behind capex" stated three times (8/7). |
+| d | L208–210, L312–314 | — | Per-name diffusion/gap repeated in two tables; consistent. |
+| pointer-drift | ⟲ markers L94 (→L82), L106 (→L174), L108 (→L70), L199 (→L82), L345 (→L329), L354 (→L321), L452 (→L470), L495 (→L428); in-text `:L56`, `:L309`, `:L3487`, `L4271` | actual L99/L112, L201, L112, L201, L383, L383, L502, L502; L79–83, L330–334 | Line numbers drifted after insertions; marker TEXT is durable. L495 marker is embedded mid-sentence (formatting artifact). |
+
 ### dip-buying-base-rates  (group-small-A2.md)
 
 | a | L130-141, L152, L165-179, L208-212 (34-name run 1/2: NVDA negative, AMAT standout, lag rule, shortlist) | L353-357 (screen has zero edge) | L356 retires survivors/sector rates/14-name list/"AMAT survives"/ETFs-44% but NOT the 34-name e-column findings, lag rule or shortlist, which carry no ⟲ and come from the same dip definition. |
@@ -430,6 +532,58 @@ Columns as each reader wrote them: type (a = contradiction unmarked · b = open 
 | e | L398 ("Triggered − not = +2.65% raw") | L397 (α +2.80% vs +1.61%) | Internal arithmetic: 2.80 − 1.61 = 1.19, not 2.65 (other figures in the block check out). |
 | e | ⟲ pointers at L231-235, L260, L278-293, L344-354, L477, L519 | actual targets L317 / L230-232 / L518 | Timeline insertion shifted lines; markers say L315/L229/L203/L207/L250/L255/L259/L265/L449/L490 and now land 2-12 lines off (the marker TEXT is the durable part). |
 | e | L5 header "13 dated entries" | body | Timeline lists L40..L553 only; fine, flagged because L553 header says 70-73% but its own table has QQQ 62.2% (7.37x) — header range omits QQQ. |
+
+### europe-energy-crunch  (group-small-A2.md)
+
+| a | L116, L132 (EU target "83%, flexible/relaxed") | L224-226, L233 (90% preserved; −10pp, +5pp deviation; floor 80/75%) | Two different target numbers; no ⟲ or reconciliation of 83% vs 90%-minus-10. |
+| a | L163-165, L184 ("12.2x NOT REPRODUCIBLE — do not quote theirs; mine 9.94x") | L244 ("widens past the filed 12.2x") | The 9/14 line re-adopts the figure the 9/10 entry said not to quote. |
+| a | L213-L216 (Cheniere "OCT-NOV", "November cluster" Nov 1, REGISTERED "target gives… structural floor to Nov 1") | L239-241 (deadline Dec 1; window Oct-Dec; price-inelastic superseded) | Only L208 and L242 carry ⟲; the L198-201 table, L206, L213-216 REGISTERED line stand unmarked. |
+| b | L97 (EU aggregate storage "chart not read") | L110 (62% 8/18), L190 (66.59% 9/5) | Answered in the note; the list strikes only L93. |
+| b | L99 (verify "17 years") | L190 ("lowest since records began 2011") | AGSI history only runs from 2011, so 17 years cannot be checked from it — partial answer in-note. |
+| b | L158 (late-Feb TTF step "unnamed") | L111, L134 (Ras Laffan 3/18; "March Qatar outage") | Note itself carries war-start/Qatar events that plausibly name it; never linked. |
+| e | pointers L118 (`:L70-76`, `:L62`), L208 (→L231), L242 (→L198) | actual L81-87, L73-77, L232, L201-207 | Line drift after timeline insertion. |
+| e | L5 timeline (14 entries to 9/22) | L252 (9/23 bullet) | Final bullet not in timeline block. |
+
+### consumption-vs-investment-crux  (group-small-A2.md)
+
+| a | L353 ("worse than at any point in two years") | L360 ("confidence just printed a 12-year low") | Two descriptions of the same 9/29 confidence print (81.9; current-conditions negative first time since 9/2024 L355) never reconciled. |
+| a | L48-53, L113-117, L322-328 | L363-367 | Founding question answered three ways (2020-21 = consumption; aggregate BUILD/distribution DRINK; other-492 = DRINK) and 9/30 adds a ~1.5pt larger cushion and "growth understated twice" — no ⟲ ties them. |
+| b | L138-141 ("check delinquencies, NOT the nominal record") | L343-348 | 7/23 ⬜ is answered by the 9/27 entry; only L241 carries an EXTENDS marker. |
+| b | L358 ("🔴 Wed PCE: real spending for August") | L364 (real PCE +0.6%, PCE +0.9%) | Resolved in the next entry but not struck. |
+| e | L5 timeline (11 entries to 9/27) | L352, L362 | 9/29 and 9/30 entries postdate the timeline refresh. |
+| e | L261 ("PCE prints THURSDAY") | (none) | Outcome of that 7/30 print never recorded; L367-368 revises the saving-rate leg indirectly. |
+
+### financing-fragility-gauge  (group-small-A2.md)
+
+| a | L41, L48-49 (forced seller listed as a "breaking" criterion; "no forced seller") | L157 ("DELETED AS A CRITERION: a forced seller") | The CURRENT READING block was never amended to match the 8/20 rewrite. |
+| a | L36-51, L51 (NET STATE ▲), L58 (10Y 4.69), L122-148 (ledger ends 8/22) | L352-367 (9/26-9/29 entries; 10Y 5.27) | Dial/panel/ledger frozen at 8/20-8/22; 9/26 and 9/27 entries never register ▲/▼/● shifts. |
+| a | L127, L282-288, L165-168 (single-name CDS panel / terminal CDS feed = GAP) | L129 (ICE Clear Credit, 12 names, gap CLOSED same day 8/22) | Same-day contradiction with no ⟲ (CLAUDE.md later records CDS "no longer a gap"). |
+| a | L66, L147 (ESAs ≥80% minimums = risk "contractually held", ●) | L209-212 (ESAs a 20-45y obligation on 4y money — "inverts part of the stage-4b reading") | Panel row 9 and 8/19 ledger row not amended. |
+| a | L355 (Trepp overall 7.85% Aug; office ~12%) | L366 (overall CMBS ~7.2%, office ~11.5%, data through July) | Two overall-delinquency levels for adjacent months (different series/vintage?) not reconciled. |
+| b | L126 ("5-name basket unrefreshed… untested") | L129 (ICE panel, all 12 names, free daily) | The 8/22 instrument answers the 8/22 ⬜ in the same table. |
+| e | L185 ("charged 450bp") | L186, L223 ("400bp gap") | 4.50% − 0.50% = 400bp; 450bp is the 2034 coupon, 9x is the coupon ratio — wording mix, not a number conflict. |
+| e | pointers L153 (`:L47`), L355 (`:L314`) | actual L83-91, L316 | Line drift. Panel numbering L94-95 also lists #16 before #15. |
+
+### earnings-implied-moves  (group-small-A2.md)
+
+| a | L94 headline + L101 ("2 of 2 and possibly 3 of 3") | L109 correction, L126 ("2 of 3"), L106 ("ASML's alone") | The 10/13 drift claim is corrected only in prose; headline and WHY line stand unmarked. |
+| a | L112-116 (ASML long fails 8/8; mirror short stronger; "GOOGLE") | L117-119, L126 (pattern failed live; stop hit) | Amended only by ↳ sub-bullets; header and MONEY line L116 not struck. |
+| b/c | L83 REGISTERED (ASML day-0 vs straddle; direction; n=61) | L126-128 (−3.94%, close below open) | Resolved by raw numbers but never graded against straddle/lean and sample not extended. |
+| a | L98 ("no pre-print action exists… ADR next trades after the 10pm PT release") | L99 (ADR quoted $1,705 in overnight session 10:33pm PT) | Overnight venue exists though thin; claim of no action overstated. |
+| c | L72 (TSM Sept-revenue-day reaction, 10/13 paper target) | L91 (`_calibration` 10/8: Jake 1, vault 0 on TSM) | Outcome lives in another note, not here. |
+| e | L5 timeline ("0 dated entries · empty") | L72-137 (28 dated addenda 10/7-10/15) | Addenda are unheaded bullets so the auto-timeline (the gate file) sees nothing for this thread. |
+| e | L128 ("fell in → up on day" 2/3) | L108 (3 of 4 under 5-day window) | Window-dependent count; both quoted. |
+| e | L94 (Jake: "sold off 3.1%… ~€1,538") | L96 (Amsterdam −4.20%; 1,538 ÷ 1,575.80 = −2.4%) | Jake's quote header did not reconcile and was not used. |
+
+### colab-archive-audit  (group-small-A2.md)
+
+| b | L171-176 (⬜ #1 more than 50 files; #2 which fork; #3 dates) | L341-342 (closed: 289; modifiedTime; full metadata) | Closed in-note but the original ⬜ lines are not struck. |
+| a | L38-47 (50 files, 33 names, 17 dupes, 5 empty, yfinance 23) | L287-297 (289 files, 74 named) | Inventory block carries no ⟲; headline correction sits 250 lines later (L282). |
+| a | L156-157 (csp_screen recovered = largest fork) | L313-316 (replaced by newest fork 1DFo8dwo) | Self-correction in prose; no ⟲ at L157. |
+| a | L100-105, L127 (body_momentum_carry closes the 7/17 decay question; "cheapest real win") | L333-338 (tdf rebalance closes the same test; SPY effect died post-2018) | A second notebook answers the same registered question; the first claim is not marked. |
+| e | L38-42 (17 duplicate-name files = 50 − 33) | listed multiples (v5×5, ai×5, v4×3, alpaca×3, bb×3, btc×3, csp×3, CPS×2 = 27 files, 19 extras) | Listed duplicate groups imply ≥19 extra copies, not 17. |
+| e | L207 (costs "4 of 14" incl. "Layoff (benchmark only)"; BB10_2_EndToEnd) | L209, L214-216 | Layoff counted under costs and benchmark; BB10_2_EndToEnd is the BTC 2× strategy, possible double count with "btc 2x strategy eval". |
+| e | ⟲ at L126/L195 ("→ L175", "L107") | actual L194, L125-142 | Pointer drift. L354 "remaining 39" vs L343 "51 named unread" vs L333 "239 not read" are different cuts. |
 
 ### bull-bear-ledger  (group-small-B1.md)
 
@@ -444,7 +598,7 @@ Columns as each reader wrote them: type (a = contradiction unmarked · b = open 
 
 | a | L36–42 table "as of 2026-08-18", stage 3 RATIONING, stage 4 INTACT | L118–135 (stage 4 splits; stage 3 maybe channel-only), L137–140 (4b), L307 (4c) | Spine table never rewritten: no 4b/4c rows, no 4→1 arrow in the table; amendments live below the table with no ⟲ marker on the table lines. |
 | b | L245–246, L277, L283–284, L314 ("regulated-rate-base channel at `:L71`", "stage 4b amendment `:L71`") | actual amendment at L97–179 (rate-base at L122–135) | Cross-pointers `:L71` have drifted; target is now L97. |
-| a | L30 table-top / L67 "FCI loose" | L240–246 (Fed says regional banks + nonbank lend) | Stage 3 instrument list at L40 (nonbank only) was amended three times (L51, L122, L240) but L40 still carries the original list. |
+| a | L40 (stage 3 instruments: nonbank only) | L51–58, L122–135, L240–246 (qualifier, rate base, regional banks) | Stage 3 instrument list at L40 (nonbank only) was amended three times (L51, L122, L240) but L40 still carries the original list. |
 | d | L44–49 (loop section 8/19) | L226–233 (same finding in full) | Loop finding is stated twice; L44 is the digest of L226. |
 | b | L81 ("_chain.md now makes lead-lag testable") | — | Test is "registered" but note itself never records it was run; still open. |
 | c | L346 grades "NVDA 6 hold, AVGO 8" (16c 1–10) | CLAUDE.md 16d retired the 1–10 number (9/23) | Grades are history; marks in money-board now carry the view. |
@@ -487,6 +641,38 @@ Columns as each reader wrote them: type (a = contradiction unmarked · b = open 
 | d | L61 ~$3.3B/month | L62, L69 | Replaced; ⟲ SUPERSEDED marker at L62 and L65. |
 | a | L16 infrastructure board "as of 9/21" | L41 ("unchanged, republishes 9/21 state") | Consistent; board is 4 weeks stale by 10/16. |
 | a | L44 "xAI Q2 $4.57–6.40M" presented as comparable measure | L68 (noncanonical, different denominator) | Table row stays in a list MW- says is "NOT a ranking". |
+
+### war/war-rhetoric  (group-small-B1.md)
+
+| b | L30 "AMENDED 2026-08-19 (`:L168`)"; L128 "→ L167"; L178 "SUPERSEDES :L118"; L217/L245 `:L118`; L285 | actual entry/amendment at L127 and L214 | ⟲ and inline pointers have drifted; marker text is durable. |
+| a | L26–28 "Words, not actions… threats don't move the marker… Most entries are ⚪" ; L63–67 | L30–34, L233–238 | Intro still states the old rule; the amendment sits below it as a header, but the Note at L64–67 ("repeating without executing = still ⚪") is not amended to the two-column rule. |
+| a | L127 title "still ⚪ WORDS" | L128, L233–238 | Marked ⟲ SUPERSEDED but title text retained; correct per rule 4. |
+| a | L59–61 Ghalibaf "flows persisted… declarations have not equaled executed closure" | L282 ("the June MoU, the blockade and the September bypass") | Later addenda imply a blockade/bypass regime; the "flows persisted" TEXTURE line was never re-dated. |
+| a | L28 "Newest on top" | L41–L127 order (7/23, 7/23, 7/16, 7/24, 7/27…, 8/19, then 10/4, 10/15, 10/16 appended at bottom) | Ordering claim false; entries mixed. |
+| b | L5 timeline "10 dated entries · 7/16→8/19" | L282–293 (10/4, 10/15, 10/16 addenda) | Auto-timeline predates and ignores the three October addenda. |
+| c | L203 "MATCHED-MONTH CRACK, TOMORROW" | — | Result not in this note (resolved in oil-value-chain or chat). |
+| a | L288 item (3) "~9/10 war ends right after Nov 3" | L292 "ends after the midterms" (item 6) | Same claim twice in scorecard (d: duplicate); counted as separate open items. |
+| a | L284–286 scorecard | market-fragility.md:L5057, forest.md:L173 | Cross-note supersedes written from here; the forest peace branch is "undated" now. |
+
+### agentic-payments  (group-small-B1.md)
+
+| a | L95 "Meta does not sell subscriptions at scale" | L106 (CORRECTION 1: free + subscription) | Correction is inline in the addendum; the original L95 sentence carries no ⟲ marker. |
+| a | L105 header "TWO OF THEM CORRECT ME" | L109 "CORRECTION 2 IS REALLY A FINDING" | The second "correction" is a finding (GOOGL −2% vs META +5%); no earlier line is shown to be wrong, so only one correction exists. |
+| b | L5 timeline "4 dated entries 7/25→9/22" | L124–132 (9/23, 10/9, 10/11 addenda) | Timeline predates the last three addenda. |
+| a | L101 "META carries no grade… QCOM and EWY gaps" (16c) | CLAUDE.md 16d (1–10 retired 9/23; marks) ; L125 marks CRCL | Grade vocabulary superseded by marks; META mark status not stated here. |
+| d | L57–61 "Jake got here first" | L118 confirmation chain | Same Jake-first claim stated twice; L118 extends with BlackRock link. |
+| b | L98 "last night's Codex-logs item" | — | Unreferenced external note (danger-disclosure-playbook); not verifiable from this file. |
+| a | L120 "Samsung issuer question, still open" | L81 "gradeable: the issuer announcement" | Consistent; flagged because 9/22→ later no update in note. |
+
+### durable-value-backtest  (group-small-B1.md)
+
+| b | L223–224 "⬜ THE FIX: fit a regression… NOT RUN"; L245–246 "TREND-FITTED DURABILITY… now the whole test… until it runs, NO evidence" | L112–134 (Route 1 trend-fitted, RUN ~1:15pm) | The NOT-KNOWN list answers itself two sections earlier; stale and unmarked. |
+| b | L247–248 "⬜ Growth-neutral variant" | L136–147 (Route 2 growth terciles) | Already done in-note; ⬜ never closed. |
+| a | L108–110 "JAKE'S ACTUAL HYPOTHESIS REMAINS UNTESTED" | L149–152, L204–208 "NOT SUPPORTED… measured twice" | Later verdict contradicts earlier status line with no ⟲ marker. |
+| a | L233–237 "Cheapness was the losing bet… robustly, at large n" ; L154–160 "finding with actual support" | L289–294 (effective n ≈ 3), L300–306 (tautology/regime, "may be fatal") | The "robust" claim was weakened by the later regime/effective-n limitations but is not amended. |
+| a | L131–134, L73–75 ("wins 4/7", 95% band, leave-one-out) | L289–294 | Later limitation says every "wins x/7" is weaker than notation implies; bands too narrow; filed as a standalone ⛔ not a marker. |
+| d | L58–110 (isolation test) | L116–119 | Isolation test's −5.0pp reads as evidence but is explained away in-note; headline results at L52 and L73 remain visible with ⛔ labels (rule 4 compliant). |
+| b | L5 timeline "4 dated entries 8/16→8/16" | L1 title dated 2026-08-16 | Fine; all runs same day. No later updates to the note. |
 
 ### precedent-bid  (group-small-B2.md)
 
@@ -536,6 +722,46 @@ Columns as each reader wrote them: type (a = contradiction unmarked · b = open 
 | b | L115–116 "tape cannot supply the missing piece" | L168–174 | The note itself later supplies the cheap control (apparel vs home comp) — hypothesis→test registered. |
 | d | L113–115 "units per transaction, TRAFFIC vs TICKET" | L174 | Same secondary metrics restated in two entries. |
 | c | L108–112 ROST vs TJX/BURL and S&P new-high-breadth discriminators | — | Cheap check never reported in note — may be resolved only in chat. |
+
+### gold-flows  (group-small-B2.md)
+
+| a | L120–121 "ONE-TIME ~$590-600B TGA gain… ~1.5% of $40T debt" | L151–153 | In-text ⚠️ CORRECTION (261.5M oz total, ≈$1.05T, 3% GDP) but no ⟲ vault_amend marker on L120. |
+| a | L114 "$3.3M COMEX bet on $20k Dec-2026 gold" | L141–142 "gold ≥$15,000 by Dec-2026… 1,667x" | Strike/target mismatch ($20k vs $15k) — gradeable claim line does not reconcile with the newsletter summary. |
+| a | L105–109/L16 "gold new highs ($4,161)" | L33, L190 peak close $5,318 (1/29/2026) | "New high" on 7/22 is a post-pullback local high, −22% from the January peak. |
+| a | L106 GC=F 4,161 (7/22) | L190 Dec futures $4,161 (10/8) | Identical level at two dates 11 weeks apart — check whether one is stale/mislabelled. |
+| a | L181 Jake's "Nords… gold" | L181 | Corrected inline: Netherlands, not Norway (NBIM bonds filed rates-board 9/4). |
+| b | L62–68 "need WGC reserve data / sovereign flows" | L83–103 | 7/19 Goldman chart supplies sourcing behind +48t (GS nowcast, not hard data). |
+| c | L194 🔴 CPI 10/14 | — | Print is past (today 10/17); outcome not recorded in note — may be resolved only in chat/other boards. |
+
+### seeing-vs-predicting  (group-small-B2.md)
+
+| a | L109–111 "★★ AND IT DECAYS INTO A HORIZONTAL LINE… prints AVWAP next to SMA so the convergence is visible" | L171–174 | Convergence claim falsified (they DIVERGE to different levels); L109–111 not marked, only the L132 table row. |
+| a | L196–200 "★★★ THE MEASUREMENT NOBODY MAKES: THE LINE MOVES… opposite outcomes" | L252–254 | Mechanism later measured at 13–19% ("OVERSTATED"); original ★★★ line unmarked. |
+| a | L162–163 "volume contributes ~8% of the effect" (trough STATE: SMA −3.25 vs AVWAP −3.55) | L249–251 | Transition test shows plain SMA BEATS AVWAP (+2.90 vs +2.50); volume helps in STATE, hurts in TRANSITION — not reconciled in one line. |
+| a | L183 "Volume measurably non-random, economically irrelevant ~0.02pp" | L250–251 "volume weighting marginally harmful" | Later entry strengthens the conclusion; no marker. |
+| b | L116 "(grade when Jake runs it)" | L125–137 | Graded same day in-note. |
+| b | L261–262 "That is the next cell" | — | Episode-count cell not in this note. |
+| d | L146–149 AVWAP vs SMA medians | L180–182 | Same 0.01pp/rounding-error finding stated in result and in net verdict. |
+
+### content-toll  (group-small-B2.md)
+
+| a | L163–167 "★★★ 1B MAU and 58% zero-click are the SAME migration" | L242–245 "1B MAU is a measure of Google's DISTRIBUTION, not of Gemini's DEMAND" | Later addendum undercuts the demand-migration reading of the MAU; earlier ★★★ line unmarked. |
+| a | L152 "next-day, not two days" | L146–147 Jake "2 days after they announce one billion Gemini users" | Inline timing correction of Jake's premise (Pichai 8/11; paste reached 8/12 ~7:45pm). |
+| b | L206–209 T5 "watch which it does between now and 2026-09-15" | — | Date has passed (today 2026-10-17); note records no outcome for T1/T5. |
+| c | L253–254 "At 9:00pm I wrote that antitrust risk scales with the thesis being right" | — | The 9:00pm entry is not in this file; L258 `[[content-toll]]` self-links — referenced text lives elsewhere or in chat. |
+| d | L134 "Cost of a corpus licence as a share of training spend" | L215 "Actual content-licensing spend at any frontier lab as a share of training cost" | Same NOT-KNOWN stated twice. |
+| d | L119 Reddit ~$60M/yr recalled | L160 same | Same recalled comparable listed twice; both unverified. |
+| a | L59–60 "AS OF 2026-07-25 no publisher blocked" | L129 | Consistent, but neither re-checked since; stale-flag candidate. |
+
+### shipping-universe  (group-small-B2.md)
+
+| a | L123–125 "LPG +48%/60d is the propane arb and Middle East, not the canal" | L109 "LPG: HIGHEST canal exposure… restriction = windfall" | Not contradictory (current vs conditional) but the two LPG reads sit in the same note; the canal is "a REMOVED tailwind" now. |
+| a | L143 "no falsely flagged tanker has loaded Russian cargo since mid-June" | L154–155 DF Peak (false Benin flag, boarded 10/12) | Tension flagged in-text (⬜ older load or non-Russian cargo); unresolved. |
+| b | L77 "one is missing (CLCO)" | L32, L138 | Same open item restated; resolved ⬜. |
+| c | L130 🔴 10/8 NOAA update; L131 🔴 15 Oct slots/draft | — | Both dated checks are past (today 10/17); outcomes are not recorded in this note. |
+| a | L140 header "ZH 8.0" | L140 "M7.7 (USGS now; ZH's 8.0 was an early read)" | Inline correction of the early magnitude. |
+| d | L144 GL 135 diesel interplay | L156 point (2) | Same Washington-vs-Europe/GL 135 argument stated in two entries. |
+| a | router risk | L40 "the vault's 'SB' hits are Senate bills" | Several tickers are common words (SB, SEA, BOAT, LPG, NAT, ASC, DAC, KEX) — keyword homonym collisions. |
 
 ### runner-anatomy  (group-small-C.md)
 
@@ -669,6 +895,115 @@ Columns as each reader wrote them: type (a = contradiction unmarked · b = open 
 | a | transmission-chain stage-3 label "RATIONING" | L70 "AMEND" | label true of debt not equity; amendment proposed here, check whether applied in transmission-chain |
 | b | L73-74 NVDA circularity ai-financing-fragility:6165 | L71-80 | symmetric standard applied |
 | d | L73 "ai-financing-fragility:6165" | ai-financing-fragility.md | pointer into large file; may have drifted |
+
+### momentum-extrapolation-backtest  (group-small-C.md)
+
+| b | L94-101 confirms portfolio-state L827 / L782 | portfolio-state.md | out-of-sample confirmation across three decades |
+| d | L97 portfolio-state "L827","L782","L3471" | portfolio-state.md | pointers into large file may drift |
+| b | vol-divergence L102-106 cites this study (n=375, 29%/57%) | L44-46 | cross-note consistent |
+
+### civilian-infra-strike-log  (group-small-C.md)
+
+| d | L5 TIMELINE says "0 dated entries · empty" | body has entries dated 2026-07-12 to 07-21 (not in header format) | timeline generator cannot see entries (bullet dates not in heading form); log not in the thread arcs; final log entry 7/21 -- 3 months stale vs today 2026-10-17 |
+| b | L81-82 Kuwait desalination strikes re-surfaced | L68-74 | re-cited, not new |
+
+### thesis-radar  (group-small-C.md)
+
+| a | L49-57 corrections list | claims in source reports | SK Hynix ADR, Berkshire, WOSG claims corrected by filings |
+| b | L90-91, L93-95, L97-100 updates 8/10 | L72-73 | NBIS clash gains third lens and sponsor-published bull numbers |
+| c | L74-75 Capital Flows state-backstopped | vault cash-funding thread premise | first CONTRADICTS the cash-funding premise (constraint non-binding via policy flows) |
+| d | L90 "Nebius reports Wednesday 8/12" | today 10/17 | outcome not recorded here; see ai-financing-fragility |
+
+### deep-value-reclaim  (group-small-C.md)
+
+| a | L58-60 Jake's hypothesis | L74-78 | inverted by STUDY 2 |
+| b | L45-47 54% hit rate / dip law | dip-buying-base-rates | same shape |
+| b | growth-ignition-anatomy L48-49 cites STUDY 2 winner cohort | L64-77 | cross-note consistent |
+
+### buying-at-highs  (group-small-C.md)
+
+| b | L28-30 empirical footnote ATH ≈ average forward return | ath-clustering L41-42 | confirmed by own run 7/12 |
+| d | L3-4 TIMELINE says 2 dated entries 7/9 and 7/15 but body sections 1-4 undated | n/a | sections 1-4 are 7/9 body without header date |
+| d | L74 "median-line pace (pending validation)" | median-line-dip.md | study found short-horizon (1-3mo) edge only; not validated as deployment-pace rule |
+| b | L44-47 NVDA/MSFT cliff asymmetry | high-confidence-basket 8/24 (MSFT #5, NVDA #6 both in basket) | later basket holds both; cliff read not contradicted but both treated as long |
+
+### ioss-proposal  (group-small-C.md)
+
+| a | L52-57 wedge critique | L59-82 | wedge critique assumed stable no-policy baseline -- wrong; proposal more robust ("Conceded" L82) |
+| d | L16-17 "NOT a markets note" | filed in wiki/ | non-market project retained; no money mapping (NR) |
+
+### lantronix  (group-small-C.md)
+
+| b | L37-38 valuation recomputed ~52x | paste's ~48x | share count matched to earnings (rule 21b); paste used older count |
+| d | L66-69 forward items | today 10/17 | Q1 print not yet due (early Nov) |
+| b | vol-divergence L41-42 LTRX table iv30 80.9 "bull 1 / bear 1" | L61-63 | consistent |
+
+### trade-down-landing-pads  (group-small-C.md)
+
+| d | L55-58 tracking calendar (Aug earnings) | today 10/17 | August prints passed; outcomes not recorded here |
+| b | runner-anatomy L216-219 GPK/GLP-1 | L46-47 | cross-ref: GPK beverage multipack exposure to GLP-1 chain |
+| b | quiet-health-screen ULTA/lipstick effect | L25 | consistent |
+
+### detachment-bid  (group-small-C.md)
+
+| b | L54 "12.7% card delinquency" | consumption-vs-investment-crux L341 (marker) | EXTENDED 9/27: 12.7% is STOCK; use FLOW ~6.97% (NY Fed) |
+| d | L17 "Regime note pending: new-economy-regime" | new-economy-regime exists | stale pending note (regime note exists in CLAUDE.md spine) |
+| d | L65-85 dated seams 8/10-8/12 | today 10/17 | all passed; not closed here |
+
+### who-gets-paid-12m  (group-small-C.md)
+
+| d | L72-77 "book is 100% tactical", "own median line ABOVE" | later 16d/16e/16f marks + menu workflow | placement read is 7/12 snapshot; retire in favor of money-board/flag-board for current placement |
+| b | L53-56 "operators buying own wreckage (GPK/FRPT)" | runner-anatomy L199-205 | cross-ref consistent |
+| c | L77 NOT chasing memory/InP | high-confidence-basket 8/24 MU #2 | basket (8/24) includes MU as #2 after later evidence; 7/12 "NOT memory" read has been overtaken |
+
+### fear-duration  (group-small-C.md)
+
+| b | vol-divergence L104-105 cites "VIX episodes under 30 days never preceded a bear 0/14" | L60-62 | consistent |
+| d | L53 "Current state: NOT in an episode (last 2026-03-06)" | today 10/17 | state stale; later episodes (e.g., July-Aug 2026 rout) not recorded here |
+| b | ath-clustering rule 3 cross-ref | L79 | episode-end re-entry rule paired |
+
+### _origin-assessment  (group-small-C.md)
+
+| a | L58-59 "retail solo with ~$1k" | L58-63 CORRECTION 2026-07-17 | wrong: $1k is ring-fenced AI carve-out, not capital; real book ~$12k |
+| d | L5 "0 dated entries · empty" | body has dated correction 2026-07-17 (L58) | timeline generator cannot see undated section headings |
+| c | L64-65 "live book defensive/hedged (SPY puts + cash)" | later 16d-16f nightly trade-picks workflow | book composition has changed since 7/17; verify against portfolio-state |
+
+### defense-not-offense  (group-small-C.md)
+
+| b | L47-51 | where-the-edge-is VRP/200-day | behavioral half of the same system |
+| d | L5 "0 dated entries · empty" | body dated 7/18 in prose | timeline generator cannot see it |
+| d | L54-55 `[[../trading-system/constitution.md]]` | trading-system/ | path-style link, not wiki-link; may not resolve in Obsidian |
+
+### options-reference-natenberg  (group-small-C.md)
+
+| d | L5 TIMELINE "0 dated entries" | note undated in body | no dates in body; reference note |
+| b | persona L72-86 reading plan (Greeks/IV crush/selling premium) | L34-47 | persona note prioritises theta/vega/vol chapters; this note is the concept map |
+
+### live-flow-trackers  (group-small-C.md)
+
+| d | L55-63 NBIS/semis reads | 7/3 | stale (three and a half months); subsequent NBIS developments in ai-financing-fragility, thesis-radar |
+| d | L63 "Aug-28 QCEW" leading indicator | today 10/17 | date passed |
+
+### fico-vantagescore  (group-small-C.md)
+
+| d | L9 "FICO close ⬜" | later tape | close not recorded in note |
+| d | L6 scan "−15-18% premarket was true at its time" | L9 -26.6% | premarket vs 8:05am PT print differ; updated, not wrong |
+
+### el-nino  (group-small-C.md)
+
+| b | L25-26 DINO headwind | vol-divergence L29,L90-92 (DINO bull, shares with bracket) | consistent: mild winter is a headwind, war + Russia export ban dominate |
+| d | L5 TIMELINE "0 dated entries" and "refreshed 2026-09-29" | body dated 9/26 | undated header form |
+
+### fragility-engine  (group-small-C.md)
+
+| d | L15-16 describes the 2026-07-01 Colab script | CLAUDE.md "Daily: THE FRAGILITY LADDER" (`tools/fragility.py`, 24 credit/funding series, 7 stages, percentile-based, no absolute thresholds) | this note describes the OLD five-lobe engine (fixed weights/thresholds); the credit ladder is a different, later tool; NAMING OVERLAP "fragility engine" vs "fragility ladder" can mis-route inbounds |
+| d | L43-46 code "pasted in chat 2026-07-01" never versioned here | tools/ | check whether code exists under tools/ |
+| d | L5 "0 dated entries" | body undated | header form |
+
+### trading-maxims  (group-small-C.md)
+
+| d | L5 "0 dated entries" | body logged 2026-07-18 inline | header form |
+| b | L31-32 | defense-not-offense L31-32 | same quote, cross-ref |
 
 ### market-fragility  (market-fragility-A.md)
 

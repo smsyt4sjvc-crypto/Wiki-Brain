@@ -353,6 +353,7 @@ hardware** — which is Jake's heaviest sleeve. Implications:
   (Not writing a close until Jake confirms he closed — standing rule; this logs the mark + the rule.)
 
 ## 2026-07-15 ~9:30am PT — MU CLOSED: stopped out at $850 (~−13%, ~$520 on 4 shares)
+  ⟲ SUPERSEDED 2026-10-17 → portfolio-state.md:L1210 — Jake 10/17: MU was paper, never held since ~June — the 4-share $850 stop-out was a paper stop, not his fill
 - Jake set a stop-loss at $850 (just under the $854 air-pocket edge we flagged as "the line");
   MU dumped $885→$850 in ~10 min, filled, he's OUT. 4 shares, bought ~$980 → −$130/sh ≈ −13% ≈ −$520.
 - **The un-stoppable-MU dilemma played out LIVE:** a stop on a 9.3%-ATR name either WHIPSAWS (if MU
@@ -1205,3 +1206,14 @@ driver (capex) holds steady, we don't see the fishtail that eventually causes th
 - *(addendum 2026-10-15 ~2:00pm PDT — the close, Yahoo)* **BOOK AT THE CLOSE:** **GOOGL (ACTUAL, 19 sh @ 351.79)** 349.22 (+0.45% while QQQ −0.13%, SOXX −0.91%) ⇒ −$49; conditions: none met — (1) waits for tonight's ICE settle; rates condition holds (10Y 5.10 vs 5.30). **PARR (ACTUAL, 100 sh @ $85.00, uncovered)** 83.74 (−5.56%) ⇒ −$126 on the shares + −$156 realised on the call = −$282 (assignment would have been −$186); exits: none met (`oil-value-chain` 10/15 11:45am + 1:55pm). **SPY 745P (ACTUAL)**: SPY 771.79 (+0.28%), held. **CRWV (PAPER short)**: stopped 8:03am at 62.84 (−3.00%); CRWV closed 69.69 — the close-based prediction (10/21 close < 61.01) is 12.5% out of the money.
 - *(addendum 2026-10-15 ~5:05pm PDT — ICE 10/15 settle)* **GOOGL (ACTUAL) condition (1): NOT MET** — GOOGL 75.0 (−0.6), AMZN 75.7 (−0.8), MSFT 52.6 (−0.9) ⇒ GOOGL only +0.2/+0.3bp relative; count stays 0 of 2. Hold. → [[hyperscaler-credit]] 10/15 5:05pm.
 - *(addendum 2026-10-16 ~2:15pm PDT — the close, Yahoo; ICE 10/16 settle)* **BOOK AT THE CLOSE:** **GOOGL (ACTUAL, 19 sh @ 351.79)** 340.59 (−2.47%; SPY −1.11%, SOXX −4.14%) ⇒ **−$212.80**; conditions: (1) NOT MET (GOOGL CDS +0.9 vs AMZN +1.7 / MSFT +0.9; count 0 of 2) · (2) no funding failure on file · (3) not applicable (S&P down) · (4) none ⇒ **HOLD per Jake's conditions** (an AI-complex selloff where GOOGL fell less than the chips = the split working in his own definition). ⚠️ the MIM's lot-1 grading bracket (342.90) is below the close — grading only, not Jake's exit. **PARR (ACTUAL, 100 @ $85.00)** 83.42 (−0.38%) ⇒ −$158 on shares, −$314 with the −$156 call buyback; exits none met. **SPY 745P (ACTUAL, Dec-18):** SPY −1.11% helps; ⬜ option mark. **TSM (PAPER):** disconfirmer fired at the ICE settle ⇒ out at Monday's first print (close 412.61, −2.04%).
+
+## 2026-10-17 ~10:05am PDT — ⛔ MU WAS PAPER — JAKE: "MU paper. I never held it. Not since like June."
+  ⟲ SUPERSEDES memory-regime-question.md:L59 — Jake 10/17: MU was PAPER — never his position since ~June; 'MU 28% of the book' described the paper sleeve
+  ⟲ SUPERSEDES memory-regime-question.md:L728 — Jake 10/17: MU was PAPER — never his position since ~June; 'MU 28% of the book' described the paper sleeve
+  ⟲ SUPERSEDES memory-regime-question.md:L800 — Jake 10/17: MU was PAPER — never his position since ~June; 'MU 28% of the book' described the paper sleeve
+  ⟲ SUPERSEDES memory-regime-question.md:L1202 — Jake 10/17: MU was PAPER — never his position since ~June; 'MU 28% of the book' described the paper sleeve
+  ⟲ SUPERSEDES portfolio-state.md:L355 — Jake 10/17: MU was paper, never held since ~June — the 4-share $850 stop-out was a paper stop, not his fill
+- **DATA (Jake's direct disclosure, 10/17):** MU was a paper position. He has not held MU since about June.
+- **WHAT THIS CORRECTS:** (1) the "MU 28% of the book" lines in [[memory-regime-question]] (7/28 onward), written after the 7/9 correction (`:L62`) had already said the MU sleeve was planning-file paper; (2) the 7/15 entry "MU CLOSED: stopped out at $850, 4 shares, −$520" (`:L355`), which recorded a paper stop as his fill. **On his word it is reclassified PAPER and removed from his actual-trade record in [[_scorecard]]** (his actual closed trades become 1 W / 4 L, net ≈ −$716).
+- **CAUSE (state error, the 9/29 class):** conflating a paper book with the actual book. The 9/29 rule (`:L1155`, every "the book" line names WHICH book) came two months after these lines were written.
+- **WHY THIS MATTERS (plain English):** the vault spent July analysing MU as his biggest risk. It never was his money. Any read that cites "MU 28%" is about a paper sleeve.

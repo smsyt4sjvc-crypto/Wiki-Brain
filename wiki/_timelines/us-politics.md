@@ -1,6 +1,6 @@
 # ⏱ US-POLITICS — merged timeline (the gate)
 
-> **513 dated entries across 3 notes · 2026-03-13 → 2026-10-03 · refreshed 2026-10-17 09:49 PDT**
+> **514 dated entries across 3 notes · 2026-03-13 → 2026-10-17 · refreshed 2026-10-17 10:35 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -541,3 +541,4 @@
 - `2026-10-01` [new-economy-regime.md:L5032](../new-economy-regime.md) — 2026-10-01 ~3:45am PDT (Y'd ~3:32am) — 🛰️ **PROJECT MERIDIAN: MUSK, LUCKEY AND GINGRICH CO-LEAD A 120-DAY PENTAGON FUTURE-WARFARE STUDY; HEGSETH CUTS 
 - `2026-10-01` [war-board.md:L5253](../war/war-board.md) — 2026-10-01 ~12:40pm PDT (Y'd ~12:38pm) — 🚢 **THE US BUILDS A FORCE FOR AFTER THE MIDTERMS (THIRD CARRIER, ~10K TROOPS, ON STATION BY END-NOVEMBER) — A
 - `2026-10-03` [new-economy-regime.md:L5043](../new-economy-regime.md) — 2026-10-03 ~1:40pm PDT (filed under rule 22c) — 🏭 **"WHERE IS THE ONSHORING?" — THE $20 TRILLION IS PLEDGES; THE MEASURED FOREIGN MONEY IS $232B, AND 
+- `2026-10-17` [war-board.md:L5479](../war/war-board.md) — 2026-10-17 ~10:00am PDT — 💣 **IRAN'S GUARDS NOW CLAIM MINE STRIKES ROUTINELY; UKMTO LOGS A RECORD WEEK. JAKE'S 9/25 "POSSIBLY A MINING ATTEMPT" LEG RE

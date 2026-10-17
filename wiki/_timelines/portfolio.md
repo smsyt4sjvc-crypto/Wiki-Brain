@@ -1,6 +1,6 @@
 # ⏱ PORTFOLIO — merged timeline (the gate)
 
-> **64 dated entries across 3 notes · 2026-07-01 → 2026-10-12 · refreshed 2026-10-17 09:49 PDT**
+> **65 dated entries across 3 notes · 2026-07-01 → 2026-10-17 · refreshed 2026-10-17 10:35 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -26,38 +26,38 @@
 - `2026-07-13` [portfolio-state.md:L271](../portfolio-state.md) — 2026-07-13 ~12:20pm PT — FILL CONFIRMED: SPY Jul-15 $750 straddle (the event position)
 - `2026-07-15` [portfolio-state.md:L287](../portfolio-state.md) — 2026-07-15 ~7:55am PT — SPY Jul-15 750 straddle: OUTCOME (Jake's marks)
 - `2026-07-15` [portfolio-state.md:L301](../portfolio-state.md) — 2026-07-15 ~9:30am PT — MU CLOSED: stopped out at $850 (~−13%, ~$520 on 4 shares)
-- `2026-07-15` [portfolio-state.md:L340](../portfolio-state.md) — 2026-07-15 ~12:01pm PT — MU $901 (−8.31% day); Jake's chart read (lower highs / H&S)
-- `2026-07-15` [portfolio-state.md:L368](../portfolio-state.md) — 2026-07-15 ~12:05pm PT — addendum: 4h Bollinger = first change-of-character of the whole cycle
-- `2026-07-16` [portfolio-state.md:L390](../portfolio-state.md) — 2026-07-16 ~8:20am PT — MU re-entry read: TSMC capex hike (bull tell) vs Korea/SOX derisk (headwind)
-- `2026-07-16` [portfolio-state.md:L409](../portfolio-state.md) — 2026-07-16 eve — MU memory-unwind via Korea (NOT a re-entry); TSMC beat sold
+- `2026-07-15` [portfolio-state.md:L341](../portfolio-state.md) — 2026-07-15 ~12:01pm PT — MU $901 (−8.31% day); Jake's chart read (lower highs / H&S)
+- `2026-07-15` [portfolio-state.md:L369](../portfolio-state.md) — 2026-07-15 ~12:05pm PT — addendum: 4h Bollinger = first change-of-character of the whole cycle
+- `2026-07-16` [portfolio-state.md:L391](../portfolio-state.md) — 2026-07-16 ~8:20am PT — MU re-entry read: TSMC capex hike (bull tell) vs Korea/SOX derisk (headwind)
+- `2026-07-16` [portfolio-state.md:L410](../portfolio-state.md) — 2026-07-16 eve — MU memory-unwind via Korea (NOT a re-entry); TSMC beat sold
 - `2026-07-17` [portfolio-state.md:L21](../portfolio-state.md) — 2026-07-17 ~5:04pm PT — SIZING clarified (Jake): ~$12k book; the "$1k" is a ring-fenced AI carve-out
 - `2026-07-17` [portfolio-state.md:L30](../portfolio-state.md) — 2026-07-17 ~5:12pm PT — ACTUAL BOOK (Jake screenshot) — the real current holdings, $12,025 total
 - `2026-07-17` [portfolio-state.md:L39](../portfolio-state.md) — 2026-07-17 — ⚠️ CLOSED-TRADE POST-MORTEM: MNST Jul 87.5 puts −$446 (~87% loss)
-- `2026-07-17` [portfolio-state.md:L418](../portfolio-state.md) — ACCOUNT CONSTRAINTS (durable — "remember my limits", logged 2026-07-17 ~11am PT)
-- `2026-07-23` [portfolio-state.md:L434](../portfolio-state.md) — 2026-07-23 ~9:10am PT — bought 2 SPY @ $738.46 (dip nibble, VIX-18.7 DECIDE zone)
-- `2026-07-30` [portfolio-state.md:L446](../portfolio-state.md) — 2026-07-30 3:01pm PT — SPY Dec-745 PUT: the full P&L decomposition (Fidelity screen, 5:58pm ET)
-- `2026-07-30` [portfolio-state.md:L495](../portfolio-state.md) — 2026-07-30 3:09pm PT — ⛔ SUPERSEDES THE ENTRY ABOVE: Jake supplied spot (742). It was DELTA, not vol.
-- `2026-07-30` [portfolio-state.md:L531](../portfolio-state.md) — 2026-07-30 3:20pm PT — ✅ CLOSED: Jake "pretty sure it was ATM when I bought." System fully determined.
-- `2026-07-30` [portfolio-state.md:L574](../portfolio-state.md) — 2026-07-30 3:34pm PT — 📈 THE STOCK SCREEN IS A PRICE FEED. Real spots ⇒ the day was 73/27, not 98/2.
-- `2026-07-31` [portfolio-state.md:L618](../portfolio-state.md) — 2026-07-31 12:40pm PDT — ★★★ THE FULL BOOK, 45 POSITIONS. Structure ≠ intent.
-- `2026-07-31` [portfolio-state.md:L675](../portfolio-state.md) — 2026-07-31 ~1:10pm PDT — ⛔ JAKE'S RATIONALE ANSWERS MOST OF MY CRITIQUE. What survives is one tension he named himself.
-- `2026-07-31` [portfolio-state.md:L730](../portfolio-state.md) — 2026-07-31 ~1:25pm PDT — THE INDEX COMPLEX MARKED: SPY basis 736.96, QQQM basis 283.58
-- `2026-07-31` [portfolio-state.md:L768](../portfolio-state.md) — 2026-07-31 ~4:55pm PDT — 90-DAY PLAN, PRE-WORK: capital map, the theta hurdle, and the screen
+- `2026-07-17` [portfolio-state.md:L419](../portfolio-state.md) — ACCOUNT CONSTRAINTS (durable — "remember my limits", logged 2026-07-17 ~11am PT)
+- `2026-07-23` [portfolio-state.md:L435](../portfolio-state.md) — 2026-07-23 ~9:10am PT — bought 2 SPY @ $738.46 (dip nibble, VIX-18.7 DECIDE zone)
+- `2026-07-30` [portfolio-state.md:L447](../portfolio-state.md) — 2026-07-30 3:01pm PT — SPY Dec-745 PUT: the full P&L decomposition (Fidelity screen, 5:58pm ET)
+- `2026-07-30` [portfolio-state.md:L496](../portfolio-state.md) — 2026-07-30 3:09pm PT — ⛔ SUPERSEDES THE ENTRY ABOVE: Jake supplied spot (742). It was DELTA, not vol.
+- `2026-07-30` [portfolio-state.md:L532](../portfolio-state.md) — 2026-07-30 3:20pm PT — ✅ CLOSED: Jake "pretty sure it was ATM when I bought." System fully determined.
+- `2026-07-30` [portfolio-state.md:L575](../portfolio-state.md) — 2026-07-30 3:34pm PT — 📈 THE STOCK SCREEN IS A PRICE FEED. Real spots ⇒ the day was 73/27, not 98/2.
+- `2026-07-31` [portfolio-state.md:L619](../portfolio-state.md) — 2026-07-31 12:40pm PDT — ★★★ THE FULL BOOK, 45 POSITIONS. Structure ≠ intent.
+- `2026-07-31` [portfolio-state.md:L676](../portfolio-state.md) — 2026-07-31 ~1:10pm PDT — ⛔ JAKE'S RATIONALE ANSWERS MOST OF MY CRITIQUE. What survives is one tension he named himself.
+- `2026-07-31` [portfolio-state.md:L731](../portfolio-state.md) — 2026-07-31 ~1:25pm PDT — THE INDEX COMPLEX MARKED: SPY basis 736.96, QQQM basis 283.58
+- `2026-07-31` [portfolio-state.md:L769](../portfolio-state.md) — 2026-07-31 ~4:55pm PDT — 90-DAY PLAN, PRE-WORK: capital map, the theta hurdle, and the screen
 
 ## 2026-08
 
-- `2026-08-01` [portfolio-state.md:L809](../portfolio-state.md) — 2026-08-01 ~1:05pm PDT — ★★★ THE LOSS NUMBER LANDS: 35%, AND IT DELETES THE PLAN'S SHAPE
-- `2026-08-07` [portfolio-state.md:L850](../portfolio-state.md) — 2026-08-07 ~10:35am PDT — 🚩 THE NUCLEAR BASKET'S MISSING EXIT CONDITION IS NOW REGISTERED (closes the L725 open flag)
-- `2026-08-11` [portfolio-state.md:L859](../portfolio-state.md) — 2026-08-11 ~9:30am PDT — 📌 TWO BASKETS ENTER THE BOOK RECORD: full holdings, current vs target weights, and an instrument to chart each as a single in
-- `2026-08-11` [portfolio-state.md:L911](../portfolio-state.md) — 2026-08-11 ~9:35am PDT — ★★★★ THE BASKETS RUN: SAME RETURN, MORE RISK — the extra 15 non-semi names in Basket 2 did NOT diversify, they LEVERED
-- `2026-08-16` [portfolio-state.md:L969](../portfolio-state.md) — 2026-08-16 ~7:38pm PDT — ⚠️⚠️ JAKE FLIPS: BEARISH → **CAUTIOUSLY OPTIMISTIC BULLISH**, citing the 8/13 "doesn't matter until it does" conversation. **
-- `2026-08-16` [portfolio-state.md:L1029](../portfolio-state.md) — 2026-08-16 ~9:02pm PDT — ★★★★★ JAKE FORMALISES THE BULL STANCE AS A REGIME-FOLLOWING RULE, AND IT IS CONSISTENT WITH THIS VAULT'S OWN WARNING-vs-TRIGG
+- `2026-08-01` [portfolio-state.md:L810](../portfolio-state.md) — 2026-08-01 ~1:05pm PDT — ★★★ THE LOSS NUMBER LANDS: 35%, AND IT DELETES THE PLAN'S SHAPE
+- `2026-08-07` [portfolio-state.md:L851](../portfolio-state.md) — 2026-08-07 ~10:35am PDT — 🚩 THE NUCLEAR BASKET'S MISSING EXIT CONDITION IS NOW REGISTERED (closes the L725 open flag)
+- `2026-08-11` [portfolio-state.md:L860](../portfolio-state.md) — 2026-08-11 ~9:30am PDT — 📌 TWO BASKETS ENTER THE BOOK RECORD: full holdings, current vs target weights, and an instrument to chart each as a single in
+- `2026-08-11` [portfolio-state.md:L912](../portfolio-state.md) — 2026-08-11 ~9:35am PDT — ★★★★ THE BASKETS RUN: SAME RETURN, MORE RISK — the extra 15 non-semi names in Basket 2 did NOT diversify, they LEVERED
+- `2026-08-16` [portfolio-state.md:L970](../portfolio-state.md) — 2026-08-16 ~7:38pm PDT — ⚠️⚠️ JAKE FLIPS: BEARISH → **CAUTIOUSLY OPTIMISTIC BULLISH**, citing the 8/13 "doesn't matter until it does" conversation. **
+- `2026-08-16` [portfolio-state.md:L1030](../portfolio-state.md) — 2026-08-16 ~9:02pm PDT — ★★★★★ JAKE FORMALISES THE BULL STANCE AS A REGIME-FOLLOWING RULE, AND IT IS CONSISTENT WITH THIS VAULT'S OWN WARNING-vs-TRIGG
 
 ## 2026-09
 
-- `2026-09-01` [portfolio-state.md:L1081](../portfolio-state.md) — 2026-09-01 ~11:15am PDT — **REFINERY BASKET DISCLOSED (Jake): PBF · DINO (HF Sinclair) · PARR (Par Pacific) · PSX · MPC · VLO.** ⛔ Corrects two same-d
-- `2026-09-01` [portfolio-state.md:L1083](../portfolio-state.md) — Addendum 2026-09-01 ~11:20am PDT — ⭐⭐⭐⭐⭐ **THE REFINERY BASKET, WORKED UP (Jake's data pull, `raw/2026-09-01-refinery-basket-workup.md`; 6M return ari
-- `2026-09-09` [portfolio-state.md:L1088](../portfolio-state.md) — 2026-09-09 ~12:25pm PDT — **JAKE DISCLOSES BNO PUTS ("not good for my bno puts lol. Was cheap anyhow"). THE STRUCTURAL POINT HE MAY NOT HAVE PRICED IS
+- `2026-09-01` [portfolio-state.md:L1082](../portfolio-state.md) — 2026-09-01 ~11:15am PDT — **REFINERY BASKET DISCLOSED (Jake): PBF · DINO (HF Sinclair) · PARR (Par Pacific) · PSX · MPC · VLO.** ⛔ Corrects two same-d
+- `2026-09-01` [portfolio-state.md:L1084](../portfolio-state.md) — Addendum 2026-09-01 ~11:20am PDT — ⭐⭐⭐⭐⭐ **THE REFINERY BASKET, WORKED UP (Jake's data pull, `raw/2026-09-01-refinery-basket-workup.md`; 6M return ari
+- `2026-09-09` [portfolio-state.md:L1089](../portfolio-state.md) — 2026-09-09 ~12:25pm PDT — **JAKE DISCLOSES BNO PUTS ("not good for my bno puts lol. Was cheap anyhow"). THE STRUCTURAL POINT HE MAY NOT HAVE PRICED IS
 - `2026-09-23` [money-board.md:L26](../money-board.md) — ⛔ TWO DESIGN FINDINGS FROM THE FIRST RUN (2026-09-23) — built into the tool
 - `2026-09-23` [money-board.md:L33](../money-board.md) — ⭐ CUMULATIVE, NOT DAILY (Jake, 2026-09-23 3:48pm: "The rankings are accumulative not daily")
 - `2026-09-23` [money-board.md:L64](../money-board.md) — 2026-09-23 ~3:30pm PDT — 💰 FIRST RUN: THE RATE SHOCK OWNS THE BOARD — HOMEBUILDERS AND AIRLINES SHORT, ETN THE ONE LONG
@@ -73,16 +73,17 @@
 - `2026-09-29` [money-board.md:L167](../money-board.md) — 2026-09-29 ~8:10am PDT — 📒 BOOK SNAPSHOT (`tools/tape.py`, ~8:05am PT / 11:05am ET) + TODAY'S MARKS (open scan, verified)
 - `2026-09-29` [money-board.md:L186](../money-board.md) — 2026-09-29 ~8:45am PDT (Y'd ~9:25am "file everything") — 💼 **THE SUB-WEEK BUCKET, FIDELITY TIER-1 EXPRESSIONS ONLY (Jake: "a concentrated hold, option
 - `2026-09-29` [money-board.md:L201](../money-board.md) — 2026-09-29 close (Y'd ~9:05pm PDT) — 📒 PAPER BOOK + THE 9/29 BUCKET, DAY ONE. Jake's ACTUAL book: refinery basket (PBF/DINO/PARR/PSX/MPC/VLO, sizes ⬜)
-- `2026-09-29` [portfolio-state.md:L1096](../portfolio-state.md) — 2026-09-29 ~8:55am PDT — ⛔ **CORRECTED ACTUAL BOOK (Jake's direct disclosure): "I don't hold an Oracle short. I'm not even eligible for that trade. I'
+- `2026-09-29` [portfolio-state.md:L1097](../portfolio-state.md) — 2026-09-29 ~8:55am PDT — ⛔ **CORRECTED ACTUAL BOOK (Jake's direct disclosure): "I don't hold an Oracle short. I'm not even eligible for that trade. I'
 - `2026-09-30` [money-board.md:L214](../money-board.md) — 2026-09-30 close (Y'd ~6:35pm PDT) — 💰 **BUCKET DAY TWO: ALL FOUR LEGS GREEN AGAIN. THE LONG END MADE A 24-YEAR HIGH ON A "COOL" PRINT; REFINERS PAID 
 
 ## 2026-10
 
 - `2026-10-02` [money-board.md:L238](../money-board.md) — 2026-10-02 ~8:15am PDT — 🗒️ **PAPER TRACKER (NOT HELD — Jake 10/2: "I'm not, but I still want to track them").** Entries = the 9/29 close (proposal da
-- `2026-10-02` [portfolio-state.md:L1104](../portfolio-state.md) — 2026-10-02 ~8:15am PDT — 📌 **ACTUAL BOOK (Jake's direct disclosure, 10/2 ~8:05am): "I'm still mostly in my SPY put and PARR covered call." THE DHT/UAL
+- `2026-10-02` [portfolio-state.md:L1105](../portfolio-state.md) — 2026-10-02 ~8:15am PDT — 📌 **ACTUAL BOOK (Jake's direct disclosure, 10/2 ~8:05am): "I'm still mostly in my SPY put and PARR covered call." THE DHT/UAL
 - `2026-10-05` [money-board.md:L262](../money-board.md) — 2026-10-05 close (~1:45pm PDT, filed under rule 22c) — 💰 **DAY ONE OF THE MONDAY MENU, GRADED FOR THE RECORD (the menu file is never edited; Tuesday's
 - `2026-10-08` [flag-board.md:L227](../flag-board.md) — 📱 AGENT DEVICE — SPCX · TSLA (vs AAPL · GOOGL · QCOM) — Jake's hardware watch (set 2026-10-08 ~6:40pm)
 - `2026-10-09` [flag-board.md:L237](../flag-board.md) — 🔬 ASML — Q3 print Tue 10/13 ~10pm PT (07:00 Amsterdam 10/14) (set 2026-10-09 ~10:40am)
 - `2026-10-09` [flag-board.md:L250](../flag-board.md) — 🔬 TSM — Q3 print Wed 10/14 ~11pm PT (2am ET); the US reaction Thu 10/15 (set 2026-10-09 ~10:45am)
 - `2026-10-12` [flag-board.md:L260](../flag-board.md) — 🗓️ 10/21 AFTER-CLOSE CLUSTER — SAP · IBM · LRCX · TSLA · TXN (set 2026-10-12 ~10:15am)
 - `2026-10-12` [flag-board.md:L270](../flag-board.md) — 🚗 TSLA — Q3 print Wed 10/21 (Q&A 2:30pm PT); the trade is Thursday 10/22 at the open (set 2026-10-12 ~10:40am)
+- `2026-10-17` [portfolio-state.md:L1156](../portfolio-state.md) — 2026-10-17 ~10:05am PDT — ⛔ MU WAS PAPER — JAKE: "MU paper. I never held it. Not since like June."

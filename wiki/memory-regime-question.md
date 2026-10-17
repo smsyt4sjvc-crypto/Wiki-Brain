@@ -57,6 +57,7 @@
 <!-- TIMELINE:END -->
 
 **THE question for the book's largest position (MU 28%).** Jake's framing (7/28 ~10am PT): "We know memory has
+  ⟲ SUPERSEDED 2026-10-17 → portfolio-state.md:L1210 — Jake 10/17: MU was PAPER — never his position since ~June; 'MU 28% of the book' described the paper sleeve
 the demand. Chips have the demand. They're in a rat race to manufacture. Is this a dip, or the beginning of a
 revaluation because of LTCs, broadening of manufacturing? Cyclical cliff, or a dip in a longer regime? If
 datacenter chips have a 3-5 year lifespan, does that create revolving demand and new pricing with new
@@ -725,6 +726,7 @@ in the direction that HELPS the defendants.
   (L31-33): first hard evidence FOR near-term margin durability — the umbrella gained a member. The
   same fact feeds the POLITICAL channel (Capitol Hill probe + iPhone price transmission): courts need
   agreements; politicians need headlines. Both can run on +700%. *(Analysis; MU 28% of book —
+    ⟲ SUPERSEDED 2026-10-17 → portfolio-state.md:L1210 — Jake 10/17: MU was PAPER — never his position since ~June; 'MU 28% of the book' described the paper sleeve
   descriptive only.)*
 
 **Links:** [[compression-thesis]] · [[ai-infra-allocation-map]] · [[ai-financing-fragility]] ·
@@ -796,6 +798,7 @@ in the direction that HELPS the defendants.
 
 **Links:** [[compression-thesis]] · [[ai-capex-cycle]] · [[cepi]] · [[ai-infra-allocation-map]] ·
 [[portfolio-state]] (MU 28%)
+  ⟲ SUPERSEDED 2026-10-17 → portfolio-state.md:L1210 — Jake 10/17: MU was PAPER — never his position since ~June; 'MU 28% of the book' described the paper sleeve
 
 ### 2026-08-06 ~11:00am PDT — TREADMILL TEST #2 GRADED: **SOLD** — with the contamination caveat, and an intraday V that muddies the verdict
 
@@ -1197,6 +1200,7 @@ branch those two entries left open.**
   does the 2027 server cost step SHOW UP in token pricing, or does compression absorb it?**
 
 #### 📌 PORTFOLIO — MU IS 28% OF THE BOOK AND THIS IS THE READ
+  ⟲ SUPERSEDED 2026-10-17 → portfolio-state.md:L1210 — Jake 10/17: MU was PAPER — never his position since ~June; 'MU 28% of the book' described the paper sleeve
 - **✅ NVDA PUBLICLY BLAMING MEMORY COSTS IS THE STRONGEST THIRD-PARTY CONFIRMATION AVAILABLE THAT
   MEMORY PRICING IS HARD.** ⇒ **The buyer with the most leverage on earth just conceded it cannot
   absorb them.** ⇒ **Bullish MU on the pricing leg, and it directly contradicts the thrifting scare

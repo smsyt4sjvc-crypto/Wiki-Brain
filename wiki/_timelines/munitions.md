@@ -1,6 +1,6 @@
 # ⏱ MUNITIONS — merged timeline (the gate)
 
-> **303 dated entries across 2 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-17 09:49 PDT**
+> **304 dated entries across 2 notes · 2026-05-22 → 2026-10-17 · refreshed 2026-10-17 10:35 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -331,3 +331,4 @@
 - `2026-10-01` [war-board.md:L5253](../war/war-board.md) — 2026-10-01 ~12:40pm PDT (Y'd ~12:38pm) — 🚢 **THE US BUILDS A FORCE FOR AFTER THE MIDTERMS (THIRD CARRIER, ~10K TROOPS, ON STATION BY END-NOVEMBER) — A
 - `2026-10-12` [ai-capex-cycle.md:L3880](../ai-capex-cycle.md) — 2026-10-12 ~10:15am PDT — 🗓️ **THE 10/21 AFTER-CLOSE CLUSTER: SAP · IBM · LRCX · TSLA · TXN — WHAT EACH PRINT TESTS, AND WHAT THE PASTE LEFT OUT.** *(
 - `2026-10-12` [ai-capex-cycle.md:L3900](../ai-capex-cycle.md) — Addendum 2026-10-12 ~10:40am PDT — 🚗 **TESLA, PROPERLY (Jake: "What about Tesla. You just glossed it" — he was right; the 10:15am entry gave it two li
+- `2026-10-17` [war-board.md:L5479](../war/war-board.md) — 2026-10-17 ~10:00am PDT — 💣 **IRAN'S GUARDS NOW CLAIM MINE STRIKES ROUTINELY; UKMTO LOGS A RECORD WEEK. JAKE'S 9/25 "POSSIBLY A MINING ATTEMPT" LEG RE

@@ -1,6 +1,6 @@
 # ⏱ MATERIALS — merged timeline (the gate)
 
-> **264 dated entries across 3 notes · 2026-07-09 → 2026-10-13 · refreshed 2026-10-17 09:49 PDT**
+> **265 dated entries across 3 notes · 2026-07-09 → 2026-10-17 · refreshed 2026-10-17 10:35 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -286,3 +286,4 @@
 - `2026-10-02` [buildout-bottleneck-map.md:L2058](../buildout-bottleneck-map.md) — 2026-10-02 ~1:20pm PDT (Y'd ~1:18pm) — 🔩 **SEVEN IRREVERSIBLE POWER COMMITMENTS FROM THE DUAL-CLOCK v7 LEDGER, AND TWO DATES THE VAULT DID NOT HAVE: A
 - `2026-10-08` [buildout-bottleneck-map.md:L2085](../buildout-bottleneck-map.md) — 2026-10-08 ~7:40pm PDT (filed under rule 22c) — 🤠 **TEXAS: THE PAUSE NOW HAS A CALENDAR. NEW LARGE-LOAD RULES TOOK EFFECT TODAY ($100K STUDY FEE + $50
 - `2026-10-13` [buildout-bottleneck-map.md:L2122](../buildout-bottleneck-map.md) — 2026-10-13 ~9:15am PDT — 🔌 THE IDLE-GPU QUESTION, FOUR LAYERS: WHO HAS MEASURED WHAT (extends `:L2066`, the 9/22 idle-GPU test)
+- `2026-10-17` [war-board.md:L5479](../war/war-board.md) — 2026-10-17 ~10:00am PDT — 💣 **IRAN'S GUARDS NOW CLAIM MINE STRIKES ROUTINELY; UKMTO LOGS A RECORD WEEK. JAKE'S 9/25 "POSSIBLY A MINING ATTEMPT" LEG RE

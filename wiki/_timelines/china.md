@@ -1,6 +1,6 @@
 # ⏱ CHINA — merged timeline (the gate)
 
-> **738 dated entries across 5 notes · 2026-03-13 → 2026-10-13 · refreshed 2026-10-17 09:49 PDT**
+> **739 dated entries across 5 notes · 2026-03-13 → 2026-10-17 · refreshed 2026-10-17 10:35 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -766,3 +766,4 @@
 - `2026-10-12` [compression-thesis.md:L3631](../compression-thesis.md) — 2026-10-12 ~1:00pm PDT — 🍉 **META SHIPS ITS FIRST FRONTIER MODEL (MUSE WONDER) AT $4/$20 PER MILLION TOKENS, THE SAME LIST AS GEMINI 4 ARGON'S STANDAR
 - `2026-10-12` [compression-thesis.md:L3643](../compression-thesis.md) — 2026-10-12 ~7:45pm PDT — 🧩 **ONE ENGINEER, A CODING MODEL AND A FEW DAYS: ROUGH FREE CLONES OF ADOBE'S SUITE AND MICROSOFT OFFICE. THE MARKET SHRUGGED
 - `2026-10-13` [buildout-bottleneck-map.md:L2122](../buildout-bottleneck-map.md) — 2026-10-13 ~9:15am PDT — 🔌 THE IDLE-GPU QUESTION, FOUR LAYERS: WHO HAS MEASURED WHAT (extends `:L2066`, the 9/22 idle-GPU test)
+- `2026-10-17` [war-board.md:L5479](../war/war-board.md) — 2026-10-17 ~10:00am PDT — 💣 **IRAN'S GUARDS NOW CLAIM MINE STRIKES ROUTINELY; UKMTO LOGS A RECORD WEEK. JAKE'S 9/25 "POSSIBLY A MINING ATTEMPT" LEG RE

@@ -1,6 +1,6 @@
 # ⏱ THE TRANSMISSION CHAIN — merged running log, all five stages, oldest first
 
-> **1080 dated entries · 2026-02-10 → 2026-10-12 · refreshed 2026-10-17 09:49 PDT**
+> **1080 dated entries · 2026-02-10 → 2026-10-12 · refreshed 2026-10-17 10:35 PDT**
 >
 > **Treasuries → hyperscaler CDS/spreads → funding appetite → capex commitments → supplier
 > orders.** Each line is tagged with its STAGE. Read top-to-bottom: this is the whole chain
@@ -307,7 +307,7 @@
 - `2026-07-28` **[5]** metered-compute.md:L1183 — 2026-07-28 ~7:35pm PT — ★★★ THE PRIMARY SOURCE ARRIVES: "PACING THE FRONTIER," 1,178 SIGNATORIES — AND IT CORRECTS ME IN BOTH DIRECTIONS
 - `2026-07-28` **[5]** metered-compute.md:L1302 — 2026-07-28 ~7:50pm PT — ★★★ JAKE'S CATCH: THE GLARING OMISSION FROM THE SIGNATORY LIST IS NVIDIA — AND HUANG SPENT THE SAME DAY IN WASHINGTON ARGUING 
 - `2026-07-28` **[5]** memory-regime-question.md:L1 — The Memory/Chip Regime Question — dip, cliff, or revolving demand? (opened 2026-07-28)
-- `2026-07-28` **[5]** memory-regime-question.md:L83 — Provisional answer (2026-07-28, held loosely)
+- `2026-07-28` **[5]** memory-regime-question.md:L84 — Provisional answer (2026-07-28, held loosely)
 - `2026-07-28` **[5]** compression-thesis.md:L1122 — 2026-07-28 ~7:50am PT — THE FULL-INDEX SWEEP: 372 UP / 131 DOWN, MEDIAN +1.61% — this is not a down day; it is ONE TRADE being demolished inside a RAL
 - `2026-07-28` **[5]** compression-thesis.md:L1155 — 2026-07-28 ~8:15am PT — GLW −19%: BEAT-SOLD EXHIBIT #4, the most extreme yet — and a misfile warning (Jake's research)
 - `2026-07-28` **[5]** compression-thesis.md:L1179 — 2026-07-28 ~8:15am PT — MAG-7 RVOL: NVDA's flat is NEITHER pin nor battle — it is ABANDONMENT (the answer to Jake's question)
@@ -329,8 +329,8 @@
 - `2026-07-29` **[5]** metered-compute.md:L1362 — 2026-07-29 ~8:45am PT — ★★ TWO OF JAKE'S REGISTERED CALLS GRADE OUT AS HITS ON THE SAME TAPE
 - `2026-07-29` **[5]** metered-compute.md:L1401 — 2026-07-29 ~8:50am PT — ★★ AT&T: THE ENTERPRISE PROOF THAT OPEN WEIGHTS WIN ON ECONOMICS, NOT IDEOLOGY
 - `2026-07-29` **[5]** metered-compute.md:L1427 — 2026-07-29 ~9:05am PT — ⛔ ZUCKERBERG BREAKS MY BUYERS-vs-SELLERS FRAME. THE AXIS IS WHO MONETISES TOKENS.
-- `2026-07-29` **[5]** memory-regime-question.md:L90 — 2026-07-29 ~12:30pm PT — ★ PRE-REGISTERED CALL: DO SEMIS GAP UP THURSDAY ON MSFT/META CAPEX? (Jake's question)
-- `2026-07-29` **[5]** memory-regime-question.md:L132 — 2026-07-29 ~10:55pm PT — ★★★ MEMORY EQUITY PRICES ARE CURRENTLY NOT INFORMATION ABOUT THE MEMORY CYCLE (routed from acute-scanner MEMORY hits)
+- `2026-07-29` **[5]** memory-regime-question.md:L91 — 2026-07-29 ~12:30pm PT — ★ PRE-REGISTERED CALL: DO SEMIS GAP UP THURSDAY ON MSFT/META CAPEX? (Jake's question)
+- `2026-07-29` **[5]** memory-regime-question.md:L133 — 2026-07-29 ~10:55pm PT — ★★★ MEMORY EQUITY PRICES ARE CURRENTLY NOT INFORMATION ABOUT THE MEMORY CYCLE (routed from acute-scanner MEMORY hits)
 - `2026-07-29` **[5]** compression-thesis.md:L1300 — DATA (Jake's Tuesday-evening collector, 448 items; archived `raw/archive/2026-07-29-0209utc-vault-headlines.csv`)
 - `2026-07-29` **[5]** compression-thesis.md:L1353 — 2026-07-29 ~8:46am PT — ★★★ "MICROSOFT'S MYTHOS KILLER PROVES THE MODEL IS NOT THE PRODUCT" — and the benchmark is the one the escaped agent looted
 - `2026-07-29` **[5]** compression-thesis.md:L1403 — 2026-07-29 ~9:08am PT — INTC Q2 FULL NUMBERS FILED — but the vault's 7/24 read is SHARPER than this summary and stands
@@ -363,10 +363,10 @@
 - `2026-07-30` **[3]** ai-financing-fragility.md:L2498 — 2026-07-30 ~3:22pm PT — ★★★ THE LOOP CLOSES INSIDE A HYPERSCALER'S NET INCOME: AMZN's $53B Anthropic mark
 - `2026-07-30` **[4]** ai-capex-cycle.md:L1790 — 2026-07-30 ~10:40am ET — META AT A 52-WEEK LOW: the bear case is this vault's own line, and the bull case has a TEMPLATE AT THIS EXACT COMPANY
 - `2026-07-30` **[5]** metered-compute.md:L1460 — 2026-07-30 ~11:05am ET — ★★★ OPENAI CUTS GPT-5.6 PRICES 80% ON THE CHEAP TIER, 20% MID, ZERO ON FLAGSHIP — the STRUCTURE is the finding, not the direc
-- `2026-07-30` **[5]** memory-regime-question.md:L161 — 2026-07-30 ~12:44am PT / 15:44 KST — ★★★ THE KOREA DISCRIMINATOR RAN AND THE SHORTAGE-BULL HEADLINE FADED — plus the CXMT fork gets a resolver, and it
-- `2026-07-30` **[5]** memory-regime-question.md:L204 — 2026-07-30 ~12:19am PT — ★★★ REUTERS CONFIRMS THE SHORTAGE CALL AND ADDS THE PART THAT MATTERS: SAMSUNG IS SIGNING LONG-TERM SUPPLY DEALS THROUGH 2028
-- `2026-07-30` **[5]** memory-regime-question.md:L236 — 2026-07-30 ~6:30am PT — ★★ THE DECOUPLING DISCRIMINATOR FIRED — semis UP, memory DOWN, and Samsung's 250-FOLD profit rise got SOLD
-- `2026-07-30` **[5]** memory-regime-question.md:L262 — 2026-07-30 ~3:22pm PT — APPLE NAMES MEMORY COSTS AS A MARGIN HEADWIND (the crowd-out loop, largest possible P&L)
+- `2026-07-30` **[5]** memory-regime-question.md:L162 — 2026-07-30 ~12:44am PT / 15:44 KST — ★★★ THE KOREA DISCRIMINATOR RAN AND THE SHORTAGE-BULL HEADLINE FADED — plus the CXMT fork gets a resolver, and it
+- `2026-07-30` **[5]** memory-regime-question.md:L205 — 2026-07-30 ~12:19am PT — ★★★ REUTERS CONFIRMS THE SHORTAGE CALL AND ADDS THE PART THAT MATTERS: SAMSUNG IS SIGNING LONG-TERM SUPPLY DEALS THROUGH 2028
+- `2026-07-30` **[5]** memory-regime-question.md:L237 — 2026-07-30 ~6:30am PT — ★★ THE DECOUPLING DISCRIMINATOR FIRED — semis UP, memory DOWN, and Samsung's 250-FOLD profit rise got SOLD
+- `2026-07-30` **[5]** memory-regime-question.md:L263 — 2026-07-30 ~3:22pm PT — APPLE NAMES MEMORY COSTS AS A MARGIN HEADWIND (the crowd-out loop, largest possible P&L)
 - `2026-07-30` **[5]** compression-thesis.md:L1488 — 2026-07-30 ~3:22pm PT — ★★★ THE RAZOR REFINES AGAIN: it is ACCELERATION, not capex direction
 - `2026-07-31` **[1]** new-economy-regime.md:L2071 — 2026-07-31 ~7:12pm PDT — ★★ A FOURTH FED VOICE FOR HIKES: MUSALEM (St. Louis) TO THE FT
 - `2026-07-31` **[1]** new-economy-regime.md:L2132 — 2026-07-31 ~10:13pm PDT — M2 CHART (Jake) × THE ABSENT-FED QUESTION: ⛔ HE WAS RIGHT AND I ANSWERED THE WEAKER VERSION
@@ -382,8 +382,8 @@
 - `2026-07-31` **[4]** ai-capex-cycle.md:L1978 — DATA (as-reported — web search 2026-07-31 ~8:35pm PT)
 - `2026-07-31` **[5]** metered-compute.md:L1503 — 2026-07-31 ~11:15am PDT — THE PACING LETTER × TODAY'S ANTHROPIC THREAD: the frame was here; today supplies the first INSTANCE
 - `2026-07-31` **[5]** metered-compute.md:L1549 — DATA (as-reported — output price per 1M tokens, as of 2026-07-31)
-- `2026-07-31` **[5]** memory-regime-question.md:L278 — 2026-07-31 ~8:15am PT — 🚩 F3 GETS EVIDENCE ON BOTH SIDES IN ONE WINDOW — and they resolve on DIFFERENT CLOCKS
-- `2026-07-31` **[5]** memory-regime-question.md:L316 — 2026-07-31 ~8:40am PT — ★★★ PRICING ≠ AVAILABILITY: the detail that INVERTS the bull read (Jake's ChatGPT verification pass)
+- `2026-07-31` **[5]** memory-regime-question.md:L279 — 2026-07-31 ~8:15am PT — 🚩 F3 GETS EVIDENCE ON BOTH SIDES IN ONE WINDOW — and they resolve on DIFFERENT CLOCKS
+- `2026-07-31` **[5]** memory-regime-question.md:L317 — 2026-07-31 ~8:40am PT — ★★★ PRICING ≠ AVAILABILITY: the detail that INVERTS the bull read (Jake's ChatGPT verification pass)
 - `2026-07-31` **[5]** compression-thesis.md:L1527 — 2026-07-31 ~12:05pm PDT — NVDA × KAWASAKI SHIPYARD ROBOTICS: the Japan sovereign buy, two weeks on, with a NAMED customer
 - `2026-07-31` **[5]** compression-thesis.md:L1571 — 2026-07-31 ~1:40pm PDT — ★★★ JAKE'S "GENUINELY DIFFERENT BEASTS" THESIS, TESTED — and the vehicle answers a different question
 
@@ -394,8 +394,8 @@
 - `2026-08-01` **[1]** new-economy-regime.md:L2242 — ★★★ KILL SWITCH — REPLACES BOTH FAILED ONES (registered 2026-08-01)
 - `2026-08-01` **[3]** ai-financing-fragility.md:L2796 — 2026-08-01 ~1:20pm PDT — ⛔ THE YEN INTERVENTION: Jake's 7/19 TELL MOVED — and it may be what sold the long end
 - `2026-08-01` **[5]** metered-compute.md:L1542 — 2026-08-01 ~9:28am PDT — ★★★ THE 7/30 TEST RESOLVED IN 24 HOURS AND IT SPLIT: Google matched, Anthropic did not
-- `2026-08-01` **[5]** memory-regime-question.md:L373 — 2026-08-01 ~04:56 UTC (7/31 ~9:56pm PDT) — ★★★ A 33.9-POINT MEMORY SPLIT IN ONE SESSION, AND THE SCANNER SAID NOTHING
-- `2026-08-01` **[5]** memory-regime-question.md:L416 — 2026-08-01 ~10:10pm PDT — GS VOL DESK: "SEMIS IS A CLEAN PLACE TO RELOAD" — the index says clean, the constituents say the opposite
+- `2026-08-01` **[5]** memory-regime-question.md:L374 — 2026-08-01 ~04:56 UTC (7/31 ~9:56pm PDT) — ★★★ A 33.9-POINT MEMORY SPLIT IN ONE SESSION, AND THE SCANNER SAID NOTHING
+- `2026-08-01` **[5]** memory-regime-question.md:L417 — 2026-08-01 ~10:10pm PDT — GS VOL DESK: "SEMIS IS A CLEAN PLACE TO RELOAD" — the index says clean, the constituents say the opposite
 - `2026-08-02` **[1]** new-economy-regime.md:L2258 — 2026-08-02 ~5:20pm PDT — ★★★ WHY BESSENT AND NOT THE FED: the yen defence is LONG-END POLICY
 - `2026-08-02` **[3]** ai-financing-fragility.md:L2858 — 2026-08-02 ~3:20pm PDT — ★★★ BIG TECH AS A DURATION-SUPPLY SHOCK: a channel this vault never had
 - `2026-08-03` **[1]** new-economy-regime.md:L2314 — 2026-08-03 ~Asia open (filed 8/2 ~8:25pm PDT) — ⛔ THE BOJ ALREADY HIKED: my chain was backwards, and the REPO FACILITY is the real news
@@ -403,12 +403,12 @@
 - `2026-08-03` **[3]** ai-financing-fragility.md:L2923 — 2026-08-03 ~9:15am PDT — THE AI FRAMEWORK ARRIVES **VOLUNTARY AND UNPUBLISHED**
 - `2026-08-03` **[4]** ai-capex-cycle.md:L2015 — 2026-08-03 ~8:35am PDT — ★★★ THE ISM RESPONDENT COMMENTS: FIRST **SUPPLY-SIDE** CONFIRMATION OF THE BUILDOUT — and the same block carries its kill mec
 - `2026-08-03` **[4]** ai-capex-cycle.md:L2127 — Addendum 2026-08-03 ~9:15am PDT — ⟲ THE 7/31 "EXCLUSIONS" FINDING WAS TOO STRONG. Two channels, and the labs hold the narrower one.
-- `2026-08-03` **[5]** memory-regime-question.md:L463 — 2026-08-03 ~8:35am PDT — ★★★ BARE BOARDS +15-45%: the cost-push reaches a NON-MEMORY component, and a participant calls it unsustainable
+- `2026-08-03` **[5]** memory-regime-question.md:L464 — 2026-08-03 ~8:35am PDT — ★★★ BARE BOARDS +15-45%: the cost-push reaches a NON-MEMORY component, and a participant calls it unsustainable
 - `2026-08-04` **[3]** ai-financing-fragility.md:L3049 — 2026-08-04 ~12:10pm PDT — ★★★★ THE FIELD REPORT: SA's filed book was 62% PUTS — the "levered AI long" frame dies on the 13F, and the vault's wrapper-c
 - `2026-08-04` **[4]** ai-capex-cycle.md:L2154 — 2026-08-04 ~1:20pm PDT — ★★★★ SPACEX Q2: AI CAPEX $15.8B/QTR AGAINST $2.6B OF AI REVENUE — the cleanest CEPI specimen the vault has, and it out-strain
 - `2026-08-04` **[4]** ai-capex-cycle.md:L2225 — Addendum 2026-08-04 ~2:06pm PDT — STARMIND AI-1: one rack in orbit, announced into the earnings cycle
 - `2026-08-04` **[5]** metered-compute.md:L1617 — 2026-08-04 ~6:15pm PDT — ★★★★ THE TOKEN COST CHART + JEVONS: the registered −80%/5x test IS the elasticity-1 Jevons threshold, and the index is its sc
-- `2026-08-04` **[5]** memory-regime-question.md:L510 — 2026-08-04 ~1:55pm PDT — 🚩 F3: "WORLD'S LARGEST PC MAKERS START **USING** CXMT" — a full rung above "Apple tests," and the walled-out branch is nearly
+- `2026-08-04` **[5]** memory-regime-question.md:L511 — 2026-08-04 ~1:55pm PDT — 🚩 F3: "WORLD'S LARGEST PC MAKERS START **USING** CXMT" — a full rung above "Apple tests," and the walled-out branch is nearly
 - `2026-08-05` **[1]** new-economy-regime.md:L2434 — 2026-08-05 ~12:55am PDT — ★★★ YIELD-EQUITY CORRELATION −0.48, REPORTED MOST NEGATIVE SINCE 1999 — the fiscal-dominance signature in cross-asset form, 
 - `2026-08-05` **[1]** new-economy-regime.md:L2482 — 📌 2026-08-05 ~10:50am PDT — TRANSMISSION LEDGER: mortgage applications fall as rates spike (Axios, headline only)
 - `2026-08-05` **[1]** new-economy-regime.md:L2489 — 2026-08-05 ~12:55pm PDT — JUNE JOLTS, THE COMPLETE RECORD: the breakdown names WHO stopped posting — and the paste's own ratio line contradicts its ow
@@ -419,11 +419,11 @@
 - `2026-08-05` **[4]** ai-capex-cycle.md:L2261 — Addendum 2026-08-05 ~12:45pm PDT — ⛔ SPACEX IS A PUBLIC COMPANY, AND THE 8/4 TABLE WAS ITS FIRST EARNINGS REPORT — the tell was the ticker in the vaul
 - `2026-08-05` **[5]** metered-compute.md:L1697 — 2026-08-05 ~9:30am PDT — ANTHROPIC IN-HOUSE CHIPS (ANNOUNCED, pre-design) — the winner is the PARTNER, and the marginal fact is the LABS joining a ten
 - `2026-08-05` **[5]** metered-compute.md:L1741 — Addendum 2026-08-05 ~2:30pm PDT — TOKEN INDEX UPDATE: 1.2723, THROUGH THE FEB FLOOR — and the fork's stakes are higher than yesterday's entry stated
-- `2026-08-05` **[5]** memory-regime-question.md:L532 — 2026-08-05 ~2:40pm PDT — SNDK/WDC JUNE-QUARTER PRINTS: the boom prints on; the guide midpoint lands under the street — treadmill test #2 in three days
-- `2026-08-05` **[5]** memory-regime-question.md:L572 — 2026-08-05 ~9:00pm PDT — JAKE'S TIMING THESIS GRADED: "China has extraordinary timing" — the symmetric test says HARVEST, not war-room; and the harves
-- `2026-08-05` **[5]** memory-regime-question.md:L620 — 2026-08-05 ~9:05pm PDT — ★★★ CXMT REFUSES APPLE'S PRICE CUT — the entrant joins the umbrella instead of breaking it; and it is DEFENSE EVIDENCE in the
-- `2026-08-05` **[5]** memory-regime-question.md:L626 — DATA (as-reported — Wccftech relaying Korea's DIGITAL DAILY, anonymous sources; ⚠️ SINGLE ORIGIN, Korean-press frame flatters the home team twice) → `
-- `2026-08-05` **[5]** memory-regime-question.md:L680 — Addendum 2026-08-05 ~9:45pm PDT — JAKE SHARPENS: APPLE AS PLAINTIFF ("if Apple can't get pricing... they may be inclined to join the lawsuit seeking d
+- `2026-08-05` **[5]** memory-regime-question.md:L533 — 2026-08-05 ~2:40pm PDT — SNDK/WDC JUNE-QUARTER PRINTS: the boom prints on; the guide midpoint lands under the street — treadmill test #2 in three days
+- `2026-08-05` **[5]** memory-regime-question.md:L573 — 2026-08-05 ~9:00pm PDT — JAKE'S TIMING THESIS GRADED: "China has extraordinary timing" — the symmetric test says HARVEST, not war-room; and the harves
+- `2026-08-05` **[5]** memory-regime-question.md:L621 — 2026-08-05 ~9:05pm PDT — ★★★ CXMT REFUSES APPLE'S PRICE CUT — the entrant joins the umbrella instead of breaking it; and it is DEFENSE EVIDENCE in the
+- `2026-08-05` **[5]** memory-regime-question.md:L627 — DATA (as-reported — Wccftech relaying Korea's DIGITAL DAILY, anonymous sources; ⚠️ SINGLE ORIGIN, Korean-press frame flatters the home team twice) → `
+- `2026-08-05` **[5]** memory-regime-question.md:L682 — Addendum 2026-08-05 ~9:45pm PDT — JAKE SHARPENS: APPLE AS PLAINTIFF ("if Apple can't get pricing... they may be inclined to join the lawsuit seeking d
 - `2026-08-06` **[1]** new-economy-regime.md:L2532 — 2026-08-06 ~9:00am PDT — ★★★ WARSH SAYS THE QUIET PART: "MARKETS HAVE MADE DECISIONS BECAUSE WE STEPPED BACK" — the term-premium regime confirmed from
 - `2026-08-06` **[1]** new-economy-regime.md:L2577 — 2026-08-06 ~8:55am PDT — ★★★ ONE FLOW, BOTH ENDS, ONE MORNING: the 2nd-LARGEST YEN OPERATION IN HISTORY ($85bn, GS) bought less than a week — while Al
 - `2026-08-06` **[1]** new-economy-regime.md:L2614 — 2026-08-06 ~12:20pm PDT — HANDOFF: **TIC SHOWS JAPAN SOLD $96B OF TREASURIES FEB→MAY** — the FIMA-pledge thesis takes its first data hit; breakevens a
@@ -438,9 +438,9 @@
 - `2026-08-06` **[5]** metered-compute.md:L1783 — 2026-08-06 ~2:30pm PDT — ★★★★ THE PRICE WAR'S INSTIGATOR RETREATS: DeepSeek hikes API rates "SIGNIFICANTLY" (2nd hike in a month) because **"demand ha
 - `2026-08-06` **[5]** metered-compute.md:L1835 — Addendum 2026-08-06 ~6:15pm PDT — TOKEN INDEX **1.1997, 2026 LOWS** — the DeepSeek test's baseline is set, and hike #1's INVISIBILITY refines the test
 - `2026-08-06` **[5]** metered-compute.md:L1853 — 2026-08-06 ~6:15pm PDT — THE MVNO STAGE ARRIVES: cheaperinference.com — a reseller of "EXCESS INFERENCE CAPACITY" at up to 30% off the frontier tier (
-- `2026-08-06` **[5]** memory-regime-question.md:L706 — 2026-08-06 ~9:20am PDT — ★★★ NVDA WEIGHS LESS HBM ON RUBIN ULTRA (The Information): the demand side starts ENGINEERING AROUND the price — the thriftin
-- `2026-08-06` **[5]** memory-regime-question.md:L743 — 2026-08-06 ~11:00am PDT — TREADMILL TEST #2 GRADED: **SOLD** — with the contamination caveat, and an intraday V that muddies the verdict
-- `2026-08-06` **[5]** memory-regime-question.md:L758 — 2026-08-06 ~12:15pm PDT — HANDOFF: F9 CLOSES (hynix miss = 5.4-5.6%, HBM4 TIMING) — and the ★★★ finding: **the suppliers are the boom's cash accumulat
+- `2026-08-06` **[5]** memory-regime-question.md:L708 — 2026-08-06 ~9:20am PDT — ★★★ NVDA WEIGHS LESS HBM ON RUBIN ULTRA (The Information): the demand side starts ENGINEERING AROUND the price — the thriftin
+- `2026-08-06` **[5]** memory-regime-question.md:L746 — 2026-08-06 ~11:00am PDT — TREADMILL TEST #2 GRADED: **SOLD** — with the contamination caveat, and an intraday V that muddies the verdict
+- `2026-08-06` **[5]** memory-regime-question.md:L761 — 2026-08-06 ~12:15pm PDT — HANDOFF: F9 CLOSES (hynix miss = 5.4-5.6%, HBM4 TIMING) — and the ★★★ finding: **the suppliers are the boom's cash accumulat
 - `2026-08-06` **[5]** compression-thesis.md:L1621 — 2026-08-06 ~3:20pm PDT — JAKE'S SEGMENTATION THESIS, NAMED: the frontier premium needs a PROPRIETARY PRODUCT INSIDE THE LLM — "something only they CAN
 - `2026-08-07` **[1]** rates-board.md:L34 — [2026-08-07] **NY Fed ACM 10Y term premium 0.78%, +13bp on the week.** → `:3379`
 - `2026-08-07` **[1]** new-economy-regime.md:L2673 — 2026-08-07 ~7:45am PDT — THE STAGFLATION SQUEEZE PRINTS: payrolls −23k into ISM prices >70 — pointer
@@ -460,7 +460,7 @@
 - `2026-08-08` **[5]** metered-compute.md:L1960 — Addendum 2026-08-08 ~9:10am PDT — THE BOARD'S AS-OF DATE (Jake: *"Last edited 8:54 AM • 8/7/26"*) — it closes half of test #1 and lands the snapshot i
 - `2026-08-09` **[1]** new-economy-regime.md:L3599 — DATA (REPORTED — the piece's figures, dated 2026-08-09 unless noted)
 - `2026-08-09` **[3]** ai-financing-fragility.md:L3577 — Addendum 2026-08-09 ~12:35pm PDT — SWEEP #1 ON THE CDS TAPE: the origin is NAMED, the fresh print does NOT exist yet — and the first post-issuance mar
-- `2026-08-09` **[5]** memory-regime-question.md:L780 — 2026-08-09 ~1:50pm PDT — RADAR CYCLE 1 FEEDS THE F3 FORK FROM BOTH SIDES (two isolated branches argued it without seeing each other)
+- `2026-08-09` **[5]** memory-regime-question.md:L783 — 2026-08-09 ~1:50pm PDT — RADAR CYCLE 1 FEEDS THE F3 FORK FROM BOTH SIDES (two isolated branches argued it without seeing each other)
 - `2026-08-09` **[5]** compression-thesis.md:L1717 — 2026-08-09 ~8:15am PDT — CLAUDE CORPS: $150M to seed 1,000 operators into the WILLING segment (Jake: "I'm in lol" — verified, with two catches)
 - `2026-08-10` **[3]** ai-financing-fragility.md:L3596 — 2026-08-10 ~12:25am PDT — THE CURRENT SOURCE ARRIVES: WSJ's Q2 BDC-filings analysis — strain CONFIRMED in filed numbers, gating still UNCONFIRMED — an
 - `2026-08-10` **[3]** ai-financing-fragility.md:L3663 — 2026-08-10 ~8:35am PDT — 13F FRIDAY (8/14): PRE-REGISTERING WHAT THE BATCH CAN AND CANNOT SHOW ABOUT THE TRS QUESTION
@@ -479,8 +479,8 @@
 - `2026-08-10` **[3]** ai-financing-fragility.md:L4185 — 2026-08-10 ~4:10pm PDT — THE PRIMARY DOCUMENT LANDS (Huang's X post): THE WRAP GOES VISIBLE AT ≤25% RVG — Jake's test resolves BOTH WAYS, the sponsor 
 - `2026-08-10` **[3]** balance-sheet-board.md:L15 — DATA — THE LEDGER (EDGAR XBRL pull 2026-08-10, cell v1.2; $B; each name on ITS OWN fiscal grid)
 - `2026-08-10` **[5]** metered-compute.md:L1995 — 2026-08-10 ~3:20pm PDT — SDLLMTK GETS ITS CHART AND ITS METHODOLOGY: the effective price of intelligence −43% from the May peak — and the WEIGHTING is
-- `2026-08-10` **[5]** memory-regime-question.md:L802 — 2026-08-10 ~8:15am PDT — GS via ZH TWEET: MEMORY ≈ 62% OF THE VERA RUBIN BOM — and the BIGGER cost share is CPU-side SOCAMM2, not HBM4
-- `2026-08-10` **[5]** memory-regime-question.md:L849 — 2026-08-10 ~10:25am PDT — SKH −15% ON THE WEEK: the thrifting signal PRICED, Jake's capex template FIRED, and three dated catalysts land by Sep-end
+- `2026-08-10` **[5]** memory-regime-question.md:L805 — 2026-08-10 ~8:15am PDT — GS via ZH TWEET: MEMORY ≈ 62% OF THE VERA RUBIN BOM — and the BIGGER cost share is CPU-side SOCAMM2, not HBM4
+- `2026-08-10` **[5]** memory-regime-question.md:L852 — 2026-08-10 ~10:25am PDT — SKH −15% ON THE WEEK: the thrifting signal PRICED, Jake's capex template FIRED, and three dated catalysts land by Sep-end
 - `2026-08-10` **[5]** compression-thesis.md:L1751 — 2026-08-10 ~12:20am PDT — ASTRA: the containment arc's beat four — the first formal "cannot rule out CRITICAL" declaration, with a general-availabilit
 - `2026-08-10` **[5]** compression-thesis.md:L1827 — 2026-08-10 ~9:55am PDT — THE DEMAND SIDE SPEAKS IN FIDUCIARY LANGUAGE: PINS CEO — closed-model spend is "wasting shareholders' money"
 - `2026-08-10` **[5]** compression-thesis.md:L1866 — 2026-08-10 ~2:00pm PDT — JAKE'S ADDITION TO THE JOBS LEDGER: the buildout as a TRADES ENTRY POINT "for millions of young men watching their parents' d
@@ -531,7 +531,7 @@
 - `2026-08-12` **[5]** metered-compute.md:L2197 — 2026-08-12 ~12:15am PDT — ★★★★★ THE CRWV CALL DETAIL LANDS: it RESOLVES the debt-cost contradiction I filed 90 minutes ago, CONFIRMS the power thesis 
 - `2026-08-12` **[5]** metered-compute.md:L2266 — 2026-08-12 ~10:45am PDT — 📌 NBIS Q2 GRADED (leg 1 of 2): THE MARGIN CONDITIONAL CONFIRMS — and the EBITDA beat is 40% against a revenue beat of 2%
 - `2026-08-12` **[5]** metered-compute.md:L2313 — 2026-08-12 ~9:50pm PDT — 🔗 NEW SILICON DATA TICKER IN A FAMILY THIS NOTE ALREADY TRACKS: `SDA100RT` = A100 RENTAL PRICE INDEX, **$1.29/GPU-hr**
-- `2026-08-12` **[5]** memory-regime-question.md:L917 — 2026-08-12 ~10:40pm PDT — ★★★★★★ THE THREAD-LINK JAKE'S ONE-LINER NAMES: **THIS NOTE AND THE COLLATERAL NOTE HAVE BEEN THE SAME THREAD ALL ALONG, AND 
+- `2026-08-12` **[5]** memory-regime-question.md:L920 — 2026-08-12 ~10:40pm PDT — ★★★★★★ THE THREAD-LINK JAKE'S ONE-LINER NAMES: **THIS NOTE AND THE COLLATERAL NOTE HAVE BEEN THE SAME THREAD ALL ALONG, AND 
 - `2026-08-12` **[5]** compression-thesis.md:L2071 — 2026-08-12 ~9:00pm PDT — 🎯 JAKE'S THESIS GRADED: "GOOGLE COMES OUT A CLEAR WINNER; TPU IS THE HARD-TO-CATCH ADVANTAGE"
 - `2026-08-13` **[1]** new-economy-regime.md:L3104 — 2026-08-13 ~6:45am PDT — ★★★★★★ THE PPI PRINTS **+0.4% CORE — EXACTLY THE VAULT'S PRE-REGISTERED NUMBER, DOUBLE CONSENSUS.** And the headline 0.0% is 
 - `2026-08-13` **[1]** new-economy-regime.md:L3168 — 2026-08-13 ~8:10am PDT — ⛔⛔⛔ **I GOT THE PPI BACKWARDS AN HOUR AGO. IT PRINTED COOLER THAN EXPECTED ON EVERY MEASURE THE MARKET TRADES** — I compared 
@@ -585,7 +585,7 @@
 - `2026-08-18` **[3]** ai-financing-fragility.md:L6510 — [2026-08-18] **NVIDIA is exclusive AI-compute infrastructure provider for SB Energy's Ohio project:
 - `2026-08-18` **[3]** ai-financing-fragility.md:L6513 — [2026-08-18] **NVIDIA's announcement emphasises the infrastructure relationship and a $1.5B EQUITY
 - `2026-08-18` **[3]** ai-financing-fragility.md:L6515 — [2026-08-18] **The "$105B" is graded QUALIFIED: *"media reporting discussed financing or guarantees
-- `2026-08-18` **[5]** memory-regime-question.md:L954 — 2026-08-18 ~4:45pm PDT — ★★★★★ **JAKE ASKS THE RIGHT QUESTION AND THE VOLUME ANSWERS IT: THE AUGUST PULLBACK IS RUNNING AT ~HALF THE JULY DRAWDOWN'S P
+- `2026-08-18` **[5]** memory-regime-question.md:L957 — 2026-08-18 ~4:45pm PDT — ★★★★★ **JAKE ASKS THE RIGHT QUESTION AND THE VOLUME ANSWERS IT: THE AUGUST PULLBACK IS RUNNING AT ~HALF THE JULY DRAWDOWN'S P
 - `2026-08-18` **[5]** compression-thesis.md:L2325 — 2026-08-18 ~2:30pm PDT (source 2026-08-13 11:11pm) — ⚠️★★★★ **A 57× PRICE SPREAD ACROSS A 7.2-POINT PERFORMANCE SPREAD — THE COMPRESSION THESIS AS ONE
 - `2026-08-19` **[1]** rates-board.md:L182 — 2026-08-19 ~7:00am PDT — ★★★★★★ **TREASURY DOUBLES LONG-END BUYBACKS ($2B → "AT LEAST" $4B/OPERATION, 10-20Y AND 20-30Y, FROM SEPT 9 TO NOV 4). ⇒ THE 
 - `2026-08-19` **[1]** rates-board.md:L243 — 2026-08-19 ~7:03am PDT (scanner 14:03 UTC) — ⭐⭐⭐⭐⭐ **THE BUYBACK TEST FIRED THE SAME MORNING AND IT FIRED IN FAVOUR: LONG YIELDS FELL SHARPLY, TLT +1.
@@ -609,7 +609,7 @@
 - `2026-08-19` **[4]** ai-capex-cycle.md:L2951 — 2026-08-19 ~2:10pm PDT — ✅⛔⭐⭐⭐⭐⭐ **JAKE DISSOLVES MY ZIRP COUNTEREXAMPLE AND HE IS RIGHT — BUT ZIRP *DID* HAVE A DEBT-FINANCED PHYSICAL BUILDOUT, AND 
 - `2026-08-19` **[4]** ai-capex-cycle.md:L3022 — 2026-08-19 ~2:25pm PDT — ⛔⭐⭐⭐⭐⭐⭐ **HE IS RIGHT AND IT MAKES THE PRECEDENT *WORSE* FOR AI, NOT BETTER: SHALE HAD NO DEMAND RISK. THE PRODUCT HAD A KNOW
 - `2026-08-19` **[5]** metered-compute.md:L2388 — 2026-08-19 ~8:00am PDT — ⭐⭐⭐⭐⭐ **THE BEST DATA THIS NOTE HAS EVER HAD ON ITS OWN REGISTERED TEST: VERCEL JULY-2026 — TOKEN VOLUME +59%, REALIZED $/TOK
-- `2026-08-19` **[5]** memory-regime-question.md:L1017 — 2026-08-19 ~7:03am PDT — ✅✅ **F9 CLOSES ON THE FORM 4s AND IT CLOSES *AGAINST* THE BEARISH READ: MEHROTRA SOLD 40,000 SHARES (~$37M) UNDER A 10b5-1 PL
+- `2026-08-19` **[5]** memory-regime-question.md:L1020 — 2026-08-19 ~7:03am PDT — ✅✅ **F9 CLOSES ON THE FORM 4s AND IT CLOSES *AGAINST* THE BEARISH READ: MEHROTRA SOLD 40,000 SHARES (~$37M) UNDER A 10b5-1 PL
 - `2026-08-20` **[1]** rates-board.md:L755 — 2026-08-20 ~7:40am PDT — ⛔✅ **THE BRIEF SAYS THE BUYBACK MOVE WAS "LARGELY ERASED." PRIMARY SAYS *HALF*, AND THE SHAPE OF THE GIVE-BACK IS THE FINDING
 - `2026-08-20` **[1]** rates-board.md:L817 — 2026-08-20 ~12:25pm PDT — ★★★★★★ **TODAY'S OPERATION IS ROUTINE AND SAYS NOTHING — BUT PULLING THE FULL HISTORY TO PROVE THAT FOUND THE REAL STORY: ⭐ 
 - `2026-08-20` **[1]** new-economy-regime.md:L4076 — 2026-08-20 ~8:10am PDT — ✅⭐⭐⭐⭐ **THE CLAIMS DATA INDEPENDENTLY CONFIRMS THE FOMC MINUTES LINE I FILED YESTERDAY, ONE DAY LATER AND FROM A COMPLETELY D
@@ -631,7 +631,7 @@
 - `2026-08-22` **[3]** ai-financing-fragility.md:L6908 — 2026-08-22 ~9:00am PDT — ⛔⛔⛔ **THE "$220B vs $12.5B, 17.6×" HEADLINE IS A YEAR-OVER-YEAR COMPARISON, AND THE VAULT'S OWN SEQUENTIAL TRACK SAYS THE ISS
 - `2026-08-22` **[3]** ai-financing-fragility.md:L6972 — 2026-08-22 ~1:35pm PDT — ⛔ **POOLSIDE IS A MAP GAP, AND THE REASON MATTERS: NVDA ANNOUNCED A $1B INVESTMENT IN IT AT A $12B VALUATION IN *OCTOBER 2025
 - `2026-08-22` **[4]** ai-capex-cycle.md:L3379 — 2026-08-22 ~9:00am PDT — **ON/SYNAPTICS S-4: THE HEADLINE IS 12% DILUTION, BUT THE NUMBER THE FILING ACTUALLY DISCLOSES IS THAT *ON'S OWN STOCK FELL 3
-- `2026-08-22` **[5]** memory-regime-question.md:L1069 — 2026-08-22 ~1:00pm PDT — ★★★★★★ **THE F3 FORK RESOLVES: NVDA CHOSE PASS-THROUGH, NOT CONTENT CUTS. AND BECAUSE THE VAULT HOLDS MEMORY AT 62% OF THE VE
+- `2026-08-22` **[5]** memory-regime-question.md:L1072 — 2026-08-22 ~1:00pm PDT — ★★★★★★ **THE F3 FORK RESOLVES: NVDA CHOSE PASS-THROUGH, NOT CONTENT CUTS. AND BECAUSE THE VAULT HOLDS MEMORY AT 62% OF THE VE
 - `2026-08-22` **[5]** compression-thesis.md:L2384 — 2026-08-22 ~1:15pm PDT — ⛔ **NO, IT DID NOT COME OUT OF THE BLUE — THE VAULT NAMED THE *STRATEGY* IN JULY AND HELD THE VEHICLES. ★★★ WHAT IS ACTUALLY 
 - `2026-08-23` **[1]** rates-board.md:L935 — 2026-08-23 ~4:35pm PDT — ✅✅✅ **TCHIR'S HEADLINE VERIFIED AGAINST THE PRIMARY AND IT IS EXACT: THE FED OWNS 52.5% OF EVERYTHING MATURING 2036-2041.** ⛔
 - `2026-08-23` **[1]** new-economy-regime.md:L4205 — 2026-08-23 ~11:05pm PDT — 🕳️🕳️🕳️ **MAP GAP #21, AND IT IS LARGER THAN #20: JAKE NAMES SIX LIVE US PRICE INTERVENTIONS AND THE VAULT HOLDS *NONE* OF TH
@@ -643,15 +643,15 @@
 - `2026-08-23` **[5]** metered-compute.md:L2709 — 2026-08-23 ~7:45pm PDT — ★★★★★★ **JAKE SPECIFIES THE ARBITRAGE, AND IT FUSES THREE THINGS THIS VAULT HAS HELD SEPARATELY SINCE JULY: the 7/25 "moat mi
 - `2026-08-23` **[5]** metered-compute.md:L2812 — 2026-08-23 ~8:30pm PDT — ✅✅✅ **THE PROFILING RUN IS DONE AND IT CLOSES THE SERIES `:L2265` HAS CARRIED AS "THE SINGLE MOST VALUABLE MISSING" SINCE 8/1
 - `2026-08-23` **[5]** metered-compute.md:L2907 — 2026-08-23 ~8:55pm PDT — ⛔⛔ **"READING PDFs AND VERIFYING." HE NAMED IT IN FOUR WORDS AND THE RE-CUT SAYS 65.3%.** ★★★★★★ **MY 8:30pm BUCKETING HID TH
-- `2026-08-23` **[5]** memory-regime-question.md:L1152 — 2026-08-23 ~8:50am PDT — ⛔ **JAKE: "WE ALREADY KNOW ABOUT THE 15% NVIDIA INCREASE." CORRECT — THIS NOTE FILED IT 2026-08-22 ~1:00pm PDT (`:L1109`), EI
-- `2026-08-23` **[5]** memory-regime-question.md:L1198 — 2026-08-23 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐ **TWO THREADS THIS VAULT HAS RUN SEPARATELY ARE ONE SHORTAGE, AND THE PROOF IS AN ASYMMETRY NOBODY IN THE SOURCE MATER
+- `2026-08-23` **[5]** memory-regime-question.md:L1156 — 2026-08-23 ~8:50am PDT — ⛔ **JAKE: "WE ALREADY KNOW ABOUT THE 15% NVIDIA INCREASE." CORRECT — THIS NOTE FILED IT 2026-08-22 ~1:00pm PDT (`:L1109`), EI
+- `2026-08-23` **[5]** memory-regime-question.md:L1202 — 2026-08-23 ~6:35pm PDT — ⭐⭐⭐⭐⭐⭐ **TWO THREADS THIS VAULT HAS RUN SEPARATELY ARE ONE SHORTAGE, AND THE PROOF IS AN ASYMMETRY NOBODY IN THE SOURCE MATER
 - `2026-08-23` **[5]** compression-thesis.md:L2463 — 2026-08-23 ~5:15pm PDT — ✅ **THE FT HEADLINE IS THIS NOTE'S THESIS RESTATED BY A MAJOR OUTLET: "ANTHROPIC'S BEST AI MODEL STRUGGLES TO ATTRACT USERS A
 - `2026-08-23` **[5]** compression-thesis.md:L2499 — 2026-08-23 ~9:20pm PDT — ✅ **PERPLEXITY WAS ALREADY ON FILE BY NAME, IN THE EXACT LINE THAT EXPLAINED THE POOLSIDE DEAL 30 HOURS AGO: `:L2485` — "the 
 - `2026-08-24` **[1]** rates-board.md:L1025 — 2026-08-24 ~12:15am PDT — ⛔⛔⛔ **THE TGA REVELATION BREAKS THIS BOARD'S OWN LOAD-BEARING CONCLUSION, WRITTEN 8/19 AT `:L223`: *"TREASURY BUYBACKS ARE C
 - `2026-08-24` **[1]** rates-board.md:L1101 — 2026-08-24 ~11:45pm PDT — ★★★★★★ **JAKE'S WEARY-ROTATION THESIS, FILED AS HIS AND SHARPENED: AT 82bp OVER, THE EXIT FROM AI CREDIT INTO TREASURIES IS 
 - `2026-08-24` **[2]** hyperscaler-credit.md:L516 — DATA — THE FULL PANEL THE TWO-NAME CHART CANNOT SHOW (ICE, clearing 2026-08-24)
 - `2026-08-24` **[3]** ai-financing-fragility.md:L7165 — 2026-08-24 ~11:20pm PDT — 🕳️ **JAKE ASKS THE POLICY-PUT QUESTION AND THE VAULT HAS NO ENTRY FOR IT: WHAT IF TREASURY/THE FED PAID AN SPV TO LEVER CORP
-- `2026-08-24` **[5]** memory-regime-question.md:L1243 — 2026-08-24 ~1:10am PDT — ★★★★★★ **A *THIRD* RESPONSE TO THE MEMORY SHORTAGE, AND THE VAULT HAS PRICED NEITHER IT NOR ITS OFFSET: NVDA IS DESIGNING THE
+- `2026-08-24` **[5]** memory-regime-question.md:L1247 — 2026-08-24 ~1:10am PDT — ★★★★★★ **A *THIRD* RESPONSE TO THE MEMORY SHORTAGE, AND THE VAULT HAS PRICED NEITHER IT NOR ITS OFFSET: NVDA IS DESIGNING THE
 - `2026-08-25` **[1]** rates-board.md:L1168 — 2026-08-25 ~2:10pm PDT — ✅✅ **THE BOND SCAN (8/25 close) ARRIVES AND CLOSES LAST NIGHT'S FLAG #1 EIGHTEEN HOURS AFTER REGISTRATION: AUCTION INTERNALS 
 - `2026-08-25` **[1]** rates-board.md:L1226 — Addendum 2026-08-25 ~2:35pm PDT — ✅ **RUNG UPGRADE: every block of the 8/25 scan now traces to a named primary, and the numbers came back IDENTICAL.**
 - `2026-08-25` **[2]** hyperscaler-credit.md:L496 — 2026-08-25 ~01:50 UTC (2026-08-24 ~6:50pm PDT) — ✅✅✅ **JAKE'S OWN TEST, RUN AGAINST THE INSTRUMENT INSTEAD OF ASSERTED — AND IT IS SATISFIED ON ALL FO
@@ -691,8 +691,8 @@
 - `2026-08-26` **[5]** metered-compute.md:L3034 — 2026-08-26 ~5:40pm PDT — ⭐⭐⭐⭐⭐ **"NVIDIA IN TALKS TO BUY HUGGING FACE FOR OVER $13B" (single-outlet INSIDER sourcing, TALKS-stage, no terms — REPORTED
 - `2026-08-26` **[5]** metered-compute.md:L3068 — ⛔ CORRECTION 2026-08-26 ~7:05pm PDT (Jake's catch, within the hour) — **THE 5:40pm ENTRY CONFLATED TWO DOCUMENTS FROM THE SAME JULY WEEK, AND THE CORR
 - `2026-08-26` **[5]** metered-compute.md:L3087 — Addendum 2026-08-26 ~7:08pm PDT — **THE PRIMARY ARTIFACT ARRIVES (Jake): Huang's 7/24 post — HIS FIRST EVER TWEET — sharing the letter. 66M views/173K
-- `2026-08-26` **[5]** memory-regime-question.md:L1327 — 2026-08-26 ~9:12am PDT — ⭐⭐⭐⭐ **SUSQUEHANNA (via DJ/Barron's, ANALYST rung): DRAM CONTRACT PRICES +>50% QoQ THIS QUARTER, NAND ~+60% — A PRE-PRINT COR
-- `2026-08-26` **[5]** memory-regime-question.md:L1339 — Addendum 2026-08-26 ~4:00pm PDT — ⭐⭐⭐⭐⭐ **NVDA'S MARGIN GUIDE IS THE SAME-DAY CONFIRMATION OF THE MORNING'S SUSQUEHANNA CALL: 75.0% → 74.0% (Q3) → 71-
+- `2026-08-26` **[5]** memory-regime-question.md:L1331 — 2026-08-26 ~9:12am PDT — ⭐⭐⭐⭐ **SUSQUEHANNA (via DJ/Barron's, ANALYST rung): DRAM CONTRACT PRICES +>50% QoQ THIS QUARTER, NAND ~+60% — A PRE-PRINT COR
+- `2026-08-26` **[5]** memory-regime-question.md:L1343 — Addendum 2026-08-26 ~4:00pm PDT — ⭐⭐⭐⭐⭐ **NVDA'S MARGIN GUIDE IS THE SAME-DAY CONFIRMATION OF THE MORNING'S SUSQUEHANNA CALL: 75.0% → 74.0% (Q3) → 71-
 - `2026-08-26` **[5]** compression-thesis.md:L2756 — 2026-08-26 ~9:10am PDT — ⭐⭐⭐ **EXPORT-CONTROL ENFORCEMENT GOES FROM HYPOTHETICAL TO INDICTMENT: TAIWAN PROSECUTORS CHARGE 9 — INCLUDING AN NVDA TAIWAN
 - `2026-08-27` **[1]** rates-board.md:L1411 — 2026-08-27 ~6:30am PDT — **CLAIMS: 203K vs 208Ke (4wk 205.5K) · CONTINUING −18K to ~1.78M — THE NO-HIRE/NO-FIRE SPLIT HOLDS ON BOTH LEGS: firing outri
 - `2026-08-27` **[1]** rates-board.md:L1424 — Addendum 2026-08-27 ~6:46am PDT — THURSDAY OPENING APPENDIX (the scan body re-ran Wednesday's; the appendix is the new data): **(1) 5Y CHARACTERIZATIO
@@ -886,7 +886,7 @@
 - `2026-09-05` **[1]** new-economy-regime.md:L4914 — Addendum 2026-09-05 ~8:40am PDT — **RARE EARTHS: THE VAULT ALREADY HELD THIS (9/4 2:20pm). THE BRIEF'S ADDS ARE THREE NUMBERS AND ONE GOOD SECOND-ORDE
 - `2026-09-05` **[3]** ai-financing-fragility.md:L7664 — Addendum 2026-09-05 ~9:00am PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S CROWD-OUT CALL IS CONFIRMED AND DATED (8/15) — BUT THE SPREAD DATA SAYS THE TRANSMISSION RUNS THROUG
 - `2026-09-05` **[3]** ai-financing-fragility.md:L7698 — Addendum 2026-09-05 ~11:40am PDT — ⛔⭐⭐⭐⭐⭐⭐ **THE ORDER-BOOK DATA EXISTS AND IT CORRECTS ME TWICE: THE INDEX WAS HIDING THE HYPERSCALERS, AND JAKE'S SL
-- `2026-09-05` **[5]** memory-regime-question.md:L1354 — Addendum 2026-09-05 ~8:35am PDT — ⭐⭐⭐⭐⭐ **THE SHORTAGE REACHED A WITNESS WITH NO STAKE IN THE AI STORY: NINTENDO. THAT IS THE STRONGEST RUNG THIS NOTE
+- `2026-09-05` **[5]** memory-regime-question.md:L1358 — Addendum 2026-09-05 ~8:35am PDT — ⭐⭐⭐⭐⭐ **THE SHORTAGE REACHED A WITNESS WITH NO STAKE IN THE AI STORY: NINTENDO. THAT IS THE STRONGEST RUNG THIS NOTE
 - `2026-09-07` **[1]** rates-board.md:L2600 — 2026-09-07 ~8:15am PDT — **HOLIDAY-OPEN BRIEF: EL-ERIAN "EXPLICITLY MAKING OUR ARGUMENT" — FILED HERE THREE DAYS AGO WITH AN INSTITUTION ATTACHED. THE
 - `2026-09-07` **[1]** rates-board.md:L2622 — Addendum 2026-09-07 ~8:25am PDT — **DAILY BRIEF: THE WEEK RESTATED, WITH TWO THINGS TO ADD TO THE 8:15am TABLE — THE BUYBACK CONFOUND ON WEDNESDAY, AN
 - `2026-09-07` **[1]** rates-board.md:L2631 — Addendum 2026-09-07 ~9:35am PDT — **JAKE: "IS THIS TALKING ABOUT THE COUPON PRICE?" (Kobeissi post of BofA chart: 15yr+ Treasuries, 10-year rolling an
@@ -900,8 +900,8 @@
 - `2026-09-07` **[3]** balance-sheet-board.md:L809 — Pointer 2026-09-07 ~8:15am PDT — **IREN: $30B capex ceiling by Jun-2027 · $19B raised past year · $7.6B cash / $7.6B debt · $3.5B ATM remaining (FT vi
 - `2026-09-07` **[4]** ai-capex-cycle.md:L3579 — 2026-09-07 ~8:30am PDT — ⭐⭐⭐⭐⭐ **HUANG (X post, 9/6, reported 9/7): ASTRA TRAINED ON "~100K+ GRACE BLACKWELL NVLINK72," "400K GPUs COMING ONLINE NEXT"
 - `2026-09-07` **[5]** metered-compute.md:L3370 — 2026-09-07 ~8:55am PDT — ⭐⭐⭐⭐⭐⭐ **WEEKLY TOKEN REPORT (w/e 9/6) + JAKE'S SEGMENTATION QUESTION: THE FRONTIER LIST PRICE WENT *UP* THROUGH THE AUGUST D
-- `2026-09-07` **[5]** memory-regime-question.md:L1371 — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐ **THE KOREAN TAPE CATCHES UP TO THE PHYSICAL READ — ON THE SAME WEEKEND HORMUZ ESCALATES AND JAZAN IS HIT: KOSPI +4.6%, 
-- `2026-09-07` **[5]** memory-regime-question.md:L1383 — 2026-09-07 ~8:25am PDT — ⭐⭐⭐⭐⭐ **TRENDFORCE: 2Q26 DRAM INDUSTRY REVENUE +59.5% QoQ TO $154.7B · SUPPLIER INVENTORIES AT HISTORIC LOWS · Q3 CONVENTIONA
+- `2026-09-07` **[5]** memory-regime-question.md:L1375 — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐ **THE KOREAN TAPE CATCHES UP TO THE PHYSICAL READ — ON THE SAME WEEKEND HORMUZ ESCALATES AND JAZAN IS HIT: KOSPI +4.6%, 
+- `2026-09-07` **[5]** memory-regime-question.md:L1387 — 2026-09-07 ~8:25am PDT — ⭐⭐⭐⭐⭐ **TRENDFORCE: 2Q26 DRAM INDUSTRY REVENUE +59.5% QoQ TO $154.7B · SUPPLIER INVENTORIES AT HISTORIC LOWS · Q3 CONVENTIONA
 - `2026-09-07` **[5]** compression-thesis.md:L3018 — 2026-09-07 ~1:20pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS "TPU INFERENCE EXTERNALIZATION FULL STEAM AHEAD" (InferenceX Official Preview, Sept 7; Jake's PDF `raw/2
 - `2026-09-08` **[1]** rates-board.md:L2695 — 2026-09-08 ~8:10am PDT — ✅⛔⭐⭐⭐⭐⭐ **NY FED SURVEY (registered item, resolved): 1Y 3.58% (unch from 3.6) · 3Y 3.19% (from 3.3) · 5Y 3.01% (unch). THE TE
 - `2026-09-08` **[1]** rates-board.md:L2717 — 2026-09-08 ~11:20am PDT — ✅⭐⭐⭐⭐⭐ **THE 3Y CLEARS WELL (registered item), BESSENT PRE-EMPTIVELY DISCLAIMS HIS OWN TOOL, AND DEUTSCHE BANK'S COUNTER-THE
@@ -922,7 +922,7 @@
 - `2026-09-08` **[3]** ai-financing-fragility.md:L7942 — Addendum 2026-09-08 ~11:30pm PDT — ⛔⛔ **AND THE SECOND IMAGE IS THE 8/6 GS FCF CHART AT FULL RESOLUTION, WHICH EXPOSES A READING ERROR IN THIS FILE'S 
 - `2026-09-08` **[3]** balance-sheet-board.md:L811 — Addendum 2026-09-08 ~6:45am PDT — **ORCL INTO TONIGHT: THE NEW LINE IS "NO FURTHER DEBT ISSUANCE DURING CALENDAR 2026," AND IT COLLIDES WITH THE $3.3B
 - `2026-09-08` **[5]** metered-compute.md:L3395 — Addendum 2026-09-08 ~11:20am PDT — **TWO ITEMS THAT UPDATE THE 9/7 FOUR-MARKET STRUCTURE, ONE OF THEM AGAINST IT** *(gopher digest, `raw/2026-09-08-go
-- `2026-09-08` **[5]** memory-regime-question.md:L1403 — ⛔ CORRECTION 2026-09-08 ~9:40pm PDT — **THIS MORNING I FILED THAT CHINA'S DICHLOROSILANE DUTY *WEAKENS* THE MEMORY DISCONFIRMER. TONIGHT'S SCAN SAYS C
+- `2026-09-08` **[5]** memory-regime-question.md:L1407 — ⛔ CORRECTION 2026-09-08 ~9:40pm PDT — **THIS MORNING I FILED THAT CHINA'S DICHLOROSILANE DUTY *WEAKENS* THE MEMORY DISCONFIRMER. TONIGHT'S SCAN SAYS C
 - `2026-09-09` **[1]** rates-board.md:L2813 — 2026-09-09 ~7:10am PDT — ⭐⭐⭐⭐⭐ **THE PRE-REGISTERED DAY ARRIVES, AND ONE DETAIL IN THE BRIEF CHANGES THE INSTRUMENT: THE LONG-END BUYBACK MOVES FROM A
 - `2026-09-09` **[1]** rates-board.md:L2832 — Addendum 2026-09-09 ~7:55am PDT — ⛔⛔ **I CORRECT MY OWN CORRECTION FROM FORTY-FIVE MINUTES AGO, AND THE ORIGINAL BOARD LANGUAGE WAS RIGHT. THE BUYBACK
 - `2026-09-09` **[1]** rates-board.md:L2840 — 2026-09-09 ~9:00am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE 11:00 ET NUMBER PRINTED AT **$6B** — THE TOP OF MY PRE-WRITTEN RANGE — AND THE 10Y WENT TO **4.83-4.85%, THE HI
@@ -941,7 +941,7 @@
 - `2026-09-09` **[3]** ai-financing-fragility.md:L8047 — 2026-09-09 ~5:15pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE VAULT ALREADY HOLDS THE Q1 13F, SO HALF THE AUTHOR'S NOVEMBER TEST IS ANSWERABLE TONIGHT: **NVIDIA HAS NOT SOLD
 - `2026-09-09` **[4]** ai-capex-cycle.md:L3598 — 2026-09-09 ~9:20am PDT — ⭐⭐⭐⭐⭐⭐ **$75B OF ORACLE'S $638B RPO IS "PREPAID *OR* CUSTOMER-SUPPLIED GPU HARDWARE" — 11.8% OF THE BACKLOG — AND THOSE TWO T
 - `2026-09-09` **[4]** ai-capex-cycle.md:L3619 — Addendum 2026-09-09 ~9:55am PDT — **AMD'S REAL NUMBER IS NOT THE TAM, IT IS **$29-30B OF PURCHASE COMMITMENTS — 41-43% OF ITS OWN 2027 DATA-CENTRE TAR
-- `2026-09-09` **[5]** memory-regime-question.md:L1411 — Addendum 2026-09-09 ~8:25am PDT — **A CHIP *BUYER* NAMES MEMORY AS A BINDING CONSTRAINT, WHICH IS A DIFFERENT INSTRUMENT FROM EVERY OTHER SOURCE IN TH
+- `2026-09-09` **[5]** memory-regime-question.md:L1415 — Addendum 2026-09-09 ~8:25am PDT — **A CHIP *BUYER* NAMES MEMORY AS A BINDING CONSTRAINT, WHICH IS A DIFFERENT INSTRUMENT FROM EVERY OTHER SOURCE IN TH
 - `2026-09-09` **[5]** compression-thesis.md:L3037 — 2026-09-09 ~8:20am PDT — ⭐⭐⭐⭐⭐⭐ **OPENAI'S ADVERTISING BUSINESS HIT A ~$1BN ANNUALIZED PACE IN SEVEN MONTHS — AND THAT IS NOT A REVENUE ITEM, IT IS A 
 - `2026-09-09` **[5]** compression-thesis.md:L3053 — Addendum 2026-09-09 ~8:55am PDT — **FILED AS A NON-EVENT, WHICH IS THE POINT: CHINA'S SEPT-9 STATEMENT REJECTS THE US ACCUSATIONS AND CALLS FOR COOPER
 - `2026-09-09` **[5]** compression-thesis.md:L3059 — 2026-09-09 ~9:10am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE US GOVERNMENT JUST TESTIFIED TO THIS FILE'S CENTRAL MECHANISM. FBI, NSA AND CISA *JOINTLY* ACCUSE DEEPSEEK, ALI
@@ -996,14 +996,14 @@
 - `2026-09-14` **[3]** ai-financing-fragility.md:L8271 — Addendum 2026-09-14 ~8:55am PDT — ⭐⭐⭐⭐ **MONDAY'S REPRICING, SCORED (settled per rule 22, entered once): A DISCOUNT-RATE SHOCK IN AN AI-PACING COSTUME
 - `2026-09-14` **[3]** ai-financing-fragility.md:L8278 — 2026-09-14 ~5:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE EVENING SCAN DELIVERS THE AGGREGATE AND CLOSES YESTERDAY'S ⬜ (settled per rule 22, entered once): **~$1.09 TRIL
 - `2026-09-14` **[5]** metered-compute.md:L3471 — 2026-09-14 ~3:25pm PDT — ⭐⭐⭐⭐⭐ **SEMIANALYSIS: FIRST VERIFIED VERA RUBIN NVL72 AGENTIC-INFERENCE RESULTS (settled per rule 22, entered once) — AND THE
-- `2026-09-14` **[5]** memory-regime-question.md:L1419 — Addendum 2026-09-14 ~3:25pm PDT (rule 22, entered once) — ⭐⭐⭐ **THE SHORTAGE IS NOW SHAPING NVDA'S OWN FLAGSHIP: SemiAnalysis — the production Vera Ru
+- `2026-09-14` **[5]** memory-regime-question.md:L1423 — Addendum 2026-09-14 ~3:25pm PDT (rule 22, entered once) — ⭐⭐⭐ **THE SHORTAGE IS NOW SHAPING NVDA'S OWN FLAGSHIP: SemiAnalysis — the production Vera Ru
 - `2026-09-15` **[1]** rates-board.md:L3535 — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **TUESDAY PRE-FED SCOREBOARD: 10Y 5.041 OVERNIGHT (HIGHEST SINCE JUL-2007), HOLDING ~5.00 INTO THE OPEN — NOT ABSORBED 
 - `2026-09-15` **[1]** rates-board.md:L3551 — Addendum 2026-09-15 ~10:10am PDT — **THE SIX-PANEL GLOBAL CHART: JAPAN IS THE ANCHOR DEPARTURE.** *(Jake chart `raw/2026-09-15-global-10y-six-panel-ch
 - `2026-09-15` **[1]** rates-board.md:L3556 — 2026-09-15 ~10:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE $13B 20Y REOPENING: RECORD STOP 5.420%, 2.0bp TAIL (BIGGEST SINCE DEC-2024), INDIRECTS 52.5% — A RECORD LOW FOR
 - `2026-09-15` **[1]** rates-board.md:L3570 — Addendum 2026-09-15 ~10:20am PDT — **THE BESSENT HEARING vs THE 20Y TAPE: TREASURY'S DIAGNOSIS AND THE MARGINAL CLEARING PRICE OF DURATION NOW DISAGRE
 - `2026-09-15` **[1]** rates-board.md:L3578 — 2026-09-15 close (entered 9/16, per the approved 9/15 scan) — ⭐⭐⭐⭐⭐⭐ **THE STATE CHANGE: YESTERDAY 5% BROUGHT THE BUYERS; TODAY 5% BECAME THE CLOSE. 3
 - `2026-09-15` **[5]** metered-compute.md:L3487 — 2026-09-15 ~9:00am PDT — ⭐⭐⭐⭐⭐ **THE THESIS GETS A TAPE: CFTC DEEMS A COMPUTE EXCHANGE + CLEARINGHOUSE "MATERIALLY COMPLETE," AND CME LAUNCHES AI-COMP
-- `2026-09-15` **[5]** memory-regime-question.md:L1421 — 2026-09-15 ~9:00am PDT — **MU TAIWAN LABOR: THE STANDING "TAIWAN ⬜" CAP BECOMES A DATED OPERATIONAL RISK — MEDIATION 9/18 AND 9/21.** *(Reuters via ho
+- `2026-09-15` **[5]** memory-regime-question.md:L1425 — 2026-09-15 ~9:00am PDT — **MU TAIWAN LABOR: THE STANDING "TAIWAN ⬜" CAP BECOMES A DATED OPERATIONAL RISK — MEDIATION 9/18 AND 9/21.** *(Reuters via ho
 - `2026-09-16` **[1]** rates-board.md:L3589 — 2026-09-16 ~6:40pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **FOMC: 25bp TO 3.75-4.00 UNANIMOUS, DOTS 4.1 (ANOTHER HIKE), GROWTH MARKED UP — AND THE 30Y **FELL** ON A MAXIMALLY 
 - `2026-09-16` **[1]** rates-board.md:L3602 — Addendum 2026-09-16 ~7:15pm PDT — ⭐⭐⭐⭐ **THE 5% HISTORY (Jake's Q, FRED-pinned): BOTH PRIOR TOUCHES WERE THE CYCLE TOP IN YIELDS WITHIN DAYS — AND THE
 - `2026-09-16` **[1]** rates-board.md:L3607 — Addendum 2026-09-16 ~7:40pm PDT (Y'd 9/17) — **WHAT THE HIKE DOES TO THE DEFICIT AND DEBT SERVICE (MSPD-pinned, Aug-31 stock): THE HIKE IS CHEAP; THE 
@@ -1024,7 +1024,7 @@
 - `2026-09-21` **[2]** hyperscaler-credit.md:L576 — 2026-09-21 ~9:35pm PDT — ⭐⭐⭐⭐⭐⭐ **THE FORTRESS-IMPLICATION LADDER, ALREADY PRICED: THE CDS PANEL ORDERS THE COHORT BY CONTINGENT-EXPOSURE-TO-CUSHION —
 - `2026-09-21` **[3]** ai-financing-fragility.md:L8381 — 2026-09-21 ~7:45pm PDT — ⭐⭐⭐⭐⭐⭐ **THE CAPITAL STRUCTURE COMPLETED TOP-TO-BOTTOM IN SEVEN DAYS — AND THE CLEARING YIELD TRIANGULATED AT ~9-10%: SB ENER
 - `2026-09-21` **[3]** ai-financing-fragility.md:L8394 — Addendum 2026-09-21 ~9:35pm PDT — **THE QUALITY STACK AT OPPOSITE TAILS: CCC 99th PERCENTILE vs IG/BB/B AT THE 0-4th — RECORD INTRA-CREDIT DISPERSION,
-- `2026-09-21` **[5]** memory-regime-question.md:L1430 — 2026-09-21 ~7:45pm PDT — ⭐⭐⭐⭐ **THE ACER/CXMT INBOUND: CLASS-8 SYMMETRIC, INTERNALLY CONTRADICTORY — AND THE REAL CONTENT IS THE COMMODITY-vs-HBM SEGM
+- `2026-09-21` **[5]** memory-regime-question.md:L1434 — 2026-09-21 ~7:45pm PDT — ⭐⭐⭐⭐ **THE ACER/CXMT INBOUND: CLASS-8 SYMMETRIC, INTERNALLY CONTRADICTORY — AND THE REAL CONTENT IS THE COMMODITY-vs-HBM SEGM
 - `2026-09-22` **[1]** rates-board.md:L3648 — 2026-09-22 ~10:20am PDT — ⭐⭐⭐⭐⭐ **THE $69B 2Y: A 0.2bp TAIL AND A 47bp LEVEL — "THE TAIL ISN'T THE WARNING. THE LEVEL IS." (Jake's analysis, adopted.)
 - `2026-09-22` **[1]** rates-board.md:L3657 — 2026-09-22 (entered ~6:50pm PT) — **TUESDAY CLOSE: A FRONT-END BULL STEEPENER, THE 2Y CLEARS 4.787% ON SOLID DEMAND, REAL YIELDS TICK UP — AND MARKS S
 - `2026-09-22` **[3]** ai-financing-fragility.md:L8398 — 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **THE DAM GETS TESTED DEAL BY DEAL: AI ISSUERS NOW PAY NEW-ISSUE CONCESSIONS INSIDE INVESTMENT GRADE — AND THE PERIPHER
@@ -1067,7 +1067,7 @@
 - `2026-09-25` **[4]** ai-capex-cycle.md:L3702 — 2026-09-25 ~6:01am PDT (Y'd ~6:10am) — ⭐⭐⭐⭐ **AUGUST DURABLES: THE AI FOOTPRINT IS IN THE ORDERS — COMMUNICATIONS EQUIPMENT +40% Y/Y, CORE CAPEX NEARL
 - `2026-09-25` **[4]** ai-capex-cycle.md:L3710 — 2026-09-25 ~4:55pm PDT (Y'd ~6:05pm) — 🔁 **JAKE'S LOOP, THIRD LEG: THE GROWTH THAT JUSTIFIES HIGHER REAL YIELDS IS ITSELF THE DEBT-FINANCED AI SPENDIN
 - `2026-09-25` **[5]** metered-compute.md:L3538 — 2026-09-25 ~6:50pm PDT (Y'd ~6:55pm) — 🟠 **AI SPENDING IS CONCENTRATING WHILE ADOPTION BROADENS (Apollo/Ramp, verified) — BUT RAMP SEES CARD PAYERS ON
-- `2026-09-25` **[5]** memory-regime-question.md:L1445 — Addendum 2026-09-25 ~1:47pm PDT (Y'd) — **DRAM SPOT HAS PLATEAUED — DDR4 ROLLING OVER (SUPPLY-DRIVEN LEGACY), DDR5 FLAT. JAKE: "AGENTIC IMPACT ON DDR 
+- `2026-09-25` **[5]** memory-regime-question.md:L1449 — Addendum 2026-09-25 ~1:47pm PDT (Y'd) — **DRAM SPOT HAS PLATEAUED — DDR4 ROLLING OVER (SUPPLY-DRIVEN LEGACY), DDR5 FLAT. JAKE: "AGENTIC IMPACT ON DDR 
 - `2026-09-25` **[5]** compression-thesis.md:L3489 — 2026-09-25 ~1:25-1:45pm PDT (Y'd) — ⭐⭐⭐⭐⭐ **JAKE'S TAKEAWAY: CHINA'S OPEN MODELS SPLIT THE MARKET — OPEN SOURCE OWNS VOLUME, FRONTIER OWNS REVENUE — A
 - `2026-09-25` **[5]** compression-thesis.md:L3499 — 2026-09-25 ~8:00-8:18pm PDT (Y'd ~8:18pm) — 🍼 **THE CAPSTONE (Jake): AN INFANT MARKET FINANCED AS A MATURE ONE. OPEN-WEIGHT PRICES BECOME THE FLOOR; F
 - `2026-09-26` **[1]** rates-board.md:L3745 — 2026-09-26 ~9:29am PDT (Y'd ~9:45am) — 📅 **SEPTEMBER 30 IS A DOUBLE EVENT: 8:30am ET AUGUST PCE *PLUS* BEA's ANNUAL NATIONAL-ACCOUNTS UPDATE (VERIFIED
@@ -1081,7 +1081,7 @@
 - `2026-09-28` **[2]** hyperscaler-credit.md:L661 — 2026-09-28 ~6:30pm PDT (Y'd ~7:40pm) — 📊 **"AI CDS" IS BECOMING A MARKET: DTCC WEEKLY VOLUME IN IG-AI CREDIT PROTECTION ~$1B → ~$7B IN A YEAR (Goldman
 - `2026-09-28` **[3]** ai-financing-fragility.md:L8527 — 2026-09-28 close (Y'd ~1:30pm PDT) — 🧯 **JUNK ISSUANCE INDIGESTION: SEPTEMBER HY ~$38.5B (BUSIEST MONTH OF 2026), GOLDMAN SEES HY PREMIUMS AT ~5-MONTH
 - `2026-09-28` **[3]** ai-financing-fragility.md:L8534 — 2026-09-28 ~4:29pm PDT (Y'd ~4:40pm) — 📄 **ANTHROPIC'S IPO PROSPECTUS (Reuters, seen): 2025 REVENUE ~$4.6B (12×), OPERATING LOSS >$8B, COMPUTE $7.33B 
-- `2026-09-28` **[5]** memory-regime-question.md:L1453 — 2026-09-28 ~9:47-10:08am PDT (Y'd) — 📐 **MU INTO 9/30: THE EVIDENCE HIERARCHY, THE CORRECTED RISK FRAMING, AND WHAT THE IMPLIED-MOVE AUDIT ADDS.** *(J
+- `2026-09-28` **[5]** memory-regime-question.md:L1457 — 2026-09-28 ~9:47-10:08am PDT (Y'd) — 📐 **MU INTO 9/30: THE EVIDENCE HIERARCHY, THE CORRECTED RISK FRAMING, AND WHAT THE IMPLIED-MOVE AUDIT ADDS.** *(J
 - `2026-09-28` **[5]** compression-thesis.md:L3518 — 2026-09-28 ~3:15pm PDT (Y'd ~3:31pm) — 🛡️ **CERTIFIED STACK vs UNCERTIFIED: OPENAI'S SELF-IMPOSED HALT IS THE EVIDENCE FOR DEPLOYMENT STANDARDS — AND 
 - `2026-09-29` **[1]** rates-board.md:L3772 — 2026-09-29 ~8:10am PDT (open scan; the 7:00am PT prints verified at BLS / Conference Board) — 📉 **TWO MISSES AND NO RALLY: JOLTS 7.10M vs 7.23M · CONF
 - `2026-09-29` **[1]** rates-board.md:L3785 — 2026-09-29 close (Y'd ~9:05pm PDT) — 🔴 **THE DAY THE FED PATH EASED AND THE LONG END SOLD OFF ANYWAY: 2Y −3 / 10Y +2 / 20Y +4 / 30Y +3 (30Y 5.59, INTR
@@ -1089,10 +1089,10 @@
 - `2026-09-29` **[3]** ai-financing-fragility.md:L8543 — 2026-09-29 ~8:10am PDT (open scan, verified) — 🏗️ **SAMSUNG PUTS $1B INTO KKR'S HELIX — THE FIRST NAMED $500B-PLATFORM VEHICLE (8/30, `:L7793`) NOW HA
 - `2026-09-29` **[5]** metered-compute.md:L3549 — 2026-09-29 ~12:15pm PDT (Y'd ~12:25pm) — 💱 **GPT-6.1 SOL: NEAR-FRONTIER AT ONE-FIFTH THE PRICE ($2 / $0.10 cached / $10 per M tokens) — THE 9/3 NATURA
 - `2026-09-29` **[5]** metered-compute.md:L3557 — 2026-09-29 ~9:55pm PDT (Y'd 2026-09-30 ~6:35pm) — 📉 **SILICON DATA: "ANTHROPIC ARR FLATLINED WHEN THE TOKEN INDEX PEAKED." THE INDEX IS AN EXPENDITURE
-- `2026-09-29` **[5]** memory-regime-question.md:L1462 — 2026-09-29 ~7:20-7:40pm PDT (Y'd ~9:05pm) — 📐 **JAKE'S THESIS, THE NIGHT BEFORE THE PRINT: A STRAIGHT-LINE PRICING-POWER PACE, ACTUAL CONTRACT PRINTS 
+- `2026-09-29` **[5]** memory-regime-question.md:L1466 — 2026-09-29 ~7:20-7:40pm PDT (Y'd ~9:05pm) — 📐 **JAKE'S THESIS, THE NIGHT BEFORE THE PRINT: A STRAIGHT-LINE PRICING-POWER PACE, ACTUAL CONTRACT PRINTS 
 - `2026-09-30` **[1]** rates-board.md:L3793 — 2026-09-30 close (Y'd ~6:35pm PDT) — 🔴 **THE REGISTERED TEST CLOSES: THE LONG END WOULD NOT RALLY ON A "COOL" PCE EITHER. 30Y 5.64 (+5) = HIGHEST CLOS
 - `2026-09-30` **[1]** new-economy-regime.md:L5021 — 2026-09-30 ~7:15pm PDT (Y'd ~6:35pm) — 🏗️ **STATE CAPITAL, THREE READINGS IN ONE DAY: KOREA'S "$200B" IS ONE APPROVED PROJECT; THE AI ACCORD POINTS TO
-- `2026-09-30` **[5]** memory-regime-question.md:L1471 — 2026-09-30 ~7:00pm PDT (Y'd ~6:35pm) — 📊 **MU FQ4: BEAT AND RAISE, MARGIN PLATEAU NOT ROLLOVER, CONTRACTS 16 → 26 WITH $32B OF CUSTOMER DEPOSITS — AND
+- `2026-09-30` **[5]** memory-regime-question.md:L1475 — 2026-09-30 ~7:00pm PDT (Y'd ~6:35pm) — 📊 **MU FQ4: BEAT AND RAISE, MARGIN PLATEAU NOT ROLLOVER, CONTRACTS 16 → 26 WITH $32B OF CUSTOMER DEPOSITS — AND
 - `2026-09-30` **[5]** compression-thesis.md:L3533 — 2026-09-30 ~7:10pm PDT (Y'd ~6:35pm) — 🏛️ **THE ACCORD'S PRIMARY, THE FTC'S COUNTER-MOVE, AND DEEPSEEK'S CUDA SUBSTITUTE — THE SAME DAY. ⛔⛔ VENDOR CON
 
 ## 2026-10

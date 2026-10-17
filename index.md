@@ -1,7 +1,7 @@
 # Vault Index — the map (read after CLAUDE.md)
 
 Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), then this (what exists + where).
-94 notes, 844 raw sources, 98 tools. Last built: 2026-10-17 (header, THREADS section, missing notes). Regenerate when notes are added/renamed.
+94 notes, 900 raw files (815 top level + 85 in sub-folders; inventory `handoffs/2026-10-17-raw-inventory.md`), 98 tools. Last built: 2026-10-17 (header, THREADS section, missing notes). Regenerate when notes are added/renamed.
 (+ `wiki/war/` containment added 2026-07-23: war-board / war-confirmed / war-rhetoric — the scannable war index.)
 
 > Two domains, two brains: THIS vault = markets research. The **trading system** is a SEPARATE repo
@@ -16,7 +16,7 @@ Table of contents for the `wiki/`. Read `CLAUDE.md` first (identity + rules), th
 - [[hyperscaler-credit]] — **stage 2**, created 2026-08-18. NVDA 5Y CDS ~40 → 80bp since late May.
 
 ## 🧵 THE THREADS — the librarian's map (`tools/acute_scanner_cell.py`, THREAD MAP block)
-58 threads · 7,535 terms (rebuilt 2026-10-17 from a read of every note; was 34 / 1,424). Each thread carries concepts / entities / measures and a ROUTE to its notes; `python3 tools/librarian.py` matches an inbound against all of them and prints the gate file per match. New since 10/17: **REFINING · MARITIME · RED-SEA · RUSSIA-UA · IRAN-POL · CHINA · VENEZUELA · FISCAL · INFLATION · BREADTH · EARNINGS · US-POLITICS · CREDIT · NEOCLOUD · GRID · NUCLEAR · AI-SAFETY · AI-ADOPTION · STORM · AIRLINES · PORTFOLIO · VAULT-OPS** (the last holds the sources/outlets and the vault's own process vocabulary). A NO MATCH with sweep hits is still a map gap — fix the map in the same turn (CLAUDE.md STEP ZERO).
+58 threads · 7,922 terms (rebuilt 2026-10-17 from a read of every note, every chat-log and the raw/ inventory; was 34 / 1,424). Each thread carries concepts / entities / measures and a ROUTE to its notes; `python3 tools/librarian.py` matches an inbound against all of them and prints the gate file per match. New since 10/17: **REFINING · MARITIME · RED-SEA · RUSSIA-UA · IRAN-POL · CHINA · VENEZUELA · FISCAL · INFLATION · BREADTH · EARNINGS · US-POLITICS · CREDIT · NEOCLOUD · GRID · NUCLEAR · AI-SAFETY · AI-ADOPTION · STORM · AIRLINES · PORTFOLIO · VAULT-OPS** (the last holds the sources/outlets and the vault's own process vocabulary). A NO MATCH with sweep hits is still a map gap — fix the map in the same turn (CLAUDE.md STEP ZERO).
 
 ## ⏱ THE GATES (`wiki/_timelines/`) — READ THE GATE BEFORE THE NOTE
 **29 merged per-thread chronologies, oldest → newest, auto-generated.** When an inbound matches a

@@ -3,7 +3,9 @@
 Built 2026-10-17 from a full read of: `predictions/` (17 files), `mim/` (14 files incl. README + 2 addenda), `menu/` (11 files), `data/flag_trades.csv` (20 rows), `wiki/grades.md` (names only).
 Conventions: line cites are `file:Lnn` from the files as they stand on 2026-10-17. "Claude HIT" = outcome fell on the side Claude gave >=50% (the scoreboard's rule). A call at exactly 50% is flagged COIN. "DERIVED" = I computed the status from stated numbers or from vault facts OUTSIDE the assigned files; DERIVED rows are never mixed into the "as filed" tally without a label. Nothing in the vault was edited.
 
-Directory map: `predictions/` = 17 files (16 call files + `_scoreboard.md`); `mim/` = README + 12 MIM days + 2 addenda; `menu/` = 11 menus (10/02, 10/05, 10/06, 10/07, 10/08, 10/09, 10/12, 10/13, 10/14, 10/15, 10/16). There is NO menu or MIM file after 10/16 (MIM 10/16 is the last registered; nothing after it is graded).
+**CORRECTION FROM JAKE, 2026-10-17 (relayed by the coordinator; applied throughout): MU was ALWAYS PAPER for Jake - he has not held MU since about June. Any July MU share trade in `wiki/portfolio-state.md` is therefore PAPER, not his actual trade.** The only such entry is `wiki/portfolio-state.md:L355-393` ("MU CLOSED: stopped out at $850, ~-13%, ~$520 on 4 shares", 2026-07-15); it is carried in E2 as PAPER and EXCLUDED from every ACTUAL total. The 7/31 "book holds MU + 28 semis" line (`portfolio-state.md:L718`) and the 'MU 28% of the book: paper or real?' item that `chat-log/2026-10-17.md:L11` lists as OPEN are answered by the same correction: PAPER. (The vault text itself is NOT edited by me; the contradiction with portfolio-state.md:L355-357 is flagged in H.)
+
+Directory map: `predictions/` = 17 files (16 call files + `_scoreboard.md`); `mim/` = README + 11 MIM days + 2 addenda; `menu/` = 11 menus (10/02, 10/05, 10/06, 10/07, 10/08, 10/09, 10/12, 10/13, 10/14, 10/15, 10/16). There is NO menu or MIM file after 10/16 (MIM 10/16 is the last registered; nothing after it is graded).
 
 ---
 
@@ -239,4 +241,181 @@ Each menu is "registered at build, graded in the NEXT menu, never edited." Tags 
 | menu/2026-10-16.md:L19 | 1 | TSM LONG (MIM Call 1; PAPER, half size) - ON | Entry = 6:30 print if 414.00-422.25; +3% / -3%; out Thu 10/22; prediction +3% before -3% | [MIM→C] = M20: fired 421.22; disconfirmer fired 10/16 ICE settle => exit Mon first print; UNGRADED | no later menu |
 | menu/2026-10-16.md:L20 | 2 | CRWV SHORT on a funding event (MIM Call 2) | NOT TRIGGERED (co-founder sales are not a raise) | [MIM→C] = M21: standing to 10/22 | mim/2026-10-16.md:L7 |
 | menu/2026-10-16.md:L21-22 | 3-4 | PARR (ACTUAL) hold; GOOGL (ACTUAL) hold - check condition (1) at tonight's ICE settle | none | [mgmt] GOOGL: condition (1) NOT met (0 of 2) at the 10/16 settle (mim/2026-10-16.md:L29) | mim/2026-10-16.md:L29-30 |
+
+
+---
+
+## E. TRADE LEDGER (data/flag_trades.csv)
+
+Header: `date_pt,name,side,flag,menu,entry,shares,limit,stop,time_stop,entry_note,status,exit_date,exit_px,result_pct,graded_vs_flag` - 20 data rows (CRLF; parsed with a CSV reader; multi-line notes are pipe-separated inside one cell). ACTUAL vs PAPER is read from the `shares`/`side`/`entry_note` cells. `data/flag_trades.csv` mtime 2026-10-17 04:23.
+
+| row | date | name | side | ACTUAL or PAPER | entry | exit | result % | status | graded_vs_flag summary (<=25 words) |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | 2026-10-05 ~8:50am | DHT | long | **ACTUAL** (100 sh) | 23.60 | 24.80 limit, filled 10/8 11:04am PT | **+5.08** (+$120 gross) | CLOSED (limit) | Tankers flag (fired 10/4) and menu 10/7 #4 both HIT; Windward-confirmed Qatar attack 10/7; target-first versus the 47/46 baseline. |
+| 2 | 2026-10-05 ~11:20pm (MIM 10/05 Call 1) | IWM | long | PAPER (conditional) | 281.85 (10/6 10:01am) | 277.88 (10/12 close) | -1.41 | CLOSED (time stop) | Prediction FAILED (IWM -2.00% vs SPY +0.31%); neither the 290.31 target nor the 273.39 stop touched. |
+| 3 | 2026-10-05 ~7:55am (gopher refinery scan) | DINO | long | PAPER (not a vault flag) | 114.20 | 117.63 (10/7) | +3.0 | CLOSED | Target first on day 3; refiner-scan triggers 2 of 2 at +3% (VLO 10/6, DINO 10/7). |
+| 4 | 2026-10-05 ~6:50am (gopher refinery scan) | VLO | long | PAPER (not a vault flag) | 410.41 | 422.72 (10/6) | +3.0 | CLOSED (target) | Target touched intraday day 2 (high 422.95); graded_vs_flag cell is blank. |
+| 5 | 2026-10-06 ~10:55pm (MIM 10/06 Call 1) | TSM | long | PAPER (Jake skipped the live trade) | 473.94 (assumed ask) | 459.72 (10/8) | -3.00 | CLOSED (stop) | Revenue leg PASSED (NT$511.86B); price leg failed, stopped -3%. Menu 10/8 stop-first lean HIT. Paper loss versus 47/46. |
+| 6 | 2026-10-07 ~10:00pm (MIM addendum pick) | DINO | long | PAPER (Jake's ACTUAL 117.40 day limit unfilled) | 117.40 | 120.00 (10/9 open) | +2.21 | CLOSED | Disconfirmer exit at the open (China resumes fuel exports); target 120.92 missed by $0.09 on 10/8. |
+| 7 | 2026-10-08 ~9:40pm (MIM 10/08 Call 1) | T | long | PAPER | limit 23.45 | none | n/a | SKIPPED | Skip rule fired (opened 22.28 < 22.70); shadow hit the +3% level by 7:29am and never the stop. |
+| 8 | 2026-10-08 ~9:40pm (MIM 10/08 Call 2) | ORCL Oct-23 130P | long put | PAPER (1-2 contracts) | <= 3.15 | stock stop 139.76 hit (10/9) | ~-30% of premium (est.; exact fill blank) | CLOSED | Stock stop hit within minutes of the open; credit leg also failed (CDS 255.3 < 260). Estimated -$0.95/share. |
+| 9 | 2026-10-08 ~9:35pm (MIM addendum Call 3) | HUM | long | PAPER (~5 sh) | 432 (filled 10/9 7:00am) | 415.50 (10/13) | -3.82 | CLOSED (stop) | MISS: 415.50 came before 455; Star Ratings catalyst overrun by the UNH sector read-through. |
+| 10 | 2026-10-09 ~9:25pm (MIM 10/09 Call 1) | UAL | long | PAPER (~23 sh) | none | none | n/a | SKIPPED | Skip rule fired (Brent Dec 106.80 > 106 at the open); skip avoided a loss (UAL -1.28% from open). |
+| 11 | 2026-10-12 ~9:15pm (MIM 10/12 Call 1) | MU | short (paper) / puts (Jake) | **PAPER** | 934.07 (10/13 open) | 871.58 (10/15 open) | **+6.69** | CLOSED (target; filled at open below it) | HIT. Gap-down follow study (n=40, 55/45) paid; closed at the open below the 906.05 target. |
+| 12 | 2026-10-13 ~9:15pm (MIM 10/13 Call 1) | GOOGL | long | PAPER (Jake bought ACTUAL separately: rows 15-16) | none (opened 355.73 in band) | none | n/a | SKIPPED | Disconfirmer fired (core CPI +0.3%, 10Y 5.33); shadow stop touched 10/15 (low 340.61) = shadow MISS. |
+| 13 | 2026-10-13 ~9:15pm (MIM 10/13 Call 2) | CRWV | short (paper) / puts (Jake) | PAPER | none | none | n/a | CONDITIONAL (STALE) | MIM 10/14 graded NOT TRIGGERED (shadow CRWV -15.46%); the CSV status was never updated. graded_vs_flag blank. |
+| 14 | 2026-10-14 ~6:15am (menu 10/14 #2) | ASML | short | PAPER | 1,678.29 | 1,728.64 (10/14) | -3.00 | CLOSED (stop) | MISS: 8-of-8 report-day pattern failed on day 9; stopped 6:38am, closed 1.69% below entry (stop too tight). |
+| 15 | 2026-10-14 ~8:15am (Jake fill) | GOOGL lot 1 (14 sh) | long | **ACTUAL** | 353.50 | open; 340.59 at the 10/16 close | -3.65% (-$180.74) unrealised | OPEN (ACTUAL) | Managed by Jake's conditions, not prices; per-lot +/-3% brackets are grading-only (lot 1 stop 342.90 touched 10/15 = grading MISS). |
+| 16 | 2026-10-14 ~1:00pm (Jake add) | GOOGL lot 2 (5 sh) | long | **ACTUAL** | 347.00 | open; 340.59 at the 10/16 close | -1.85% (-$32.05) unrealised | OPEN (ACTUAL) | Position 19 sh @ 351.79 = -$212.80 (-3.18%); conditions (1)-(4) not met; time decision before the Q3 report (after 10/20). |
+| 17 | 2026-10-14 ~9:10pm (MIM 10/14 Call 1) | CRWV | short (paper) / puts (Jake) | PAPER | 61.01 (10/15 open) | 62.84 (8:03am 10/15) | -3.00 | STOPPED (PAPER) | MISS on the bracket: squeeze 7:38-8:09am before Huang's remarks. Close-based test (10/21 close < 61.01) still open; 10/16 close 61.39. |
+| 18 | 2026-10-15 ~11:59pm (MIM 10/15 Call 1) | TSM | long (half size if ACTUAL) | PAPER | 421.22 (10/16 open) | exit at Mon 10/19 first print (pending) | provisional -2.04% at 10/16 close (412.61) | DISCONFIRMER FIRED 10/16 | CRWV 5Y 1,144.6 > 1,116.8 triggered the exit; stop 408.58 not touched (low 410.58). Final result unknown. graded_vs_flag blank. |
+| 19 | 2026-10-15 ~11:59pm (MIM 10/15 Call 2) | CRWV | short | PAPER (conditional on a funding event) | none | none | n/a | REGISTERED | Not triggered as of 10/16; standing to the 10/22 close. Ungraded. |
+| 20 | 2026-10-16 ~9:30pm (MIM 10/16 Call 1) | ORCL | short (half size) | PAPER (puts = Jake's choice) | none yet | none | n/a | REGISTERED | Conditional on Mon 10/19 open within 124.38-129.51; ungraded; no later MIM exists. |
+
+CSV status census: CLOSED 11 (1 ACTUAL + 10 PAPER, incl. the ORCL put and the time-stop IWM) · SKIPPED 3 (rows 7, 10, 12) · OPEN ACTUAL 2 (rows 15, 16) · CONDITIONAL/REGISTERED/PENDING 4 (rows 13, 18, 19, 20) = 20.
+
+### E2. ACTUAL and PAPER trades from wiki/portfolio-state.md (not in the CSV)
+
+`portfolio-state.md` is Jake's own disclosure ledger. Rule on file (`:L1155`): every "book" line must say ACTUAL or PAPER. His account is Fidelity, margin-enabled, options Tier 1 (buy calls/puts, covered calls, CSPs, long straddles; no spreads, no naked) per `:L473-477` and `:L1168`. Line numbers are as of 2026-10-17 (file mtime 10/16 21:21).
+
+| date | name / instrument | ACTUAL or PAPER | entry | exit / mark | result | status | source line |
+|---|---|---|---|---|---|---|---|
+| (before 7/7) | BNO Aug-21 $40 CALLS | ACTUAL | n/s | closed 7/7 | **-$68** | CLOSED | portfolio-state.md:L71 ("Confirmed real trades"); L1142 recalls it (as `:L219`) |
+| 2026-07-13 | SPY Jul-15 750 STRADDLE (1x 750C @ $3.03 + 1x 750P @ $3.51 = $654) | ACTUAL (fill confirmed 7/13 ~12:20pm) | $654 | 7/15 by Jake's marks: call +~$150, put -90% -> net ~-$166 = -25% | **~-$166 (-25%)** | CLOSED-by-marks (the vault "is not writing a close until Jake confirms he closed", L350-352) | portfolio-state.md:L325-352 |
+| 2026-07-15 | MU - 4 shares bought ~$980, stopped out at $850 | **PAPER (per Jake's 2026-10-17 correction: MU was always paper; not held since ~June)** | ~$980 | $850 stop | (~-13%, ~-$520 as the vault recorded it) - **EXCLUDED from all ACTUAL totals** | CLOSED (paper) | portfolio-state.md:L355-393; contradicted by the vault's own 7/9 disclosure that the MU sleeve was paper (L62-67) and the 7/17 Fidelity book that has no MU (L84-92) |
+| 2026-07-17 | MNST Jul-17 87.5 PUT x3 | ACTUAL | $512 | expired/closed $66 | **-$446 (~-87%)** | CLOSED | portfolio-state.md:L91-123 (post-mortem) |
+| 2026-07-23 | SPY +2 sh @ $738.46 (dip nibble; 3 SPY total basis $736.96) | ACTUAL | 738.46 | 10/2 mark +4.25% on 3 sh ($2,304.87) | open, +$94 on 10/2 | OPEN | portfolio-state.md:L488-499; L1167 |
+| 2026-07 | QQQM 5 sh @ $288.42 | ACTUAL | 288.42 | 10/2 +6.95% ($1,542.25) | open | OPEN | portfolio-state.md:L1167 |
+| (7/9 disclosure) | SPY Dec-18 745 PUT x1 (the hedge) | ACTUAL | $33.37/sh = $3,336.67 | marks: 7/17 $2,877; 7/31 $2,410 (-$927); 10/2 $1,115 (-$2,222, -66.6%); 10/9 ~$8.1/sh | open, deeply under water | OPEN | portfolio-state.md:L62-72,L84-92,L672+,L1166-1167; mim/2026-10-09.md:L70 |
+| (buy-hold) | LLY x1 (cost $930) / NOW x1 (cost $100) | ACTUAL | $930 / $100 | 10/2: +23.75% / +35.10% | open | OPEN | portfolio-state.md:L1167 |
+| 2026-09-09 | BNO PUTS | ACTUAL (size/strike/expiry blank) | n/s | "not good for my bno puts lol" | unknown | OPEN/unknown | portfolio-state.md:L1142 |
+| 2026-07-31 | GOOGL 355/375 CALL SPREAD | UNCONFIRMED (and a spread is outside Tier 1) | n/s | "status unconfirmed ... Jake to confirm fill" | n/a | UNCONFIRMED | portfolio-state.md:L71-72 (+L473-477) |
+| 2026-09-17 / 09-28 | PARR 100 sh @ $85.00 (bought 9/17 on margin) + SHORT Oct-16 $80 CALL sold 9/28 @ $3.14 ($318 credit) | ACTUAL | $85.00 / $3.14 | call BOUGHT BACK 10/15 11:27am PT @ $4.70 = **-$156 realised**; shares kept, uncovered; 10/16 close 83.42 = -$158 on shares, **-$314 incl. the call** (vs -$186 had it been assigned) | -$156 realised on the call; shares open | OPEN (shares) | portfolio-state.md:L1160,L1166-1168,L1200,L1205,L1207; mim/2026-10-16.md:L30 |
+| 2026-10-05 -> 10-08 | DHT 100 sh | ACTUAL | $23.60 | sold $24.80 limit 10/8 11:04am PT | **+$120 gross (+5.08%)**; cash freed $2,480 | CLOSED | portfolio-state.md:L1171,L1181 (= CSV row 1) |
+| 2026-10-14 | GOOGL 14 @ $353.50 + 5 @ $347.00 = 19 sh @ $351.79 | ACTUAL | 351.79 avg | 340.59 at the 10/16 close | **-$212.80 (-3.18%)** unrealised | OPEN | portfolio-state.md:L1182,L1184,L1207 (= CSV rows 15-16) |
+| ~2026-10-14 | FRONTLINE (FRO) sale | ACTUAL (a sale appears in Jake's Fidelity confirmations) | n/s | n/s | unknown | NOT ON FILE | portfolio-state.md:L1182 ("the Frontline sale ... is not on file") |
+| (10/2 snapshot) | small buy-holds: NVDA 1, VLO 0.52, VST 1.416, TLN 0.604, CEG 0.747, OKLO 3, UUUU 5.043, ALOY 5.685, LYSDY 3, MP 0.557, USAR 1.628, VG 5 (+ ~30 more tiny names on 7/31) | ACTUAL (marks only) | various | various | OKLO -24.17%, UUUU -23.11%, ALOY -33.86%, MP -15.30% (worst) | OPEN | portfolio-state.md:L672-728 (7/31 45-position book), L1167 |
+
+Not trades by Jake (PAPER, scored elsewhere): the 9/23 "registered book" incl. the ORCL/UAL/LEN "shorts" (`portfolio-state.md:L1150-1156`: "NEVER HIS HOLDINGS"), the DHT/UAL/LEN/TLT "bucket" (`:L1158`), the quiet-health basket, every MIM paper trade in E rows 2-14, 17-20, and the July MU share trade above.
+
+---
+
+## F. TALLY (computed from A-E; arithmetic shown)
+
+Counting rule: Claude = HIT when the outcome fell on the side he gave >=50%; Jake = HIT when his stated call occurred. "Filed" = a verdict exists in a vault file. "Derived" = I computed it from numbers or facts the vault states (labelled each time). IDs refer to A (set #n), B (B1-B31), C (M1-M23), D, E.
+
+### F1. Nightly prediction sets (Claude only - Jake registered no nightly sets)
+| item | arithmetic | result |
+|---|---|---|
+| Direction (6 July sets: #1 4/5; #2 ungraded; #3 3/4 [WTI unscored]; #4 2/5; #5 3/5; #6 3/5) | 4+3+2+3+3 = 15 hits of 5+4+5+5+5 = 24 graded | **15/24 = 62.5%**. If set #4's SPX "hit by rounding" is a miss: 14/24 = 58.3% |
+| Direction incl. the 10/5 auction-week set (2 HIT, 3 MISS, 1 PUSH -> 2/5) | 15+2 = 17 of 24+5 = 29 (+1 push) | **17/29 = 58.6%** (+1 push) |
+| Range, as filed (#1 3/5, #4 4/5, #5 5/5 after the 7/29 correction, #6 2/5; #3 not scored) | 3+4+5+2 = 14 of 20 | **14/20 = 70.0%** (target 80%) |
+| Range incl. #3 computed from stated numbers (4/4 IN; WTI no print) | 14+4 = 18 of 24 | 18/24 = 75.0% (DERIVED) |
+| Range incl. the auction-week set (6/6) | filed 20/26 = 76.9%; with #3 24/30 = 80.0% | (auction week = sandbagging flag per the scoreboard) |
+| Shape calls | #1 MISS, #4 MISS, #5 MISS, #6 SPLIT (close HIT / morning MISS), auction-week shape MISS; #2 and #3 UNGRADED | **0 full hits of 5 graded** (1 split: 1 of 2 legs) |
+| Spread calls (set #6 only) | software>semis HIT, payers>sellers HIT, staples/health>tech HIT | **3/3** |
+| Kill switches that FIRED (as scored) | #1: event fired/magnitudes not; #3: KS2, KS4, KS5 fired; #4: KS3 (variant); #5: KS3 (post-close), KS4, KS6; #6: KS1 (composition only) | 9 fired (1 partial, 1 variant, 1 post-close; set #2 KS2 'fired' is a pointer only and not counted); NOT fired/failed: #3 KS1, #5 KS1/2/5, #6 KS2/3/4; UNGRADED: #2 all 5 (KS2 pointer says fired), #3 KS3/KS6, #4 KS1/2/4/5, #6 KS5 |
+| Per-name earnings reactions (set #3) | GOOGL 53% up -> MISS; TSLA, NOW, IBM, QS ungraded | 0/1 graded |
+| Single-name 6-month (GEHC) | B1 | OPEN (resolves 12/31/2026) |
+
+### F2. Dated single-event calls (B section)
+Jake (call-by-call IDs in B; hedged sub-claims B11, B14, B17 excluded; B8 and B24-B31 carry no Jake position):
+| basis | HIT | MISS | OPEN | arithmetic |
+|---|---|---|---|---|
+| **As filed** | 8: B2, B3, B4, B6, B7, B12, B16, B21 | 6: B9, B10, B13, B19, B20, B22 | 3: B5, B18, B23 | 8 of 14 resolved = **57.1%** |
+| **Incl. derived** (B15 W3 any-retaliation = YES by subsumption; B23 Fed hike resolved YES on 9/16) | 10 | 6 | 2: B5, B18 | 10 of 16 = **62.5%** |
+Caveats: B6 is HIT per the scoreboard's 20-threshold, not the file's own "28 zone in 2-3 weeks" wording; B16 rests on one anonymous source (kept in the grade); B17 mining window stays open to Nov 3.
+
+Claude (items with numeric odds, headline level; "sub-legs" are the extra probability statements inside B8 and B19):
+| basis | HIT | MISS | OPEN | arithmetic |
+|---|---|---|---|---|
+| **As filed, headline** | 9: B8, B9, B10, B11, B12, B13, B14, B16 (50% coin), B22 | 4: B2 (53% up), B19 (60% down), B20 (65% yes), B21 (30% yes) | 4: B1, B17 (40%), B18, B23 | 9 of 13 = **69.2%**; excluding the 50% coin B16: 8 of 12 = 66.7% |
+| **Incl. derived** (B15 HIT at 85%; B23 MISS on the final 40%) | 10 | 5 | 3: B1, B17, B18 | 10 of 15 = 66.7% |
+| **Incl. probability sub-legs** (B8 up/down/diesel all NO; B19 three NO sides) | +6 -> 15 | 4 | 4 | 15 of 19 = 78.9% (inflated by NO-side legs; shown for completeness) |
+| **Positions without numeric odds** | - | 3: B4 (set #4 relief squeeze vs Jake's tug-of-war), B6 (VIX objection), B7 (Apple call) | - | Claude lost all three head-to-heads where only a stance was on file |
+| **Auction-week set (B24-B31, Claude only)** | dir 2 (SOXX, MU) | dir 3 (SPY, QQQ, DHT) + shape 1 | push 1 (WTI) | direction 2/5 (+1 push); range 6/6 |
+The scoreboard's own statement "Claude 2 of 3" on the 10/1 call (B20-B22) is wrong by its own parenthetical: it is 1 of 3 (see H).
+
+### F3. MIM calls (C section; 16 distinct trade calls after removing 3 NO-TRADE statements M1/M3/M5, the blind registration M8, the carried LEN conditional M7, and duplicates M13/M23)
+| bucket | count | members |
+|---|---|---|
+| Fired (position opened, paper or actual) | **8** | M2 IWM, M4 TSM, M6 DINO, M10 ORCL put, M11 HUM, M15 MU, M18 CRWV, M20 TSM(10/15) |
+| Skipped by own rule | 3 | M9 T (skip cost a winner), M12 UAL (skip avoided a loss), M16 GOOGL (shadow MISS; Jake bought ACTUAL) |
+| Conditional, NOT triggered | 3 | M17 CRWV-Volta, M19 TSM fade, M21 CRWV funding-event (standing to 10/22) |
+| Management of an ACTUAL position | 1 | M14 PARR (not followed; ungraded) |
+| Registered, ungraded | 1 | M22 ORCL short |
+| **Total** | **16** | 8+3+3+1+1 |
+Of the 8 fired: **closed 7, pending 1 (M20)**. Closed 7 -> **HIT (target) 1** (M15 MU +6.69%) · **MISS (stop) 4** (M4 -3.00, M10 est. -30% of premium, M11 -3.82, M18 -3.00) · **TIME 1** (M2 -1.41) · **RULE-EXIT win 1** (M6 +2.21; target missed by $0.09). Registered predictions (bracket + condition): 1 HIT of 7 closed.
+Average result of the 6 closed MIM stock trades (M10 option excluded - premium % not comparable): (-1.41 -3.00 +2.21 -3.82 +6.69 -3.00) / 6 = -2.33 / 6 = **-0.39%** (n=6; 2 winners, 4 losers). Including M10 as a loss: 2 winners / 5 losers of 7.
+Blind registration M8 (TSMC revenue): HIT (inside the 80% range; 3/3 probability sides). NO-TRADE statements: M1 RIGHT, M3 RIGHT, M5 superseded.
+Skips explicitly graded in C2: META RIGHT; WDC cost ~1.4%; MU wait cost +4.06%; LEN no signal; ORCL fine; CEG/VST/TLN mixed.
+
+### F4. Menu items (D section; 25 menu-ORIGINATED predictions; MIM-inherited items, duplicates and management lines excluded)
+| bucket | count | members |
+|---|---|---|
+| HIT | **5** | 10/05 #1 DHT, 10/06 #3 CEG, 10/07 #4 DHT, 10/08 #2 DHT, 10/08 #4 TSM |
+| MISS | **3** | 10/02 #4 Refiners (red branch fired), 10/06 #2 DHT (by 8c), 10/14 #2 ASML |
+| PARTIAL | 2 | 10/02 #1 Tankers, 10/07 #3 Refiners/Isaias |
+| NEITHER branch fired | 4 | 10/02 #3, 10/05 #3, 10/06 #4 (LEN), 10/08 #3 (30Y) |
+| UNGRADED (never closed by a later menu) | **11** | 10/02 #2 AVGO, #5 MU; 10/05 #2 Refiners, #4 Hedge, #5 MU; 10/06 #5 MU; 10/08 #5 PARR; 10/09 #1 UMich, #2 Delta, #3 Apple; 10/12 #2 PARR |
+| **Total** | 25 | 5+3+2+4+11 |
+Decisive formal grades: 5 HIT / 3 MISS = 62.5%. DATA-IMPLIED on the ungraded (my reading, not filed): HIT 2 (10/09 #3 Apple; 10/12 #2 PARR >= $80), MISS 2 (10/09 #2 Delta; 10/08 #5 PARR stop level printed first), 1 unresolvable (10/09 #1 UMich: prior reading not on file), 6 without a clean verdict -> with implied: 7 HIT / 5 MISS. Menu-level OPEN (still pending at the last menu): 10/16 #1 TSM, #2 CRWV (both are MIM calls, counted in C).
+
+### F5. Trades
+| ledger | n | result |
+|---|---|---|
+| **ACTUAL, flag-trade CSV, closed** | 1 | DHT: 1 win / 0 loss, **+$120 gross (+5.08%)** |
+| ACTUAL, flag-trade CSV, open | 2 lots | GOOGL 19 sh @ 351.79 -> 340.59 = **-$212.80 (-3.18%)** unrealised at the 10/16 close |
+| **ACTUAL closed, wider portfolio-state ledger (E2)** | 4 | DHT +$120 · MNST puts -$446 · BNO Aug calls -$68 · SPY Jul-15 750 straddle ~-$166 (Jake's marks; close unconfirmed) -> 1 win / 3 losses, net **-$560** (-$394 if the straddle is excluded as unconfirmed: 1W/2L). Plus PARR call buy-back -$156 realised (leg of an open pair) -> -$716 / -$550 |
+| ACTUAL open with large marks (not trades closed) | - | SPY Dec-745 put -$2,222 at 10/2 (~$8.1 vs $33.37 on 10/9); PARR shares -$158 at 10/16; not netted into the closed totals |
+| **PAPER closed (CSV), stock/ETF** | **9** | wins 4 (DINO scan +3.0, VLO +3.0, DINO MIM +2.21, MU +6.69) / losses 5 (IWM -1.41, TSM -3.00, HUM -3.82, ASML -3.00, CRWV -3.00). Sum +0.67 -> **average +0.07%** (n=9) |
+| PAPER closed, option | 1 | ORCL Oct-23 130P ~-30% of premium (est.) |
+| PAPER skipped / pending | 3 / 4 | skipped T, UAL, GOOGL; pending CRWV (stale), TSM, CRWV, ORCL |
+| All closed stock incl. ACTUAL DHT | 10 | sum +5.75 -> average +0.58% |
+| Bracket outcomes among closed paper+actual that touched a leg | target-first 4 (DHT, VLO, DINO scan, MU) vs stop-first 5 (TSM, HUM, ASML, CRWV, ORCL put) | 4 vs 5 = 44% vs 56% (baseline on file 47/46, n~17,400) |
+The July MU share trade is PAPER (Jake, 2026-10-17) and appears in none of these ACTUAL numbers.
+
+### F6. HEAD-TO-HEAD: every item where Jake and Claude took OPPOSITE sides
+| # | item | Jake's side | Claude's side | outcome | winner | source |
+|---|---|---|---|---|---|---|
+| 1 | GOOGL earnings 7/22 (B2) | DOWN to 318-319 | 53% UP (leaned escape-hatch) | -7.12% | **JAKE** | _scoreboard.md:L24-43 |
+| 2 | 7/27 tug-of-war vs relief-squeeze (B4 / set #4) | relief won't rescue the market | SPX +0.9% 68% up, QQQ +1.1% 63% up | oil off-ramped, equities fell/flat | **JAKE** | _scoreboard.md:L58-75 |
+| 3 | VIX pop through 20 (B6) | pop | "VIX crushes after the event" objection | VIX 20.10 (+10.44%) 7/29 | **JAKE** | _scoreboard.md:L179-185 |
+| 4 | Apple/capex-premium call (B7) | premium to non-capex mag-7 | stated position against (no odds) | Apple $5T, "investors flee AI" | **JAKE** | _scoreboard.md:L117-121,L184-185 |
+| 5 | Iran retaliation W1 any (B9) | YES | 30% (leans NO) | NO | **CLAUDE** | _scoreboard.md:L192-194 |
+| 6 | Iran W1 Petroline damage (B10) | favoured target | 12% (leans NO) | NO | **CLAUDE** | same |
+| 7 | Iran W2 Petroline damage (B13) | favoured target | 30% (leans NO) | NO (shipping was hit instead) | **CLAUDE** | _scoreboard.md:L203-208 |
+| 8 | Weekend escalation (B21) | YES | 30% (leans NO) | MET (UKMTO tankers 10/3-10/4) | **JAKE** | _scoreboard.md:L221-222 |
+| 9 | Brent >= 5% weekend gap (B22) | YES | 25% (leans NO) | +0.33% | **CLAUDE** | _scoreboard.md:L220 |
+| 10 | Fed hike before December (B23) | YES | final 40% (leans NO; 65% on YES side only 8/2-8/6) | hike 9/16 (DERIVED, not filed) | **JAKE (derived)** | rates-board.md:L3760-3763 |
+| 11 | TSM long into TSMC revenue (M4) | skeptical, declined the live trade | long (MIM, with the other tool) | stopped -3.00% on 10/8 | **JAKE** ("Jake 1, vault 0") | wiki/_calibration.md:L1328; flag_trades row 5 |
+| 12 | GOOGL entry 10/14 (M16) | BUY (ACTUAL, 19 sh @ 351.79) | SKIP (disconfirmer fired) | OPEN: ACTUAL -3.18%; shadow MISS | **OPEN (leaning Claude so far)** | menu/2026-10-15.md:L24; mim/2026-10-16.md:L29 |
+| 13 | PARR call (menu 10/15 #2) | bought the call back, kept the shares | lean: let the shares be assigned | OPEN: -$314 vs -$186 at the 10/16 close (-$128 behind) | **OPEN (leaning Claude so far)** | menu/2026-10-16.md:L14; mim/2026-10-16.md:L30 |
+| 14 | PARR close-both-legs (M14) | held | close at Monday's open | UNGRADED (no file states a verdict) | **OPEN** | mim/2026-10-12.md:L7 |
+Not opposite (same side or Jake took no side): B3 (Claude none), B8 (Jake none), B12 (both YES, both HIT), B16 (Claude exactly 50%: COIN), B19 MU print (both DOWN, both MISS), B20 (both YES, both MISS), IWM thesis (M2: Claude built the call on Jake's thesis, then its own menu lean said FAILS and was right), set #1-#6 and the auction week (Jake predicted nothing).
+**Head-to-head score, resolved, filed + derived:** Jake 7 (#1, #2, #3, #4, #8, #10 derived, #11) vs Claude 4 (#5, #6, #7, #9); open 3 (#12, #13, #14). Filed-only (excluding #10): Jake 6 vs Claude 4. Items with a numeric Claude probability only (#1, #5, #6, #7, #8, #9, #10): Jake 3 (#1, #8, #10 derived) vs Claude 4.
+
+---
+
+## G. NAMES CARRIED IN wiki/grades.md (the frozen 1-10 ledger; no outcome grading expected)
+The ledger is frozen since 2026-09-23 (rule 16d replaced the number with bear/flat/bull marks); a header line was added 2026-10-17 (so cited line numbers in that file have shifted by +2). 49 table rows covering 50 tickers, grade then date of last move: NVDA 6 (9/3) · IREN 5 (9/7) · CRWV 2 (9/3) · SBE 3 (9/1) · HWM 5 (9/1) · GEV 7 (9/1) · VST/CEG/TLN 7 (9/1) · MU 8 (9/15) · VLO 9 · MPC 9 · PBF 8 · PSX 7 (all 9/1) · PARR 8 (9/4) · DINO 8 (9/1) · ORCL 4 (9/12, from 5) · EWY 6 (9/4) · USAR 6 · MP 6 (9/4) · ETN 7 · PWR 7 (9/2) · BE 6 (9/4) · CEG 7 · BWXT 6 (9/2) · OKLO 4 (9/5) · DELL 8 · CRDO 6 · AVGO 8 · MRVL 6 (9/3) · VRT 7 (9/2) · AAPL 4 · GOOGL 7 · MSFT 6 · META 6 · AMZN 5 · TSLA 3 (9/6) · HUBB 6 (9/7) · TSM 8 (9/10, from 7) · VG 7 · XOM 6 · CVX 6 · COP 5 · OXY 5 · EQT 6 (9/10) · LNG 6 (9/7) · QCOM 6 · QBTS 4 · RGTI 4 · GFS 5 (9/8) · ETR 7 (9/22). Later sections of the file hold the 9/11 LEAPS top-5 (EQT 6, GEV 7, VST/CEG/TLN 7, TSM 8, MU 8) and the 9/10 mechanism table. Grade-vs-outcome is not scored here; the grades were never registered with a price target or date, so they are not gradeable as calls.
+
+---
+
+## H. FLAGS, DISCREPANCIES AND GAPS FOUND WHILE READING (facts only; nothing edited)
+
+1. **Stale scoreboard header.** `_scoreboard.md:L16-19,L22` lists only sets #1-#2 and says "Sets graded: 1"; the real grades sit in later sections (sets #3 prelim, #4, #5, #6).
+2. **Set #2 (7/13) never graded** in predictions/ or the scoreboard (pointer only: wiki/new-economy-regime.md:L911-912 says KS2 fired on a soft print). **Set #3 final never posted** ("final at Thu close"); WTI has no print in the scoreboard; TSLA/NOW/IBM/QS reactions ungraded.
+3. **Arithmetic slip** at `_scoreboard.md:L222`: "Claude 2 of 3 on the majority sides (a MISS, b MISS, c HIT)" - that parenthetical is 1 of 3.
+4. **GOOGL base** differs: 2026-07-22-googl-earnings.md:L7 says $342.33; the scoreboard grades off $342.09 (L25,L40). Outcome unchanged (-7.1%).
+5. **Fed-hike call has NO filed grade** although the condition was met on 2026-09-16 (wiki/rates-board.md:L3760-3763). It is the biggest single ungraded Jake-vs-Claude item.
+6. **Iran W3**: "any retaliation" never separately graded; mining claims of 10/9 (IRGC "southern Strait mined"; AlHadath "Houthis planted mines") await a ruling by Jake or Nov 3.
+7. **flag_trades.csv row 13** (CRWV conditional on Volta) is still CONDITIONAL although MIM 10/14 graded it NOT TRIGGERED; rows 4, 18, 19, 20 have blank graded_vs_flag; row 8 holds text in `exit_px` and a rounded estimate in `result_pct`; row 9 writes "-3.82%" with a % sign.
+8. **MU contradictions** (Jake's 10/17 correction = PAPER): portfolio-state.md:L355-357 records the 7/15 stop-out of 4 MU shares as if actual; L62-67 (7/9) says the MU sleeve was paper; L718 (7/31) says the book "holds MU + 28 semis"; chat-log/2026-10-17.md:L11 lists "MU 28% of the book: paper or real?" as OPEN. Jake's correction resolves all four toward PAPER.
+9. **Fidelity Tier-1 constraint vs older entries**: the 7/31 "GOOGL 355/375 call spread" (portfolio-state.md:L71) is a spread; Tier 1 forbids spreads (L473-477) - status unconfirmed since 7/9.
+10. **Unrecorded ACTUAL**: a Frontline sale (10/14 email brief) is not on file (portfolio-state.md:L1182), so cash and the ACTUAL realised total are incomplete.
+11. **PARR M14 prediction** (exit-at-open beats holding to expiry) has no verdict in any file; the 10/16 expiry became moot when Jake bought the call back 10/15.
+12. **Menu items left OPEN forever** (11 of 25 menu-originated predictions never graded); several are gradeable from facts already in later files (D shows which).
+13. **Last-file limits**: MIM 10/16 and menu 10/16 are the last; M20 (final TSM exit), M22 (ORCL short), M21 (CRWV funding event), CRWV close test (10/21), GOOGL (time decision around 10/20), PARR shares and the SPY Dec-745 put are all unresolved. Dates that would grade them: Mon 10/19 open (TSM exit, ORCL entry), 10/21 close (CRWV 61.01 test), 10/22 close (CRWV funding window), 10/23 close (ORCL), 11/3 (Iran W3 mining), 12/18 (SPY put expiry), 12/31 (GEHC), ~2030 (BTM share).
+14. **Line cites** are as of the read on 2026-10-17; of the assigned files only `wiki/grades.md` changed during my pass (header line added; +2 shift). Predictions, MIM, menu, CSV and portfolio-state files were stable.
 

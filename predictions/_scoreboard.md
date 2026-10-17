@@ -240,3 +240,13 @@ this week (after the Apple-capex-premium call), both against my stated position.
 - **Against the registered letter:** damage needs "the target government or an independent wire report" → AFP meets it; attribution "Houthi claims count" → met. ⚠️ **Caveat kept in the grade:** "damage" rests on one anonymous source, and the minister put flow at 5.8 mb/d two days later (10/6).
 - **Claude's registered odds vs outcome:** Petroline/Yanbu damage before Nov 3 ~50% → YES. **Jake: favoured target Petroline/Yanbu → HIT in window 3** (window 2 was a MISS on target: the retaliation came on shipping first).
 - **Still open in window 3:** mining attempt/claim (Claude ~40%). Candidates on file but NOT graded here: the IRGC "southern Strait of Hormuz is mined" warning and AlHadath's "Houthis planted sea mines" in Bab al-Mandab (both 10/9, `war-board:L5487`); grade at the window close or on Jake's ruling.
+
+## GRADE — Jake's 9/25 Iran-retaliation call, WINDOW 3 MINING LEG (graded 2026-10-17 ~10:00am PDT, on Jake's prompt)
+- **Mining attempt/claim before Nov 3: YES.** The IRGC claimed mine strikes in the Strait on 10/10 (tanker), 10/12 (tanker), 10/14 (container ship sank) and 10/17 (supertanker; Reuters: two tankers), reported by Reuters and AP. The file's rule: "a claim alone counts as an attempt"; window 2's NO rested on "no Iranian claim of mining." No independent mine confirmation exists (UKMTO, JMIC, US Navy); the grade rests on the claim standard, as the rule allows. Detail and sources: `wiki/war/war-board.md` 10/17 ~10:00am.
+- **Claude's registered odds vs outcome:** mining ~40% → YES ⇒ **MISS.** **Jake:** hedged ("possibly paired with… a mining attempt") ⇒ **not scored**, the same treatment as windows 1–2, where the NO did not count against him. The hedge came true.
+- **The 9/25 file is now fully graded:** any retaliation YES/YES/YES · Petroline damage NO/NO/YES · mining NO/NO/YES. Jake on his main legs: 3 of 3 retaliation windows, 1 of 3 on the favoured target. Claude: 7 of 9 cells on the ≥50% side.
+
+## CORRECTIONS FOUND IN THE 2026-10-17 ALL-TIME COUNT (appended; nothing above edited)
+- **L222 arithmetic:** "Claude 2 of 3 on the majority sides (a MISS, b MISS, c HIT)" is **1 of 3** by its own parenthetical.
+- **The RUNNING RECORD and CALIBRATION STATS blocks at the top stopped at set #2** ("Sets graded: 1"). The full count, including sets #3–#6, the auction week, every dated call and both trade ledgers, lives in `wiki/_scorecard.md`.
+- **Never graded until now:** Jake's Fed-hike-before-December call (`2026-07-30-fed-hike-before-december.md`) resolved **YES on the 9/16 hike** (`wiki/rates-board.md` 9/16) ⇒ **Jake HIT · Claude's final ~40% ⇒ MISS.** Set #2 (7/13) remains ungraded (no prints on file).
