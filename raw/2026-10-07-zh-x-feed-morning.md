@@ -1,0 +1,26 @@
+# ZH X feed, pasted by Jake 2026-10-07 ~7:05am PT (timestamps relative to paste)
+- 23m: GOLDMAN SACHS SHARES TURN NEGATIVE FOR 2026
+- 23m: *WEBULL SHARES SINK 21%, MOST INTRADAY SINCE APRIL 2025
+- 24m: *HESS MIDSTREAM SHARES FALL 14%, WORST DROP IN SIX YEARS
+- 32m: 10Y 5.36%
+- 34m: Spain Unions Crash Election Campaign, Calling a General Strike: BBG
+- 38m: CIA Officer Arrested With Gold Bars Admits Exposing Top-Secret Source To Foreign Government
+- 52m: *KALSHI FILES PROPOSAL FOR NEVER-EXPIRING OIL CONTRACT WITH CFTC — CME cancels 24/7 oil futures trading plan... others immediately step in
+- 58m: US Reiterates "Do Not Travel" Warning For Russia After Lab Worker's Death Raises Plague Fears
+- 2h (Market Ear repost): Rare to see Financials oversold with the index sitting a touch below ATHs
+- 1h: OAT Open Interest Drop to 3-Week Low Suggests More Shorts Exited: BBG ... and today they came right back
+- 1h: Blanche Says DOJ Is Using Fraud Laws To Combat Birth Tourism
+- 1h: Isaias Forecast To Become Season's First Atlantic Hurricane, Threatening Gulf Coast Rigs, Major Refineries
+- 1h: Futures Slide From Record As Oil Jumps On Hormuz Tanker Attacks, 30Y Yield Hits 2002 High
+- 1h: Top Overnight News — Takaichi: government may review spending and revenue plans if bond yields move unexpectedly (BBG); EU preparing measures to limit imports of Chinese hybrid vehicles, one option a levy
+- 1h: World Bank Warns Asia Is Running Out Of Money To Fight Energy Shock
+- 2h: *UK 30-YEAR YIELD ADVANCES 12BPS TO 6.02%, HIGHEST SINCE 1998
+- 2h: Premarket movers: AAPL +0.6%, META -0.1%, GOOGL -0.5%, NVDA -0.6%, AMZN -0.6%, MSFT -0.7%, TSLA -0.8%; STZ -5.5%
+- 2h: *EX-BARCLAYS TRADERS HAVE RATE-RIGGING CONVICTIONS OVERTURNED
+- 2h: Bonds & Stocks Are "Pricing A Fundamentally Different Macro Regime"; Deutsche Is Watching These 5 Market Dislocations Closest
+- 2h: Standard Chartered Says Hormuz Oil Flows Are Far From Normal
+- 2h: FRANCE-GERMANY 10-YEAR YIELD SPREAD WIDENS 13BPS TO OVER 140BPS
+- 3h (Market Ear repost): Everyone is watching OATs. We're watching the euro.
+- 2h: US MBA 30-YEAR FIXED MORTGAGE RATE JUMPS TO 7.49% FROM 7.3%
+- 3h: *IRAN ARMY SAYS IT WILL LAUNCH PREEMPTIVE ATTACK IF NEEDED: FARS
+- 3h: *IRAN SAYS IT WILL SOON BLOCK 'ILLEGAL' ROUTES IN HORMUZ; *IRAN SAYS WEAPONS RANGE CAN BE RAISED AS BATTLEFIELD REQUIRES

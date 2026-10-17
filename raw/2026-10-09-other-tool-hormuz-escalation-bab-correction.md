@@ -1,0 +1,10 @@
+# Other tool's reply to Jake ("on the water it's escalating"), pasted 2026-10-09 ~12:50pm PT, verbatim
+You're right: on the water it's escalating, not de-escalating. Trump did pledge Thursday not to attack Iran before the Nov 3 midterms while keeping the blockade of Iranian ports in place, and crude dropped right after he said it. But since then:
+- Tanker attacks are at a wartime high. Eleven tankers were attacked transiting Hormuz in the week ended Oct 4, the most since the war began, and five more this week.
+- Iran is reaching outside the strait. Two tankers were hit within 24 hours, one off Qatar (the first attack there in six months) and one off Fujairah in the Gulf of Oman.
+- Hormuz traffic fell to its lowest in more than two months after the attacks, per Reuters.
+- "Total control" doesn't square with the flow data. Trump said 22M barrels passed through overnight; Kpler had last week at 8.5M barrels/day, about 40% below pre-war.
+One correction on Bab el-Mandeb: the mining report isn't a Houthi claim. It comes from Saudi-funded Al Arabiya, which reported today that the Houthis laid a large quantity of mines and that Saudi-backed teams are clearing them. The Houthis have said the strait stays open except to Saudi- and Israeli-linked ships. Similar mining reports surfaced in August and September, and I haven't seen US confirmation.
+What hit VLO today probably wasn't de-escalation. The sharp drop on your chart lines up with the Russia diesel post around 2:48 p.m. ET. De-escalation also cuts both ways for refiners: cheaper crude helps their margins, while more Gulf fuel supply hurts them.
+For your put, your read cuts against it. More tanker attacks and a possibly mined Red Sea keep diesel tight, which supports refiner margins. The put is a bet that the Russia headline outweighs all of that within a week.
+Sources: CNN 10/8 (trump-iran-attack-election) · CBS live updates · CNBC 10/9 (iran-war-strait-hormuz-tanker-attack-oil) · Euronews 10/8 (iran-strikes-tankers-outside-hormuz) · GlobalSecurity oprep · WNG · ZeroHedge (iran-goes-offensive-strikes-lpg-tanker…) · Hamer Intel alert 19367 · AzerNews 263991

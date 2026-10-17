@@ -393,3 +393,15 @@ Source: `tools/spy_weekly_poc_scan.ipynb`, Jake ran 15y, window=6, CASH_YIELD=0.
   drift. Jake's edge is regime research + owning the right things, not a trading overlay. Tools proved it.
 - Links: [[consumption-vs-investment-crux]] (own-the-capital + hold), [[market-fragility]] (the chop/
   trigger regime where these overlays WOULD win), [[portfolio-state]].
+
+## 2026-10-02 ~9:20am PDT — the +3% limit / stop bracket as a DAILY ROTATION: still a coin flip on price alone ⇒ the edge must come from the vault's flags (extends the 7/15 Stage-2 entry)
+Source: `tools/three_pct_board.py --backtest` (Yahoo daily bars, 2y, 40 vault names; entry at the open; target +3%; a day touching both target and stop scored as a stop (2-6% of trades); gaps exit at the open; trades overlap; no costs, no idle-cash yield).
+#### DATA (observed)
+- +3/−2, hold ≤3d: target 35% · stop 56% · mean −0.02%/trade (n=17,439) · hold ≤5d: 38% / 59% · −0.01%.
+- +3/−3, hold ≤3d: 41% / 42% · +0.03% · hold ≤5d: 47% / 46% · +0.04% (n=17,359) · last 6 months, ≤5d: 50% / 46% · +0.15% (n=4,840).
+- Filters on price: ATR ≥3% — no help (slightly worse); above/below the 20- and 50-day averages — no help.
+#### THESIS (interpretation — NOT fact)
+- *(analysis)* **Same verdict as 7/15 in a different shape:** a bracket picked on price alone has no edge — a stock that can move +3% moves −3% about as often. ⚠️ The universe was chosen today (survivorship tilts it UP) and it still nets ≈0.
+- *(analysis)* **What the bracket DOES buy is a defined exit** — the cure for the PARR trap (Jake 10/2: "the stock will either go, or not, either way I need to be disciplined to exit, reassess and try again"). A −2% stop is inside normal noise for these names (touched on roughly half of days) ⇒ −3%.
+- *(Jake's thesis, adopted)* **The edge has to come from the vault's conditions** → [[flag-board]] + the daily `menu/` (rule 16e). Baseline to beat: 47% target / 46% stop.
+- Links: [[flag-board]] · [[portfolio-state]] (PARR, 10/2).

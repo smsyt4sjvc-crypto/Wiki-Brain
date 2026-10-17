@@ -1,6 +1,6 @@
 # ⏱ CAPEX — merged timeline (the gate)
 
-> **170 dated entries across 3 notes · 2026-05-22 → 2026-09-25 · refreshed 2026-09-28 19:41 PDT**
+> **174 dated entries across 3 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-17 11:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -195,3 +195,10 @@
 - `2026-09-10` [ai-capex-cycle.md:L3690](../ai-capex-cycle.md) — Addendum 2026-09-10 ~2:20pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE LINE THE SUMMARY DID NOT CARRY: **ORACLE'S SOFTWARE REVENUE *MISSED* ($5.55B vs $5.67B) WHILE OCI *BEA
 - `2026-09-25` [ai-capex-cycle.md:L3702](../ai-capex-cycle.md) — 2026-09-25 ~6:01am PDT (Y'd ~6:10am) — ⭐⭐⭐⭐ **AUGUST DURABLES: THE AI FOOTPRINT IS IN THE ORDERS — COMMUNICATIONS EQUIPMENT +40% Y/Y, CORE CAPEX NEARL
 - `2026-09-25` [ai-capex-cycle.md:L3710](../ai-capex-cycle.md) — 2026-09-25 ~4:55pm PDT (Y'd ~6:05pm) — 🔁 **JAKE'S LOOP, THIRD LEG: THE GROWTH THAT JUSTIFIES HIGHER REAL YIELDS IS ITSELF THE DEBT-FINANCED AI SPENDIN
+
+## 2026-10
+
+- `2026-10-03` [balance-sheet-board.md:L818](../balance-sheet-board.md) — 2026-10-03 ~1:35pm PDT (filed under rule 22c) — 🧾 **ZH: "META's $628B 'FOOTNOTE' — COUNT IT AND THE STOCK GETS 35% MORE EXPENSIVE." THE NUMBERS ARE TH
+- `2026-10-12` [ai-capex-cycle.md:L3880](../ai-capex-cycle.md) — 2026-10-12 ~10:15am PDT — 🗓️ **THE 10/21 AFTER-CLOSE CLUSTER: SAP · IBM · LRCX · TSLA · TXN — WHAT EACH PRINT TESTS, AND WHAT THE PASTE LEFT OUT.** *(
+- `2026-10-12` [ai-capex-cycle.md:L3900](../ai-capex-cycle.md) — Addendum 2026-10-12 ~10:40am PDT — 🚗 **TESLA, PROPERLY (Jake: "What about Tesla. You just glossed it" — he was right; the 10:15am entry gave it two li
+- `2026-10-12` [balance-sheet-board.md:L830](../balance-sheet-board.md) — Pointer 2026-10-12 ~10:40am PDT — **TSLA (issuer side, closes part of the `:L116` ⬜): $30.0B of NEW UNSECURED BANK LINES, 8-K 9/29 — on-sheet, not a v

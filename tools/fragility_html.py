@@ -210,6 +210,19 @@ p.note:last-child{margin-bottom:0}
 code{font-family:"IBM Plex Mono",ui-monospace,monospace;background:var(--accent-soft);
   color:var(--accent);border-radius:4px;padding:1.5px 5px;font-size:11.5px}
 a{color:var(--accent)}
+table.tbl-s{min-width:0}
+td.sp-s{width:100px}
+.sub.tn{color:var(--ink-2);font-size:11.5px;margin-top:4px}
+.tag{display:inline-block;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:9px;
+  font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);
+  border:1px solid var(--line);border-radius:3px;padding:1px 4px;margin-left:4px}
+.tally{display:flex;flex-wrap:wrap;gap:6px 18px;align-items:baseline;margin:0 0 12px;
+  font-size:12.5px;color:var(--ink-2)}
+.tally b{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:20px;font-weight:600;
+  color:var(--ink);margin-right:5px;font-variant-numeric:tabular-nums}
+.tally b.neg,.oc.neg{color:var(--neg)} .tally b.pos,.oc.pos{color:var(--pos)}
+.oc{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;font-weight:600}
+.oc.mut{color:var(--ink-3)}
 :focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:3px}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 @media (max-width:640px){
@@ -269,6 +282,70 @@ gaps_html = "".join(
     % (g["chart"], escape(g["name"]), escape(g["status"]), escape(g["why"]))
     for g in D["gaps"])
 
+# ---- AI-complex credit: ICE single-name 5Y CDS (levels since 2026-08-22; no percentile yet) ----
+C = D.get("cds") or {}
+cds_rows = []
+for n in sorted(C.get("names", []), key=lambda x: -(x.get("spread_bp") or 0)):
+    hy = ' <span class="tag">HY convention</span>' if n.get("hy_convention") else ""
+    cds_rows.append(
+        '<tr><td class="nm"><b>%s</b><span class="sub">%s%s</span></td>'
+        '<td class="v">%s<span class="u">bp</span></td>'
+        '<td class="d">%s</td>'
+        '<td class="sp sp-s">%s</td></tr>'
+        % (escape(n["ticker"]), escape(n["issuer"]), hy,
+           num(n.get("spread_bp"), "bp"), dl(n.get("chg"), True),
+           spark(n.get("spark") or [], "calm", w=88)))
+cds_html = ""
+if cds_rows:
+    cds_html = (
+        '<div class="card"><h2>AI-complex credit — ICE 5Y CDS</h2>'
+        '<p class="note">End-of-day settlement prices from ICE Clear Credit, as of <b>%s</b> '
+        '(contract maturing %s). Median <b>%.1f bp</b>; widest ÷ tightest <b>%.1f×</b>. '
+        'Spreads are <b>modelled</b> from points-upfront prices, not quoted, and the panel only '
+        'starts on 2026-08-22, so it has no percentile yet: read the changes, not the levels. '
+        'A widening is coloured as stress.</p>'
+        '<div class="scroll"><table class="tbl-s"><thead><tr><th class="nm">Name</th>'
+        '<th>Spread</th><th>chg 1d</th><th>since 8/22</th></tr></thead>'
+        '<tbody>%s</tbody></table></div></div>'
+        % (escape(str(C.get("date", "—"))), escape(str(C.get("maturity", "—"))),
+           C.get("median_bp") or 0, C.get("dispersion") or 0, "".join(cds_rows)))
+
+# ---- AI-infrastructure financing exits: hand-kept event ledger (counts, not percentiles) ----
+E = D.get("equity_exits") or {}
+ADV = {"cancelled", "deferred", "repriced", "sweetened", "stressed"}
+ev = E.get("events") if isinstance(E.get("events"), list) else []
+ex_rows = []
+for e in sorted(ev, key=lambda x: x.get("date", ""), reverse=True):
+    o = e.get("outcome", "")
+    oc = "neg" if o in ADV else ("pos" if o == "priced" else "mut")
+    size = e.get("size", "") or ""
+    if not size.strip() or size.strip() == "\u2b1c":
+        size = "size n/a"
+    terms = (e.get("terms_note", "") or "").replace("\u2b1c", "unknown")
+    ex_rows.append(
+        '<tr><td class="nm"><b>%s</b><span class="sub">%s · %s · %s · %s</span>%s</td>'
+        '<td class="st"><span class="oc %s">%s</span></td></tr>'
+        % (escape(e.get("issuer", "")), escape(e.get("date", "")), escape(e.get("kind", "")),
+           escape(size), escape(e.get("evidence", "")),
+           ('<span class="sub tn">%s</span>' % escape(terms)) if terms else "",
+           oc, escape(o)))
+ex_html = ""
+if ex_rows:
+    w = E.get("w30") or {}
+    ex_html = (
+        '<div class="card"><h2>AI-infrastructure financing exits</h2>'
+        '<div class="tally"><span><b class="neg">%d</b> adverse</span><span><b class="pos">%d</b> priced</span>'
+        '<span><b>%d</b> pending</span><span class="mut">last 30 days · ledger since %s</span></div>'
+        '<p class="note">Listings, debt deals and builds delayed <b>for financing</b>, kept by hand from '
+        'reported events. These are counts, not percentiles. <b>Adverse</b> means cancelled, deferred, '
+        'repriced, sweetened or stressed. A listing that prices at or inside the sponsor&rsquo;s terms '
+        'is the reopening signal.</p>'
+        '<div class="scroll"><table class="tbl-s"><thead><tr><th class="nm">Event</th>'
+        '<th>Outcome</th></tr></thead>'
+        '<tbody>%s</tbody></table></div></div>'
+        % (w.get("adverse", 0), w.get("priced", 0), w.get("pending", 0),
+           escape(str(E.get("first_date", "—"))), "".join(ex_rows)))
+
 errs = D.get("feed_errors") or []
 err_html = ('<p class="err">Feed errors this run: <b>%s</b> — those rows carry the last '
             'good value and are stamped STALE.</p>'
@@ -309,6 +386,9 @@ the trailing 20-observation change.</p>
 <th>chg 20p</th><th>lvl%%</th><th>rate%%</th><th>Status</th></tr></thead>
 <tbody>%s</tbody></table></div>%s</div>
 
+%s
+%s
+
 <div class="card"><h2>Known gaps — not in the data above</h2>
 <p class="note">Named explicitly so an absent row is never mistaken for a calm one.</p>
 <ul class="gaps">%s</ul></div>
@@ -326,12 +406,13 @@ twice. Cross-bank comparisons are held to like-for-like seasonal adjustment: lar
 computed as domestically-chartered minus small, both <b>not</b> seasonally adjusted, because the
 seasonally-adjusted small-bank series was discontinued in 2018.</p>
 <p class="note">Sources, all keyless: FRED public graph CSV · New York Fed markets API ·
-TreasuryDirect auction API · Yahoo (^MOVE). Raw series live in
-<code>data/fragility/series/*.csv</code>.</p></div>
+TreasuryDirect auction API · Yahoo (^MOVE) · ICE Clear Credit end-of-day CDS settlement prices.
+Raw series live in <code>data/fragility/series/*.csv</code>; the CDS panel in
+<code>data/fragility/cds_panel.csv</code>; the exits ledger in <code>data/fragility/equity_exits.csv</code>.</p></div>
 
 </div>""" % (CSS, len(D["rows"]), escape(D["generated"][:16].replace("T", " ")),
              SC[worst], escape(typo(D["verdict"])), ladder_html,
-             "".join(rows_html), err_html, gaps_html)
+             "".join(rows_html), err_html, cds_html, ex_html, gaps_html)
 
 os.makedirs(os.path.join(ROOT, "docs"), exist_ok=True)
 out = os.path.join(ROOT, "docs", "index.html")

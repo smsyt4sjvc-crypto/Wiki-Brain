@@ -1,0 +1,24 @@
+TSM (NYSE ADR, Yahoo daily, pulled 2026-10-14 ~00:20 PDT) — drift INTO the print vs the reaction, last 8 prints.
+Same method as data/studies/2026-10-13-asml-preprint-drift.txt. Day 0 = the US session after TSMC's overnight (Taiwan-hours) release.
+pre2 = close(D-1)/close(D-3)-1 · pre5 = close(D-1)/close(D-6)-1 · gap = open(D)/close(D-1)-1 · d0 = close-to-close · d+1 · d0->d+5 · prior->d+5   (%)
+date        pre2   pre5   gap    day0   d+1    d0->d+5  prior->d+5
+2024-10-17  -2.46  +0.18  +8.46  +9.79  -2.46  -3.84  +5.57
+2025-01-16  +2.70  -2.19  +5.85  +3.86  -1.53  +3.30  +7.29
+2025-04-17  -2.68  -4.46  +2.89  +0.05  -2.56  +8.80  +8.85
+2025-07-17  +3.89  +2.47  +3.46  +3.38  -2.12  -1.63  +1.70
+2025-10-16  +0.60  +0.06  +2.04  -1.60  -1.59  -3.04  -4.59
+2026-01-15  -1.40  +2.65  +4.80  +4.44  +0.22  -1.98  +2.37
+2026-04-16  +1.50  +2.51  -1.66  -3.13  +1.97  +5.31  +2.02
+2026-07-16  -0.50  -4.00  -3.38  -2.32  -2.77  +1.43  -0.93
+(gap/day0/d+1 match wiki/earnings-implied-moves.md TSM record, 10/9 addendum.)
+
+2-day window: fell in 4 -> day 0 +9.79, +0.05, +4.44, -2.32 (3 of 4 up, one flat) · rose in 4 -> +3.86, +3.38, -1.60, -3.13 (2 of 4 up).
+5-day window: fell in 3 -> +3.86, +0.05, -2.32 (1 clearly up) · rose in 5 -> 3 of 5 up.
+=> no separation for TSM. July 2026 is the counterexample: -4.0% in the 5 sessions before, gap -3.38%, day 0 -2.32%, day +1 -2.77% (two days -5.0%), then recovered (prior->d+5 -0.93%).
+
+ASML cross-check, 5-day window (Nasdaq ADR, same pull): fell in 2 -> 2025-01-29 (pre5 -10.44) day0 +4.29 · 2025-10-15 (-1.91) +2.71. Rose in 6 -> 5 of 6 fell (2024-10-15 +6.73->-16.26 · 2025-04-16 +14.75->-7.06 · 2025-07-16 +3.64->-8.33 · 2026-01-28 +9.69->-2.18 · 2026-04-15 +16.22->-2.41 · 2026-07-15 +1.62->+2.23, the one riser).
+ASML: 2-day window fell-in 2/2 up (2025-01-29, 2026-07-15); 5-day window 2/2 up (2025-01-29, 2025-10-15) => 3 distinct prints, all up, under either definition. The pattern is ASML's, not the sector's.
+
+THIS PRINT (TSM day 0 = Thu 2026-10-15): closes 10/5 485.80 · 10/6 482.30 · 10/7 472.20 · 10/8 457.99 · 10/9 453.31 · 10/12 444.35 · 10/13 445.12.
+5-day window (formally 10/7 -> Wed 10/14 close): 472.20 -> 445.12 = -5.7% with one session left — already deeper than all 8 prior (max -4.46%). From the 10/5 high: -8.4%.
+Taiwan 2330.TW: 2,585 (10/6-10/7) -> 2,490 (10/13) = -3.7%; Wed 10/14 opened 2,505, closed 2,490 (flat).

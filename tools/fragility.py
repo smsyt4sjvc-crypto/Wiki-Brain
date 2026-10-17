@@ -201,6 +201,46 @@ def cds_panel():
             "maturity": names[0]["maturity"]}
 
 
+def equity_exit_panel():
+    """The 12th panel: the AI-INFRASTRUCTURE EQUITY EXIT (Jake, 2026-10-14: "add AirTrunk IPO delay +
+    Firmus cancellation + VITRO delay to our AI-credit dashboard as a separate indicator: equity
+    financing / exit-market deterioration").
+
+    Developers build with debt and repay it by selling the finished, leased asset to yield buyers
+    (a REIT or an IPO). When that exit shuts, the construction loan stays on the lender's book
+    and the next project gets less credit (transmission-chain stage 3).
+
+    ⛔ AN EVENT LEDGER, NOT A PERCENTILE. Like the CDS panel, there is no history to rank against:
+    the ledger starts 2026-10-06. It reports COUNTS of adverse outcomes (cancelled / deferred /
+    repriced / sweetened) against successful ones (priced), in trailing 30 and 90 days, and says
+    so. Hand-maintained: data/fragility/equity_exits.csv. Nothing schedules it."""
+    path = os.path.join(OUT, "equity_exits.csv")
+    if not os.path.exists(path):
+        return None
+    rows = [r for r in csv.DictReader(open(path)) if r.get("date")]
+    if not rows:
+        return None
+    today = date.today()
+    ADVERSE = {"cancelled", "deferred", "repriced", "sweetened", "stressed"}  # "pending" not counted
+    def window(n):
+        cut = (today - timedelta(days=n)).isoformat()
+        w = [r for r in rows if r["date"] >= cut]
+        adv = [r for r in w if r["outcome"] in ADVERSE]
+        ok = [r for r in w if r["outcome"] == "priced"]
+        by = {}
+        for r in adv:
+            by[r["outcome"]] = by.get(r["outcome"], 0) + 1
+        kinds = {}
+        for r in adv:
+            kinds[r.get("kind", "?")] = kinds.get(r.get("kind", "?"), 0) + 1
+        return {"adverse": len(adv), "priced": len(ok), "by_outcome": by, "by_kind": kinds,
+                "pending": sum(1 for r in w if r["outcome"] == "pending"),
+                "issuers": sorted({r["issuer"] for r in adv})}
+    return {"first_date": min(r["date"] for r in rows), "last_date": max(r["date"] for r in rows),
+            "n": len(rows), "w30": window(30), "w90": window(90),
+            "events": sorted(rows, key=lambda r: r["date"])[-12:]}
+
+
 def main():
     rows = [r for r in (score(k, load(k)) for k in IND) if r]
     meta = {}
@@ -239,7 +279,8 @@ def main():
                    ". Check whether they lit IN ORDER -- sequence is the signal.")
 
     panel = cds_panel()
-    payload = {"cds": panel, "generated": datetime.now().astimezone().isoformat(timespec="seconds"),
+    exits = equity_exit_panel()
+    payload = {"cds": panel, "equity_exits": exits, "generated": datetime.now().astimezone().isoformat(timespec="seconds"),
                "verdict": verdict, "ladder": ladder, "rows": rows,
                "gaps": meta.get("gaps", []), "feed_errors": meta.get("errors", []),
                "stages": STAGES}
@@ -292,6 +333,23 @@ def main():
               f"·  3-month highs: {tmh}")
         print(f"  ⚠️ Spreads are MODELLED from ICE points-upfront prices, not quoted. "
               f"Maturity {panel['maturity']} rolls on the next IMM date.")
+
+    if exits:
+        w30, w90 = exits["w30"], exits["w90"]
+        print(f"\n  ⬜ AI-INFRASTRUCTURE FINANCING EXIT -- listings + debt + builds delayed for FINANCING "
+              f"(event ledger since {exits['first_date']}; COUNTS, not percentiles)")
+        bo = ", ".join(f"{k} {v}" for k, v in sorted(w30["by_outcome"].items())) or "none"
+        print(f"  last 30d: ADVERSE {w30['adverse']} ({bo}) vs PRICED {w30['priced']}"
+              f"  ·  last 90d: adverse {w90['adverse']} vs priced {w90['priced']}"
+              f"  ·  pending {w30['pending']}")
+        print("  by kind (30d): " + (", ".join(f"{k} {v}" for k, v in sorted(w30["by_kind"].items())) or "none"))
+        print(f"  {'date':<12}{'kind':<9}{'issuer':<32}{'outcome':<11}{'evidence':<10} terms")
+        print("  " + "-" * 92)
+        for e in exits["events"]:
+            print(f"  {e['date']:<12}{e.get('kind','?'):<9}{e['issuer'][:31]:<32}{e['outcome']:<11}"
+                  f"{e['evidence']:<10} {e['terms_note'][:52]}")
+        print("  ⚠️ Hand-maintained (data/fragility/equity_exits.csv). A PRICED AI-infra listing at or"
+              " inside the sponsor's terms is the reopening signal.")
 
     if payload["gaps"]:
         print(f"\n  KNOWN GAPS -- these charts are NOT in the data above:")

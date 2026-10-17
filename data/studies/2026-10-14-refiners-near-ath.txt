@@ -1,0 +1,14 @@
+Refiners: forward returns after a close within 3% BELOW the prior all-time high (Yahoo daily, since 2000 or listing; pulled 2026-10-14 ~11:30pm PDT)
+Question (Jake): PARR's ATH is 90.74 (high, 2026-10-01); it closed 88.67 (-2.3%). Is owning near the high risky ("resistance")?
+name  history-from  near-ATH days  5d up  5d mean   20d up  20d mean  || all days: 20d up  20d mean
+PARR  2012-09-05    89             43%    -1.18%    37%     -2.38%    ||  53%   +2.00%
+VLO   2000-01-03    393            59%    +0.75%    64%     +2.42%    ||  57%   +1.90%
+MPC   2011-06-24    343            60%    +0.93%    61%     +2.16%    ||  60%   +2.36%
+PSX   2012-04-12    304            58%    +0.31%    50%     +0.04%    ||  56%   +1.35%
+DK    2006-05-04    79             66%    +1.25%    73%     +6.49%    ||  52%   +1.68%
+DINO  2000-01-03    373            62%    +1.10%    71%     +4.27%    ||  56%   +2.24%
+PBF   2012-12-13    57             40%    -1.02%    49%     -1.48%    ||  54%   +2.29%
+POOLED (7 names)    1638           58%    +0.64%    61%     +2.15%    ||  56%   +1.98% (all days 5d: 53%, +0.48%)
+Since 2021 pooled near-ATH: n=455, 20d up 61%, mean +2.49%.
+CAVEATS: days are overlapping and clustered into episodes (PARR's 89 days are a handful of episodes, not 89 observations); "ATH" uses intraday highs; no costs.
+READ: for the refiner GROUP, closing near the high has been slightly BETTER than average (momentum, not resistance). For PARR (and PBF), the smaller, more volatile names, it has been worse: up 20 days later only 37% of the time, mean -2.4%.

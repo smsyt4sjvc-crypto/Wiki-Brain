@@ -1,0 +1,10 @@
+# The other tool's "U.S. MARKET INTELLIGENCE — MONDAY, OCTOBER 12, 2026" opening scan (~6:55am PT), Jake's paste ~8:30am PDT
+(Full text as pasted in chat. Ten items + OSINT + thesis board + 9PM handoff. Its decision: CASH / NO TRADE AT OPEN.)
+Items new to the vault, with checks (Google News `when:3d`, ~8:31am PDT):
+- **DOE SPR exchange, up to 4M bbl, ExxonMobil and BP, after Hurricane Isaias** — Economic Times 10/11 02:46 UTC "US releases 4 million barrels from strategic oil reserves for ExxonMobil, BP amid Hurricane Isaias disrupt"; Discovery Alert "US Lends 4M Barrels"; Energy News Beat "…as Reserve Hits 1980s Lows". An exchange = a loan repaid in barrels.
+- **Saudi aviation:** scan cites ~99.7% of Sunday flights and ~82% of Monday flights (as of noon GMT) cancelled (aviation tracking; ⬜ source). Headlines: Gulf Business "Riyadh airport closure extended"; Travel and Leisure Asia "Etihad, Emirates, flydubai Cancel Flights"; Middle East Eye "'Except Mecca and Medina': Chaos across Saudi airports".
+- **IREN–Anthropic multiyear cloud contract** (The Information via secondaries; IBD, Barron's, Benzinga, 24/7 Wall St "Unconfirmed"): IREN indicated +5–6% premarket; Yahoo ~8:31am PT IREN 35.41 vs 35.19 prior close (+0.6%). Value, capacity, guarantees ⬜. ⛔ vendor conflict (Anthropic is the customer).
+- **IonQ to acquire Elisity**, all-stock, up to ~$1.3B incl. a $150M earnout (company announcement) — not in the book.
+- **PPI Thu 10/15 8:30am ET** (with CPI Wed 10/14 8:30am ET).
+- Echoes of filed items: weekend Hormuz strikes, CENTCOM disabled cargo vessel, Rezaei "insufficient", Kpler 8.5 mb/d (w/e 10/7), Riyadh toll 12/309, OFAC GL 135 to 4/7/2027, ceasefire unverified, BSEE 71.51% → 57.54%, CXMT 4F², Amazon–Decart, UMich 1Y 4.7%, Taiwan no surge.
+- **Gap in the scan:** its GL 135 item treats the licence as a clean new supply channel and does not mention the 2022 import ban or the Graham Act §112 duty deadline (Sun 10/18 / Mon 10/19) or the bipartisan senators/Tillis (vault 10/11 11:00pm, 10/12 7:00am).

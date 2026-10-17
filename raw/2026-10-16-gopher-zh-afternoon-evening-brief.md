@@ -1,0 +1,16 @@
+# Gopher: "ZeroHedge Full Afternoon & Evening Brief" — Fri 10/16/2026, 10:30am–5:22pm PT (Jake's paste ~5:30pm PT)
+Key claims as pasted (full text in the session transcript):
+1A ZH "The Pain Trade Was Long AI, Short Bonds": hot CPI/PPI; oil toward $98; Oct hike odds >50% → 14% after credit turmoil; Goldman read Warsh (Bangkok) as pause-consistent; CRWV CDS ~63% implied default (risk-neutral); neo-clouds −~20% in five sessions; NDX ~−6% week, Dow up; global equity funds +$20B wk to 10/14. CRWV −13.36% (feed), Nasdaq −2.1% (AP), 10Y 5.097% (WSJ), SOX 8-day losing streak.
+1B Morgan Stanley Wilson "Doing The Fed's Work": breadth, yields, energy, MOVE, financials; market tightening may substitute for Fed hikes.
+1C Deutsche Bank (Adrian Cox, 10/12, w/ Azeem Azhar) "AI air pocket": ~$900B hypothetical 4-month frontier training cluster, 7.8M Vera Rubin chips, 26 GW; ~$200B by 2030; 2026 hyperscaler capex ~$800B (5 cos); AI revenue ex-China ~$200B; $4-6T compute through 2030; GPU rental +~33% y/y; enterprise adoption ~3x faster.
+1D Zuckerberg (Cheeky Pint w/ John Collison, 10/12): older GPUs retain value; H100s productive past depreciation; Meta ~$15B/GW capacity cost; Meta 2025 server life 5.5 yrs (depreciation −$2.92B, net income +$2.59B, ~$1.00/sh, per 10-K); Amazon shortened part 6→5 yrs.
+1E SoftBank considering Allied Universal (~$18B equity, ~$12B debt; Bloomberg/Reuters), after ABB robotics (~$5.4B).
+1F FY2026 deficit $1.992T (~6.2% GDP; +$217B); receipts $5.40T, outlays $7.40T; gross interest $1.360T, net ~$1.05T; bills ~23% of marketable debt; Sept: receipts ~$558B, outlays ~$585B, deficit $27B.
+1G Dallas Fed 10/16 basis-trade report: conversion-factor convergence near 6%, swap-spread alternatives, asset managers using swaps (incl. AI/data-center financing swaps) for duration.
+2A Starshield restored (disruption from 10/14 above ~100 mph; Musk: USG controls; Trump denies; Streeting assured). 2B MEE: Saudi air defences; ≥20 killed, ~400 injured since 10/6. 2C US drones: 300,000 by 2028 goal; 6 Army depots; Drone Dominance; Skycutter. 2D Princeton fusion (PPPL 10/5; PRL 9/10; tungsten 1 in 10,000 doubles ignition pressure). 2E Kunstler essay (opinion).
+3 Politics/courts (Diversity Visa reopened; Zacharia out; OCC findings on 9 banks, no penalties; Omar probe; Wisconsin SoS; SCOTUS Wagner; NYC sanctuary; DOJ Pennsauken permits; Cornell 7 student; attack ads). 4 Entertainment (Gillis/SNL; horror list). 5 Short posts (ES < 7,700; S&P close 7,659.44; CRWV −15.45/+5.94/−13.36%; SOX 8-day streak; Huang "turmoil will pass"; basis shrinking; BWIC remark).
+## Verification (Claude ~5:40pm PT)
+- CRWV official close 61.39 (−11.91%, Nasdaq.com); after-hours 60.80. ^SOX down 8 straight (10/7-10/16), 13,217.82 → 11,137.29. NDX −5.5% wk; DJI +0.7% wk; S&P 7,659.44.
+- Dallas Fed 10/16 read: "asset managers have increasingly found futures-based synthetic duration less attractive relative to alternatives, including swaps linked to new debt issuance tied to data center construction in support of artificial intelligence (AI)".
+- Dallas Fed 10/8 read (Thompson & Golding): global refinery capacity down as much as 10%; cracks above 2022 levels; fuel stays elevated vs crude even after Hormuz normalizes.
+- FY2026 deficit $1.992T: Reuters, CNBC, Yahoo, NYT (10/16).

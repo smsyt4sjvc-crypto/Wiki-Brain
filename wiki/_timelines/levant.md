@@ -1,6 +1,6 @@
 # ⏱ LEVANT — merged timeline (the gate)
 
-> **209 dated entries across 2 notes · 2026-07-01 → 2026-09-28 · refreshed 2026-09-28 19:41 PDT**
+> **219 dated entries across 2 notes · 2026-07-01 → 2026-10-17 · refreshed 2026-10-17 11:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -26,15 +26,15 @@
 - `2026-07-13` [portfolio-state.md:L271](../portfolio-state.md) — 2026-07-13 ~12:20pm PT — FILL CONFIRMED: SPY Jul-15 $750 straddle (the event position)
 - `2026-07-15` [portfolio-state.md:L287](../portfolio-state.md) — 2026-07-15 ~7:55am PT — SPY Jul-15 750 straddle: OUTCOME (Jake's marks)
 - `2026-07-15` [portfolio-state.md:L301](../portfolio-state.md) — 2026-07-15 ~9:30am PT — MU CLOSED: stopped out at $850 (~−13%, ~$520 on 4 shares)
-- `2026-07-15` [portfolio-state.md:L340](../portfolio-state.md) — 2026-07-15 ~12:01pm PT — MU $901 (−8.31% day); Jake's chart read (lower highs / H&S)
-- `2026-07-15` [portfolio-state.md:L368](../portfolio-state.md) — 2026-07-15 ~12:05pm PT — addendum: 4h Bollinger = first change-of-character of the whole cycle
-- `2026-07-16` [portfolio-state.md:L390](../portfolio-state.md) — 2026-07-16 ~8:20am PT — MU re-entry read: TSMC capex hike (bull tell) vs Korea/SOX derisk (headwind)
-- `2026-07-16` [portfolio-state.md:L409](../portfolio-state.md) — 2026-07-16 eve — MU memory-unwind via Korea (NOT a re-entry); TSMC beat sold
+- `2026-07-15` [portfolio-state.md:L341](../portfolio-state.md) — 2026-07-15 ~12:01pm PT — MU $901 (−8.31% day); Jake's chart read (lower highs / H&S)
+- `2026-07-15` [portfolio-state.md:L369](../portfolio-state.md) — 2026-07-15 ~12:05pm PT — addendum: 4h Bollinger = first change-of-character of the whole cycle
+- `2026-07-16` [portfolio-state.md:L391](../portfolio-state.md) — 2026-07-16 ~8:20am PT — MU re-entry read: TSMC capex hike (bull tell) vs Korea/SOX derisk (headwind)
+- `2026-07-16` [portfolio-state.md:L410](../portfolio-state.md) — 2026-07-16 eve — MU memory-unwind via Korea (NOT a re-entry); TSMC beat sold
 - `2026-07-17` [portfolio-state.md:L21](../portfolio-state.md) — 2026-07-17 ~5:04pm PT — SIZING clarified (Jake): ~$12k book; the "$1k" is a ring-fenced AI carve-out
 - `2026-07-17` [portfolio-state.md:L30](../portfolio-state.md) — 2026-07-17 ~5:12pm PT — ACTUAL BOOK (Jake screenshot) — the real current holdings, $12,025 total
 - `2026-07-17` [portfolio-state.md:L39](../portfolio-state.md) — 2026-07-17 — ⚠️ CLOSED-TRADE POST-MORTEM: MNST Jul 87.5 puts −$446 (~87% loss)
-- `2026-07-17` [portfolio-state.md:L418](../portfolio-state.md) — ACCOUNT CONSTRAINTS (durable — "remember my limits", logged 2026-07-17 ~11am PT)
-- `2026-07-23` [portfolio-state.md:L433](../portfolio-state.md) — 2026-07-23 ~9:10am PT — bought 2 SPY @ $738.46 (dip nibble, VIX-18.7 DECIDE zone)
+- `2026-07-17` [portfolio-state.md:L419](../portfolio-state.md) — ACCOUNT CONSTRAINTS (durable — "remember my limits", logged 2026-07-17 ~11am PT)
+- `2026-07-23` [portfolio-state.md:L435](../portfolio-state.md) — 2026-07-23 ~9:10am PT — bought 2 SPY @ $738.46 (dip nibble, VIX-18.7 DECIDE zone)
 - `2026-07-23` [war-board.md:L29](../war/war-board.md) — CURRENT STATUS — 2026-07-23 ~6:31pm PT (day 145; renewed campaign = night 13)
 - `2026-07-24` [war-board.md:L57](../war/war-board.md) — UPDATE — 2026-07-24 ~6:20am PT (Fri pre-market, day 146; night 13 done)
 - `2026-07-24` [war-board.md:L66](../war/war-board.md) — UPDATE — 2026-07-24 ~6:44AM PT (Fri open) — war premium UNWINDING
@@ -55,16 +55,16 @@
 - `2026-07-29` [war-board.md:L362](../war/war-board.md) — 2026-07-29 ~8:50am PT — ★★ THE UNDERPRICED ITEM IN TODAY'S FEED: CHINA IS ARMING IRAN, ON A WEEKS TIMELINE
 - `2026-07-29` [war-board.md:L416](../war/war-board.md) — 2026-07-29 ~9:10am PT — ⚠️ CONTESTED: "US-OWNED LNG VESSEL STRUCK AT DAMIETTA, EGYPT" — FILED AS UNRESOLVED, MOVES NOTHING
 - `2026-07-29` [war-board.md:L471](../war/war-board.md) — 2026-07-29 ~10:45pm PT — ★★★ QESHM ISLAND HIT. SOMEONE IS ATTACKING THE **TOLL BOOTH**, AND THAT IS NOT BULLISH FOR SHIPPING.
-- `2026-07-30` [portfolio-state.md:L445](../portfolio-state.md) — 2026-07-30 3:01pm PT — SPY Dec-745 PUT: the full P&L decomposition (Fidelity screen, 5:58pm ET)
-- `2026-07-30` [portfolio-state.md:L494](../portfolio-state.md) — 2026-07-30 3:09pm PT — ⛔ SUPERSEDES THE ENTRY ABOVE: Jake supplied spot (742). It was DELTA, not vol.
-- `2026-07-30` [portfolio-state.md:L530](../portfolio-state.md) — 2026-07-30 3:20pm PT — ✅ CLOSED: Jake "pretty sure it was ATM when I bought." System fully determined.
-- `2026-07-30` [portfolio-state.md:L573](../portfolio-state.md) — 2026-07-30 3:34pm PT — 📈 THE STOCK SCREEN IS A PRICE FEED. Real spots ⇒ the day was 73/27, not 98/2.
+- `2026-07-30` [portfolio-state.md:L447](../portfolio-state.md) — 2026-07-30 3:01pm PT — SPY Dec-745 PUT: the full P&L decomposition (Fidelity screen, 5:58pm ET)
+- `2026-07-30` [portfolio-state.md:L496](../portfolio-state.md) — 2026-07-30 3:09pm PT — ⛔ SUPERSEDES THE ENTRY ABOVE: Jake supplied spot (742). It was DELTA, not vol.
+- `2026-07-30` [portfolio-state.md:L532](../portfolio-state.md) — 2026-07-30 3:20pm PT — ✅ CLOSED: Jake "pretty sure it was ATM when I bought." System fully determined.
+- `2026-07-30` [portfolio-state.md:L575](../portfolio-state.md) — 2026-07-30 3:34pm PT — 📈 THE STOCK SCREEN IS A PRICE FEED. Real spots ⇒ the day was 73/27, not 98/2.
 - `2026-07-30` [war-board.md:L527](../war/war-board.md) — 2026-07-30 ~2:40am PT — ⛔⛔⛔ THE VAULT DOES NOT KNOW WHO RUNS IRAN: ALI KHAMENEI WAS ASSASSINATED BY US-ISRAELI STRIKES AND HIS SON HAS LED SINCE MARCH
 - `2026-07-30` [war-board.md:L566](../war/war-board.md) — UPDATE — 2026-07-30 ~4:20pm PT — FOUR NEW ESCALATION ITEMS (Jake's feed) — ALL 🟡, ALL POLITICAL-TIER
-- `2026-07-31` [portfolio-state.md:L617](../portfolio-state.md) — 2026-07-31 12:40pm PDT — ★★★ THE FULL BOOK, 45 POSITIONS. Structure ≠ intent.
-- `2026-07-31` [portfolio-state.md:L674](../portfolio-state.md) — 2026-07-31 ~1:10pm PDT — ⛔ JAKE'S RATIONALE ANSWERS MOST OF MY CRITIQUE. What survives is one tension he named himself.
-- `2026-07-31` [portfolio-state.md:L729](../portfolio-state.md) — 2026-07-31 ~1:25pm PDT — THE INDEX COMPLEX MARKED: SPY basis 736.96, QQQM basis 283.58
-- `2026-07-31` [portfolio-state.md:L767](../portfolio-state.md) — 2026-07-31 ~4:55pm PDT — 90-DAY PLAN, PRE-WORK: capital map, the theta hurdle, and the screen
+- `2026-07-31` [portfolio-state.md:L619](../portfolio-state.md) — 2026-07-31 12:40pm PDT — ★★★ THE FULL BOOK, 45 POSITIONS. Structure ≠ intent.
+- `2026-07-31` [portfolio-state.md:L676](../portfolio-state.md) — 2026-07-31 ~1:10pm PDT — ⛔ JAKE'S RATIONALE ANSWERS MOST OF MY CRITIQUE. What survives is one tension he named himself.
+- `2026-07-31` [portfolio-state.md:L731](../portfolio-state.md) — 2026-07-31 ~1:25pm PDT — THE INDEX COMPLEX MARKED: SPY basis 736.96, QQQM basis 283.58
+- `2026-07-31` [portfolio-state.md:L769](../portfolio-state.md) — 2026-07-31 ~4:55pm PDT — 90-DAY PLAN, PRE-WORK: capital map, the theta hurdle, and the screen
 - `2026-07-31` [war-board.md:L596](../war/war-board.md) — UPDATE — 2026-07-31 ~8:15am PT — 🔴 **TANKERS UNDER US MILITARY ESCORT STRUCK** + the strait is REOPENING under fire
 - `2026-07-31` [war-board.md:L641](../war/war-board.md) — UPDATE — 2026-07-31 5:14pm ET (Fri, AFTER cash close) — 🟠 TRUMP ORDERS A FRESH CAMPAIGN "TO GET TEHRAN TO SURRENDER"
 - `2026-07-31` [war-board.md:L693](../war/war-board.md) — ⛔ 2026-07-31 ~6:00pm PDT — STRUCTURAL CORRECTION (Jake): I CITED A FRAME I HAD SUPERSEDED NINE HOURS EARLIER
@@ -73,7 +73,7 @@
 
 ## 2026-08
 
-- `2026-08-01` [portfolio-state.md:L808](../portfolio-state.md) — 2026-08-01 ~1:05pm PDT — ★★★ THE LOSS NUMBER LANDS: 35%, AND IT DELETES THE PLAN'S SHAPE
+- `2026-08-01` [portfolio-state.md:L810](../portfolio-state.md) — 2026-08-01 ~1:05pm PDT — ★★★ THE LOSS NUMBER LANDS: 35%, AND IT DELETES THE PLAN'S SHAPE
 - `2026-08-01` [war-board.md:L843](../war/war-board.md) — 2026-08-01 ~7:05 PM (tz UNSTATED) — TRUMP CANCELS THE IRAN ATTACK FOR "PERIMETERS OF A DEAL"
 - `2026-08-01` [war-board.md:L903](../war/war-board.md) — 2026-08-01 ~8:50pm PDT — ★★★ WINDWARD PHYSICAL DATA: 5 VESSELS vs A ~140/DAY BASELINE (data as of 31 JULY)
 - `2026-08-01` [war-board.md:L977](../war/war-board.md) — Addendum 2026-08-01 ~9:10pm PDT — JAKE: "fully open post-war may not be the same capacity" — HE BREAKS MY OWN TEST
@@ -94,137 +94,150 @@
 - `2026-08-06` [war-board.md:L1517](../war/war-board.md) — 📌 LEDGER 2026-08-06 ~11:00am PDT — scanner sweep: THE US RESPONSE LANDS IN THE THIRD CELL; the freight industry issues its verdict; the Houthis go to 
 - `2026-08-06` [war-board.md:L1540](../war/war-board.md) — 📌 LEDGER 2026-08-06 ~12:10pm PDT — HANDOFF: **THE FEE GETS ITS NUMBER (5-7% of cargo) — and the insurance mechanism that makes the corridor SELF-BLOCK
 - `2026-08-06` [war-board.md:L1563](../war/war-board.md) — 📌 LEDGER 2026-08-06 ~2:35pm PDT — **FARS 12:58pm: "IRAN STRUCK 'HOSTILE TARGETS' IN STRAIT OF HORMUZ"** — the bill's vocabulary goes kinetic while the
-- `2026-08-07` [portfolio-state.md:L849](../portfolio-state.md) — 2026-08-07 ~10:35am PDT — 🚩 THE NUCLEAR BASKET'S MISSING EXIT CONDITION IS NOW REGISTERED (closes the L725 open flag)
+- `2026-08-07` [portfolio-state.md:L851](../portfolio-state.md) — 2026-08-07 ~10:35am PDT — 🚩 THE NUCLEAR BASKET'S MISSING EXIT CONDITION IS NOW REGISTERED (closes the L725 open flag)
 - `2026-08-08` [war-board.md:L1581](../war/war-board.md) — 📌 LEDGER 2026-08-08 ~12:55pm PDT — ★★★★ THE MECCA JOINT DEFENCE AGREEMENT IS REAL AND VERIFIED — and the two things the paste omitted are what change 
 - `2026-08-09` [war-board.md:L1653](../war/war-board.md) — 📌 LEDGER 2026-08-09 ~8:00am PDT — ★★★ JAZAN BURNS TWO DAYS AFTER MECCA — MJDA test #3 gets its first datapoint, via the one vector the pact can't easi
 - `2026-08-09` [war-board.md:L1716](../war/war-board.md) — 📌 LEDGER 2026-08-09 ~12:40pm PDT — SWEEP #1: the MJDA baseline gets its day-2 count, and an EASTERN-PROVINCE anomaly enters unconfirmed
-- `2026-08-11` [portfolio-state.md:L858](../portfolio-state.md) — 2026-08-11 ~9:30am PDT — 📌 TWO BASKETS ENTER THE BOOK RECORD: full holdings, current vs target weights, and an instrument to chart each as a single in
-- `2026-08-11` [portfolio-state.md:L910](../portfolio-state.md) — 2026-08-11 ~9:35am PDT — ★★★★ THE BASKETS RUN: SAME RETURN, MORE RISK — the extra 15 non-semi names in Basket 2 did NOT diversify, they LEVERED
+- `2026-08-11` [portfolio-state.md:L860](../portfolio-state.md) — 2026-08-11 ~9:30am PDT — 📌 TWO BASKETS ENTER THE BOOK RECORD: full holdings, current vs target weights, and an instrument to chart each as a single in
+- `2026-08-11` [portfolio-state.md:L912](../portfolio-state.md) — 2026-08-11 ~9:35am PDT — ★★★★ THE BASKETS RUN: SAME RETURN, MORE RISK — the extra 15 non-semi names in Basket 2 did NOT diversify, they LEVERED
 - `2026-08-11` [war-board.md:L1771](../war/war-board.md) — ⛔ CORRECTION — 2026-08-11 ~7:45am PDT — THE "FIRST US-WEAPONS-ON-MERCHANT EVENT" IS FALSE. It is the 12th, the mechanism is ROUTINE BLOCKADE ENFORCEME
 - `2026-08-11` [war-board.md:L1840](../war/war-board.md) — 📌 LEDGER 2026-08-11 ~1:15pm PDT — THE DELEGATED IRAN RUN CLOSES TWO OF MY OWN OPEN ITEMS — one of them AGAINST my reading — and the pressure goes TWO-
 - `2026-08-11` [war-board.md:L1913](../war/war-board.md) — 📌 LEDGER 2026-08-11 ~5:10pm PDT — REUTERS PRIMARY CLOSES THREE OPEN ITEMS, CORRECTS A CONFLATION OF MINE, AND THE IRANIAN DEMAND SET TURNS OUT TO BE S
 - `2026-08-13` [war-board.md:L1983](../war/war-board.md) — 2026-08-13 ~9:00am PDT — ★★★★★★ THE HORMUZ UPDATE CONFIRMS THE TOLL-GATE THESIS AS **POLICY** — and joining it to three facts already on disk gives th
-- `2026-08-13` [war-board.md:L2069](../war/war-board.md) — 2026-08-13 ~9:10am PDT — ⛔ JAKE IS RIGHT AND MY CORRECTION OPERATED ON THE WRONG LAYER: **the toll and the all-or-nothing demands are CONTEMPORANEOUS,
-- `2026-08-13` [war-board.md:L2122](../war/war-board.md) — 2026-08-13 ~9:15am PDT — ★★★★★ JAKE REGISTERS THE FIRST PROPER TRIGGER LIST OF THE SESSION — **and one of the three has already fired, in his own dige
-- `2026-08-13` [war-board.md:L2186](../war/war-board.md) — 2026-08-13 ~9:55am PDT — ⛔ WRONG ACTOR: **the triggers are US-SIDE.** My "already fired" objection applied his threshold to Iran. **And his reasoning 
-- `2026-08-13` [war-board.md:L2559](../war/war-board.md) — DATA (MEASURED — Windward vessel tracking, as of 2026-08-13)
-- `2026-08-14` [war-board.md:L2646](../war/war-board.md) — DATA (MEASURED — re-read of `raw/windward-daily-hormuz-2026-08-14.txt`)
-- `2026-08-15` [war-board.md:L2252](../war/war-board.md) — 2026-08-15 ~1:37am PDT — ⛔⛔ THE DIRECTION HAS BEEN THE OPPOSITE FOR MOST OF THIS PERIOD: **the administration EASED oil sanctions on Iran AND Russia**
-- `2026-08-15` [war-board.md:L2321](../war/war-board.md) — 2026-08-15 ~1:41am PDT — ⭐⭐⭐ THE PRIMARY SOURCE, DATED YESTERDAY, AND IT SHOWS THE OSCILLATION **INSIDE THE ADMINISTRATION IN A 24-HOUR WINDOW**: Vanc
-- `2026-08-15` [war-board.md:L2383](../war/war-board.md) — 2026-08-15 ~1:52am PDT — ⭐⭐⭐ BOTH REGISTERED TESTS RESOLVE IN ONE NEWS CYCLE, AND THE ANSWER IS A SELF-CONTRADICTION: **Vance names cheap oil "goal No
-- `2026-08-15` [war-board.md:L2452](../war/war-board.md) — 2026-08-15 ~1:58am PDT — ⛔ JAKE READ THE HALF OF BESSENT'S SENTENCE I SKIPPED — **"anything from going IN or out"** — and it DISSOLVES the contradicti
-- `2026-08-15` [war-board.md:L2496](../war/war-board.md) — 2026-08-15 ~2:05am PDT — ★★★★★ JAKE'S THREE ALTERNATIVES ARE ALL **EXPORT-SIDE**, WHICH RE-OPENS THE CONTRADICTION — but the board's own data resolves
-- `2026-08-15` [war-board.md:L2552](../war/war-board.md) — 2026-08-15 ~2:08am PDT — ⭐⭐⭐ THE REGISTERED TEST IS ANSWERED WITH VESSEL-LEVEL MEASUREMENT, AND IT SETTLES THE REFINER BINARY: **Kharg's western termi
-- `2026-08-15` [war-board.md:L2642](../war/war-board.md) — 2026-08-15 ~2:15am PDT — ⛔⛔ JAKE IS RIGHT AND THE EVIDENCE WAS IN THE DOCUMENT I FILED SEVEN MINUTES AGO: **7 of the 13 tracked vessels (54%) carry a 
-- `2026-08-16` [portfolio-state.md:L968](../portfolio-state.md) — 2026-08-16 ~7:38pm PDT — ⚠️⚠️ JAKE FLIPS: BEARISH → **CAUTIOUSLY OPTIMISTIC BULLISH**, citing the 8/13 "doesn't matter until it does" conversation. **
-- `2026-08-16` [portfolio-state.md:L1028](../portfolio-state.md) — 2026-08-16 ~9:02pm PDT — ★★★★★ JAKE FORMALISES THE BULL STANCE AS A REGIME-FOLLOWING RULE, AND IT IS CONSISTENT WITH THIS VAULT'S OWN WARNING-vs-TRIGG
-- `2026-08-17` [war-board.md:L2834](../war/war-board.md) — DATA (MEASURED — Windward, data as of 2026-08-17)
-- `2026-08-18` [war-board.md:L2699](../war/war-board.md) — 2026-08-18 ~10:30am PDT — 📌 THE MoU 60-DAY CLOCK EXPIRED YESTERDAY WITH NO DEAL AND NO EXTENSION — a dated catalyst, FIRED. ⛔ **BUT "BRENT SURGES TO $
-- `2026-08-18` [war-board.md:L2820](../war/war-board.md) — 2026-08-18 ~2:00pm PDT — ✅✅✅ **THE WINDWARD LIVE DASHBOARD IS FETCHABLE — RETIRING A STANDING VAULT LIMITATION THAT HAD US RUNNING ON MARCH-VINTAGE DA
-- `2026-08-18` [war-board.md:L2876](../war/war-board.md) — 2026-08-18 ~3:00pm PDT — ⭐⭐⭐ **THE FULL WINDWARD DAILY (90-page PDF) UPDATES THE GULF FLEET SERIES LAST MEASURED 31 JULY: 791 → 971 VESSELS (+22.8%) I
-- `2026-08-19` [war-board.md:L2758](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 
-- `2026-08-23` [war-board.md:L2942](../war/war-board.md) — 2026-08-23 ~7:20am PDT — ✅✅✅ **THE HORMUZ TRAFFIC FLAG (`:L2897`, open since 8/19) IS CLOSED: EVERY VESSEL-COUNT SERIES RECONCILES ONCE THE ~140/DAY B
-- `2026-08-23` [war-board.md:L3097](../war/war-board.md) — 2026-08-23 ~8:40am PDT — ⛔⛔ **"IRAN RAISED THE POSSIBILITY OF TARGETING ALTERNATIVE GULF OIL ROUTES" IS NOT A NEW THREAT — IT IS A THREAT TO REPEAT SO
-- `2026-08-23` [war-board.md:L3157](../war/war-board.md) — 2026-08-23 ~4:45pm PDT — ✅ **THE PRIMARY LANDS EIGHT HOURS AFTER I REGISTERED IT AND IT CLOSES FLAG `:L3231` #3 — AND THE PARAPHRASE WAS WEAKER THAN T
-- `2026-08-23` [war-board.md:L3218](../war/war-board.md) — 2026-08-23 ~9:50pm PDT — 🕳️🕳️ **MAP GAP #20, AND IT IS THE MOST IMPORTANT ONE THIS BOARD HAS OPENED: 131 DAYS OF BLOCKADE TRACKED ENTIRELY FROM THE OU
-- `2026-08-23` [war-board.md:L3289](../war/war-board.md) — 2026-08-23 ~10:20pm PDT — ⛔⛔⛔ **I HAD THE DIRECTION EXACTLY BACKWARDS AND THE TELL WAS IN THE ATTRIBUTION I ALREADY HAD. GHALIBAF IS MOCKING *TRUMP*. 
-- `2026-08-24` [war-board.md:L3382](../war/war-board.md) — 2026-08-24 ~9:55pm PDT — ✅✅ **THE NEXT WINDWARD DAILY (data as of 23 AUG) SETTLES BOTH FLAGS FROM 8/23 IN ONE PRINT: (#3) THE "34" WAS ALMOST CERTAINL
-- `2026-08-24` [war-board.md:L3453](../war/war-board.md) — 2026-08-24 ~10:30pm PDT — ✅⭐⭐⭐ **THE GOPHER'S VERIFIED ATTACK RANKING RECONCILES THE BOARD'S LEDGER — AND THE HEADLINE IS THE UNDERCOUNT: IMO's OFFICI
-- `2026-08-24` [war-board.md:L3513](../war/war-board.md) — Addendum 2026-08-24 ~10:55pm PDT — ⚖️ **JAKE COMMISSIONED THE RANKING ON *ESCALATION POTENTIAL*. Taking it on those terms, the board AGREES ON #1 AND 
-- `2026-08-26` [war-board.md:L3545](../war/war-board.md) — 2026-08-26 ~4:30pm PDT — ⛔⛔⛔ **NEW FRONT ON THIS BOARD: THE RUSSIA→NATO ESCALATION ARC (Jul 30 → Aug 26), AND IT ARRIVES ALREADY AT THE BACKCHANNEL-OF
-- `2026-08-26` [war-board.md:L3609](../war/war-board.md) — 2026-08-26 ~5:10pm PDT — ⭐⭐⭐⭐ **THE CHOKEPOINT TAX REACHES A NATIONAL IMPORT LEDGER: JAPAN GUIDES SEPTEMBER CRUDE IMPORTS TO 80% OF THE 2025 MONTHLY A
-- `2026-08-26` [war-board.md:L3647](../war/war-board.md) — Addendum 2026-08-26 ~5:12pm PDT — ⭐⭐⭐⭐ **DESTINATION-SIDE LEDGER #2, SAME HOUR: INDIA — HORMUZ FREIGHT +411% (Ras Tanura→India VLCC $0.85 → $4.34/bbl)
-- `2026-08-26` [war-board.md:L3668](../war/war-board.md) — 2026-08-26 ~7:51pm PDT — ⚠️⚠️ **UKMTO WARNING 121-26 (ATTACK): TANKER HIT BY UNKNOWN PROJECTILE IN THE STRAIT OF HORMUZ — fire extinguished, ALL CREW 
-- `2026-08-28` [war-board.md:L3695](../war/war-board.md) — 2026-08-28 ~4:55pm PDT — **VENEZUELA: "INTERIM PRESIDENT DELCY RODRIGUEZ" — a regime change surfacing as a subordinate clause in Trump's oil-deal post
-- `2026-08-28` [war-board.md:L3726](../war/war-board.md) — 2026-08-28 ~7:45pm PDT — ⭐⭐⭐⭐ **RUSSIAN DEPOT STRIKE IN UKRAINE — POSSIBLY THE NEWLY-DELIVERED PATRIOT SHIPMENT (⚠️ THE PATRIOT PART IS UNCONFIRMED — 
-- `2026-08-30` [war-board.md:L3763](../war/war-board.md) — 2026-08-30 ~1:30pm PDT — ⭐⭐⭐⭐ **FIRST US STRIKES ON IRAN IN WEEKS (ZH/Axios/CENTCOM): two launchers hit on LARAK ISLAND — IRGC observed preparing to l
-- `2026-08-30` [war-board.md:L3806](../war/war-board.md) — 2026-08-30 ~2:05pm PDT — ⭐⭐⭐⭐ **THE RATCLIFFE MOSCOW VISIT GETS ITS PURPOSE (ZH/Axios, fetched from the ZH feed): he proposed a TRUMP-PUTIN-ZELENSKY T
-- `2026-08-30` [war-board.md:L3841](../war/war-board.md) — 2026-08-30 ~3:15pm PDT — ⛔⭐⭐⭐⭐ **IRAN RETALIATES WITHIN HOURS OF LARAK (Jake's paste: ZH wire + OSINTdefender reposts, source stamps ~2:30-3:10pm PT):
-- `2026-08-30` [war-board.md:L3870](../war/war-board.md) — 2026-08-30 ~3:30pm PDT — ⭐⭐⭐⭐⭐ **TWO-THEATER SITUATION BRIEF (Jake, compiled ~3:20pm — pre-dating the ballistic launches by minutes; the launches ARE 
-- `2026-08-30` [war-board.md:L3939](../war/war-board.md) — Addendum 2026-08-30 ~3:30pm PDT — **TARGET IDENTIFIED (Jake, OSINT): MUWAFFAQ SALTI AIR BASE (MSAB), Jordan — a US base, and specifically THE base whe
-- `2026-08-30` [war-board.md:L3960](../war/war-board.md) — Addendum 2026-08-30 ~5:15pm PDT — ⛔⭐⭐⭐⭐⭐ **THE MINING CLAIM GOES OFFICIAL-ADJACENT WHILE THE MISSILES FLY (Jake, ZH reposts): Zolfaghari — IRGC Khatam
-- `2026-08-30` [war-board.md:L3984](../war/war-board.md) — 2026-08-30 ~5:20pm PDT — ⭐⭐⭐⭐⭐ **THE PENTAGON NON-CONCUR LEAK (WaPo via Jake, landing DURING the MSAB attack): EUCOM + PACOM + SOUTHCOM commanders + t
-- `2026-08-30` [war-board.md:L4026](../war/war-board.md) — Addendum 2026-08-30 ~6:00pm PDT — ✔ **CENTCOM GOES ON THE RECORD (official X post, 5:57pm, Jake's paste): US strikes were against "IRGC MINELAYING FOR
-- `2026-08-31` [war-board.md:L4055](../war/war-board.md) — 2026-08-31 ~7:40am PDT — ⛔⭐⭐⭐⭐⭐ **THE MINE-STRIKE CLAIM (ZH feed fetch): IRGC claims an "unidentified supertanker" struck TWO NAVAL MINES in the Strai
-- `2026-08-31` [war-board.md:L4088](../war/war-board.md) — 2026-08-31 ~7:42am PDT — ⭐⭐⭐⭐ **THE CHINA-WINDOW TEST ANSWERS IN 24 HOURS (ZH feed fetch): RECORD 244-vessel Chinese swarm around Taiwan — ~60% coast 
-- `2026-08-31` [war-board.md:L4105](../war/war-board.md) — Addendum 2026-08-31 ~8:10am PDT — ⭐⭐⭐⭐⭐ **THE MARITIME PICTURE (gCaptain front page, Jake's pointer — industry-primary rung): VISIBLE HORMUZ TRANSITS 
-- `2026-08-31` [war-board.md:L4150](../war/war-board.md) — 2026-08-31 ~12:30pm PDT — ⭐⭐⭐⭐⭐ **THE INHERITED-STATE HEADER (project-gopher sweep, per the 8/31 construction rule — the Feb-July structural set this 
-- `2026-08-31` [war-board.md:L4215](../war/war-board.md) — 2026-08-31 ~5:40pm PDT — ⭐⭐⭐⭐⭐ **REUTERS WRAP (Jake's paste): the overnight watches resolve — US military DENIES the supertanker mine-strike · Larak t
+- `2026-08-13` [war-board.md:L2070](../war/war-board.md) — 2026-08-13 ~9:10am PDT — ⛔ JAKE IS RIGHT AND MY CORRECTION OPERATED ON THE WRONG LAYER: **the toll and the all-or-nothing demands are CONTEMPORANEOUS,
+- `2026-08-13` [war-board.md:L2123](../war/war-board.md) — 2026-08-13 ~9:15am PDT — ★★★★★ JAKE REGISTERS THE FIRST PROPER TRIGGER LIST OF THE SESSION — **and one of the three has already fired, in his own dige
+- `2026-08-13` [war-board.md:L2187](../war/war-board.md) — 2026-08-13 ~9:55am PDT — ⛔ WRONG ACTOR: **the triggers are US-SIDE.** My "already fired" objection applied his threshold to Iran. **And his reasoning 
+- `2026-08-13` [war-board.md:L2561](../war/war-board.md) — DATA (MEASURED — Windward vessel tracking, as of 2026-08-13)
+- `2026-08-14` [war-board.md:L2648](../war/war-board.md) — DATA (MEASURED — re-read of `raw/windward-daily-hormuz-2026-08-14.txt`)
+- `2026-08-15` [war-board.md:L2253](../war/war-board.md) — 2026-08-15 ~1:37am PDT — ⛔⛔ THE DIRECTION HAS BEEN THE OPPOSITE FOR MOST OF THIS PERIOD: **the administration EASED oil sanctions on Iran AND Russia**
+- `2026-08-15` [war-board.md:L2322](../war/war-board.md) — 2026-08-15 ~1:41am PDT — ⭐⭐⭐ THE PRIMARY SOURCE, DATED YESTERDAY, AND IT SHOWS THE OSCILLATION **INSIDE THE ADMINISTRATION IN A 24-HOUR WINDOW**: Vanc
+- `2026-08-15` [war-board.md:L2385](../war/war-board.md) — 2026-08-15 ~1:52am PDT — ⭐⭐⭐ BOTH REGISTERED TESTS RESOLVE IN ONE NEWS CYCLE, AND THE ANSWER IS A SELF-CONTRADICTION: **Vance names cheap oil "goal No
+- `2026-08-15` [war-board.md:L2454](../war/war-board.md) — 2026-08-15 ~1:58am PDT — ⛔ JAKE READ THE HALF OF BESSENT'S SENTENCE I SKIPPED — **"anything from going IN or out"** — and it DISSOLVES the contradicti
+- `2026-08-15` [war-board.md:L2498](../war/war-board.md) — 2026-08-15 ~2:05am PDT — ★★★★★ JAKE'S THREE ALTERNATIVES ARE ALL **EXPORT-SIDE**, WHICH RE-OPENS THE CONTRADICTION — but the board's own data resolves
+- `2026-08-15` [war-board.md:L2554](../war/war-board.md) — 2026-08-15 ~2:08am PDT — ⭐⭐⭐ THE REGISTERED TEST IS ANSWERED WITH VESSEL-LEVEL MEASUREMENT, AND IT SETTLES THE REFINER BINARY: **Kharg's western termi
+- `2026-08-15` [war-board.md:L2644](../war/war-board.md) — 2026-08-15 ~2:15am PDT — ⛔⛔ JAKE IS RIGHT AND THE EVIDENCE WAS IN THE DOCUMENT I FILED SEVEN MINUTES AGO: **7 of the 13 tracked vessels (54%) carry a 
+- `2026-08-16` [portfolio-state.md:L970](../portfolio-state.md) — 2026-08-16 ~7:38pm PDT — ⚠️⚠️ JAKE FLIPS: BEARISH → **CAUTIOUSLY OPTIMISTIC BULLISH**, citing the 8/13 "doesn't matter until it does" conversation. **
+- `2026-08-16` [portfolio-state.md:L1030](../portfolio-state.md) — 2026-08-16 ~9:02pm PDT — ★★★★★ JAKE FORMALISES THE BULL STANCE AS A REGIME-FOLLOWING RULE, AND IT IS CONSISTENT WITH THIS VAULT'S OWN WARNING-vs-TRIGG
+- `2026-08-17` [war-board.md:L2836](../war/war-board.md) — DATA (MEASURED — Windward, data as of 2026-08-17)
+- `2026-08-18` [war-board.md:L2701](../war/war-board.md) — 2026-08-18 ~10:30am PDT — 📌 THE MoU 60-DAY CLOCK EXPIRED YESTERDAY WITH NO DEAL AND NO EXTENSION — a dated catalyst, FIRED. ⛔ **BUT "BRENT SURGES TO $
+- `2026-08-18` [war-board.md:L2822](../war/war-board.md) — 2026-08-18 ~2:00pm PDT — ✅✅✅ **THE WINDWARD LIVE DASHBOARD IS FETCHABLE — RETIRING A STANDING VAULT LIMITATION THAT HAD US RUNNING ON MARCH-VINTAGE DA
+- `2026-08-18` [war-board.md:L2878](../war/war-board.md) — 2026-08-18 ~3:00pm PDT — ⭐⭐⭐ **THE FULL WINDWARD DAILY (90-page PDF) UPDATES THE GULF FLEET SERIES LAST MEASURED 31 JULY: 791 → 971 VESSELS (+22.8%) I
+- `2026-08-19` [war-board.md:L2760](../war/war-board.md) — 2026-08-19 (UAE time; ~2026-08-18 PDT) — ★★★★★★ **THE UAE HALTS *ALL* TRADE, COMMERCIAL EXCHANGE AND FINANCIAL TRANSACTIONS WITH IRAN. ⛔ THIS INVERTS 
+- `2026-08-23` [war-board.md:L2944](../war/war-board.md) — 2026-08-23 ~7:20am PDT — ✅✅✅ **THE HORMUZ TRAFFIC FLAG (`:L2897`, open since 8/19) IS CLOSED: EVERY VESSEL-COUNT SERIES RECONCILES ONCE THE ~140/DAY B
+- `2026-08-23` [war-board.md:L3099](../war/war-board.md) — 2026-08-23 ~8:40am PDT — ⛔⛔ **"IRAN RAISED THE POSSIBILITY OF TARGETING ALTERNATIVE GULF OIL ROUTES" IS NOT A NEW THREAT — IT IS A THREAT TO REPEAT SO
+- `2026-08-23` [war-board.md:L3159](../war/war-board.md) — 2026-08-23 ~4:45pm PDT — ✅ **THE PRIMARY LANDS EIGHT HOURS AFTER I REGISTERED IT AND IT CLOSES FLAG `:L3231` #3 — AND THE PARAPHRASE WAS WEAKER THAN T
+- `2026-08-23` [war-board.md:L3220](../war/war-board.md) — 2026-08-23 ~9:50pm PDT — 🕳️🕳️ **MAP GAP #20, AND IT IS THE MOST IMPORTANT ONE THIS BOARD HAS OPENED: 131 DAYS OF BLOCKADE TRACKED ENTIRELY FROM THE OU
+- `2026-08-23` [war-board.md:L3291](../war/war-board.md) — 2026-08-23 ~10:20pm PDT — ⛔⛔⛔ **I HAD THE DIRECTION EXACTLY BACKWARDS AND THE TELL WAS IN THE ATTRIBUTION I ALREADY HAD. GHALIBAF IS MOCKING *TRUMP*. 
+- `2026-08-24` [war-board.md:L3384](../war/war-board.md) — 2026-08-24 ~9:55pm PDT — ✅✅ **THE NEXT WINDWARD DAILY (data as of 23 AUG) SETTLES BOTH FLAGS FROM 8/23 IN ONE PRINT: (#3) THE "34" WAS ALMOST CERTAINL
+- `2026-08-24` [war-board.md:L3455](../war/war-board.md) — 2026-08-24 ~10:30pm PDT — ✅⭐⭐⭐ **THE GOPHER'S VERIFIED ATTACK RANKING RECONCILES THE BOARD'S LEDGER — AND THE HEADLINE IS THE UNDERCOUNT: IMO's OFFICI
+- `2026-08-24` [war-board.md:L3515](../war/war-board.md) — Addendum 2026-08-24 ~10:55pm PDT — ⚖️ **JAKE COMMISSIONED THE RANKING ON *ESCALATION POTENTIAL*. Taking it on those terms, the board AGREES ON #1 AND 
+- `2026-08-26` [war-board.md:L3547](../war/war-board.md) — 2026-08-26 ~4:30pm PDT — ⛔⛔⛔ **NEW FRONT ON THIS BOARD: THE RUSSIA→NATO ESCALATION ARC (Jul 30 → Aug 26), AND IT ARRIVES ALREADY AT THE BACKCHANNEL-OF
+- `2026-08-26` [war-board.md:L3611](../war/war-board.md) — 2026-08-26 ~5:10pm PDT — ⭐⭐⭐⭐ **THE CHOKEPOINT TAX REACHES A NATIONAL IMPORT LEDGER: JAPAN GUIDES SEPTEMBER CRUDE IMPORTS TO 80% OF THE 2025 MONTHLY A
+- `2026-08-26` [war-board.md:L3649](../war/war-board.md) — Addendum 2026-08-26 ~5:12pm PDT — ⭐⭐⭐⭐ **DESTINATION-SIDE LEDGER #2, SAME HOUR: INDIA — HORMUZ FREIGHT +411% (Ras Tanura→India VLCC $0.85 → $4.34/bbl)
+- `2026-08-26` [war-board.md:L3670](../war/war-board.md) — 2026-08-26 ~7:51pm PDT — ⚠️⚠️ **UKMTO WARNING 121-26 (ATTACK): TANKER HIT BY UNKNOWN PROJECTILE IN THE STRAIT OF HORMUZ — fire extinguished, ALL CREW 
+- `2026-08-28` [war-board.md:L3697](../war/war-board.md) — 2026-08-28 ~4:55pm PDT — **VENEZUELA: "INTERIM PRESIDENT DELCY RODRIGUEZ" — a regime change surfacing as a subordinate clause in Trump's oil-deal post
+- `2026-08-28` [war-board.md:L3728](../war/war-board.md) — 2026-08-28 ~7:45pm PDT — ⭐⭐⭐⭐ **RUSSIAN DEPOT STRIKE IN UKRAINE — POSSIBLY THE NEWLY-DELIVERED PATRIOT SHIPMENT (⚠️ THE PATRIOT PART IS UNCONFIRMED — 
+- `2026-08-30` [war-board.md:L3765](../war/war-board.md) — 2026-08-30 ~1:30pm PDT — ⭐⭐⭐⭐ **FIRST US STRIKES ON IRAN IN WEEKS (ZH/Axios/CENTCOM): two launchers hit on LARAK ISLAND — IRGC observed preparing to l
+- `2026-08-30` [war-board.md:L3808](../war/war-board.md) — 2026-08-30 ~2:05pm PDT — ⭐⭐⭐⭐ **THE RATCLIFFE MOSCOW VISIT GETS ITS PURPOSE (ZH/Axios, fetched from the ZH feed): he proposed a TRUMP-PUTIN-ZELENSKY T
+- `2026-08-30` [war-board.md:L3843](../war/war-board.md) — 2026-08-30 ~3:15pm PDT — ⛔⭐⭐⭐⭐ **IRAN RETALIATES WITHIN HOURS OF LARAK (Jake's paste: ZH wire + OSINTdefender reposts, source stamps ~2:30-3:10pm PT):
+- `2026-08-30` [war-board.md:L3872](../war/war-board.md) — 2026-08-30 ~3:30pm PDT — ⭐⭐⭐⭐⭐ **TWO-THEATER SITUATION BRIEF (Jake, compiled ~3:20pm — pre-dating the ballistic launches by minutes; the launches ARE 
+- `2026-08-30` [war-board.md:L3941](../war/war-board.md) — Addendum 2026-08-30 ~3:30pm PDT — **TARGET IDENTIFIED (Jake, OSINT): MUWAFFAQ SALTI AIR BASE (MSAB), Jordan — a US base, and specifically THE base whe
+- `2026-08-30` [war-board.md:L3962](../war/war-board.md) — Addendum 2026-08-30 ~5:15pm PDT — ⛔⭐⭐⭐⭐⭐ **THE MINING CLAIM GOES OFFICIAL-ADJACENT WHILE THE MISSILES FLY (Jake, ZH reposts): Zolfaghari — IRGC Khatam
+- `2026-08-30` [war-board.md:L3986](../war/war-board.md) — 2026-08-30 ~5:20pm PDT — ⭐⭐⭐⭐⭐ **THE PENTAGON NON-CONCUR LEAK (WaPo via Jake, landing DURING the MSAB attack): EUCOM + PACOM + SOUTHCOM commanders + t
+- `2026-08-30` [war-board.md:L4028](../war/war-board.md) — Addendum 2026-08-30 ~6:00pm PDT — ✔ **CENTCOM GOES ON THE RECORD (official X post, 5:57pm, Jake's paste): US strikes were against "IRGC MINELAYING FOR
+- `2026-08-31` [war-board.md:L4057](../war/war-board.md) — 2026-08-31 ~7:40am PDT — ⛔⭐⭐⭐⭐⭐ **THE MINE-STRIKE CLAIM (ZH feed fetch): IRGC claims an "unidentified supertanker" struck TWO NAVAL MINES in the Strai
+- `2026-08-31` [war-board.md:L4090](../war/war-board.md) — 2026-08-31 ~7:42am PDT — ⭐⭐⭐⭐ **THE CHINA-WINDOW TEST ANSWERS IN 24 HOURS (ZH feed fetch): RECORD 244-vessel Chinese swarm around Taiwan — ~60% coast 
+- `2026-08-31` [war-board.md:L4107](../war/war-board.md) — Addendum 2026-08-31 ~8:10am PDT — ⭐⭐⭐⭐⭐ **THE MARITIME PICTURE (gCaptain front page, Jake's pointer — industry-primary rung): VISIBLE HORMUZ TRANSITS 
+- `2026-08-31` [war-board.md:L4152](../war/war-board.md) — 2026-08-31 ~12:30pm PDT — ⭐⭐⭐⭐⭐ **THE INHERITED-STATE HEADER (project-gopher sweep, per the 8/31 construction rule — the Feb-July structural set this 
+- `2026-08-31` [war-board.md:L4217](../war/war-board.md) — 2026-08-31 ~5:40pm PDT — ⭐⭐⭐⭐⭐ **REUTERS WRAP (Jake's paste): the overnight watches resolve — US military DENIES the supertanker mine-strike · Larak t
 
 ## 2026-09
 
-- `2026-09-01` [portfolio-state.md:L1080](../portfolio-state.md) — 2026-09-01 ~11:15am PDT — **REFINERY BASKET DISCLOSED (Jake): PBF · DINO (HF Sinclair) · PARR (Par Pacific) · PSX · MPC · VLO.** ⛔ Corrects two same-d
-- `2026-09-01` [portfolio-state.md:L1082](../portfolio-state.md) — Addendum 2026-09-01 ~11:20am PDT — ⭐⭐⭐⭐⭐ **THE REFINERY BASKET, WORKED UP (Jake's data pull, `raw/2026-09-01-refinery-basket-workup.md`; 6M return ari
-- `2026-09-01` [war-board.md:L4275](../war/war-board.md) — 2026-09-01 ~7:50am PDT — ⛔⭐⭐⭐⭐⭐ **EVENT CLASS, UNDER THE STANDING FILTER: TWO SAUDI-CRUDE SUPERTANKERS HIT IN HORMUZ (Reuters/Kpler, via 9/1 intellige
-- `2026-09-01` [war-board.md:L4287](../war/war-board.md) — Addendum 2026-09-01 ~9:46am PDT — **ZH feed scan, three war-board items:** (1) **IRAN OFFERS A CONDITIONAL CEASEFIRE** — Pezeshkian: return to talks I
-- `2026-09-01` [war-board.md:L4289](../war/war-board.md) — 2026-09-01 ~9:45am PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE US IS STRIKING IRGC TARGETS INSIDE IRAN — CENTCOM (posted ~9:36am PT): "Today at 12 p.m. ET, U.S. forces began
-- `2026-09-01` [war-board.md:L4300](../war/war-board.md) — Addendum 2026-09-01 ~9:55am PDT — ✅⭐⭐⭐⭐ **THE TAPE, ~34 MIN INTO THE STRIKES (Yahoo, 12:34pm ET, header reconciliation ✓ both quotes): BRENT $94.29 +4
-- `2026-09-01` [war-board.md:L4302](../war/war-board.md) — Addendum 2026-09-01 ~11:25am PDT — ⭐⭐⭐⭐ **THE FORK, FIRST READ (ZH feed, wires): strikes reported across IRAN'S SOUTHERN REGIONS (state TV) — explosio
-- `2026-09-01` [war-board.md:L4304](../war/war-board.md) — Addendum 2026-09-01 ~11:58am PDT — ⭐⭐⭐⭐ **THIRD READ OF THE TARGET CLASS — PREEMPTIVE ANTI-MINING (Jake: "the small off chance that Trump took their t
-- `2026-09-01` [war-board.md:L4308](../war/war-board.md) — 2026-09-01 ~12:35pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **THE DISCRIMINATOR CLOSES IN 35 MINUTES: TRUMP (Truth Social, via ZH ~10:35am PT) — "large and powerful" strikes O
-- `2026-09-01` [war-board.md:L4321](../war/war-board.md) — Addendum 2026-09-01 ~12:35pm PDT — **Tape with the mining assertion in the market (header test ✓): Brent $95.00 +4.98% (3:19pm ET) · 30Y CLOSED 5.27 +
-- `2026-09-01` [war-board.md:L4323](../war/war-board.md) — 2026-09-01 ~12:45pm PDT — ⛔⛔✅⭐⭐⭐⭐⭐ **THE PRIMARY (Jake's screenshot, Truth Social 10:25am PT / 1:25pm ET, `raw/2026-09-01-trump-truth-hormuz-strikes.p
-- `2026-09-01` [war-board.md:L4340](../war/war-board.md) — Addendum 2026-09-01 ~12:45pm PDT — ⚠️ **UNVERIFIED (Jake): reports of Iran retaliating "literally right now."** If confirmed, this is the TIER-2 TRIGG
-- `2026-09-01` [war-board.md:L4342](../war/war-board.md) — Addendum 2026-09-01 ~12:55pm PDT — **IRIB (Iranian state broadcaster), 12:18pm PT: "more blasts heard in Chabahar."** That is ~3h18m after the 12pm-ET
-- `2026-09-01` [war-board.md:L4344](../war/war-board.md) — 2026-09-01 ~12:55pm PDT — ⛔⭐⭐⭐⭐⭐ **IRAN'S RETALIATION WAVE FIRMS TO IRGC-MEDIA-SOURCED (AP citing Fars/Tasnim, 12:54pm PT / 3:54pm ET, via Jake): Iran
-- `2026-09-01` [war-board.md:L4355](../war/war-board.md) — Addendum 2026-09-01 ~1:00pm PDT — **Tape with the retaliation headline in (header tests ✓): Brent $95.05 +5.04% (3:45pm ET, unchanged from the 3:19pm 
-- `2026-09-01` [war-board.md:L4357](../war/war-board.md) — 2026-09-01 ~1:00pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **ZH LIVE WRAP (Jake's paste, `raw/2026-09-01-zh-iran-retaliation-wrap.txt`): (1) RETALIATION TARGET = US BASES IN J
-- `2026-09-01` [war-board.md:L4375](../war/war-board.md) — Addendum 2026-09-01 ~1:05pm PDT — ✅ **THE MoU DATE ⬜ RESOLVES (Jake, recollection): two dates of ONE collapse — DE JURE and DE FACTO.** ~~The Islamaba
-- `2026-09-01` [war-board.md:L4377](../war/war-board.md) — Addendum 2026-09-01 ~1:10pm PDT — ✅⭐⭐⭐⭐ **THE MoU, AT TERMS LEVEL (Jake's gopher summary — supersedes the 1:05pm recollection on the numbers): JUNE 17
-- `2026-09-01` [war-board.md:L4383](../war/war-board.md) — 2026-09-01 ~7:55pm PDT — ⛔⭐⭐⭐⭐ **THE OFFICIAL HORMUZ VOLUME CLAIM vs THE VESSEL DATA (Jake's flag + primary pulled): Energy Secretary Wright, Sept 1 (
-- `2026-09-02` [war-board.md:L4396](../war/war-board.md) — 2026-09-02 ~8:35am PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE OVERNIGHT, ASSESSED (ZH feed scan, `raw/2026-09-02-zh-feed-scan.txt`): (1) IRANIAN TOLL 18, including an alleg
-- `2026-09-02` [war-board.md:L4406](../war/war-board.md) — Addendum 2026-09-02 ~10:00am PDT — **IRIB official toll (wire via Jake): 18 killed, 108 injured in the overnight US strikes.** The 18 matches the 8:35
-- `2026-09-03` [war-board.md:L4408](../war/war-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **THIRD WAVE REACHES THE UAE; TRUMP WEIGHS DECLARING THE WAR "OVER" WHILE THE BLOCKADE RUNS (ZH scan 7:25am; ZH/Tasnim/K
-- `2026-09-03` [war-board.md:L4421](../war/war-board.md) — Addendum 2026-09-03 ~9:00am PDT — ⭐⭐⭐⭐ **THE THROUGHPUT DATUM: REUTERS — HORMUZ CROSSINGS BELOW AVERAGE WEDNESDAY; Brent ~$97.3 / WTI ~$93, fresh six-
-- `2026-09-03` [war-board.md:L4423](../war/war-board.md) — 2026-09-03 ~9:20pm PDT — ⭐⭐⭐⭐⭐ **THE COALITION QUESTION MOVES, AND IT MOVES IN ASIA: SOUTH KOREA IS MAKING "CONCRETE PREPARATIONS" FOR A HORMUZ NAVAL 
-- `2026-09-03` [war-board.md:L4444](../war/war-board.md) — Addendum 2026-09-03 ~9:30pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S LINKAGE READ: "one day after Trump lays chip tariffs… if SK sweeps for mines 'independently' it give
-- `2026-09-03` [war-board.md:L4464](../war/war-board.md) — Addendum 2026-09-03 ~9:45pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE CONNECTS THREE ITEMS FILED SEPARATELY TODAY INTO AN EXIT ARCHITECTURE — AND IT DATES THE EXIT: "gettin
-- `2026-09-03` [war-board.md:L4484](../war/war-board.md) — Addendum 2026-09-03 ~9:50pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **THE ⬜ CLOSES AND THE SOURCED VERSION IS WORSE THAN THE RECONSTRUCTION: VANCE RECLASSIFIED THE WAR *IN DIR
-- `2026-09-04` [war-board.md:L4510](../war/war-board.md) — ⟲ AMENDMENT 2026-09-04 ~7:10am PDT — ⛔ **I FILED THE KOREA ITEM AS "NR — NO INSTRUMENT" AND THAT WAS WRONG: EWY IS IN JAKE'S ROSTER.**
-- `2026-09-04` [war-board.md:L4517](../war/war-board.md) — Addendum 2026-09-04 ~7:20am PDT — ⭐⭐⭐⭐ **THE COALITION PARTNER'S WAR AIM IS INCOMPATIBLE WITH THE ADMINISTRATION'S DE-ESCALATION: NETANYAHU — TOPPLING
-- `2026-09-04` [war-board.md:L4523](../war/war-board.md) — Addendum 2026-09-04 ~2:20pm PDT — ⛔ **BESSENT CLAIMS THE EU "OFFICIALLY JOINED" ECONOMIC OUTCAST; THE EU'S OWN TEXT IS AN ENDORSEMENT, NOT A COMMITMEN
-- `2026-09-04` [war-board.md:L4531](../war/war-board.md) — Addendum 2026-09-04 ~3:45pm PDT — **THE BYPASS IS NOT CAPACITY-CONSTRAINED, IT IS ELIGIBILITY-CONSTRAINED — AND THIS BOARD ALREADY HELD THE BINDING FA
-- `2026-09-05` [war-board.md:L4545](../war/war-board.md) — 2026-09-05 ~6:50am PDT — ⛔⭐⭐⭐⭐⭐⭐ **US DESTROYS THREE IRGC TANKERS — AND VERIFYING IT BROKE MY OWN 15-HOUR-OLD FINDING: JASK IS OPERATIONAL, KHARG IS B
-- `2026-09-07` [war-board.md:L4577](../war/war-board.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **LABOR DAY OVERNIGHT: IRAN DECLARES A NEW RESTRICTED ZONE NEAR HORMUZ · KPLER ~10 COMMODITY SHIPS/DAY (10-DAY WINDOW, 
-- `2026-09-07` [war-board.md:L4596](../war/war-board.md) — 2026-09-07 ~9:40am PDT — **ZH FEED SCAN (25 items, all new vs 9/4; `raw/2026-09-07-zh-feed-scan.txt`, bodies `raw/2026-09-07-zh-feed-bodies.txt`) — TH
-- `2026-09-07` [war-board.md:L4611](../war/war-board.md) — 2026-09-07 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE PRIMARY BEHIND THIS MORNING'S "~10 SHIPS/DAY" (Reuters/Florence Tan via gCaptain, Jake's link, `raw/2026-09-07-
-- `2026-09-07` [war-board.md:L4627](../war/war-board.md) — 2026-09-07 ~11:25am PDT — ⭐⭐⭐⭐⭐⭐ **gCAPTAIN SHIPPING INDEX (Jake's link; 21 items, 5 bodies pulled → `raw/2026-09-07-gcaptain-shipping-bodies.txt`): S
-- `2026-09-07` [war-board.md:L4646](../war/war-board.md) — 2026-09-07 ~8:15pm PDT — ⭐⭐⭐⭐⭐ **REUTERS IRAN-WAR LIVE INDEX (Jake's PDF, page captured 8:08pm PT, `raw/2026-09-07-reuters-iran-war-live-page.pdf/.txt
-- `2026-09-08` [war-board.md:L4674](../war/war-board.md) — 2026-09-08 ~6:45am PDT — ⛔⭐⭐⭐⭐⭐ **US-OPEN BRIEF vs THE PRIMARY I PULLED YESTERDAY: THE WEEKEND KPLER COUNTS DO NOT MATCH, AND THE "DARK CROSSINGS RECO
-- `2026-09-08` [war-board.md:L4695](../war/war-board.md) — 2026-09-08 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **VITOL'S CEO PUTS HORMUZ CRUDE FLOW AT ~10 mb/d AND CALLS IT "IMPROVED" — A FIFTH NUMBER ON THE BOARD'S MOST CONTEST
-- `2026-09-08` [war-board.md:L4712](../war/war-board.md) — 2026-09-08 ~3:20pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **CENTCOM DESTROYS FIVE MORE IRGC TANKERS (primary release, verbatim) — THE BOARD'S 9/5 FORECAST PRINTED IN THREE DA
-- `2026-09-09` [portfolio-state.md:L1087](../portfolio-state.md) — 2026-09-09 ~12:25pm PDT — **JAKE DISCLOSES BNO PUTS ("not good for my bno puts lol. Was cheap anyhow"). THE STRUCTURAL POINT HE MAY NOT HAVE PRICED IS
-- `2026-09-10` [war-board.md:L4761](../war/war-board.md) — 2026-09-10 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐⭐ **I WENT TO DEBUNK RYSTAD'S ~2 mb/d HORMUZ NUMBER AS INCONSISTENT WITH $105 BRENT. THE VAULT ALREADY HELD "HORMUZ RUN
-- `2026-09-10` [war-board.md:L4780](../war/war-board.md) — 2026-09-10 ~4:50pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BOARD'S OWN 9/10 READ SAID THE PROXY SUBSTITUTIONS WERE *"DELIBERATELY NOT SYMMETRIC"* AND *"LOWER IRAN'S ATTRI
-- `2026-09-10` [war-board.md:L4805](../war/war-board.md) — 2026-09-10 ~5:05pm PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐⭐ **THE TRIPWIRE IRAN NAMED ITSELF HAS BEEN CROSSED. NETANYAHU: *"Tonight we destroyed the largest Iranian outpost o
-- `2026-09-10` [war-board.md:L4833](../war/war-board.md) — 2026-09-10 ~6:30pm PDT — ⛔⭐⭐⭐⭐⭐⭐⭐ **"HOUTHIS TAKE HISN MURAD" — THE NARROWEST POINT OF BAB-EL-MANDEB, ONE DAY AFTER MOCHA. ⛔ IT PARTLY FALSIFIES MY OW
-- `2026-09-10` [war-board.md:L4866](../war/war-board.md) — Addendum 2026-09-10 ~6:30pm PDT — ⛔ **THE HISN MURAD SOURCE IS NAMED: **@visegrad24.** ⇒ **THE ⬜ DOES NOT CLOSE, AND THE REASON IS A DISTINCTION THIS 
-- `2026-09-10` [war-board.md:L4875](../war/war-board.md) — Addendum 2026-09-10 ~6:35pm PDT — ⛔ **JAKE: *"RT'D BY ZH. USUALLY RELIABLE."* — **HE IS RIGHT ON THE PROBABILITY AND THE VAULT HAS THE DATED PROOF, WH
-- `2026-09-12` [war-board.md:L4905](../war/war-board.md) — 2026-09-12 ~8:55am PDT — ✅⭐⭐⭐⭐⭐⭐⭐ **THE SAUDI "EAST-WEST PIPELINE" IS **PETROLINE**, AND THIS BOARD NAMED ITS THROUGHPUT AS THE DECISIVE RESOLVER IN A
-- `2026-09-12` [war-board.md:L4934](../war/war-board.md) — Addendum 2026-09-12 ~9:35am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BIGGEST ITEM IN THIS BRIEF IS NOT THE PIPELINE — IT IS **THE US CHANGING ITS HORMUZ PROTECTION REGIME 
-- `2026-09-13` [war-board.md:L4951](../war/war-board.md) — 2026-09-13 ~8:55pm PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **JAKE ASKS *"WHY WOULD TRUMP NOT BE HELPING? … MISSILE CONSTRAINT?"* — AND **THIS BOARD HAS CARRIED THE ANSWER SINC
-- `2026-09-13` [war-board.md:L4993](../war/war-board.md) — 2026-09-13 ~6:25pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE "RESUMPTION vs REPAIR" DISCRIMINATOR RESOLVES — TO **REPAIR, WITH TWO CLOCKS**: YANBU HOLDS **5-7 DAYS OF EXPOR
-- `2026-09-14` [war-board.md:L5008](../war/war-board.md) — 2026-09-14 ~8:50am PDT — ⭐⭐⭐⭐⭐ **OMAN POSTPONED — **BY SAUDI ARABIA** — AND THE 77-SHIP LIST GIVES THE PERMISSION REGIME ITS ENFORCEMENT ARM (settled 
-- `2026-09-14` [war-board.md:L5015](../war/war-board.md) — Addendum 2026-09-14 ~9:05am PDT — ⛔⭐⭐⭐ **THE PETROLINE REPAIR CLOCK RE-OPENS TO **CONTESTED, THREE WAYS** — HOURS AFTER I FILED IT AS "WEEKS" (settled
-- `2026-09-15` [war-board.md:L5021](../war/war-board.md) — 2026-09-15 ~9:00am PDT — **HORMUZ TRANSIT REGIME + THE GULF AWS BACKFILL (a construction blind spot closed).** *(Jake's two morning scans + web verifi
-- `2026-09-16` [war-board.md:L5032](../war/war-board.md) — 2026-09-16 ~6:50pm PDT — **HORMUZ AT −97% ON A CITABLE RUNG · THE HOUSE VOTES 220-204 · AND THE US SIDE OF THE INSTRUMENTALISM THESIS.** *(9/16 open s
-- `2026-09-19` [war-board.md:L5039](../war/war-board.md) — 2026-09-19 ~12:40pm PDT (covers Thu-Fri overnight; settled per rule 22) — ⭐⭐⭐⭐⭐ **BOTH PATRONS LEAN ON TEHRAN — THE FIRST DE-ESCALATION VECTOR WITH A 
-- `2026-09-19` [war-board.md:L5050](../war/war-board.md) — 2026-09-19 ~10:10pm PDT — ⭐⭐⭐⭐⭐ **HOUTHI BALLISTIC MISSILE AT RIYADH (INTERCEPTED) + A FIVE-CAPITAL US EMBASSY ALERT WAVE — THE CLIENT DEFIES BOTH PAT
-- `2026-09-20` [war-board.md:L5061](../war/war-board.md) — 2026-09-20 ~12:05pm PDT — ⭐⭐⭐⭐⭐ **THE ZELENSKY MEETING + THE GRAHAM-ACT "THEN WHAT" — THE STRIKES BOUGHT THE TABLE, AND THE STICK IS WORTH MORE HELD T
-- `2026-09-22` [war-board.md:L5072](../war/war-board.md) — 2026-09-22 ~10:55am PDT — ⭐⭐⭐⭐⭐ **A THREE-HOUR DIRECT US-IRAN MEETING AT UNGA — THE ASSEMBLED STAGE PRODUCES ITS PAYOFF; THE ALERT WAVE RESOLVED INTO 
-- `2026-09-22` [war-board.md:L5078](../war/war-board.md) — Addendum 2026-09-22 ~11:10am PDT — ⭐⭐⭐⭐⭐ **THREE TRACKS, NOT TWO — AND TRACK TWO FIRED BEFORE TRACK ONE'S HEADLINE: FARS (IRGC-AFFILIATED) ANNOUNCED T
-- `2026-09-22` [war-board.md:L5084](../war/war-board.md) — Addendum 2026-09-22 ~12:40pm PDT — ⭐⭐⭐⭐⭐ **CORRECTION + DETENTION: BRENT'S SUB-$100 WAS PRICED ON A REOPENING REPORT IRAN DENIED — AND THE IRGC MOVED 
-- `2026-09-22` [war-board.md:L5092](../war/war-board.md) — Addendum 2026-09-22 ~12:50pm PDT — ⭐⭐⭐⭐⭐ **THE US RUNS ITS OWN TWO TRACKS: TALKS (WITKOFF + KUSHNER, VIA MEDIATORS) · THREAT ("MAY HAVE TO BLOW UP PIC
-- `2026-09-22` [war-board.md:L5101](../war/war-board.md) — Addendum 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **TRIPWIRE #4 APPROXIMATELY FIRING: A 157-STRIKE SAUDI AIR CAMPAIGN IN TWO DAYS AFTER THE RIYADH MISSILE — REP
-- `2026-09-23` [war-board.md:L5106](../war/war-board.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE GUARD FIRES, THE DIPLOMATS NAME THE PRICE: A CARGO SHIP STRUCK IN HORMUZ THE DAY AFTER THE TALKS (RUBIO: "IRAN F
-- `2026-09-23` [war-board.md:L5120](../war/war-board.md) — 2026-09-23 ~7:57am-3:25pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐⭐ **THE HARDLINER PUTS A CLOCK ON HORMUZ: REZAEI GIVES WASHINGTON "FOUR TO FIVE DAYS" — AND
-- `2026-09-23` [war-board.md:L5128](../war/war-board.md) — 2026-09-23 ~7:00pm PDT (Y'd) — ⚖️ **THE US-CHINA LEVERAGE LEDGER, BEFORE THE XI DINNER (Thu 9/24, remarks 7:55pm ET = 4:55pm PT, AFTER THE CLOSE): CHI
-- `2026-09-24` [war-board.md:L5137](../war/war-board.md) — 2026-09-24 ~10:47am PDT (Y'd, entered ~11:25am) — ⭐⭐⭐⭐ **THE THREAT WIDENS THE MAP: "THE FRONT WILL EXPAND… REACHING THE INDIAN OCEAN" IF ATTACKED AGA
-- `2026-09-24` [war-board.md:L5143](../war/war-board.md) — 2026-09-24 ~7:30pm PDT (Y'd) — ⚖️ **THE XI DINNER, SCORED AGAINST THE LEVERAGE LEDGER (`:L5301`): BASE CASE CORRECT — SYMBOLIC + A TRUCE EXTENSION; CH
-- `2026-09-25` [war-board.md:L5149](../war/war-board.md) — 2026-09-25 ~6:39am PDT (open scan — NEW ONLY) — **HORMUZ: THE TALKS ARE REAL, THE SHIPS ARE PARTLY MOVING — AND THE SAUDI BYPASS IS NOW A TARGET. UKRA
-- `2026-09-25` [war-board.md:L5157](../war/war-board.md) — 2026-09-25 ~6:42am-11:10am PDT (Y'd) — ⭐⭐⭐⭐ **THE OFFER ROSE IN RANK; THE RESISTANCE CHANGED SIDES; THE TERMS STILL DON'T MEET. ARAGHCHI OWNS A 7-DAY 
-- `2026-09-25` [war-board.md:L5165](../war/war-board.md) — 2026-09-25 ~3:30pm PDT (Y'd ~3:55pm) — ✈️ **THE AIRSPACE WAR: REZAEI'S 9/23 THREAT RUNS IN BOTH DIRECTIONS — IRAQ SHUTS FOUR AIRPORTS, THE UAE SUSPEND
-- `2026-09-25` [war-board.md:L5174](../war/war-board.md) — 2026-09-25 ~6:07-6:18pm PDT (Y'd ~6:18pm) — 🔴 **TRUMP REJECTS THE 7-DAY PLAN, KEEPS THE BLOCKADE, EXPECTS TO RESUME BOMBING *AFTER THE MIDTERMS* (WSJ,
-- `2026-09-26` [war-board.md:L5184](../war/war-board.md) — 2026-09-26 ~6:42pm PDT (Y'd 9/27 ~9:26am) — 🛩️ **DRONE ATTRITION IS FUNDING REPLACEMENTS: THE AIR FORCE MORE THAN DOUBLED THE ONDAS/DZYNE "ULTRA" RECO
-- `2026-09-27` [war-board.md:L5191](../war/war-board.md) — 2026-09-27 ~5:34pm PDT (Y'd ~5:48pm) — 📢 **TRUMP ANNOUNCEMENT MONDAY 2PM ET (WHITE HOUSE) — TOPIC UNKNOWN; A SCHEDULED, IN-SESSION "ANNOUNCED EVENT."*
-- `2026-09-28` [war-board.md:L5199](../war/war-board.md) — 2026-09-28 ~3:58-4:01pm PDT (Y'd ~4:40pm) — 🔁 **WASHINGTON RUNS THE THREE-TRACK PATTERN TOO: OFFICIALS FLOAT CONDITIONAL RELIEF, THE PRESIDENT SAYS "I
+- `2026-09-01` [portfolio-state.md:L1082](../portfolio-state.md) — 2026-09-01 ~11:15am PDT — **REFINERY BASKET DISCLOSED (Jake): PBF · DINO (HF Sinclair) · PARR (Par Pacific) · PSX · MPC · VLO.** ⛔ Corrects two same-d
+- `2026-09-01` [portfolio-state.md:L1084](../portfolio-state.md) — Addendum 2026-09-01 ~11:20am PDT — ⭐⭐⭐⭐⭐ **THE REFINERY BASKET, WORKED UP (Jake's data pull, `raw/2026-09-01-refinery-basket-workup.md`; 6M return ari
+- `2026-09-01` [war-board.md:L4277](../war/war-board.md) — 2026-09-01 ~7:50am PDT — ⛔⭐⭐⭐⭐⭐ **EVENT CLASS, UNDER THE STANDING FILTER: TWO SAUDI-CRUDE SUPERTANKERS HIT IN HORMUZ (Reuters/Kpler, via 9/1 intellige
+- `2026-09-01` [war-board.md:L4289](../war/war-board.md) — Addendum 2026-09-01 ~9:46am PDT — **ZH feed scan, three war-board items:** (1) **IRAN OFFERS A CONDITIONAL CEASEFIRE** — Pezeshkian: return to talks I
+- `2026-09-01` [war-board.md:L4291](../war/war-board.md) — 2026-09-01 ~9:45am PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE US IS STRIKING IRGC TARGETS INSIDE IRAN — CENTCOM (posted ~9:36am PT): "Today at 12 p.m. ET, U.S. forces began
+- `2026-09-01` [war-board.md:L4302](../war/war-board.md) — Addendum 2026-09-01 ~9:55am PDT — ✅⭐⭐⭐⭐ **THE TAPE, ~34 MIN INTO THE STRIKES (Yahoo, 12:34pm ET, header reconciliation ✓ both quotes): BRENT $94.29 +4
+- `2026-09-01` [war-board.md:L4304](../war/war-board.md) — Addendum 2026-09-01 ~11:25am PDT — ⭐⭐⭐⭐ **THE FORK, FIRST READ (ZH feed, wires): strikes reported across IRAN'S SOUTHERN REGIONS (state TV) — explosio
+- `2026-09-01` [war-board.md:L4306](../war/war-board.md) — Addendum 2026-09-01 ~11:58am PDT — ⭐⭐⭐⭐ **THIRD READ OF THE TARGET CLASS — PREEMPTIVE ANTI-MINING (Jake: "the small off chance that Trump took their t
+- `2026-09-01` [war-board.md:L4310](../war/war-board.md) — 2026-09-01 ~12:35pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **THE DISCRIMINATOR CLOSES IN 35 MINUTES: TRUMP (Truth Social, via ZH ~10:35am PT) — "large and powerful" strikes O
+- `2026-09-01` [war-board.md:L4323](../war/war-board.md) — Addendum 2026-09-01 ~12:35pm PDT — **Tape with the mining assertion in the market (header test ✓): Brent $95.00 +4.98% (3:19pm ET) · 30Y CLOSED 5.27 +
+- `2026-09-01` [war-board.md:L4325](../war/war-board.md) — 2026-09-01 ~12:45pm PDT — ⛔⛔✅⭐⭐⭐⭐⭐ **THE PRIMARY (Jake's screenshot, Truth Social 10:25am PT / 1:25pm ET, `raw/2026-09-01-trump-truth-hormuz-strikes.p
+- `2026-09-01` [war-board.md:L4342](../war/war-board.md) — Addendum 2026-09-01 ~12:45pm PDT — ⚠️ **UNVERIFIED (Jake): reports of Iran retaliating "literally right now."** If confirmed, this is the TIER-2 TRIGG
+- `2026-09-01` [war-board.md:L4344](../war/war-board.md) — Addendum 2026-09-01 ~12:55pm PDT — **IRIB (Iranian state broadcaster), 12:18pm PT: "more blasts heard in Chabahar."** That is ~3h18m after the 12pm-ET
+- `2026-09-01` [war-board.md:L4346](../war/war-board.md) — 2026-09-01 ~12:55pm PDT — ⛔⭐⭐⭐⭐⭐ **IRAN'S RETALIATION WAVE FIRMS TO IRGC-MEDIA-SOURCED (AP citing Fars/Tasnim, 12:54pm PT / 3:54pm ET, via Jake): Iran
+- `2026-09-01` [war-board.md:L4357](../war/war-board.md) — Addendum 2026-09-01 ~1:00pm PDT — **Tape with the retaliation headline in (header tests ✓): Brent $95.05 +5.04% (3:45pm ET, unchanged from the 3:19pm 
+- `2026-09-01` [war-board.md:L4359](../war/war-board.md) — 2026-09-01 ~1:00pm PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **ZH LIVE WRAP (Jake's paste, `raw/2026-09-01-zh-iran-retaliation-wrap.txt`): (1) RETALIATION TARGET = US BASES IN J
+- `2026-09-01` [war-board.md:L4377](../war/war-board.md) — Addendum 2026-09-01 ~1:05pm PDT — ✅ **THE MoU DATE ⬜ RESOLVES (Jake, recollection): two dates of ONE collapse — DE JURE and DE FACTO.** ~~The Islamaba
+- `2026-09-01` [war-board.md:L4379](../war/war-board.md) — Addendum 2026-09-01 ~1:10pm PDT — ✅⭐⭐⭐⭐ **THE MoU, AT TERMS LEVEL (Jake's gopher summary — supersedes the 1:05pm recollection on the numbers): JUNE 17
+- `2026-09-01` [war-board.md:L4385](../war/war-board.md) — 2026-09-01 ~7:55pm PDT — ⛔⭐⭐⭐⭐ **THE OFFICIAL HORMUZ VOLUME CLAIM vs THE VESSEL DATA (Jake's flag + primary pulled): Energy Secretary Wright, Sept 1 (
+- `2026-09-02` [war-board.md:L4398](../war/war-board.md) — 2026-09-02 ~8:35am PDT — ⛔⛔⭐⭐⭐⭐⭐⭐ **THE OVERNIGHT, ASSESSED (ZH feed scan, `raw/2026-09-02-zh-feed-scan.txt`): (1) IRANIAN TOLL 18, including an alleg
+- `2026-09-02` [war-board.md:L4408](../war/war-board.md) — Addendum 2026-09-02 ~10:00am PDT — **IRIB official toll (wire via Jake): 18 killed, 108 injured in the overnight US strikes.** The 18 matches the 8:35
+- `2026-09-03` [war-board.md:L4410](../war/war-board.md) — 2026-09-03 ~7:30am PDT — ⭐⭐⭐⭐ **THIRD WAVE REACHES THE UAE; TRUMP WEIGHS DECLARING THE WAR "OVER" WHILE THE BLOCKADE RUNS (ZH scan 7:25am; ZH/Tasnim/K
+- `2026-09-03` [war-board.md:L4423](../war/war-board.md) — Addendum 2026-09-03 ~9:00am PDT — ⭐⭐⭐⭐ **THE THROUGHPUT DATUM: REUTERS — HORMUZ CROSSINGS BELOW AVERAGE WEDNESDAY; Brent ~$97.3 / WTI ~$93, fresh six-
+- `2026-09-03` [war-board.md:L4425](../war/war-board.md) — 2026-09-03 ~9:20pm PDT — ⭐⭐⭐⭐⭐ **THE COALITION QUESTION MOVES, AND IT MOVES IN ASIA: SOUTH KOREA IS MAKING "CONCRETE PREPARATIONS" FOR A HORMUZ NAVAL 
+- `2026-09-03` [war-board.md:L4446](../war/war-board.md) — Addendum 2026-09-03 ~9:30pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE'S LINKAGE READ: "one day after Trump lays chip tariffs… if SK sweeps for mines 'independently' it give
+- `2026-09-03` [war-board.md:L4466](../war/war-board.md) — Addendum 2026-09-03 ~9:45pm PDT — ⭐⭐⭐⭐⭐⭐ **JAKE CONNECTS THREE ITEMS FILED SEPARATELY TODAY INTO AN EXIT ARCHITECTURE — AND IT DATES THE EXIT: "gettin
+- `2026-09-03` [war-board.md:L4486](../war/war-board.md) — Addendum 2026-09-03 ~9:50pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **THE ⬜ CLOSES AND THE SOURCED VERSION IS WORSE THAN THE RECONSTRUCTION: VANCE RECLASSIFIED THE WAR *IN DIR
+- `2026-09-04` [war-board.md:L4512](../war/war-board.md) — ⟲ AMENDMENT 2026-09-04 ~7:10am PDT — ⛔ **I FILED THE KOREA ITEM AS "NR — NO INSTRUMENT" AND THAT WAS WRONG: EWY IS IN JAKE'S ROSTER.**
+- `2026-09-04` [war-board.md:L4519](../war/war-board.md) — Addendum 2026-09-04 ~7:20am PDT — ⭐⭐⭐⭐ **THE COALITION PARTNER'S WAR AIM IS INCOMPATIBLE WITH THE ADMINISTRATION'S DE-ESCALATION: NETANYAHU — TOPPLING
+- `2026-09-04` [war-board.md:L4525](../war/war-board.md) — Addendum 2026-09-04 ~2:20pm PDT — ⛔ **BESSENT CLAIMS THE EU "OFFICIALLY JOINED" ECONOMIC OUTCAST; THE EU'S OWN TEXT IS AN ENDORSEMENT, NOT A COMMITMEN
+- `2026-09-04` [war-board.md:L4533](../war/war-board.md) — Addendum 2026-09-04 ~3:45pm PDT — **THE BYPASS IS NOT CAPACITY-CONSTRAINED, IT IS ELIGIBILITY-CONSTRAINED — AND THIS BOARD ALREADY HELD THE BINDING FA
+- `2026-09-05` [war-board.md:L4547](../war/war-board.md) — 2026-09-05 ~6:50am PDT — ⛔⭐⭐⭐⭐⭐⭐ **US DESTROYS THREE IRGC TANKERS — AND VERIFYING IT BROKE MY OWN 15-HOUR-OLD FINDING: JASK IS OPERATIONAL, KHARG IS B
+- `2026-09-07` [war-board.md:L4579](../war/war-board.md) — 2026-09-07 ~8:15am PDT — ⭐⭐⭐⭐⭐ **LABOR DAY OVERNIGHT: IRAN DECLARES A NEW RESTRICTED ZONE NEAR HORMUZ · KPLER ~10 COMMODITY SHIPS/DAY (10-DAY WINDOW, 
+- `2026-09-07` [war-board.md:L4598](../war/war-board.md) — 2026-09-07 ~9:40am PDT — **ZH FEED SCAN (25 items, all new vs 9/4; `raw/2026-09-07-zh-feed-scan.txt`, bodies `raw/2026-09-07-zh-feed-bodies.txt`) — TH
+- `2026-09-07` [war-board.md:L4613](../war/war-board.md) — 2026-09-07 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **THE PRIMARY BEHIND THIS MORNING'S "~10 SHIPS/DAY" (Reuters/Florence Tan via gCaptain, Jake's link, `raw/2026-09-07-
+- `2026-09-07` [war-board.md:L4629](../war/war-board.md) — 2026-09-07 ~11:25am PDT — ⭐⭐⭐⭐⭐⭐ **gCAPTAIN SHIPPING INDEX (Jake's link; 21 items, 5 bodies pulled → `raw/2026-09-07-gcaptain-shipping-bodies.txt`): S
+- `2026-09-07` [war-board.md:L4648](../war/war-board.md) — 2026-09-07 ~8:15pm PDT — ⭐⭐⭐⭐⭐ **REUTERS IRAN-WAR LIVE INDEX (Jake's PDF, page captured 8:08pm PT, `raw/2026-09-07-reuters-iran-war-live-page.pdf/.txt
+- `2026-09-08` [war-board.md:L4676](../war/war-board.md) — 2026-09-08 ~6:45am PDT — ⛔⭐⭐⭐⭐⭐ **US-OPEN BRIEF vs THE PRIMARY I PULLED YESTERDAY: THE WEEKEND KPLER COUNTS DO NOT MATCH, AND THE "DARK CROSSINGS RECO
+- `2026-09-08` [war-board.md:L4697](../war/war-board.md) — 2026-09-08 ~11:15am PDT — ⭐⭐⭐⭐⭐⭐ **VITOL'S CEO PUTS HORMUZ CRUDE FLOW AT ~10 mb/d AND CALLS IT "IMPROVED" — A FIFTH NUMBER ON THE BOARD'S MOST CONTEST
+- `2026-09-08` [war-board.md:L4714](../war/war-board.md) — 2026-09-08 ~3:20pm PDT — ✅⛔⭐⭐⭐⭐⭐⭐ **CENTCOM DESTROYS FIVE MORE IRGC TANKERS (primary release, verbatim) — THE BOARD'S 9/5 FORECAST PRINTED IN THREE DA
+- `2026-09-09` [portfolio-state.md:L1089](../portfolio-state.md) — 2026-09-09 ~12:25pm PDT — **JAKE DISCLOSES BNO PUTS ("not good for my bno puts lol. Was cheap anyhow"). THE STRUCTURAL POINT HE MAY NOT HAVE PRICED IS
+- `2026-09-10` [war-board.md:L4763](../war/war-board.md) — 2026-09-10 ~7:20am PDT — ⭐⭐⭐⭐⭐⭐⭐ **I WENT TO DEBUNK RYSTAD'S ~2 mb/d HORMUZ NUMBER AS INCONSISTENT WITH $105 BRENT. THE VAULT ALREADY HELD "HORMUZ RUN
+- `2026-09-10` [war-board.md:L4782](../war/war-board.md) — 2026-09-10 ~4:50pm PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BOARD'S OWN 9/10 READ SAID THE PROXY SUBSTITUTIONS WERE *"DELIBERATELY NOT SYMMETRIC"* AND *"LOWER IRAN'S ATTRI
+- `2026-09-10` [war-board.md:L4807](../war/war-board.md) — 2026-09-10 ~5:05pm PDT — ⛔⛔⛔⭐⭐⭐⭐⭐⭐⭐ **THE TRIPWIRE IRAN NAMED ITSELF HAS BEEN CROSSED. NETANYAHU: *"Tonight we destroyed the largest Iranian outpost o
+- `2026-09-10` [war-board.md:L4835](../war/war-board.md) — 2026-09-10 ~6:30pm PDT — ⛔⭐⭐⭐⭐⭐⭐⭐ **"HOUTHIS TAKE HISN MURAD" — THE NARROWEST POINT OF BAB-EL-MANDEB, ONE DAY AFTER MOCHA. ⛔ IT PARTLY FALSIFIES MY OW
+- `2026-09-10` [war-board.md:L4868](../war/war-board.md) — Addendum 2026-09-10 ~6:30pm PDT — ⛔ **THE HISN MURAD SOURCE IS NAMED: **@visegrad24.** ⇒ **THE ⬜ DOES NOT CLOSE, AND THE REASON IS A DISTINCTION THIS 
+- `2026-09-10` [war-board.md:L4877](../war/war-board.md) — Addendum 2026-09-10 ~6:35pm PDT — ⛔ **JAKE: *"RT'D BY ZH. USUALLY RELIABLE."* — **HE IS RIGHT ON THE PROBABILITY AND THE VAULT HAS THE DATED PROOF, WH
+- `2026-09-12` [war-board.md:L4907](../war/war-board.md) — 2026-09-12 ~8:55am PDT — ✅⭐⭐⭐⭐⭐⭐⭐ **THE SAUDI "EAST-WEST PIPELINE" IS **PETROLINE**, AND THIS BOARD NAMED ITS THROUGHPUT AS THE DECISIVE RESOLVER IN A
+- `2026-09-12` [war-board.md:L4936](../war/war-board.md) — Addendum 2026-09-12 ~9:35am PDT — ⭐⭐⭐⭐⭐⭐⭐ **THE BIGGEST ITEM IN THIS BRIEF IS NOT THE PIPELINE — IT IS **THE US CHANGING ITS HORMUZ PROTECTION REGIME 
+- `2026-09-13` [war-board.md:L4953](../war/war-board.md) — 2026-09-13 ~8:55pm PDT — ⭐⭐⭐⭐⭐⭐⭐⭐ **JAKE ASKS *"WHY WOULD TRUMP NOT BE HELPING? … MISSILE CONSTRAINT?"* — AND **THIS BOARD HAS CARRIED THE ANSWER SINC
+- `2026-09-13` [war-board.md:L4995](../war/war-board.md) — 2026-09-13 ~6:25pm PDT — ✅⭐⭐⭐⭐⭐⭐ **THE "RESUMPTION vs REPAIR" DISCRIMINATOR RESOLVES — TO **REPAIR, WITH TWO CLOCKS**: YANBU HOLDS **5-7 DAYS OF EXPOR
+- `2026-09-14` [war-board.md:L5010](../war/war-board.md) — 2026-09-14 ~8:50am PDT — ⭐⭐⭐⭐⭐ **OMAN POSTPONED — **BY SAUDI ARABIA** — AND THE 77-SHIP LIST GIVES THE PERMISSION REGIME ITS ENFORCEMENT ARM (settled 
+- `2026-09-14` [war-board.md:L5017](../war/war-board.md) — Addendum 2026-09-14 ~9:05am PDT — ⛔⭐⭐⭐ **THE PETROLINE REPAIR CLOCK RE-OPENS TO **CONTESTED, THREE WAYS** — HOURS AFTER I FILED IT AS "WEEKS" (settled
+- `2026-09-15` [war-board.md:L5023](../war/war-board.md) — 2026-09-15 ~9:00am PDT — **HORMUZ TRANSIT REGIME + THE GULF AWS BACKFILL (a construction blind spot closed).** *(Jake's two morning scans + web verifi
+- `2026-09-16` [war-board.md:L5034](../war/war-board.md) — 2026-09-16 ~6:50pm PDT — **HORMUZ AT −97% ON A CITABLE RUNG · THE HOUSE VOTES 220-204 · AND THE US SIDE OF THE INSTRUMENTALISM THESIS.** *(9/16 open s
+- `2026-09-19` [war-board.md:L5041](../war/war-board.md) — 2026-09-19 ~12:40pm PDT (covers Thu-Fri overnight; settled per rule 22) — ⭐⭐⭐⭐⭐ **BOTH PATRONS LEAN ON TEHRAN — THE FIRST DE-ESCALATION VECTOR WITH A 
+- `2026-09-19` [war-board.md:L5052](../war/war-board.md) — 2026-09-19 ~10:10pm PDT — ⭐⭐⭐⭐⭐ **HOUTHI BALLISTIC MISSILE AT RIYADH (INTERCEPTED) + A FIVE-CAPITAL US EMBASSY ALERT WAVE — THE CLIENT DEFIES BOTH PAT
+- `2026-09-20` [war-board.md:L5063](../war/war-board.md) — 2026-09-20 ~12:05pm PDT — ⭐⭐⭐⭐⭐ **THE ZELENSKY MEETING + THE GRAHAM-ACT "THEN WHAT" — THE STRIKES BOUGHT THE TABLE, AND THE STICK IS WORTH MORE HELD T
+- `2026-09-22` [war-board.md:L5074](../war/war-board.md) — 2026-09-22 ~10:55am PDT — ⭐⭐⭐⭐⭐ **A THREE-HOUR DIRECT US-IRAN MEETING AT UNGA — THE ASSEMBLED STAGE PRODUCES ITS PAYOFF; THE ALERT WAVE RESOLVED INTO 
+- `2026-09-22` [war-board.md:L5080](../war/war-board.md) — Addendum 2026-09-22 ~11:10am PDT — ⭐⭐⭐⭐⭐ **THREE TRACKS, NOT TWO — AND TRACK TWO FIRED BEFORE TRACK ONE'S HEADLINE: FARS (IRGC-AFFILIATED) ANNOUNCED T
+- `2026-09-22` [war-board.md:L5086](../war/war-board.md) — Addendum 2026-09-22 ~12:40pm PDT — ⭐⭐⭐⭐⭐ **CORRECTION + DETENTION: BRENT'S SUB-$100 WAS PRICED ON A REOPENING REPORT IRAN DENIED — AND THE IRGC MOVED 
+- `2026-09-22` [war-board.md:L5094](../war/war-board.md) — Addendum 2026-09-22 ~12:50pm PDT — ⭐⭐⭐⭐⭐ **THE US RUNS ITS OWN TWO TRACKS: TALKS (WITKOFF + KUSHNER, VIA MEDIATORS) · THREAT ("MAY HAVE TO BLOW UP PIC
+- `2026-09-22` [war-board.md:L5103](../war/war-board.md) — Addendum 2026-09-22 ~6:50pm PDT — ⭐⭐⭐⭐⭐ **TRIPWIRE #4 APPROXIMATELY FIRING: A 157-STRIKE SAUDI AIR CAMPAIGN IN TWO DAYS AFTER THE RIYADH MISSILE — REP
+- `2026-09-23` [war-board.md:L5108](../war/war-board.md) — 2026-09-23 ~7:45am PDT — ⭐⭐⭐⭐⭐⭐ **THE GUARD FIRES, THE DIPLOMATS NAME THE PRICE: A CARGO SHIP STRUCK IN HORMUZ THE DAY AFTER THE TALKS (RUBIO: "IRAN F
+- `2026-09-23` [war-board.md:L5122](../war/war-board.md) — 2026-09-23 ~7:57am-3:25pm PDT (Y'd, entered ~3:50pm) — ⭐⭐⭐⭐⭐ **THE HARDLINER PUTS A CLOCK ON HORMUZ: REZAEI GIVES WASHINGTON "FOUR TO FIVE DAYS" — AND
+- `2026-09-23` [war-board.md:L5130](../war/war-board.md) — 2026-09-23 ~7:00pm PDT (Y'd) — ⚖️ **THE US-CHINA LEVERAGE LEDGER, BEFORE THE XI DINNER (Thu 9/24, remarks 7:55pm ET = 4:55pm PT, AFTER THE CLOSE): CHI
+- `2026-09-24` [war-board.md:L5139](../war/war-board.md) — 2026-09-24 ~10:47am PDT (Y'd, entered ~11:25am) — ⭐⭐⭐⭐ **THE THREAT WIDENS THE MAP: "THE FRONT WILL EXPAND… REACHING THE INDIAN OCEAN" IF ATTACKED AGA
+- `2026-09-24` [war-board.md:L5145](../war/war-board.md) — 2026-09-24 ~7:30pm PDT (Y'd) — ⚖️ **THE XI DINNER, SCORED AGAINST THE LEVERAGE LEDGER (`:L5301`): BASE CASE CORRECT — SYMBOLIC + A TRUCE EXTENSION; CH
+- `2026-09-25` [war-board.md:L5151](../war/war-board.md) — 2026-09-25 ~6:39am PDT (open scan — NEW ONLY) — **HORMUZ: THE TALKS ARE REAL, THE SHIPS ARE PARTLY MOVING — AND THE SAUDI BYPASS IS NOW A TARGET. UKRA
+- `2026-09-25` [war-board.md:L5159](../war/war-board.md) — 2026-09-25 ~6:42am-11:10am PDT (Y'd) — ⭐⭐⭐⭐ **THE OFFER ROSE IN RANK; THE RESISTANCE CHANGED SIDES; THE TERMS STILL DON'T MEET. ARAGHCHI OWNS A 7-DAY 
+- `2026-09-25` [war-board.md:L5167](../war/war-board.md) — 2026-09-25 ~3:30pm PDT (Y'd ~3:55pm) — ✈️ **THE AIRSPACE WAR: REZAEI'S 9/23 THREAT RUNS IN BOTH DIRECTIONS — IRAQ SHUTS FOUR AIRPORTS, THE UAE SUSPEND
+- `2026-09-25` [war-board.md:L5176](../war/war-board.md) — 2026-09-25 ~6:07-6:18pm PDT (Y'd ~6:18pm) — 🔴 **TRUMP REJECTS THE 7-DAY PLAN, KEEPS THE BLOCKADE, EXPECTS TO RESUME BOMBING *AFTER THE MIDTERMS* (WSJ,
+- `2026-09-26` [war-board.md:L5186](../war/war-board.md) — 2026-09-26 ~6:42pm PDT (Y'd 9/27 ~9:26am) — 🛩️ **DRONE ATTRITION IS FUNDING REPLACEMENTS: THE AIR FORCE MORE THAN DOUBLED THE ONDAS/DZYNE "ULTRA" RECO
+- `2026-09-27` [war-board.md:L5193](../war/war-board.md) — 2026-09-27 ~5:34pm PDT (Y'd ~5:48pm) — 📢 **TRUMP ANNOUNCEMENT MONDAY 2PM ET (WHITE HOUSE) — TOPIC UNKNOWN; A SCHEDULED, IN-SESSION "ANNOUNCED EVENT."*
+- `2026-09-28` [war-board.md:L5201](../war/war-board.md) — 2026-09-28 ~3:58-4:01pm PDT (Y'd ~4:40pm) — 🔁 **WASHINGTON RUNS THE THREE-TRACK PATTERN TOO: OFFICIALS FLOAT CONDITIONAL RELIEF, THE PRESIDENT SAYS "I
+- `2026-09-29` [portfolio-state.md:L1097](../portfolio-state.md) — 2026-09-29 ~8:55am PDT — ⛔ **CORRECTED ACTUAL BOOK (Jake's direct disclosure): "I don't hold an Oracle short. I'm not even eligible for that trade. I'
+- `2026-09-29` [war-board.md:L5210](../war/war-board.md) — 2026-09-29 ~8:10am PDT (open scan — verified against Reuters/Bloomberg/Kpler primaries) — 🛢️ **THE SAUDI BYPASS IS BACK AT "AT LEAST 3.5 mb/d" (BLOOMB
+- `2026-09-29` [war-board.md:L5223](../war/war-board.md) — 2026-09-29 ~9:00-9:30am PDT (Y'd ~9:25am) — 🚢 **A TANKER IS HIT IN HORMUZ THE NIGHT THE UN TALKS FAIL — UKMTO 143-26 CLASSES IT "SUSPICIOUS ACTIVITY,"
+- `2026-09-30` [war-board.md:L5235](../war/war-board.md) — 2026-09-30 ~6:45pm PDT (Y'd ~6:35pm) — 🇮🇶 **US FORCES LEFT IRAQ TODAY; IRAN HOLDS A WRITTEN US RESPONSE AND THE DISPUTE IS THE ORDER OF STEPS; A FLYDU
+
+## 2026-10
+
+- `2026-10-01` [war-board.md:L5253](../war/war-board.md) — 2026-10-01 ~12:40pm PDT (Y'd ~12:38pm) — 🚢 **THE US BUILDS A FORCE FOR AFTER THE MIDTERMS (THIRD CARRIER, ~10K TROOPS, ON STATION BY END-NOVEMBER) — A
+- `2026-10-02` [portfolio-state.md:L1105](../portfolio-state.md) — 2026-10-02 ~8:15am PDT — 📌 **ACTUAL BOOK (Jake's direct disclosure, 10/2 ~8:05am): "I'm still mostly in my SPY put and PARR covered call." THE DHT/UAL
+- `2026-10-17` [portfolio-state.md:L1156](../portfolio-state.md) — 2026-10-17 ~10:05am PDT — ⛔ MU WAS PAPER — JAKE: "MU paper. I never held it. Not since like June."
+- `2026-10-17` [war-board.md:L5479](../war/war-board.md) — 2026-10-17 ~10:00am PDT — 💣 **IRAN'S GUARDS NOW CLAIM MINE STRIKES ROUTINELY; UKMTO LOGS A RECORD WEEK. JAKE'S 9/25 "POSSIBLY A MINING ATTEMPT" LEG RE
+- `2026-10-17` [war-board.md:L5489](../war/war-board.md) — 2026-10-17 ~11:00am PDT — 🌫️ **UKMTO'S OWN WEEKLY: MOST ATTACKED SHIPS DON'T REPORT, AND FIVE OF SIX COUNTED TRANSITS ARE US NUMBERS IT CANNOT CHECK. 
+- `2026-10-17` [war-board.md:L5502](../war/war-board.md) — 2026-10-17 ~11:45am PDT — ⚡ **THE ENERGY WAR, BOTH DIRECTIONS IN ONE NIGHT: RUSSIA SAYS IT DOWNED 644 UKRAINIAN DRONES (THE NIGHT OF 10/15–16, 27 REGI

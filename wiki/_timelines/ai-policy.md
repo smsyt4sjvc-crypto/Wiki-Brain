@@ -1,6 +1,6 @@
 # ⏱ AI-POLICY — merged timeline (the gate)
 
-> **604 dated entries across 4 notes · 2026-05-22 → 2026-09-28 · refreshed 2026-09-28 19:41 PDT**
+> **621 dated entries across 4 notes · 2026-05-22 → 2026-10-12 · refreshed 2026-10-17 11:42 PDT**
 >
 > **This file is the ENTRY POINT for this thread.** It is the whole thread in order,
 > oldest first, across every note that carries it. Read it start-to-finish before
@@ -629,3 +629,23 @@
 - `2026-09-28` [ai-financing-fragility.md:L8527](../ai-financing-fragility.md) — 2026-09-28 close (Y'd ~1:30pm PDT) — 🧯 **JUNK ISSUANCE INDIGESTION: SEPTEMBER HY ~$38.5B (BUSIEST MONTH OF 2026), GOLDMAN SEES HY PREMIUMS AT ~5-MONTH
 - `2026-09-28` [ai-financing-fragility.md:L8534](../ai-financing-fragility.md) — 2026-09-28 ~4:29pm PDT (Y'd ~4:40pm) — 📄 **ANTHROPIC'S IPO PROSPECTUS (Reuters, seen): 2025 REVENUE ~$4.6B (12×), OPERATING LOSS >$8B, COMPUTE $7.33B 
 - `2026-09-28` [compression-thesis.md:L3518](../compression-thesis.md) — 2026-09-28 ~3:15pm PDT (Y'd ~3:31pm) — 🛡️ **CERTIFIED STACK vs UNCERTIFIED: OPENAI'S SELF-IMPOSED HALT IS THE EVIDENCE FOR DEPLOYMENT STANDARDS — AND 
+- `2026-09-29` [ai-financing-fragility.md:L8543](../ai-financing-fragility.md) — 2026-09-29 ~8:10am PDT (open scan, verified) — 🏗️ **SAMSUNG PUTS $1B INTO KKR'S HELIX — THE FIRST NAMED $500B-PLATFORM VEHICLE (8/30, `:L7793`) NOW HA
+- `2026-09-29` [metered-compute.md:L3549](../metered-compute.md) — 2026-09-29 ~12:15pm PDT (Y'd ~12:25pm) — 💱 **GPT-6.1 SOL: NEAR-FRONTIER AT ONE-FIFTH THE PRICE ($2 / $0.10 cached / $10 per M tokens) — THE 9/3 NATURA
+- `2026-09-29` [metered-compute.md:L3557](../metered-compute.md) — 2026-09-29 ~9:55pm PDT (Y'd 2026-09-30 ~6:35pm) — 📉 **SILICON DATA: "ANTHROPIC ARR FLATLINED WHEN THE TOKEN INDEX PEAKED." THE INDEX IS AN EXPENDITURE
+- `2026-09-30` [compression-thesis.md:L3533](../compression-thesis.md) — 2026-09-30 ~7:10pm PDT (Y'd ~6:35pm) — 🏛️ **THE ACCORD'S PRIMARY, THE FTC'S COUNTER-MOVE, AND DEEPSEEK'S CUDA SUBSTITUTE — THE SAME DAY. ⛔⛔ VENDOR CON
+
+## 2026-10
+
+- `2026-10-01` [ai-financing-fragility.md:L8555](../ai-financing-fragility.md) — 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm) — ⚖️ **THE REFEREE RULED: PARAMOUNT'S RECORD JUNK DEAL BROKE IN A DAY — AND JAKE'S QUESTION REFRAMES WHAT TO WATC
+- `2026-10-01` [compression-thesis.md:L3544](../compression-thesis.md) — 2026-10-01 ~3:00am PDT (Y'd ~2:58am) — 💲 **GEMINI 4 ARGON: A CLAIMED-FRONTIER MODEL AT THE CHEAP-TIER PRICE, RELEASED THROUGH A GATE. ⛔⛔ VENDOR CONFLI
+- `2026-10-01` [compression-thesis.md:L3559](../compression-thesis.md) — 2026-10-01 ~3:40am PDT (Y'd ~3:32am) — 📵 **"GIVE THE TOKENS AWAY, SELL THE PLAN AND THE ADS": JAKE'S 7/24 MINUTES-PLAN CALL GETS THIRD-PARTY CONVERGEN
+- `2026-10-01` [metered-compute.md:L3565](../metered-compute.md) — 2026-10-01 ~9:35pm PDT (Y'd ~9:28pm) — ✂️ **THE SQUEEZE IN THE MIDDLE, MEASURED TWO WAYS: GPU RENTS ARE RISING (B200 +31% YTD, H200 +25% SINCE MAY) WH
+- `2026-10-02` [ai-financing-fragility.md:L8567](../ai-financing-fragility.md) — 2026-10-02 ~3:55pm PDT (filed under rule 22c) — 🕸️ **"WHO OWES WHOM" (ZH's expansion of the MS map) RECONCILED TO FILINGS: NVDA's $531B IS ITS OWN 10-
+- `2026-10-02` [ai-financing-fragility.md:L8575](../ai-financing-fragility.md) — 2026-10-02 ~4:30pm PDT (filed under rule 22c) — 🌉 **"THE BRIDGE TO 2031": THE CLAIM THAT AI BECOMES SELF-FUNDING WHEN ENTERPRISE AI SPEND REACHES ~$3T
+- `2026-10-10` [ai-financing-fragility.md:L8669](../ai-financing-fragility.md) — 2026-10-10 ~3:00pm PDT (filed under rule 22c) — 💸 **THE RATE CARD CORRECTS THE VAULT: NEW GB300 CAPACITY RENTS FOR $40–50B PER GW-YEAR SHORT-TERM AND 
+- `2026-10-11` [metered-compute.md:L3633](../metered-compute.md) — 2026-10-11 ~7:30pm PDT (filed under rule 22c) — 🧪 **COINBASE'S CEO: A FINE-TUNED 9B OPEN-WEIGHT MODEL (ALIBABA'S QWEN3.5-9B) BEAT ITS FRONTIER "OPUS 4
+- `2026-10-12` [ai-capex-cycle.md:L3880](../ai-capex-cycle.md) — 2026-10-12 ~10:15am PDT — 🗓️ **THE 10/21 AFTER-CLOSE CLUSTER: SAP · IBM · LRCX · TSLA · TXN — WHAT EACH PRINT TESTS, AND WHAT THE PASTE LEFT OUT.** *(
+- `2026-10-12` [ai-capex-cycle.md:L3900](../ai-capex-cycle.md) — Addendum 2026-10-12 ~10:40am PDT — 🚗 **TESLA, PROPERLY (Jake: "What about Tesla. You just glossed it" — he was right; the 10:15am entry gave it two li
+- `2026-10-12` [compression-thesis.md:L3631](../compression-thesis.md) — 2026-10-12 ~1:00pm PDT — 🍉 **META SHIPS ITS FIRST FRONTIER MODEL (MUSE WONDER) AT $4/$20 PER MILLION TOKENS, THE SAME LIST AS GEMINI 4 ARGON'S STANDAR
+- `2026-10-12` [compression-thesis.md:L3643](../compression-thesis.md) — 2026-10-12 ~7:45pm PDT — 🧩 **ONE ENGINEER, A CODING MODEL AND A FEW DAYS: ROUGH FREE CLONES OF ADOBE'S SUITE AND MICROSOFT OFFICE. THE MARKET SHRUGGED
+- `2026-10-12` [metered-compute.md:L3655](../metered-compute.md) — 2026-10-12 ~9:05am PDT (filed under rule 22c) — 🧮 **WEEKLY TOKEN REPORT (w/e 10/12): ~90% OF AGENT TOKENS ARE NOW CACHED INPUT, SO TOKEN VOLUME HAS ST

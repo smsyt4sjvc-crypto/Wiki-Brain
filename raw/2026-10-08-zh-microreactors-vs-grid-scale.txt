@@ -1,0 +1,21 @@
+TITLE: Microreactors Rack Up Wins With Grid-Scale Plants Stuck At Planning Meetings<!-- --> | ZeroHedge
+PUBLISHED: 2026-10-08T15:20:00-0400
+At the smaller end of the nuclear industry, tangible progress is becoming easier to find every week. Equipment is getting manufactured and delivered, safety reviews are being completed, and uranium is being split apart.
+ [IMG] 
+This is painfully contrasted against what the grid-scale reactor side of the house has to show for the past couple years of the American nuclear renaissance: big announcements about fancy plans…
+Start with Idaho National Laboratory’s (INL) MARVEL reactor. INL announced DOE approval of the final safety analysis covering zero-power criticality. Its primary coolant system has arrived, and criticality is anticipated in December.
+MARVEL is the sodium-cooled microreactor design that the reactor being commercialized by Aalo Atomics is based on.
+Last Energy followed up the MARVEL news the next day with DOE approval of the final safety analysis for its Texas A&M reactor pilot. The project now advances into the final stages of preparation before startup authorization. Its full-scale core and conventional low-enriched uranium fuel connect the experiment directly to the company’s commercial design.
+Deep Fission, the reactor company placing their pressurized water design underground, received DOE approval of its nuclear safety design agreement in August.
+The company also lowered and retrieved a prototype canister simulating their reactor design. The test reached 100 feet, well short of the proposed mile-deep reactor deployment, but it tested actual hardware.
+Even if they have nothing to show for getting an AP1000 actually deployed, Westinghouse wasn’t to be left out of the headlines. They’ve been making progress with their eVinci microreactor program, having recently completed high-temperature criticality experiments in September.
+ [IMG] 
+Radiant Nuclear at least deserves a place on the watchlist with their gas-cooled Kaleidos reactor installed at INL’s DOME. The company could announce criticality on their test reactor by the end of the year. 
+Now compare all of this to what the grid-scale reactors have been up to. Even the most recent $120 billion U.S.-Korea framework is relatively hollow: the terms are non-binding and sites haven’t even been selected…
+The demand for nuclear energy has never been stronger, but it's not a demand for greenfield projects. Hyperscalers are in the process of contracting every single existing nuclear megawatt they can find.
+Existing, not new. 
+Power generation comps: nat gas still cheapest but grid queue now up to 5 years. Restart and uprates of nuclear more expensive but wait time much less. https://t.co/EI9F9GbrLE
+— zerohedge (@zerohedge) October 6, 2026The only new megawatts data centers seem to be interested in are the ones they can squeeze from already operating plants.The recent deal between Google and Constellation could lead to as much power from a collection of uprates as an entirely new reactor plant being built.
+We’re even seeing tech companies more interested in resurrecting dead plants than building new ones.
+It's not an apples-to-apples comparison when it comes to microreactors and gigawatt-scale plants like the AP1000. But, it is disappointing to see the lack of serious and specific project announcements for restoring reliability to the national grid.
+0

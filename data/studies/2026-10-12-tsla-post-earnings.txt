@@ -1,0 +1,38 @@
+Tesla earnings (EDGAR 8-K Item 2.02, after-close filings), Yahoo daily OHLC. day1 = session after the release.
+date        day1close  gap   drift d1close->d5close  | follow day1 dir from d1 CLOSE (±3%/5 sess) | fade
+2023-04-19    -9.7%    -8.0%    -5.7%  same-sign:True   | TARGET       | STOP
+2023-07-19    -9.7%    -4.0%    +0.6%  same-sign:False  | TARGET       | STOP
+2023-10-18    -9.3%    -6.9%    -3.5%  same-sign:True   | TARGET       | STOP
+2024-01-24   -12.1%    -8.7%    +2.6%  same-sign:False  | STOP         | TARGET
+2024-04-23   +12.1%   +12.6%   +13.0%  same-sign:True   | TARGET       | STOP
+2024-07-23   -12.3%    -8.5%    +3.1%  same-sign:False  | STOP         | TARGET
+2024-10-23   +21.9%   +14.5%    -1.1%  same-sign:False  | TARGET       | STOP
+2025-01-29    +2.9%    +5.6%    -5.5%  same-sign:False  | TARGET       | STOP
+2025-04-22    +5.4%    +7.1%   +16.5%  same-sign:True   | TARGET       | STOP
+2025-07-23    -8.2%    -6.8%    +4.5%  same-sign:False  | STOP         | TARGET
+2025-10-22    +2.3%    -4.3%    +2.8%  same-sign:True   | STOP         | TARGET
+2026-01-28    -3.5%    +1.5%    -2.5%  same-sign:True   | STOP         | TARGET
+2026-04-22    -3.6%    -3.2%    -0.2%  same-sign:True   | TIME -2.1%   | TIME +2.1%
+2026-07-22   -14.5%    -8.8%    -6.7%  same-sign:True   | TARGET       | STOP
+
+n=14  day1 down 9/14  |day1| mean 9.1% median 9.5%  >4.8%: 10/14
+drift d1close->d5close continues day1 sign: 8/14; mean drift in day1 direction +2.4%
+follow bracket: target 8 stop 5 time 1
+fade bracket:   target 5 stop 8 time 1
+
+Variant: enter at the DAY-1 OPEN (6:30am PT) in the GAP direction, ±3%, 5 sessions incl. day 1 (stop first on ties):
+2023-04-19 gap -8.0% follow TARGET | fade STOP
+2023-07-19 gap -4.0% follow TARGET | fade STOP
+2023-10-18 gap -6.9% follow TARGET | fade STOP
+2024-01-24 gap -8.7% follow TARGET | fade STOP
+2024-04-23 gap +12.6% follow STOP | fade STOP
+2024-07-23 gap -8.5% follow TARGET | fade STOP
+2024-10-23 gap +14.5% follow TARGET | fade STOP
+2025-01-29 gap +5.6% follow STOP | fade TARGET
+2025-04-22 gap +7.1% follow STOP | fade TARGET
+2025-07-23 gap -6.8% follow TARGET | fade STOP
+2025-10-22 gap -4.3% follow STOP | fade TARGET
+2026-01-28 gap +1.5% follow STOP | fade TARGET
+2026-04-22 gap -3.2% follow TARGET | fade STOP
+2026-07-22 gap -8.8% follow TARGET | fade STOP
+follow-gap: {'STOP': 5, 'TARGET': 9}

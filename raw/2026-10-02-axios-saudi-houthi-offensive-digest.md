@@ -1,0 +1,8 @@
+Jake's link 2026-10-02 ~5:00pm PDT: https://www.axios.com/2026/10/02/saudis-yemen-houthis-bab-al-mandeb-strait — HTTP 403 to WebFetch; NOT READ DIRECTLY.
+Content via: Jerusalem Post 10/2 (jpost.com/middle-east/article-910424, which credits Axios for the Trump–MBS discussions), Al-Monitor 10/2 ("Saudis plan assault on Houthis to break Red Sea chokehold"), NBC News 9/11 (Houthi capture of the Bab el-Mandeb coastline).
+- Saudi Arabia planning an offensive against the Houthis "in the coming weeks" — estimates "from within a week to after the US midterm elections in early November" (JPost). Sources: regional and Western officials.
+- Two options: a narrowly focused coastal assault on the Bab al-Mandab area, or a broader multi-front offensive (Al-Bayda, Marib, Taiz, Al-Jawf). Yemeni ground forces overseen by Riyadh + Saudi air strikes; >100,000 Yemeni troops could be mobilized.
+- US role (Axios, via JPost): Trump "rebuffed requests" for direct military support such as airstrikes; the US provides "military advisers and intelligence, including targeting information."
+- Pakistan has deployed equipment and 30,000-40,000 troops to Saudi Arabia (defense); Turkish drones over Yemen; France sending defensive systems to Yanbu.
+- Objective: reverse the Houthis' September gains — NBC 9/11: Houthis took Mocha, advanced on Dhubab, and captured Perim (Mayun) island in the middle of the strait; Houthi statement: "maritime navigation is safe for all companies except for Saudi vessels."
+- Michael Ratney (former US ambassador to Saudi Arabia): "Ideally, it would be a fairly limited operation to retake coastal areas and get back to normal maritime traffic."

@@ -1,0 +1,22 @@
+# Grok list of @zerohedge posts, 22:50 GMT 10/16 → 03:00 GMT 10/17 (Jake's paste ~8:10pm PT 10/16)
+- ~03:00 GMT 10/17: Chinese Researchers Unveil Plans For Tank That Can Remain Submerged For Two Hours
+- ~02:47 (RT @DanielLurie): Today I signed the data center moratorium legislation. San Francisco is the national leader in innovation...
+- ~02:45 (RT @RyanAFournier): Norte Fire, San Clemente, ~500 acres
+- ~02:35: New Dementia Cases Projected To More Than Double Globally By 2050
+- ~02:29 (image): Goldman Momo basket just turned negative on the year. Was up 70% in late June, just before Chinese open weight models flooded AI
+- ~02:10: Qatar's Government Revenue Plunges 42% In First Half As Iran War Knocks Out Gas Exports
+- ~01:45: US Offers Another 17 Million SPR Barrels As Fuel Crisis Deepens
+- ~01:38 (RT @CommodMkt): The macro repricing of energy is now underway. Check out today's move in long dated oil - that's calendar 2027 WTI...
+- ~01:20: Relief At The Butcher? Beef Prices Show Signs Of Easing
+- ~01:09 (image): "hit him again"
+- ~00:55: The Precious Metals Crisis That Could Trigger A Global Financial Reckoning
+- ~00:32 (quotes own post): Can there be a rule that one hedge fund can blow up 3 times at most
+- ~00:30: "The Other Canada": Is China Hiding $600 Billion In Treasuries North Of The Border?
+- ~00:27 (image; quotes "almost time for round two"): he did it again
+- ~00:22 (quotes @DallasFed): So many ridiculous explanations why basis trade is shrinking. here is the answer: rate vol is off the charts
+- ~00:18 (RT @MaxBlumenthal): "The war will cost 155 billion euros next year. And we need at least 70 billion euros more from you..." -Zelensky
+- ~00:05: Why Have Saudi Air Defenses Failed To Intercept Houthi Missiles?
+- ~23:40 10/16: A Horror Movie List...
+- ~23:15: The Future Of American Drone Warfare
+- ~22:50: Doing The Fed's Work: Michael Wilson...
+## Verification (Claude ~8:15pm PT): SPR = an EXCHANGE of up to 17M bbl (Reuters 21:36 GMT). VIX 19.99 (+21.45%); Seeking Alpha: "VIX surges to over 4-month high amid hedge fund blowout rumors". SF: 45-day moratorium (SF Standard/GrowSF). WTI Dec-27 79.10 → 80.27 (+1.5%) vs Dec-26 +2.6%.

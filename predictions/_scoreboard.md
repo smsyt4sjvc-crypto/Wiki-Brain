@@ -192,3 +192,62 @@ this week (after the Apple-capex-premium call), both against my stated position.
 ### `2026-09-25-iran-retaliation.md` — JAKE'S CALL (retaliation; E-W pipeline/Yanbu) — ⏳ **window 1 (before Sunday open): ✗ NO**
 - Outcome: **no kinetic retaliation before the reopen — verbal threats only** (Jake, 4:27pm). Claude's window-1 odds were 30% any / 12% confirmed pipeline damage / 5% mining — consistent with NO.
 - **Windows 2 (by 10/2) and 3 (before Nov 3) STILL OPEN** — a timing miss so far, not yet a substance miss.
+
+## 2026-09-29 ~9:25am PDT — STATUS (not a grade): `2026-09-25-iran-retaliation.md` window 2 (by 10/2)
+- **UNRESOLVED, LEANING YES.** UKMTO 143-26 (report 29SEP 0530Z): a vessel struck by a suspected unknown projectile in Hormuz on the evening of 9/28, fire extinguished, crew safe, underway — **classed "Suspicious Activity," source "Third Party," time-late, no name/type/attribution.** Lloyd's List: a Kuwait Oil Tanker Company tanker (paywalled; via straits.live); TradeWinds: a VLCC. **The file's standard — confirmed by the target government, CENTCOM, UKMTO (first-hand) or Reuters/AP independently, with attribution to Iran/a proxy — is not cleanly met.** Petroline/Yanbu confirmed damage: NO. Mining: NO. **Grade at the window close (10/2) on the best evidence then; do not grade on ZeroHedge's "Iran struck a VLCC."** → `war/war-board` 9/29 🚢.
+
+## 2026-09-30 ~7:20pm PDT — STATUS (not a grade): `2026-09-25-iran-retaliation.md` window 2 (by 10/2)
+- **UNRESOLVED-LEANING-YES, unchanged.** New candidates today, neither yet qualifying under the registered resolution (target-government / CENTCOM / UKMTO / wire confirmation): (1) fires at/near Abqaiq, North Ghawar, Ain Dar (IRNA anonymous + OSINT/FIRMS; no Saudi/Aramco/Reuters confirmation, no Houthi claim as of ~4:45pm PT) — **a Saudi confirmation grades window 2 YES**; (2) FlyDubai FZ1073 cockpit attack — **an airliner is OUTSIDE the registered resolution set** (energy infrastructure / Gulf shipping / US assets) and is unattributed; note this limitation at grading, do not stretch the file. → `wiki/war/war-board.md` 9/30.
+- `2026-09-30-mu-print.md`: grades on the **10/1 close** vs $1,065.11 (9/30 close); after-hours flat — not a grade.
+
+### `2026-09-25-iran-retaliation.md` — JAKE'S CALL — window 2 (within 7 days, by 10/2): ✅ **YES** (graded early 2026-09-30 ~7:15pm PDT on Jake's ruling: "the strike/retaliation has happened")
+- **Any retaliation (attempt counts): YES.** Four UKMTO-confirmed hits on Gulf shipping inside the window: 143-26 (9/28, VLCC Al Funtas, KOTC — IMO list) and 144/145/146-26 (9/29, verified source: Mersin Prosperity (ADNOC-managed), Sinbad (Dubai-linked, PGSA-listed), Al Ruwais (ADNOC)). Attribution per the file's actor-claim standard: Fars 9/29 — "warning shots" fired at "violating" vessels, accounting for explosions near Qeshm; IRGC spokesman Mohebbi — ships transiting without permission "will be targeted or will hit a mine"; Fars 9/29 drone claim on the southern route. UKMTO itself attributes none. → `wiki/war/war-board.md` 9/30 addendum.
+- **Confirmed damage at Petroline/Yanbu: NO** (the 9/30 Abqaiq/Ain Dar fires are unconfirmed and are not Petroline/Yanbu).
+- **Mining attempt/claim: NO** (open-source Fajr-5 mine-laying claims, uncorroborated by Windward; no Iranian claim of mining; IRGC "will hit a mine" is a threat, not a claim of laying).
+- **Claude's registered odds vs outcome:** any-retaliation ~65% → YES (hit) · Petroline damage ~30% → NO · mining ~20% → NO. **Jake: YES on retaliation → HIT; his favoured target (Petroline/Yanbu) → MISS within the window** (the retaliation came on shipping, not the pipeline).
+- **Calibration note (window 1, left as graded NO):** Fars claimed 12 + 7 ships on 9/25-26, but nothing was confirmed by UKMTO/target government until 9/28 ⇒ the file's confirmation clause was unmet inside window 1. Not regraded.
+
+### `2026-09-30-mu-print.md` — JAKE'S CALL: DOWN (close-to-close) — ✗ **MISS** (graded 2026-10-01 ~1:25pm PDT)
+- **Outcome:** MU 9/30 close **$1,065.11** → 10/1 **$1,097.39 (+3.03%)** (`tools/tape.py` ~1:20pm PT, post-close quote; ⬜ official close print). Intraday path: opened up (~$1,075 high), sold to **$1,036 (−2.7%) by ~7am PT**, then reversed and closed up with semis (SOXX +1.35%).
+- **Jake: DOWN → MISS.** **Claude: P(down) ≈ 60% → MISS** · P(down ≥5%) 35% → NO · P(up ≥5%) 30% → NO · P(|move| > 7.9% implied) 45% → NO (move inside the implied).
+- ⛔ **Claude at ~7:05am told Jake the call was "tracking your way"** off a −2.5% morning print — an intraday read on a close-to-close call. Logged.
+- **Why (analysis):** the GM guide (86.25) was base case on the 9/28 hierarchy — no bear trigger (<84 or down Q/Q pricing) fired; the contract stack (26 SCAs >35% of revenue through 2030, ~$150B priced RPO, $32B deposits, >75% of FY27 shipments covered, 2027 HBM contracted at "significantly higher prices") neutralised the slowing-margin read. Jake's "pricing velocity decelerating" is NOT disproved; "flat forward guidance dominates" did not happen. **New bear test: does ~$150B of contracted obligations map to accelerator deployment / end-demand (the HBM-vs-Rubin reconciliation)?**
+
+### `2026-10-01-deal-then-weekend-escalation.md` — JAKE'S CALL — part (a) deal talk by Fri 10/2 4pm ET: ✗ **MISS** (graded 2026-10-02 ~1:20pm PDT; Jake "Y file")
+- **Outcome:** no credible-outlet report of PROGRESS, a FRAMEWORK or a SCHEDULED MEETING found inside the window (10/1 1:25pm PT → 10/2 4pm ET). Checked: web search (AP 9/28 and Korea Times 9/30 predate the window), the ZH feed's 10/2 titles, gCaptain Dispatch 120 ("no breakthrough"), another tool's close report (none). Trump 10/1 — "either Iran signs the deal, or it won't exist any longer" — is a threat, not progress.
+- **Jake: YES → MISS · Claude ≈65% → MISS.** Cheap-headline reasoning failed: the week produced threats and force posture, not a deal headline.
+- **(b) weekend escalation and (c) Brent ≥±5% gap:** graded at the Sunday 10/4 3pm PT reopen — **(b) provisional at the reopen, final ~Wed 10/7** because UKMTO issues "time-late" reports (gCaptain 10/2).
+- **(c) GRADED at the reopen (Sun 10/4 ~3:55pm PT, Yahoo BZZ26 = Brent December): 102.59 vs Friday 102.25 = +0.33% — NO ±5% gap.** Jake (YES on escalation → gap) → ✗ **MISS**; Claude ≈25% gap / 75% no-gap → ✓ **HIT** on the 75% side (and the 9/25 "weekend-gap UNDER" pattern holds, n=2). WTI 90.99 (−0.1%), heating oil 4.538 (+0.8%).
+- **(b) PROVISIONAL at the reopen: NOT MET on the letter** — the Houthi claim of a missile/drone hit on Aramco Riyadh (Sat 10/3) is disputed by the coalition ("misleading") and unconfirmed by UKMTO/CENTCOM; the Saudi-backed Yemen offensive (Sun 10/4) is not Iran/proxy/US action. Jake YES → provisional MISS · Claude ≈30% → provisional HIT on the 70% side. **Final ~Wed 10/7** (UKMTO time-late).
+- **(b) REGRADED Sun 10/4 ~4:30pm PT: MET.** UKMTO reported a crude tanker hit by a projectile 4 nm east of Oman on Saturday 10/3 (AP) and a tanker struck in the Strait of Hormuz with engine-room damage on Sunday 10/4 (UKMTO, reported ~12:21 UTC, inside the Sun 6pm ET cut-off) — "the fourth this month". **Jake YES → ✓ HIT · Claude ≈30% → ✗ MISS.** The vault's weak half was the TIMING (strikes land when ships move); they moved on the weekend. Net on the three-part call: Jake 1 of 3 (a MISS, b HIT, c MISS); Claude 2 of 3 on the majority sides (a MISS, b MISS, c HIT). → [[war/war-board]] 10/4 ⚖️.
+
+## GRADE — 2026-10-05-auction-week.md (Tue 10/6 close; graded 2026-10-06 ~1:45pm PT on Treasury CMT + Yahoo closes; WTI settle per the gopher close, Yahoo futures unavailable ⬜)
+| series | point | 80% range | dir call | actual | in range | dir |
+|---|---|---|---|---|---|---|
+| WTI | 89.0 | 86.5–92.0 | down 55% | 89.44 (Mon 89.43) | ✅ | ⚪ push (+$0.01) |
+| SPY | 773 | 766–782 | down 55% | 779.09 (+0.55%) | ✅ | ❌ |
+| QQQ | 754 | 745–765 | down 55% | 759.66 (+0.46%) | ✅ | ❌ |
+| SOXX | 585 | 575–598 | down 55% | 589.45 (−0.01%) | ✅ | ✅ (trivially) |
+| MU | 1,060 | 1,030–1,095 | down 55% | 1,045.56 (−1.73%) | ✅ | ✅ |
+| DHT | 23.9 | 23.2–24.6 | up 55% | 23.52 (−1.26%) | ✅ | ❌ |
+- **Shape call (65%): MISS.** "3Y stops through by ≤1bp" ✅ (0.2bp) · "with indirects ≥60%" ❌ (57.6%) · "10Y closes ≥5.28" ❌ (CMT **5.27**). Conjunctive call fails on two of three legs.
+- **Kill switch:** not fired (no "more tightening" from Williams on file; 2Y fell to 4.79, not >4.95).
+- **Read:** range coverage 6/6 = 100% on a low-vol day ⇒ the ranges were too WIDE for a one-day horizon (sandbagging risk, the opposite of set #1's error); direction 2/5 (+1 push) — the "down" lean on equities was wrong because duration relief went straight into megacaps. The auction-demand half of the shape call was right; the foreign-bid and long-end halves were too strong.
+
+
+### `2026-09-25-iran-retaliation.md` — JAKE'S CALL — window 3 (before Nov 3), "confirmed damage at Petroline/Yanbu": ✅ **YES** (graded early 2026-10-16 ~10:15am PDT, on Jake's prompt; the 10/4 hit had gone ungraded for 12 days)
+- **Event:** Sun 10/4, Khurais Pump Station No. 2 on the East-West pipeline (Petroline) struck. AFP (wire), Saudi energy-sector source: *"big damage and the pipeline stopped again"*; Bloomberg/Reuters: "briefly halted" over the weekend, then flowing; the Houthis claimed strikes on Aramco sites including Khurais; OSINT smoke at the site on 10/4 imagery. → `wiki/war/war-board.md:L5451`, `:L5624`.
+- **Against the registered letter:** damage needs "the target government or an independent wire report" → AFP meets it; attribution "Houthi claims count" → met. ⚠️ **Caveat kept in the grade:** "damage" rests on one anonymous source, and the minister put flow at 5.8 mb/d two days later (10/6).
+- **Claude's registered odds vs outcome:** Petroline/Yanbu damage before Nov 3 ~50% → YES. **Jake: favoured target Petroline/Yanbu → HIT in window 3** (window 2 was a MISS on target: the retaliation came on shipping first).
+- **Still open in window 3:** mining attempt/claim (Claude ~40%). Candidates on file but NOT graded here: the IRGC "southern Strait of Hormuz is mined" warning and AlHadath's "Houthis planted sea mines" in Bab al-Mandab (both 10/9, `war-board:L5487`); grade at the window close or on Jake's ruling.
+
+## GRADE — Jake's 9/25 Iran-retaliation call, WINDOW 3 MINING LEG (graded 2026-10-17 ~10:00am PDT, on Jake's prompt)
+- **Mining attempt/claim before Nov 3: YES.** The IRGC claimed mine strikes in the Strait on 10/10 (tanker), 10/12 (tanker), 10/14 (container ship sank) and 10/17 (supertanker; Reuters: two tankers), reported by Reuters and AP. The file's rule: "a claim alone counts as an attempt"; window 2's NO rested on "no Iranian claim of mining." No independent mine confirmation exists (UKMTO, JMIC, US Navy); the grade rests on the claim standard, as the rule allows. Detail and sources: `wiki/war/war-board.md` 10/17 ~10:00am.
+- **Claude's registered odds vs outcome:** mining ~40% → YES ⇒ **MISS.** **Jake:** hedged ("possibly paired with… a mining attempt") ⇒ **not scored**, the same treatment as windows 1–2, where the NO did not count against him. The hedge came true.
+- **The 9/25 file is now fully graded:** any retaliation YES/YES/YES · Petroline damage NO/NO/YES · mining NO/NO/YES. Jake on his main legs: 3 of 3 retaliation windows, 1 of 3 on the favoured target. Claude: 7 of 9 cells on the ≥50% side.
+
+## CORRECTIONS FOUND IN THE 2026-10-17 ALL-TIME COUNT (appended; nothing above edited)
+- **L222 arithmetic:** "Claude 2 of 3 on the majority sides (a MISS, b MISS, c HIT)" is **1 of 3** by its own parenthetical.
+- **The RUNNING RECORD and CALIBRATION STATS blocks at the top stopped at set #2** ("Sets graded: 1"). The full count, including sets #3–#6, the auction week, every dated call and both trade ledgers, lives in `wiki/_scorecard.md`.
+- **Never graded until now:** Jake's Fed-hike-before-December call (`2026-07-30-fed-hike-before-december.md`) resolved **YES on the 9/16 hike** (`wiki/rates-board.md` 9/16) ⇒ **Jake HIT · Claude's final ~40% ⇒ MISS.** Set #2 (7/13) remains ungraded (no prints on file).
+- **Caveat added 2026-10-17 ~11:00am PDT (the window-3 mining grade above):** UKMTO's weekly (to 10/14) and gCaptain class the GFS Pride loss as a projectile strike; the IRGC had claimed a mine sank it (10/14). The YES stands on the file's claim rule, but at least one IRGC mine claim is contradicted by the monitor, and no mine has been independently confirmed. `wiki/war/war-board.md` 10/17 ~11:00am.

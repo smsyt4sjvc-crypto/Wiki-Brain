@@ -1,0 +1,406 @@
+# ASML Q3 2026 Earnings Trade Report (Jake's upload 2026-10-09 ~10:30am PT; 12-page PDF, prepared 10/9 by his research tool; text extracted with pypdf). Original: raw/2026-10-09-asml-q3-2026-earnings-trade-report.pdf
+
+A N A LY T I C A L  R E S E A R C H ,  N O T  I N V E S T M E N T  A D V I C E
+P R E PA R E D  F R I D AY,  O C TO B E R  9 ,  2 0 2 6    |    E A R N I N G S  W E D N E S D AY,  O C TO B E R  1 4 ,  2 0 2 6
+ASML HOLDING N.V.
+NASDAQ: ASML
+Q3 2026
+ASML Q3 2026
+Earnings Trade Report
+The longer clock in the AI buildout: what October 14 needs to show, what options price, and how
+this print has behaved before.
+Thesis. Token volume drives AI compute demand. TSMC shows that demand being manufactured now
+and over the next few quarters, through high performance computing revenue, advanced node utilization,
+CoWoS volume, and capex. ASML shows fabs committing today to silicon demand years out, through
+customer commitments, EUV orders, EUV shipments, and future tool capacity. ASML is the longer clock.
+[1]
+How to read this document. This is analytical research for the reader’s own decision. It is not investment advice and it contains no
+prescriptive directives. Trade structures in Section 5 are described by their mechanics, hurdles, and risks only. Where a figure could
+not be confirmed from any source, the report says so plainly rather than estimating it.
+$1,783.02
+ASML SHARE PRICE,
+OCT 9 2026 INTRADAY,
++0.75% (PREV. CLOSE
+$1,769.79)[2]
+±8.0%
+IMPLIED EARNINGS
+MOVE, COMPUTED (IV
+× SQRT(7/365)), ABOUT
+±$142[3]
+EUR 38.8B
+BACKLOG AT END
+2025[4]
+54.0%
+Q2 2026 GROSS
+MARGIN, IBM EUR
+2.762B[5]
+EXECUTIVE SUMMARY
+Three pillars create the earnings: order intake and backlog, EUV shipments and mix, and Installed
+Base Management with gross margin (Section 1).
+October 14 is a language print on commitments. With no quarterly bookings number disclosed, the
+market trades the words on 2027 coverage and 2028 expansion.
+Options price plus or minus 8.0% (Oct 16 IV near 57.7% vs Nov 20 near 44%), near the top of the
+recent day 0 range.
+Beats have been sold before when guidance disappointed (Q1 2025: -7.0%, Q2 2025: -8.3%). The
+last three prints stayed inside ±2.5%.
+Financing: clean. No new bonds in 2025 or 2026, debt fell, buybacks came from operating cash flow.
+One Mistral AI item is flagged unverified.
+Contents: 1. The earnings engine  ·  2. What the print needs to show  ·  3. Earnings reaction history  ·  4. Options market snapshot  ·  5.
+Trade structure analysis  ·  6. Key dates and catalysts  ·  7. Financing health check  ·  Sources and notes.
+ASML Q3 2026 Earnings Trade Report, Oct 9, 2026 Page 1
+
+=== PAGE BREAK ===
+
+S E C T I O N  1
+The earnings engine, in plain language
+ASML sells the machines that print the smallest features on advanced chips (lithography systems), plus the
+services and upgrades that keep an installed fleet running and improving. Three pillars turn that activity into
+earnings. Each pillar answers a different question about time: what fabs have committed to, what ASML
+shipped this quarter, and what the existing fleet earns every quarter regardless of new orders.
+PILLAR A: COMMITMENTS
+Customer commitments, order intake, and backlog tell you what fabs will need years from
+now
+When a chipmaker plans a new fab or a capacity expansion, it commits to lithography tools long before
+silicon ships. Those commitments become ASML order intake, and unshipped orders accumulate as
+backlog. A large, durable backlog does two earnings jobs: it makes future system revenue more
+predictable, and it justifies ASML investing in its own tool capacity ahead of demand.
+Backlog stood at EUR 38.797B at end 2025.[4] ASML stopped disclosing quarterly orders after Q4 2025.
+The last quarterly prints were Q3 2025 net bookings of EUR 5.399B (EUR 3.6B EUV) and Q4 2025 net
+bookings of EUR 13.158B (EUR 7.4B EUV), an all time high.[4][6] For the first half of 2026, intake is
+described only qualitatively as “extremely strong”, with 2027 low NA EUV described as “close to fully
+covered with orders”.[5][7]
+The capacity plan is the commitment made visible: plus 30% low NA EUV output (about 65 to about 85
+systems) and plus 30% DUV immersion (about 130 to about 170) in 2027, with another plus 30%
+under study for 2028, all within the existing footprint.[5][7] Management presents this as a demand
+durability signal funded by confirmed order coverage. Read literally, ASML is spending to build more tools
+because customers have already committed to fill the capacity.
+PILLAR B: SHIPMENTS AND MIX
+EUV system shipments and mix set the quarter’s system revenue and its profitability
+Commitments become earnings when systems ship and are recognized as sales. EUV systems carry the
+highest average selling prices, so the EUV share of system sales is the single biggest mix lever on both
+revenue and gross margin. A quarter with more EUV in the mix is normally a richer quarter, even at the
+same unit count.
+In Q2 2026 (reported July 15, 2026), ASML sold 86 new systems, with net system sales of EUR 6.6B:
+EUV EUR 3.8B including one High NA system, and non EUV EUR 2.8B. The end use split was logic
+51% and memory 49%.[5] The 2026 plan calls for about 65 low NA EUV systems and about 130
+immersion DUV systems.[5] Two things to hold onto: EUV mix is the average selling price and margin
+driver, and memory at nearly half of system sales in Q2 2026 means a memory slowdown would show up
+fast in this pillar.
+Section 1, The earnings engine Page 2
+
+=== PAGE BREAK ===
+
+S E C T I O N  1  C O N T I N U E D
+Services earn every quarter, and margin is where the pillars meet
+PILLAR C: INSTALLED BASE AND MARGIN
+Installed Base Management (services and upgrades) and gross margin
+Every system ASML has ever shipped needs service, spare parts, and periodic upgrades. That Installed
+Base Management (IBM) revenue recurs whether new orders are strong or soft, and it tends to carry
+attractive margins. When IBM runs ahead of guidance, it can lift total gross margin even in a mixed
+shipment quarter, which is exactly what happened in Q2 2026.
+IBM sales were EUR 2.762B in Q2 2026, about EUR 300M above guidance, and drove the gross margin
+beat to 54.0%.[5] Q3 2026 guidance points to IBM of about EUR 2.9B with gross margin of 55% to 57%.
+Full year 2026 guidance was raised at the Q2 2026 call to sales of EUR 43B to 45B (from EUR 36B to
+40B) with gross margin of 54% to 56%.[5][7]
+QUARTER IBM SALES (EUR B) GROSS MARGIN NOTE
+Q3 2025 1.962 51.6% Trend start in this window[8]
+Q4 2025 2.134 52.2% [8]
+Q1 2026 2.488 53.0% [8]
+Q2 2026 2.762 54.0% About EUR 300M above IBM guidance[5]
+Q3 2026 guidance about 2.9 55% to 57% Company guidance[5]
+IBM and gross margin, Q3 2025 through Q2 2026 with Q3 2026 guidance. The steady climb in both lines is the quiet story of the last four
+quarters: the installed fleet is monetizing faster than system sales alone would suggest.
+How the three pillars combine
+Commitments (Pillar A) say whether future system revenue exists. Shipments and mix (Pillar B) say how
+much of it lands this quarter and at what richness. Installed Base Management (Pillar C) smooths the path
+and, lately, has been the margin surprise. An earnings print can therefore beat on the quarter and still
+disappoint, if the commitment language underneath it softens. That pattern matters for October 14, and
+Section 3 shows it in the stock.
+Section 1, The earnings engine Page 3
+
+=== PAGE BREAK ===
+
+S E C T I O N  2
+What the October 14 print needs to show
+Because ASML no longer publishes a quarterly bookings number, the commitments read on October 14 is
+qualitative. There is no orders figure to beat or miss. The market will trade the language: how strongly
+management repeats the first half characterization, and how much color it gives on 2027 and 2028 coverage.
+Commitments: language is the number now
+BULLISH
+Confirmation that 2027 low NA EUV is fully covered,
+and the 2028 plus 30% expansion moves from “under
+study” to confirmed. Continued “extremely strong”
+intake language.[5][7]
+BEARISH
+Hesitation on 2028, or softness in China mainstream
+logic demand (about 20% of 2026 sales). Any walk
+back of the coverage language.[5][7]
+Shipments: hold the Q2 pace, watch High NA and memory
+BULLISH
+EUV net system sales hold the Q2 2026 pace or better,
+with High NA momentum building on Intel qualifying
+High NA on select 18A layers in Q2 2026.[5]
+BEARISH
+A memory slowdown (memory was 49% of Q2 2026
+system sales) or a shipment timing slip that pushes
+recognition into a later quarter.[5]
+Installed Base and margin: at or above about EUR 2.9B, high end of the range
+BULLISH
+IBM at or above the guided about EUR 2.9B, with gross
+margin at the high end of the 55% to 57% guided
+range.[5]
+BEARISH
+A Q4 or full year guide down on mix dilution, which
+would break the four quarter IBM and margin climb
+shown in Section 1.[5][8]
+The pattern to respect
+The stock has sold off on earnings beats when forward commentary disappoints. Day 0 reactions: Q1
+2025: -7.0%, Q2 2025: -8.3%.[9] For October 14, that means the guidance language and the 2027 to 2028
+coverage color are likely to matter as much as the Q3 numbers themselves. A clean Q3 with soft forward
+language has been punished before.
+Section 2, Bull vs bear Page 4
+
+=== PAGE BREAK ===
+
+S E C T I O N  3
+Earnings reaction history: beats do not guarantee green days
+Eight quarters of day 0 reactions on the Nasdaq ADR tell a consistent story: reactions are muted to negative
+when guidance disappoints, whatever the reported quarter did. The October 2024 bookings shock is the outlier.
+The last three prints were all contained.
+REPORT DATE EARNINGS FOR DAY 0 % DAY +1 % LISTING NOTE
+Oct 15, 2024 Q3 2024 -15.6% -2.5% Amsterdam listing[9]
+Jan 29, 2025 Q4 2024 +4.28% not confirmed Nasdaq ADR[9]
+Apr 16, 2025 Q1 2025 -7.03% not confirmed Nasdaq ADR[9]
+Jul 16, 2025 Q2 2025 -8.33% not confirmed Nasdaq ADR[9]
+Oct 15, 2025 Q3 2025 +2.71% not confirmed Nasdaq ADR[9]
+Jan 28, 2026 Q4 2025 -2.18% not confirmed Nasdaq ADR[9]
+Apr 15, 2026 Q1 2026 -2.41% not confirmed Nasdaq ADR[9]
+Jul 15, 2026 Q2 2026 +2.23% not confirmed Nasdaq ADR[9]
+Day +1 figures were not confirmed from any source for seven of the eight prints and are reported as such rather than estimated. Only the
+October 2024 day +1 figure (-2.5%, Amsterdam listing) was available.[9]
+What the table says
+The typical day 0 range is about plus or minus 2% to 8%, excluding the October 2024 shock. Five of the
+eight prints landed inside plus or minus 3%.
+The two largest down moves after 2024 (Q1 2025 -7.0%, Q2 2025 -8.3%) were guidance stories, not
+reported quarter misses. That is the historical basis for Section 2’s emphasis on forward language.
+Containment is recent. Q3 2025 (+2.71%), Q4 2025 (-2.18%), Q1 2026 (-2.41%), and Q2 2026 (+2.23%):
+the last four prints, and specifically the last three inside plus or minus 2.5%, suggest the market has been
+pricing ASML earnings as lower drama events. Section 4 tests that against the current options price.
+Section 3, Reaction history Page 5
+
+=== PAGE BREAK ===
+
+S E C T I O N  4
+Current options market snapshot, Friday October 9, 2026
+All figures in this section are as of Friday, October 9, 2026, with markets open. The share price reference is
+$1,783.02, up 0.75% intraday, against a previous close of $1,769.79.[2]
+57.7%
+OCT 16 2026 NEAR ATM IV
+(58.64% CALL / 56.73% PUT AT
+1780 STRIKE)[3]
+43.5% to 44.2%
+NOV 20 2026 NEAR ATM IV, NO
+EARNINGS IN WINDOW[3]
+51.9% / 44.8%
+OVERALL ASML IV / HISTORICAL
+VOLATILITY[3]
+ITEM FIGURE BASIS
+Share price, Oct 9 2026
+intraday
+$1,783.02 (+0.75%) Previous close $1,769.79[2]
+Oct 16 2026 expiry,
+near ATM IV
+about 57.7% 58.64% call and 56.73% put at the 1780 strike, Black Scholes inversion
+of bid and ask midpoints on the Oct 8 close of $1,769.79[3]
+Nov 20 2026 expiry,
+near ATM IV
+about 43.5% to 44.2% Same method, later expiry, no earnings event inside[3]
+Implied expected move,
+earnings event
+±8.0% (about ±$142) Computed: IV × sqrt(7/365) on the Oct 16 IV[3]
+Computed, not quoted
+No published expected move figure was found from any options source. The plus or minus 8.0%
+(about plus or minus $142) figure in this report is computed from the implied volatility above (IV ×
+sqrt(7/365), a seven day window to the October 16 expiry), not quoted from a vendor. It is presented as
+arithmetic on observed IV, and the reader should treat it accordingly.
+How plus or minus 8.0% compares
+It sits near the top of the typical day 0 range (about plus or minus 2% to 8% in Section 3), below only the
+October 2024 shock (-15.6%).
+It matches the magnitude of the recent guidance disappointment selloffs: Q1 2025 (-7.0%) and Q2
+2025 (-8.3%).
+The gap between the October 16 IV (about 57.7%) and the November 20 IV (about 43.5% to 44.2%) is a
+clean earnings premium: the market is paying roughly 13 to 14 volatility points extra for the expiry that
+contains the print, then pricing normality again afterward.
+Tension to note: the last three realized day 0 moves were inside plus or minus 2.5%, yet the market prices
+plus or minus 8.0%. Either the options market is charging for the 2025 style disappointment tail, or realized
+containment has made earnings premium expensive relative to recent outcomes. Section 5 prices structures
+against that tension without resolving it for the reader.
+Section 4, Options snapshot Page 6
+
+=== PAGE BREAK ===
+
+S E C T I O N  5
+Trade structure analysis: mechanics, hurdles, and risks
+Analytical only. This section describes how structures behave around the print. It does not recommend any position, size, or direction.
+Directional long premium: long call or long put
+A long call profits if the stock moves up past the premium paid by expiry, and a long put profits on the
+equivalent down move. Both carry the same structural features into an earnings print:
+The hurdle is the implied move. With implied at plus or minus 8.0%, a directional long must see the stock
+move beyond roughly that magnitude in the chosen direction, after costs, before expiry on October 16.
+IV crush hits both directions. The October 16 IV (about 57.7%) embeds an earnings premium over
+November (about 43.5% to 44.2%). When the print clears, that premium normally collapses toward the post
+event level on the morning after. A correct directional call can still lose money if the move is smaller than the
+premium deflation.
+Theta decay runs into the event. Premium paid days early decays while the binary event is still ahead.
+Pricing evolves as uncertainty resolves closer to the print, so entry timing changes the effective price of the
+same view.
+Long volatility: long straddle or long strangle
+A long straddle (at the money call plus put) or strangle (out of the money pair) profits if the realized move
+exceeds the implied plus or minus 8.0% in either direction. It benefits when the IV premium is mispriced relative
+to the volatility that actually arrives, and it is direction neutral, which suits a print where Section 2 argues the
+surprise could come from language rather than numbers. The offsetting mechanics are severe: IV crush after
+the print means the position normally must be entered cheap enough and exited promptly, and most long
+volatility positions around earnings are exited the day of or the day after the print rather than held through
+remaining decay.
+Section 5, Trade structures Page 7
+
+=== PAGE BREAK ===
+
+S E C T I O N  5  C O N T I N U E D
+Scenario math and the risks that dominate
+Illustrative straddle mechanics (not a recommendation)
+With the implied move at about plus or minus $142 on the October 9 intraday price of $1,783.02, a long at
+the money straddle needs the stock roughly outside $1,641 to $1,925 by the October 16 expiry to cover
+the illustrated move at expiry, before accounting for the actual premium quoted at entry, bid and ask
+spreads, and the post print IV level at exit. Inside that band at expiry, the illustrated straddle loses value
+even if the earnings headline reads well or badly. These are mechanics for reading a quote, stated as
+arithmetic, not as an entry instruction.
+Key risks common to long premium structures here
+Inside the band losses: the stock can drift inside plus or minus 8.0% on a print the headlines call good or
+bad, and long premium loses on both directional and straddle structures. Recent history (three straight
+prints inside plus or minus 2.5%) is exactly that scenario.
+Liquidity and wide spreads in the earnings expiry can make the quoted premium meaningfully worse than
+midpoint arithmetic suggests.
+Gap risk beyond the implied move: October 2024 (-15.6% day 0) shows the distribution has a tail the
+implied move does not cap. That tail helps long volatility and hurts any short premium construction, which
+this report does not analyze in depth because the brief is framed around catching the reaction with defined
+risk long premium.
+Exit timing dominates: for long premium, the exit decision on the morning after the print (sell into the
+crush, or hold for a follow through move) typically matters more than small differences in entry premium.
+Section 5, Trade structures Page 8
+
+=== PAGE BREAK ===
+
+S E C T I O N  6
+Key dates and catalysts
+DATE EVENT WHY IT MATTERS
+Wednesday, October 14,
+2026, about 07:00 CET
+ASML Q3 2026
+earnings release[10]
+Before the US market open. Q3 numbers plus, critically, forward
+language on 2027 to 2028 coverage and China demand.
+Friday, October 16, 2026 Options expiry
+covering the print[3]
+The expiry whose IV (about 57.7%) prices the plus or minus 8.0%
+implied move. Long premium structures in Section 5 are read
+against this date.
+Recent news and the setup into the print
+TSMC committed to High NA EUV in September (reported October 8, 2026), putting all major customers
+on the High NA platform and feeding the October 14 order intake narrative.[11] In the thesis frame, this is the
+near clock (TSMC manufacturing now) pulling the long clock (ASML tool commitments years out).
+Street consensus into the print: earnings per share about $11.97 to $12.07 on revenue of about $13.13B
+to $13.18B.[12]
+Analyst tone is bullish into the print, with JPMorgan pointing to a possible stronger 2027 signal and a
+Strong Buy consensus.[12] Section 2 explains why a 2027 signal, or its absence, is the real catalyst.
+Section 6, Dates and catalysts Page 9
+
+=== PAGE BREAK ===
+
+S E C T I O N  7
+Financing health check: verdict clean
+The question in this section is narrow: is there anything in ASML’s recent financing that should worry a reader
+holding exposure through earnings, such as new borrowing to fund buybacks, convertible dilution overhangs, or
+accounting stress? On the filings reviewed, the answer is no.
+Filings reviewed: the FY2025 Form 20-F filed February 25, 2026, and all 2026 Forms 6-K.[13][14]
+No new long term bonds were issued in 2025 or 2026. The EUR 10B EMTN program established March
+20, 2026 is an unused shelf. FY2025 debt actually fell by about EUR 400M as the EUR 1B 3.5% bond
+matured on December 6, 2025.[13][14]
+No convertibles, no restatements, no going concern language. PwC gave an unqualified opinion after a
+planned KPMG to PwC rotation under EU audit rules.[13]
+Capital returns were funded, not borrowed: EUR 5.95B of FY2025 buybacks plus EUR 2.55B of
+dividends were paid from EUR 13.8B of operating cash flow while debt declined. That is the opposite of a
+borrow to buyback pattern.[13]
+Related party flows are disclosed and directional: Carl Zeiss flows (EUR 4.4B of purchases, EUR 1.9B
+of loans receivable) are long standing, secured by parental guarantee, and flow toward the supplier for
+ASML’s own optics roadmap.[13]
+Maturity profile is laddered: EUR 4.46B total across 2026 to 2032, all fixed rate, plus a EUR 1.5B
+undrawn committed facility to 2030. The 2027 plus 30% EUV and DUV capacity expansion is funded from
+operating cash flow per stated financing policy.[13][14]
+Method caveat and one unverified item. Filings were reviewed via full text filing mirrors (StockTitan) cross checked against filing
+trackers, after direct EDGAR access returned errors from the research environment. No figures were invented to fill gaps. One item
+could not be confirmed from a second source and remains unverified: a reported stake of about $1.3B (about 11%) in Mistral AI
+appeared only in a single low quality source. It is not relied on anywhere in this report.[13][15]
+Section 7, Financing health check Page 10
+
+=== PAGE BREAK ===
+
+A P P E N D I X
+Sources, method notes, and what could not be confirmed
+Every factual claim in this report carries a bracketed reference below. Sources are identified by publication, document, and date as
+provided in the underlying research. Figures are reproduced as reported in those sources, in EUR for company financials and USD for
+market data, without conversion.
+1. Thesis framing (token volume, TSMC as the near clock, ASML as the longer clock): research framing supplied for this report, October 9,
+2026. Interpretive frame, not a cited external fact.
+2. Finnhub, live quote, Friday October 9, 2026 (markets open): ASML $1,783.02 intraday, +0.75%, previous close $1,769.79.
+3. Optionistics, ASML options data on the October 8, 2026 close of $1,769.79: October 16, 2026 expiry IV 58.64% (call) and 56.73% (put)
+at the 1780 strike, near at the money IV about 57.7% by Black Scholes inversion of bid and ask midpoints; November 20, 2026 near at the
+money IV about 43.5% to 44.2%; overall ASML IV 51.9%, historical volatility 44.8%. Implied move of plus or minus 8.0% (about plus or
+minus $142) computed as IV × sqrt(7/365). No published expected move figure was found from any options source.
+4. ASML, Q4 2025 press release, January 28, 2026, via GlobeNewswire: backlog EUR 38.797B at end 2025; Q4 2025 net bookings EUR
+13.158B (EUR 7.4B EUV).
+5. ASML, Q2 2026 press release, July 15, 2026, via GlobeNewswire: 86 new systems sold; net system sales EUR 6.6B (EUV EUR 3.8B
+including one High NA system; non EUV EUR 2.8B); logic 51%, memory 49%; IBM EUR 2.762B (about EUR 300M above guidance);
+gross margin 54.0%; Q3 2026 guidance IBM about EUR 2.9B and gross margin 55% to 57%; FY2026 guidance raised to sales EUR 43B
+to 45B and gross margin 54% to 56%; 2026 plan about 65 low NA EUV and about 130 immersion DUV systems; capacity plan plus 30%
+low NA EUV (about 65 to about 85) and plus 30% DUV immersion (about 130 to about 170) in 2027, another plus 30% under study for
+2028, within the existing footprint.
+6. ASML, Q3 2025 reporting (October 2025): net bookings EUR 5.399B (EUR 3.6B EUV), last quarterly bookings print before disclosure
+ceased after Q4 2025.
+7. ASML, Q2 2026 earnings call transcript, July 15, 2026, via fool.com (The Motley Fool): first half 2026 intake described as “extremely
+strong”; 2027 low NA EUV “close to fully covered with orders”; FY2026 guidance raise; China mainstream logic at about 20% of 2026
+sales; Intel High NA qualification on select 18A layers.
+8. ASML quarterly results trend, Q3 2025 through Q2 2026 (company quarterly reporting): IBM EUR 1.962B, EUR 2.134B, EUR 2.488B,
+EUR 2.762B; gross margin 51.6%, 52.2%, 53.0%, 54.0%.
+9. Earnings reaction history, day 0 percentage moves on the Nasdaq ADR (Amsterdam listing for October 15, 2024), report dates October
+15, 2024 through July 15, 2026, as compiled for this report October 9, 2026. Day +1 confirmed only for October 15, 2024 (-2.5%); all other
+day +1 figures are stated in the report as not confirmed.
+10. ASML Q3 2026 earnings date: Wednesday, October 14, 2026, about 07:00 CET, before the US market open (company reporting
+calendar).
+11. CNBC, October 8, 2026: TSMC committed to High NA EUV in September 2026, putting all major customers on the High NA platform.
+12. Street consensus and analyst tone into the October 14, 2026 print, as compiled October 9, 2026: EPS about $11.97 to $12.07 on
+revenue about $13.13B to $13.18B; JPMorgan on a possible stronger 2027 signal; Strong Buy consensus.
+13. ASML Form 20-F for FY2025, filed February 25, 2026, and 2026 Forms 6-K, reviewed via full text filing mirrors (StockTitan) cross
+checked against filing trackers: no new long term bonds in 2025 or 2026; EUR 10B EMTN program (March 20, 2026) unused; FY2025
+debt down about EUR 400M on the December 6, 2025 maturity of the EUR 1B 3.5% bond; EUR 5.95B buybacks and EUR 2.55B
+dividends funded from EUR 13.8B operating cash flow; Carl Zeiss related party flows EUR 4.4B purchases and EUR 1.9B loans
+receivable, parental guarantee; maturities EUR 4.46B laddered 2026 to 2032, all fixed rate; EUR 1.5B undrawn committed facility to 2030;
+PwC unqualified opinion after planned KPMG to PwC rotation.
+14. Financing method note: direct EDGAR access returned errors from the research environment; the review used StockTitan full text filing
+mirrors cross checked against filing trackers. No figures were invented where a filing figure was unavailable.
+15. Unverified item, not relied upon: a reported ASML stake of about $1.3B (about 11%) in Mistral AI appeared in a single low quality
+source only and could not be confirmed from a second source. The report flags it as unverified and draws no conclusion from it.
+Sources and notes (1 of 2) Page 11
+
+=== PAGE BREAK ===
+
+A P P E N D I X  C O N T I N U E D
+What could not be confirmed
+Day +1 earnings reactions for seven of the eight prints in Section 3: stated as not confirmed, not estimated.
+A published (vendor quoted) expected move for the October 14 print: none found. The plus or minus 8.0% figure is computed from IV
+and labeled as such.
+The reported Mistral AI stake (about $1.3B, about 11%): single source, unverified, not relied upon.
+Any Q3 2026 quarterly bookings figure: ASML no longer discloses one. The commitments read is qualitative by design.
+Prepared Friday, October 9, 2026. Analytical research for the reader’s own decision, not investment advice. No position, size, or direction
+is recommended in this document. Market figures are as of the dates stated in each section and will move after publication.
+Sources and notes (2 of 2) Page 12

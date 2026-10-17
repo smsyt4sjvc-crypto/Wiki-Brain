@@ -1,0 +1,83 @@
+# tools/quiet_band_screen.py output — run 2026-10-12 ~10:05am PDT (INTRADAY: 'quiet today' is a partial-day reading; rerun after the close)
+# Jake's spec: moved less than its two-week median daily move AND (bottom of its Bollinger band OR positive vault marks)
+AS OF 2026-10-12 (intraday if markets are open) · universe 583 · %B threshold 0.1
+PASS: 57 names — quiet today AND (lower band OR positive marks)
+— LOWER-BAND LEG (quiet, %B ≤ threshold), lowest %B first:
+  SWKS       75.75  today -0.79% vs 2wk median 2.10%  %B -0.06  marks +0.0
+  ONDS        6.72  today -0.22% vs 2wk median 2.25%  %B -0.02  marks +1.0
+  HESM       32.63  today +1.15% vs 2wk median 1.78%  %B +0.01  marks -1.0
+  HRL        19.12  today -0.36% vs 2wk median 0.92%  %B +0.06  marks +0.0
+  IREN       35.14  today -0.14% vs 2wk median 2.35%  %B +0.06  marks -4.0
+  PHM       111.93  today -0.17% vs 2wk median 1.16%  %B +0.07  marks +0.0
+  MOS        18.76  today +0.11% vs 2wk median 1.94%  %B +0.08  marks +0.0
+  0100.HK    213.00  today +2.80% vs 2wk median 3.24%  %B +0.08  marks +0.0
+— POSITIVE-MARKS LEG (quiet, net marks > 0), strongest first:
+  VLO       436.71  today +0.68% vs 2wk median 0.89%  %B +0.89  marks +12.0
+  MPC       460.99  today +1.31% vs 2wk median 1.42%  %B +0.94  marks +12.0
+  DINO      122.19  today +0.74% vs 2wk median 0.74%  %B +0.95  marks +10.0
+  PBF        85.59  today +1.57% vs 2wk median 2.10%  %B +0.84  marks +5.0
+  ETN       429.74  today +0.02% vs 2wk median 1.40%  %B +0.51  marks +3.5
+  CAT       807.60  today +0.89% vs 2wk median 1.86%  %B +0.41  marks +2.5
+  LYB        59.72  today -0.52% vs 2wk median 0.64%  %B +0.46  marks +2.0
+  DOW        28.23  today -0.69% vs 2wk median 1.12%  %B +0.44  marks +2.0
+  CEG       292.67  today -1.81% vs 2wk median 2.93%  %B +0.87  marks +2.0
+  PWR       698.19  today -1.10% vs 2wk median 2.18%  %B +0.82  marks +2.0
+  TRMD       40.74  today +2.00% vs 2wk median 2.78%  %B +0.85  marks +2.0
+  PRU       113.20  today +0.10% vs 2wk median 0.83%  %B +0.26  marks +2.0
+  SPCX      163.80  today +0.76% vs 2wk median 2.34%  %B +0.75  marks +2.0
+  SCHW       96.88  today +0.19% vs 2wk median 1.22%  %B +0.30  marks +2.0
+  GOOGL     352.16  today +0.14% vs 2wk median 0.84%  %B +0.82  marks +1.5
+  TLT        77.96  today -0.03% vs 2wk median 0.39%  %B +0.35  marks +1.5
+  TLN       381.15  today +0.68% vs 2wk median 3.39%  %B +0.94  marks +1.5
+  FCX        73.71  today +0.02% vs 2wk median 1.02%  %B +0.84  marks +1.5
+  VG         13.22  today +0.42% vs 2wk median 1.99%  %B +0.44  marks +1.5
+  VST       159.08  today -1.49% vs 2wk median 2.73%  %B +0.86  marks +1.5
+  HBM        25.92  today -0.78% vs 2wk median 1.54%  %B +0.29  marks +1.5
+  VRT       239.96  today -1.16% vs 2wk median 1.88%  %B +0.21  marks +1.0
+  ONDS        6.72  today -0.22% vs 2wk median 2.25%  %B -0.02  marks +1.0
+  JBHT      228.69  today -0.25% vs 2wk median 1.56%  %B +0.41  marks +1.0
+  NKE        35.06  today +1.02% vs 2wk median 1.17%  %B +0.40  marks +1.0
+  HUM       430.60  today -0.29% vs 2wk median 2.00%  %B +1.10  marks +1.0
+  ODFL      182.51  today +0.30% vs 2wk median 1.35%  %B +0.93  marks +1.0
+  RTX       186.81  today +0.45% vs 2wk median 0.63%  %B +0.41  marks +1.0
+  GEV       996.97  today -0.77% vs 2wk median 1.03%  %B +0.74  marks +1.0
+  BKR        56.40  today -0.53% vs 2wk median 1.46%  %B +0.41  marks +0.5
+  BA        189.56  today -0.43% vs 2wk median 1.13%  %B +0.32  marks +0.5
+  BWLP       26.19  today +0.73% vs 2wk median 1.28%  %B +0.79  marks +0.5
+  CRCL       83.51  today -1.18% vs 2wk median 2.22%  %B +0.37  marks +0.5
+  EFX       146.24  today +0.32% vs 2wk median 1.69%  %B +0.41  marks +0.5
+  FQVLF      27.24  today -0.62% vs 2wk median 2.05%  %B +0.23  marks +0.5
+  EPD        36.00  today -0.22% vs 2wk median 1.19%  %B +0.24  marks +0.5
+  EQT        53.22  today +0.73% vs 2wk median 1.53%  %B +0.89  marks +0.5
+  EXE        88.89  today +0.77% vs 2wk median 0.95%  %B +0.66  marks +0.5
+  COPX       85.56  today -0.22% vs 2wk median 1.58%  %B +0.47  marks +0.5
+  JBL       310.66  today +1.43% vs 2wk median 1.96%  %B +0.68  marks +0.5
+  LPG        58.09  today +0.78% vs 2wk median 1.31%  %B +0.76  marks +0.5
+  KKR        91.18  today +0.25% vs 2wk median 0.92%  %B +0.30  marks +0.5
+  OKTA      229.37  today -1.19% vs 2wk median 1.51%  %B +0.91  marks +0.5
+  NOC       484.00  today +0.68% vs 2wk median 0.88%  %B +0.29  marks +0.5
+  KTOS       42.07  today -0.68% vs 2wk median 1.67%  %B +0.23  marks +0.5
+  HAL        32.66  today +0.34% vs 2wk median 0.92%  %B +0.45  marks +0.5
+  SPB        76.65  today -0.92% vs 2wk median 1.17%  %B +0.20  marks +0.5
+  SLB        48.97  today +0.03% vs 2wk median 1.34%  %B +0.26  marks +0.5
+  SCCO      209.08  today -0.06% vs 2wk median 0.79%  %B +0.87  marks +0.5
+  TRU        65.57  today +0.14% vs 2wk median 1.88%  %B +0.39  marks +0.5
+BACKTEST (2y, this universe, entry at the close, ±3% within 5 sessions):
+  ALL days (same-universe baseline)  n267543 · +3% first 38.7% · −3% first 36.8% · both 1.6% · neither 22.9% · ratio 1.05
+  quiet day only                     n134955 · +3% first 38.2% · −3% first 37.0% · both 1.4% · neither 23.4% · ratio 1.03
+  lower band only                    n 28180 · +3% first 39.5% · −3% first 35.5% · both 3.4% · neither 21.6% · ratio 1.11
+  QUIET + LOWER BAND (the screen)    n 10067 · +3% first 38.9% · −3% first 34.9% · both 2.6% · neither 23.5% · ratio 1.11
+— BOTH LEGS LEANING (quiet, positive marks, lower 30% of the band):
+  ONDS        6.72  today -0.22% vs 2wk median 2.25%  %B -0.02  marks +1.0
+  SPB        76.65  today -0.92% vs 2wk median 1.17%  %B +0.20  marks +0.5
+  VRT       239.96  today -1.16% vs 2wk median 1.88%  %B +0.21  marks +1.0
+  KTOS       42.07  today -0.68% vs 2wk median 1.67%  %B +0.23  marks +0.5
+  FQVLF      27.24  today -0.62% vs 2wk median 2.05%  %B +0.23  marks +0.5
+  EPD        36.00  today -0.22% vs 2wk median 1.19%  %B +0.24  marks +0.5
+  PRU       113.20  today +0.10% vs 2wk median 0.83%  %B +0.26  marks +2.0
+  SLB        48.97  today +0.03% vs 2wk median 1.34%  %B +0.26  marks +0.5
+  NOC       484.00  today +0.68% vs 2wk median 0.88%  %B +0.29  marks +0.5
+  HBM        25.92  today -0.78% vs 2wk median 1.54%  %B +0.29  marks +1.5
+  SCHW       96.88  today +0.19% vs 2wk median 1.22%  %B +0.30  marks +2.0
+
+# Mark reasons: ONDS +1 (9/26 USAF ULTRA drone contract more than doubled, $85.6M) · PRU +2, SCHW +2 (9/23 5Y auction tail + real-rate shock: higher yields help insurers/brokers) · HBM +1.5 (10/10 LME copper stocks falling; 9/28 Snow Lake reserve life) · VRT +1 (9/2 grades backfill)

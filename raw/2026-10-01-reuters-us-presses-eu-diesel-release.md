@@ -1,0 +1,11 @@
+# Reuters 2026-10-01 (Renshaw/Abnett/Irish) — "Trump administration told Germany and France to draw down emergency diesel inventories… or face a potential US diesel export ban" — full text pasted by Jake ~3:00pm PT
+- Three people close to the discussions; escalation of pressure ahead of November midterms
+- EU energy taskforce (Commission + 27 members) call FRIDAY MORNING; Commission + DE/FR/IT/UK/IE call held Thursday on possible diesel release
+- IEA has not yet asked Germany to release stocks (German economy ministry); unclear when IEA meets next
+- US frustrated FR/DE have not fully followed through on earlier release commitments
+- European-capital source: US asked EU to release 120 MILLION BARRELS of diesel over the next SIX MONTHS
+- Wright (Fox): "highly confident" Europe can ease prices by drawing stocks; "coordinated release of diesel stores as we go into harvest season and… winter heating oil season… I think we have some positive news coming"
+- Bessent (X): US released 172M bbl under the March IEA agreement; "We look to our allies to match their commitments with action"
+- Russia extended its diesel export ban until end of October (after Ukraine damaged refineries)
+- Chinese refiners suspended October fuel exports to bolster domestic stocks (sources)
+- Elysee: Macron/Trump did not discuss at UNGA; Macron to convene a G7 leaders' video conference on fuel prices + refined-product availability incl. a coordinated reserve release with the IEA

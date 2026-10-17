@@ -108,6 +108,11 @@ def main(tickers):
     print("  ⚠️ the right-hand column is meta.chartPreviousClose — the value that")
     print("     caused the 2026-08-14 error. It is shown ONLY so the gap is visible.")
     print("     Never compute a change from it.")
+    if any(t.upper().endswith("=F") for t in tickers):
+        print("  ⚠️ CONTINUOUS FUTURES (=F): Yahoo can roll the LIVE quote to the next month")
+        print("     while the close history stays on the old one (2026-10-15: HO=F live = Dec,")
+        print("     prior = Nov, showed −5.3% for a −1.6% day). Re-quote the dated contracts")
+        print("     (e.g. HOX26.NYM vs HOZ26.NYM) before quoting any % move.")
 
 
 if __name__ == "__main__":
